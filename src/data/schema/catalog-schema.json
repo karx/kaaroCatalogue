@@ -1,0 +1,263 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "KaaroCatalogue Schema",
+    "description": "Unified catalog schema supporting multiple catalog types with schema.org compatibility",
+    "definitions": {
+        "Catalog": {
+            "type": "object",
+            "properties": {
+                "@context": {
+                    "const": "https://schema.org"
+                },
+                "catalogId": {
+                    "type": "string",
+                    "format": "uuid"
+                },
+                "catalogType": {
+                    "enum": [
+                        "comedy",
+                        "poets",
+                        "custom"
+                    ]
+                },
+                "name": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "createdAt": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "updatedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "metadata": {
+                    "type": "object",
+                    "properties": {
+                        "sources": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "totalEntities": {
+                            "type": "integer"
+                        },
+                        "lastSync": {
+                            "type": "string",
+                            "format": "date-time"
+                        }
+                    }
+                },
+                "entities": {
+                    "type": "array"
+                },
+                "relationships": {
+                    "type": "array"
+                },
+                "tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "catalogId",
+                "catalogType",
+                "name"
+            ]
+        },
+        "Person": {
+            "type": "object",
+            "description": "schema.org/Person - Used for Comedians and Poets",
+            "properties": {
+                "@type": {
+                    "const": "Person"
+                },
+                "entityId": {
+                    "type": "string",
+                    "format": "uuid"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "alternateName": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "additionalType": {
+                    "type": "string",
+                    "description": "e.g., Kavi, Comedian"
+                },
+                "birthDate": {
+                    "type": "string"
+                },
+                "deathDate": {
+                    "type": "string"
+                },
+                "knowsLanguage": {
+                    "type": "string"
+                },
+                "homeLocation": {
+                    "type": "object",
+                    "properties": {
+                        "@type": {
+                            "const": "Place"
+                        },
+                        "name": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "hasOccupation": {
+                    "type": "object",
+                    "properties": {
+                        "@type": {
+                            "const": "Occupation"
+                        },
+                        "name": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "award": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "genre": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "sameAs": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "format": "uri"
+                    }
+                },
+                "keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "verified": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "required": [
+                "@type",
+                "entityId",
+                "name"
+            ]
+        },
+        "Book": {
+            "type": "object",
+            "description": "schema.org/Book - Literary works",
+            "properties": {
+                "@type": {
+                    "const": "Book"
+                },
+                "workId": {
+                    "type": "string",
+                    "format": "uuid"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "author": {
+                    "$ref": "#/definitions/PersonReference"
+                },
+                "inLanguage": {
+                    "type": "string"
+                },
+                "dateCreated": {
+                    "type": "string"
+                },
+                "genre": {
+                    "type": "string"
+                },
+                "abstract": {
+                    "type": "string"
+                },
+                "keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "@type",
+                "workId",
+                "name"
+            ]
+        },
+        "VideoObject": {
+            "type": "object",
+            "description": "schema.org/VideoObject - Comedy performances",
+            "properties": {
+                "@type": {
+                    "const": "VideoObject"
+                },
+                "videoId": {
+                    "type": "string",
+                    "format": "uuid"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "actor": {
+                    "$ref": "#/definitions/PersonReference"
+                },
+                "duration": {
+                    "type": "string",
+                    "description": "ISO 8601 duration"
+                },
+                "embedUrl": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "uploadDate": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "thumbnailUrl": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "contentUrl": {
+                    "type": "string",
+                    "format": "uri"
+                }
+            },
+            "required": [
+                "@type",
+                "videoId",
+                "name"
+            ]
+        },
+        "PersonReference": {
+            "type": "object",
+            "properties": {
+                "@type": {
+                    "const": "Person"
+                },
+                "@id": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

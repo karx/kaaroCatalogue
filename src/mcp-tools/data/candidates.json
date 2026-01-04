@@ -1,0 +1,120 @@
+{
+  "pending": [
+    {
+      "name": "A. M. Turaz",
+      "wikiUrl": "https://en.wikipedia.org/wiki/A._M._Turaz",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:33:18.781Z"
+    },
+    {
+      "name": "Aalok Shrivastav",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Aalok_Shrivastav",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:33:18.781Z"
+    },
+    {
+      "name": "Aam Aadmi Party",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:33:18.781Z"
+    },
+    {
+      "name": "Abdul Rahim Khan-I-Khana",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abdul_Rahim_Khan-I-Khana",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:33:18.781Z"
+    },
+    {
+      "name": "Academic staff",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Academic_staff",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:33:18.781Z"
+    },
+    {
+      "name": "Abdul-Qādir Bedil",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abdul-Q%C4%81dir_Bedil",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.352Z"
+    },
+    {
+      "name": "Abdul Hamid",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abdul_Hamid",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Abdur Rauf Urooj",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abdur_Rauf_Urooj",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Abid Ali Abid",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abid_Ali_Abid",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Abr Ahasani Gunnauri",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Abr_Ahasani_Gunnauri",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Ada Jafri",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Ada_Jafri",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Adil Mansuri",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Adil_Mansuri",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Aftab Iqbal Shamim",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Aftab_Iqbal_Shamim",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    },
+    {
+      "name": "Afzal Ahmed Syed",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Afzal_Ahmed_Syed",
+      "snippet": "",
+      "source": "wikipedia",
+      "discoveredAt": "2026-01-04T17:36:13.353Z"
+    }
+  ],
+  "extracted": [
+    {
+      "name": "Kabir",
+      "extractedAt": "2026-01-04T17:33:32.234Z"
+    },
+    {
+      "name": "Mir Taqi Mir",
+      "extractedAt": "2026-01-04T17:36:26.929Z"
+    },
+    {
+      "name": "Faiz Ahmed Faiz",
+      "extractedAt": "2026-01-04T17:36:28.845Z"
+    },
+    {
+      "name": "Allama Iqbal",
+      "extractedAt": "2026-01-04T17:36:30.806Z"
+    }
+  ]
+}

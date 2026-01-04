@@ -1,0 +1,60 @@
+{
+    "poets": {
+        "wikipedia": [
+            {
+                "name": "List of Hindi poets",
+                "url": "https://en.wikipedia.org/wiki/List_of_Hindi_poets",
+                "language": "Hindi"
+            },
+            {
+                "name": "List of Tamil poets",
+                "url": "https://en.wikipedia.org/wiki/List_of_Tamil_poets",
+                "language": "Tamil"
+            },
+            {
+                "name": "List of Telugu poets",
+                "url": "https://en.wikipedia.org/wiki/List_of_Telugu_poets",
+                "language": "Telugu"
+            },
+            {
+                "name": "List of Bengali poets and authors",
+                "url": "https://en.wikipedia.org/wiki/List_of_Bengali_poets_and_authors",
+                "language": "Bengali"
+            },
+            {
+                "name": "List of Kannada poets",
+                "url": "https://en.wikipedia.org/wiki/List_of_Kannada-language_poets",
+                "language": "Kannada"
+            },
+            {
+                "name": "List of Marathi poets",
+                "url": "https://en.wikipedia.org/wiki/Category:Marathi-language_poets",
+                "language": "Marathi"
+            },
+            {
+                "name": "List of Urdu poets",
+                "url": "https://en.wikipedia.org/wiki/List_of_Urdu_poets",
+                "language": "Urdu"
+            },
+            {
+                "name": "List of Sanskrit poets",
+                "url": "https://en.wikipedia.org/wiki/Category:Sanskrit_poets",
+                "language": "Sanskrit"
+            }
+        ]
+    },
+    "comedy": {
+        "wikipedia": [
+            {
+                "name": "List of stand-up comedians",
+                "url": "https://en.wikipedia.org/wiki/List_of_stand-up_comedians",
+                "region": "Global"
+            },
+            {
+                "name": "Indian stand-up comedians",
+                "url": "https://en.wikipedia.org/wiki/Category:Indian_stand-up_comedians",
+                "region": "India"
+            }
+        ]
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "@context": "https://schema.org",
+    "catalogId": "comedy-index-001",
+    "catalogType": "comedy",
+    "name": "Global Stand-Up Comedy Index",
+    "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
+    "createdAt": "2026-01-04T20:30:00+05:30",
+    "updatedAt": "2026-01-04T20:30:00+05:30",
+    "metadata": {
+        "sources": [
+            "YouTube",
+            "Comedy Central",
+            "Netflix is a Joke",
+            "Dry Bar Comedy"
+        ],
+        "totalEntities": 5,
+        "lastSync": "2026-01-04T20:30:00+05:30"
+    },
+    "entities": [
+        {
+            "@type": "Person",
+            "entityId": "comedian-001",
+            "name": "John Mulaney",
+            "alternateName": [],
+            "knowsLanguage": "en",
+            "homeLocation": {
+                "@type": "Place",
+                "name": "New York, USA"
+            },
+            "genre": [
+                "observational",
+                "storytelling"
+            ],
+            "sameAs": [
+                "https://www.youtube.com/@JohnMulaney",
+                "https://en.wikipedia.org/wiki/John_Mulaney"
+            ],
+            "award": [
+                "Emmy Award",
+                "WGA Award"
+            ],
+            "keywords": [
+                "SNL",
+                "Kid Gorgeous",
+                "Netflix"
+            ],
+            "verified": true
+        },
+        {
+            "@type": "Person",
+            "entityId": "comedian-002",
+            "name": "Hasan Minhaj",
+            "alternateName": [],
+            "knowsLanguage": "en",
+            "homeLocation": {
+                "@type": "Place",
+                "name": "California, USA"
+            },
+            "genre": [
+                "political",
+                "observational",
+                "storytelling"
+            ],
+            "sameAs": [
+                "https://www.youtube.com/@HasanMinhaj",
+                "https://en.wikipedia.org/wiki/Hasan_Minhaj"
+            ],
+            "award": [
+                "Peabody Award"
+            ],
+            "keywords": [
+                "Patriot Act",
+                "Indian-American",
+                "Netflix"
+            ],
+            "verified": true
+        },
+        {
+            "@type": "Person",
+            "entityId": "comedian-003",
+            "name": "Vir Das",
+            "alternateName": [],
+            "knowsLanguage": "en",
+            "homeLocation": {
+                "@type": "Place",
+                "name": "Mumbai, India"
+            },
+            "genre": [
+                "observational",
+                "political",
+                "crowd-work"
+            ],
+            "sameAs": [
+                "https://www.youtube.com/@VirDas",
+                "https://en.wikipedia.org/wiki/Vir_Das"
+            ],
+            "award": [
+                "International Emmy Nomination"
+            ],
+            "keywords": [
+                "India",
+                "Netflix",
+                "Abroad Understanding"
+            ],
+            "verified": true
+        },
+        {
+            "@type": "Person",
+            "entityId": "comedian-004",
+            "name": "Taylor Tomlinson",
+            "alternateName": [],
+            "knowsLanguage": "en",
+            "homeLocation": {
+                "@type": "Place",
+                "name": "California, USA"
+            },
+            "genre": [
+                "observational",
+                "self-deprecating"
+            ],
+            "sameAs": [
+                "https://www.youtube.com/@TaylorTomlinson"
+            ],
+            "award": [],
+            "keywords": [
+                "After Midnight",
+                "Netflix",
+                "Quarter-Life Crisis"
+            ],
+            "verified": true
+        },
+        {
+            "@type": "Person",
+            "entityId": "comedian-005",
+            "name": "Zakir Khan",
+            "alternateName": [
+                "Sakht Launda"
+            ],
+            "knowsLanguage": "hi",
+            "homeLocation": {
+                "@type": "Place",
+                "name": "Indore, India"
+            },
+            "genre": [
+                "observational",
+                "storytelling",
+                "hinglish"
+            ],
+            "sameAs": [
+                "https://www.youtube.com/@ZakirKhan",
+                "https://en.wikipedia.org/wiki/Zakir_Khan_(comedian)"
+            ],
+            "award": [],
+            "keywords": [
+                "Amazon Prime",
+                "Haq Se Single",
+                "Indian"
+            ],
+            "verified": true
+        }
+    ],
+    "videos": [
+        {
+            "@type": "VideoObject",
+            "videoId": "video-001",
+            "name": "John Mulaney - Kid Gorgeous (Excerpt)",
+            "actor": {
+                "@type": "Person",
+                "@id": "comedian-001"
+            },
+            "duration": "PT65M",
+            "embedUrl": "https://www.youtube.com/watch?v=example1",
+            "uploadDate": "2018-05-01",
+            "genre": "Stand-Up Special"
+        },
+        {
+            "@type": "VideoObject",
+            "videoId": "video-002",
+            "name": "Vir Das - Two Indias",
+            "actor": {
+                "@type": "Person",
+                "@id": "comedian-003"
+            },
+            "duration": "PT7M",
+            "embedUrl": "https://www.youtube.com/watch?v=example2",
+            "uploadDate": "2021-11-15",
+            "genre": "Performance"
+        }
+    ],
+    "tags": [
+        "stand-up",
+        "comedy",
+        "youtube",
+        "global"
+    ]
+}

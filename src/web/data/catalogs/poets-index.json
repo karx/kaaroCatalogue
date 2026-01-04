@@ -1,0 +1,1638 @@
+{
+  "@context": "https://schema.org",
+  "catalogId": "poets-index-001",
+  "catalogType": "poets",
+  "name": "Indian Kavi Index",
+  "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
+  "createdAt": "2026-01-04T20:30:00+05:30",
+  "updatedAt": "2026-01-04T18:12:53.872Z",
+  "metadata": {
+    "sources": [
+      "Wikipedia",
+      "Sahitya Akademi",
+      "Jnanpith Archives"
+    ],
+    "totalEntities": 45,
+    "lastSync": "2026-01-04T20:30:00+05:30"
+  },
+  "entities": [
+    {
+      "@type": "Person",
+      "entityId": "poet-001",
+      "name": "Kalidasa",
+      "additionalType": "Kavi",
+      "birthDate": "4th Century CE",
+      "deathDate": "5th Century CE",
+      "knowsLanguage": "Sanskrit",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Gupta Empire"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Court Poet"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kalidasa"
+      ],
+      "keywords": [
+        "Mahakavya",
+        "Nataka",
+        "Khandakavya",
+        "Golden Age",
+        "Gupta Empire"
+      ],
+      "era": "Classical",
+      "century": "4th-5th Century CE",
+      "titles": [
+        "Kavikula Guru",
+        "The Shakespeare of India"
+      ],
+      "abstract": "Universally acknowledged as the greatest Sanskrit poet. His works are characterized by Vaidarbhi Riti (lucid, sweet style), profound empathy with nature, and mastery of Upama (simile).",
+      "majorWorks": [
+        "Raghuvamsha",
+        "Kumarasambhava",
+        "Meghaduta",
+        "Abhijnanashakuntala",
+        "Ritusamhara"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-002",
+      "name": "Kabir",
+      "additionalType": "Kavi",
+      "birthDate": "1440",
+      "deathDate": "1518",
+      "knowsLanguage": "Hindi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Varanasi"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Weaver, Poet-Saint"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kabir"
+      ],
+      "keywords": [
+        "Doha",
+        "Sakhi",
+        "Islamic-Hindu Synthesis",
+        "Iconoclasm"
+      ],
+      "era": "Bhakti",
+      "century": "15th Century",
+      "literaryMovement": "Nirguna Bhakti",
+      "philosophicalSchool": "Sant Mat",
+      "titles": [
+        "Weaver Saint"
+      ],
+      "abstract": "A weaver at the intersection of Hinduism and Islam. His Bijak and Sakhi Granth consist of iconoclastic couplets ridiculing blind ritualism. 'Moko kahan dhundhe re bande' encapsulates his philosophy.",
+      "majorWorks": [
+        "Bijak",
+        "Sakhi Granth"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-003",
+      "name": "Rabindranath Tagore",
+      "additionalType": "Kavi",
+      "birthDate": "1861",
+      "deathDate": "1941",
+      "knowsLanguage": "Bengali",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Kolkata, Bengal"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Polymath"
+      },
+      "award": [
+        "Nobel Prize in Literature (1913)",
+        "Knighthood (returned)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+      ],
+      "keywords": [
+        "Gitanjali",
+        "Nobel Prize",
+        "National Anthems",
+        "Renaissance"
+      ],
+      "era": "Modern",
+      "century": "19th-20th Century",
+      "titles": [
+        "Gurudev",
+        "Nobel Laureate (1913)"
+      ],
+      "abstract": "A colossal figure who reshaped Bengali consciousness. Won the Nobel Prize in 1913 for Gitanjali. Penned national anthems of India and Bangladesh.",
+      "majorWorks": [
+        "Gitanjali",
+        "Sonar Tari",
+        "Balaka",
+        "Jana Gana Mana"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-004",
+      "name": "Mirza Ghalib",
+      "additionalType": "Kavi",
+      "birthDate": "1797",
+      "deathDate": "1869",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Delhi"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Court Poet"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Mirza_Ghalib"
+      ],
+      "keywords": [
+        "Ghazal",
+        "Philosophy",
+        "Love",
+        "Skepticism"
+      ],
+      "era": "Medieval",
+      "century": "19th Century",
+      "titles": [
+        "Mirza",
+        "Asadullah Khan Ghalib"
+      ],
+      "abstract": "The towering figure of Urdu literature. Ghalib's poetry is philosophical, skeptical, and intellectually demanding. His Diwan-e-Ghalib is a concise masterpiece.",
+      "majorWorks": [
+        "Diwan-e-Ghalib",
+        "Ghalib ke Khutoot"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-005",
+      "name": "Thiruvalluvar",
+      "additionalType": "Kavi",
+      "birthDate": "Unknown (Sangam Era)",
+      "knowsLanguage": "Tamil",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Tamil Nadu"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Philosopher"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Thiruvalluvar"
+      ],
+      "keywords": [
+        "Tirukkural",
+        "Ethics",
+        "Didactic Poetry",
+        "Secular Philosophy"
+      ],
+      "era": "Sangam",
+      "century": "1st Century BCE",
+      "titles": [
+        "Poet of the Kural"
+      ],
+      "abstract": "Author of Tirukkural, 1330 couplets on Aram (Virtue), Porul (Wealth), and Inbam (Love). Celebrated for its secular, universal ethics applicable across religions and cultures.",
+      "majorWorks": [
+        "Tirukkural"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-006",
+      "name": "Tukaram",
+      "additionalType": "Kavi",
+      "birthDate": "1608",
+      "deathDate": "1649",
+      "knowsLanguage": "Marathi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Dehu, Maharashtra"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet-Saint, Grocer"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Tukaram"
+      ],
+      "keywords": [
+        "Abhanga",
+        "Vitthala",
+        "Autobiography",
+        "Shudra Saint"
+      ],
+      "era": "Bhakti",
+      "century": "17th Century",
+      "literaryMovement": "Varkari",
+      "titles": [
+        "Sant Tukaram"
+      ],
+      "abstract": "A Shudra grocer whose Abhangas are the crowning glory of Varkari poetry. His poems are autobiographical, documenting struggle from worldly failure to spiritual realization.",
+      "majorWorks": [
+        "Tukaram Gatha"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-007",
+      "name": "Basavanna",
+      "additionalType": "Kavi",
+      "birthDate": "1131",
+      "deathDate": "1196",
+      "knowsLanguage": "Kannada",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Karnataka"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Statesman, Poet-Saint"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Basava"
+      ],
+      "keywords": [
+        "Vachana",
+        "Anti-Caste",
+        "Temple Rejection",
+        "Social Reform"
+      ],
+      "era": "Bhakti",
+      "century": "12th Century",
+      "literaryMovement": "Virashaiva",
+      "philosophicalSchool": "Vachanakara",
+      "titles": [
+        "Statesman-Saint"
+      ],
+      "abstract": "A statesman who led the Virashaiva movement. His Vachanas rejected temple worship and caste, famously stating 'The rich make temples for Shiva; what shall I, a poor man, do? My legs are pillars.'",
+      "majorWorks": [
+        "Vachana Sahitya"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-008",
+      "name": "Faiz Ahmed Faiz",
+      "additionalType": "Kavi",
+      "birthDate": "1911",
+      "deathDate": "1984",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Sialkot, Punjab"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Journalist"
+      },
+      "award": [
+        "Lenin Peace Prize"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Faiz_Ahmed_Faiz"
+      ],
+      "keywords": [
+        "Marxist-Romantic",
+        "Revolution",
+        "Hum Dekhenge",
+        "Prison Poetry"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Progressive Writers",
+      "abstract": "A Marxist-Romantic. His Naqsh-e-Faryadi and Zindan-Nama blend lyrical beauty of the ghazal with revolutionary politics. 'Hum Dekhenge' became an anthem of protest across South Asia.",
+      "majorWorks": [
+        "Naqsh-e-Faryadi",
+        "Zindan-Nama",
+        "Dast-e-Saba"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-mir-taqi-mir-mk00jxnz",
+      "name": "Mir Taqi Mir",
+      "additionalType": "Kavi",
+      "birthDate": "February 1723",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Agra, Agra Subah, [[Mughal Empire"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Mir_Taqi_Mir"
+      ],
+      "keywords": [
+        "Ghazal",
+        "Pathos",
+        "Delhi",
+        "Tragedy"
+      ],
+      "abstract": "Known as Khuda-e-Sukhan (God of Poetry). His ghazals are marked by pathos (soz) and simplicity. Witnessing Delhi's devastation, his poetry reflects both personal and civilizational tragedy.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mir_Taqi_Mir",
+      "extractedAt": "2026-01-04T17:36:26.927Z",
+      "confidence": 0.7,
+      "era": "Medieval",
+      "century": "18th Century",
+      "titles": [
+        "Khuda-e-Sukhan",
+        "God of Poetry"
+      ],
+      "majorWorks": [
+        "Kulliyat-e-Mir",
+        "Zikr-e-Mir"
+      ]
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-allama-iqbal-mk00k0nn",
+      "name": "Allama Iqbal",
+      "additionalType": "Kavi",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Muhammad_Iqbal"
+      ],
+      "sourceUrl": "https://en.wikipedia.org/wiki/Allama_Iqbal",
+      "extractedAt": "2026-01-04T17:36:30.803Z",
+      "confidence": 0.5,
+      "knowsLanguage": "Urdu",
+      "era": "Modern",
+      "century": "19th-20th Century",
+      "titles": [
+        "Poet of the East",
+        "Shair-e-Mashriq"
+      ],
+      "keywords": [
+        "Khudi",
+        "Selfhood",
+        "Pan-Islamic",
+        "Sare Jahan Se Achha"
+      ],
+      "abstract": "The philosopher-poet who moved from Indian nationalism (Sare Jahan Se Achha) to pan-Islamic thought. Explored the concept of Khudi (Selfhood) and the destiny of the East.",
+      "majorWorks": [
+        "Bang-e-Dra",
+        "Bal-e-Jibril",
+        "Zarb-e-Kalim"
+      ]
+    },
+    {
+      "entityId": "poet-bharavi",
+      "name": "Bharavi",
+      "@type": "Person",
+      "knowsLanguage": "Sanskrit",
+      "era": "Classical",
+      "century": "6th Century CE",
+      "titles": [
+        "Brihattrayi Poet"
+      ],
+      "keywords": [
+        "Mahakavya",
+        "Artha-gauravam",
+        "Mahabharata"
+      ],
+      "abstract": "One of the Brihattrayi (Great Trio) of Sanskrit poets, famous for Artha-gauravam (depth of meaning). His Kiratarjuniya includes verses that read the same backwards and forwards.",
+      "majorWorks": [
+        "Kiratarjuniya"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Bharavi"
+      ]
+    },
+    {
+      "entityId": "poet-magha",
+      "name": "Magha",
+      "@type": "Person",
+      "knowsLanguage": "Sanskrit",
+      "era": "Classical",
+      "century": "7th Century CE",
+      "titles": [
+        "Brihattrayi Poet"
+      ],
+      "keywords": [
+        "Mahakavya",
+        "Krishna",
+        "Shishupala"
+      ],
+      "abstract": "Said to combine the qualities of Kalidasa (simile), Bharavi (depth), and Dandin (wordplay). His epic is encyclopedic, containing descriptions of politics, war, and romance.",
+      "majorWorks": [
+        "Shishupala Vadha"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Magha_(poet)"
+      ]
+    },
+    {
+      "entityId": "poet-jayadeva",
+      "name": "Jayadeva",
+      "@type": "Person",
+      "knowsLanguage": "Sanskrit",
+      "era": "Classical",
+      "century": "12th Century",
+      "literaryMovement": "Bhakti Transition",
+      "keywords": [
+        "Gita Govinda",
+        "Radha-Krishna",
+        "Odissi",
+        "Devotional Poetry"
+      ],
+      "abstract": "His Gita Govinda bridges the classical and Bhakti eras. A lyrical sequence celebrating the erotic-spiritual love of Radha and Krishna, it profoundly influenced the Odissi and Manipuri dance forms.",
+      "majorWorks": [
+        "Gita Govinda"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Jayadeva"
+      ]
+    },
+    {
+      "entityId": "poet-bhasa",
+      "name": "Bhasa",
+      "@type": "Person",
+      "knowsLanguage": "Sanskrit",
+      "era": "Classical",
+      "century": "2nd-3rd Century CE",
+      "keywords": [
+        "Nataka",
+        "Drama",
+        "Tragedy"
+      ],
+      "abstract": "A predecessor to Kalidasa, known for Urubhangam (The Breaking of Thighs), a rare Sanskrit tragedy where the hero Duryodhana dies on stage, defying dramatic conventions.",
+      "majorWorks": [
+        "Svapnavasavadattam",
+        "Urubhangam"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Bhasa"
+      ]
+    },
+    {
+      "entityId": "poet-ilango-adigal",
+      "name": "Ilango Adigal",
+      "@type": "Person",
+      "knowsLanguage": "Tamil",
+      "era": "Sangam",
+      "century": "2nd Century CE",
+      "keywords": [
+        "Silappadikaram",
+        "Epic",
+        "Jain Monk",
+        "Kannagi"
+      ],
+      "abstract": "Jain monk-prince who wrote Silappadikaram (Tale of the Anklet), a masterpiece blending the three Tamil kingdoms and three religions. The climax, where Kannagi burns Madurai, defines Tamil culture.",
+      "majorWorks": [
+        "Silappadikaram"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Silappatikaram"
+      ]
+    },
+    {
+      "entityId": "poet-kamban",
+      "name": "Kamban",
+      "@type": "Person",
+      "knowsLanguage": "Tamil",
+      "era": "Medieval",
+      "century": "12th Century",
+      "titles": [
+        "Kavichakravarthi",
+        "Emperor of Poets"
+      ],
+      "keywords": [
+        "Kamba Ramayanam",
+        "Epic",
+        "Ravana"
+      ],
+      "abstract": "The 'Emperor of Poets.' His Iramavataram (Kamba Ramayanam) is considered the greatest Tamil literary work, where Ravana is a tragic, magnificent anti-hero. Noted for rhythm and musicality.",
+      "majorWorks": [
+        "Kamba Ramayanam"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kambar_(poet)"
+      ]
+    },
+    {
+      "entityId": "poet-andal",
+      "name": "Andal",
+      "@type": "Person",
+      "knowsLanguage": "Tamil",
+      "era": "Bhakti",
+      "century": "8th Century",
+      "literaryMovement": "Alvar Saints",
+      "titles": [
+        "Nachiyar",
+        "The Only Female Alvar"
+      ],
+      "keywords": [
+        "Thiruppavai",
+        "Bridal Mysticism",
+        "Vishnu Devotion"
+      ],
+      "abstract": "The only female Alvar. Her Thiruppavai and Nachiyar Tirumoli express intense, bridal longing for Vishnu. Her poetry is used in Tamil weddings and festivals to this day.",
+      "majorWorks": [
+        "Thiruppavai",
+        "Nachiyar Tirumoli"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Andal"
+      ]
+    },
+    {
+      "entityId": "poet-tulsidas",
+      "name": "Tulsidas",
+      "@type": "Person",
+      "knowsLanguage": "Awadhi",
+      "era": "Bhakti",
+      "century": "16th Century",
+      "literaryMovement": "Saguna Bhakti",
+      "titles": [
+        "Goswami"
+      ],
+      "keywords": [
+        "Ramcharitmanas",
+        "Rama",
+        "Devotion",
+        "Epic"
+      ],
+      "abstract": "His Ramcharitmanas, written in Awadhi, made the story of Rama accessible to the common man, replacing Valmiki's Sanskrit text in popular consciousness. A work of immense Bhakti.",
+      "majorWorks": [
+        "Ramcharitmanas",
+        "Vinaya Patrika",
+        "Kavitavali"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Tulsidas"
+      ]
+    },
+    {
+      "entityId": "poet-surdas",
+      "name": "Surdas",
+      "@type": "Person",
+      "knowsLanguage": "Braj Bhasha",
+      "era": "Bhakti",
+      "century": "16th Century",
+      "literaryMovement": "Saguna Bhakti",
+      "titles": [
+        "The Blind Poet"
+      ],
+      "keywords": [
+        "Sur Sagar",
+        "Krishna",
+        "Vatsalya Rasa",
+        "Childhood"
+      ],
+      "abstract": "The blind poet of the Pushtimarg sect. His Sur Sagar contains thousands of songs focusing on Krishna's childhood. His depiction of Vatsalya Rasa (parental love) is unparalleled.",
+      "majorWorks": [
+        "Sur Sagar"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Surdas"
+      ]
+    },
+    {
+      "entityId": "poet-meera-bai",
+      "name": "Meera Bai",
+      "@type": "Person",
+      "knowsLanguage": "Rajasthani",
+      "era": "Bhakti",
+      "century": "16th Century",
+      "literaryMovement": "Madhurya Bhakti",
+      "titles": [
+        "Saint of Rajasthan"
+      ],
+      "keywords": [
+        "Padavali",
+        "Krishna",
+        "Feminist Resistance",
+        "Bridal Mysticism"
+      ],
+      "abstract": "A Rajput princess who defied royal conventions to worship Krishna. Her Padavalis express Madhurya Bhakti (bridal mysticism), rejecting her earthly husband for the divine Giridhara Gopala.",
+      "majorWorks": [
+        "Meera Padavali"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Meera"
+      ]
+    },
+    {
+      "entityId": "poet-akka-mahadevi",
+      "name": "Akka Mahadevi",
+      "@type": "Person",
+      "knowsLanguage": "Kannada",
+      "era": "Bhakti",
+      "century": "12th Century",
+      "literaryMovement": "Virashaiva",
+      "titles": [
+        "Akka"
+      ],
+      "keywords": [
+        "Vachana",
+        "Feminine Mysticism",
+        "Radical Rejection"
+      ],
+      "abstract": "A radical female mystic who wandered naked, covered only by her hair. Her Vachanas address Shiva as Chennamallikarjuna, expressing fierce rejection of patriarchal society.",
+      "majorWorks": [
+        "Vachana Sahitya"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Akka_Mahadevi"
+      ]
+    },
+    {
+      "entityId": "poet-dnyaneshwar",
+      "name": "Dnyaneshwar",
+      "@type": "Person",
+      "knowsLanguage": "Marathi",
+      "era": "Bhakti",
+      "century": "13th Century",
+      "literaryMovement": "Varkari",
+      "titles": [
+        "Sant Dnyaneshwar"
+      ],
+      "keywords": [
+        "Dnyaneshwari",
+        "Bhagavad Gita",
+        "Philosophy",
+        "Vernacular"
+      ],
+      "abstract": "Wrote the Dnyaneshwari (a Marathi commentary on the Gita) and Amrutanubhav. Laid the foundation of Marathi language by translating complex Sanskrit philosophy into vernacular.",
+      "majorWorks": [
+        "Dnyaneshwari",
+        "Amrutanubhav"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Dnyaneshwar"
+      ]
+    },
+    {
+      "entityId": "poet-narsinh-mehta",
+      "name": "Narsinh Mehta",
+      "@type": "Person",
+      "knowsLanguage": "Gujarati",
+      "era": "Bhakti",
+      "century": "15th Century",
+      "titles": [
+        "Adi Kavi of Gujarati"
+      ],
+      "keywords": [
+        "Prabhatiyas",
+        "Vaishnav Jan To",
+        "Gandhi"
+      ],
+      "abstract": "The Adi Kavi of Gujarati. His Prabhatiyas and 'Vaishnav Jan To' defined the ideal devotee for Mahatma Gandhi. Central to Gujarati culture.",
+      "majorWorks": [
+        "Prabhatiyas",
+        "Vaishnav Jan To",
+        "Mameru"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Narsinh_Mehta"
+      ]
+    },
+    {
+      "entityId": "poet-waris-shah",
+      "name": "Waris Shah",
+      "@type": "Person",
+      "knowsLanguage": "Punjabi",
+      "era": "Medieval",
+      "century": "18th Century",
+      "literaryMovement": "Sufi Qissa",
+      "keywords": [
+        "Heer Ranjha",
+        "Qissa",
+        "Tragic Romance",
+        "Punjab"
+      ],
+      "abstract": "Author of Heer Ranjha, the defining text of Punjabi identity. It narrates doomed love while critiquing the clergy and social order. Often called 'the Quran of Punjab.'",
+      "majorWorks": [
+        "Heer Ranjha"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Waris_Shah"
+      ]
+    },
+    {
+      "entityId": "poet-bulleh-shah",
+      "name": "Bulleh Shah",
+      "@type": "Person",
+      "knowsLanguage": "Punjabi",
+      "era": "Medieval",
+      "century": "18th Century",
+      "literaryMovement": "Sufi",
+      "philosophicalSchool": "Sufi Mysticism",
+      "keywords": [
+        "Kafi",
+        "Humanism",
+        "Anti-Orthodoxy"
+      ],
+      "abstract": "A Sufi mystic whose Kafis are sung across South Asia. A radical humanist who challenged religious orthodoxy, famously asking 'Bulleya Ki Jaana Main Kaun' (O Bulleh, who knows who I am?).",
+      "majorWorks": [
+        "Bulleh Shah Kafiyaan"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Bulleh_Shah"
+      ]
+    },
+    {
+      "entityId": "poet-shah-latif-bhittai",
+      "name": "Shah Abdul Latif Bhittai",
+      "@type": "Person",
+      "knowsLanguage": "Sindhi",
+      "era": "Medieval",
+      "century": "18th Century",
+      "literaryMovement": "Sufi",
+      "keywords": [
+        "Shah Jo Risalo",
+        "Folk Tales",
+        "Musical Modes"
+      ],
+      "abstract": "His Shah Jo Risalo is the magnum opus of Sindhi literature. It organizes Sufi poetry based on musical modes (Sur) of local folk tales. Heroines serve as allegories for the seeking soul.",
+      "majorWorks": [
+        "Shah Jo Risalo"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Shah_Abdul_Latif_Bhittai"
+      ]
+    },
+    {
+      "entityId": "poet-lal-ded",
+      "name": "Lal Ded",
+      "@type": "Person",
+      "knowsLanguage": "Kashmiri",
+      "era": "Medieval",
+      "century": "14th Century",
+      "literaryMovement": "Kashmir Shaivism-Sufi",
+      "titles": [
+        "Lalla",
+        "Lalleshwari"
+      ],
+      "keywords": [
+        "Vakh",
+        "Shaivism",
+        "Mysticism"
+      ],
+      "abstract": "Her Vakhs (four-line sayings) synthesize Kashmir Shaivism and Sufism. She wandered naked, rejecting societal norms, preaching the oneness of Self and Shiva.",
+      "majorWorks": [
+        "Lal Vakhs"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Lal_Ded"
+      ]
+    },
+    {
+      "entityId": "poet-habba-khatoon",
+      "name": "Habba Khatoon",
+      "@type": "Person",
+      "knowsLanguage": "Kashmiri",
+      "era": "Medieval",
+      "century": "16th Century",
+      "titles": [
+        "Nightingale of Kashmir"
+      ],
+      "keywords": [
+        "Lol",
+        "Lyric",
+        "Separation",
+        "Royal"
+      ],
+      "abstract": "The 'Nightingale of Kashmir.' A peasant girl who became Queen, she introduced the Lol (lyric) form. Her songs express sorrow of separation from her husband, exiled by Akbar.",
+      "majorWorks": [
+        "Habba Khatoon Lyrics"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Habba_Khatun"
+      ]
+    },
+    {
+      "entityId": "poet-kazi-nazrul",
+      "name": "Kazi Nazrul Islam",
+      "@type": "Person",
+      "knowsLanguage": "Bengali",
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Bidrohi Kabi",
+        "Rebel Poet",
+        "National Poet of Bangladesh"
+      ],
+      "keywords": [
+        "Bidrohi",
+        "Rebellion",
+        "Anti-Colonial",
+        "Islamic Poetry"
+      ],
+      "abstract": "The 'Rebel Poet' whose poem Bidrohi challenged both the British Raj and religious dogmatism with thunderous imagery. Reinvigorated Bengali poetry with Arabic and Persian vocabulary.",
+      "majorWorks": [
+        "Bidrohi",
+        "Agni-Veena"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam"
+      ]
+    },
+    {
+      "entityId": "poet-jibanananda-das",
+      "name": "Jibanananda Das",
+      "@type": "Person",
+      "knowsLanguage": "Bengali",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Modernism",
+      "keywords": [
+        "Ruposhi Bangla",
+        "Banalata Sen",
+        "Surrealism",
+        "Rural Bengal"
+      ],
+      "abstract": "The poet of Ruposhi Bangla (Beautiful Bengal). Introduced modernism, surrealism, and deep engagement with rural landscape. Banalata Sen is one of the most famous Bengali poems.",
+      "majorWorks": [
+        "Ruposhi Bangla",
+        "Banalata Sen"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Jibanananda_Das"
+      ]
+    },
+    {
+      "entityId": "poet-subramania-bharati",
+      "name": "Subramania Bharati",
+      "@type": "Person",
+      "knowsLanguage": "Tamil",
+      "era": "Modern",
+      "century": "19th-20th Century",
+      "titles": [
+        "Mahakavi"
+      ],
+      "keywords": [
+        "Freedom Fighter",
+        "Women's Rights",
+        "Nationalism",
+        "Krishna"
+      ],
+      "abstract": "The Mahakavi who initiated Tamil's modern era. Used Draupadi's humiliation as allegory for India under British rule. Advocated for women's freedom (Pudhumai Penn).",
+      "majorWorks": [
+        "Panchali Sapatham",
+        "Kuyil Pattu",
+        "Kannan Pattu"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Subramania_Bharati"
+      ]
+    },
+    {
+      "entityId": "poet-jaishankar-prasad",
+      "name": "Jaishankar Prasad",
+      "@type": "Person",
+      "knowsLanguage": "Hindi",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Chhayavaad",
+      "keywords": [
+        "Kamayani",
+        "Romanticism",
+        "Psychological Allegory"
+      ],
+      "abstract": "A key figure of Chhayavaad. His epic Kamayani (1936) is a psychological allegory based on the Vedic flood myth of Manu, exploring Id, Ego, and Super-Ego.",
+      "majorWorks": [
+        "Kamayani"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Jaishankar_Prasad"
+      ]
+    },
+    {
+      "entityId": "poet-nirala",
+      "name": "Suryakant Tripathi 'Nirala'",
+      "@type": "Person",
+      "knowsLanguage": "Hindi",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Chhayavaad",
+      "titles": [
+        "Nirala"
+      ],
+      "keywords": [
+        "Free Verse",
+        "Saroj Smriti",
+        "Revolution"
+      ],
+      "abstract": "A revolutionary who broke rigid rules of meter. Saroj Smriti is a heartbreaking elegy for his daughter. Ram Ki Shakti Puja reimagines Rama as a human struggling with despair.",
+      "majorWorks": [
+        "Saroj Smriti",
+        "Ram Ki Shakti Puja",
+        "Parimal"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Suryakant_Tripathi_%27Nirala%27"
+      ]
+    },
+    {
+      "entityId": "poet-mahadevi-varma",
+      "name": "Mahadevi Varma",
+      "@type": "Person",
+      "knowsLanguage": "Hindi",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Chhayavaad",
+      "titles": [
+        "Modern Meera"
+      ],
+      "award": [
+        "Jnanpith Award (1982)"
+      ],
+      "keywords": [
+        "Yama",
+        "Mystical Longing",
+        "Feminine Poetry"
+      ],
+      "abstract": "The 'Modern Meera.' Her collection Yama and Deepshikha explore the pain of existence and mystical longing. A Jnanpith laureate.",
+      "majorWorks": [
+        "Yama",
+        "Deepshikha"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Mahadevi_Varma"
+      ]
+    },
+    {
+      "entityId": "poet-dinkar",
+      "name": "Ramdhari Singh 'Dinkar'",
+      "@type": "Person",
+      "knowsLanguage": "Hindi",
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Rashtrakavi",
+        "National Poet"
+      ],
+      "award": [
+        "Jnanpith Award (1972)"
+      ],
+      "keywords": [
+        "Rashmirathi",
+        "Urvashi",
+        "Karna",
+        "Nationalism"
+      ],
+      "abstract": "The Rashtrakavi (National Poet). His Rashmirathi centers on Karna from the Mahabharata, questioning caste and celebrating merit. Urvashi is a philosophical exploration of love.",
+      "majorWorks": [
+        "Rashmirathi",
+        "Urvashi",
+        "Kurukshetra"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar"
+      ]
+    },
+    {
+      "entityId": "poet-kuvempu",
+      "name": "Kuvempu",
+      "@type": "Person",
+      "knowsLanguage": "Kannada",
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Rashtrakavi of Karnataka"
+      ],
+      "award": [
+        "Jnanpith Award (1967)"
+      ],
+      "keywords": [
+        "Sri Ramayana Darshanam",
+        "Vishwa Manava",
+        "Universalism"
+      ],
+      "abstract": "The first Kannada Jnanpith laureate. His Sri Ramayana Darshanam reinterprets the Ramayana with a universalist vision (Vishwa Manava), where even Ravana attains salvation.",
+      "majorWorks": [
+        "Sri Ramayana Darshanam"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kuvempu"
+      ]
+    },
+    {
+      "entityId": "poet-dr-bendre",
+      "name": "D.R. Bendre",
+      "@type": "Person",
+      "knowsLanguage": "Kannada",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Navodaya",
+      "titles": [
+        "Varakavi"
+      ],
+      "award": [
+        "Jnanpith Award (1973)"
+      ],
+      "keywords": [
+        "Nakutanti",
+        "Four Strings",
+        "Lyricism"
+      ],
+      "abstract": "A lyrical genius of the Navodaya period. His collection Nakutanti (Four Strings) explores the four levels of speech and won the Jnanpith Award.",
+      "majorWorks": [
+        "Nakutanti"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/D._R._Bendre"
+      ]
+    },
+    {
+      "entityId": "poet-viswanatha-satyanarayana",
+      "name": "Viswanatha Satyanarayana",
+      "@type": "Person",
+      "knowsLanguage": "Telugu",
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Kavi Samrat"
+      ],
+      "award": [
+        "Jnanpith Award (1970)"
+      ],
+      "keywords": [
+        "Ramayana Kalpavrukshamu",
+        "Tradition",
+        "Neo-Classical"
+      ],
+      "abstract": "A stalwart of tradition (Kavi Samrat). His Ramayana Kalpavrukshamu is a complex, neo-classical retelling. Veyipadagalu defends indigenous culture against Westernization.",
+      "majorWorks": [
+        "Ramayana Kalpavrukshamu",
+        "Veyipadagalu"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana"
+      ]
+    },
+    {
+      "entityId": "poet-sri-sri",
+      "name": "Sri Sri",
+      "@type": "Person",
+      "knowsLanguage": "Telugu",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Progressive",
+      "titles": [
+        "Mahakavi"
+      ],
+      "keywords": [
+        "Maha Prasthanam",
+        "Marxist",
+        "Free Verse"
+      ],
+      "abstract": "The Mahakavi of the progressive movement. His Maha Prasthanam introduced free verse and Marxist thought to Telugu poetry, declaring 'Another world is calling.'",
+      "majorWorks": [
+        "Maha Prasthanam"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sri_Sri_(writer)"
+      ]
+    },
+    {
+      "entityId": "poet-namdeo-dhasal",
+      "name": "Namdeo Dhasal",
+      "@type": "Person",
+      "knowsLanguage": "Marathi",
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Dalit Panthers",
+      "keywords": [
+        "Golpitha",
+        "Dalit Literature",
+        "Social Protest",
+        "Raw Language"
+      ],
+      "abstract": "Founder of the Dalit Panther movement. His Golpitha (1972) shattered literary norms with raw, brutal language describing the Bombay red-light district. Poetry as weapon of social protest.",
+      "majorWorks": [
+        "Golpitha"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Namdeo_Dhasal"
+      ]
+    },
+    {
+      "entityId": "poet-umashankar-joshi",
+      "name": "Umashankar Joshi",
+      "@type": "Person",
+      "knowsLanguage": "Gujarati",
+      "era": "Modern",
+      "century": "20th Century",
+      "award": [
+        "Jnanpith Award (1967)"
+      ],
+      "keywords": [
+        "Nishith",
+        "Gandhian",
+        "Universal Peace"
+      ],
+      "abstract": "A giant of Gujarati literature and Jnanpith winner for Nishith. His works like Gangotri and Vishwa Shanti reflect Gandhian ideals and yearning for universal peace.",
+      "majorWorks": [
+        "Nishith",
+        "Gangotri",
+        "Vishwa Shanti"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Umashankar_Joshi"
+      ]
+    },
+    {
+      "entityId": "poet-nissim-ezekiel",
+      "name": "Nissim Ezekiel",
+      "@type": "Person",
+      "knowsLanguage": "English",
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Father of Modern Indian English Poetry"
+      ],
+      "award": [
+        "Sahitya Akademi Award"
+      ],
+      "keywords": [
+        "Night of the Scorpion",
+        "Irony",
+        "Urban Poetry",
+        "Bombay"
+      ],
+      "abstract": "The father of modern Indian English poetry. His works are characterized by irony, urban settings (Bombay), and focus on the 'ordinariness' of Indian life.",
+      "majorWorks": [
+        "Night of the Scorpion",
+        "Latter-Day Psalms"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Nissim_Ezekiel"
+      ]
+    },
+    {
+      "entityId": "poet-kamala-das",
+      "name": "Kamala Das",
+      "@type": "Person",
+      "knowsLanguage": "English",
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Madhavikutty"
+      ],
+      "keywords": [
+        "Confessional Poetry",
+        "Sexuality",
+        "Female Voice",
+        "Love"
+      ],
+      "abstract": "Famous for confessional poetry. Summer in Calcutta and The Descendants explore female sexuality and domestic life with startling honesty. 'I speak three languages, write in two, dream in one.'",
+      "majorWorks": [
+        "Summer in Calcutta",
+        "The Descendants"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kamala_Das"
+      ]
+    },
+    {
+      "entityId": "poet-ak-ramanujan",
+      "name": "A.K. Ramanujan",
+      "@type": "Person",
+      "knowsLanguage": "English",
+      "era": "Modern",
+      "century": "20th Century",
+      "keywords": [
+        "The Striders",
+        "Relations",
+        "Diaspora",
+        "Translation"
+      ],
+      "abstract": "A bilingual poet (English/Kannada) and translator. His collections seamlessly connect the diaspora experience with deep Indian cultural memory and family history.",
+      "majorWorks": [
+        "The Striders",
+        "Relations"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/A._K._Ramanujan"
+      ]
+    },
+    {
+      "entityId": "poet-jayanta-mahapatra",
+      "name": "Jayanta Mahapatra",
+      "@type": "Person",
+      "knowsLanguage": "English",
+      "era": "Modern",
+      "century": "20th Century",
+      "award": [
+        "Sahitya Akademi Award"
+      ],
+      "keywords": [
+        "Odisha",
+        "Landscape",
+        "History",
+        "Famine"
+      ],
+      "abstract": "The first Indian English poet to win the Sahitya Akademi Award. His poetry is deeply rooted in the landscape of Odisha (Cuttack, Puri) and its history of war and famine.",
+      "majorWorks": [
+        "Relationship"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Jayanta_Mahapatra"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "@type": "Book",
+      "workId": "work-001",
+      "name": "Meghaduta (The Cloud Messenger)",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-001"
+      },
+      "inLanguage": "Sanskrit",
+      "dateCreated": "5th Century CE",
+      "genre": "Khandakavya (Lyric Poem)",
+      "abstract": "A lyrical poem where an exiled Yaksha asks a monsoon cloud to carry a message to his beloved wife in Alaka.",
+      "keywords": [
+        "Sandesha Kavya",
+        "Nature",
+        "Love",
+        "Separation"
+      ]
+    },
+    {
+      "@type": "Book",
+      "workId": "work-002",
+      "name": "Bijak",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-002"
+      },
+      "inLanguage": "Hindi",
+      "dateCreated": "15th Century",
+      "genre": "Devotional Poetry",
+      "abstract": "Collection of Kabir's verses including Dohas and Sakhis, challenging religious orthodoxy and caste hierarchy.",
+      "keywords": [
+        "Doha",
+        "Sakhi",
+        "Nirguna Bhakti",
+        "Social Reform"
+      ]
+    },
+    {
+      "@type": "Book",
+      "workId": "work-003",
+      "name": "Gitanjali (Song Offerings)",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "dateCreated": "1910",
+      "genre": "Prose Poetry",
+      "abstract": "Collection of prose poems expressing personal, intimate spirituality. Won the Nobel Prize in Literature.",
+      "keywords": [
+        "Spirituality",
+        "Nobel Prize",
+        "Devotion",
+        "Nature"
+      ]
+    },
+    {
+      "@type": "Book",
+      "workId": "work-004",
+      "name": "Diwan-e-Ghalib",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-004"
+      },
+      "inLanguage": "Urdu",
+      "dateCreated": "19th Century",
+      "genre": "Ghazal Collection",
+      "abstract": "Masterpiece collection of philosophical ghazals questioning existence, God, and love.",
+      "content": {
+        "original": "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے\nبہت نکلے مرے ارمان لیکن پھر بھی کم نکلے\n\nنکلنا خُلد سے آدم کا سنتے آئے ہیں لیکن\nبہت بے آبرو ہو کر ترے کوچے سے ہم نکلے\n\nمگر لکھوائے کوئی اس کو خط تو ہم سے لکھوائے\nہوئی صبح اور گھر سے کان پر رکھ کر قلم نکلے",
+        "transliteration": "Hazaaron khwahishen aisi ke har khwahish pe dam nikle\nBahut nikle mere armaan lekin phir bhi kam nikle\n\nNikalna khuld se Adam ka sunte aaye hain lekin\nBahut be-aabru ho kar tere kooche se hum nikle\n\nMagar likhwaaye koi us ko khat to hum se likhwaaye\nHui subah aur ghar se kaan par rakh kar qalam nikle",
+        "translation": "A thousand desires such that each desire steals my breath\nMany of my yearnings came out, but still too few\n\nWe have heard of Adam being expelled from paradise\nBut we left your street even more dishonored\n\nBut if someone wants a letter written, let them get it from me\nMorning came and from home with pen tucked behind ear, I left"
+      },
+      "keywords": [
+        "Ghazal",
+        "Philosophy",
+        "Love",
+        "Skepticism"
+      ]
+    },
+    {
+      "@type": "Book",
+      "workId": "work-005",
+      "name": "Tirukkural",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-005"
+      },
+      "inLanguage": "Tamil",
+      "dateCreated": "Sangam Era",
+      "genre": "Didactic Poetry",
+      "abstract": "1330 couplets on virtue (Aram), wealth (Porul), and love (Inbam). Celebrated for secular, universal ethics.",
+      "keywords": [
+        "Ethics",
+        "Virtue",
+        "Wealth",
+        "Love",
+        "Couplets"
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-004-mk01hpry-pnts",
+      "name": "Hazaaron Khwahishen Aisi",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-004"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "dateCreated": "",
+      "abstract": "A thousand desires such that each desire steals my breath\nMany of my yearnings came out, but still too few\n\nWe have heard of Adam being expelled from paradise\nBut we left your street even more dishono...",
+      "content": {
+        "original": "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے\nبہت نکلے مرے ارمان لیکن پھر بھی کم نکلے\n\nنکلنا خُلد سے آدم کا سنتے آئے ہیں لیکن\nبہت بے آبرو ہو کر ترے کوچے سے ہم نکلے\n\nمگر لکھوائے کوئی اس کو خط تو ہم سے لکھوائے\nہوئی صبح اور گھر سے کان پر رکھ کر قلم نکلے\n\nبہت تنگ آ کے ہم نے بزمِ شاہی بھی دیکھی تھی\nجہاں سے ہم چلے نکلے وہاں سے ہم قلم نکلے",
+        "transliteration": "Hazaaron khwahishen aisi ke har khwahish pe dam nikle\nBahut nikle mere armaan lekin phir bhi kam nikle\n\nNikalna khuld se Adam ka sunte aaye hain lekin\nBahut be-aabru ho kar tere kooche se hum nikle\n\nMagar likhwaaye koi us ko khat to hum se likhwaaye\nHui subah aur ghar se kaan par rakh kar qalam nikle\n\nBahut tang aa ke humne bazm-e-shaahi bhi dekhi thi\nJahan se hum chale nikle wahan se hum qalam nikle",
+        "translation": "A thousand desires such that each desire steals my breath\nMany of my yearnings came out, but still too few\n\nWe have heard of Adam being expelled from paradise\nBut we left your street even more dishonored\n\nBut if someone wants a letter written, let them get it from me\nMorning came and from home with pen tucked behind ear, I left\n\nWeary of everything, I have seen the royal court as well\nFrom where I departed, there too I withdrew my pen"
+      },
+      "keywords": [
+        "Ghazal",
+        "Urdu"
+      ],
+      "sourceUrl": "",
+      "addedAt": "2026-01-04T18:02:43.007Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-004-mk01hps0-t4em",
+      "name": "Ye Na Thi Hamari Qismat",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-004"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "It was not in my destiny to unite with my beloved\nHad I lived longer, this waiting would have continued\n\nI lived on your promise, but know this as a lie\nThat I would have died of joy, had I believed y...",
+      "content": {
+        "original": "یہ نہ تھی ہماری قسمت کہ وصالِ یار ہوتا\nاگر اور جیتے رہتے یہی انتظار ہوتا\n\nتیرے وعدے پر جئے ہم تو یہ جان جھوٹ جانا\nکہ خوشی سے مر نہ جاتے اگر اعتبار ہوتا",
+        "transliteration": "Ye na thi hamari qismat ke wisal-e-yaar hota\nAgar aur jeete rehte yahi intezaar hota\n\nTere waade par jiye hum to ye jaan jhoot jaana\nKe khushi se mar na jaate agar aitbaar hota",
+        "translation": "It was not in my destiny to unite with my beloved\nHad I lived longer, this waiting would have continued\n\nI lived on your promise, but know this as a lie\nThat I would have died of joy, had I believed you"
+      },
+      "keywords": [
+        "Ghazal",
+        "Urdu"
+      ],
+      "addedAt": "2026-01-04T18:02:43.008Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-004-mk01hps0-kkqz",
+      "name": "Dil-e-Nadaan Tujhe Hua Kya Hai",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-004"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "O naive heart, what has happened to you?\nWhat is the cure for this pain?\n\nI am longing and she is indifferent\nO God, what is this situation?...",
+      "content": {
+        "original": "دلِ ناداں تجھے ہوا کیا ہے\nآخر اس درد کی دوا کیا ہے\n\nہم ہیں مشتاق اور وہ بےزار\nیا الٰہی یہ ماجرا کیا ہے",
+        "transliteration": "Dil-e-nadaan tujhe hua kya hai\nAakhir is dard ki dawa kya hai\n\nHum hain mushtaq aur woh bezaar\nYa ilaahi ye majra kya hai",
+        "translation": "O naive heart, what has happened to you?\nWhat is the cure for this pain?\n\nI am longing and she is indifferent\nO God, what is this situation?"
+      },
+      "keywords": [
+        "Ghazal",
+        "Urdu"
+      ],
+      "addedAt": "2026-01-04T18:02:43.008Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-002-mk01hps0-z52d",
+      "name": "Moko Kahan Dhundhe Re Bande",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-002"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Bhajan",
+      "abstract": "Where do you search for me, O seeker? I am right beside you\nNot in pilgrimages, not in idols, not in solitary dwelling\nNot in temples, not in mosques, not in Kaaba or Kailash\nNot in rituals, not in au...",
+      "content": {
+        "original": "मोको कहाँ ढूँढे रे बंदे, मैं तो तेरे पास में\nन तीरथ में न मूरत में, न एकांत निवास में\nन मंदिर में न मस्जिद में, न काबे कैलाश में\nन मैं जप में न मैं तप में, न मैं बरत उपास में\nन मैं किरिया करम में रहता, नहिं जोग संन्यास में\nखोजी होए तो तुरतै मिलिहौं, पल भर की तलास में\nकहैं कबीर सुनो भाई साधो, सब स्वाँसों की स्वाँस में",
+        "transliteration": "Moko kahan dhundhe re bande, main to tere paas mein\nNa tirath mein na murat mein, na ekant niwas mein\nNa mandir mein na masjid mein, na kabe kailash mein\nNa main jap mein na main tap mein, na main barat upas mein\nNa main kiriya karam mein rehta, nahin jog sanyas mein\nKhoji hoe to turtai milihaun, pal bhar ki talas mein\nKahe Kabir suno bhai sadho, sab swaanson ki swaans mein",
+        "translation": "Where do you search for me, O seeker? I am right beside you\nNot in pilgrimages, not in idols, not in solitary dwelling\nNot in temples, not in mosques, not in Kaaba or Kailash\nNot in rituals, not in austerities, not in fasting\nNot in actions or ceremonies, not in yoga or renunciation\nIf you truly seek, you will find me in an instant\nSays Kabir, listen O seeker, I am in every breath you take"
+      },
+      "keywords": [
+        "Bhajan",
+        "Hindi"
+      ],
+      "addedAt": "2026-01-04T18:02:43.008Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-002-mk01hps1-x7qc",
+      "name": "Jhini Jhini Beeni Chadariya",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-002"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Bhajan",
+      "abstract": "Delicately, delicately woven is this sheet (of life)\nWhat is the warp, what is the weft?\nWith what thread is this sheet woven?\nIda and Pingala are the warp and weft\nWith the Sushumna thread is this sh...",
+      "content": {
+        "original": "झीनी झीनी बीनी चदरिया\nकाहे का ताना काहे की भरनी\nकौन तार से बीनी चदरिया\nइंगला पिंगला ताना भरनी\nसुषमन तार से बीनी चदरिया\nआठ कंवल दल चरखा डोलै\nपांच तत्व गुण तीनी चदरिया",
+        "transliteration": "Jheeni jheeni beeni chadariya\nKahe ka taana kahe ki bharni\nKaun taar se beeni chadariya\nIngala pingala taana bharni\nSusuman taar se beeni chadariya\nAath kanwal dal charkha dolai\nPaanch tatva gun teeni chadariya",
+        "translation": "Delicately, delicately woven is this sheet (of life)\nWhat is the warp, what is the weft?\nWith what thread is this sheet woven?\nIda and Pingala are the warp and weft\nWith the Sushumna thread is this sheet woven\nEight lotus petals form the spinning wheel\nFive elements and three qualities make this sheet"
+      },
+      "keywords": [
+        "Bhajan",
+        "Hindi"
+      ],
+      "addedAt": "2026-01-04T18:02:43.009Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-002-mk01hps1-v074",
+      "name": "Chalti Chakki Dekh Ke",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-002"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Doha",
+      "abstract": "Watching the grinding stones turn, Kabir weeps\nBetween the two millstones, none remains whole\n\nThe clay says to the potter, why do you trample me?\nA day will come when I shall trample you...",
+      "content": {
+        "original": "चलती चक्की देखके, दिया कबीरा रोये\nदुइ पाटन के बीच में, साबित बचा न कोये\n\nमाटी कहे कुम्हार से, तू क्या रौंदे मोय\nएक दिन ऐसा आएगा, मैं रौंदूंगी तोय",
+        "transliteration": "Chalti chakki dekh ke, diya Kabira roye\nDui patan ke beech mein, sabit bacha na koye\n\nMaati kahe kumhaar se, tu kya raunde moy\nEk din aisa aayega, main raundungi toy",
+        "translation": "Watching the grinding stones turn, Kabir weeps\nBetween the two millstones, none remains whole\n\nThe clay says to the potter, why do you trample me?\nA day will come when I shall trample you"
+      },
+      "keywords": [
+        "Doha",
+        "Hindi"
+      ],
+      "addedAt": "2026-01-04T18:02:43.009Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-003-mk01hps1-gyq6",
+      "name": "Where The Mind Is Without Fear",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "genre": "Prayer Poem",
+      "abstract": "Where the mind is without fear and the head is held high\nWhere knowledge is free\nWhere the world has not been broken up into fragments\nBy narrow domestic walls\n\nWhere words come out from the depth of ...",
+      "content": {
+        "original": "চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির,\nজ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর\nআপন প্রাঙ্গণতলে দিবসশর্বরী\nবসুধারে রাখে নাই খণ্ড ক্ষুদ্র করি",
+        "transliteration": "Chitta jetha bhoyshunyo, uchcho jetha shir\nGyan jetha mukto, jetha griher prachir\nApon pranganatale dibassharbari\nBasudharke rakhe nai khando khudro kori",
+        "translation": "Where the mind is without fear and the head is held high\nWhere knowledge is free\nWhere the world has not been broken up into fragments\nBy narrow domestic walls\n\nWhere words come out from the depth of truth\nWhere tireless striving stretches its arms towards perfection\nWhere the clear stream of reason has not lost its way\nInto the dreary desert sand of dead habit\n\nInto that heaven of freedom, my Father, let my country awake"
+      },
+      "keywords": [
+        "Prayer Poem",
+        "Bengali"
+      ],
+      "addedAt": "2026-01-04T18:02:43.009Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-003-mk01hps1-nfsu",
+      "name": "Ekla Chalo Re",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "genre": "Patriotic Song",
+      "abstract": "If they answer not to thy call, walk alone\nWalk alone, walk alone, walk alone, walk alone\nIf they are afraid and cower mutely facing the wall\nO thou unlucky one\nOpen thy mind and speak out alone...",
+      "content": {
+        "original": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।\nএকলা চলো, একলা চলো, একলা চলো, একলা চলো রে॥\nযদি কেউ কথা না কয়, ওরে ওরে ও অভাগা,\nযদি সবাই থাকে মুখ ফিরায়ে সবাই করে ভয়—\nতবে পরান খুলে\nও তুই মুখ ফুটে তোর মনের কথা একলা বলো রে।",
+        "transliteration": "Jodi tor daak shune keu na ashe tobe ekla cholo re\nEkla cholo, ekla cholo, ekla cholo, ekla cholo re\nJodi keu kotha na koy, ore ore o obhaga\nJodi sobai thake mukh phiraye sobai kore bhoy\nTobe poran khule\nO tui mukh phute tor moner kotha ekla bolo re",
+        "translation": "If they answer not to thy call, walk alone\nWalk alone, walk alone, walk alone, walk alone\nIf they are afraid and cower mutely facing the wall\nO thou unlucky one\nOpen thy mind and speak out alone"
+      },
+      "keywords": [
+        "Patriotic Song",
+        "Bengali"
+      ],
+      "addedAt": "2026-01-04T18:02:43.010Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-mir-taqi-mir-mk00jxnz-mk01hps2-wc04",
+      "name": "Dil Hi To Hai Na Sang-o-Khisht",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-mir-taqi-mir-mk00jxnz"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "It is but a heart, not stone or brick, why should it not fill with pain?\nI shall weep a thousand times, why should anyone torment me?\n\nI do not lie fallen at your door forever\nCurse such a life that I...",
+      "content": {
+        "original": "دلِ ہی تو ہے نہ سنگ و خشت درد سے بھر نہ آئے کیوں\nروئیں گے ہم ہزار بار کوئی ہمیں ستائے کیوں\n\nدائم پڑا ہوا ترے در پر نہیں ہوں میں\nخاک ایسی زندگی پہ کہ پتھر سے بھی نہ ہوں",
+        "transliteration": "Dil hi to hai na sang-o-khisht dard se bhar na aaye kyun\nRoyenge hum hazaar baar koi humein sataye kyun\n\nDaayam para hua tere dar par nahin hoon main\nKhaak aisi zindagi pe ke pathar se bhi na hoon",
+        "translation": "It is but a heart, not stone or brick, why should it not fill with pain?\nI shall weep a thousand times, why should anyone torment me?\n\nI do not lie fallen at your door forever\nCurse such a life that I am not even like stone"
+      },
+      "keywords": [
+        "Ghazal",
+        "Urdu"
+      ],
+      "addedAt": "2026-01-04T18:02:43.010Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-mir-taqi-mir-mk00jxnz-mk01hps2-rdck",
+      "name": "Ulti Ho Gayi Sab Tadbeerein",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-mir-taqi-mir-mk00jxnz"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "All remedies went in vain, no medicine worked\nSee how this ailment of the heart finally finished me...",
+      "content": {
+        "original": "الٹی ہو گئیں سب تدبیریں کچھ نہ دوا نے کام کیا\nدیکھا اس بیماری دل نے آخر کام تمام کیا",
+        "transliteration": "Ulti ho gayin sab tadbeerein kuch na dawa ne kaam kiya\nDekha is beemaari-e-dil ne aakhir kaam tamaam kiya",
+        "translation": "All remedies went in vain, no medicine worked\nSee how this ailment of the heart finally finished me"
+      },
+      "keywords": [
+        "Ghazal",
+        "Urdu"
+      ],
+      "addedAt": "2026-01-04T18:02:43.010Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-001-mk01hps2-vywc",
+      "name": "Meghaduta Opening Verse",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-001"
+      },
+      "inLanguage": "Sanskrit",
+      "genre": "Khandakavya",
+      "abstract": "A certain Yaksha, who had neglected his duty\nWas cursed by his master to be separated from his beloved for a year\nHe made his dwelling on Ramagiri among hermitages\nNear trees of thick shade, by waters...",
+      "content": {
+        "original": "कश्चित्कान्ताविरहगुरुणा स्वाधिकारात्प्रमत्तः\nशापेनास्तङ्गमितमहिमा वर्षभोग्येण भर्तुः।\nयक्षश्चक्रे जनकतनयास्नानपुण्योदकेषु\nस्निग्धच्छायातरुषु वसतिं रामगिर्याश्रमेषु॥",
+        "transliteration": "Kashchit kantavirahguruna svaadhikarat pramattah\nShapenastangamitamahima varsabhogyen bhartuh\nYakshashchakre janakatanayasnanapunyodakeshu\nSnigdhachchhayatarush vasatim ramagiryashramesh",
+        "translation": "A certain Yaksha, who had neglected his duty\nWas cursed by his master to be separated from his beloved for a year\nHe made his dwelling on Ramagiri among hermitages\nNear trees of thick shade, by waters sanctified by Sita's bath"
+      },
+      "keywords": [
+        "Khandakavya",
+        "Sanskrit"
+      ],
+      "addedAt": "2026-01-04T18:02:43.010Z"
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-poet-005-mk01hps2-vq27",
+      "name": "Tirukkural on Virtue",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-005"
+      },
+      "inLanguage": "Tamil",
+      "genre": "Didactic Poetry",
+      "abstract": "As the letter A is the first of all letters\nSo the eternal God is first in the world\n\nWhat is the use of learning, if one does not worship\nThe pure feet of the One who has perfect knowledge?...",
+      "content": {
+        "original": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு\n\nகற்றதனால் ஆய பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் எனின்",
+        "transliteration": "Akara mudala ezhuththellaam aadhi\nBhagavan mudhatre ulagu\n\nKatrathanaal aaya payanenkol vaalarivaan\nNatraal thozhaaar enin",
+        "translation": "As the letter A is the first of all letters\nSo the eternal God is first in the world\n\nWhat is the use of learning, if one does not worship\nThe pure feet of the One who has perfect knowledge?"
+      },
+      "keywords": [
+        "Didactic Poetry",
+        "Tamil"
+      ],
+      "addedAt": "2026-01-04T18:02:43.010Z"
+    }
+  ],
+  "tags": [
+    "poetry",
+    "indian",
+    "classical",
+    "bhakti",
+    "modern",
+    "multilingual"
+  ]
+}
