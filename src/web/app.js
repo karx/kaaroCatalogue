@@ -487,14 +487,26 @@ async function renderWorkDetail(workId) {
               <div class="poem-text poem-translation">${formatPoetry(work.content.translation)}</div>
             </div>
           ` : ''}
+          ${work.content.explanation ? `
+            <div class="poem-section">
+              <h3>Explanation (Vyakhya)</h3>
+              <div class="poem-text poem-explanation">${formatPoetry(work.content.explanation)}</div>
+            </div>
+          ` : ''}
         </div>
       ` : `
         <div class="no-content">
           <p>Full text not yet available for this work.</p>
-          ${work.sourceUrl ? `<a href="${work.sourceUrl}" target="_blank" class="btn btn-primary">View on Source</a>` : ''}
         </div>
       `}
       
+      <div class="work-source-info" style="margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid var(--color-border);">
+        <p style="color: var(--color-text-secondary); font-size: 0.9rem;">
+          <strong>Source:</strong> ${work.source?.name || 'Unknown'} 
+          ${work.source?.url ? `(<a href="${work.source.url}" target="_blank">View Original</a>)` : ''}
+        </p>
+      </div>
+
       <div class="work-keywords">
         ${(work.keywords || []).map(k => `<span class="tag">${k}</span>`).join('')}
       </div>

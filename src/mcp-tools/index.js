@@ -92,6 +92,13 @@ export async function extract_entity({ name, sourceUrl }) {
     candidates.extracted.push({ name, extractedAt: new Date().toISOString() });
     await writeJSON('candidates.json', candidates);
 
+    // Add source info to entity
+    entity.source = {
+        name: 'Wikipedia',
+        url: sourceUrl,
+        retrievedAt: new Date().toISOString()
+    };
+
     // Add to review queue
     const reviewQueue = await readJSON('review-queue.json') || { pending: [], approved: [], rejected: [] };
     reviewQueue.pending.push({
@@ -353,7 +360,7 @@ export async function discover_works({ poetId, poetName, wikiUrl }) {
         const poet = catalog.entities.find(e => e.entityId === poetId);
         if (poet) {
             poetName = poet.name;
-            wikiUrl = poet.sameAs?.[0] || `https://en.wikipedia.org/wiki/${poet.name.replace(/ /g, '_')}`;
+            wikiUrl = poet.sameAs?.[0] || poet.source?.url || `https://en.wikipedia.org/wiki/${poet.name.replace(/ /g, '_')}`;
         }
     }
 
@@ -362,6 +369,33 @@ export async function discover_works({ poetId, poetName, wikiUrl }) {
     }
 
     const works = await discoverWorksFromWikipedia(poetName, wikiUrl);
+
+    // Merge with majorWorks from catalog if available
+    if (poetId || poetName) {
+        const catalogPath = path.join(__dirname, '..', 'data', 'catalogs', 'poets-index.json');
+        const content = await fs.readFile(catalogPath, 'utf-8');
+        const catalog = JSON.parse(content);
+
+        const poet = catalog.entities.find(e =>
+            e.entityId === poetId ||
+            e.name.toLowerCase() === poetName.toLowerCase()
+        );
+
+        if (poet && poet.majorWorks) {
+            poet.majorWorks.forEach((workName, index) => {
+                // Check if already found via Wikipedia
+                if (!works.some(w => w.name.toLowerCase() === workName.toLowerCase())) {
+                    works.push({
+                        name: workName,
+                        workId: `work-${poet.entityId}-major-${index}`,
+                        poetName: poet.name,
+                        source: 'catalog_majorWorks',
+                        discoveredAt: new Date().toISOString()
+                    });
+                }
+            });
+        }
+    }
 
     return {
         success: true,
@@ -398,8 +432,11 @@ export async function extract_work({ workName, wikiUrl, useSample = false }) {
                         transliteration: sample.transliteration,
                         translation: sample.translation
                     },
-                    source: 'sample_library',
-                    extractedAt: new Date().toISOString()
+                    source: {
+                        name: 'Sample Library',
+                        url: '',
+                        retrievedAt: new Date().toISOString()
+                    }
                 }
             };
         }
@@ -407,6 +444,17 @@ export async function extract_work({ workName, wikiUrl, useSample = false }) {
 
     // Extract from Wikipedia
     const work = await extractWorkFromWikipedia(workName, wikiUrl);
+
+    // Add source object if found
+    if (work.found) {
+        work.source = {
+            name: 'Wikipedia',
+            url: work.sourceUrl || wikiUrl || '',
+            retrievedAt: new Date().toISOString()
+        };
+        delete work.sourceUrl;
+        delete work.extractedAt;
+    }
 
     return {
         success: true,
@@ -453,8 +501,11 @@ export async function add_work_to_catalog({ poetId, work }) {
         abstract: work.abstract || '',
         content: work.content || null,
         keywords: work.keywords || [],
-        sourceUrl: work.sourceUrl || '',
-        addedAt: new Date().toISOString()
+        source: work.source || {
+            name: 'Manual Entry',
+            url: '',
+            retrievedAt: new Date().toISOString()
+        }
     };
 
     // Check for duplicates
@@ -466,7 +517,7 @@ export async function add_work_to_catalog({ poetId, work }) {
     if (existing) {
         // Update existing
         Object.assign(existing, workEntry);
-        existing.updatedAt = new Date().toISOString();
+        existing.source.retrievedAt = new Date().toISOString(); // Update timestamp
     } else {
         catalog.works.push(workEntry);
     }
