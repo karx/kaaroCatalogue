@@ -55,6 +55,19 @@
                 "entities": {
                     "type": "array"
                 },
+                "works": {
+                    "type": "array",
+                    "items": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/definitions/CreativeWork"
+                            },
+                            {
+                                "$ref": "#/definitions/Book"
+                            }
+                        ]
+                    }
+                },
                 "relationships": {
                     "type": "array"
                 },
@@ -79,8 +92,7 @@
                     "const": "Person"
                 },
                 "entityId": {
-                    "type": "string",
-                    "format": "uuid"
+                    "type": "string"
                 },
                 "name": {
                     "type": "string"
@@ -154,11 +166,131 @@
                 "verified": {
                     "type": "boolean",
                     "default": false
+                },
+                "era": {
+                    "type": "string"
+                },
+                "century": {
+                    "type": "string"
+                },
+                "titles": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "abstract": {
+                    "type": "string"
+                },
+                "majorWorks": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "source": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "url": {
+                            "type": "string"
+                        },
+                        "retrievedAt": {
+                            "type": "string"
+                        }
+                    }
                 }
             },
             "required": [
                 "@type",
                 "entityId",
+                "name"
+            ]
+        },
+        "CreativeWork": {
+            "type": "object",
+            "description": "schema.org/CreativeWork - Poetry, Ghazals, etc.",
+            "properties": {
+                "@type": {
+                    "const": "CreativeWork"
+                },
+                "workId": {
+                    "type": "string",
+                    "pattern": "^work-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "author": {
+                    "$ref": "#/definitions/PersonReference"
+                },
+                "inLanguage": {
+                    "type": "string"
+                },
+                "genre": {
+                    "type": "string"
+                },
+                "keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "source": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "url": {
+                            "type": "string"
+                        },
+                        "retrievedAt": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "sameAs": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "content": {
+                    "type": "object",
+                    "properties": {
+                        "roman": {
+                            "type": "string"
+                        },
+                        "urdu": {
+                            "type": "string"
+                        },
+                        "hindi": {
+                            "type": "string"
+                        },
+                        "original": {
+                            "type": "string"
+                        },
+                        "transliteration": {
+                            "type": "string"
+                        },
+                        "translation": {
+                            "type": "string"
+                        },
+                        "extracted": {
+                            "type": "boolean"
+                        },
+                        "lastUpdated": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
+            "required": [
+                "@type",
+                "workId",
                 "name"
             ]
         },
@@ -171,7 +303,7 @@
                 },
                 "workId": {
                     "type": "string",
-                    "format": "uuid"
+                    "pattern": "^work-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
                 },
                 "name": {
                     "type": "string"

@@ -12,7 +12,7 @@
 export async function discoverWorksFromWikipedia(poetName, wikiUrl) {
     try {
         const pageTitle = extractPageTitle(wikiUrl);
-        const apiUrl = `https://en.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(pageTitle)}&prop=revisions&rvprop=content&rvslots=main&format=json&origin=*`;
+        const apiUrl = `https://en.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(pageTitle)}&prop=revisions&rvprop=content&rvslots=main&format=json&origin=*&redirects=1`;
 
         const response = await fetch(apiUrl);
         if (!response.ok) {
@@ -89,7 +89,7 @@ function extractWorksFromWikitext(wikitext, poetName) {
 
     // Look for Works/Bibliography section
     const sectionPatterns = [
-        /==+\s*(?:Works|Bibliography|Major works|Notable works|Selected works|Poetry collections?)\s*==+([^=]+(?:===[^=]+===[^=]+)*)/gi
+        /==+\s*(?:Works|Bibliography|Major works|Notable works|Selected works|Poetry collections?|Literary works|Publications|Books)\s*==+([^=]+(?:===[^=]+===[^=]+)*)/gi
     ];
 
     for (const pattern of sectionPatterns) {
@@ -97,11 +97,20 @@ function extractWorksFromWikitext(wikitext, poetName) {
         if (match) {
             const sectionContent = match[1];
             // Extract list items
-            const listItems = sectionContent.match(/\*+\s*\[\[([^\]|]+)/g) || [];
+            // Extract list items (wikilinks or plain text)
+            const listItems = sectionContent.match(/\*+\s*(?:\[\[([^\]|]+)(?:\|[^\]]+)?\]\]|([^\n]+))/g) || [];
             listItems.forEach((item, index) => {
-                const nameMatch = item.match(/\[\[([^\]|]+)/);
-                if (nameMatch) {
-                    const name = cleanText(nameMatch[1]);
+                let name = '';
+                const linkMatch = item.match(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/);
+                if (linkMatch) {
+                    name = linkMatch[1];
+                } else {
+                    // Fallback to plain text, cleaning up * and italics
+                    name = item.replace(/^\*+\s*/, '').replace(/''/g, '').trim();
+                }
+
+                if (name && name.length > 2) {
+                    name = cleanText(name);
                     // Avoid duplicates
                     if (!works.some(w => w.name.toLowerCase() === name.toLowerCase())) {
                         works.push({

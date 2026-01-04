@@ -7,7 +7,112 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { discoverFromWikipediaList, extractFromWikipedia } from './sources/wikipedia.js';
-import { discoverWorksFromWikipedia, extractWorkFromWikipedia, samplePoetryContent } from './sources/poetry-sources.js';
+import { discover_rekhta_works, ingest_rekhta_works, extract_work_content } from './rekhta-adapter.js';
+
+// ... (existing imports)
+
+// ... (existing code)
+
+// ============================================
+// Rekhta Integration Tools
+// ============================================
+
+/**
+ * Ingest works from Rekhta for a poet
+ * @param {Object} params - { poetId, worksList }
+ * @returns {Promise<Object>} - Ingestion result
+ */
+export async function ingest_rekhta({ poetId, worksList }) {
+    console.log(`[ingest_rekhta] Poet: ${poetId}, Works: ${worksList.length}`);
+    const catalogPath = path.join(__dirname, '..', 'data', 'catalogs', 'poets-index.json');
+    const content = await fs.readFile(catalogPath, 'utf-8');
+    const catalog = JSON.parse(content);
+
+    const result = ingest_rekhta_works(poetId, worksList, catalog);
+
+    // Save catalog
+    await fs.writeFile(catalogPath, JSON.stringify(catalog, null, 2), 'utf-8');
+    const webCatalogPath = path.join(__dirname, '..', 'web', 'data', 'catalogs', 'poets-index.json');
+    await fs.writeFile(webCatalogPath, JSON.stringify(catalog, null, 2), 'utf-8');
+
+    return {
+        success: true,
+        ...result
+    };
+}
+
+/**
+ * Extract content for specific works (or all Rekhta works)
+ * @param {Object} params - { poetId, source }
+ * @returns {Promise<Object>} - Extraction result
+ */
+export async function extract_content({ poetId, source = 'Rekhta' }) {
+    console.log(`[extract_content] Poet: ${poetId}, Source: ${source}`);
+    const catalogPath = path.join(__dirname, '..', 'data', 'catalogs', 'poets-index.json');
+    const content = await fs.readFile(catalogPath, 'utf-8');
+    const catalog = JSON.parse(content);
+
+    const works = catalog.works.filter(w =>
+        (!poetId || w.author['@id'] === poetId) &&
+        (!source || (w.source && w.source.name === source)) &&
+        !w.content?.extracted // Only process if not already extracted (or force flag?)
+    );
+
+    console.log(`Found ${works.length} works to process.`);
+    let updatedCount = 0;
+
+    for (const work of works) {
+        if (!work.source?.url) continue;
+
+        console.log(`Processing: ${work.name}`);
+        const content = await extract_work_content(work.source.url);
+
+        if (content.roman || content.urdu || content.hindi) {
+            work.content = {
+                ...content,
+                extracted: true,
+                lastUpdated: new Date().toISOString()
+            };
+            updatedCount++;
+        }
+    }
+
+    if (updatedCount > 0) {
+        await fs.writeFile(catalogPath, JSON.stringify(catalog, null, 2), 'utf-8');
+        const webCatalogPath = path.join(__dirname, '..', 'web', 'data', 'catalogs', 'poets-index.json');
+        await fs.writeFile(webCatalogPath, JSON.stringify(catalog, null, 2), 'utf-8');
+    }
+
+    return {
+        success: true,
+        processed: works.length,
+        updated: updatedCount
+    };
+}
+
+export const tools = {
+    // ... (existing tools)
+    ingest_rekhta: {
+        name: 'ingest_rekhta',
+        description: 'Ingest works from Rekhta list',
+        parameters: {
+            poetId: { type: 'string', required: true },
+            worksList: { type: 'array', required: true }
+        },
+        handler: ingest_rekhta
+    },
+    extract_content: {
+        name: 'extract_content',
+        description: 'Batch extract content for works',
+        parameters: {
+            poetId: { type: 'string' },
+            source: { type: 'string', default: 'Rekhta' }
+        },
+        handler: extract_content
+    },
+    // ... (rest of tools)
+};
+
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, 'data');
@@ -568,120 +673,5 @@ export async function get_poet_works({ poetId }) {
 // Tool Registry (for MCP server integration)
 // ============================================
 
-export const tools = {
-    discover_entities: {
-        name: 'discover_entities',
-        description: 'Find poet candidates from Wikipedia list pages',
-        parameters: {
-            source: { type: 'string', default: 'wikipedia', description: 'Data source (wikipedia)' },
-            query: { type: 'string', required: true, description: 'Wikipedia list page title or URL' },
-            limit: { type: 'number', default: 20, description: 'Max candidates to fetch' }
-        },
-        handler: discover_entities
-    },
-    extract_entity: {
-        name: 'extract_entity',
-        description: 'Extract structured entity data from Wikipedia',
-        parameters: {
-            name: { type: 'string', required: true, description: 'Entity name' },
-            sourceUrl: { type: 'string', required: true, description: 'Wikipedia URL' }
-        },
-        handler: extract_entity
-    },
-    review_entity: {
-        name: 'review_entity',
-        description: 'Get next entity pending human review',
-        parameters: {},
-        handler: review_entity
-    },
-    approve_entity: {
-        name: 'approve_entity',
-        description: 'Approve an entity for cataloging',
-        parameters: {
-            queueId: { type: 'string', required: true, description: 'Review queue ID' }
-        },
-        handler: approve_entity
-    },
-    reject_entity: {
-        name: 'reject_entity',
-        description: 'Reject an entity from cataloging',
-        parameters: {
-            queueId: { type: 'string', required: true, description: 'Review queue ID' },
-            reason: { type: 'string', description: 'Rejection reason' }
-        },
-        handler: reject_entity
-    },
-    update_entity: {
-        name: 'update_entity',
-        description: 'Update entity data in review queue',
-        parameters: {
-            queueId: { type: 'string', required: true, description: 'Review queue ID' },
-            updates: { type: 'object', required: true, description: 'Fields to update' }
-        },
-        handler: update_entity
-    },
-    sync_catalog: {
-        name: 'sync_catalog',
-        description: 'Write approved entities to catalog JSON',
-        parameters: {
-            catalogType: { type: 'string', default: 'poets', description: 'Catalog type (poets/comedy)' }
-        },
-        handler: sync_catalog
-    },
-    search_catalog: {
-        name: 'search_catalog',
-        description: 'Search existing catalog entries',
-        parameters: {
-            catalogType: { type: 'string', default: 'poets', description: 'Catalog type' },
-            query: { type: 'string', required: true, description: 'Search query' }
-        },
-        handler: search_catalog
-    },
-    get_status: {
-        name: 'get_status',
-        description: 'Get pipeline status (candidates, review queue)',
-        parameters: {},
-        handler: get_status
-    },
-    // Work Discovery & Extraction Tools
-    discover_works: {
-        name: 'discover_works',
-        description: 'Discover works for a poet from Wikipedia',
-        parameters: {
-            poetId: { type: 'string', description: 'Poet entity ID' },
-            poetName: { type: 'string', description: 'Poet name' },
-            wikiUrl: { type: 'string', description: 'Wikipedia URL' }
-        },
-        handler: discover_works
-    },
-    extract_work: {
-        name: 'extract_work',
-        description: 'Extract work content from sources',
-        parameters: {
-            workName: { type: 'string', required: true, description: 'Work/poem name' },
-            wikiUrl: { type: 'string', description: 'Wikipedia URL for work' },
-            useSample: { type: 'boolean', default: false, description: 'Use sample poetry library' }
-        },
-        handler: extract_work
-    },
-    add_work_to_catalog: {
-        name: 'add_work_to_catalog',
-        description: 'Add a work to the catalog linked to a poet',
-        parameters: {
-            poetId: { type: 'string', required: true, description: 'Poet entity ID' },
-            work: { type: 'object', required: true, description: 'Work object with name, content, etc.' }
-        },
-        handler: add_work_to_catalog
-    },
-    get_poet_works: {
-        name: 'get_poet_works',
-        description: 'Get all works for a poet',
-        parameters: {
-            poetId: { type: 'string', required: true, description: 'Poet entity ID' }
-        },
-        handler: get_poet_works
-    }
-};
 
-export default tools;
 

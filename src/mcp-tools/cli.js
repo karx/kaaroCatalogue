@@ -17,7 +17,9 @@ import {
     discover_works,
     extract_work,
     add_work_to_catalog,
-    get_poet_works
+    get_poet_works,
+    ingest_rekhta,
+    extract_content
 } from './index.js';
 
 const args = process.argv.slice(2);
@@ -215,6 +217,43 @@ async function main() {
                 result.works.forEach(w => console.log(`   - ${w.name} (${w.genre || 'Unknown genre'})`));
                 break;
 
+            case 'ingest-rekhta':
+                if (!params.poet) {
+                    console.error('Error: --poet (ID) is required');
+                    process.exit(1);
+                }
+                // If works are provided as a JSON string or file, parse them
+                let worksList = [];
+                if (params.works) {
+                    try {
+                        worksList = JSON.parse(params.works);
+                    } catch (e) {
+                        // Assume file path
+                        // TODO: Implement file reading
+                        console.error('Error: --works must be a JSON string for now');
+                        process.exit(1);
+                    }
+                } else {
+                    console.error('Error: --works (JSON list) is currently required for CLI ingestion');
+                    process.exit(1);
+                }
+
+                result = await ingest_rekhta({
+                    poetId: params.poet,
+                    worksList
+                });
+                console.log(`\n✅ Ingested ${result.added} works, skipped ${result.skipped}`);
+                break;
+
+            case 'extract-content':
+                result = await extract_content({
+                    poetId: params.poet, // Optional
+                    source: params.source || 'Rekhta'
+                });
+                console.log(`\n✅ Processed ${result.processed} works`);
+                console.log(`   Updated content for ${result.updated} works`);
+                break;
+
             case 'help':
             default:
                 console.log(`
@@ -263,6 +302,14 @@ Commands:
 
   list-works      List works for a poet
                   --id "poet-001" (required)
+
+  ingest-rekhta   Ingest works from Rekhta list
+                  --poet "poet-001" (required)
+                  --works '[{"title":"...", "url":"..."}]' (JSON string)
+
+  extract-content Batch extract content for works
+                  --poet "poet-001" (optional)
+                  --source "Rekhta" (default)
 
   help        Show this help message
         `);
