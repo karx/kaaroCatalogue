@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Kabir",
+    "id": "poet-002",
+    "language": "Hindi",
+    "rekhtaUrl": "https://www.rekhta.org/poets/kabir"
+  },
+  {
+    "name": "Mirza Ghalib",
+    "id": "poet-004",
+    "language": "Urdu",
+    "rekhtaUrl": "https://www.rekhta.org/poets/mirza-ghalib"
+  },
+  {
+    "name": "Faiz Ahmed Faiz",
+    "id": "poet-008",
+    "language": "Urdu",
+    "rekhtaUrl": "https://www.rekhta.org/poets/faiz-ahmad-faiz"
+  },
+  {
+    "name": "Mir Taqi Mir",
+    "id": "poet-mir-taqi-mir-mk00jxnz",
+    "language": "Urdu",
+    "rekhtaUrl": "https://www.rekhta.org/poets/meer-taqi-meer"
+  },
+  {
+    "name": "Allama Iqbal",
+    "id": "poet-allama-iqbal-mk00k0nn",
+    "language": "Urdu",
+    "rekhtaUrl": "https://www.rekhta.org/poets/allama-iqbal"
+  },
+  {
+    "name": "Jaishankar Prasad",
+    "id": "poet-jaishankar-prasad",
+    "language": "Hindi",
+    "rekhtaUrl": "https://www.rekhta.org/poets/jaishankar-prasad"
+  },
+  {
+    "name": "Suryakant Tripathi 'Nirala'",
+    "id": "poet-nirala",
+    "language": "Hindi",
+    "rekhtaUrl": "https://www.rekhta.org/poets/suryakant-tripathi-nirala"
+  },
+  {
+    "name": "Mahadevi Varma",
+    "id": "poet-mahadevi-varma",
+    "language": "Hindi",
+    "rekhtaUrl": "https://www.rekhta.org/poets/mahadevi-varma"
+  },
+  {
+    "name": "Ramdhari Singh 'Dinkar'",
+    "id": "poet-dinkar",
+    "language": "Hindi",
+    "rekhtaUrl": "https://www.rekhta.org/poets/ramdhari-singh-dinkar"
+  }
+]

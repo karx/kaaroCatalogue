@@ -13,7 +13,13 @@ import {
     reject_entity,
     sync_catalog,
     search_catalog,
-    get_status
+    get_status,
+    discover_works,
+    extract_work,
+    add_work_to_catalog,
+    get_poet_works,
+    ingest_rekhta,
+    extract_content
 } from './index.js';
 
 const args = process.argv.slice(2);
@@ -139,6 +145,115 @@ async function main() {
                 console.log(`     Rejected: ${result.review.rejected}`);
                 break;
 
+            // Work Discovery & Extraction Commands
+            case 'discover-works':
+                if (!params.poet && !params.id) {
+                    console.error('Error: --poet or --id is required');
+                    process.exit(1);
+                }
+                result = await discover_works({
+                    poetName: params.poet,
+                    poetId: params.id,
+                    wikiUrl: params.url
+                });
+                console.log(`\n📚 Discovered ${result.count} works for ${result.poetName}`);
+                result.works.forEach(w => console.log(`   - ${w.name}`));
+                break;
+
+            case 'extract-work':
+                if (!params.name) {
+                    console.error('Error: --name is required');
+                    process.exit(1);
+                }
+                result = await extract_work({
+                    workName: params.name,
+                    wikiUrl: params.url,
+                    useSample: params.sample
+                });
+                if (result.found) {
+                    console.log(`\n✅ Extracted work: ${result.work.name}`);
+                    console.log(`   Abstract: ${(result.work.abstract || '').slice(0, 100)}...`);
+                    if (params.verbose) {
+                        console.log(JSON.stringify(result.work, null, 2));
+                    }
+                } else {
+                    console.log(`\n❌ Could not find work: ${params.name}`);
+                }
+                break;
+
+            case 'add-work':
+                if (!params.poet || !params.work) {
+                    console.error('Error: --poet (ID) and --work (JSON string or file) are required');
+                    process.exit(1);
+                }
+                let workData;
+                try {
+                    // Try parsing as JSON string first, else treat as file path
+                    if (params.work.trim().startsWith('{')) {
+                        workData = JSON.parse(params.work);
+                    } else {
+                        // TODO: Implement file reading if needed, for now assume JSON string
+                        workData = JSON.parse(params.work);
+                    }
+                } catch (e) {
+                    console.error('Error parsing work data:', e.message);
+                    process.exit(1);
+                }
+
+                result = await add_work_to_catalog({
+                    poetId: params.poet,
+                    work: workData
+                });
+                console.log(`\n✅ ${result.message}`);
+                break;
+
+            case 'list-works':
+                if (!params.id) {
+                    console.error('Error: --id is required');
+                    process.exit(1);
+                }
+                result = await get_poet_works({ poetId: params.id });
+                console.log(`\n📜 Works by ${result.poetName}:`);
+                result.works.forEach(w => console.log(`   - ${w.name} (${w.genre || 'Unknown genre'})`));
+                break;
+
+            case 'ingest-rekhta':
+                if (!params.poet) {
+                    console.error('Error: --poet (ID) is required');
+                    process.exit(1);
+                }
+                // If works are provided as a JSON string or file, parse them
+                let worksList = [];
+                if (params.works) {
+                    try {
+                        worksList = JSON.parse(params.works);
+                    } catch (e) {
+                        // Assume file path
+                        // TODO: Implement file reading
+                        console.error('Error: --works must be a JSON string for now');
+                        process.exit(1);
+                    }
+                } else {
+                    console.error('Error: --works (JSON list) is currently required for CLI ingestion');
+                    process.exit(1);
+                }
+
+                result = await ingest_rekhta({
+                    poetId: params.poet,
+                    worksList
+                });
+                console.log(`\n✅ Ingested ${result.added} works, skipped ${result.skipped}`);
+                break;
+
+            case 'extract-content':
+                result = await extract_content({
+                    poetId: params.poet, // Optional
+                    source: params.source || 'Rekhta'
+                });
+                console.log(`\n✅ Processed ${result.processed} works`);
+                console.log(`   Updated content for ${result.updated} works`);
+                break;
+
             case 'help':
             default:
                 console.log(`
@@ -174,6 +289,27 @@ Commands:
               --catalog poets|comedy
 
   status      Show pipeline status
+
+  discover-works  Discover works for a poet
+                  --poet "Kalidasa" OR --id "poet-001"
+                  --url "https://..." (optional)
+
+  extract-work    Extract work details
+                  --name "Meghaduta" (required)
+                  --url "https://..." (optional)
+                  --sample (optional, check sample library)
+                  --verbose
+
+  list-works      List works for a poet
+                  --id "poet-001" (required)
+
+  ingest-rekhta   Ingest works from Rekhta list
+                  --poet "poet-001" (required)
+                  --works '[{"title":"...", "url":"..."}]' (JSON string)
+
+  extract-content Batch extract content for works
+                  --poet "poet-001" (optional)
+                  --source "Rekhta" (default)
 
   help        Show this help message
         `);

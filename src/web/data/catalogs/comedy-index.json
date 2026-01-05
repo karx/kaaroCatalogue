@@ -1,196 +1,4077 @@
 {
-    "@context": "https://schema.org",
-    "catalogId": "comedy-index-001",
-    "catalogType": "comedy",
-    "name": "Global Stand-Up Comedy Index",
-    "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
-    "createdAt": "2026-01-04T20:30:00+05:30",
-    "updatedAt": "2026-01-04T20:30:00+05:30",
-    "metadata": {
-        "sources": [
-            "YouTube",
-            "Comedy Central",
-            "Netflix is a Joke",
-            "Dry Bar Comedy"
-        ],
-        "totalEntities": 5,
-        "lastSync": "2026-01-04T20:30:00+05:30"
+  "@context": "https://schema.org",
+  "catalogId": "comedy-index-001",
+  "catalogType": "comedy",
+  "name": "Global Stand-Up Comedy Index",
+  "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
+  "createdAt": "2026-01-04T20:30:00+05:30",
+  "updatedAt": "2026-01-04T21:15:40.458Z",
+  "metadata": {
+    "sources": [
+      "YouTube",
+      "Comedy Central",
+      "Netflix is a Joke",
+      "Dry Bar Comedy"
+    ],
+    "totalEntities": 20,
+    "lastSync": "2026-01-04T20:30:00+05:30",
+    "totalVideos": 192
+  },
+  "entities": [
+    {
+      "@type": "Person",
+      "entityId": "comedian-001",
+      "name": "John Mulaney",
+      "alternateName": [],
+      "knowsLanguage": "en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "New York, USA"
+      },
+      "genre": [
+        "observational",
+        "storytelling"
+      ],
+      "sameAs": [
+        "https://www.youtube.com/@JohnMulaney",
+        "https://en.wikipedia.org/wiki/John_Mulaney"
+      ],
+      "award": [
+        "Emmy Award",
+        "WGA Award"
+      ],
+      "keywords": [
+        "SNL",
+        "Kid Gorgeous",
+        "Netflix"
+      ],
+      "verified": true
     },
-    "entities": [
-        {
-            "@type": "Person",
-            "entityId": "comedian-001",
-            "name": "John Mulaney",
-            "alternateName": [],
-            "knowsLanguage": "en",
-            "homeLocation": {
-                "@type": "Place",
-                "name": "New York, USA"
-            },
-            "genre": [
-                "observational",
-                "storytelling"
-            ],
-            "sameAs": [
-                "https://www.youtube.com/@JohnMulaney",
-                "https://en.wikipedia.org/wiki/John_Mulaney"
-            ],
-            "award": [
-                "Emmy Award",
-                "WGA Award"
-            ],
-            "keywords": [
-                "SNL",
-                "Kid Gorgeous",
-                "Netflix"
-            ],
-            "verified": true
-        },
-        {
-            "@type": "Person",
-            "entityId": "comedian-002",
-            "name": "Hasan Minhaj",
-            "alternateName": [],
-            "knowsLanguage": "en",
-            "homeLocation": {
-                "@type": "Place",
-                "name": "California, USA"
-            },
-            "genre": [
-                "political",
-                "observational",
-                "storytelling"
-            ],
-            "sameAs": [
-                "https://www.youtube.com/@HasanMinhaj",
-                "https://en.wikipedia.org/wiki/Hasan_Minhaj"
-            ],
-            "award": [
-                "Peabody Award"
-            ],
-            "keywords": [
-                "Patriot Act",
-                "Indian-American",
-                "Netflix"
-            ],
-            "verified": true
-        },
-        {
-            "@type": "Person",
-            "entityId": "comedian-003",
-            "name": "Vir Das",
-            "alternateName": [],
-            "knowsLanguage": "en",
-            "homeLocation": {
-                "@type": "Place",
-                "name": "Mumbai, India"
-            },
-            "genre": [
-                "observational",
-                "political",
-                "crowd-work"
-            ],
-            "sameAs": [
-                "https://www.youtube.com/@VirDas",
-                "https://en.wikipedia.org/wiki/Vir_Das"
-            ],
-            "award": [
-                "International Emmy Nomination"
-            ],
-            "keywords": [
-                "India",
-                "Netflix",
-                "Abroad Understanding"
-            ],
-            "verified": true
-        },
-        {
-            "@type": "Person",
-            "entityId": "comedian-004",
-            "name": "Taylor Tomlinson",
-            "alternateName": [],
-            "knowsLanguage": "en",
-            "homeLocation": {
-                "@type": "Place",
-                "name": "California, USA"
-            },
-            "genre": [
-                "observational",
-                "self-deprecating"
-            ],
-            "sameAs": [
-                "https://www.youtube.com/@TaylorTomlinson"
-            ],
-            "award": [],
-            "keywords": [
-                "After Midnight",
-                "Netflix",
-                "Quarter-Life Crisis"
-            ],
-            "verified": true
-        },
-        {
-            "@type": "Person",
-            "entityId": "comedian-005",
-            "name": "Zakir Khan",
-            "alternateName": [
-                "Sakht Launda"
-            ],
-            "knowsLanguage": "hi",
-            "homeLocation": {
-                "@type": "Place",
-                "name": "Indore, India"
-            },
-            "genre": [
-                "observational",
-                "storytelling",
-                "hinglish"
-            ],
-            "sameAs": [
-                "https://www.youtube.com/@ZakirKhan",
-                "https://en.wikipedia.org/wiki/Zakir_Khan_(comedian)"
-            ],
-            "award": [],
-            "keywords": [
-                "Amazon Prime",
-                "Haq Se Single",
-                "Indian"
-            ],
-            "verified": true
-        }
-    ],
-    "videos": [
-        {
-            "@type": "VideoObject",
-            "videoId": "video-001",
-            "name": "John Mulaney - Kid Gorgeous (Excerpt)",
-            "actor": {
-                "@type": "Person",
-                "@id": "comedian-001"
-            },
-            "duration": "PT65M",
-            "embedUrl": "https://www.youtube.com/watch?v=example1",
-            "uploadDate": "2018-05-01",
-            "genre": "Stand-Up Special"
-        },
-        {
-            "@type": "VideoObject",
-            "videoId": "video-002",
-            "name": "Vir Das - Two Indias",
-            "actor": {
-                "@type": "Person",
-                "@id": "comedian-003"
-            },
-            "duration": "PT7M",
-            "embedUrl": "https://www.youtube.com/watch?v=example2",
-            "uploadDate": "2021-11-15",
-            "genre": "Performance"
-        }
-    ],
-    "tags": [
-        "stand-up",
-        "comedy",
-        "youtube",
-        "global"
-    ]
+    {
+      "@type": "Person",
+      "entityId": "comedian-002",
+      "name": "Hasan Minhaj",
+      "alternateName": [],
+      "knowsLanguage": "en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "California, USA"
+      },
+      "genre": [
+        "political",
+        "observational",
+        "storytelling"
+      ],
+      "sameAs": [
+        "https://www.youtube.com/@HasanMinhaj",
+        "https://en.wikipedia.org/wiki/Hasan_Minhaj"
+      ],
+      "award": [
+        "Peabody Award"
+      ],
+      "keywords": [
+        "Patriot Act",
+        "Indian-American",
+        "Netflix"
+      ],
+      "verified": true
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-003",
+      "name": "Vir Das",
+      "alternateName": [],
+      "knowsLanguage": "en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "genre": [
+        "observational",
+        "political",
+        "crowd-work"
+      ],
+      "sameAs": [
+        "https://www.youtube.com/@VirDas",
+        "https://en.wikipedia.org/wiki/Vir_Das"
+      ],
+      "award": [
+        "International Emmy Nomination"
+      ],
+      "keywords": [
+        "India",
+        "Netflix",
+        "Abroad Understanding"
+      ],
+      "verified": true
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-004",
+      "name": "Taylor Tomlinson",
+      "alternateName": [],
+      "knowsLanguage": "en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "California, USA"
+      },
+      "genre": [
+        "observational",
+        "self-deprecating"
+      ],
+      "sameAs": [
+        "https://www.youtube.com/@TaylorTomlinson"
+      ],
+      "award": [],
+      "keywords": [
+        "After Midnight",
+        "Netflix",
+        "Quarter-Life Crisis"
+      ],
+      "verified": true
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-005",
+      "name": "Zakir Khan",
+      "alternateName": [
+        "Sakht Launda"
+      ],
+      "knowsLanguage": "hi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Indore, India"
+      },
+      "genre": [
+        "observational",
+        "storytelling",
+        "hinglish"
+      ],
+      "sameAs": [
+        "https://www.youtube.com/@ZakirKhan",
+        "https://en.wikipedia.org/wiki/Zakir_Khan_(comedian)"
+      ],
+      "award": [],
+      "keywords": [
+        "Amazon Prime",
+        "Haq Se Single",
+        "Indian"
+      ],
+      "verified": true
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk087xaa-zgmhg",
+      "name": "Biswa Kalyan Rath",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
+        "https://www.youtube.com/channel/UCyOyIUC4bBPjNWkd5gG30TA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
+        "retrievedAt": "2026-01-04T21:11:03.490Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk0881hd-mo1hs",
+      "name": "Kenny Sebastian",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kenny_Sebastian",
+        "https://www.youtube.com/channel/UCzNq9i-DlDDBLjPerVzJW-A"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kenny_Sebastian",
+        "retrievedAt": "2026-01-04T21:11:08.929Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk0885la-3rn2a",
+      "name": "Kanan Gill",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kanan_Gill",
+        "https://www.youtube.com/channel/UC5W8kZaY_u59fwgtjnLrBXA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kanan_Gill",
+        "retrievedAt": "2026-01-04T21:11:14.254Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk088t2d-f28x1",
+      "name": "Tanmay Bhat",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Tanmay_Bhat",
+        "https://www.youtube.com/channel/UC0rE2qq81of4fojo-KhO5rg"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tanmay_Bhat",
+        "retrievedAt": "2026-01-04T21:11:44.677Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk088x52-465cs",
+      "name": "Abhish Mathew",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Abish_Mathew",
+        "https://www.youtube.com/channel/UCtWoDeegvTPfuuNm_ilJntg"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abish_Mathew",
+        "retrievedAt": "2026-01-04T21:11:49.958Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk089159-m64hv",
+      "name": "Sorabh Pant",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sorabh_Pant",
+        "https://www.youtube.com/channel/UCG-DtDzk64PaJHM0Wanj8NA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sorabh_Pant",
+        "retrievedAt": "2026-01-04T21:11:55.149Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk0894yc-prl3b",
+      "name": "Kunal Kamra",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kunal_Kamra",
+        "https://www.youtube.com/channel/UC7sbc0Ed3_yMu-etXVpj7cg"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kunal_Kamra",
+        "retrievedAt": "2026-01-04T21:12:00.084Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk0898tj-wa7uz",
+      "name": "Rahul Subramanian",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Rahul_Subramanian",
+        "https://www.youtube.com/channel/UC8RrHpql7M97Lqyg9J6hSww"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rahul_Subramanian",
+        "retrievedAt": "2026-01-04T21:12:05.095Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk089cns-4qwa9",
+      "name": "Anubhav Singh Bassi",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Anubhav_Singh_Bassi",
+        "https://www.youtube.com/channel/UCKnZHF24IV9PT0cdSdHoWug"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anubhav_Singh_Bassi",
+        "retrievedAt": "2026-01-04T21:12:10.073Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk089gq3-d1lcl",
+      "name": "Harsh Gujral",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Harsh_Gujral",
+        "https://www.youtube.com/channel/UCGmhWgV9bmslB0Levatl6qA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Harsh_Gujral",
+        "retrievedAt": "2026-01-04T21:12:15.340Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk08cb2k-wv14t",
+      "name": "Aakash Gupta",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Aakash_Gupta"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aakash_Gupta",
+        "retrievedAt": "2026-01-04T21:14:27.980Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk08cdbo-439u2",
+      "name": "Manik Mahna",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Manik_Mahna"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Manik_Mahna",
+        "retrievedAt": "2026-01-04T21:14:30.900Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk08cfl1-9ddub",
+      "name": "Abhishek Upmanyu",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Abhishek_Upmanyu"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abhishek_Upmanyu",
+        "retrievedAt": "2026-01-04T21:14:33.829Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk08chuf-b1lge",
+      "name": "Praveen Kumar",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "ta",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Praveen_Kumar"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Praveen_Kumar",
+        "retrievedAt": "2026-01-04T21:14:36.759Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk08ck38-6doqd",
+      "name": "Aadar Malik",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Aadar_Malik"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aadar_Malik",
+        "retrievedAt": "2026-01-04T21:14:39.668Z"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "@type": "VideoObject",
+      "videoId": "video-001",
+      "name": "John Mulaney - Kid Gorgeous (Excerpt)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-001"
+      },
+      "duration": "PT65M",
+      "embedUrl": "https://www.youtube.com/watch?v=example1",
+      "uploadDate": "2018-05-01",
+      "genre": "Stand-Up Special"
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-002",
+      "name": "Vir Das - Two Indias",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT7M",
+      "embedUrl": "https://www.youtube.com/watch?v=example2",
+      "uploadDate": "2021-11-15",
+      "genre": "Performance"
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-8mgzn",
+      "name": "Biswa Kalyan Rath | Ghar Ke Kaam | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT11M9S",
+      "embedUrl": "https://www.youtube.com/embed/Lhrd-YW8yJE",
+      "contentUrl": "https://www.youtube.com/watch?v=Lhrd-YW8yJE",
+      "uploadDate": "2025-08-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Lhrd-YW8yJE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live in London - Aug 30th & 31: https://sohotheatre.com/events/biswa-kalyan-rath-live-2/\n\nNorth America Tour Tickets : https://theticketworld.com/BKR\n\nYes, I finally remembered YouTube password\nDescription chodo video dekho.\n\nDirected & Edited by Karan Asnani \nProduction House: Myoho Films\nAssociate",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-77y5d",
+      "name": "Swimming and Me",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT2M49S",
+      "embedUrl": "https://www.youtube.com/embed/nXKUdBrn8gU",
+      "contentUrl": "https://www.youtube.com/watch?v=nXKUdBrn8gU",
+      "uploadDate": "2025-08-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nXKUdBrn8gU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "These are just jokes but Swimming has genuinely made me a more confident person and I truly enjoy it. But please do not venture into open waters and always be safe first. 🙏🏽\n\nUSA UK ticket lelo",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-7m30o",
+      "name": "Biswa Kalyan Rath - Uber and Me",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT3M22S",
+      "embedUrl": "https://www.youtube.com/embed/GDnOWmnA8BY",
+      "contentUrl": "https://www.youtube.com/watch?v=GDnOWmnA8BY",
+      "uploadDate": "2017-06-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GDnOWmnA8BY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kucch nahi hai idhar padhne ke liye. Jake full video dekho Amazon Prime pe. Ya mat dekho. Main confident aadmi hun mujhe utna fark nahi padta yeh sab cheez se.",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-jmvzz",
+      "name": "Biswa Kalyan Rath | Birth Proof | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT11M2S",
+      "embedUrl": "https://www.youtube.com/embed/PK_zuAuI9x0",
+      "contentUrl": "https://www.youtube.com/watch?v=PK_zuAuI9x0",
+      "uploadDate": "2025-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PK_zuAuI9x0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live in London - Aug 30th & 31: https://sohotheatre.com/events/biswa-kalyan-rath-live-2/\n\nUS Tour Tickets : https://theticketworld.com/BKR\n\nYes, I finally remembered YouTube password\nDescription chodo video dekho.\n\nDirected & Edited by Karan Asnani \nProduction House: Myoho Films\nAssociate Producer: ",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-z4qm5",
+      "name": "Biswa Kalyan Rath - Banana & Pomegranate",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT4M45S",
+      "embedUrl": "https://www.youtube.com/embed/wkLmfIxi3No",
+      "contentUrl": "https://www.youtube.com/watch?v=wkLmfIxi3No",
+      "uploadDate": "2015-11-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wkLmfIxi3No/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Insaan phool patti ke baare main batiya raha hai, aur prove karne ki koshish kar raha hai ki observational humorist banne ka potential rakhta hai.  \n\nSoundtrack: Nucleya BASS Rani. (https://twitter.com/NUCLEYA)\n\nAgar insaan pasand aaya toh insaan ke nutan bakchodiyon se updated rehne ke liye in link",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-k30o9",
+      "name": "Biswa Kalyan Rath | Hinglish & Engdi | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT12M26S",
+      "embedUrl": "https://www.youtube.com/embed/pK5WgUBakBA",
+      "contentUrl": "https://www.youtube.com/watch?v=pK5WgUBakBA",
+      "uploadDate": "2025-07-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pK5WgUBakBA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live in London - Aug 30th & 31: https://sohotheatre.com/events/biswa-kalyan-rath-live-2/\n\nUS Tour Tickets : https://theticketworld.com/BKR\n\nYes, I finally remembered YouTube password\nDescription chodo video dekho.\n\nDirected & Edited by Karan Asnani \nProduction House: Myoho Films\nAssociate Producer: ",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-u1wfr",
+      "name": "Biswa Kalyan Rath - Extroverts and Chaos",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT6M37S",
+      "embedUrl": "https://www.youtube.com/embed/BC9dkJ0Xwzg",
+      "contentUrl": "https://www.youtube.com/watch?v=BC9dkJ0Xwzg",
+      "uploadDate": "2015-12-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BC9dkJ0Xwzg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Insaan apne gusse ko comedy ke madhyam se channelise kar raha hai. Baaki log theatre main khub relate kar raha hai aur agree kar rahe hai ki samaj ke taur tareekon se tadpe woh bhi hain. \n\nSoundtrack: Nucleya BASS Rani - Aaja. (https://twitter.com/NUCLEYA)\n\nAgar insaan pasand aaya toh insaan ke nuta",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-nueoy",
+      "name": "Biswa Kalyan Rath | Alien & Wife | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT13M19S",
+      "embedUrl": "https://www.youtube.com/embed/UbJKKBqbVno",
+      "contentUrl": "https://www.youtube.com/watch?v=UbJKKBqbVno",
+      "uploadDate": "2025-08-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UbJKKBqbVno/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live in London - Aug 30th & 31: https://sohotheatre.com/events/biswa-kalyan-rath-live-2/\n\nNorth America Tour Tickets : https://theticketworld.com/BKR\n\nYes, I finally remembered YouTube password\nDescription chodo video dekho.\n\nDirected & Edited by Karan Asnani \nProduction House: Myoho Films\nAssociate",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-8hrkl",
+      "name": "Sir Return Hai | Stand Up Comedy | Biswa Kalyan Rath | Mood Kharaab",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT5M16S",
+      "embedUrl": "https://www.youtube.com/embed/cCdmLneRpe8",
+      "contentUrl": "https://www.youtube.com/watch?v=cCdmLneRpe8",
+      "uploadDate": "2023-05-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cCdmLneRpe8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New special Mood Kharaab out on Prime Video, watch now!",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-v4uit",
+      "name": "PT Teacher | Stand Up Comedy | Biswa Kalyan Rath | Mood Kharaab",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT4M7S",
+      "embedUrl": "https://www.youtube.com/embed/LveE-ZQA5WE",
+      "contentUrl": "https://www.youtube.com/watch?v=LveE-ZQA5WE",
+      "uploadDate": "2023-05-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LveE-ZQA5WE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New special Mood Kharaab out on Prime Video, watch now!",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-483b4",
+      "name": "Biswa Kalyan Rath - Scenery",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT3M47S",
+      "embedUrl": "https://www.youtube.com/embed/wJ65W7zeOBU",
+      "contentUrl": "https://www.youtube.com/watch?v=wJ65W7zeOBU",
+      "uploadDate": "2015-12-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wJ65W7zeOBU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watercolour, aansu aur khun se paintings banate hain akhand bharat ke chaar generation. Insaan unki chhupi hui yaadon ko bahar nikaal raha hai. Oho. Oho ho. \n\nOho ho ho ho ho ho.  \n\nSoundtrack: Nucleya BASS Rani - Aaja. (https://twitter.com/NUCLEYA)\n\nAgar insaan pasand aaya toh insaan ke nutan bakch",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-6li2q",
+      "name": "Inconvenience is regrats",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT1M30S",
+      "embedUrl": "https://www.youtube.com/embed/dcGMeFXO6ZU",
+      "contentUrl": "https://www.youtube.com/watch?v=dcGMeFXO6ZU",
+      "uploadDate": "2025-07-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dcGMeFXO6ZU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Please enjoy the convenience of new stand up video",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-ev8lf",
+      "name": "Biswa Kalyan Rath - Feel Good Jokes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT5M43S",
+      "embedUrl": "https://www.youtube.com/embed/-hqdcHiiGGA",
+      "contentUrl": "https://www.youtube.com/watch?v=-hqdcHiiGGA",
+      "uploadDate": "2015-12-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-hqdcHiiGGA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Lighthearted topics pe touch upon karte hue insaan kaafi family friendly hone ka natak kar raha hai. baaki insaan bhi friendly environment main khul ke hans rahe hain.\n\nSoundtrack: Nucleya BASS Rani - Aaja. (https://twitter.com/NUCLEYA)\n\nAgar insaan pasand aaya toh insaan ke nutan bakchodiyon se upd",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-sr12f",
+      "name": "What does Vijay do?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT1M27S",
+      "embedUrl": "https://www.youtube.com/embed/BHKT6DtCcU0",
+      "contentUrl": "https://www.youtube.com/watch?v=BHKT6DtCcU0",
+      "uploadDate": "2025-07-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BHKT6DtCcU0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "An in-depth video about my favourite brand name in India",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-omkkc",
+      "name": "Maa Please - Biswa Kalyan Rath - Sketch",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT6M27S",
+      "embedUrl": "https://www.youtube.com/embed/GwQBwCTnZq0",
+      "contentUrl": "https://www.youtube.com/watch?v=GwQBwCTnZq0",
+      "uploadDate": "2017-04-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GwQBwCTnZq0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Writers: Sourav Ghosh & Biswa Kalyan Rath\nDirector: Biswa Kalyan Rath\nActors: In no particular order, \nAnirban Dasgupta, Urooj Ashfaq, Kumar Varun, Sumukhi Suresh, Supriya Joshi, Trupti Khamakha, Anuya Jakatdar, Sulagna Panigrahi, Ranjni, Amshula Prakash, Pavitra Shetty, Nishant Agarwal, Rahul Subra",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-jlauq",
+      "name": "Biswa Kalyan Rath - Fans And NailCutters",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT2M43S",
+      "embedUrl": "https://www.youtube.com/embed/w-jNvgYoI1k",
+      "contentUrl": "https://www.youtube.com/watch?v=w-jNvgYoI1k",
+      "uploadDate": "2015-04-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/w-jNvgYoI1k/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Insaan mic pakad ke baat kar raha hai. Baaki insaan laugh kar rahe hain. \n\nInsaan idhar time waste karta hai. @KalyanRath: https://twitter.com/kalyanrath\n\nFB: https://www.facebook.com/rathbiswakalyan",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-yilx4",
+      "name": "Biswa Kalyan Rath - Moderately Dirty Jokes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT3M9S",
+      "embedUrl": "https://www.youtube.com/embed/HYJmmFHI8mE",
+      "contentUrl": "https://www.youtube.com/watch?v=HYJmmFHI8mE",
+      "uploadDate": "2015-04-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HYJmmFHI8mE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Insaan control main dirt phek raha hai, sab pakad ke enjoy kar rahe hain. Tumko karna hai toh karo.\n\nInsaan idhar time waste karta hai. \n\n@KalyanRath: https://twitter.com/kalyanrath\n\nFB: https://www.facebook.com/rathbiswakalyan",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-1wbjc",
+      "name": "Biswa Kalyan Rath - Bicycles and Bikes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT2M35S",
+      "embedUrl": "https://www.youtube.com/embed/36XtJ5ESCSk",
+      "contentUrl": "https://www.youtube.com/watch?v=36XtJ5ESCSk",
+      "uploadDate": "2015-04-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/36XtJ5ESCSk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "[Disclaimer: Opinions expressed in this video are solely intended for the purpose of humour. I encourage bicycling by all means and the purpose of this video is not to discourage bicyclists] \n\nInsaan joke maar raha hai, strong language use kar ke. Baaki insaan laugh kar rahe hain.\n\nInsaan idhar time",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-rfo1c",
+      "name": "Icosidodecahedron",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT1M7S",
+      "embedUrl": "https://www.youtube.com/embed/iWBRQQ3OBqw",
+      "contentUrl": "https://www.youtube.com/watch?v=iWBRQQ3OBqw",
+      "uploadDate": "2025-08-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iWBRQQ3OBqw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "USA UK tickets: https://linktr.ee/biswalivemania\nNew video out. Bahut type kar liya sone ja raha hun goodnight",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk087zu8-mtch9",
+      "name": "Comedy For Kids - Stand Up",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT8M20S",
+      "embedUrl": "https://www.youtube.com/embed/Md9T7gzTBhk",
+      "contentUrl": "https://www.youtube.com/watch?v=Md9T7gzTBhk",
+      "uploadDate": "2015-10-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Md9T7gzTBhk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is the link for applications :http://apply.teachforindia.org/user/register \n\nSo five of us comedians wanted to try out if we can make children laugh and if so, how. This video is a result of that experiment. \n\nComedians In this video in Alphabetical Order\n\nAbhishek Upmanyu - @AbhiUpmanyu\nAbish ",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xx-tisfv",
+      "name": "Fathers, Mothers, Husbands & Wives - Kenny Sebastian | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT23M17S",
+      "embedUrl": "https://www.youtube.com/embed/-tWX0kgAp6I",
+      "contentUrl": "https://www.youtube.com/watch?v=-tWX0kgAp6I",
+      "uploadDate": "2025-07-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-tWX0kgAp6I/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is the most personal I have ever been with my stand up comedy! An excerpt from my latest stand up comedy special \"Professor of Tomfoolery\", I talk about how generationally, Indian families fight at home!\n\nThrough my own story of being in a marriage, we millennials are taking the first steps at ",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xx-27xjx",
+      "name": "Simple Ken - Two Types of People @Hoezaay@shamikchakrabarti @ShreejaChaturvedi@SauravMehta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT1H14M52S",
+      "embedUrl": "https://www.youtube.com/embed/rNELG-f4tDI",
+      "contentUrl": "https://www.youtube.com/watch?v=rNELG-f4tDI",
+      "uploadDate": "2025-12-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rNELG-f4tDI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The third live episode of Two Types of People is here! Thanks to the live audience who came for this show (Link is available on bookmyshow once a month/simpleken podcast instagram page).\n\nType Types of People is a debate game where we choose a topic and defend it! Topics like Have Kids or don't, Eat",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xx-l9cte",
+      "name": "Kenny Sebastian - Indian Generational Drama | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT15M10S",
+      "embedUrl": "https://www.youtube.com/embed/YDX1-5T_uQ4",
+      "contentUrl": "https://www.youtube.com/watch?v=YDX1-5T_uQ4",
+      "uploadDate": "2025-06-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YDX1-5T_uQ4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The Crux of my special \"Professor of Tomfoolery\" is generations. How the differences affect our daily family lives. This part was such a journey in terms of writing it. It was fun balancing and covering all the generations while also doing justice to them. I had a blast observing the reactions from ",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-rct2e",
+      "name": "Kenny Sebastian - Every Indian Parents' Love Story | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT12M57S",
+      "embedUrl": "https://www.youtube.com/embed/EraG9PH-Vgg",
+      "contentUrl": "https://www.youtube.com/watch?v=EraG9PH-Vgg",
+      "uploadDate": "2025-05-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EraG9PH-Vgg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "My favourite stories and my favourite part of my stand up special \"Professor of Tomfoolery\".\n\nI have never been this personal with my stand up shows before so it felt amazing to open up and share stories about my parents and my childhood.\n\nHope you enjoy this clip and share it with your family and f",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-0szmf",
+      "name": "MIDDLE CLASS RESTAURANT PROBLEMS : STAND UP COMEDY -Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT7M25S",
+      "embedUrl": "https://www.youtube.com/embed/TZgyeEE2hx4",
+      "contentUrl": "https://www.youtube.com/watch?v=TZgyeEE2hx4",
+      "uploadDate": "2015-07-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TZgyeEE2hx4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Indian stand up comedian Kenneth Sebastian talks about how truly middle class Indian people (like himself) face troubles in Indian Restaurants!\n\nPart of his latest stand up comedy special series #InsidesOut , Kenny in this clip explores how every middle class parent orders food in Indian restaurants",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-6bba9",
+      "name": "Simple Ken Podcast | S02E10 Couple Questions Feat. Tracy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT1H7S",
+      "embedUrl": "https://www.youtube.com/embed/I25BPL_QYdk",
+      "contentUrl": "https://www.youtube.com/watch?v=I25BPL_QYdk",
+      "uploadDate": "2025-11-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/I25BPL_QYdk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "My wife is back on the show! The first episode of the new season started with her and the episode was so well received! All of you in the comments asked for her return so here she is! We answer all the questions you asked us, Questions like  'does she feel normal after the baby, how we make time for",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-ipic0",
+      "name": "Simple Ken -Two Types of People Ft.@Hoezaay @TarangHardikar @ShreejaChaturvedi @SauravMehta​",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT1H8M2S",
+      "embedUrl": "https://www.youtube.com/embed/hb1TQC5ryzY",
+      "contentUrl": "https://www.youtube.com/watch?v=hb1TQC5ryzY",
+      "uploadDate": "2025-10-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hb1TQC5ryzY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The second episode of Simple Ken Live is here! The OG panelists are back (Shamilk couldn't join us due to an unfortunate tree accident) but the debates and the fighting is back! Hope you guys enjoy this episode! From topics like Court Marriage to huge Marriage celebration, PDA vs no PDA and cheating",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-wdtey",
+      "name": "Simple Ken Podcast | S02E13 Family Foundation Feat Kunal Khemu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT1H14M35S",
+      "embedUrl": "https://www.youtube.com/embed/7sPRn3q5r4A",
+      "contentUrl": "https://www.youtube.com/watch?v=7sPRn3q5r4A",
+      "uploadDate": "2025-12-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7sPRn3q5r4A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "It brings me great pleasure to have the amazing Kunal Khemu on SimpleKen! We had a lot of fun discussing films, the difference from being an actor to a director, being a father and ofcourse our love for motorcycles. Hope you guys enjoy this episode as much as I did! \n\n_______________________________",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-hya7w",
+      "name": "Why I Don't Do Jokes About Politics in India - Stand Up Comedy | Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT12M44S",
+      "embedUrl": "https://www.youtube.com/embed/azFe8b6yfb0",
+      "contentUrl": "https://www.youtube.com/watch?v=azFe8b6yfb0",
+      "uploadDate": "2018-04-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/azFe8b6yfb0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kenny Sebastian is back with a brand new stand up bit where he explains his situation with self censorship.\n\nHe is surprised that most people don't realise that he is self aware and doesn't dabble in topics that distract people from the main reason he does comedy...to entertain.\n\nFrom types of audie",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-cjub7",
+      "name": "School Love - Stand Up Comedy by Kenny Sebastian | Best & Worst Memories Crowd Work",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT11M19S",
+      "embedUrl": "https://www.youtube.com/embed/4uiQtqApbbc",
+      "contentUrl": "https://www.youtube.com/watch?v=4uiQtqApbbc",
+      "uploadDate": "2021-09-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4uiQtqApbbc/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "A new show format where I ask the audience their best and worst memories and we laugh our way through our trauma together!\n\nWebsite: https://www.knowkenny.com/\nInstagram: https://www.instagram.com/kennethseb/\n\nSpecial Thanks to The Habitat :  https://www.instagram.com/indiehabitat\n\nThe Habitat Audio",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-wbnj3",
+      "name": "Why Gen Z will never get married #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT2M48S",
+      "embedUrl": "https://www.youtube.com/embed/V9C2Az1Ncoo",
+      "contentUrl": "https://www.youtube.com/watch?v=V9C2Az1Ncoo",
+      "uploadDate": "2025-06-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/V9C2Az1Ncoo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-x5tux",
+      "name": "Indian Parents, OCD and Electricity at Home - Stand Up Comedy by Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT7M18S",
+      "embedUrl": "https://www.youtube.com/embed/lfBp-RgPe7M",
+      "contentUrl": "https://www.youtube.com/watch?v=lfBp-RgPe7M",
+      "uploadDate": "2016-01-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lfBp-RgPe7M/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In his brand new special \"AWENEST\" , Indian stand up comedian Kenneth Sebastian talks about the most important people in his life, His parents.\n\nA big fan of his mom and dad, Kenny describes the unspoken house rules of every Indian mother and the only thing that Indian father's can't tolerate - Wast",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-01te9",
+      "name": "Simple Ken -Two Types of People Ft. @Hoezaay @shamikchakrabarti @ShreejaChaturvedi @SauravMehta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT1H30M10S",
+      "embedUrl": "https://www.youtube.com/embed/FnXzIgFadsQ",
+      "contentUrl": "https://www.youtube.com/watch?v=FnXzIgFadsQ",
+      "uploadDate": "2025-07-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FnXzIgFadsQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "It's the first Simple Ken Live show! We put up the link to the tickets only to the Simple Ken Followers!  We couldn't do a better format than Two Type of People! We got such an amazing response to it with the last two episodes, So in the new season it comes back in an even better way!\n\nType Types of",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-2olqe",
+      "name": "Me, My Mother & Our Maid - Kenny Sebastian | Don't Be That Guy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT3M56S",
+      "embedUrl": "https://www.youtube.com/embed/WBUYy6NnWTo",
+      "contentUrl": "https://www.youtube.com/watch?v=WBUYy6NnWTo",
+      "uploadDate": "2017-05-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WBUYy6NnWTo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "STREAM THE 60 MINUTE COMPLETE SHOW HERE: http://bit.ly/2odEuYJ (FREE 30 DAY TRIAL)\n\nKenny Sebastian is back with his 5th special called 'Don't be that guy', A one hour comedy special where he talks about turning 26, living on his own and why he is a former nice guy!\n\nIn this clip he opens up about t",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-1ln9v",
+      "name": "Why Hookups are Scary & Dating is Painful - Stand Up Comedy By Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT4M5S",
+      "embedUrl": "https://www.youtube.com/embed/FGTrazGV5O4",
+      "contentUrl": "https://www.youtube.com/watch?v=FGTrazGV5O4",
+      "uploadDate": "2024-04-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FGTrazGV5O4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Now that I am 33, I look back at my dating and hookup phase.\n\nMy advice? Wear full body hazmat suit and enjoy!\n\nA small excerpt from my live show \"Professor of Tomfoolery\". \n\nShot in Mumbai.\n\nInstagram @Kennethseb\nLive Show Tickets on : www.KennySebastian.com",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-jxrih",
+      "name": "Why the Dosa is Amazing : Kenny Sebastian : Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT4M37S",
+      "embedUrl": "https://www.youtube.com/embed/mlwF7TabGlQ",
+      "contentUrl": "https://www.youtube.com/watch?v=mlwF7TabGlQ",
+      "uploadDate": "2017-03-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mlwF7TabGlQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kenny Sebastian has been touring the country to sold out shows with his special \"Don't be that guy\". In his latest clip he talks about something that he is passionately attached to.\n\nThe Dosa.\n\nThe south Indian delicacy \"The Dosa\" is a Rice pancake of brilliance. From talking about how simple & eleg",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-yo8ho",
+      "name": "Why Jet Airways Failed - Indigo, Pilots & Airports in India | Kenny Sebastian - Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT10M29S",
+      "embedUrl": "https://www.youtube.com/embed/79fyggVS6p4",
+      "contentUrl": "https://www.youtube.com/watch?v=79fyggVS6p4",
+      "uploadDate": "2019-07-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/79fyggVS6p4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kenny Sebastian in his latest video shares his thoughts on why Jet Airways, India's second largest airline went down under! He then describes his feelings towards Airports in India and why most of their employees are disgruntled. He also feels it's not the best idea to give pilots feedback on landin",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-gpmc0",
+      "name": "The Beauty of Nazar : Superstition in India | Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT9M28S",
+      "embedUrl": "https://www.youtube.com/embed/2h42lBcS3Y4",
+      "contentUrl": "https://www.youtube.com/watch?v=2h42lBcS3Y4",
+      "uploadDate": "2017-10-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2h42lBcS3Y4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kenny Sebastian talks about the beauty of superstition in India and especially 'Nazar' which seems to conveniently explain every problem in peoples lives!\n\nFrom the concept of 'Touch Wood' to 'Black Cats Crossing the Road', How does it all work? Kenny breaks it down in his latest Stand Up Comedy Cli",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-ur8ij",
+      "name": "Exams, CBSE, Punishments - Stand Up Comedy by Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT10M29S",
+      "embedUrl": "https://www.youtube.com/embed/Cdsnc70Un14",
+      "contentUrl": "https://www.youtube.com/watch?v=Cdsnc70Un14",
+      "uploadDate": "2016-02-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cdsnc70Un14/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In his latest clip from his brand new special, Kenny explores his school days. The constant battles he used to face and his biggest fear of all \"Exams\". Growing up in a government school, You could never escape punishments from teachers as well!\n\nAfter releasing three stand up comedy specials online",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0883xy-w4o5s",
+      "name": "NORTH INDIANS CAN TALK TO ANYBODY - STAND UP COMEDY : Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT2M57S",
+      "embedUrl": "https://www.youtube.com/embed/PEXqDGYb8m8",
+      "contentUrl": "https://www.youtube.com/watch?v=PEXqDGYb8m8",
+      "uploadDate": "2015-10-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PEXqDGYb8m8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Indian stand up comedian Kenneth Sebastian talks about how he admires people residing in north India as they can talk to almost anybody,  A problem that most south indians face!\n\nIn this bonus clip from his latest stand up comedy special series #InsidesOut , Kenny in this clip explores how south ind",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-hn584",
+      "name": "Is This It? - Full Comedy Special | Kanan Gill 2023",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT1H59M57S",
+      "embedUrl": "https://www.youtube.com/embed/fh0Ru6LjBAY",
+      "contentUrl": "https://www.youtube.com/watch?v=fh0Ru6LjBAY",
+      "uploadDate": "2024-01-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fh0Ru6LjBAY/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "Pre order my novel! (India Only) - http://bit.ly/KGBookAmazon or https://bit.ly/KGBookCrossword\n\nI'm touring with a new Show!\nIndia Tour - https://bit.ly/KGIndiaTour\nAustralia (April) - Tickets out soon\nEurope (May/June) - Tickets out soon\nNorth America (September) - Tickets out soon",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-dfine",
+      "name": "Kanan Gill - Relationships, Traps and Blackheads - Keep It Real",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT4M48S",
+      "embedUrl": "https://www.youtube.com/embed/XJCrR9HcH9Y",
+      "contentUrl": "https://www.youtube.com/watch?v=XJCrR9HcH9Y",
+      "uploadDate": "2017-06-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XJCrR9HcH9Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Comedy is best watched by not looking at the subtitles.\n\nThis clip is part of my 1 hour comedy show \"Keep It Real”, available on Amazon Prime Video. It was designed to be an hour and not separate clips, so please head over there to watch it for maximum enjoyment :)\n\nLink : http://amzn.to/2qHZGv8",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-jrwex",
+      "name": "Kanan Gill - Siblings - Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT2M39S",
+      "embedUrl": "https://www.youtube.com/embed/Kb1fFLkbPao",
+      "contentUrl": "https://www.youtube.com/watch?v=Kb1fFLkbPao",
+      "uploadDate": "2017-06-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kb1fFLkbPao/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Subscribe to stay updated with new content and to re-enjoy old content with misty eyes and glasses of brandy. Those were the days, you will say. Which days? Just...those ones. Maybe you have a rosy lens to view the past? Why are we having a conversation? Sorry, continue reading this description belo",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-m9f5i",
+      "name": "Kanan Gill - Explaining Technology To Parents - Keep It Real",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT3M11S",
+      "embedUrl": "https://www.youtube.com/embed/2wzPF_Xw7WU",
+      "contentUrl": "https://www.youtube.com/watch?v=2wzPF_Xw7WU",
+      "uploadDate": "2017-06-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2wzPF_Xw7WU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Comedy is best watched by not looking at the subtitles.\n\nThis clip is part of my 1 hour comedy show \"Keep It Real”, available on Amazon Prime Video. It was designed to be an hour and not separate clips, so please head over there to watch it for maximum enjoyment :)\n\nLink: http://amzn.to/2qRjuJc",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-3vzl1",
+      "name": "MOST VALUES EVER - Hum Saath Saath Hain Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT7M10S",
+      "embedUrl": "https://www.youtube.com/embed/3UWDjBZ_Ncg",
+      "contentUrl": "https://www.youtube.com/watch?v=3UWDjBZ_Ncg",
+      "uploadDate": "2014-06-30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3UWDjBZ_Ncg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We review the movie that contains every possible value and moral. \n\nThis movie reminds takes us back to the wonderful 90's where anything was possible as long as you were a rich joint family.\n\nThis review was done based on your suggestions! If you'd like us to review any other movies, let us know in",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-e9zi3",
+      "name": "(BONUS!) MOST DANCE EVER - Disco Dancer Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT6M37S",
+      "embedUrl": "https://www.youtube.com/embed/YCEwVXb9eyI",
+      "contentUrl": "https://www.youtube.com/watch?v=YCEwVXb9eyI",
+      "uploadDate": "2015-04-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YCEwVXb9eyI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We were privileged enough to review Disco Dancer - a movie that changed the pants of thousands and could possible be responsible for the collapse of the soviet union. Watch for the most interesting phobia ever! - Guitar phobia.\n\nThis is our second video in the Day Of Mithun celebrations. Move on dow",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-sjsia",
+      "name": "MOST ACTING EVER -Main Prem Ki Diwani Hoon Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT7M5S",
+      "embedUrl": "https://www.youtube.com/embed/7sV6UPJa0DI",
+      "contentUrl": "https://www.youtube.com/watch?v=7sV6UPJa0DI",
+      "uploadDate": "2014-04-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7sV6UPJa0DI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We reviewed the masterpiece of human performance -Main Prem Ki Diwani Hoon recently.\n\n\nThis movie reminds us of a beautiful and innocent time, where they used to make movies like these. Goosebumps!\n\nThis review was done based on your suggestions! If you'd like us to review any other movies let us kn",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-3make",
+      "name": "MOST BOLLYWOOD EVER - Dilwale Dulhaniya Le Jayenge Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT11M46S",
+      "embedUrl": "https://www.youtube.com/embed/TOZyX3bv2Hc",
+      "contentUrl": "https://www.youtube.com/watch?v=TOZyX3bv2Hc",
+      "uploadDate": "2015-01-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TOZyX3bv2Hc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We had the utmost honour of re-watching the classic DDLJ. We set out to find how a film can play for 1000 weeks straight in theatres, and uncovered hidden treasures and creepiness.\nFeaturing a very special guest.\n\nThis review was done based on your suggestions! If you'd like us to review any other m",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-ltylp",
+      "name": "MOST SNAKES EVER - Tum Mere Ho Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT8M10S",
+      "embedUrl": "https://www.youtube.com/embed/0n7OWo4Sr6U",
+      "contentUrl": "https://www.youtube.com/watch?v=0n7OWo4Sr6U",
+      "uploadDate": "2014-09-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0n7OWo4Sr6U/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We had the privilege of reviewing Tum Mere Ho, one of Aamir Khan's earliest and snakiest performances. This is movie explores some adult themes, the only childish thing about it is all the marriage.\n\nTell us what you thought (nicely). \n\nPeople in the video:\nKanan Gill @KananGill\nBiswa Kalyan Rath @K",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-a2dnn",
+      "name": "MOST PAAGAL EVER - Rudraksh Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT8M43S",
+      "embedUrl": "https://www.youtube.com/embed/VGF3Wgb67mI",
+      "contentUrl": "https://www.youtube.com/watch?v=VGF3Wgb67mI",
+      "uploadDate": "2014-10-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VGF3Wgb67mI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We had the esteemed privilege of reviewing Rudraksh. \n\nRudraksh is a movie that combines technology, mythology and VFX into an elegant soufflé that smells strongly of car tires. We would best describe it as Ramayan II - Judgement day.\n\nThis review was done based on your suggestions! If you'd like us",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-fvh09",
+      "name": "MOST SUROOR EVER - Aap ka Suroor Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT6M41S",
+      "embedUrl": "https://www.youtube.com/embed/mDbOWVau0MU",
+      "contentUrl": "https://www.youtube.com/watch?v=mDbOWVau0MU",
+      "uploadDate": "2014-04-30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mDbOWVau0MU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We reviewed what turned out to be a deep look inside the mind of one of India's most famous singers. IN GERMANY.\n\nThis review was done based on your suggestions! If you'd like us to review any other movies let us know in the comments.\nAs always, we'd like to know what you think. So tell us! (nicely)",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-6cgkr",
+      "name": "Tum Mere Ho - Bloopers and Deleted Scenes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT3M47S",
+      "embedUrl": "https://www.youtube.com/embed/YW-k4hfnuJw",
+      "contentUrl": "https://www.youtube.com/watch?v=YW-k4hfnuJw",
+      "uploadDate": "2014-09-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YW-k4hfnuJw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Deleted scenes and bloopers from the Tum Mere Ho Review.",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-qlx7s",
+      "name": "Dudes #4: Headphones",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT1M20S",
+      "embedUrl": "https://www.youtube.com/embed/wU7k1hxuMV8",
+      "contentUrl": "https://www.youtube.com/watch?v=wU7k1hxuMV8",
+      "uploadDate": "2014-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wU7k1hxuMV8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The dudes have headphones.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-1ox2y",
+      "name": "Dudes #2 : Tragedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT1M30S",
+      "embedUrl": "https://www.youtube.com/embed/HH0UQ3YuqRI",
+      "contentUrl": "https://www.youtube.com/watch?v=HH0UQ3YuqRI",
+      "uploadDate": "2014-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HH0UQ3YuqRI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The dudes face tragedies.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-74gmk",
+      "name": "Rudraksh - Bloopers and Deleted Scenes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT3M5S",
+      "embedUrl": "https://www.youtube.com/embed/mcutrjiE6jM",
+      "contentUrl": "https://www.youtube.com/watch?v=mcutrjiE6jM",
+      "uploadDate": "2014-10-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mcutrjiE6jM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Deleted scenes and bloopers from the Rudraksh movie review. It would be remiss of us to not upload this video.",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-xmxe0",
+      "name": "Dudes #5 : Intervention",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT38S",
+      "embedUrl": "https://www.youtube.com/embed/koFKvnthr9I",
+      "contentUrl": "https://www.youtube.com/watch?v=koFKvnthr9I",
+      "uploadDate": "2014-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/koFKvnthr9I/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The dudes intervene.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-ji8iq",
+      "name": "Kya Kehna Review - Bloopers and Deleted Scenes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT4M40S",
+      "embedUrl": "https://www.youtube.com/embed/iXUXf9_0cjo",
+      "contentUrl": "https://www.youtube.com/watch?v=iXUXf9_0cjo",
+      "uploadDate": "2015-08-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iXUXf9_0cjo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The bloopers and deleted scenes from the Kya Kehna review (duh.)\n\nWatch the review first!",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-2ujx6",
+      "name": "Dudes #1 : The Plan",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT1M12S",
+      "embedUrl": "https://www.youtube.com/embed/Ej7mziMcIdU",
+      "contentUrl": "https://www.youtube.com/watch?v=Ej7mziMcIdU",
+      "uploadDate": "2014-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ej7mziMcIdU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The dudes have a plan.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-3dr2h",
+      "name": "This is what we do. 4 Friendship.",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT34S",
+      "embedUrl": "https://www.youtube.com/embed/4BnXAXuTID4",
+      "contentUrl": "https://www.youtube.com/watch?v=4BnXAXuTID4",
+      "uploadDate": "2014-11-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4BnXAXuTID4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0887n1-h1vr0",
+      "name": "Disco Dancer Review - Bloopers and Deleted Scenes",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0885la-3rn2a"
+      },
+      "duration": "PT3M1S",
+      "embedUrl": "https://www.youtube.com/embed/1a1ZTfDzioU",
+      "contentUrl": "https://www.youtube.com/watch?v=1a1ZTfDzioU",
+      "uploadDate": "2015-04-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1a1ZTfDzioU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Bloopers and Deleted Scenes from the Disco Dancer Review.",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088jsl-avu38",
+      "name": "Geoguessing with Smrutika - Biswa Kalyan Rath",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088hhx-jaxf9"
+      },
+      "duration": "PT55M16S",
+      "embedUrl": "https://www.youtube.com/embed/igi1KI5TLGU",
+      "contentUrl": "https://www.youtube.com/watch?v=igi1KI5TLGU",
+      "uploadDate": "2021-05-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/igi1KI5TLGU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Trying to play this game. ",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088rhn-laqf8",
+      "name": "MOST EXERCISE EVER - Prem Aggan Review",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088p87-3rz4f"
+      },
+      "duration": "PT8M13S",
+      "embedUrl": "https://www.youtube.com/embed/mA1LQRBA6es",
+      "contentUrl": "https://www.youtube.com/watch?v=mA1LQRBA6es",
+      "uploadDate": "2014-07-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mA1LQRBA6es/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We had the esteemed privilege of reviewing Prem Agan. \n\nPrem Agan is a movie that reaches into the deep abcesses of innuendo and always finds more. It's pretty dirty. Also least acting ever.\n\nThis review was done based on your suggestions! If you'd like us to review any other movies let us know in t",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088rhn-vaadg",
+      "name": "Dudes #3 : Bag",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088p87-3rz4f"
+      },
+      "duration": "PT32S",
+      "embedUrl": "https://www.youtube.com/embed/kTsloPlojzc",
+      "contentUrl": "https://www.youtube.com/watch?v=kTsloPlojzc",
+      "uploadDate": "2014-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kTsloPlojzc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The dudes have a bag.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+      "channelTitle": "Kanan Gill",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-zabe4",
+      "name": "IS SHE INDIAS SMARTEST STUDENT?!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT15M24S",
+      "embedUrl": "https://www.youtube.com/embed/spXC6MdX88w",
+      "contentUrl": "https://www.youtube.com/watch?v=spXC6MdX88w",
+      "uploadDate": "2024-01-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/spXC6MdX88w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "FOLLOW:\n• Rohan Joshi - https://www.instagram.com/mojorojo/\n• Aaditya Kulshreshth - https://www.instagram.com/kullubaaazi/\n• Vishal Dayama - https://www.instagram.com/dayamaged/?hl=en\n• Piyush Sharma - https://www.instagram.com/misterpiyush\n\nCHECK OUT MY OTHER CHANNELS\n• Honestly by Tanmay Bhat: htt",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-97c0o",
+      "name": "AXAR PATEL REACTS TO ROHIT SHARMA MEMES Ft. @ZakirKhan",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT24M13S",
+      "embedUrl": "https://www.youtube.com/embed/0LTRQeagZV8",
+      "contentUrl": "https://www.youtube.com/watch?v=0LTRQeagZV8",
+      "uploadDate": "2025-12-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0LTRQeagZV8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Catch the panel live here - \n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Aaditya Kulshreshth - https://linktr.ee/kullubaaazi\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Zakir Khan - https://linktr.ee/zakirkhanlive\n\n\nFOLLOW:\n• Axar Patel -  https://www.instag",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-088xl",
+      "name": "MAZAA HI AA GAYA - VLOG 26",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT13M16S",
+      "embedUrl": "https://www.youtube.com/embed/lP6T2OA4-UE",
+      "contentUrl": "https://www.youtube.com/watch?v=lP6T2OA4-UE",
+      "uploadDate": "2020-04-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lP6T2OA4-UE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is an open challenge to Kabita's Kitchen from an Asia conquerer chef.\n\nFollow me on Instagram: https://instagram.com/tanmaybhat\nFollow me on my Discord: https://discordapp.com/invite/6Jf4de9\nSubmit your memes on Reddit: https://www.reddit.com/r/TanmayBhatKeDost\n\nVideo edited by Hitanshu 'rAge' ",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-w0bkb",
+      "name": "Why Does Sunil Pal Hate Me? :(",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT25M36S",
+      "embedUrl": "https://www.youtube.com/embed/m4bSQyO-LvQ",
+      "contentUrl": "https://www.youtube.com/watch?v=m4bSQyO-LvQ",
+      "uploadDate": "2020-02-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m4bSQyO-LvQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Follow me on Instagram: https://instagram.com/tanmaybhat\nFollow me on my Discord: https://discordapp.com/invite/6Jf4de9\nSubmit your memes on Reddit: https://www.reddit.com/r/TanmayBhatKeDost\n\nVideo edited by Rage: https://www.youtube.com/channel/UCz9DSRVX1rzS8a5Y3DJVZ_g\n\nChannel Manager: Revant Tale",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-lpx7g",
+      "name": "Multiverse of 665 Crores",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M25S",
+      "embedUrl": "https://www.youtube.com/embed/OJEzXDYX0-s",
+      "contentUrl": "https://www.youtube.com/watch?v=OJEzXDYX0-s",
+      "uploadDate": "2025-10-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OJEzXDYX0-s/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-qzx8f",
+      "name": "Tanmay Bhat Fitness Secret 🔥",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT50S",
+      "embedUrl": "https://www.youtube.com/embed/WiqO0DfjGsM",
+      "contentUrl": "https://www.youtube.com/watch?v=WiqO0DfjGsM",
+      "uploadDate": "2025-02-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WiqO0DfjGsM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-co9n8",
+      "name": "This Triggered Tanmay Bhat! 😩",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M1S",
+      "embedUrl": "https://www.youtube.com/embed/6JmHMbWwG8Y",
+      "contentUrl": "https://www.youtube.com/watch?v=6JmHMbWwG8Y",
+      "uploadDate": "2025-01-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6JmHMbWwG8Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-qwcb4",
+      "name": "COMEDIANS REACT TO UNSEEN CELEBRITY VIDEOS",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT22M44S",
+      "embedUrl": "https://www.youtube.com/embed/KjevyQX49gw",
+      "contentUrl": "https://www.youtube.com/watch?v=KjevyQX49gw",
+      "uploadDate": "2025-10-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KjevyQX49gw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Catch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Aaditya Kulshreshth - https://linktr.ee/kullubaaazi\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n\n\nFOLLOW:\n\n• Aaditya Kulshreshth -  https://www.instagram.com/kullubaaazi/?hl=en\n• Rohan J",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-5m4y0",
+      "name": "Tanmay Bhat Chat Leaked! 🤣",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT59S",
+      "embedUrl": "https://www.youtube.com/embed/LVe-jV8hH54",
+      "contentUrl": "https://www.youtube.com/watch?v=LVe-jV8hH54",
+      "uploadDate": "2025-01-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LVe-jV8hH54/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-2zw6t",
+      "name": "INDIA'S FUNNIEST COMEDIAN?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT25M9S",
+      "embedUrl": "https://www.youtube.com/embed/7xEfqRC6azA",
+      "contentUrl": "https://www.youtube.com/watch?v=7xEfqRC6azA",
+      "uploadDate": "2025-09-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7xEfqRC6azA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Catch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Aaditya Kulshreshth - linktr.ee/kullubaaazi\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Kushagra Srivastava - linktr.ee/kushagracomedy\n• Tarang Hardikar - https://linktr.ee/taranghardi",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-mofqb",
+      "name": "BEST WAY TO TOP YOUR EXAMS",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT16M15S",
+      "embedUrl": "https://www.youtube.com/embed/cJHAzcalfD8",
+      "contentUrl": "https://www.youtube.com/watch?v=cJHAzcalfD8",
+      "uploadDate": "2022-12-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cJHAzcalfD8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "A Hide & Seek battle you have never experienced before. Watch the full video on the Unacademy India YouTube - https://tanmaybhat.ssup.co/PaqS\n\n#UnacademyEpicHideAndSeek\n#HideAndSeek\n\nFOLLOW:\n• Samay Raina - https://tanmaybhat.ssup.co/Samayraina\n• Rohan Joshi - https://tanmaybhat.ssup.co/Rohanjoshi\n•",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-sl96l",
+      "name": "Your Diwali Kit, Powered by Noice ✨🪔",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M45S",
+      "embedUrl": "https://www.youtube.com/embed/qG1blkm2PM4",
+      "contentUrl": "https://www.youtube.com/watch?v=qG1blkm2PM4",
+      "uploadDate": "2025-10-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qG1blkm2PM4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Stocking up on Diwali szn essentials: Cards, vibes and Noice snacks and goodies ✨ @getnoice",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-jzhfg",
+      "name": "COMEDIANS REACT TO INDIAS FUNNIEST KIDS",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT32M4S",
+      "embedUrl": "https://www.youtube.com/embed/vQgaSePyThE",
+      "contentUrl": "https://www.youtube.com/watch?v=vQgaSePyThE",
+      "uploadDate": "2025-10-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vQgaSePyThE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Agent Ching attack: https://youtu.be/9tel_cnP8oo?si=e7PloE-R8kvJjRw4\n\nCatch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Aaditya Kulshreshth - https://linktr.ee/kullubaaazi\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Kushagra Srivastav",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-46dxw",
+      "name": "SOURAV JOSHI WEDDING REVIEW",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT25M14S",
+      "embedUrl": "https://www.youtube.com/embed/9IQis8WWbAE",
+      "contentUrl": "https://www.youtube.com/watch?v=9IQis8WWbAE",
+      "uploadDate": "2025-12-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9IQis8WWbAE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Check out Accel Atoms - https://atoms.accel.com\n\nCatch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Kushagra Srivastavaa - https://linktr.ee/kushagracomedy\n\nFOLLOW:\n\n• Rohan Joshi - https://www",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-xgdyz",
+      "name": "Happy birthday to Bhopal’s favourite son ​⁠​😘",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT2M1S",
+      "embedUrl": "https://www.youtube.com/embed/4vBVbf8mrtg",
+      "contentUrl": "https://www.youtube.com/watch?v=4vBVbf8mrtg",
+      "uploadDate": "2025-07-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4vBVbf8mrtg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-ipow1",
+      "name": "HOW FAMOUS COMEDIANS VACATION ft @ZakirKhan - VLOG 58",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT10M25S",
+      "embedUrl": "https://www.youtube.com/embed/jddGtvMAcBU",
+      "contentUrl": "https://www.youtube.com/watch?v=jddGtvMAcBU",
+      "uploadDate": "2021-01-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jddGtvMAcBU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Went to Alibaug with Kaneez, Zakir and KV, and of course I destroyed my iPhone!\n\nNew Clueless Chapter out on my second channel: https://www.youtube.com/watch?v=n3KNJG3inAk\n\nTell us your favorite moments from the vlog:\n@ZakirKhan  https://www.instagram.com/zakirkhan_208/\n@kaneezsurka007  https://www.",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-47tzf",
+      "name": "INDIA'S WEIRDEST STREET FOOD (NEW SERIES)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT17M",
+      "embedUrl": "https://www.youtube.com/embed/65yqpmS5b3w",
+      "contentUrl": "https://www.youtube.com/watch?v=65yqpmS5b3w",
+      "uploadDate": "2023-06-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/65yqpmS5b3w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "FOLLOW:\n• Aaditya Kulshreshth - https://www.instagram.com/kullubaaazi/\n• Vishal Dayama - https://www.instagram.com/dayamaged/\n• Nishant Tanwar - https://www.instagram.com/nishanttanwar/\n• Rohan Joshi - https://www.instagram.com/mojorojo/\n\nCHECK OUT MY OTHER CHANNELS\n• Honestly by Tanmay Bhat: https:",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-beex2",
+      "name": "Cricket with Zakir Khan 🏏",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M25S",
+      "embedUrl": "https://www.youtube.com/embed/fk4-TueSMjc",
+      "contentUrl": "https://www.youtube.com/watch?v=fk4-TueSMjc",
+      "uploadDate": "2025-08-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fk4-TueSMjc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-o7cz9",
+      "name": "BOARD EXAM TOPPERS - CRINGE COMPILATION",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT18M24S",
+      "embedUrl": "https://www.youtube.com/embed/_qKX-7aXkZw",
+      "contentUrl": "https://www.youtube.com/watch?v=_qKX-7aXkZw",
+      "uploadDate": "2020-03-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_qKX-7aXkZw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Follow me on Instagram: https://instagram.com/tanmaybhat\nFollow me on my Discord: https://discordapp.com/invite/6Jf4de9\nSubmit your memes on Reddit: https://www.reddit.com/r/TanmayBhatKeDost\n\nVideo edited by Rage: https://www.youtube.com/channel/UCz9DSRVX1rzS8a5Y3DJVZ_g\n\n[PC SPECS]\n\nAMD Ryzen 3700x\n",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088vhm-7vb42",
+      "name": "HOW DID TANMAY BHAT LOSE WEIGHT?!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT16M29S",
+      "embedUrl": "https://www.youtube.com/embed/9YXO30A3ABE",
+      "contentUrl": "https://www.youtube.com/watch?v=9YXO30A3ABE",
+      "uploadDate": "2024-09-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9YXO30A3ABE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hackathon Sign up: https://www.colosseum.org/radar?ref=tanmay\n\nIdea Bank: https://build.superteam.fun/\n\nWA community: https://bit.ly/superteam-radar-whatsapp-community\n\nFOLLOW:\n\n• Rohan Joshi - https://www.instagram.com/mojorojo/\n• Aaditya Kulshreshth - https://www.instagram.com/kullubaaazi/\n• Piyus",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-f2duv",
+      "name": "CBSE vs ME | Abish Mathew | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT8M15S",
+      "embedUrl": "https://www.youtube.com/embed/ft80MCLMInI",
+      "contentUrl": "https://www.youtube.com/watch?v=ft80MCLMInI",
+      "uploadDate": "2025-10-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ft80MCLMInI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "🚸 📝 👩🏽‍🏫\n\n“Abish Mathew & His Many Talents Part II” on tour now https://linktr.ee/abishmathew\n\nCome for PTA Meeting.\n\nSubscribe! ►http://goo.gl/IPNrQx\n\n► Instagram: https://www.instagram.com/abishmathew/\n► Twitter: https://twitter.com/abishmathew\n► Facebook: https://www.facebook.com/abishmathew",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-piusg",
+      "name": "FINISH | Abish Mathew | Full Comedy Special",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT52M25S",
+      "embedUrl": "https://www.youtube.com/embed/-V2d32S6qGc",
+      "contentUrl": "https://www.youtube.com/watch?v=-V2d32S6qGc",
+      "uploadDate": "2025-12-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-V2d32S6qGc/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "“Abish Mathew & His Many Talents Part II” on tour now https://linktr.ee/abishmathew\n\nSubscribe! ►http://goo.gl/IPNrQx\n\nMy Instagram - https://www.instagram.com/abishmathew/\nCheck out my streaming channel here -  https://www.youtube.com/abish\nAbsurdist Studios - https://www.instagram.com/absurdiststu",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-iejv5",
+      "name": "Big Brother & Bungee Jumping | Stand Up Comedy by Abish Mathew",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT11M8S",
+      "embedUrl": "https://www.youtube.com/embed/7NO46SsPHRA",
+      "contentUrl": "https://www.youtube.com/watch?v=7NO46SsPHRA",
+      "uploadDate": "2025-11-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7NO46SsPHRA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "“Abish Mathew & His Many Talents Part II” on tour now https://linktr.ee/abishmathew\n\nSubscribe! ►http://goo.gl/IPNrQx\n\nSubscribe! ►http://goo.gl/IPNrQx\n\n► Instagram: https://www.instagram.com/abishmathew/\n► Facebook: https://www.facebook.com/abishmathewlive",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-6zdh1",
+      "name": "Fittest Man In The World | Stand Up Comedy by Abish Mathew",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT16M36S",
+      "embedUrl": "https://www.youtube.com/embed/nnDChQS1NTw",
+      "contentUrl": "https://www.youtube.com/watch?v=nnDChQS1NTw",
+      "uploadDate": "2025-10-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nnDChQS1NTw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "💪🥺🫴🍟\n\n“Abish Mathew & His Many Talents Part II” on tour now https://linktr.ee/abishmathew\n\nCome for workout.\n\nSubscribe! ►http://goo.gl/IPNrQx\n\nSubscribe! ►http://goo.gl/IPNrQx\n\n► Instagram: https://www.instagram.com/abishmathew/\n► Twitter: https://twitter.com/abishmathew\n► Facebook: https://www",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-6b9xj",
+      "name": "Son Of Abish ft Yashraj Mukhate, Aishwarya Mohanraj, Nirmal Pillai & Abishek Kumar | Srushti Tawade",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT46M32S",
+      "embedUrl": "https://www.youtube.com/embed/eeFEAjNPVSk",
+      "contentUrl": "https://www.youtube.com/watch?v=eeFEAjNPVSk",
+      "uploadDate": "2023-01-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eeFEAjNPVSk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "On this episode of Son Of Abish, Aishwarya Mohanraj brings her A-Game and parents for a non PG 13 show, Yashraj Mukhate steals hearts and best one liners on a repeat watch, Abishek Kumar and Nirmal Pillai make our set into Sparta and give our sound guy a tough time mixing the episode.\nEnjoy\n\n\nSpecia",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-9q6nj",
+      "name": "End Of The Month - Abish Mathew Comedy Music Video",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT4M33S",
+      "embedUrl": "https://www.youtube.com/embed/do_1PmZKxgc",
+      "contentUrl": "https://www.youtube.com/watch?v=do_1PmZKxgc",
+      "uploadDate": "2016-04-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/do_1PmZKxgc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "How are your monthly finances?\n\nTurn on CC for Subtitles\n\nCheck out behind the scenes footage:\n►https://www.youtube.com/watch?v=AFjWmYRqoQs\n\nDownload the song at:\nhttps://abishmathew.bandcamp.com/\n\nMusic Producers : Dirty Jays (www.facebook.com/DirtyJays)\nMixed & Mastered :  Warren Mendonsa (www.bla",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-sp4ia",
+      "name": "Billi eyelash? Feat. Vasan Bala, Rajkummar Rao & Radhika Apte",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT57S",
+      "embedUrl": "https://www.youtube.com/embed/mVqq57T-g0Y",
+      "contentUrl": "https://www.youtube.com/watch?v=mVqq57T-g0Y",
+      "uploadDate": "2025-09-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mVqq57T-g0Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Son Of Abish Previous Seasons:\nSeason 1 - http://y2u.be/no67IQgU4TM\nSeason 2 - http://y2u.be/kNbXjtZ1oOE\nSeason 3 - http://y2u.be/G8RHe3xj3qA\nSeason 4 - http://y2u.be/WI7l7gifBCE\nSeason 5 - http://y2u.be/ru5LK-wgZMM\nSeason 6 - http://y2u.be/yaklQvoSqjo\nSeason 7 - http://y2u.be/caBKo4nlLSE\nSeason 8 -",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-v3yxy",
+      "name": "Train vs. Plane - Abish Mathew Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT4M1S",
+      "embedUrl": "https://www.youtube.com/embed/kLcs2Z1FsiM",
+      "contentUrl": "https://www.youtube.com/watch?v=kLcs2Z1FsiM",
+      "uploadDate": "2016-07-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kLcs2Z1FsiM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Abish Mathew (@abishmathew) shares his thoughts on Train vs. Plane journey through latest standup up comedy.\n\nWant to see more stand up comedy? \nSubscribe ► http://goo.gl/IPNrQx\n\nLoad the comments with your thoughts, and don't forget to share.\n\nFacebook: https://www.facebook.com/abishmathewlive\nSnap",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-9no2g",
+      "name": "Don't think! Just remember | CBSE",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/BDIoenCmNOM",
+      "contentUrl": "https://www.youtube.com/watch?v=BDIoenCmNOM",
+      "uploadDate": "2025-02-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BDIoenCmNOM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "If you had 100% attendance in school, it's your parent's achievement, Not yours!\n\n\"Abish Mathew & His Many Talents\" on tour soon!\nGoa - 2nd MAR\nPune - 8th & 9th MAR\nNew Delhi - 23rd MAR\nAhmedabad - 5th APR\nBengaluru - 12th APR\nVisakhapatnam - 13th APR\n\nBook your tickets here - https://linktr.ee/abis",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-6ua3b",
+      "name": "Indian Dad Beating | Abish Mathew Stand Up Comedy | WHOOP",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT4M2S",
+      "embedUrl": "https://www.youtube.com/embed/SWsJ2ghYuUg",
+      "contentUrl": "https://www.youtube.com/watch?v=SWsJ2ghYuUg",
+      "uploadDate": "2018-12-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SWsJ2ghYuUg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "How many of you have been beaten by your dad while growing up?\n\nWatch the entire comedy special #WHOOP on Amazon Prime Video.\n\nINDIA: https://www.primevideo.com/detail/amzn1.dv.gti.52b3bc63-acd6-4deb-f622-089cbe7f7a34\n\nUS: https://www.amazon.com/dp/B07L63SQT9\n\nUK: https://www.amazon.co.uk/dp/B07L64V",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-kevid",
+      "name": "Don't Do Drugs #360video - Abish Mathew Comedy Music Video",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT4M3S",
+      "embedUrl": "https://www.youtube.com/embed/l4euBoJIkLk",
+      "contentUrl": "https://www.youtube.com/watch?v=l4euBoJIkLk",
+      "uploadDate": "2016-07-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l4euBoJIkLk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Disclaimer\nThe contents of this video are meant for humour & does not promote any drug use.\n\nLaptop: Use the arrow keys to move around.\nMobile: Just move around :)\n\nAbish Mathew #360°video - \"Don't Do Drugs\"\n\nCheck out behind the scenes footage:\n►https://www.youtube.com/watch?v=4HQ2uCH1DYA\n\nMixed & ",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-meu7m",
+      "name": "When In Doubt, \"I'm Sorry\" | Abish Mathew Stand Up Comedy | Arguing With My Wife | WHOOP",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT4M23S",
+      "embedUrl": "https://www.youtube.com/embed/WIpsHwxSqVs",
+      "contentUrl": "https://www.youtube.com/watch?v=WIpsHwxSqVs",
+      "uploadDate": "2019-01-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WIpsHwxSqVs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "A trick I learnt a long time ago... When In Doubt, \"I'm Sorry\"\n\nWatch the entire comedy special #WHOOP on Amazon Prime Video.\n\nINDIA: https://www.primevideo.com/detail/amz...\n\nUS: https://www.amazon.com/dp/B07L63SQT9\n\nUK: https://www.amazon.co.uk/dp/B07L64VW4D",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-gonv3",
+      "name": "Zakir Khan's Love For Biryani | Son Of Abish",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT2M3S",
+      "embedUrl": "https://www.youtube.com/embed/qPTG6GKEbGs",
+      "contentUrl": "https://www.youtube.com/watch?v=qPTG6GKEbGs",
+      "uploadDate": "2018-05-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qPTG6GKEbGs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "#SonOfAbish feat. Zakir Khan & Vicky Kaushal.\nhttps://goo.gl/2j9t4V\nThis week on Son of Abish, Zakir Khan on his journey from his first open mic to shooting his special, and Vicky Kaushal on nailing his first job interview with a filmy one-liner.\n\n\nSON OF ABISH SEASON 1:\n\nSidd Coutto - https://youtu",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-jjef2",
+      "name": "Education System In India",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT1M28S",
+      "embedUrl": "https://www.youtube.com/embed/1hHAxJaNwIU",
+      "contentUrl": "https://www.youtube.com/watch?v=1hHAxJaNwIU",
+      "uploadDate": "2025-10-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1hHAxJaNwIU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Performing in Bangalore this weekend. Buy your tickets here - https://in.bookmyshow.com/events/abish-mathew-live/ET00460912\n\n“Abish Mathew & His Many Talents Part II” on tour now https://linktr.ee/abishmathew\n\nSon Of Abish Seasons: \n\nSeason 01 - https://bit.ly/3ib3teo\nSeason 02 - https://bit.ly/2UWi",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-iafor",
+      "name": "Indian Languages Are Musical | Abish Mathew Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT1M57S",
+      "embedUrl": "https://www.youtube.com/embed/qVkCob_cK-I",
+      "contentUrl": "https://www.youtube.com/watch?v=qVkCob_cK-I",
+      "uploadDate": "2016-07-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qVkCob_cK-I/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Abish Mathew (@abishmathew) thinks that all Indian languages sound like musical instruments :)\nAgree?\n\nWant to see more stand up comedy? \nSubscribe ► http://goo.gl/IPNrQx\n\nFacebook: https://www.facebook.com/abishmathewlive\nSnapChat: @AbishMathew\nInstagram: @AbishMathew\n\nVenue: Canvas, The People & C",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-sdcww",
+      "name": "Sisters & Washrooms | Abish Mathew Stand Up Comedy | WHOOP",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT4M35S",
+      "embedUrl": "https://www.youtube.com/embed/wJC7o_Wcl0Q",
+      "contentUrl": "https://www.youtube.com/watch?v=wJC7o_Wcl0Q",
+      "uploadDate": "2018-12-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wJC7o_Wcl0Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "I was raised by 5 sisters & these are the things they taught me!!!\n\nWatch the entire comedy special #WHOOP on Amazon Prime Video.\n\nINDIA: https://www.primevideo.com/detail/amz...\n\nUS: https://www.amazon.com/dp/B07L63SQT9\n\nUK: https://www.amazon.co.uk/dp/B07L64VW4D",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-eg0sy",
+      "name": "Tanmay Bhat's new game plan | Streaming 🔴 | Part 1 | Journey Of A Joke",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT22M18S",
+      "embedUrl": "https://www.youtube.com/embed/r4ddFYrK_Fk",
+      "contentUrl": "https://www.youtube.com/watch?v=r4ddFYrK_Fk",
+      "uploadDate": "2020-05-30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/r4ddFYrK_Fk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "\"Journey Of A Joke\" is a series where we break down a comedy bit. One joke at a time!\n\nThis video features Tanmay Bhat discussing his comeback on youtube & his new found love for live streaming. \n\nPrevious Seasons:\nSeason 1 - http://y2u.be/MYk9EZb7CKE\nSeason 2 - http://y2u.be/i-dRytrcbg4\nSeason 3 - ",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-9sjxb",
+      "name": "School English Teacher",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT56S",
+      "embedUrl": "https://www.youtube.com/embed/voPUlWDvPzw",
+      "contentUrl": "https://www.youtube.com/watch?v=voPUlWDvPzw",
+      "uploadDate": "2025-03-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/voPUlWDvPzw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Dear,\nMy English teachers were the best!\nYou're Faithful,\nAbish\n\n**\"Abish Mathew & His Many Talents\" on tour soon!**\nGoa - 2nd MAR\nPune - 8th & 9th MAR\nNew Delhi - 23rd MAR\nAhmedabad - 5th APR\nBengaluru - 12th APR\nVisakhapatnam - 13th APR\n\nBook your tickets here - https://linktr.ee/abishmathew",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-rrjs1",
+      "name": "What comes after kissing? | WHOOP Trailer | Abish Mathew Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT1M3S",
+      "embedUrl": "https://www.youtube.com/embed/cgJTxxKwoCA",
+      "contentUrl": "https://www.youtube.com/watch?v=cgJTxxKwoCA",
+      "uploadDate": "2018-12-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cgJTxxKwoCA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch the FULL comedy special #WHOOP\nNow streaming on Amazon Prime Video: https://amzn.to/2rA83Ig",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk088zhy-f36ey",
+      "name": "Diwali in the city",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088x52-465cs"
+      },
+      "duration": "PT49S",
+      "embedUrl": "https://www.youtube.com/embed/i-vgKod0gGg",
+      "contentUrl": "https://www.youtube.com/watch?v=i-vgKod0gGg",
+      "uploadDate": "2025-10-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i-vgKod0gGg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "“Abish Mathew & His Many Talents Part II” on tour now https://linktr.ee/abishmathew\n\n\nSon Of Abish Seasons: \n\nSeason 01 - https://bit.ly/3ib3teo\nSeason 02 - https://bit.ly/2UWiCaU\nSeason 03 - https://bit.ly/3f8aqeb\nSeason 04 - https://bit.ly/3iaSt0v\nSeason 05 - https://bit.ly/3fekH8P\nSeason 06 - htt",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-tq1f4",
+      "name": "Engineering Colleges : Stupid Rules | Standup Comedy | Sorabh Pant |",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT4M33S",
+      "embedUrl": "https://www.youtube.com/embed/uoe3PC7T38c",
+      "contentUrl": "https://www.youtube.com/watch?v=uoe3PC7T38c",
+      "uploadDate": "2018-07-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uoe3PC7T38c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Indian colleges have some stupid rules. Ask Harry Kane.\n\nRecorded in Mumbai on 6th July. 5 days before England V. Croatia.\n\nIf you'd like to hire Sorabh to perform at your college. Send a detailed email on pantonfirecomedy@gmail.com.",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-ra4b3",
+      "name": "Trolling Social Media Managers & Bald Uncles | Sorabh Pant | Crowd Work | Stand-up Comedy |",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT11M26S",
+      "embedUrl": "https://www.youtube.com/embed/y0TtflUxMho",
+      "contentUrl": "https://www.youtube.com/watch?v=y0TtflUxMho",
+      "uploadDate": "2025-05-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/y0TtflUxMho/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "A social media manager gets trolled, we meet Indian Black Panther, an uncle tries to diss my hair, we learn who is Priya Italia and a dude can not remember where he live :). \n\nSee my standup live: \nDubai - 30 May\nChennai 6 June. \nMore cities coming. \nTickets - https://sorabhpant.com\n\nSorabh Pant is ",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-bk720",
+      "name": "Game of Thrones Nudity Explained: Standup Comedy by Sorabh Pant #GameOfThrones",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT6M27S",
+      "embedUrl": "https://www.youtube.com/embed/BYrLaXqqFJU",
+      "contentUrl": "https://www.youtube.com/watch?v=BYrLaXqqFJU",
+      "uploadDate": "2017-12-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BYrLaXqqFJU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sorabh explains the nudity in Game of Thrones.\nAnd, how it may have an answer to existence itself :). \n\nBUY PAWAN: THE FLYING ACCOUNTANT: http://amzn.to/2hyHvlX\n\nSubscribe to this channel. \nOn Twitter: https://twitter.com/hankypanty\nOn Facebook: https://www.facebook.com/SorabhPant/\nOn Snapchat: @han",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-myuk2",
+      "name": "Uncles on WhatsApp? | Standup Comedy | Sorabh Pant",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT9M37S",
+      "embedUrl": "https://www.youtube.com/embed/k0ov9wAElEg",
+      "contentUrl": "https://www.youtube.com/watch?v=k0ov9wAElEg",
+      "uploadDate": "2019-08-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k0ov9wAElEg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sea Links collapsing. Prosthetic Fingers for voting. Sharks causing AIDS. Random nonsense about Frooti. Sorabh Pant takes you through the dumbest rumours spread on WhatsApp - but, does that mean you ban the app?",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-jo3fx",
+      "name": "IITs Vs EVERYONE! | Crowd Work | Sorabh Pant | NOT Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT12M47S",
+      "embedUrl": "https://www.youtube.com/embed/EaELQ-M4bjM",
+      "contentUrl": "https://www.youtube.com/watch?v=EaELQ-M4bjM",
+      "uploadDate": "2021-12-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EaELQ-M4bjM/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Is IIT better than NMIMS? MIT? Harvard? Jai Hind College? The World? \nAryan thinks so and debates everyone in the crowd about it.\nShows in Pune, Kolkata, Chennai, BLR, Mumbai - https://sorabhpant.com\n\nIf you're an aspiring engineer - then this is a mandatory part of JEE Advanced Prep and even if thi",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-wcovt",
+      "name": "Kunal Kamra, Karunesh Talwar, Anuvab Pal | Wake Up With Sorabh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT2H50M19S",
+      "embedUrl": "https://www.youtube.com/embed/4wBtW1m1Org",
+      "contentUrl": "https://www.youtube.com/watch?v=4wBtW1m1Org",
+      "uploadDate": "2020-08-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4wBtW1m1Org/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Comedians #KunalKamra, #KaruneshTalwar and legend of comedy known as #AnuvabPal drop in and we talk about weird shows, weird producers, school stories, Dave Chapelle, Bill Burr and much more.",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-pjsr9",
+      "name": "Fairness Creams Are Racist: Standup Comedy by Sorabh Pant",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT7M28S",
+      "embedUrl": "https://www.youtube.com/embed/oJVfstwIp3U",
+      "contentUrl": "https://www.youtube.com/watch?v=oJVfstwIp3U",
+      "uploadDate": "2017-06-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oJVfstwIp3U/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sorabh Pant explains how Indians are racist toward themselves!\n\n#TheRant tours in Gurgaon, Kolkata, Ludhiana, Nasik & England!\nAll tickets/dates: www.sorabhpant.com/tickets.\n(ALL NEW JOKES)\n\nFollow him: Twitter/ Snapchat @hankypanty, FB/IG @SorabhPant.",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-cmq4w",
+      "name": "Ola CEO and Kunal Kamra work 20 hours a day!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/bLybN4DuWFo",
+      "contentUrl": "https://www.youtube.com/watch?v=bLybN4DuWFo",
+      "uploadDate": "2024-11-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bLybN4DuWFo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "First #narayanmurthy said we should work 70 hours. \nThen #OLa CEO #bhavishaggarwal said something else. \nThe CEO of #paytm is still awaited - hopefully Vijay Shekhar Sharma will surface. \n\nThough @KunalKamra may yet have the last laugh. \n\n#workhours #infosys #olaelectric #kunalkamra",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-1l8su",
+      "name": "\"EIC: A Company Ruled India\"|  Historian William Dalrymple & Kumar Varun | Wake Up With Sorabh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT2H51S",
+      "embedUrl": "https://www.youtube.com/embed/VZ4ERh5Y85I",
+      "contentUrl": "https://www.youtube.com/watch?v=VZ4ERh5Y85I",
+      "uploadDate": "2020-09-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VZ4ERh5Y85I/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Historian #WilliamDalrymple is here with eminent comedian #KumarVarun and eminent idiot, myself. Get your questions ready - will TRY and ask.\n\n34:38 - William Dalrymple enters :). Go watch KV in Pariwar. And if you like this podcast, do support directly if you like: instamojo.com/pantonfire OR paypa",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-oeeh6",
+      "name": "How I Made Mumbai Indians Win IPL | Standup Comedy | Sorabh Pant",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT22M43S",
+      "embedUrl": "https://www.youtube.com/embed/VZ5qR7TDbc0",
+      "contentUrl": "https://www.youtube.com/watch?v=VZ5qR7TDbc0",
+      "uploadDate": "2021-10-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VZ5qR7TDbc0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a true story - with exaggerations - about how I MADE the Mumbai Indians win the IPL. Full respect and love to all the people involved in the story especially You Know Who. \n\nHave been working on this standup set for about 6 years now - it started when I got called to perform in front of some",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-2ubfp",
+      "name": "Modi v/s Rahul - as per my mom #standupcomedy #narendramodi #rahulgandhi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/5dvdfS3S0wg",
+      "contentUrl": "https://www.youtube.com/watch?v=5dvdfS3S0wg",
+      "uploadDate": "2024-06-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5dvdfS3S0wg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-cf8sb",
+      "name": "The Internet Said So-rabh | Wake Up With Sorabh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1H25M9S",
+      "embedUrl": "https://www.youtube.com/embed/6MSRe2jxOTw",
+      "contentUrl": "https://www.youtube.com/watch?v=6MSRe2jxOTw",
+      "uploadDate": "2020-08-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6MSRe2jxOTw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "#VarunThakur, #KautukSrivastava & #NevilleShah drop in to do a TISS unofficial episode.\nWe talk about weird shows, asking bad questions to Ramachandra Guha, the IPL, why SNG started and stories about Shaitaan Haveli. \n\nEnjoying this podcast? Support directly if you like: instamojo.com/pantonfire OR ",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-0tl83",
+      "name": "DILLI TAKE OVER: Zakir Khan, Vipul Goyal, Bassi, Aakash Gupta, Pratyush Chaubey, Vikramjit Singh Etc",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT2H57M37S",
+      "embedUrl": "https://www.youtube.com/embed/GiPh2ZZKJpg",
+      "contentUrl": "https://www.youtube.com/watch?v=GiPh2ZZKJpg",
+      "uploadDate": "2020-07-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GiPh2ZZKJpg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Legend stream - started with #AakashGupta, Pratyush Chaubey and Vikramjit Singh - and then came #ZakirKhan, #VipulGoyal, Bassi, Nishant Tanwar, Gaurav Gupta, Gaurav Kapoor\n\nWe cover embarassing stories in comedy, Comicstaan and the Delhi V Mumbai comedy and general life. \n\nInsane. Support the show: ",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-wqbkb",
+      "name": "Tanmay Bhat, Kaneez Surka, Rohan Joshi | Wake Up With Sorabh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1H52M20S",
+      "embedUrl": "https://www.youtube.com/embed/pFo3qkL4jmk",
+      "contentUrl": "https://www.youtube.com/watch?v=pFo3qkL4jmk",
+      "uploadDate": "2020-08-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pFo3qkL4jmk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We have #TanmayBhat #KaneezSurka and #RohanJoshi drop in and we are worried about what we will talk about for 2 hours. And then we talk about WWE wrestlers and stories, horrendous cooking, dating in the lockdown, censorship, Sho-AIB Akhtar and just a lot of nonsense.",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-difnq",
+      "name": "GOA & PENGUINS | Standup Comedy | Sorabh Pant",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT10M18S",
+      "embedUrl": "https://www.youtube.com/embed/vZDyEZXqZVs",
+      "contentUrl": "https://www.youtube.com/watch?v=vZDyEZXqZVs",
+      "uploadDate": "2020-03-30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vZDyEZXqZVs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sorabh has tried making plans with his friends to travel and it's gone down some weird teritories. Involving penguins and worse. \nIf you enjoyed this, do support (no pressure) so I can make more things for you: http://paypal.me/pantonfire OR http://instamojo.com/pantonfire",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-gf4tv",
+      "name": "This guy paid an INSANE amount for Coldplay!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1M27S",
+      "embedUrl": "https://www.youtube.com/embed/MTGH0pcTWq8",
+      "contentUrl": "https://www.youtube.com/watch?v=MTGH0pcTWq8",
+      "uploadDate": "2025-01-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MTGH0pcTWq8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "A dude from Bangalore at a show in Mumbai - he was down for the Coldplay concert but, did not want to share how much he paid for the tickets. But, we have our ways and found out :). \n\nShot at The J Spot in Juhu. \n\n#coldplayfans #coldplay #coldplayindia #crowdwork",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-xoh5w",
+      "name": "The Asia Cup is a \"scam\"",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1M27S",
+      "embedUrl": "https://www.youtube.com/embed/FJZwXz2PC6k",
+      "contentUrl": "https://www.youtube.com/watch?v=FJZwXz2PC6k",
+      "uploadDate": "2025-09-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FJZwXz2PC6k/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The 2025 Men's Asia Cup aka DP World Asia Cup is the 17th edition of the Asia Cup cricket tournament. It is taking place in the United Arab Emirates from 9 to 28 September 2025. The matches are being played in the Twenty20 International (T20I) format. India are the defending champions of 2023.\n\nIt w",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-jftwk",
+      "name": "Ba***ds of Bollywood is G**d?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT44S",
+      "embedUrl": "https://www.youtube.com/embed/z2lTL5tfZw0",
+      "contentUrl": "https://www.youtube.com/watch?v=z2lTL5tfZw0",
+      "uploadDate": "2025-09-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z2lTL5tfZw0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The B***ds Of Bollywood stars Bobby Deol, Lakshya Lalwani, Raghav Juyal, Sahher Bambba, Anya Singh, Manoj Pahwa, Mona Singh, Manish Chaudhari, Rajat Bedi. It is Aryan Khan ' s directorial debut. \n\nIt has cameos by Shahrukh Khan, Emraan Hashmi, Spongebob Squarepants, Charles Heston, Elvis Presley, Na",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-18s3x",
+      "name": "I met the *REAL* Black Panther!!            (from Borivali)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1M49S",
+      "embedUrl": "https://www.youtube.com/embed/Uhjgcj3UN5s",
+      "contentUrl": "https://www.youtube.com/watch?v=Uhjgcj3UN5s",
+      "uploadDate": "2025-06-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Uhjgcj3UN5s/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk0893dk-w8q5q",
+      "name": "Vidyut Jamwal, The Royals & Things On head | TISS | @VarunThakurOfficial @Aadar @KautukSrivastavaIsHere|",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089159-m64hv"
+      },
+      "duration": "PT1H29M56S",
+      "embedUrl": "https://www.youtube.com/embed/9ys_8aZcxI8",
+      "contentUrl": "https://www.youtube.com/watch?v=9ys_8aZcxI8",
+      "uploadDate": "2021-03-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9ys_8aZcxI8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Vidyut Jamwal gets viral, Meghan Markle can jump into cars, no internet problems and balancing things on our head. Come see me live in NCR this weekend: sorabhpant.com\n\n#VarunThakur #AadarMalik #KautukSrivastava",
+      "channelTitle": "Sorabh Pant",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-ya77j",
+      "name": "Gandhi - India’s Tallest Global Figure | Jan Hith Mein Jaari | 017",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT33M32S",
+      "embedUrl": "https://www.youtube.com/embed/kPntTokvnec",
+      "contentUrl": "https://www.youtube.com/watch?v=kPntTokvnec",
+      "uploadDate": "2025-12-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kPntTokvnec/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Credits\nResearcher: \nAnirban Bhattacharya @banhere2.0\n\nWriter: \nAman Pandey @ghalibankabir \n\nRecording & Editing: \nRevant Talekar @revanttalekar\n\nMastering & Music: \nMahan Sehgal @hi_mahan",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-a30im",
+      "name": "Delhi AQI ❌ Delhi Temperature ✅ ft. @VarunGroverComedy Khabr-e-Azam w/ Kunal Kamra & ROFL | E25",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT21M22S",
+      "embedUrl": "https://www.youtube.com/embed/RKLFnuWcmsk",
+      "contentUrl": "https://www.youtube.com/watch?v=RKLFnuWcmsk",
+      "uploadDate": "2025-12-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RKLFnuWcmsk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "*Hosted by:*\nKunal Kamra: https://www.instagram.com/kuna_kamra/\nROFL Gandhi: https://www.instagram.com/roflgandhi2.0/\n\n*The Panel:*\nVarun Grover: https://www.instagram.com/vidushak/\nSaurav Das: https://www.instagram.com/seven_shots_/\nDaahab Chishti: https://www.instagram.com/daahab.chishti/\nAmeya De",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-svwuk",
+      "name": "BEST of Khabr-e-Azam 2025 🥳 🤡 w/ Kunal Kamra & ROFL Gandhi | E26",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT33M45S",
+      "embedUrl": "https://www.youtube.com/embed/vVg1cZO488w",
+      "contentUrl": "https://www.youtube.com/watch?v=vVg1cZO488w",
+      "uploadDate": "2025-12-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vVg1cZO488w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "*Hosted by:*\nKunal Kamra: https://www.instagram.com/kuna_kamra/\nROFL Gandhi: https://www.instagram.com/roflgandhi2.0/\n\n*Editor*\n@VybhavSharma \n\n*Music by*\n@Mahansangeet",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-6ojgq",
+      "name": "Wellfare is NOT Revdi | Nope w/ Kunal Kamra ft Reetika Khera | 059",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT1H2M44S",
+      "embedUrl": "https://www.youtube.com/embed/miwEm0cfTuM",
+      "contentUrl": "https://www.youtube.com/watch?v=miwEm0cfTuM",
+      "uploadDate": "2026-01-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/miwEm0cfTuM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Reetika Khera is an Indian economist and professor known for her work on welfare policy, public finance, and social protection. She has written extensively on food security, cash transfers, and the political economy of public spending. In this podcast, she discusses the debate around “freebies” and ",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-8vb8i",
+      "name": "2025 News Rewind ft. Best PM Modiji | Khabr-e-Azam w/ Kunal Kamra & ROFL | E27",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT29M3S",
+      "embedUrl": "https://www.youtube.com/embed/xyHzWxBiYRE",
+      "contentUrl": "https://www.youtube.com/watch?v=xyHzWxBiYRE",
+      "uploadDate": "2026-01-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xyHzWxBiYRE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "*Hosted by:*\nKunal Kamra: https://www.instagram.com/kuna_kamra/\nROFL Gandhi: https://www.instagram.com/roflgandhi2.0/\n\n*The Panel:*\nShyam Rangeela: https://www.instagram.com/shyamrangeela/\nAkshat: https://www.instagram.com/akshatgram/\nAmeya Deshpande: https://www.instagram.com/trialdeshpande/\n\n*Edit",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-cwapj",
+      "name": "KUNAL KAMRA | STAND UP COMEDY 2019",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT12M3S",
+      "embedUrl": "https://www.youtube.com/embed/3Su_ydENa2w",
+      "contentUrl": "https://www.youtube.com/watch?v=3Su_ydENa2w",
+      "uploadDate": "2019-03-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Su_ydENa2w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "No better time to release this than today aur ab yeh mat puchna part 3 kab aayega.\n\nCredits : \n\nSound recording mixing mastering : Sohaill Gandhi\n\nMusic : Dub Sharma \n\nLyrics and Rap : Sumit Roy",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-linzr",
+      "name": "Desh Ke Buddhe | Stand-Up Comedy by Kunal Kamra (2018)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT10M37S",
+      "embedUrl": "https://www.youtube.com/embed/9NUXCAZs5VU",
+      "contentUrl": "https://www.youtube.com/watch?v=9NUXCAZs5VU",
+      "uploadDate": "2018-07-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9NUXCAZs5VU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Buddho ne mujhe bohot tang kiya, ab meri baari hai.\n\n\nVenue: - The Habitat, Mumbai.\n\nShot by: - The Habitat\n\nEdited by: - Davinder Konsal\n\nSound recording mixing mastering: - Sohaill Gandhi\n\nMusic: - Dub Sharma \n\nSpecial Thanks: - Ramit Verma",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-v90uw",
+      "name": "Paper Leak | Jan Hith Mein Jaari w/ Kunal Kamra | 05",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT25M17S",
+      "embedUrl": "https://www.youtube.com/embed/iNbtBqMQGtM",
+      "contentUrl": "https://www.youtube.com/watch?v=iNbtBqMQGtM",
+      "uploadDate": "2025-09-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iNbtBqMQGtM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "👉 Register for 2-Day LIVE Training on AI for FREE: https://link.outskill.com/KKM\n\n👉 100% Discount for all who register\n👉 Become the top 1% professional by learning AI today\n\nSources:\nhttps://www.freepressjournal.in/bhopal/madhya-pradesh-cbi-arrests-vyapam-scam-accused-from-haridwar-after-12-years",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-vnm2q",
+      "name": "Don’t Learn History from Bollywood | Nope w/ Kunal Kamra ft. Ram Puniyani | 018",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT1H6M40S",
+      "embedUrl": "https://www.youtube.com/embed/N09jCF26QjU",
+      "contentUrl": "https://www.youtube.com/watch?v=N09jCF26QjU",
+      "uploadDate": "2025-06-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N09jCF26QjU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Indian author and former professor of biomedical engineering. He is a strong voice against fundamentalism and distortion of history. Check out here works here: https://rampuniyani.in\n\n***\n\nCredits\n• Research Head: Anirban Bhattacharya\n• Camera Operator / Mixing and Mastering / Intro Music —‪ @Mahans",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-zoikk",
+      "name": "Is Ambani Anti-National? | Jan Hith Mein Jaari w/ Kunal Kamra | 04",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT21M8S",
+      "embedUrl": "https://www.youtube.com/embed/FvfKvcfifwQ",
+      "contentUrl": "https://www.youtube.com/watch?v=FvfKvcfifwQ",
+      "uploadDate": "2025-08-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FvfKvcfifwQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sources\n• https://atmos.earth/this-genocide-is-about-oil/\n• https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-prime-minister-modi-india-howdy-modi-shared-dreams-bright-futures-event/\n• https://www.reuters.com/news/picture/idUSRTX2G5VB/\n• https://www.nytimes.com/2025/0",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-w1fr7",
+      "name": "HOW MEDIA WORKS | Nope w/ Kunal Kamra ft Hartosh Singh Bal | 033",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT59M30S",
+      "embedUrl": "https://www.youtube.com/embed/4RLMAEndhSI",
+      "contentUrl": "https://www.youtube.com/watch?v=4RLMAEndhSI",
+      "uploadDate": "2025-08-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4RLMAEndhSI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "One Correction (46:45 - 47:18): The reference to a propaganda show is not on National Geographic it’s on Discovery India.\n\n\nHartosh Singh Bal is a seasoned Indian journalist and political editor with over two decades of experience in reporting and commentary. He is currently the Political Editor of ",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-n6miq",
+      "name": "Are Indian Men in Danger? | Jan Hith Mein Jaari w/ Kunal Kamra | 03",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT24M11S",
+      "embedUrl": "https://www.youtube.com/embed/mM6bCuqit4s",
+      "contentUrl": "https://www.youtube.com/watch?v=mM6bCuqit4s",
+      "uploadDate": "2025-08-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mM6bCuqit4s/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Correction: It has come to my attention that an incorrect screenshot was presented alongside the claim at timecode 11:07 regarding the prevalence of men facing unprompted spousal violence. \n\nThe claim I have made here is in fact correct and is based on a government data source. \n\nBut the accompanyin",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-mi72v",
+      "name": "Patriotism & the Government | Stand-up Comedy by Kunal Kamra",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT8M5S",
+      "embedUrl": "https://www.youtube.com/embed/qBbpFGGAkmo",
+      "contentUrl": "https://www.youtube.com/watch?v=qBbpFGGAkmo",
+      "uploadDate": "2017-03-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qBbpFGGAkmo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What better time to release this video than now... My first stand-up video on Patriotism & Governance. \n\nLoving your country means asking a lot of questions. Asking for peace, asking for better living conditions, asking for your right to voice your opinion if the taxes you're paying are not leading ",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-7u7ax",
+      "name": "The Debt Trap (200% Interest!) | Jan Hith Mein Jaari w/ Kunal Kamra | 02",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT19M25S",
+      "embedUrl": "https://www.youtube.com/embed/k-3e72Rc9s0",
+      "contentUrl": "https://www.youtube.com/watch?v=k-3e72Rc9s0",
+      "uploadDate": "2025-08-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k-3e72Rc9s0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Nope ft. Thomas Franco: https://youtu.be/gDRVxlMjebI?si=P5XD7SRfGcqrhx9q\n\nSources:\n• https://www.fidcindia.org.in/wp-content/uploads/2019/06/RBI_FSR_JUNE_2024_27_06_24.pdf\n• http://www.cenfa.org/micro-loans-are-driving-an-already-forsaken-population-further-into-distress/\n• https://www.youtube.com/w",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-t41rf",
+      "name": "Adani - Coal Mafia | Jan Hith Mein Jaari w/ Kunal Kamra | 01",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT15M26S",
+      "embedUrl": "https://www.youtube.com/embed/VGdeFZPnfxI",
+      "contentUrl": "https://www.youtube.com/watch?v=VGdeFZPnfxI",
+      "uploadDate": "2025-08-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VGdeFZPnfxI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sources:\nThe Reporters’ Collective Report: https://share.google/FrKrsHC7Qn0OvFNsL\nCREA Report: https://share.google/cbCsbuTRp6Jowj49b",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-kk8dp",
+      "name": "UAPA, Anti-CAA Protests and Delhi Riots | Jan Hith Mein Jaari w/ Kunal Kamra | 06",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT27M17S",
+      "embedUrl": "https://www.youtube.com/embed/SuGSX_k7DCg",
+      "contentUrl": "https://www.youtube.com/watch?v=SuGSX_k7DCg",
+      "uploadDate": "2025-09-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SuGSX_k7DCg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "[SOURCES]\n\n*General Delhi Riots & Context*\n• https://www.bbc.com/news/articles/c757zl67n7wo\n\n*Legal Analysis & Opinions*\n• https://indianexpress.com/article/opinion/columns/in-umar-khalids-case-court-has-let-the-process-become-punishment-10236232/\n• https://thewire.in/law/delhi-high-court-umar-khali",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-x5pz1",
+      "name": "Bombay Indore | Stand-Up Comedy by Kunal Kamra",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT5M33S",
+      "embedUrl": "https://www.youtube.com/embed/yJfO-F2PjK4",
+      "contentUrl": "https://www.youtube.com/watch?v=yJfO-F2PjK4",
+      "uploadDate": "2017-04-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yJfO-F2PjK4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kunal Kamra on Bombay Indore.\n\nSubscribe to the channel for more videos. \n\nVenue: - Tuning Fork, Mumbai.\n\nShot by: - Nishant Thawrani (Tuning Fork Studios)\n\nEdited by: - Suraj Jagtap (After Studios) \n\nSound recording mixing mastering: - Sohaill Gandhi (Tuning Fork Studios)",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-iaps2",
+      "name": "From CM to PM to God  | Jan Hith Mein Jaari w/ Kunal Kamra | 08",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT30M58S",
+      "embedUrl": "https://www.youtube.com/embed/2WMlomhGwHw",
+      "contentUrl": "https://www.youtube.com/watch?v=2WMlomhGwHw",
+      "uploadDate": "2025-10-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2WMlomhGwHw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Sources \n\n• bbc.com/hindi/india/2012/04/120426_modi_visa_aa&sa=D&source=docs&ust=1759468160026315&usg=AOvVaw3uvwbGoOFS86dbXhHVyV6n\n• cnn.com/2023/06/20/india/india-narendra-modi-united-states-white-house-visit-intl-hnk\n• indiatogether.org/uploads/document/document_upload/2146/PCIsc-intro.pdf\n• times",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08978i-u2ixp",
+      "name": "DIWALI SPECIAL ft. @dhruvrathee  | Khabr-e-Azam ft. Kunal Kamra & ROFL Gandhi | E14",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0894yc-prl3b"
+      },
+      "duration": "PT25M6S",
+      "embedUrl": "https://www.youtube.com/embed/bLlJCeziBVg",
+      "contentUrl": "https://www.youtube.com/watch?v=bLlJCeziBVg",
+      "uploadDate": "2025-10-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bLlJCeziBVg/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "*Hosted by:*\nKunal Kamra: https://x.com/kunalkamra88\nROFL Gandhi: https://x.com/RoflGandhi_\n\n*The Panel:*\nDhruv Rathee: https://www.instagram.com/dhruvrathee/\nAmeya Deshpande: https://www.instagram.com/trialdeshpande/\n\n*Editor*\nVybhav Sharma: https://www.instagram.com/vybhavsharma/\n\n*Music by*\nMahan",
+      "channelTitle": "Kunal Kamra",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-eusm7",
+      "name": "RAHUL SUBRAMANIAN | LIVE IN BANGALORE | CROWD WORK (PART 1)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT14M34S",
+      "embedUrl": "https://www.youtube.com/embed/2Oy4HpUJSgE",
+      "contentUrl": "https://www.youtube.com/watch?v=2Oy4HpUJSgE",
+      "uploadDate": "2020-01-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Oy4HpUJSgE/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Releasing my first (of few) crowd-work video from the show that I did in Bangalore, on 14th September 2019 at That Comedy Club. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. \n\nI am currently doing an India tour of my crowd wor",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-tws8u",
+      "name": "Bangalore | Stand up Comedy by Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT9M13S",
+      "embedUrl": "https://www.youtube.com/embed/PVrtI6YOe6Y",
+      "contentUrl": "https://www.youtube.com/watch?v=PVrtI6YOe6Y",
+      "uploadDate": "2019-04-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PVrtI6YOe6Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Rahul Subramanian loves Bangalore. Watch his take on his favourite city - he talks about everything from the airport to traffic to autowaalas to the startup culture in his city\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his s",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-52vi8",
+      "name": "Housemaid | Stand Up Comedy By Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT4M9S",
+      "embedUrl": "https://www.youtube.com/embed/7fEhif3PsXI",
+      "contentUrl": "https://www.youtube.com/watch?v=7fEhif3PsXI",
+      "uploadDate": "2018-04-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7fEhif3PsXI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hey guys! This is an excerpt from Rahul's 60 minute stand up comedy special - Kal Main Udega\nStream the whole show on Amazon Prime Video - amzn.to/2GkVKpF  \n\nYou can watch another except here https://youtu.be/vWFq2T5j390\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world ",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-6m5p3",
+      "name": "RAHUL SUBRAMANIAN | LIVE IN BANGALORE | CROWD WORK (PART 2)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT12M30S",
+      "embedUrl": "https://www.youtube.com/embed/0xmNtymiGK8",
+      "contentUrl": "https://www.youtube.com/watch?v=0xmNtymiGK8",
+      "uploadDate": "2020-02-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0xmNtymiGK8/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Releasing my second crowd-work video from the show that I did in Bangalore, on 14th September 2019 at That Comedy Club. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. \n\nI am currently doing an India tour of my crowd work show \"",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-gz486",
+      "name": "Rahul Subramanian | Crowd Work in London | Part 1",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT6M35S",
+      "embedUrl": "https://www.youtube.com/embed/BfwUjNr5QCs",
+      "contentUrl": "https://www.youtube.com/watch?v=BfwUjNr5QCs",
+      "uploadDate": "2023-03-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BfwUjNr5QCs/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Hi Everyone! Hope you enjoy this video ..\n\nTickets for my brand new stand up show \"Who Are You?\" world tour are now live and you can get them here - https://linktr.ee/rahulsubramanian\n\nList of Cities for the world tour \n\n21st April - Auckland \n22nd April - Sydney\n23rd April - Brisbane \n26th April - ",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-1nqo7",
+      "name": "Rahul Subramanian | Crowd work Special | Deleted Scenes 2 | Amazon Prime Video",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT13M9S",
+      "embedUrl": "https://www.youtube.com/embed/7dRjFxqCCQk",
+      "contentUrl": "https://www.youtube.com/watch?v=7dRjFxqCCQk",
+      "uploadDate": "2023-05-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7dRjFxqCCQk/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "Hi everyone! Tune into the Crowd work Special streaming on Amazon Prime Video \n\nDirected by Biswa Kalyan Rath  @yokalyanyo  \nTechnical Director Akshay Pillai\nExecutive Producer Sachith Ramesh\nPost Production Head: Pooja Singh\nPost Producer: Amritansh Rajdeep\nSupervising Editor: Jayant Kaushik\nEditor",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-w98uc",
+      "name": "World War 2 | Stand up Comedy by Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT5M26S",
+      "embedUrl": "https://www.youtube.com/embed/zHqd6kerLSo",
+      "contentUrl": "https://www.youtube.com/watch?v=zHqd6kerLSo",
+      "uploadDate": "2019-10-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zHqd6kerLSo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What if World War 2 had a presentation ceremony hosted by Ravi Shashtri? In this stand up comedy video, comedian Rahul Subramanian hilariously explains this. \n\nFollow Random Chikibum for all things funny and drop us a comment and tell us which part of the video you found the funniest! \n\nFollow me on",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-kls7s",
+      "name": "Rahul Subramanian | Crowd work Special | Deleted Scenes | Amazon Prime Video",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT9M22S",
+      "embedUrl": "https://www.youtube.com/embed/YvLmugT3SFo",
+      "contentUrl": "https://www.youtube.com/watch?v=YvLmugT3SFo",
+      "uploadDate": "2023-03-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YvLmugT3SFo/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "Hi everyone! Stay tuned for the Crowd work Specialstreaming on Amazon Prime Video  - worldwide from 30th March\n\nDirected by Biswa Kalyan Rath  @yokalyanyo  \nTechnical Director Akshay Pillai\nExecutive Producer Sachith Ramesh\nPost Production Head: Pooja Singh\nPost Producer: Amritansh Rajdeep\nSupervisi",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-dcdce",
+      "name": "North Indians v/s South Indians | Stand Up Comedy By Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT2M44S",
+      "embedUrl": "https://www.youtube.com/embed/vWFq2T5j390",
+      "contentUrl": "https://www.youtube.com/watch?v=vWFq2T5j390",
+      "uploadDate": "2018-04-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vWFq2T5j390/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hey guys! This is an excerpt from Rahul's 60 minute stand up comedy special - Kal Main Udega\nStream the whole show on Amazon Prime Video - amzn.to/2GkVKpF \n\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his social media for you ",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-6mcgk",
+      "name": "John Abraham & Kent | Stand up Comedy by Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT6M18S",
+      "embedUrl": "https://www.youtube.com/embed/JzesyIXtMPk",
+      "contentUrl": "https://www.youtube.com/watch?v=JzesyIXtMPk",
+      "uploadDate": "2018-01-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JzesyIXtMPk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Here is Rahul's stand up video - John Abraham and Kent Water Purifier\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his social media for you daily dose of funny https://bit.ly/2MWeFL8 \n\nFollow Random Chikibum for all things funn",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-afoxt",
+      "name": "Break Up and MBA | Stand up Comedy by Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT4M23S",
+      "embedUrl": "https://www.youtube.com/embed/gymcNvVEIJ4",
+      "contentUrl": "https://www.youtube.com/watch?v=gymcNvVEIJ4",
+      "uploadDate": "2016-11-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gymcNvVEIJ4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Disclaimer: My ex is still pretty.. These are just jokes.. I am prettier.. PPT rocks\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his social media for you daily dose of funny https://bit.ly/2MWeFL8 \n\nFollow Random Chikibum for ",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-d5kr3",
+      "name": "DJs | Stand Up Comedy By Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT4M11S",
+      "embedUrl": "https://www.youtube.com/embed/JhVQllFg-2Q",
+      "contentUrl": "https://www.youtube.com/watch?v=JhVQllFg-2Q",
+      "uploadDate": "2018-03-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JhVQllFg-2Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hey guys! This is an excerpt from Rahul's 60 minute stand up comedy special - Kal Main Udega\nStream the whole show on Amazon Prime Video - amzn.to/2GkVKpF \n\nYou can watch another except here https://youtu.be/vWFq2T5j390\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world f",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-afqzx",
+      "name": "RAHUL SUBRAMANIAN | CROWD WORK | THE COIN DROP MYSTERY",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT6M32S",
+      "embedUrl": "https://www.youtube.com/embed/T18vEKmT4lg",
+      "contentUrl": "https://www.youtube.com/watch?v=T18vEKmT4lg",
+      "uploadDate": "2022-02-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T18vEKmT4lg/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Hi Everyone! Hope you enjoy this video!\n\nThrilled to announce my first international crowdwork tour of Dubai & Europe - book your tickers NOW!\n\nDubai - 6th March - https://dubai.platinumlist.net/event-tickets/83095/rahul-subramanian-a-crowdwork-show\n\nParis - 10th March - https://serioustimepassfilms",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-k6f3q",
+      "name": "Hanes Bra | Stand up Comedy by Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT4M48S",
+      "embedUrl": "https://www.youtube.com/embed/luqmhP5qABE",
+      "contentUrl": "https://www.youtube.com/watch?v=luqmhP5qABE",
+      "uploadDate": "2019-03-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/luqmhP5qABE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Disclaimer: No bras were harmed while filming this video\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his social media for you daily dose of funny https://bit.ly/2MWeFL8  \n\nFollow Random Chikibum for all things funny and drop u",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-nqete",
+      "name": "Monorail and Children | Stand up Comedy by Rahul Subramanian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT4M53S",
+      "embedUrl": "https://www.youtube.com/embed/1aJ_VLlBPKo",
+      "contentUrl": "https://www.youtube.com/watch?v=1aJ_VLlBPKo",
+      "uploadDate": "2016-12-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1aJ_VLlBPKo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Disclaimer: These are just jokes. Fact Checks are boring. Boring are not jokes\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his social media for you daily dose of funny https://bit.ly/2MWeFL8 \n\nFollow Random Chikibum for all th",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-ilc5x",
+      "name": "Random Daftar -The Weird Job Interview  #SketchComedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT5M11S",
+      "embedUrl": "https://www.youtube.com/embed/YwGeXG4dMkM",
+      "contentUrl": "https://www.youtube.com/watch?v=YwGeXG4dMkM",
+      "uploadDate": "2016-05-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YwGeXG4dMkM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Job Interviews can be tough and tricky but how do you deal with an interview which is purely confusing.  Watch this video and find out\n\nComment and tell us your weird or crazy interview experiences \n\nYou can watch some of our other videos which are a part of the Random Daftar Serier \n\nThe Job Interv",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-6v7pd",
+      "name": "Random Daftar - The Sarcastic Boss #SketchComedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT5M26S",
+      "embedUrl": "https://www.youtube.com/embed/3i7rndCcGAM",
+      "contentUrl": "https://www.youtube.com/watch?v=3i7rndCcGAM",
+      "uploadDate": "2016-05-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3i7rndCcGAM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The Sarcastic Boss! You know exactly what we are talking about. In this episode of Random Daftar the focus is on one of the most stereotypical bosses in the Indian corporate world, the sarcastic boss. Only difference with this boss is that  he is surrounded by people who don't get his sarcasm ....at",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-oc37f",
+      "name": "The Karthik Story Ft. Rahul",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT5M15S",
+      "embedUrl": "https://www.youtube.com/embed/1yM6r0knAhQ",
+      "contentUrl": "https://www.youtube.com/watch?v=1yM6r0knAhQ",
+      "uploadDate": "2021-07-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1yM6r0knAhQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Send this video to the Karthik in your life! \n\nThis video is a part of the Random Live where Rahul and Kumar Varun were joined by  Kenny Sebastian and  Rohan Joshi as they discussed kids!\n\nYou can watch the entire live video here - https://youtu.be/fP-5OQpikD0\n\nYou can also catch some other clips of",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089b2i-t2c5q",
+      "name": "Random Daftar - The Corporate Apprentice #SketchComedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0898tj-wa7uz"
+      },
+      "duration": "PT6M37S",
+      "embedUrl": "https://www.youtube.com/embed/Ee1Eb7oieUI",
+      "contentUrl": "https://www.youtube.com/watch?v=Ee1Eb7oieUI",
+      "uploadDate": "2016-06-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ee1Eb7oieUI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Remember your first job? Watch how a novice is trained by an expert in the art of corporate survival and success.\nRandom Chikibum Presents Episode 5 of its new sketch series- Random Daftar!\n\nYou can watch some of our other videos which are a part of the Random Daftar Serier \n\nThe Job Interview https",
+      "channelTitle": "Random Chikibum",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-0xyxu",
+      "name": "Ambulance - Stand Up Comedy Ft. Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT20M2S",
+      "embedUrl": "https://www.youtube.com/embed/mbOO0Z6ryO0",
+      "contentUrl": "https://www.youtube.com/watch?v=mbOO0Z6ryO0",
+      "uploadDate": "2025-10-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mbOO0Z6ryO0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY SIXTH STAND UP VIDEO IS HERE! SHARE IT WITH YOUR FRIENDS. \n00:00 -  Men's Mental health\n06:10 - Ambulance\n\nSubscribe to my Second Channel: https://www.youtube.com/@beabassi\n\nInstagram - https://www.instagram.com/be_a_bassi \n\nFacebook- https://www.facebook.com/AnubhavSinghBassi\n\nEdited by: Akshit ",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-1kvhy",
+      "name": "Roommate - Stand Up Comedy Ft. Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT22M45S",
+      "embedUrl": "https://www.youtube.com/embed/qkxuFKqJXWY",
+      "contentUrl": "https://www.youtube.com/watch?v=qkxuFKqJXWY",
+      "uploadDate": "2021-04-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qkxuFKqJXWY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY FOURTH STAND UP VIDEO IS HERE!\n\nDO WRITE YOUR ROOMMATE EXPERIENCES IN COMMENTS AND SHARE WITH YOUR FRIENDS.\n\nJoin the Be A Bassi email list for all the early updates for live shows, new videos, merchandise etc., register karlo shabash. https://forms.gle/qd35eEGdkUmsC5es7\n\nWebsite - https://www.an",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-p8ene",
+      "name": "UPSC - Stand Up Comedy Ft. Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT37M26S",
+      "embedUrl": "https://www.youtube.com/embed/IEfBBYmxtIo",
+      "contentUrl": "https://www.youtube.com/watch?v=IEfBBYmxtIo",
+      "uploadDate": "2023-07-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IEfBBYmxtIo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY FIFTH STAND UP VIDEO IS HERE! DO WRITE YOUR UPSC PREPARATION EXPERIENCES IN COMMENTS AND SHARE WITH YOUR FRIENDS. \n\nSubscribe to my Second Channel: https://www.youtube.com/@beabassi\n\nWebsite - https://www.beabassi.com/\n\nInstagram - https://www.instagram.com/be_a_bassi \n\nFacebook- https://www.face",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-630r2",
+      "name": "Hostel - Stand Up Comedy ft. Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT17M11S",
+      "embedUrl": "https://www.youtube.com/embed/Tqsz6fjvhZM",
+      "contentUrl": "https://www.youtube.com/watch?v=Tqsz6fjvhZM",
+      "uploadDate": "2020-02-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Tqsz6fjvhZM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY THIRD STAND UP VIDEO IS HERE!\n\nDO WRITE YOUR HOSTEL EXPERIENCES IN COMMENTS AND SHARE WITH YOUR FRIENDS.\n\nSubscribe to my Channel: https://www.youtube.com/channel/UCKnZ...\nInstagram - https://www.instagram.com/be_a_bassi\nFacebook- https://www.facebook.com/anubhavsingh...\nTwitter- https://www.twit",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-e5zqo",
+      "name": "Cheating - Stand Up Comedy ft. Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT12M11S",
+      "embedUrl": "https://www.youtube.com/embed/wQA68Oqr1qE",
+      "contentUrl": "https://www.youtube.com/watch?v=wQA68Oqr1qE",
+      "uploadDate": "2019-04-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wQA68Oqr1qE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY FIRST STAND UP VIDEO IS HERE!\n\nDO WRITE YOUR CHEATING EXPERIENCES IN COMMENTS AND SHARE WITH YOUR COLLEGE AND SCHOOL FRIENDS.\n\n\nSubscribe to my Channel: https://www.youtube.com/channel/UCKnZHF24IV9PT0cdSdHoWug\nInstagram - https://www.instagram.com/be_a_bassi\nFacebook- https://www.facebook.com/anu",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-32ano",
+      "name": "Waxing - Stand Up Comedy ft. Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT8M21S",
+      "embedUrl": "https://www.youtube.com/embed/z12bz7adLKI",
+      "contentUrl": "https://www.youtube.com/watch?v=z12bz7adLKI",
+      "uploadDate": "2019-06-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z12bz7adLKI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY SECOND STAND UP VIDEO IS HERE!\n\nDO WRITE YOUR EXPERIENCES OF 'BEING STRONG' IN COMMENTS.\n\nInstagram - https://www.instagram.com/be_a_bassi\nFacebook- https://www.facebook.com/anubhavsingh...\nTwitter- https://www.twitter.com/be_a_bassi\n\nSubscribe to my Channel: https://www.youtube.com/channel/UCKnZ",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-v7qoc",
+      "name": "Startup- Stand up Comedy Ft Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT7M42S",
+      "embedUrl": "https://www.youtube.com/embed/0guSWBSO8lo",
+      "contentUrl": "https://www.youtube.com/watch?v=0guSWBSO8lo",
+      "uploadDate": "2023-02-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0guSWBSO8lo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Startup is a bit from my Stand Up Special,  \"Bas Kar Bassi\" which is now live on Amazon Prime Videos, please go and watch the whole show, bahut maza aayega sab ko, cheers to life.\n- Bassi",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089f2p-f6uc9",
+      "name": "Lift- Stand Up Comedy By Anubhav Singh Bassi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089cns-4qwa9"
+      },
+      "duration": "PT3M40S",
+      "embedUrl": "https://www.youtube.com/embed/Iu9FeuQQqPo",
+      "contentUrl": "https://www.youtube.com/watch?v=Iu9FeuQQqPo",
+      "uploadDate": "2023-02-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Iu9FeuQQqPo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Here are a few more glimpses from my Stand Up Comedy Special \"Bas Kar Bassi”.\nYou can watch the complete show on Amazon Prime Video. Also, Naye videos release karne wala hu YouTube pe bahut jaldi! So, stay tuned! Thanks for your constant love.\n - Bassi",
+      "channelTitle": "Anubhav Singh Bassi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-102ey",
+      "name": "Train -The Unforgettable Journey | Stand up Comedy By Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT16M41S",
+      "embedUrl": "https://www.youtube.com/embed/xf-O1pnT5Hs",
+      "contentUrl": "https://www.youtube.com/watch?v=xf-O1pnT5Hs",
+      "uploadDate": "2025-03-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xf-O1pnT5Hs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This video is a satirical take on incidents that even Men have to go through in our day to day lives. I have tried to convey a simple message that Men's Safety is never been talked about in this country but deserves equal attention and solutions. Train The Unforgettable Journey has all my experience",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-lg0pu",
+      "name": "22 Boyfriends | Crowd Work | Stand Up Comedy | Ft @Harshgujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT20M27S",
+      "embedUrl": "https://www.youtube.com/embed/MwsHgn_jdIY",
+      "contentUrl": "https://www.youtube.com/watch?v=MwsHgn_jdIY",
+      "uploadDate": "2025-04-30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MwsHgn_jdIY/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "This Video is a Crowd Work Standup Comedy video from one of my Shows in Gurgaon. Main Characters of the video are One Income Tax Officer, a 40yr old Single Lady ,3 Baniya Boys and a 28Yr old rich girl dated 22 Boys.\nI have tried to create impromptu jokes around these people based on the taxes in Ind",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-00oc4",
+      "name": "Jai Hind - A Stand up Salute by Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT11M20S",
+      "embedUrl": "https://www.youtube.com/embed/ipM59QeEioI",
+      "contentUrl": "https://www.youtube.com/watch?v=ipM59QeEioI",
+      "uploadDate": "2025-05-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ipM59QeEioI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "We Indians extend our deepest appreciation to the dedicated Army civilians whose unwavering commitment supports and sustains our nation’s defense every day. Your service, though often behind the scenes, is vital to the strength and success of our military mission.The strength of our country lies not",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-j0aov",
+      "name": "Vicky Kaushal & Bangkok with Dad - Stand Up Comedy By Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT13M25S",
+      "embedUrl": "https://www.youtube.com/embed/W2MfSboIxEo",
+      "contentUrl": "https://www.youtube.com/watch?v=W2MfSboIxEo",
+      "uploadDate": "2023-07-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W2MfSboIxEo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY EIGHTH STANDUP COMEDY VIDEO IS HERE! \nDO SHARE YOUR TRIP EXPERIENCES TO BANGKOK IN THE COMMENT SECTION❤️\nLET ME KNOW HOW DID YOU LIKE THE VIDEO AND DON'T FORGET TO SHARE IT WITH YOUR FRIENDS, FAMILY AND LOVED ONES🙏\n\nJoin my email list for all the early updates for live shows, new videos etc., re",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-wjqbt",
+      "name": "Kanpur & River Ganga - Stand Up Comedy by Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT12M29S",
+      "embedUrl": "https://www.youtube.com/embed/AU4Nct1lEVU",
+      "contentUrl": "https://www.youtube.com/watch?v=AU4Nct1lEVU",
+      "uploadDate": "2020-02-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AU4Nct1lEVU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY THIRD STAND UP COMEDY VIDEO IS HERE! \n\nEvery Group has a Kanpuriya friend tag your Kanpuriya friends! \nBringing you this time 'Kanpur & River Ganga'! If you know that Kanpur is my city and it is famous for Gutkha(Tobacco), this is definitely gonna crack you up! Watch my third video where i talk o",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-x9mhw",
+      "name": "Wedding Ka Season - Stand up Comedy By Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT17M14S",
+      "embedUrl": "https://www.youtube.com/embed/OGjHGDEixAQ",
+      "contentUrl": "https://www.youtube.com/watch?v=OGjHGDEixAQ",
+      "uploadDate": "2023-12-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OGjHGDEixAQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY TENTH STANDUP COMEDY VIDEO IS HERE! \nDO SHARE YOUR EXPERIENCES OF WEDDING SEASON IN THE COMMENT SECTION❤️\nLET ME KNOW HOW DID YOU LIKE THE VIDEO AND DON'T FORGET TO SHARE IT WITH YOUR FRIENDS, FAMILY AND LOVED ONES🙏\n\nJoin my email list for all the early updates for live shows, new videos etc., r",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-q5ceb",
+      "name": "Taare Zameen Par | Standup comedy by Harsh Gujral ft Aamir khan",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT18M16S",
+      "embedUrl": "https://www.youtube.com/embed/JnJY-Jsez5E",
+      "contentUrl": "https://www.youtube.com/watch?v=JnJY-Jsez5E",
+      "uploadDate": "2025-06-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JnJY-Jsez5E/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a heartfelt tribute from my side to the brilliant cast of Taare Zameen Par, featuring Aamir Khan sir and the incredible team behind the film.I’ve revisited some of my favorite scenes and reimagined them in my own style — a humble attempt to honor a masterpiece that was truly ahead of its tim",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-vnhrd",
+      "name": "Akshay Kumar x Harsh Gujral | Roast Standup Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT20M32S",
+      "embedUrl": "https://www.youtube.com/embed/FtDv-L1stdo",
+      "contentUrl": "https://www.youtube.com/watch?v=FtDv-L1stdo",
+      "uploadDate": "2024-08-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FtDv-L1stdo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Witness this amazing banter between The Khiladi of all time and Anari. I have never thought I would get a chance to share the stage with Akshay Sir this is a dream come true moment. So enjoy and do watch this super fun movie #khelkhelmeiWitness.",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-92s3h",
+      "name": "Harsh & Bassi Unleashed | Crowd Work | Standup Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT11M56S",
+      "embedUrl": "https://www.youtube.com/embed/dytUxaBbrRA",
+      "contentUrl": "https://www.youtube.com/watch?v=dytUxaBbrRA",
+      "uploadDate": "2021-08-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dytUxaBbrRA/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "3 years ago me and Anubhav while discussing a joke decided that if we become famous  we will go on stage together one day.This video has witnessed that dream come true and captured some amazing moments of the show. Everyone please show us your love and support as you have done always.\nWith lots of l",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-odyvr",
+      "name": "Shadi Ki Rasmein - Standup Comedy ft. Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT11M15S",
+      "embedUrl": "https://www.youtube.com/embed/hj4kzcdd8ZE",
+      "contentUrl": "https://www.youtube.com/watch?v=hj4kzcdd8ZE",
+      "uploadDate": "2019-09-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hj4kzcdd8ZE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY SECOND STAND UP VIDEO IS HERE!\n\nDO WRITE YOUR EXPERIENCES OF 'Shaadi Ki Rasmein' IN COMMENTS.\n\nBringing you this time 'Shadi Wale Shenanigans'! Married or Single, this is definitely gonna crack you up! Watch my second video to know the journey that starts from a fake Matrimonial profile and ends ",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-y5kib",
+      "name": "Roasted | CROWD WORK | Harsh Gujral | Standup Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT8M51S",
+      "embedUrl": "https://www.youtube.com/embed/YtrHyHqdp8Y",
+      "contentUrl": "https://www.youtube.com/watch?v=YtrHyHqdp8Y",
+      "uploadDate": "2020-04-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YtrHyHqdp8Y/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Releasing my first crowd-work(Standup Comedy) video from the show that I did in Mumbai. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. Let me know how you liked the video and share it with your friends. You can follow me on the",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-jzfvz",
+      "name": "B.Tech - Stand up Comedy By Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT16M16S",
+      "embedUrl": "https://www.youtube.com/embed/havARbP7Fyk",
+      "contentUrl": "https://www.youtube.com/watch?v=havARbP7Fyk",
+      "uploadDate": "2024-03-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/havARbP7Fyk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY ELEVENTH STANDUP COMEDY VIDEO IS HERE! \nDO SHARE YOUR EXPERIENCES OF YOUR ENGINEERING AND HOSTEL IN THE COMMENT SECTION❤️\nLET ME KNOW HOW DID YOU LIKE THE VIDEO AND DON'T FORGET TO SHARE IT WITH YOUR FRIENDS, FAMILY AND LOVED ONES🙏\n\nJoin my email list for all the early updates for live shows, ne",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-xjh0i",
+      "name": "Indian Reality Shows - Stand Up Comedy ft. Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT10M59S",
+      "embedUrl": "https://www.youtube.com/embed/hDzia4qT3O8",
+      "contentUrl": "https://www.youtube.com/watch?v=hDzia4qT3O8",
+      "uploadDate": "2019-07-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hDzia4qT3O8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "How real are Reality Shows? How do parents treat me after watching them? My first video stand-up comedy video will solve this mystery for once and forever!! Check it out guys.\nDo write what you guys think in the comment section and share it with your friends and family. Cheers!!\n\nFollow me on my Soc",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-l09z9",
+      "name": "My name is Harsh Gujral - Standup Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT14M55S",
+      "embedUrl": "https://www.youtube.com/embed/8f3e6rXB8Cw",
+      "contentUrl": "https://www.youtube.com/watch?v=8f3e6rXB8Cw",
+      "uploadDate": "2021-04-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8f3e6rXB8Cw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY SIXTH STANDUP COMEDY VIDEO IS HERE!\n\nDO SHARE YOUR EXPERIENCES IF YOUR ARE ALSO A \"BROTHER BORN AFTER SISTERS\".\nJoin my email list for all the early updates for live shows, new videos etc., register karlo yaha pe: https://forms.gle/koxVuf5brSgqdxw96\n\nFollow me on my Social Media Profiles:\nSubscri",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-fqod0",
+      "name": "50 Shades of Grey | Roast | Standup Comedy by Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT10M33S",
+      "embedUrl": "https://www.youtube.com/embed/YOiFzUXxTHc",
+      "contentUrl": "https://www.youtube.com/watch?v=YOiFzUXxTHc",
+      "uploadDate": "2024-06-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YOiFzUXxTHc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MY TWELFTH STANDUP COMEDY VIDEO IS HERE! \nSOMETIMES YOU GET ANSWERS FROM THE AUDIENCE WHICH IS OUT OF THE SYLLABUS FOR YOU. SOMETHING LIKE THIS HAS HAPPENED WITH US IN A LIVE SHOW.. DHYAAN SE DEKHNA SHAYAD AAPKO KUCH SEEKHNE KO MIL JAYE 🤪\nSHARE IT WITH YOUR FRIENDS, FAMILY AND LOVED ONES🙏\n\nJoin my",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-h981a",
+      "name": "Sasta Vicky Kaushal | CROWD WORK | Harsh Gujral | Standup Comedy 2021",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT13M11S",
+      "embedUrl": "https://www.youtube.com/embed/8KFi3ag9bEs",
+      "contentUrl": "https://www.youtube.com/watch?v=8KFi3ag9bEs",
+      "uploadDate": "2020-12-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8KFi3ag9bEs/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Releasing my 5th Video crowd-work(Standup Comedy) video from the show that I did in New Delhi my first show after Lockdown. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. Let me know how you liked the video and share it with yo",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-ersa8",
+      "name": "Harsh-O-Anand | Crowd Work | Stand Up Comedy By Harsh Gujral",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT11M37S",
+      "embedUrl": "https://www.youtube.com/embed/Cmb1FEqUkSs",
+      "contentUrl": "https://www.youtube.com/watch?v=Cmb1FEqUkSs",
+      "uploadDate": "2023-09-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cmb1FEqUkSs/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Roast of a Roaster \nThis video is from a show I did in Amsterdam and never did I know that I would be at the receiving end of a funny roast. Anand Bhai just killed it with his witty responses and one-liners. For the first time, I had no answers and was happy. \nDo Watch and Share \nWith Love \nHarsh Gu",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-kxjek",
+      "name": "Abi hum zinda hai💪😂💪😂",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT2M34S",
+      "embedUrl": "https://www.youtube.com/embed/_50DiDDAUls",
+      "contentUrl": "https://www.youtube.com/watch?v=_50DiDDAUls",
+      "uploadDate": "2025-05-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_50DiDDAUls/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-91ue1",
+      "name": "Tag those friends, jinki English theek karne ki zaroorat hai! #LetsQuillBot #QuillBotPartner #ad",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT16S",
+      "embedUrl": "https://www.youtube.com/embed/sSoPzhzpxc0",
+      "contentUrl": "https://www.youtube.com/watch?v=sSoPzhzpxc0",
+      "uploadDate": "2025-08-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sSoPzhzpxc0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk089jax-8zowq",
+      "name": "I don’t forgive I don’t Forget😜",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT2M8S",
+      "embedUrl": "https://www.youtube.com/embed/VgK1o0-ef88",
+      "contentUrl": "https://www.youtube.com/watch?v=VgK1o0-ef88",
+      "uploadDate": "2025-06-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VgK1o0-ef88/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk08bnif-q9cj3",
+      "name": "Biswa Kalyan Rath | Mood Kharaab | New Stand Up Special | @PrimeVideoIN",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08bl4h-l1kh9"
+      },
+      "duration": "PT1M13S",
+      "embedUrl": "https://www.youtube.com/embed/V_c-oLhaR_4",
+      "contentUrl": "https://www.youtube.com/watch?v=V_c-oLhaR_4",
+      "uploadDate": "2023-05-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/V_c-oLhaR_4/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "#MoodKharaabOnPrime, May 5",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    }
+  ],
+  "tags": [
+    "stand-up",
+    "comedy",
+    "youtube",
+    "global"
+  ]
 }

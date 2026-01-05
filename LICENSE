@@ -1,0 +1,99 @@
+MIT License
+
+Copyright (c) 2026 Kaaro Catalogue Contributors
+
+IMPORTANT NOTICE REGARDING CONTENT OWNERSHIP:
+This license applies ONLY to the software code, catalog structure, metadata organization,
+and technical infrastructure of the Kaaro Catalogue project.
+
+ALL CREATIVE WORKS cataloged within this project (including but not limited to poems,
+literary works, comedy performances, videos, and other artistic content) remain the
+exclusive intellectual property of their respective original authors, creators, and
+copyright holders.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+CONTENT ATTRIBUTION AND COPYRIGHT NOTICE:
+
+This project is a NON-COMMERCIAL EDUCATIONAL CATALOG that curates, organizes, and
+provides access to publicly available cultural and artistic works. The project
+functions as a digital archive and discovery platform.
+
+1. CONTENT OWNERSHIP:
+   - All poems, literary works, comedy performances, videos, and creative content
+     referenced or embedded in this catalog belong to their respective original
+     authors, performers, creators, and/or copyright holders.
+   - The Kaaro Catalogue project does NOT claim ownership, authorship, or copyright
+     over any creative works included in the catalog.
+
+2. ATTRIBUTION:
+   - All catalog entries include proper attribution to original authors and creators.
+   - Source information and references to original publications are maintained
+     where available.
+   - Links to original sources are provided whenever possible.
+
+3. FAIR USE AND EDUCATIONAL PURPOSE:
+   - Content is cataloged for educational, research, and cultural preservation purposes.
+   - The project operates under fair use principles for educational and archival purposes.
+   - No commercial exploitation of the cataloged creative works is permitted.
+
+4. RIGHTS HOLDERS:
+   - If you are a copyright holder and have concerns about any content included in
+     this catalog, please contact the project maintainers. We are committed to
+     respecting intellectual property rights and will address legitimate concerns
+     promptly.
+   - Content can be removed or modified upon request from verified rights holders.
+
+5. USER RESPONSIBILITIES:
+   - Users of this catalog must respect the intellectual property rights of all
+     original creators and authors.
+   - Any use of cataloged content beyond the scope of this platform requires
+     proper permissions from the respective copyright holders.
+   - Commercial use of any cataloged creative works requires authorization from
+     the original rights holders.
+
+6. DATA SOURCES:
+   - Catalog metadata is derived from publicly available sources including but not
+     limited to: Wikipedia, Rekhta, YouTube, and various literary archives.
+   - Video content is embedded via YouTube's official embedding API, respecting
+     YouTube's Terms of Service.
+   - Text content includes excerpts used for educational purposes under fair use.
+
+7. PROJECT SCOPE:
+   The MIT License grants permissions for:
+   - The catalog infrastructure and software code
+   - The data schema and organizational structure
+   - The web visualization interface
+   - The MCP tools and utilities
+   - The aggregation and curation methodology
+   
+   The MIT License DOES NOT grant permissions for:
+   - The creative works themselves (poems, performances, etc.)
+   - Use of artist names, likenesses, or personas for commercial purposes
+   - Reproduction of creative content beyond fair use
+   - Misrepresentation of authorship or content ownership
+
+---
+
+For questions regarding content rights, please open an issue on the project
+repository or contact the maintainers directly.
+
+Last updated: January 2026

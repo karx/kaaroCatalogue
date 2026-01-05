@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this catalog or software in your research, please cite it as below."
+title: "Kaaro Catalogue: A Digital Archive of South Asian Cultural Heritage"
+version: 1.0.0
+date-released: 2026-01-06
+authors:
+  - name: "Kaaro Catalogue Contributors"
+repository-code: "https://github.com/yourusername/kaaroCatalogue"
+url: "https://github.com/yourusername/kaaroCatalogue"
+abstract: >
+  Kaaro Catalogue is an open-source ecosystem for building, maintaining,
+  analyzing, and visualizing cultural catalogs. The project currently hosts
+  comprehensive catalogs of Indian Poetry and Indian Comedy, serving as a
+  digital archive and discovery platform for South Asian cultural heritage.
+keywords:
+  - digital humanities
+  - cultural heritage
+  - Indian poetry
+  - cataloging
+  - schema.org
+  - MCP
+  - data visualization
+license: MIT
+type: software
+preferred-citation:
+  type: software
+  title: "Kaaro Catalogue: A Digital Archive of South Asian Cultural Heritage"
+  authors:
+    - name: "Kaaro Catalogue Contributors"
+  year: 2026
+  notes: >
+    Note: This citation is for the catalog infrastructure and software.
+    Individual creative works (poems, performances) should be cited using
+    their original author attribution as provided in the catalog metadata.
