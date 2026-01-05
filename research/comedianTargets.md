@@ -19,48 +19,56 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
    - Notable: "Sakht Launda", Amazon Prime specials
 
 3. **Biswa Kalyan Rath**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath
    - Language: English/Hindi
    - Notable: Pretentious Movie Reviews, Amazon Prime specials
    - YouTube: @biswakishdas
 
 4. **Kenny Sebastian**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Kenny_Sebastian
    - Language: English
    - Notable: Netflix special "The Most Interesting Person in the Room"
    - YouTube: @KennySebastian
 
 5. **Kanan Gill**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Kanan_Gill
    - Language: English
    - Notable: Pretentious Movie Reviews, Netflix special "Keep It Real"
    - YouTube: @KananGill
 
 6. **Tanmay Bhat**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Tanmay_Bhat
    - Language: English/Hindi
    - Notable: AIB co-founder, YouTuber, streaming
    - YouTube: @tanmaybhat
 
 7. **Abhish Mathew**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Abish_Mathew
    - Language: English
    - Notable: "Son of Abish" talk show, OML Entertainment
    - YouTube: @abishmathew
 
 8. **Sorabh Pant**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Sorabh_Pant
    - Language: English
    - Notable: EIC senior writer, early Indian standup pioneer
    - YouTube: @sorabhpant
 
 9. **Kunal Kamra**
+   - Status: ✅ Already in catalog
    - Wikipedia: https://en.wikipedia.org/wiki/Kunal_Kamra
    - Language: English/Hindi
    - Notable: Political comedy, "Shut Up Ya Kunal"
    - YouTube: @kunalkamra
 
 10. **Rahul Subramanian**
+    - Status: ✅ Already in catalog
     - Wikipedia: https://en.wikipedia.org/wiki/Rahul_Subramanian
     - Language: English
     - Notable: Amazon Prime special "Kal Main Udega"
@@ -69,26 +77,31 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 ### Hindi/Hinglish Comedians
 
 11. **Anubhav Singh Bassi**
+    - Status: ✅ Already in catalog
     - Language: Hindi/Hinglish
     - Notable: "Bas Kar Bassi", viral YouTube videos
     - YouTube: @anubhavsinghbassi
 
 12. **Harsh Gujral**
+    - Status: ✅ Already in catalog
     - Language: Hindi/Hinglish
     - Notable: Crowd work specialist, Harsh Gujral Comedy
     - YouTube: @harshgujral
 
 13. **Aakash Gupta**
+    - Status: ✅ Already in catalog
     - Language: Hindi
     - Notable: "Excuse Me Brother"', Amazon Prime
     - YouTube: @aakashguptastandup
 
 14. **Manik Mahna**
+    - Status: ✅ Already in catalog
     - Language: Hindi/English
     - Notable: Clean comedy, corporate shows
     - YouTube: @ManikmMahna
 
 15. **Abhishek Upmanyu**
+    - Status: ✅ Already in catalog
     - Language: English/Hindi
     - Notable: "Thoda Saaf Bol", observational comedy
     - YouTube: @AbhishekUpmanyu
@@ -98,11 +111,13 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 ### Regional Language Comedians
 
 16. **Praveen Kumar** (Tamil)
+    - Status: ✅ Already in catalog
     - Language: Tamil
     - Notable: Tamil standup pioneer
     - YouTube: Evam Standup Tamasha
 
 17. **Aadar Malik** (Urdu/Hindi)
+    - Status: ✅ Already in catalog
     - Language: Urdu/Hindi
     - Notable: Poetry and standup fusion
     - YouTube: @aadarmalik
