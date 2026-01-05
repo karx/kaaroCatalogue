@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-04T21:15:40.458Z",
+  "updatedAt": "2026-01-05T19:34:23.512Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -13,9 +13,9 @@
       "Netflix is a Joke",
       "Dry Bar Comedy"
     ],
-    "totalEntities": 20,
+    "totalEntities": 25,
     "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 192
+    "totalVideos": 361
   },
   "entities": [
     {
@@ -617,6 +617,161 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Aadar_Malik",
         "retrievedAt": "2026-01-04T21:14:39.668Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk1k7259-zi395",
+      "name": "Sumukhi Suresh",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sumukhi_Suresh",
+        "https://www.youtube.com/channel/UCZxgQ6lydRlm3rqF3jSEUeA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sumukhi_Suresh",
+        "retrievedAt": "2026-01-05T19:34:04.702Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk1k75b0-ecs3l",
+      "name": "Kaneez Surka",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kaneez_Surka",
+        "https://www.youtube.com/channel/UC6a7TnbzoeggcDscJBrR0kw"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kaneez_Surka",
+        "retrievedAt": "2026-01-05T19:34:08.796Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk1k78h0-1czh6",
+      "name": "Appurv Gupta",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Appurv_Gupta",
+        "https://www.youtube.com/channel/UCKgAaCGmyCRKgMZD0LBvMNA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Appurv_Gupta",
+        "retrievedAt": "2026-01-05T19:34:12.900Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk1k7bv2-cgxno",
+      "name": "Samay Raina",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Samay_Raina",
+        "https://www.youtube.com/channel/UCAov2BBv1ZJav0c_yHEciAw"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Samay_Raina",
+        "retrievedAt": "2026-01-05T19:34:17.295Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk1k7f1u-5ahi4",
+      "name": "Prashasti Singh",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Prashasti_Singh",
+        "https://www.youtube.com/channel/UCo10yRzepDzIt7B7w2wnM1Q"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prashasti_Singh",
+        "retrievedAt": "2026-01-05T19:34:21.426Z"
       }
     }
   ],
@@ -1733,7 +1888,7 @@
       "name": "Geoguessing with Smrutika - Biswa Kalyan Rath",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088hhx-jaxf9"
+        "@id": "comedian-mk087xaa-zgmhg"
       },
       "duration": "PT55M16S",
       "embedUrl": "https://www.youtube.com/embed/igi1KI5TLGU",
@@ -1751,7 +1906,7 @@
       "name": "MOST EXERCISE EVER - Prem Aggan Review",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088p87-3rz4f"
+        "@id": "comedian-mk0885la-3rn2a"
       },
       "duration": "PT8M13S",
       "embedUrl": "https://www.youtube.com/embed/mA1LQRBA6es",
@@ -1769,7 +1924,7 @@
       "name": "Dudes #3 : Bag",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088p87-3rz4f"
+        "@id": "comedian-mk0885la-3rn2a"
       },
       "duration": "PT32S",
       "embedUrl": "https://www.youtube.com/embed/kTsloPlojzc",
@@ -4055,7 +4210,7 @@
       "name": "Biswa Kalyan Rath | Mood Kharaab | New Stand Up Special | @PrimeVideoIN",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk08bl4h-l1kh9"
+        "@id": "comedian-mk087xaa-zgmhg"
       },
       "duration": "PT1M13S",
       "embedUrl": "https://www.youtube.com/embed/V_c-oLhaR_4",
@@ -4065,6 +4220,3048 @@
       "genre": "Stand-Up Special",
       "description": "#MoodKharaabOnPrime, May 5",
       "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-scutn",
+      "name": "Why Situationships beat Marriages! #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT3M1S",
+      "embedUrl": "https://www.youtube.com/embed/idqiVWmjDq0",
+      "contentUrl": "https://www.youtube.com/watch?v=idqiVWmjDq0",
+      "uploadDate": "2025-06-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/idqiVWmjDq0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-8tbil",
+      "name": "How I fight with my wife #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT3M",
+      "embedUrl": "https://www.youtube.com/embed/4Npfak4FAB8",
+      "contentUrl": "https://www.youtube.com/watch?v=4Npfak4FAB8",
+      "uploadDate": "2025-07-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4Npfak4FAB8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-6tdfa",
+      "name": "How Indian Mom’s & Dad’s Fight at Home! #standupcomedy #funny",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT3M1S",
+      "embedUrl": "https://www.youtube.com/embed/Ksv-fwmPsBc",
+      "contentUrl": "https://www.youtube.com/watch?v=Ksv-fwmPsBc",
+      "uploadDate": "2025-07-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ksv-fwmPsBc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-v52t3",
+      "name": "Why men can’t express their feelings #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT2M25S",
+      "embedUrl": "https://www.youtube.com/embed/SbWQqJ2QU6g",
+      "contentUrl": "https://www.youtube.com/watch?v=SbWQqJ2QU6g",
+      "uploadDate": "2025-07-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SbWQqJ2QU6g/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-qkjzv",
+      "name": "Stand Up Comedy - Crowd Work  | Kenny Sebastian - Best & Worst Memories : Deep Sea Diving",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT15M26S",
+      "embedUrl": "https://www.youtube.com/embed/l2dDbs0qpd8",
+      "contentUrl": "https://www.youtube.com/watch?v=l2dDbs0qpd8",
+      "uploadDate": "2021-08-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l2dDbs0qpd8/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "A new show format where I ask the audience their best and worst memories and we laugh our way through our trauma together!\n\nWebsite: https://www.knowkenny.com/\nInstagram: https://www.instagram.com/kennethseb/\n\nSpecial Thanks to The Habitat :  https://www.instagram.com/indiehabitat\n\nThe Habitat Audio",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-eyyxh",
+      "name": "Women & Fake Crying! #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT2M26S",
+      "embedUrl": "https://www.youtube.com/embed/dsZkaP7GOa8",
+      "contentUrl": "https://www.youtube.com/watch?v=dsZkaP7GOa8",
+      "uploadDate": "2025-08-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dsZkaP7GOa8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-8e841",
+      "name": "Why I don't smoke weed but love stoners - Stand Up Comedy by Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT6M1S",
+      "embedUrl": "https://www.youtube.com/embed/e_NLZbKm5TY",
+      "contentUrl": "https://www.youtube.com/watch?v=e_NLZbKm5TY",
+      "uploadDate": "2016-04-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e_NLZbKm5TY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In his latest clip from his brand new special, Kenny talks about his constant life-affair with stoner's. Even though no one believes him that he doesn't smoke weed (Marijuana) , He loves the company of people who do. His fascination for these individuals sparks from how stoner's talk about weed.\n\nAf",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-25593",
+      "name": "Music Can Make Anything Sexy - Stand Up Comedy by Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT4M30S",
+      "embedUrl": "https://www.youtube.com/embed/WbCxxb5fQHg",
+      "contentUrl": "https://www.youtube.com/watch?v=WbCxxb5fQHg",
+      "uploadDate": "2020-06-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WbCxxb5fQHg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Right now, If you want to make it to the top 10 in Music, You gotta be super positive or be super sexual. \nIn an excerpt from my #Netflix Original #Comedy #Special \"The Most Interesting Person in The Room\" , I talk about how it's not a good idea to have such a limited idea of what music should be! I",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-pvlbr",
+      "name": "When you want to smell good!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT2M41S",
+      "embedUrl": "https://www.youtube.com/embed/aaLj4tIr5GQ",
+      "contentUrl": "https://www.youtube.com/watch?v=aaLj4tIr5GQ",
+      "uploadDate": "2025-10-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aaLj4tIr5GQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Get yours on KennySebastian.com",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k4ldt-t1p01",
+      "name": "Archery Classes | Best & Worst Memories - Kenny Sebastian | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT15M28S",
+      "embedUrl": "https://www.youtube.com/embed/r4kOjpqmtPw",
+      "contentUrl": "https://www.youtube.com/watch?v=r4kOjpqmtPw",
+      "uploadDate": "2021-06-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/r4kOjpqmtPw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "A new show format where I ask the audience their best and worst memories and we laugh our way through our trauma together!\n\nWebsite: https://www.knowkenny.com/\nInstagram: https://www.instagram.com/kennethseb/\n\nSpecial Thanks to The Habitat :  https://www.instagram.com/indiehabitat\n\nThe Habitat Audio",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5lu3-bgkzo",
+      "name": "The Escape Room EP 03 ft. @kaka._.ji @ComicKaustubhAgarwal @boi_onkar @abhishekwalia1912",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT1H42M3S",
+      "embedUrl": "https://www.youtube.com/embed/B6JyiTbjyzo",
+      "contentUrl": "https://www.youtube.com/watch?v=B6JyiTbjyzo",
+      "uploadDate": "2025-09-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/B6JyiTbjyzo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The Escape Room is the show where we give you the opportunity to confess your darkest secrets and escape from the guilt once and for all. If you have any such confessions which are bothering you and you want to get them off your chest then follow the escape room’s instagram account @theescaperoomind",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5lu3-i82kv",
+      "name": "Angrezo se badla lelia hai dost Harsh Gujral ne😜😜",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT1M33S",
+      "embedUrl": "https://www.youtube.com/embed/3EErTQHhL7s",
+      "contentUrl": "https://www.youtube.com/watch?v=3EErTQHhL7s",
+      "uploadDate": "2025-04-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3EErTQHhL7s/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5lu3-3yzrh",
+      "name": "Escaped😬😬",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk089gq3-d1lcl"
+      },
+      "duration": "PT1M19S",
+      "embedUrl": "https://www.youtube.com/embed/uPFsAg-zOSA",
+      "contentUrl": "https://www.youtube.com/watch?v=uPFsAg-zOSA",
+      "uploadDate": "2025-02-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uPFsAg-zOSA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Harsh gujral",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-j38b8",
+      "name": "My Corporate Job | Aakash Gupta | Stand-up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT24M20S",
+      "embedUrl": "https://www.youtube.com/embed/l_63zbTj9Hw",
+      "contentUrl": "https://www.youtube.com/watch?v=l_63zbTj9Hw",
+      "uploadDate": "2025-10-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l_63zbTj9Hw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nJokes & stories from my corporate mazdoori days. I hope you enjoyed this video. Please share it wit",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-mg63b",
+      "name": "Summer is coming | Aakash Gupta | Stand-up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT12M53S",
+      "embedUrl": "https://www.youtube.com/embed/Znua7tNAbik",
+      "contentUrl": "https://www.youtube.com/watch?v=Znua7tNAbik",
+      "uploadDate": "2025-04-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Znua7tNAbik/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nIn this video I share my experience & stories about struggles during Indian summers\n\nWritten & Perf",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-os37q",
+      "name": "Sarojini Nagar | Excuse Me Brother | Stand-Up Comedy by Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT10M31S",
+      "embedUrl": "https://www.youtube.com/embed/KBZfnt80s54",
+      "contentUrl": "https://www.youtube.com/watch?v=KBZfnt80s54",
+      "uploadDate": "2021-02-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KBZfnt80s54/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\nFor bookings - aakashgupta.business@gmail.com\n\nEdited by - Gaurav Bhatt & Aakash Gupta\nbgaurav474@gm",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-hypz6",
+      "name": "School | Aakash Gupta | Stand-up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT26M25S",
+      "embedUrl": "https://www.youtube.com/embed/Az38f7cUzK8",
+      "contentUrl": "https://www.youtube.com/watch?v=Az38f7cUzK8",
+      "uploadDate": "2024-12-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Az38f7cUzK8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFull special Link : https://www.youtube.com/watch?v=SVRH-pBw0cc&t=2234s\n\nHello Friends ! This is on",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-s5822",
+      "name": "Paan | Stand-up Comedy by Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT8M12S",
+      "embedUrl": "https://www.youtube.com/embed/6d2wzfx4sRs",
+      "contentUrl": "https://www.youtube.com/watch?v=6d2wzfx4sRs",
+      "uploadDate": "2022-02-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6d2wzfx4sRs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFor bookings - aakashgupta.business@gmail.com\n\nEnglish Subtitles available for the video\n\nDirected ",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-aq9q0",
+      "name": "Galti Karli Inse Baat Karke | Aakash Gupta | Stand-up Comedy | Crowd Work",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT5M7S",
+      "embedUrl": "https://www.youtube.com/embed/28-7Jki3PEM",
+      "contentUrl": "https://www.youtube.com/watch?v=28-7Jki3PEM",
+      "uploadDate": "2020-06-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/28-7Jki3PEM/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "UK Europe Tour 2023 Tickets : https://linktr.ee/aakashguptatour\nTo Join the EMAIL list: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFor bookings - aakashgupta.business@gmail.com\n\nFollow me on Instagram : https://www.instagram.com/theskygupta/\nFollow me on Facebook : https://www.facebook.com/TheSkyGupta/\n\nA",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-1dg7z",
+      "name": "Aakash Gupta | Angry Young Man | Full Stand-up Comedy Special",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT1H1M38S",
+      "embedUrl": "https://www.youtube.com/embed/SVRH-pBw0cc",
+      "contentUrl": "https://www.youtube.com/watch?v=SVRH-pBw0cc",
+      "uploadDate": "2025-03-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SVRH-pBw0cc/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nThis is my full special which was released on insider in Dec 2023 on a pay per view basis. Thank yo",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-weszo",
+      "name": "Main Aur Mumbai | Aakash Gupta | Stand-up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT15M33S",
+      "embedUrl": "https://www.youtube.com/embed/GxJMuSAYZrE",
+      "contentUrl": "https://www.youtube.com/watch?v=GxJMuSAYZrE",
+      "uploadDate": "2024-08-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GxJMuSAYZrE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nJokes on my experience of Mumbai Local train along with my friends",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-yo7kr",
+      "name": "Dogs | Stand-Up Comedy by Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT8M37S",
+      "embedUrl": "https://www.youtube.com/embed/PTIaBLtp4R8",
+      "contentUrl": "https://www.youtube.com/watch?v=PTIaBLtp4R8",
+      "uploadDate": "2019-10-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PTIaBLtp4R8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India US & UK Tour 2025 Tickets Link : https://linktr.ee/theskygupta | Buy tickets & watch me perform live in your city :)\nJoin my EMAIL list for early & exclusive updates about my live shows in your cities:  https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nLIVE SHOW TICKETS \nUS TOUR Apr May 2025 Tickets : http",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-im19i",
+      "name": "Childhood Dreams | Aakash Gupta | Stand-up Comedy | Crowd Work",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT8M48S",
+      "embedUrl": "https://www.youtube.com/embed/8bPWXYM2ysU",
+      "contentUrl": "https://www.youtube.com/watch?v=8bPWXYM2ysU",
+      "uploadDate": "2020-12-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8bPWXYM2ysU/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "India US & UK Tour Tickets Link : https://linktr.ee/theskygupta | Buy tickets & watch me perform live in your city :)\nJoin my EMAIL list for early & exclusive updates about my live shows in your cities:  https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nLIVE SHOW TICKETS \nUS TOUR Apr May 2025 Tickets : https://t",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-u0k5m",
+      "name": "I am a Chef | Aakash Gupta | Stand-Up Comedy | Crowd Work",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT8M55S",
+      "embedUrl": "https://www.youtube.com/embed/Y2Oj9gllHno",
+      "contentUrl": "https://www.youtube.com/watch?v=Y2Oj9gllHno",
+      "uploadDate": "2022-04-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y2Oj9gllHno/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFor bookings - aakashgupta.business@gmail.com\n\nThis crowd work was improvised on the spot in one of",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-6yjxx",
+      "name": "Cheenk | Stand-Up Comedy | Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT13M41S",
+      "embedUrl": "https://www.youtube.com/embed/pjSxOnCkHIA",
+      "contentUrl": "https://www.youtube.com/watch?v=pjSxOnCkHIA",
+      "uploadDate": "2023-02-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pjSxOnCkHIA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\nFor bookings - aakashgupta.business@gmail.com\n\nDirected & Edited by : Gaurav Bhatt & Aakash Gupta\nEm",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-tscy5",
+      "name": "Narcotics | Stand-up Comedy | Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT9M5S",
+      "embedUrl": "https://www.youtube.com/embed/inLh-UAWu_g",
+      "contentUrl": "https://www.youtube.com/watch?v=inLh-UAWu_g",
+      "uploadDate": "2024-01-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/inLh-UAWu_g/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFull special Link : https://www.youtube.com/watch?v=SVRH-pBw0cc&t=2234s\n\nThis video is a part of my",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-vg52q",
+      "name": "Junior College | Aakash Gupta | Stand-up Comedy | Crowd Work",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT7M8S",
+      "embedUrl": "https://www.youtube.com/embed/iBt2sPfeGRs",
+      "contentUrl": "https://www.youtube.com/watch?v=iBt2sPfeGRs",
+      "uploadDate": "2020-05-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iBt2sPfeGRs/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "UK Europe Tour 2023 Tickets : https://linktr.ee/aakashguptatour\nTo Join the EMAIL list: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFor bookings - aakashgupta.business@gmail.com\nThis crowd work was improvised on the spot during one of my Stand-up Comedy shows. \n\nFollow me on Instagram : https://www.instagr",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-owtr9",
+      "name": "My First Euro Trip | Stand-up Comedy by Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT15M47S",
+      "embedUrl": "https://www.youtube.com/embed/PBDxZkIJLNg",
+      "contentUrl": "https://www.youtube.com/watch?v=PBDxZkIJLNg",
+      "uploadDate": "2023-12-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PBDxZkIJLNg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFull special Link : https://www.youtube.com/watch?v=SVRH-pBw0cc&t=2234s\n\nThis video is a part of my",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-x81ue",
+      "name": "Non Veg Joke & Gully Cricket | Bonus Jokes | Aakash Gupta | Stand-up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT8M23S",
+      "embedUrl": "https://www.youtube.com/embed/lMpTRda55Cw",
+      "contentUrl": "https://www.youtube.com/watch?v=lMpTRda55Cw",
+      "uploadDate": "2024-04-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lMpTRda55Cw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nPichli video mei kuch jokes bach gaye the, toh unki video banake daali hai :)\nMain Video : https://",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-09mcq",
+      "name": "Delhi Metro | Stand-Up Comedy by Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT7M45S",
+      "embedUrl": "https://www.youtube.com/embed/Xc5n49aEhwc",
+      "contentUrl": "https://www.youtube.com/watch?v=Xc5n49aEhwc",
+      "uploadDate": "2018-07-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xc5n49aEhwc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "UK Europe Tour 2023 Tickets : https://linktr.ee/aakashguptatour\nTo Join the EMAIL list: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFor bookings - aakashgupta.business@gmail.com\n\nFollow me on Instagram : https://www.instagram.com/theskygupta/\nFollow me on Facebook : https://www.facebook.com/TheSkyGupta/\n\nC",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-22ztl",
+      "name": "Indian Cricket Fans & Virat Kohli | Aakash Gupta | Stand-up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT16M55S",
+      "embedUrl": "https://www.youtube.com/embed/qxXYC15dmpc",
+      "contentUrl": "https://www.youtube.com/watch?v=qxXYC15dmpc",
+      "uploadDate": "2024-04-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qxXYC15dmpc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "India Tour 2025 Tickets Link : https://linktr.ee/theskygupta \nCome watch me perform live in your city :) \n\nWant early invites for all my shows? \nGive me your info: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nI love Cricket & I love Virat Kohli & This is my favourite set which I loved performing on stage. H",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-kzvvt",
+      "name": "English speaking",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT58S",
+      "embedUrl": "https://www.youtube.com/embed/FBsk_L66u88",
+      "contentUrl": "https://www.youtube.com/watch?v=FBsk_L66u88",
+      "uploadDate": "2025-01-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FBsk_L66u88/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5p1q-esj07",
+      "name": "Train Journey & Honeymoon Trips | Stand-Up Comedy by Aakash Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cb2k-wv14t"
+      },
+      "duration": "PT5M16S",
+      "embedUrl": "https://www.youtube.com/embed/jydRGuVmCV8",
+      "contentUrl": "https://www.youtube.com/watch?v=jydRGuVmCV8",
+      "uploadDate": "2017-06-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jydRGuVmCV8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "UK Europe Tour 2023 Tickets : https://linktr.ee/aakashguptatour\nTo Join the EMAIL list: https://forms.gle/aYNHP2ZZVNxKJiBs8\n\nFor bookings - aakashgupta.business@gmail.com\n\nJokes about Indian train journeys & honeymoon trips. Share if u like the video :)\nTo Join the EMAIL list: https://forms.gle/aYNH",
+      "channelTitle": "Aakash Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-5lqk8",
+      "name": "Are you a buffalo? |  Stand up comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT16M27S",
+      "embedUrl": "https://www.youtube.com/embed/gWQzdnDBmSA",
+      "contentUrl": "https://www.youtube.com/watch?v=gWQzdnDBmSA",
+      "uploadDate": "2024-11-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gWQzdnDBmSA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "comedy",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-ou72a",
+      "name": "Law & Order | Stand Up Comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT14M30S",
+      "embedUrl": "https://www.youtube.com/embed/8JPXNvP5xrs",
+      "contentUrl": "https://www.youtube.com/watch?v=8JPXNvP5xrs",
+      "uploadDate": "2022-05-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8JPXNvP5xrs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a three part stand up comedy series called triptych, that explores how some of the major decisions of our life are influenced by society, through a system of fear, that kills individual thought and identity.\n\n\n\n\nDirected by - Sahir Raza\nDOP - Vivian Singh Sahi\n            Brij Rao\nAudio Mix ",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-nh5xf",
+      "name": "Classmates | Stand Up Comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT10M58S",
+      "embedUrl": "https://www.youtube.com/embed/vccwHvCIuW8",
+      "contentUrl": "https://www.youtube.com/watch?v=vccwHvCIuW8",
+      "uploadDate": "2018-03-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vccwHvCIuW8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "These are just some stories about classmates that obviously don't mean anything else.\n\nDirected by Sahir Raza\n\nFollow:\nFacebook, Twitter, Instagram\n@manikmahna\n\nMusic Credits:\n\"Ganda Hai\" - Company | T-Series",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-777kq",
+      "name": "Profit & Loss | Stand Up Comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT9M32S",
+      "embedUrl": "https://www.youtube.com/embed/i9aV69XtaxE",
+      "contentUrl": "https://www.youtube.com/watch?v=i9aV69XtaxE",
+      "uploadDate": "2022-05-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i9aV69XtaxE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a three part stand up comedy series called triptych, that explores how some of the major decisions of our life are influenced by society, through a system of fear, that kills individual thought and identity.\n\n\n\n\n\n\n\n\nDirected by - Sahir Raza\nDOP - Vivian Singh Sahi\n            Brij Rao\nAudio ",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-b0go3",
+      "name": "Trial & Error | Stand Up Comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT11M46S",
+      "embedUrl": "https://www.youtube.com/embed/KjS3GfQwd6U",
+      "contentUrl": "https://www.youtube.com/watch?v=KjS3GfQwd6U",
+      "uploadDate": "2022-05-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KjS3GfQwd6U/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a three part stand up comedy series called triptych, that explores how some of the major decisions of our life are influenced by society, through a system of fear, that kills individual thought and identity.\n\n\n\n\nDirected by - Sahir Raza\nDOP - Vivian Singh Sahi\n            Brij Rao\nAudio Mix ",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-r1mwc",
+      "name": "Kaufman's Cow | Stand Up Comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT4M",
+      "embedUrl": "https://www.youtube.com/embed/fUbqXgGcBLw",
+      "contentUrl": "https://www.youtube.com/watch?v=fUbqXgGcBLw",
+      "uploadDate": "2018-04-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fUbqXgGcBLw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This means nothing.\n\nFollow\nFacebook, Twitter, Instagram\n@manikmahna\n\nProduced by - A Little Anarky Films\nwww.youtube.com/alittleanarky\n\nSound Mixing & Mastering - Sohaill Gandhi\n\nLocation - Canvas Laugh Club, Gurugram\n\nCANVAS TEAM\nRohit Gaur\nRohan Daniel\nVishal Singh",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5s4b-xee2n",
+      "name": "Crowdwork - Stand up comedy by Manik Mahna",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cdbo-439u2"
+      },
+      "duration": "PT2M34S",
+      "embedUrl": "https://www.youtube.com/embed/qltxdCqvMFo",
+      "contentUrl": "https://www.youtube.com/watch?v=qltxdCqvMFo",
+      "uploadDate": "2020-06-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qltxdCqvMFo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Manik Mahna",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-p3x8t",
+      "name": "Employee No.1 - Standup Comedy by Abhishek Upmanyu | Story",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT40M15S",
+      "embedUrl": "https://www.youtube.com/embed/t8HrZTLRCeU",
+      "contentUrl": "https://www.youtube.com/watch?v=t8HrZTLRCeU",
+      "uploadDate": "2023-12-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/t8HrZTLRCeU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is the second of the show Jealous of Sabziwala. It's a story. \n\nTo watch me live in your city please check the link below:\n\nhttps://linktr.ee/aupmanyu\n\nInstagram: @aupmanyu",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-br93w",
+      "name": "ABHISHEK UPMANYU |Friends, Crime, & The Cosmos | Stand-Up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT15M2S",
+      "embedUrl": "https://www.youtube.com/embed/c7QYEedjb_o",
+      "contentUrl": "https://www.youtube.com/watch?v=c7QYEedjb_o",
+      "uploadDate": "2019-05-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c7QYEedjb_o/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Jokes about Friends, Crime Patrol and The Cosmos. Hope you enjoy it!\n\nCredits:\n\nShot at: The Habitat Music & Cafe, Khar, Mumbai\nShot By: Myoho Films\nEdited by: Abhishek Upmanyu & Karan Asnani\nSound Recording: The Habitat\nSound Mixing: Sohail Gandhi\nWritten by: Abhishek Upmanyu\n\nSpecial Thanks: Balra",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-ltzue",
+      "name": "Health Anxiety - Standup Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT23M49S",
+      "embedUrl": "https://www.youtube.com/embed/_fWyWcZB7VA",
+      "contentUrl": "https://www.youtube.com/watch?v=_fWyWcZB7VA",
+      "uploadDate": "2023-02-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_fWyWcZB7VA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch Full Special on YT here: https://www.youtube.com/channel/UC4muYPMCSYigqIwRjVWkQ2Q/join\n\nWatch full on Vimeo here: https://vimeo.com/ondemand/jealousofsabziwala\n\nCredits:\nDirector: Stuart Laws\nProduction Team: Turtle Canyon, Myoho Films, & Vision of Gap\nEdited by: Abhishek Upmanyu & Abhishek Bh",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-5z4i1",
+      "name": "Besharam | Stand-Up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT9M30S",
+      "embedUrl": "https://www.youtube.com/embed/AyafgNZZees",
+      "contentUrl": "https://www.youtube.com/watch?v=AyafgNZZees",
+      "uploadDate": "2018-06-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AyafgNZZees/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join the mailing list on my wesbite- upmanyuabhishek.com taaki aage ke shows ki tickets tumhe sasti miley aur main apne show ka tum logo ko direct mail kar dunga. \n\nFor bookings contact: Upmanyu.abhishek@gmail.com\n\nCredits:\n\nShot at - Canvas Laugh Club (Team: Sujit Nair, Mearaj)\nVideo Production: Na",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-nvumt",
+      "name": "Abhishek Upmanyu - Jealous of Sabziwala (FULL SPECIAL)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT1H3M40S",
+      "embedUrl": "https://www.youtube.com/embed/IcAV5qiko8M",
+      "contentUrl": "https://www.youtube.com/watch?v=IcAV5qiko8M",
+      "uploadDate": "2023-10-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IcAV5qiko8M/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "This is the complete special! \n\nThank you to those who bought the special and no thank you to those who stole it. You are a thief and the police will be at your house soon. \n\nSong at the end is by the brilliant - Achint.",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-d6s50",
+      "name": "Marriage & Indian English | Stand-Up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT8M9S",
+      "embedUrl": "https://www.youtube.com/embed/dtaJzUbQS7E",
+      "contentUrl": "https://www.youtube.com/watch?v=dtaJzUbQS7E",
+      "uploadDate": "2019-10-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dtaJzUbQS7E/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Credits:\n\nVenue: The Habitat\nShot by : The Habitat Team\nSound Mixing and Mastering: Sohail Gandhi\nEdited by: Abhishek Upmanyu & Karan Asnani\n\nAustralia Tour Nov 2019 Tickets: https://www.getmytickets.com.au/\n\nIndia Tour 2019 Tickets: https://in.bookmyshow.com/events/jealous-of-sabjiwala-standup-by-a",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-4n5ca",
+      "name": "Breakup, Respecting Elders, & Discrimination | Stand-Up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT5M29S",
+      "embedUrl": "https://www.youtube.com/embed/8q4xY8NO7yQ",
+      "contentUrl": "https://www.youtube.com/watch?v=8q4xY8NO7yQ",
+      "uploadDate": "2017-03-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8q4xY8NO7yQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Random & Unrelated Jokes\n\nAlso, I am touring with my stand-up show \"Thoda Saaf Bol\" across various cities in India from April 2017, where I perform 1 hour of jokes. Tickets Link below.\n\nhttps://in.bookmyshow.com/mumbai/events/thoda-saaf-bol-stand-up-special-by-abhishek-upmanyu/ET00053658\n\nCredits:\n\n",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-ppmpz",
+      "name": "Tongue Issues - Standup Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT12M21S",
+      "embedUrl": "https://www.youtube.com/embed/Slqo8SHnFaU",
+      "contentUrl": "https://www.youtube.com/watch?v=Slqo8SHnFaU",
+      "uploadDate": "2023-02-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Slqo8SHnFaU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch the Full special here: https://www.youtube.com/channel/UC4muYPMCSYigqIwRjVWkQ2Q/join\n\nVimeo link to watch the special in case YT is giving errors: https://vimeo.com/ondemand/jealousofsabziwala\n\nCredits:\nDirector: Stuart Laws\nProduction Team: Turtle Canyon, Myoho Films, & Vision of Gap\nEdited b",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-j41vk",
+      "name": "Indian Insults & Comebacks | Stand-up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT4M39S",
+      "embedUrl": "https://www.youtube.com/embed/uvqD_VUZI24",
+      "contentUrl": "https://www.youtube.com/watch?v=uvqD_VUZI24",
+      "uploadDate": "2017-01-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uvqD_VUZI24/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Jokes about Indian insults, parents, and their comebacks. \n\nCredits:\n\nShot at - Canvas Laugh Club\nEdited by - Nanak Bhatia & Abhishek Upmanyu\nSound Mixing & Mastering - Sohail Gandhi (Tuning Fork Studios)\nWritten & Performed by - Abhishek Upmanyu",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-l0plm",
+      "name": "Delhi, Mumbai & Rich People | Stand-up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT5M30S",
+      "embedUrl": "https://www.youtube.com/embed/mPCDQ34S8Rs",
+      "contentUrl": "https://www.youtube.com/watch?v=mPCDQ34S8Rs",
+      "uploadDate": "2017-01-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mPCDQ34S8Rs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Jokes about moving to Mumbai from Delhi, Rich People, and Helping the Poor. Hope you enjoy it. \n\nCredits:\n\nShot by - Karan Asnani, Karan Kundnani & Sandeep Mishra \nShot at - Canvas Laugh Club (22nd Oct, 2016)\nEdited by - Abhishek Upmanyu & Nanak Bhatia\nSound Recording: Bharat Leppard \nSound Mixing a",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-v7oqh",
+      "name": "Team Animals - Stand-Up Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT23M34S",
+      "embedUrl": "https://www.youtube.com/embed/E16WhXcIghM",
+      "contentUrl": "https://www.youtube.com/watch?v=E16WhXcIghM",
+      "uploadDate": "2021-04-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E16WhXcIghM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Jokes about my first pet. Try to watch till the end. \n\nTo Join the EMAIL list: https://forms.gle/Doh86ffsNinDxNsZ8\n\nCredits:\n\nVideo Team: Abhishek Bhutwani, Gaurav Anand, Chimay Samnani\n\nPost Production : Karan Asnani(Myoho Films)\n\nColor Grading: Karan Asnani\n\nEdited by: Abhishek Upmanyu & Karan Asn",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-ufgqz",
+      "name": "Names & Pigeons | Trash Jokes 4 | Ghatia Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT8M30S",
+      "embedUrl": "https://www.youtube.com/embed/HQILxqS831E",
+      "contentUrl": "https://www.youtube.com/watch?v=HQILxqS831E",
+      "uploadDate": "2020-01-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HQILxqS831E/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Meri taraf se ek aur ghatia peshkash",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-a4y64",
+      "name": "Trash \"Jokes\" - 2 | Ghatia Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT2M",
+      "embedUrl": "https://www.youtube.com/embed/0Vq2RDNip5Q",
+      "contentUrl": "https://www.youtube.com/watch?v=0Vq2RDNip5Q",
+      "uploadDate": "2018-07-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0Vq2RDNip5Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Maine apni zimmedari poori kardi yeh bata ki yeh jokes ghatia hain. aage tumhaari marzi. \n\nSound Mixing: Sohail Gandhi jo ki bohat he talented hai aur apna kaam dhang se karta hai, Unlike ME\n\nVenue: The Habitat - Music and Comedy Cafe(Khar) jo ki bohat he sundar hai, unlike ME",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-v5cpd",
+      "name": "Instagram Jokes Compilation(Colorblindness, Cycle, Students) | Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT12M25S",
+      "embedUrl": "https://www.youtube.com/embed/zHD6kxU45BY",
+      "contentUrl": "https://www.youtube.com/watch?v=zHD6kxU45BY",
+      "uploadDate": "2020-04-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zHD6kxU45BY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Ab is time pe shows nahi kar sakte to nayi videos nahi aa sakti isliye purana jo bacha kucha samaan tha usko ek sath upload kar raha hoon.",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-ya97f",
+      "name": "ABHISHEK UPMANYU |Two Watches, Gym, Article  - Standup Comedy By Abhishek Upmanyu | Trash",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT10M13S",
+      "embedUrl": "https://www.youtube.com/embed/2o5u159w_uI",
+      "contentUrl": "https://www.youtube.com/watch?v=2o5u159w_uI",
+      "uploadDate": "2021-05-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2o5u159w_uI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "All the throwaway jokes that I had put on Instagram compiled and uploaded here.",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-6uc2a",
+      "name": "Trash Joke & Trial Show Snippets | Ghatia Comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT6M18S",
+      "embedUrl": "https://www.youtube.com/embed/Ho4RK6z2CIM",
+      "contentUrl": "https://www.youtube.com/watch?v=Ho4RK6z2CIM",
+      "uploadDate": "2019-06-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ho4RK6z2CIM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a video from a Trial show, matlab isme jokes nahi hain. Maine yeh video yeh dikhaane ke liye daal raha hoon ki trial show mein kaisi vibe hoti hai. You will see me trying to make jokes and fail quite a bit in this video, but hopefully it's enjoyable enough. Cheers !\n\nVideo shot and edited by",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-co12b",
+      "name": "One Joke - Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT1M50S",
+      "embedUrl": "https://www.youtube.com/embed/ZOPhSSFYRIo",
+      "contentUrl": "https://www.youtube.com/watch?v=ZOPhSSFYRIo",
+      "uploadDate": "2022-01-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZOPhSSFYRIo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Chota joke hai. Bas joke hai. Hassi na aaye toh koi ni 2 min se kam he time waste hua hai",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-ejgxk",
+      "name": "Khichdi Recipe - Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT3M22S",
+      "embedUrl": "https://www.youtube.com/embed/xLpZZScqgKo",
+      "contentUrl": "https://www.youtube.com/watch?v=xLpZZScqgKo",
+      "uploadDate": "2020-06-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xLpZZScqgKo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This was posted on Instagram a few weeks ago toh socha yahin bhi post kar de in case someone missed it.",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k5v6m-2ojjy",
+      "name": "Trash \"Jokes\" - 1 | Ghatia comedy by Abhishek Upmanyu",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk08cfl1-9ddub"
+      },
+      "duration": "PT26S",
+      "embedUrl": "https://www.youtube.com/embed/3uS2hj4yZME",
+      "contentUrl": "https://www.youtube.com/watch?v=3uS2hj4yZME",
+      "uploadDate": "2017-04-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3uS2hj4yZME/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Mujhe koi sharam nahi hai iski. Koi sharam. Honi chahiye, par nahi hai. \n\nAll Credits for this Shit: Abhishek Upmanyu",
+      "channelTitle": "Abhishek Upmanyu",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-r7ivk",
+      "name": "Women Don't Love || Sumukhi Suresh || New Stand Up Comedy 2020",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT3M35S",
+      "embedUrl": "https://www.youtube.com/embed/J9AvCqPuEh4",
+      "contentUrl": "https://www.youtube.com/watch?v=J9AvCqPuEh4",
+      "uploadDate": "2020-01-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J9AvCqPuEh4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hi. I am back again with a new stand up clip about how women don't really love or hate anything. To know why please watch the video and tell me what you pretend to love when someone is worth loving. \n\nStream the complete stand up special \"DON'T TELL AMMA\" \nIndia and Rest of the World- https://bit.ly",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-r0qqo",
+      "name": "Run when Mom Calls | Sumukhi Suresh | Don't Tell Amma",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT3M38S",
+      "embedUrl": "https://www.youtube.com/embed/6JarWD7r91Y",
+      "contentUrl": "https://www.youtube.com/watch?v=6JarWD7r91Y",
+      "uploadDate": "2020-01-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6JarWD7r91Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "DOSTON!!! My first stand up video is out out out! Aakhir cherry pop kar hi diya maine. I have spoken about how I run the hell away when my amma calls at an odd time. Do you? \n\nStream the complete stand up special \"DON'T TELL AMMA\" \nIndia and Rest of the World- https://bit.ly/2tpwKv7\nUSA- https://www",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-xjtl3",
+      "name": "30's and Mutual Funds | Hoemonal | Sumukhi Suresh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/-9cukMEPZlE",
+      "contentUrl": "https://www.youtube.com/watch?v=-9cukMEPZlE",
+      "uploadDate": "2024-11-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-9cukMEPZlE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-80fxf",
+      "name": "I HATE FRENCH FRIES #funny #travel #australia #melbourne",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M6S",
+      "embedUrl": "https://www.youtube.com/embed/Fg2E3jzSgec",
+      "contentUrl": "https://www.youtube.com/watch?v=Fg2E3jzSgec",
+      "uploadDate": "2025-04-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fg2E3jzSgec/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-739s4",
+      "name": "Mothers and Mangalsutra #funny #comedy #tamil",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT14S",
+      "embedUrl": "https://www.youtube.com/embed/RqfLAgtzLuo",
+      "contentUrl": "https://www.youtube.com/watch?v=RqfLAgtzLuo",
+      "uploadDate": "2024-06-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RqfLAgtzLuo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-w78uo",
+      "name": "The #Pongal Chaos!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M26S",
+      "embedUrl": "https://www.youtube.com/embed/46lKQ-g92pE",
+      "contentUrl": "https://www.youtube.com/watch?v=46lKQ-g92pE",
+      "uploadDate": "2025-01-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/46lKQ-g92pE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-zu35l",
+      "name": "Danced with Dino Morea & asked what was the Raaz. #TheRoyals #90skids",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT20S",
+      "embedUrl": "https://www.youtube.com/embed/7MmMIKcJ6AA",
+      "contentUrl": "https://www.youtube.com/watch?v=7MmMIKcJ6AA",
+      "uploadDate": "2025-06-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7MmMIKcJ6AA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-xh1at",
+      "name": "MAAL HAI??  STAND UP COMEDY | SUMUKHI SURESH",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M37S",
+      "embedUrl": "https://www.youtube.com/embed/9eVDZx1ccds",
+      "contentUrl": "https://www.youtube.com/watch?v=9eVDZx1ccds",
+      "uploadDate": "2024-05-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9eVDZx1ccds/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Kabir ko dhundo yaar",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-8rvtz",
+      "name": "Pani Puri is best medicine #food #funny #delhistreetfood",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT10S",
+      "embedUrl": "https://www.youtube.com/embed/6VL96mQpWts",
+      "contentUrl": "https://www.youtube.com/watch?v=6VL96mQpWts",
+      "uploadDate": "2025-04-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6VL96mQpWts/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-9mdot",
+      "name": "Petition to ban Valentine’s Day. #valentinesday #single #funny",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT29S",
+      "embedUrl": "https://www.youtube.com/embed/q6h611SWKYc",
+      "contentUrl": "https://www.youtube.com/watch?v=q6h611SWKYc",
+      "uploadDate": "2025-02-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/q6h611SWKYc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-8racp",
+      "name": "CAN’T BELIEVE MY MOTHER CALLED ME THIS | STAND UP COMEDY| SUMUKHI SURESH",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT53S",
+      "embedUrl": "https://www.youtube.com/embed/_t5lpZc8u48",
+      "contentUrl": "https://www.youtube.com/watch?v=_t5lpZc8u48",
+      "uploadDate": "2023-03-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_t5lpZc8u48/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What lies were you told when you were growing up?",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-rxbdg",
+      "name": "Do’s and Don’ts of #Ramp Walk! Come, learn with me😂",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M30S",
+      "embedUrl": "https://www.youtube.com/embed/YwgvlSnk85w",
+      "contentUrl": "https://www.youtube.com/watch?v=YwgvlSnk85w",
+      "uploadDate": "2025-01-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YwgvlSnk85w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-zjlfm",
+      "name": "The Writers Room | Episode 1 | Ft. Vikramaditya Motwane & Avinash Sampath",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT41M51S",
+      "embedUrl": "https://www.youtube.com/embed/O-8cwIKyPKY",
+      "contentUrl": "https://www.youtube.com/watch?v=O-8cwIKyPKY",
+      "uploadDate": "2024-11-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O-8cwIKyPKY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Welcome to The Writers Room where all things writing are spoken about. \n\nIn the first episode, you hear the writers of CTRL-  Vikramaditya Motwane, Avinash Sampath and Sumukhi Suresh talk about what went behind writing the movie, the bottomless pit of writing as a skill and the trauma of networking.",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-uj2yc",
+      "name": "Is it called Maths or Maks? || BEHTI NAAK",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M41S",
+      "embedUrl": "https://www.youtube.com/embed/9F8VVpVQUYA",
+      "contentUrl": "https://www.youtube.com/watch?v=9F8VVpVQUYA",
+      "uploadDate": "2016-09-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9F8VVpVQUYA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Shikhar claims Maths is his favourite subject but Behti proves it to him that he is pretending to be intelligent. How? Behti Style!\n\nBehti Naak is a 10 year old girl, daughter of Atul Naak and Alka Naak and her best friend is Shikhar. She minds her business until someone messes with her. \n\nCreated a",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-fnzcu",
+      "name": "I’ll TELL YOU TOMORROW || STAND UP COMEDY|| SUMUKHI SURESH",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M11S",
+      "embedUrl": "https://www.youtube.com/embed/r5GF7DRZRvw",
+      "contentUrl": "https://www.youtube.com/watch?v=r5GF7DRZRvw",
+      "uploadDate": "2023-06-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/r5GF7DRZRvw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "But you can never call your mom and say you’ll tell her important matter tomorrow. Chappal will come flying today. \n\nP.S got yelled at my mom for not saying “sollaradha kelu sumukhi”\n\nP.P.S got yelled at by dad for saying “my mother do it”\n\nYou don’t yell pls.\n\nPerforming my solo HOEMONAL this Satur",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-0pdg8",
+      "name": "DON'T TELL AMMA || Stand up Special || Sumukhi Suresh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M59S",
+      "embedUrl": "https://www.youtube.com/embed/CSkvLbzyVZ4",
+      "contentUrl": "https://www.youtube.com/watch?v=CSkvLbzyVZ4",
+      "uploadDate": "2019-12-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CSkvLbzyVZ4/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "Don’t Tell Amma is stand up comedian, actor and writer Sumukhi Suresh’s first stand up special. She talks about growing up poor in Nagpur but with a rich people resume, the truth about Nutella and Khichdi and most importantly about her wildcat Amma not knowing about her on stage pursuits. She has no",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-5q1lu",
+      "name": "LOUIS VUITTON | STAND UP COMEDY| SUMUKHI SURESH",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M16S",
+      "embedUrl": "https://www.youtube.com/embed/qSs05nJ-x-A",
+      "contentUrl": "https://www.youtube.com/watch?v=qSs05nJ-x-A",
+      "uploadDate": "2023-04-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qSs05nJ-x-A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Anyone has fancy bag? Tag them for me to ask kitne ka liya. \n\nNext show happening on 6th May in #Pune. Ticket link- https://linktr.ee/sumukhisuresh\n\nRecorded by @TheHabitatStudios \nEdited by @TheAmanDeepShow",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-uxdu2",
+      "name": "BAN SWIMSUITS #comedy #tamil #funny",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT13S",
+      "embedUrl": "https://www.youtube.com/embed/vSxcvtZIc_w",
+      "contentUrl": "https://www.youtube.com/watch?v=vSxcvtZIc_w",
+      "uploadDate": "2024-06-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vSxcvtZIc_w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-s5d03",
+      "name": "Trying my best to beat #mondayblues",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT11S",
+      "embedUrl": "https://www.youtube.com/embed/kbW2j2G0Hog",
+      "contentUrl": "https://www.youtube.com/watch?v=kbW2j2G0Hog",
+      "uploadDate": "2024-11-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kbW2j2G0Hog/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-pvhip",
+      "name": "MOTHER’S DAY WISHES GONE VULGAR #comedy #happymothersday #tamil",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT20S",
+      "embedUrl": "https://www.youtube.com/embed/uiUO2RmIvEM",
+      "contentUrl": "https://www.youtube.com/watch?v=uiUO2RmIvEM",
+      "uploadDate": "2024-05-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uiUO2RmIvEM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "You're mom also same?",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-ub7j6",
+      "name": "YOU CAME FROM WHERE??? | STAND UP COMEDY | SUMUKHI SURESH",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M31S",
+      "embedUrl": "https://www.youtube.com/embed/a9GY8PdhRDI",
+      "contentUrl": "https://www.youtube.com/watch?v=a9GY8PdhRDI",
+      "uploadDate": "2024-06-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a9GY8PdhRDI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Will you change 3 taxis to attend a show?\n\n#comedy  #standupcomedy #navimumbai #mumbai #commute",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-89ytm",
+      "name": "Diwali and Truth Bombs! | Behti Naak | Sumukhi Suresh ft. @KumarVarunOfficial",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT1M33S",
+      "embedUrl": "https://www.youtube.com/embed/W1oiEIs0sT0",
+      "contentUrl": "https://www.youtube.com/watch?v=W1oiEIs0sT0",
+      "uploadDate": "2024-10-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W1oiEIs0sT0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What happens when Behti’s father demands her to go out and burst crackers? Is her father ready to deal the truth bomb that Behti is going to drop on him? \n\nBehti Naak is a 10 year old girl, daughter of Atul Naak and Alka Naak and her best friend is Parita. She minds her business until someone messes",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-ktk15",
+      "name": "Cake or Fake?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT17S",
+      "embedUrl": "https://www.youtube.com/embed/T_j811wSujQ",
+      "contentUrl": "https://www.youtube.com/watch?v=T_j811wSujQ",
+      "uploadDate": "2022-01-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T_j811wSujQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-cxnyo",
+      "name": "Apologies to gangaroo #australiadiaries #australia #tamil #mother",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT20S",
+      "embedUrl": "https://www.youtube.com/embed/M79X38uKT_w",
+      "contentUrl": "https://www.youtube.com/watch?v=M79X38uKT_w",
+      "uploadDate": "2025-04-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M79X38uKT_w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k73qj-62b93",
+      "name": "TRUTH ABOUT USA || BEHTI NAAK|| Ft. Anu Menon, Kumar Varun",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7259-zi395"
+      },
+      "duration": "PT2M47S",
+      "embedUrl": "https://www.youtube.com/embed/z7E3JAS08HM",
+      "contentUrl": "https://www.youtube.com/watch?v=z7E3JAS08HM",
+      "uploadDate": "2016-10-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z7E3JAS08HM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Behtis class teacher tells Behti that she has received a scholarship? That's wonderful news! Or is it?\n\nBehti Naak is a 10-year-old girl, daughter of Atul Naak and Alka Naak and her best friend is Shikhar. She minds her business until someone messes with her. \n\nCreated and Written by- Sumukhi Suresh",
+      "channelTitle": "Sumukhi Suresh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-gao1s",
+      "name": "I FOUND MY PEOPLE | Stand Up Comedy Special | Kaneez Surka",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT38M16S",
+      "embedUrl": "https://www.youtube.com/embed/hK_cjxoQJ-Q",
+      "contentUrl": "https://www.youtube.com/watch?v=hK_cjxoQJ-Q",
+      "uploadDate": "2025-08-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hK_cjxoQJ-Q/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "I Found My People – A Stand-Up Comedy Special by Kaneez Surka\n\nWhat happens when you’re born in South Africa to Indian parents, build a career in Mumbai, and then move to New York to start all over again—searching for your people along the way?\nYou turn the identity crisis into a comedy special.\n\nI ",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-5pfy5",
+      "name": "Nani's Life Lessons| 'Yeah' by @ritvizji",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT9M33S",
+      "embedUrl": "https://www.youtube.com/embed/JBKUW0zB3P4",
+      "contentUrl": "https://www.youtube.com/watch?v=JBKUW0zB3P4",
+      "uploadDate": "2021-02-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JBKUW0zB3P4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Guys meet one of my  favourite people, my Nani - Sofi. In this video I hit her with some hard questions and the answers are priceless.\nNo one says it better than my Nani. \n\n\nMad love to @ritvizji \n\nShot and Edited by: Ankit Singh \nIG: storyin_aminute",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-if8j1",
+      "name": "Where My Fellow NRI’s At?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT52S",
+      "embedUrl": "https://www.youtube.com/embed/wnqYUthR4T0",
+      "contentUrl": "https://www.youtube.com/watch?v=wnqYUthR4T0",
+      "uploadDate": "2023-01-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wnqYUthR4T0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-3ayz9",
+      "name": "VLOG TIME! Parents come to NYC for Christmas.",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT9M7S",
+      "embedUrl": "https://www.youtube.com/embed/L2M7tQ9tDuE",
+      "contentUrl": "https://www.youtube.com/watch?v=L2M7tQ9tDuE",
+      "uploadDate": "2025-12-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/L2M7tQ9tDuE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hello fam! Merry Christmas to you all. My parents came to visit me in New York City for the first time since I moved and I had to make sure everything was perfect for them and of course vlog about it :) \nWhat a special vlog this is for me.\nAnd Thank you @Koala_Australia for my amazing couch! Get you",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-om1ae",
+      "name": "Improv Battle Winners League Match 3 Feat. @kushakapila5643 @Aadar @rohanjoshi8016  and more.",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT1H25M50S",
+      "embedUrl": "https://www.youtube.com/embed/JrdMTtGlfWw",
+      "contentUrl": "https://www.youtube.com/watch?v=JrdMTtGlfWw",
+      "uploadDate": "2020-08-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JrdMTtGlfWw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch India's top Improv Comedy artists battle it out in a crazy, fun weekend league of comedy. \n\nThis Weekend \nFinale 3 Sunday 16th August 5pm  \n\nSET A REMINDER YOU DON'T WANT TO MISS THE ULTIMATE IMPROV COMEDY BATTLE WITH KANEEZ SURKA \n\nFeaturing: Kusha Kapila, Siddharth Dudeja, Rohan Joshi, Kumar",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-jdsqm",
+      "name": "TRUE Indian Hospitality 🇮🇳  #kaneezsurka #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT1M49S",
+      "embedUrl": "https://www.youtube.com/embed/qxd-7dhOy7c",
+      "contentUrl": "https://www.youtube.com/watch?v=qxd-7dhOy7c",
+      "uploadDate": "2025-08-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qxd-7dhOy7c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-iudwq",
+      "name": "Marrying Desi Men Be Like #kaneezsurka #standupcomedy #notalldesimen",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT17S",
+      "embedUrl": "https://www.youtube.com/embed/oarehoO1Ddw",
+      "contentUrl": "https://www.youtube.com/watch?v=oarehoO1Ddw",
+      "uploadDate": "2025-09-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oarehoO1Ddw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-z0ff7",
+      "name": "Luckily it didn’t spread too far .. the RUMOUR. #kaneezsurka #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT46S",
+      "embedUrl": "https://www.youtube.com/embed/XZfbrOoCD04",
+      "contentUrl": "https://www.youtube.com/watch?v=XZfbrOoCD04",
+      "uploadDate": "2025-09-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XZfbrOoCD04/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-uwwtp",
+      "name": "TGFGS S1 Finale with Kaneez Surka PART 1",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT35M25S",
+      "embedUrl": "https://www.youtube.com/embed/sJ7-3rmp1vA",
+      "contentUrl": "https://www.youtube.com/watch?v=sJ7-3rmp1vA",
+      "uploadDate": "2017-11-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sJ7-3rmp1vA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "THE GENERAL FUN GAME SHOW SEASON FINALE\nWatch Tanmay Bhat, Jose Covaco, Rahul Subramanian, Sumukhi Suresh, Abish Mathew and Zakir Khan compete for the title\n ‘The Most General Fun Person Season One’ in the Season Finale.\n\nTHE GENERAL FUN GAME SHOW is a gameshow that is fun and general. \n\n\n► Twitter:",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-6sg8c",
+      "name": "Fertility Journey at 40",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT5M21S",
+      "embedUrl": "https://www.youtube.com/embed/Nl_ivVgmkN4",
+      "contentUrl": "https://www.youtube.com/watch?v=Nl_ivVgmkN4",
+      "uploadDate": "2025-08-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Nl_ivVgmkN4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "When your eggs start talking to you… things get weird.\n\nFull special streaming now: https://youtu.be/hK_cjxoQJ-Q?si=u-4VKFHpVy8AouCh\n\nI Found My People is a hilarious and heartfelt deep dive into identity, divorce, singledom, and belonging—when you don’t fully belong anywhere.\nFrom awkward DMs to cu",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-a1bsp",
+      "name": "The General Fun New York Darshan Ft. ​⁠@ZakirKhan. ‘Yeah’ by ​⁠@RafinhaBastos",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT7M56S",
+      "embedUrl": "https://www.youtube.com/embed/ZYrgGm0Sy5s",
+      "contentUrl": "https://www.youtube.com/watch?v=ZYrgGm0Sy5s",
+      "uploadDate": "2024-12-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZYrgGm0Sy5s/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "On this week’s Vlog - Mere kaas dost and. Est guy Zakir Khan is in New York City baby! 7 years ago a Mumbai Darshan was promised to him as his prize for winning the General Fun Gameshow Finale - he never received it and now I’ve moved to New York City! Will he finally get the NYC version of the priz",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-ixjxm",
+      "name": "DISNEY songs for Immigrants. Full Special Out Now!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT1M22S",
+      "embedUrl": "https://www.youtube.com/embed/e3zyMJFk2HA",
+      "contentUrl": "https://www.youtube.com/watch?v=e3zyMJFk2HA",
+      "uploadDate": "2025-08-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e3zyMJFk2HA/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-scbun",
+      "name": "Fake the bump! #kaneezsurka #funny #hacks #newyorkcity #dress #dresstoimpress #comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT52S",
+      "embedUrl": "https://www.youtube.com/embed/l-zZGjPh_XU",
+      "contentUrl": "https://www.youtube.com/watch?v=l-zZGjPh_XU",
+      "uploadDate": "2025-06-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l-zZGjPh_XU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-u64lx",
+      "name": "MY NIECES ARE BETTER THAN YOURS",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT5M5S",
+      "embedUrl": "https://www.youtube.com/embed/pISWZkrzN2A",
+      "contentUrl": "https://www.youtube.com/watch?v=pISWZkrzN2A",
+      "uploadDate": "2025-09-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pISWZkrzN2A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Being a MASI/AUNTIE means never seeing your niece's flaws - only their sparkle.\n\nFull special streaming now: https://youtu.be/hK_cjxoQJ-Q?si=u-4VKFHpVy8AouCh\n\nI Found My People is a hilarious and heartfelt deep dive into identity, divorce, singledom, and belonging—when you don’t fully belong anywher",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-dwn5a",
+      "name": "Should I warn her? #ex #dating #relatable #humor #kaneezsurka #exboyfriend #comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT6S",
+      "embedUrl": "https://www.youtube.com/embed/dFYZAx7umP0",
+      "contentUrl": "https://www.youtube.com/watch?v=dFYZAx7umP0",
+      "uploadDate": "2025-06-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dFYZAx7umP0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-csf06",
+      "name": "Boomerangs #kaneezsurka #standupcomedy #comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT1M3S",
+      "embedUrl": "https://www.youtube.com/embed/Jd7z5ozapmE",
+      "contentUrl": "https://www.youtube.com/watch?v=Jd7z5ozapmE",
+      "uploadDate": "2025-09-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jd7z5ozapmE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-3es53",
+      "name": "Improv Battle Match 1 Feat. @tanmaybhat  @sonofabish  @uroojashfaq9701 and more.",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT54M21S",
+      "embedUrl": "https://www.youtube.com/embed/sbmtMODdd68",
+      "contentUrl": "https://www.youtube.com/watch?v=sbmtMODdd68",
+      "uploadDate": "2020-06-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sbmtMODdd68/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch India's top Improv Comedy artists battle it out in a crazy, fun weekend league of comedy. \n4 Teams. 2 Matches. One Finale. \n\nThis Weekend \nSaturday 13th 6pm - Match One \nSaturday 13th 9pm - Match  Two \nSunday 14th 8pm - Finale\n\nSET A REMINDER YOU DON'T WANT TO MISS THE ULTIMATE IMPROV COMEDY B",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-uzwxa",
+      "name": "Here’s what I wore to my first White American Wedding! #weddings #kaneezsurka #dress #fashion",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT7S",
+      "embedUrl": "https://www.youtube.com/embed/SwIrwOMyySY",
+      "contentUrl": "https://www.youtube.com/watch?v=SwIrwOMyySY",
+      "uploadDate": "2025-06-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SwIrwOMyySY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-wfeln",
+      "name": "Kaneez Gets Scarred Feat. Cyrus Broacha| 'Yeah' by @rohanjoshi8016",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT7M25S",
+      "embedUrl": "https://www.youtube.com/embed/DbK20zglJtc",
+      "contentUrl": "https://www.youtube.com/watch?v=DbK20zglJtc",
+      "uploadDate": "2020-12-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DbK20zglJtc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What has it been like working with Cyrus on The Week That Wasn't for the past 14 years? Find out in this vlog.\n\nAlso mad love to @rohanjoshi8016 Kunal Vijayakar Mohit Mahale and Gopal Datt! \n\nEdited by: Ankit Singh \nIG: storyin_aminute",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k76wn-8knqk",
+      "name": "Zohran’s advices on finding love in NYC! #kaneezsurka #zohranmamdani #love #nyc #findinglove #mayor",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k75b0-ecs3l"
+      },
+      "duration": "PT1M13S",
+      "embedUrl": "https://www.youtube.com/embed/n3k1VWVBTiE",
+      "contentUrl": "https://www.youtube.com/watch?v=n3k1VWVBTiE",
+      "uploadDate": "2025-06-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3k1VWVBTiE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Kaneez Surka",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-ttqsp",
+      "name": "DeMotivational Speaker | Stand Up Comedy by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT11M29S",
+      "embedUrl": "https://www.youtube.com/embed/3fFcrNtWVcM",
+      "contentUrl": "https://www.youtube.com/watch?v=3fFcrNtWVcM",
+      "uploadDate": "2025-07-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3fFcrNtWVcM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New Show \"Kaun-Main?!?!\" is touring All over India. \nBook Show Tickets Now : https://linktr.ee/appurvgupta\n\nNew Video by Appurv Gupta aka GuptaJi on Motivational Speaker is Live.\nEnjoy this video where GuptaJi shares what he feels on common line delivered by motivational speaker, Importance of sleep",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-7dnn3",
+      "name": "Salon Wala Experience | Stand-Up Comedy by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT13M53S",
+      "embedUrl": "https://www.youtube.com/embed/AZQ-U9OJ2wQ",
+      "contentUrl": "https://www.youtube.com/watch?v=AZQ-U9OJ2wQ",
+      "uploadDate": "2025-08-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AZQ-U9OJ2wQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New Show \"Kaun-Main?!?!\" is touring All over India. \nBook Show Tickets Now : https://linktr.ee/appurvgupta\n\nNew Video by Appurv Gupta aka GuptaJi on Salon Wala Experience is Live.\nIn this set, I share my friend's hilarious first-time experience : from a simple hair cut to facial, moisturising, scrub",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-l9gfd",
+      "name": "MAMAJI VISITING SPA CENTRE DURING THE SHOW 😈 | Stand-Up Comedy by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT20M20S",
+      "embedUrl": "https://www.youtube.com/embed/0GBR456BcWU",
+      "contentUrl": "https://www.youtube.com/watch?v=0GBR456BcWU",
+      "uploadDate": "2025-08-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0GBR456BcWU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New Show \"Kaun-Main?!?!\" is touring All over India. \nBook Show Tickets Now : https://linktr.ee/appurvgupta\n\nNew Video by Appurv Gupta aka GuptaJi is Live !!\n\nEver been to a comedy show where one audience member steals the spotlight? 😎 In this case, it was MamaJi!!\n\nHe came with family, his sister, ",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-rxqbd",
+      "name": "5 Star Hotel Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT12M24S",
+      "embedUrl": "https://www.youtube.com/embed/AeFoZY0HLHs",
+      "contentUrl": "https://www.youtube.com/watch?v=AeFoZY0HLHs",
+      "uploadDate": "2019-09-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AeFoZY0HLHs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Apne Jigar ka tukda aap logo ko de rha hu, Sambhaal ke rakhna.\nYe meri sabse pyaari bit hai. Hotel Ki Kahaani, GuptaJi ki Jubaani.\n\n\n--------------------------------------------------------------------------------------------------------------------------------------------\n\nThank You for watching Vi",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-2pr4q",
+      "name": "Apple Ecosystem - Stand Up Comedy by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT6M13S",
+      "embedUrl": "https://www.youtube.com/embed/hIbfHMJtimI",
+      "contentUrl": "https://www.youtube.com/watch?v=hIbfHMJtimI",
+      "uploadDate": "2025-02-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hIbfHMJtimI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Book Appurv Gupta's Live Show Tickets : https://linktr.ee/appurvgupta\n\nNew Video by Appurv Gupta aka GuptaJi on iPhone Vs Android Phone is Live.\nEnjoy this video where GuptaJi shares the major difference on the feature Apple Vs Android Phone.\n\nIf you have experienced something similar hen do share w",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-jvqqo",
+      "name": "Starbucks Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT4M48S",
+      "embedUrl": "https://www.youtube.com/embed/WQ2aFAhfptA",
+      "contentUrl": "https://www.youtube.com/watch?v=WQ2aFAhfptA",
+      "uploadDate": "2019-11-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WQ2aFAhfptA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Best of GuptaJi ki ek aur pyaari comedy bit aapke hawale kar rha hu, Presenting my story in starbucks.\nPyaar barsana Please. \n\n\n----------------------------------------------------------------------\n\nHere is a good news - Touring my new show  \" KAAFI WILD HAI\" in INDIA  . Below you can check all cit",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-xk5vp",
+      "name": "DELHI KI CAB RIDE | STAND UP COMEDY BY APPURV GUPTA AKA GUPTAJI",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT7M46S",
+      "embedUrl": "https://www.youtube.com/embed/Xt1kiSuwXqA",
+      "contentUrl": "https://www.youtube.com/watch?v=Xt1kiSuwXqA",
+      "uploadDate": "2025-01-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xt1kiSuwXqA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Book Appurv Gupta's Live Show Tickets : https://linktr.ee/appurvgupta\n\nNew Video by Appurv Gupta aka GuptaJi on The Great Indian Cab Ride Experience is out. In this video he share his experience of \"Grab\" ride in Thailand and he compares the same with Indian Cab Ride. He talks about his experience o",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-u283g",
+      "name": "Naughty Teacher | Stand-Up Comedy by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT12M",
+      "embedUrl": "https://www.youtube.com/embed/Cgv_EqB_Xsk",
+      "contentUrl": "https://www.youtube.com/watch?v=Cgv_EqB_Xsk",
+      "uploadDate": "2023-05-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cgv_EqB_Xsk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hope you enjoy the video. \n\nAnd Yes, After a wild tour of Kaafi Wild Hai, I am presenting my new show \nGENUINELY which I am touring all over the country.\nWhy Genuinely? Because this time everything from heart so everything is Genuine.\n\nAao show mien, sab content GENUINE milega.\n\nTouring my show GENU",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-zw16c",
+      "name": "The Pretty Good Roast | Kaustubh Aggarwal, Rohit Singh & Kushagra Srivastava|Kaafi Wild Hai ShowEp25",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT1H20M54S",
+      "embedUrl": "https://www.youtube.com/embed/e6ljc_caj8A",
+      "contentUrl": "https://www.youtube.com/watch?v=e6ljc_caj8A",
+      "uploadDate": "2024-07-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e6ljc_caj8A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Welcome To Kaafi Wild Hai Show With GuptaJi - India Ka Sabse Wild Podcast.\n\nIn this episode of Kaafi Wild Hai Show With GuptaJi, Appurv is joined by Comedians and Writer of Pretty Good Roast Show Comedians Kaustubh Agarwal, Rohit Singh & Kushagra Srivastava. They all share experiences of their first",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-3d993",
+      "name": "Jab Gurgaon Show Mein Wild Audience Aa Gai | Stand Up Comedy Crowd Work by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT26M52S",
+      "embedUrl": "https://www.youtube.com/embed/cQv9VjwWks4",
+      "contentUrl": "https://www.youtube.com/watch?v=cQv9VjwWks4",
+      "uploadDate": "2025-11-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cQv9VjwWks4/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "In this video, things got unexpectedly spicy.\nI asked the audience about their wildest fantasies before the show… and Gurgaon Audience ne bilkul bhi disappoint nahi kiya.\n\nFrom a couple who met on Hinge to a long-distance duo where the boyfriend is in Europe and the girlfriend is sitting right in th",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-scqvv",
+      "name": "MANAGERS | STAND-UP COMEDY BY APPURV GUPTA AKA GUPTAJI",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT4M54S",
+      "embedUrl": "https://www.youtube.com/embed/dsLTiyMTn5M",
+      "contentUrl": "https://www.youtube.com/watch?v=dsLTiyMTn5M",
+      "uploadDate": "2025-10-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dsLTiyMTn5M/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New Show \"Kaun-Main?!?!\" is touring All over India. \nBook Show Tickets Now : https://linktr.ee/appurvgupta\n\nIn this stand-up set, Appurv Gupta dives into the hilarious ecosystem of Startups, Corporates, HRs, and the one species connecting them all :  Managers! 😎\n\nFrom founders calling themselves CE",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-c1ske",
+      "name": "Neend Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT4M35S",
+      "embedUrl": "https://www.youtube.com/embed/Pt3D9kZshVU",
+      "contentUrl": "https://www.youtube.com/watch?v=Pt3D9kZshVU",
+      "uploadDate": "2018-11-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pt3D9kZshVU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "DISCLAIMER \n\nThis is stand-up comedy and this video is meant for entertainment purpose only. The views, ideas, comments, opinions and statements expressed in this video are meant for entertainment purpose only, nothing personal against anyone. Let's try not to be judgemental and not to take offence.",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-mjemw",
+      "name": "Emotionless Men Vs Moody Women | Stand-Up Comedy by Appurv Gupta aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT11M10S",
+      "embedUrl": "https://www.youtube.com/embed/VBFXHb-mkY8",
+      "contentUrl": "https://www.youtube.com/watch?v=VBFXHb-mkY8",
+      "uploadDate": "2025-11-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VBFXHb-mkY8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New Show Appurv Gupta Live is touring All over India. \nBook Show Tickets Now : https://linktr.ee/appurvgupta\n\n🎭 Women have mood swings. Men have mindlessness.\nIn this hilarious new set, Appurv Gupta aka GuptaJi dives deep into the two most mysterious human traits : her sudden moody emotions and his",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-7fush",
+      "name": "Flight Vs Train Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT7M45S",
+      "embedUrl": "https://www.youtube.com/embed/hN8PB-ZQH7Y",
+      "contentUrl": "https://www.youtube.com/watch?v=hN8PB-ZQH7Y",
+      "uploadDate": "2017-11-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hN8PB-ZQH7Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Disclaimer: This is Stand Up Comedy and this video is meant for entertainment purpose only. The views, ideas, comments, opinions and statements expressed in this video are meant for entertainment purpose only, nothing personal against anyone. Please watch this video in light humor only. Offend hone ",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-u5o10",
+      "name": "Performing 250+ Days in One Year Changed Everything || @angadsinghranyal  | KWHS S2 Ep2",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT1H29M25S",
+      "embedUrl": "https://www.youtube.com/embed/3bNNkP-Kvl0",
+      "contentUrl": "https://www.youtube.com/watch?v=3bNNkP-Kvl0",
+      "uploadDate": "2025-12-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3bNNkP-Kvl0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In this episode of Kaafi Wild Hai Show With GuptaJi, Appurv Gupta sits down with stand-up comedian Angad Singh Ranyal for an honest conversation about discipline, comedy, and constant reinvention. Angad talks about performing almost every day for over 250 days, crowd work vs solo comedy, his journey",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-f7fr4",
+      "name": "The Manifestation Lady | Latest Stand-Up Comedy by Appurv Gupta | Crowd Work Comedy.",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT14M7S",
+      "embedUrl": "https://www.youtube.com/embed/s0EXzZH7B3A",
+      "contentUrl": "https://www.youtube.com/watch?v=s0EXzZH7B3A",
+      "uploadDate": "2024-11-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/s0EXzZH7B3A/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Hope you had a Happy and Prosperous Diwali Doston.\n\nThis is a Latest Stand Up Comedy video which we have recorded in Underground Comedy Club, Bengaluru : The Manifestation Lady | Stand-Up Comedy by Appurv Gupta | Aus-Nz Tour in Nov-Dec 2024\n\nHope you enjoy this latest comedy video. \n\nIf you want to ",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-5637u",
+      "name": "Maggi Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT5M2S",
+      "embedUrl": "https://www.youtube.com/embed/K-WoNgXq_kg",
+      "contentUrl": "https://www.youtube.com/watch?v=K-WoNgXq_kg",
+      "uploadDate": "2018-05-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/K-WoNgXq_kg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Disclaimer: This is Stand Up Comedy and this video is meant for entertainment purpose only. The views, ideas, comments, opinions and statements expressed in this video are meant for entertainment purpose only, nothing personal against anyone. Please watch this video in light humor only. Offend hone ",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-g3hw4",
+      "name": "Dating Mausi Ki Student | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT10M14S",
+      "embedUrl": "https://www.youtube.com/embed/4BCWVUgWz_c",
+      "contentUrl": "https://www.youtube.com/watch?v=4BCWVUgWz_c",
+      "uploadDate": "2023-12-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4BCWVUgWz_c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hello Doston,\n\nPresenting a new Stand Up Comedy crowd work video:\nDating Mausi Ki Student which was recorded in my comedy show called BEST OF GUPTAJI.\n\nThis is a New Stand Up Comedy video which we have recorded in October at The Comedy Theatre, Gurgoan\n\nHope you enjoy this latest comedy video. \n\nAnd",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-hlxqv",
+      "name": "The Making Of Nagraj, Doga, Dhruv & More | Sanjay Gupta & Ravi Gupta | Kaafi Wild Hai Show Ep 15",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT1H1M3S",
+      "embedUrl": "https://www.youtube.com/embed/s0Nb8cLQYkI",
+      "contentUrl": "https://www.youtube.com/watch?v=s0Nb8cLQYkI",
+      "uploadDate": "2024-05-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/s0Nb8cLQYkI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "You can watch part 2 of this episode here : https://yt.openinapp.co/2x6g7\n\nWelcome To Kaafi Wild Hai Show With GuptaJi - India Ka Sabse Wild Podcast.\n\nIn this episode of Kaafi Wild Hai Show With GuptaJi, Appurv is joined by leading Stand Up Comedian Ravi Gupta & Co-Founder of Raj Comics Sanjay Gupta",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7aaj-etgiu",
+      "name": "Urban Company Salon Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k78h0-1czh6"
+      },
+      "duration": "PT6M29S",
+      "embedUrl": "https://www.youtube.com/embed/_426-P4TxG4",
+      "contentUrl": "https://www.youtube.com/watch?v=_426-P4TxG4",
+      "uploadDate": "2021-10-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_426-P4TxG4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Haircut toh tumne bahut karwaye honge par aisa WILD haircut karwaya hai kabhi? \nShare this with that friend jiske gharwale uske baal katwaake hi maanenge!\n\nAcha Important baat Live Shows are happening in multiple cities (matlab har city mien hi hai ), you can check all details here : https://linktr.",
+      "channelTitle": "Appurv Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-np5n7",
+      "name": "MY REDDIT IS HILARIOUS | DO NOT LAUGH CHALLENGE",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT10M23S",
+      "embedUrl": "https://www.youtube.com/embed/CNsWRWqVAgw",
+      "contentUrl": "https://www.youtube.com/watch?v=CNsWRWqVAgw",
+      "uploadDate": "2021-12-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CNsWRWqVAgw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-wz11x",
+      "name": "Bisleri piyo bhai",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT28S",
+      "embedUrl": "https://www.youtube.com/embed/E78_3zxn2vg",
+      "contentUrl": "https://www.youtube.com/watch?v=E78_3zxn2vg",
+      "uploadDate": "2024-12-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E78_3zxn2vg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-bc2yi",
+      "name": "Core memory ❤️😭🤣",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/NMSz5lACGZc",
+      "contentUrl": "https://www.youtube.com/watch?v=NMSz5lACGZc",
+      "uploadDate": "2025-02-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NMSz5lACGZc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-je2r8",
+      "name": "Save chicken",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT38S",
+      "embedUrl": "https://www.youtube.com/embed/OeeNTAA3Wug",
+      "contentUrl": "https://www.youtube.com/watch?v=OeeNTAA3Wug",
+      "uploadDate": "2024-12-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OeeNTAA3Wug/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-msnua",
+      "name": "KOHINOOR | SAMAY RAINA (Official Parody Video)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT3M24S",
+      "embedUrl": "https://www.youtube.com/embed/M-ZUQjB0yAo",
+      "contentUrl": "https://www.youtube.com/watch?v=M-ZUQjB0yAo",
+      "uploadDate": "2023-01-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M-ZUQjB0yAo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is not a promotional video. This video is just for entertainment. \nLink to original song by Divine on Mass Appeal's channel : https://www.youtube.com/watch?v=7dt9LvdSdIA\n\nDivine is one of my favorite rappers from the scene and this is a parody of his legendary rap - Kohinoor.  #Divine #Kohinoor",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-9t694",
+      "name": "Aamir Khan beat me (in chess)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT53S",
+      "embedUrl": "https://www.youtube.com/embed/Ak5mIpveUbs",
+      "contentUrl": "https://www.youtube.com/watch?v=Ak5mIpveUbs",
+      "uploadDate": "2025-07-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ak5mIpveUbs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-4oe7w",
+      "name": "DO NOT LAUGH CHALLENGE | REDDIT REVIEW ft. Sagar Shah",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT11M59S",
+      "embedUrl": "https://www.youtube.com/embed/XmP43Cf41Yg",
+      "contentUrl": "https://www.youtube.com/watch?v=XmP43Cf41Yg",
+      "uploadDate": "2022-02-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XmP43Cf41Yg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-747we",
+      "name": "YOU LAUGH YOU LOSE | SAMAY vs GAMERFLEET",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT12M2S",
+      "embedUrl": "https://www.youtube.com/embed/yz-9o2RiA4E",
+      "contentUrl": "https://www.youtube.com/watch?v=yz-9o2RiA4E",
+      "uploadDate": "2021-08-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yz-9o2RiA4E/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Link to the videos we reacted to:\n\nMeme Mandir https://www.youtube.com/watch?v=hkfqBshAxMw\nKnerd: https://www.youtube.com/watch?v=oQp3W2qdZns\n#mememandir \n-----------------------------------------------------------------------------------------------------\n\nJoin my Subreddit: https://www.reddit.com/",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-f6dn5",
+      "name": "Gareeb bachcha",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT49S",
+      "embedUrl": "https://www.youtube.com/embed/JoouAd4eXgE",
+      "contentUrl": "https://www.youtube.com/watch?v=JoouAd4eXgE",
+      "uploadDate": "2022-11-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JoouAd4eXgE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-wpl7g",
+      "name": "REACTING TO MEMES on my SUBREDDIT ft. Shamerfleet",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT7M19S",
+      "embedUrl": "https://www.youtube.com/embed/yYBF-zWMx0c",
+      "contentUrl": "https://www.youtube.com/watch?v=yYBF-zWMx0c",
+      "uploadDate": "2021-05-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yYBF-zWMx0c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-6f5jt",
+      "name": "END GAMERFLEET ft. @tanmaybhat @TaniaSachdevChess",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT11M36S",
+      "embedUrl": "https://www.youtube.com/embed/ky6vV6bHHyw",
+      "contentUrl": "https://www.youtube.com/watch?v=ky6vV6bHHyw",
+      "uploadDate": "2022-03-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ky6vV6bHHyw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-n8wcl",
+      "name": "SAMAY RAINA CSL JOKES COMPILATION",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT13M13S",
+      "embedUrl": "https://www.youtube.com/embed/gGjScpBmYdk",
+      "contentUrl": "https://www.youtube.com/watch?v=gGjScpBmYdk",
+      "uploadDate": "2021-10-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gGjScpBmYdk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In Memory of Norm Macdonald \n\nJoin my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://w",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-qgzwn",
+      "name": "Justice for Daadi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT53S",
+      "embedUrl": "https://www.youtube.com/embed/soJrh1UMbhc",
+      "contentUrl": "https://www.youtube.com/watch?v=soJrh1UMbhc",
+      "uploadDate": "2025-01-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/soJrh1UMbhc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-lx2zi",
+      "name": "BEST OF THE WEEK 11 | SAMAY RAINA",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT8M38S",
+      "embedUrl": "https://www.youtube.com/embed/8ifjYxkMhUg",
+      "contentUrl": "https://www.youtube.com/watch?v=8ifjYxkMhUg",
+      "uploadDate": "2021-01-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8ifjYxkMhUg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "JOIN MY GRAPHY https://share.graphyapp.co/8K8w \n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2BBv1ZJav0c_yHEciAw/join\n\nFollow me on instagram\nhttp",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-7r407",
+      "name": "SCOUT & YUZI TWERK CHALLENGE ft.@GamerFleet @KaashPlays",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT11M13S",
+      "embedUrl": "https://www.youtube.com/embed/rPxBsyLiukc",
+      "contentUrl": "https://www.youtube.com/watch?v=rPxBsyLiukc",
+      "uploadDate": "2021-09-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rPxBsyLiukc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-39kte",
+      "name": "VULGAR MEME REVIEW | BEST OF SUB-REDDIT",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT11M15S",
+      "embedUrl": "https://www.youtube.com/embed/AiW3ubMPU9I",
+      "contentUrl": "https://www.youtube.com/watch?v=AiW3ubMPU9I",
+      "uploadDate": "2022-04-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AiW3ubMPU9I/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-whik2",
+      "name": "GARAM SUTTEY [NAMASTUTE PARODY]",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT2M",
+      "embedUrl": "https://www.youtube.com/embed/8nO1WEJGX_U",
+      "contentUrl": "https://www.youtube.com/watch?v=8nO1WEJGX_U",
+      "uploadDate": "2022-05-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8nO1WEJGX_U/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Smoking is injurious to health and causes cancer, this video is just for entertainment. Enjoy the parody responsibly. \n \nNamastute Link: https://www.youtube.com/watch?v=YuWUJg3Kdks\n \nSeedhe Maut is one of the best in the game and while writing this I realised how complex their rhymes are. These two ",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-bove4",
+      "name": "SAMAY RAINA NEAR DEATH EXPERIENCE",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT10M31S",
+      "embedUrl": "https://www.youtube.com/embed/UdCkfcYcLUM",
+      "contentUrl": "https://www.youtube.com/watch?v=UdCkfcYcLUM",
+      "uploadDate": "2021-03-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UdCkfcYcLUM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "MERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2BBv1ZJav0c_yHEciAw/join\n\nFollow me on instagram\nhttps://ww",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-5ui3t",
+      "name": "WHY WE ALL HATE @GamerFleet ft. @tanmaybhat",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT18M11S",
+      "embedUrl": "https://www.youtube.com/embed/8penW1R3sTE",
+      "contentUrl": "https://www.youtube.com/watch?v=8penW1R3sTE",
+      "uploadDate": "2022-02-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8penW1R3sTE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-b843j",
+      "name": "College show gone wrong",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT45S",
+      "embedUrl": "https://www.youtube.com/embed/QWXbs5g5wjk",
+      "contentUrl": "https://www.youtube.com/watch?v=QWXbs5g5wjk",
+      "uploadDate": "2023-01-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QWXbs5g5wjk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-82bq9",
+      "name": "Zomato Roast",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/YggJwXAeRfo",
+      "contentUrl": "https://www.youtube.com/watch?v=YggJwXAeRfo",
+      "uploadDate": "2024-07-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YggJwXAeRfo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "@zomato has always been the coolest brand I've worked with. Thank you for inviting me to roast you in person (chat support mai kar kar k thak gaya tha)",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-5nbso",
+      "name": "Devour ft. Tanmay, Shamerfleet, RiderOP",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT2H7M39S",
+      "embedUrl": "https://www.youtube.com/embed/1ksPm4BMjqQ",
+      "contentUrl": "https://www.youtube.com/watch?v=1ksPm4BMjqQ",
+      "uploadDate": "2021-06-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1ksPm4BMjqQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-8ld7u",
+      "name": "Levy Rozman x Samay Raina",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT14M41S",
+      "embedUrl": "https://www.youtube.com/embed/Q3fra6Q8lyc",
+      "contentUrl": "https://www.youtube.com/watch?v=Q3fra6Q8lyc",
+      "uploadDate": "2021-05-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q3fra6Q8lyc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-1nxo8",
+      "name": "ENDGAME | SAGAR SHAH DISS [OFFICIAL VIDEO]",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT3M19S",
+      "embedUrl": "https://www.youtube.com/embed/zIC6tWwNyhk",
+      "contentUrl": "https://www.youtube.com/watch?v=zIC6tWwNyhk",
+      "uploadDate": "2020-11-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zIC6tWwNyhk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Written and performed by Samay Raina\nVideo edited by Perception Films and Media\nProduced by ZeeBeer and Derayne\n\nCheck out the making of this epic video: https://www.youtube.com/watch?v=lx87hSXCV08&t=832s",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7dhf-c6dth",
+      "name": "DO NOT LAUGH CHALLENGE FT. CHESS OLYMPIAD",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7bv2-cgxno"
+      },
+      "duration": "PT16M57S",
+      "embedUrl": "https://www.youtube.com/embed/dtWrAU3qJjM",
+      "contentUrl": "https://www.youtube.com/watch?v=dtWrAU3qJjM",
+      "uploadDate": "2022-08-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dtWrAU3qJjM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join my Subreddit: https://www.reddit.com/r/SamayRaina/\n\nMERCH: https://www.redwolf.in/samay-raina\n\nBECOME DIAMOND MEMBER HERE: https://go.chess.com/samay\n\nJOIN MY CLUB: https://www.chess.com/club/samay-raina-official\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCAov2B",
+      "channelTitle": "Samay Raina",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-bu88n",
+      "name": "Laila | Stand-Up Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT26M42S",
+      "embedUrl": "https://www.youtube.com/embed/z6jd2JbZnvM",
+      "contentUrl": "https://www.youtube.com/watch?v=z6jd2JbZnvM",
+      "uploadDate": "2025-11-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z6jd2JbZnvM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Please enjoy, hype, like, share and subscribe ❤️\nUS & Canada Tour (Feb 2026) Tickets - https://theticketworld.com/ps\n\nLondon (15 to 20 dec 2025) Tickets - https://sohotheatre.com/events/prashasti-singh-divine-feminine-3/\n\nDubai (25 Jan 2026) and India tour (March-April 2026) tickets going live soon\n",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-nydh4",
+      "name": "Heartbreaks | StandUp Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT7M54S",
+      "embedUrl": "https://www.youtube.com/embed/3bamJpyO_Zo",
+      "contentUrl": "https://www.youtube.com/watch?v=3bamJpyO_Zo",
+      "uploadDate": "2022-07-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3bamJpyO_Zo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Currently Touring with my new Standup Show. Ticket link pinned to comments.\n\nFirst stand up video on this channel. Agar pasand aaya to fataak se share kar dein. Also subscribe by clicking on the red button. Zindagi rahi toh aur videos bhi aaenge.\nSubtitles are available.\n\nAlso, dil toote to lambi sa",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-77gst",
+      "name": "Train ka Suffer | Stand-Up Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT20M37S",
+      "embedUrl": "https://www.youtube.com/embed/MyGcl5hpntQ",
+      "contentUrl": "https://www.youtube.com/watch?v=MyGcl5hpntQ",
+      "uploadDate": "2024-11-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MyGcl5hpntQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Please Enjoy, Like, Share and Subscribe !\nCurrently Touring with my new Standup Show. Ticket link pinned to comments.\nFollow me on Instagram : @prashastisingh\n\nCredits:\nWritten & Performed by: Prashasti Singh\nVideo Production: Unnaggi Productions\nPost Production: Myoho Films\nEdit & Grade: Karan Asna",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-saw47",
+      "name": "Happy Diwali | Stand-Up Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT19M3S",
+      "embedUrl": "https://www.youtube.com/embed/aB6NE3XCDDs",
+      "contentUrl": "https://www.youtube.com/watch?v=aB6NE3XCDDs",
+      "uploadDate": "2024-10-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aB6NE3XCDDs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Please Enjoy, Like, Share and Subscribe !\nFollow me on Instagram : @prashastisingh\n\nCredits:\nWritten & Performed by: Prashasti Singh\nVideo Production: Unnaggi Productions\nPost Production: Myoho Films\nEdit & Grade: Karan Asnani\nSound Mix & Master: Sreejith Menon\nVenue:  The Laugh Store Gurgaon\nOutro ",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-n659d",
+      "name": "FAKE FEMINIST | StandUp Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT12M1S",
+      "embedUrl": "https://www.youtube.com/embed/Jcu2AcGx01Q",
+      "contentUrl": "https://www.youtube.com/watch?v=Jcu2AcGx01Q",
+      "uploadDate": "2022-11-30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jcu2AcGx01Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Currently Touring with my new Standup Show. Ticket link pinned to comments.\n\nSabke girehbaan mein kuchh polka dots hote hain. Please enjoy mine. \nSubtitles are available.\n\nFollow me on Instagram : @prashastisingh\n\nLink for upcoming shows: https://in.bookmyshow.com/events/prashasti-singh-live/ET00317",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-vmemr",
+      "name": "Retired Romantic | Part 2 of Door Khadi Sharmaaye | Standup Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT7M7S",
+      "embedUrl": "https://www.youtube.com/embed/wACkmQCPabc",
+      "contentUrl": "https://www.youtube.com/watch?v=wACkmQCPabc",
+      "uploadDate": "2023-06-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wACkmQCPabc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Currently Touring with my new Standup Show. Ticket link pinned to comments.\n\nThis is Part 2 of my standup comedy solo show Door Khadi Sharmaaye. \nPart 1 is available on my YouTube channel. \nOther 2 parts will be released very soon.\nSubtitles are available.\n\nFollow me on Instagram : @prashastisingh\n\n",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-b0ir7",
+      "name": "Dil To Paagal Hai | Part 4 of Door Khadi Sharmaaye | Standup Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT8M51S",
+      "embedUrl": "https://www.youtube.com/embed/-FP3sqi4kWQ",
+      "contentUrl": "https://www.youtube.com/watch?v=-FP3sqi4kWQ",
+      "uploadDate": "2023-07-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-FP3sqi4kWQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Currently Touring with my new Standup Show. Ticket link pinned to comments.\n\nThis is the Fourth and Final part of my standup comedy solo show Door Khadi Sharmaaye. \nPart 1, 2 & 3 are already available on my YouTube channel. \nSubtitles are available.\n\nFollow me on Instagram : @prashastisingh\n\nCredits",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-3qav9",
+      "name": "Teenage Drama | Part 1 of Door Khadi Sharmaaye | Standup Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT17M16S",
+      "embedUrl": "https://www.youtube.com/embed/Ta06DuN04mE",
+      "contentUrl": "https://www.youtube.com/watch?v=Ta06DuN04mE",
+      "uploadDate": "2023-06-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ta06DuN04mE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Currently Touring with my new Standup Show. Ticket link pinned to comments.\n\nThis is Part 1 of my standup comedy solo show Door Khadi Sharmaaye. \nOther 3 parts will be released very soon.\nSubtitles are available.\n\nFollow me on Instagram : @prashastisingh\n\nCredits:\nWritten & Performed by: Prashasti S",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-bdbxj",
+      "name": "Dance of Envy | Part 3 of Door Khadi Sharmaaye | Standup Comedy by Prashasti Singh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT17M54S",
+      "embedUrl": "https://www.youtube.com/embed/Vjb3uoVMHkE",
+      "contentUrl": "https://www.youtube.com/watch?v=Vjb3uoVMHkE",
+      "uploadDate": "2023-06-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vjb3uoVMHkE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Currently Touring with my new Standup Show. Ticket link pinned to comments.\n\nThis is Part 3 of my standup comedy solo show Door Khadi Sharmaaye. \nPart 1 and Part 2 are already available on my YouTube channel. \nLast part will be released very soon.\nSubtitles are available.\n\nFollow me on Instagram : @",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-p5gbp",
+      "name": "Coming to Frankfurt, Amsterdam, London, Paris, Berlin and Zurich with my new show this May",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT2M16S",
+      "embedUrl": "https://www.youtube.com/embed/isM9GqAGpj8",
+      "contentUrl": "https://www.youtube.com/watch?v=isM9GqAGpj8",
+      "uploadDate": "2025-05-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/isM9GqAGpj8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-dx6ui",
+      "name": "Small Town Kids #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT26S",
+      "embedUrl": "https://www.youtube.com/embed/nwAv1bZ_Uhg",
+      "contentUrl": "https://www.youtube.com/watch?v=nwAv1bZ_Uhg",
+      "uploadDate": "2024-10-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nwAv1bZ_Uhg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-28muf",
+      "name": "Europe tour - 22 May to 1 June #standupcomedy #mumbailocal #funny",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT1M29S",
+      "embedUrl": "https://www.youtube.com/embed/sWhCpIcgjIs",
+      "contentUrl": "https://www.youtube.com/watch?v=sWhCpIcgjIs",
+      "uploadDate": "2025-05-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sWhCpIcgjIs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-26r1e",
+      "name": "UP intellectuals #standupcomedy #funnyvideo",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT43S",
+      "embedUrl": "https://www.youtube.com/embed/hpYBpAijhMw",
+      "contentUrl": "https://www.youtube.com/watch?v=hpYBpAijhMw",
+      "uploadDate": "2024-11-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hpYBpAijhMw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-0xbhi",
+      "name": "Delhi male #standupcomedy #funnyvideo",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT52S",
+      "embedUrl": "https://www.youtube.com/embed/3Kv0Xx-WE-Y",
+      "contentUrl": "https://www.youtube.com/watch?v=3Kv0Xx-WE-Y",
+      "uploadDate": "2024-11-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Kv0Xx-WE-Y/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-gl9nq",
+      "name": "Send it to your married friends 😈 Full video on my channel #funnyvideo #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/tIWOzuDYVEI",
+      "contentUrl": "https://www.youtube.com/watch?v=tIWOzuDYVEI",
+      "uploadDate": "2023-07-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tIWOzuDYVEI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-91acp",
+      "name": "Guy friends in breakup #funnyvideo #standupcomedy #dating #love #heartbroken",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/fdb6K7cnu3c",
+      "contentUrl": "https://www.youtube.com/watch?v=fdb6K7cnu3c",
+      "uploadDate": "2023-01-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fdb6K7cnu3c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-biva3",
+      "name": "Crowd work #funnyvideo #standupcomedy #dating",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT59S",
+      "embedUrl": "https://www.youtube.com/embed/0avWbloS5IQ",
+      "contentUrl": "https://www.youtube.com/watch?v=0avWbloS5IQ",
+      "uploadDate": "2022-12-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0avWbloS5IQ/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-agymv",
+      "name": "Full video on my YouTube channel #funnyvideo #engineering #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT45S",
+      "embedUrl": "https://www.youtube.com/embed/0XNHWFhwfQk",
+      "contentUrl": "https://www.youtube.com/watch?v=0XNHWFhwfQk",
+      "uploadDate": "2022-12-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0XNHWFhwfQk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-vu4ox",
+      "name": "Watch full video on my YouTube channel #funnyvideo #standupcomedy #college",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT1M1S",
+      "embedUrl": "https://www.youtube.com/embed/SnVS2Mip83M",
+      "contentUrl": "https://www.youtube.com/watch?v=SnVS2Mip83M",
+      "uploadDate": "2022-12-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SnVS2Mip83M/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk1k7gns-iagni",
+      "name": "Sabka katega ✌️ #funnyvideo #standupcomedy #life",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk1k7f1u-5ahi4"
+      },
+      "duration": "PT42S",
+      "embedUrl": "https://www.youtube.com/embed/ac-0yZbNz7A",
+      "contentUrl": "https://www.youtube.com/watch?v=ac-0yZbNz7A",
+      "uploadDate": "2022-12-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ac-0yZbNz7A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Prashasti Singh",
       "aggregatorChannel": null
     }
   ],
