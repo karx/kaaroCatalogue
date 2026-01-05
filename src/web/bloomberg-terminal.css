@@ -1,0 +1,571 @@
+/* ============================================
+   BLOOMBERG TERMINAL AESTHETIC
+   Data-driven, journalistic design system
+   ============================================ */
+
+/* Terminal Color Palette */
+:root {
+    --terminal-bg: #000000;
+    --terminal-bg-alt: #0a0a0a;
+    --terminal-border: #1a1a1a;
+    --terminal-border-bright: #333333;
+
+    --terminal-text: #d4d4d4;
+    --terminal-text-bright: #ffffff;
+    --terminal-text-dim: #808080;
+
+    --terminal-orange: #ff6b35;
+    --terminal-blue: #00a8cc;
+    --terminal-green: #00ff85;
+    --terminal-yellow: #f9ca24;
+
+    --terminal-font-mono: 'Courier New', 'Courier', monospace;
+    --terminal-font-sans: 'Arial', 'Helvetica', sans-serif;
+}
+
+/* ============================================
+   BLOOMBERG LAYOUT STRUCTURE
+   ============================================ */
+
+.bloomberg-detail {
+    background: var(--terminal-bg);
+    color: var(--terminal-text);
+    font-family: var(--terminal-font-sans);
+}
+
+/* Terminal Header Bar */
+.terminal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background: var(--terminal-bg-alt);
+    border-bottom: 2px solid var(--terminal-orange);
+    margin-bottom: 1.5rem;
+    font-family: var(--terminal-font-mono);
+    font-size: 0.75rem;
+}
+
+.terminal-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.terminal-link {
+    color: var(--terminal-blue);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.terminal-link:hover {
+    color: var(--terminal-yellow);
+    text-decoration: underline;
+}
+
+.terminal-separator {
+    color: var(--terminal-text-dim);
+}
+
+.terminal-current {
+    color: var(--terminal-text-bright);
+    font-weight: bold;
+}
+
+.terminal-time,
+.terminal-card-meta {
+    color: var(--terminal-text-dim);
+    font-family: var(--terminal-font-mono);
+}
+
+.terminal-actions {
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* Terminal Grid Layout */
+.terminal-grid {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 1.5rem;
+}
+
+@media (max-width: 1024px) {
+    .terminal-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.terminal-sidebar,
+.terminal-main {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+/* Terminal Card */
+.terminal-card {
+    background: var(--terminal-bg-alt);
+    border: 1px solid var(--terminal-border);
+    border-left: 3px solid var(--terminal-orange);
+}
+
+.terminal-card-header {
+    padding: 0.75rem 1rem;
+    background: var(--terminal-bg);
+    border-bottom: 1px solid var(--terminal-border);
+    font-family: var(--terminal-font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    color: var(--terminal-orange);
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Profile Section */
+.comedian-profile {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.comedian-avatar-large {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 1rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--terminal-orange), var(--terminal-blue));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--terminal-bg);
+    border: 3px solid var(--terminal-border-bright);
+}
+
+.comedian-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--terminal-text-bright);
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.01em;
+}
+
+.comedian-location,
+.comedian-language {
+    font-size: 0.85rem;
+    color: var(--terminal-text);
+    margin: 0.25rem 0;
+    font-family: var(--terminal-font-mono);
+}
+
+.terminal-icon {
+    margin-right: 0.5rem;
+}
+
+/* Stats Grid */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.stat-item {
+    text-align: center;
+    padding: 1rem;
+    background: var(--terminal-bg);
+    border: 1px solid var(--terminal-border);
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--terminal-green);
+    font-family: var(--terminal-font-mono);
+    line-height: 1;
+}
+
+.stat-label {
+    font-size: 0.65rem;
+    color: var(--terminal-text-dim);
+    margin-top: 0.5rem;
+    letter-spacing: 0.1em;
+    font-family: var(--terminal-font-mono);
+}
+
+/* Terminal Tags */
+.terminal-tags {
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.terminal-tag {
+    padding: 0.375rem 0.75rem;
+    background: var(--terminal-bg);
+    border: 1px solid var(--terminal-border-bright);
+    color: var(--terminal-text);
+    font-size: 0.7rem;
+    font-family: var(--terminal-font-mono);
+    letter-spacing: 0.05em;
+    transition: all 0.2s;
+}
+
+.terminal-tag-primary {
+    border-color: var(--terminal-orange);
+    color: var(--terminal-orange);
+    font-weight: bold;
+}
+
+.terminal-tag:hover {
+    background: var(--terminal-border);
+}
+
+/* Terminal Lists */
+.terminal-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.terminal-list li {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--terminal-border);
+    font-size: 0.85rem;
+}
+
+.terminal-list li:last-child {
+    border-bottom: none;
+}
+
+.terminal-list-links a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Terminal Table */
+.terminal-table-container {
+    overflow-x: auto;
+}
+
+.terminal-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    font-family: var(--terminal-font-mono);
+}
+
+.terminal-table thead {
+    background: var(--terminal-bg);
+    border-bottom: 2px solid var(--terminal-orange);
+}
+
+.terminal-table th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    color: var(--terminal-orange);
+    font-weight: bold;
+}
+
+.terminal-table-row {
+    border-bottom: 1px solid var(--terminal-border);
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.terminal-table-row:hover {
+    background: var(--terminal-border);
+}
+
+.terminal-table td {
+    padding: 1rem;
+    color: var(--terminal-text);
+}
+
+.terminal-mono {
+    font-family: var(--terminal-font-mono);
+    color: var(--terminal-text-dim);
+}
+
+.video-title-cell {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.video-index {
+    color: var(--terminal-text-dim);
+    font-size: 0.75rem;
+    min-width: 2ch;
+}
+
+.video-title {
+    color: var(--terminal-text-bright);
+}
+
+.terminal-badge {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    background: var(--terminal-bg);
+    border: 1px solid var(--terminal-border-bright);
+    font-size: 0.65rem;
+    letter-spacing: 0.05em;
+}
+
+.terminal-action {
+    text-align: right;
+    color: var(--terminal-blue);
+}
+
+/* Terminal Empty State */
+.terminal-empty {
+    padding: 3rem 1rem;
+    text-align: center;
+}
+
+.terminal-empty-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: 0.3;
+}
+
+.terminal-empty-text {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: var(--terminal-text-dim);
+    letter-spacing: 0.1em;
+}
+
+.terminal-empty-sub {
+    font-size: 0.75rem;
+    color: var(--terminal-text-dim);
+    margin-top: 0.5rem;
+}
+
+/* ============================================
+   VIDEO DETAIL PAGE
+   ============================================ */
+
+.terminal-video-layout {
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 1.5rem;
+}
+
+@media (max-width: 1200px) {
+    .terminal-video-layout {
+        grid-template-columns: 1fr;
+    }
+}
+
+.terminal-card-video {
+    padding: 0;
+    overflow: hidden;
+}
+
+.terminal-video-player {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    background: #000;
+}
+
+.video-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.terminal-video-info {
+    padding: 1.5rem;
+}
+
+.terminal-video-title {
+    font-size: 1.75rem;
+    font-weight: bold;
+    color: var(--terminal-text-bright);
+    margin-bottom: 0.75rem;
+    line-height: 1.3;
+}
+
+.terminal-video-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--terminal-text-dim);
+    font-family: var(--terminal-font-mono);
+}
+
+.terminal-video-tags {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.terminal-video-description {
+    padding-top: 1rem;
+    border-top: 1px solid var(--terminal-border);
+    color: var(--terminal-text);
+    line-height: 1.6;
+}
+
+/* Comedian Mini Profile */
+.comedian-mini-profile {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.comedian-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--terminal-orange), var(--terminal-blue));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: var(--terminal-bg);
+    flex-shrink: 0;
+}
+
+.comedian-mini-info h3 {
+    color: var(--terminal-text-bright);
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+.comedian-mini-info p {
+    color: var(--terminal-text-dim);
+    font-size: 0.75rem;
+    font-family: var(--terminal-font-mono);
+}
+
+/* Info Grid */
+.terminal-info-grid {
+    padding: 1rem;
+}
+
+.info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--terminal-border);
+}
+
+.info-row:last-child {
+    border-bottom: none;
+}
+
+.info-label {
+    font-size: 0.7rem;
+    color: var(--terminal-text-dim);
+    letter-spacing: 0.1em;
+    font-family: var(--terminal-font-mono);
+}
+
+.info-value {
+    font-size: 0.85rem;
+    color: var(--terminal-text-bright);
+}
+
+/* Terminal Buttons */
+.btn-terminal {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    background: var(--terminal-bg);
+    border: 1px solid var(--terminal-orange);
+    color: var(--terminal-orange);
+    text-align: center;
+    font-family: var(--terminal-font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-terminal:hover {
+    background: var(--terminal-orange);
+    color: var(--terminal-bg);
+}
+
+.btn-bookmark-terminal {
+    padding: 0.5rem 1rem;
+    background: var(--terminal-bg);
+    border: 1px solid var(--terminal-border-bright);
+    color: var(--terminal-text);
+    font-family: var(--terminal-font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-bookmark-terminal:hover {
+    border-color: var(--terminal-orange);
+    color: var(--terminal-orange);
+}
+
+.btn-bookmark-terminal.active {
+    background: var(--terminal-orange);
+    border-color: var(--terminal-orange);
+    color: var(--terminal-bg);
+    font-weight: bold;
+}
+
+/* ============================================
+   BLOOMBERG RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+    .terminal-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .terminal-video-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .terminal-header {
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: flex-start;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .terminal-table {
+        font-size: 0.75rem;
+    }
+
+    .terminal-table th,
+    .terminal-table td {
+        padding: 0.5rem;
+    }
+
+    .video-title-cell {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+}
