@@ -1,1 +1,59 @@
+# Dependencies
 node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Debug files
+debug-*.html
+debug-*.js
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# API keys and secrets (if accidentally created)
+*-api-key.json
+secrets.json
+
+# Local development files
+.cache/
+.local/
+
+# Gemini/AI artifacts (if not needed in repo)
+.gemini/

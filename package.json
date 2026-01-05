@@ -1,21 +1,48 @@
 {
   "name": "kaaro-catalogue",
   "version": "1.0.0",
-  "description": "Ecosystem for building, maintaining, analyzing and visualizing catalogs",
+  "description": "Ecosystem for building, maintaining, analyzing and visualizing catalogs of cultural heritage - focusing on Indian Poetry and Comedy",
   "type": "module",
+  "main": "src/mcp-tools/index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "validate": "node src/mcp-tools/validate-schema.js",
+    "validate:poetry": "node src/mcp-tools/validate-schema.js src/data/catalogs/poets-index.json",
+    "validate:comedy": "node src/mcp-tools/validate-comedy-data.js",
+    "enrich:poetry": "node src/mcp-tools/enrich-catalogue.js",
+    "enrich:comedy": "node src/mcp-tools/enrich-comedy-catalogue.js",
+    "list:poets": "node src/mcp-tools/list-poets.js"
   },
   "keywords": [
     "catalog",
+    "catalogue",
     "visualization",
     "mcp",
-    "schema.org"
+    "schema.org",
+    "indian-poetry",
+    "comedy",
+    "cultural-heritage",
+    "digital-humanities",
+    "urdu",
+    "hindi",
+    "rekhta"
   ],
-  "author": "",
+  "author": "Kaaro Catalogue Contributors",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/kaaroCatalogue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/kaaroCatalogue/issues"
+  },
+  "homepage": "https://github.com/yourusername/kaaroCatalogue#readme",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
   "devDependencies": {
     "vite": "^6.0.0"
   },
