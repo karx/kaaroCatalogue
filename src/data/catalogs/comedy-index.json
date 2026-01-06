@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-05T19:34:23.512Z",
+  "updatedAt": "2026-01-06T19:32:39.601Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -13,9 +13,9 @@
       "Netflix is a Joke",
       "Dry Bar Comedy"
     ],
-    "totalEntities": 25,
+    "totalEntities": 26,
     "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 361
+    "totalVideos": 364
   },
   "entities": [
     {
@@ -772,6 +772,48 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Prashasti_Singh",
         "retrievedAt": "2026-01-05T19:34:21.426Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mk2k8xhj-rojo1",
+      "name": "Rohan Joshi",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "1983",
+      "knowsLanguage": "en, hi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [
+        "Observational",
+        "Satire",
+        "Sketch Comedy"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Rohan_Joshi",
+        "https://www.youtube.com/@rohanjoshi8016"
+      ],
+      "keywords": [
+        "AIB",
+        "Wake And Bake",
+        "All India Bakchod"
+      ],
+      "verified": false,
+      "abstract": "Rohan Joshi is an Indian stand-up comedian, writer, and YouTuber. He was one of the founding members of the creative agency All India Bakchod (AIB).",
+      "nationality": "Indian",
+      "yearsActive": "2010-Present",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rohan_Joshi",
+        "retrievedAt": "2026-01-06T19:32:39.508Z"
       }
     }
   ],
@@ -7262,6 +7304,60 @@
       "genre": "Clip",
       "description": "",
       "channelTitle": "Prashasti Singh",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk2k8xhj-v001",
+      "name": "Your favourite movie lied to you: Stand-up by Rohan Joshi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT3M34S",
+      "embedUrl": "https://www.youtube.com/embed/XroIVJzNr58",
+      "contentUrl": "https://www.youtube.com/watch?v=XroIVJzNr58",
+      "uploadDate": "2025-07-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XroIVJzNr58/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "I’m sorry your favourite movie lied to you.",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk2k8xhj-v002",
+      "name": "Passive Aggressive Fighter | Rohan Joshi | Wake N Bake",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT2M30S",
+      "embedUrl": "https://www.youtube.com/embed/8pUXoF4NaY8",
+      "contentUrl": "https://www.youtube.com/watch?v=8pUXoF4NaY8",
+      "uploadDate": "2020-04-18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8pUXoF4NaY8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Mai phattu non-confrontational aadmi hoon aur mere se direct conflict nahi hota.",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mk2k8xhj-v003",
+      "name": "Road Trips Are Overrated | Rohan Joshi | Wake N Bake",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT4M6S",
+      "embedUrl": "https://www.youtube.com/embed/A9yR451uf9A",
+      "contentUrl": "https://www.youtube.com/watch?v=A9yR451uf9A",
+      "uploadDate": "2020-01-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A9yR451uf9A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Everyone loves to talk about doing road trips from Mumbai to Goa. Except Rohan, who hates them.",
+      "channelTitle": "Rohan Joshi",
       "aggregatorChannel": null
     }
   ],
