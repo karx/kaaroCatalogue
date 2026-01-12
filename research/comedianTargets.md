@@ -123,9 +123,10 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - YouTube: @aadarmalik
 
 18. **Sumukhi Suresh** (English/Kannada)
+    - Status: ✅ Already in catalog
     - Wikipedia: https://en.wikipedia.org/wiki/Sumukhi_Suresh
     - Language: English
-    - Notable: "Behti Naak", actress and comedian
+    - Notable: "Behti Naak", "Pushpavalli", "Don't Tell Amma"
     - YouTube: @sumukhisuresh
 
 19. **Kaneez Surka** (English)

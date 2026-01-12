@@ -625,25 +625,46 @@
       "name": "Sumukhi Suresh",
       "alternateName": [],
       "additionalType": "Comedian",
-      "birthDate": "",
+      "birthDate": "1987-10-18",
       "knowsLanguage": "en",
-      "homeLocation": null,
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Nagpur, India"
+      },
       "hasOccupation": {
         "@type": "Occupation",
         "name": "Stand-up Comedian"
       },
-      "award": [],
-      "genre": [],
+      "award": [
+        "Filmfare OTT Award",
+        "BAFTA Breakthrough",
+        "Critics Guild Award"
+      ],
+      "genre": [
+        "Sketch Comedy",
+        "Stand-up",
+        "Deadpan",
+        "Satire"
+      ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Sumukhi_Suresh",
         "https://www.youtube.com/channel/UCZxgQ6lydRlm3rqF3jSEUeA"
       ],
-      "keywords": [],
-      "verified": false,
-      "abstract": "",
-      "nationality": "",
-      "yearsActive": "",
-      "socialMedia": {},
+      "keywords": [
+        "Pushpavalli",
+        "Comicstaan",
+        "Don't Tell Amma",
+        "Better Life Foundation"
+      ],
+      "verified": true,
+      "abstract": "Sumukhi Suresh is an Indian stand-up comedian, actor, writer, and director known for her deadpan humour and satirical sketches. She gained prominence with her Amazon Prime Video series 'Pushpavalli' and stand-up special 'Don't Tell Amma'.",
+      "nationality": "Indian",
+      "yearsActive": "2014-Present",
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/sumukhisuresh",
+        "twitter": "https://twitter.com/sumukhisuresh",
+        "facebook": "https://www.facebook.com/SumukhiSureshComedian"
+      },
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sumukhi_Suresh",
