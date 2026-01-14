@@ -4,6 +4,7 @@ import { resolve } from 'path';
 export default defineConfig({
     // Set the root to the web folder
     root: './src/web',
+    base: './',
 
     // Serve static files from src directory (allows access to ../data)
     publicDir: resolve(__dirname, './src'),
