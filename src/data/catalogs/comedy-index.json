@@ -716,31 +716,52 @@
       "@type": "Person",
       "entityId": "comedian-mk1k7bv2-cgxno",
       "name": "Samay Raina",
-      "alternateName": [],
+      "alternateName": [
+        "Samay"
+      ],
       "additionalType": "Comedian",
-      "birthDate": "",
-      "knowsLanguage": "hi",
-      "homeLocation": null,
+      "birthDate": "1997-10-26",
+      "knowsLanguage": "hi, en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Jammu, India"
+      },
       "hasOccupation": {
         "@type": "Occupation",
         "name": "Stand-up Comedian"
       },
-      "award": [],
-      "genre": [],
+      "award": [
+        "Comicstaan 2 Winner"
+      ],
+      "genre": [
+        "observational",
+        "improv",
+        "chess-comedy",
+        "crowd-work"
+      ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Samay_Raina",
-        "https://www.youtube.com/channel/UCAov2BBv1ZJav0c_yHEciAw"
+        "https://www.youtube.com/channel/UCAov2BBv1ZJav0c_yHEciAw",
+        "https://www.instagram.com/mai_samayhoon/"
       ],
-      "keywords": [],
-      "verified": false,
-      "abstract": "",
-      "nationality": "",
-      "yearsActive": "",
-      "socialMedia": {},
+      "keywords": [
+        "Comicstaan",
+        "Chess",
+        "India's Got Latent",
+        "Printing Engineering"
+      ],
+      "verified": true,
+      "abstract": "Samay Raina is an Indian stand-up comedian, YouTuber, and chess enthusiast. He rose to prominence as the co-winner of Comicstaan 2 and is known for popularizing chess streaming in India. In 2024, he hosted the comedy talent show India's Got Latent.",
+      "nationality": "Indian",
+      "yearsActive": "2017-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/channel/UCAov2BBv1ZJav0c_yHEciAw",
+        "instagram": "https://www.instagram.com/mai_samayhoon/"
+      },
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Samay_Raina",
-        "retrievedAt": "2026-01-05T19:34:17.295Z"
+        "retrievedAt": "2026-01-07T12:00:00.000Z"
       }
     },
     {
