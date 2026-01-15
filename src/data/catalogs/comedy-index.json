@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-06T19:32:39.601Z",
+  "updatedAt": "2026-01-15T19:56:23.302Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -13,9 +13,9 @@
       "Netflix is a Joke",
       "Dry Bar Comedy"
     ],
-    "totalEntities": 26,
-    "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 364
+    "totalEntities": 29,
+    "lastSync": "2026-01-15T20:00:23.082Z",
+    "totalVideos": 371
   },
   "entities": [
     {
@@ -835,6 +835,146 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rohan_Joshi",
         "retrievedAt": "2026-01-06T19:32:39.508Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-68268a5e-8fcc-454b-adff-4529d3737ffd",
+      "name": "Karunesh Talwar",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "1987-09-28",
+      "knowsLanguage": "en, hi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [
+        "observational",
+        "sarcastic",
+        "deadpan"
+      ],
+      "sameAs": [
+        "https://houseofstarss.com/standup/karunesh-talwar",
+        "https://www.youtube.com/@KaruneshTalwar"
+      ],
+      "keywords": [
+        "Amazon Prime",
+        "Pehla Nasha",
+        "AIB",
+        "Deadpan"
+      ],
+      "verified": true,
+      "abstract": "Karunesh Talwar is an Indian stand-up comedian and writer known for his witty, deadpan, and sarcastic observational comedy. He has performed at various festivals and was a writer for AIB.",
+      "nationality": "Indian",
+      "yearsActive": "2010-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/@KaruneshTalwar",
+        "instagram": "https://www.instagram.com/karuneshtalwar/"
+      },
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://houseofstarss.com/standup/karunesh-talwar",
+        "retrievedAt": "2026-01-15T19:56:23.227Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-d32281ad-19cc-4ac7-a4b8-e73b095a59e1",
+      "name": "Gaurav Gupta",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "1984-09-10",
+      "knowsLanguage": "hi, en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "New Delhi, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [
+        "observational",
+        "family",
+        "baniya"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Gaurav_Gupta",
+        "https://www.youtube.com/@gaurav_comic"
+      ],
+      "keywords": [
+        "Baniya",
+        "Dentist",
+        "Great Indian Laughter Challenge",
+        "Family"
+      ],
+      "verified": true,
+      "abstract": "Gaurav Gupta is a stand-up comedian and dentist from Delhi, known for his 'Being Baniya' comedy and family-centric observational humor. He was a finalist on The Great Indian Laughter Challenge.",
+      "nationality": "Indian",
+      "yearsActive": "2015-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/@gaurav_comic",
+        "instagram": "https://www.instagram.com/gaurav_comic/"
+      },
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Gaurav_Gupta",
+        "retrievedAt": "2026-01-15T19:56:23.301Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-5c3e6990-767e-4973-b30b-e5209d321c1a",
+      "name": "Atul Khatri",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "1968",
+      "knowsLanguage": "en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [
+        "observational",
+        "storytelling",
+        "corporate",
+        "uncles"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Atul_Khatri",
+        "https://www.youtube.com/@AtulKhatri"
+      ],
+      "keywords": [
+        "CEO",
+        "Sindhi",
+        "EIC",
+        "Daddy Kool",
+        "CNN-IBN"
+      ],
+      "verified": true,
+      "abstract": "Atul Khatri is an Indian stand-up comedian and YouTube personality. A Mumbai-based Sindhi businessman who took up comedy at 43, he is the only Indian to perform at the Hong Kong International Comedy Festival.",
+      "nationality": "Indian",
+      "yearsActive": "2011-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/@AtulKhatri",
+        "twitter": "https://twitter.com/one_by_two"
+      },
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Atul_Khatri",
+        "retrievedAt": "2026-01-15T19:56:23.302Z"
       }
     }
   ],
@@ -7379,6 +7519,125 @@
       "genre": "Clip",
       "description": "Everyone loves to talk about doing road trips from Mumbai to Goa. Except Rohan, who hates them.",
       "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-bcc53074-24ed-40ca-9144-30dfc662234e",
+      "name": "Pehla Nasha Parody (Nashedi Love Song)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-68268a5e-8fcc-454b-adff-4529d3737ffd"
+      },
+      "duration": "PT4M6S",
+      "embedUrl": "https://www.youtube.com/embed/oXi56dVRPxU",
+      "contentUrl": "https://www.youtube.com/watch?v=oXi56dVRPxU",
+      "uploadDate": "2024-05-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oXi56dVRPxU/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Karunesh Talwar",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-95668d32-5143-43dc-9375-1943ad8edf23",
+      "name": "Stuff About Bollywood",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-68268a5e-8fcc-454b-adff-4529d3737ffd"
+      },
+      "duration": "PT10M19S",
+      "embedUrl": "https://www.youtube.com/embed/3mmk3ty5q5Q",
+      "contentUrl": "https://www.youtube.com/watch?v=3mmk3ty5q5Q",
+      "uploadDate": "2018-05-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3mmk3ty5q5Q/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Karunesh Talwar",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-de47071a-a5f5-497a-a142-f5e99b4214a9",
+      "name": "PILOT",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-d32281ad-19cc-4ac7-a4b8-e73b095a59e1"
+      },
+      "duration": "PT12M47S",
+      "embedUrl": "https://www.youtube.com/embed/NhwV-wTqOnY",
+      "contentUrl": "https://www.youtube.com/watch?v=NhwV-wTqOnY",
+      "uploadDate": "2019-11-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NhwV-wTqOnY/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Gaurav Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-7c2b7e94-08f9-41b1-a616-524e4a4b8481",
+      "name": "5000 KI TICKET",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-d32281ad-19cc-4ac7-a4b8-e73b095a59e1"
+      },
+      "duration": "PT8M16S",
+      "embedUrl": "https://www.youtube.com/embed/aBX5C7wAd_c",
+      "contentUrl": "https://www.youtube.com/watch?v=aBX5C7wAd_c",
+      "uploadDate": "2025-05-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aBX5C7wAd_c/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "channelTitle": "Gaurav Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-8923e6c3-2079-4ad9-b88b-9c8fd485f4ea",
+      "name": "Car-O-Bar",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-d32281ad-19cc-4ac7-a4b8-e73b095a59e1"
+      },
+      "duration": "PT10M",
+      "embedUrl": "https://www.youtube.com/embed/YmvscYCrMA4",
+      "contentUrl": "https://www.youtube.com/watch?v=YmvscYCrMA4",
+      "uploadDate": "2018-03-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YmvscYCrMA4/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Gaurav Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-9189cc87-640b-4382-9bf5-81e7b06d9a2c",
+      "name": "My Bucket List",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-5c3e6990-767e-4973-b30b-e5209d321c1a"
+      },
+      "duration": "PT6M4S",
+      "embedUrl": "https://www.youtube.com/embed/akklWUVk5LI",
+      "contentUrl": "https://www.youtube.com/watch?v=akklWUVk5LI",
+      "uploadDate": "2024-12-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/akklWUVk5LI/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Atul Khatri",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-37e255a5-e93f-442e-9006-a56cfd19677f",
+      "name": "Atul Khatri on Getting Old",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-5c3e6990-767e-4973-b30b-e5209d321c1a"
+      },
+      "duration": "PT16M56S",
+      "embedUrl": "https://www.youtube.com/embed/LllNSnDtvQc",
+      "contentUrl": "https://www.youtube.com/watch?v=LllNSnDtvQc",
+      "uploadDate": "2018-08-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LllNSnDtvQc/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Atul Khatri",
       "aggregatorChannel": null
     }
   ],
