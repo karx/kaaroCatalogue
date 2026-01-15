@@ -14,3 +14,7 @@
 **Insight:** Samay Raina is a key figure in the "New Generation" of Indian comedy, blending stand-up with chess streaming. He has a significant following and unique genre crossover.
 **Action:** Enriched `comedy-index.json` with Samay Raina's metadata (birth date, location, education, genres, social media). Validated schema.
 
+## 2026-01-15 - Enrichment: Karunesh Talwar, Gaurav Gupta, Atul Khatri
+**Source:** Wikipedia, YouTube, BookMyShow
+**Insight:** Identified key missing Tier 2 comedians from `comedianTargets.md`. Gaurav Gupta (Dentist/Baniya comedy), Karunesh Talwar (Observational/Deadpan), and Atul Khatri (Businessman turned comedian) are significant pillars of the Indian stand-up scene.
+**Action:** Enriched `comedy-index.json` with comprehensive profiles for Karunesh Talwar, Gaurav Gupta, and Atul Khatri, including metadata, social links, and 7 high-quality video clips (clips, crowd work). Validated schema.
