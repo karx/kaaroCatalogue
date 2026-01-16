@@ -14,3 +14,7 @@
 **Insight:** Samay Raina is a key figure in the "New Generation" of Indian comedy, blending stand-up with chess streaming. He has a significant following and unique genre crossover.
 **Action:** Enriched `comedy-index.json` with Samay Raina's metadata (birth date, location, education, genres, social media). Validated schema.
 
+## 2026-01-16 - Enrichment: Amrita Pritam
+**Source:** Wikipedia, Rekhta
+**Insight:** Amrita Pritam is a towering figure in Punjabi literature and a Jnanpith awardee, but was missing from the catalog. Her poem "Ajj Aakhaan Waris Shah Nu" is a seminal text on the Partition.
+**Action:** Enriched `poets-index.json` with Amrita Pritam's profile and 5 major works including "Ajj Aakhaan Waris Shah Nu" and "Pinjar". Validated schema.
