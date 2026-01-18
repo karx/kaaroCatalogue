@@ -14,3 +14,12 @@
 **Insight:** Samay Raina is a key figure in the "New Generation" of Indian comedy, blending stand-up with chess streaming. He has a significant following and unique genre crossover.
 **Action:** Enriched `comedy-index.json` with Samay Raina's metadata (birth date, location, education, genres, social media). Validated schema.
 
+
+## 2026-01-17 - Enrichment: Comedy & Poetry
+**Source:** YouTube, Wikipedia, Rekhta
+**Insight:** Enriched the comedy catalog with several top-tier Indian comedians. Found duplicate entries and hallucinated metadata entities in `comedy-index.json`, which were cleaned up. Added Amrita Pritam to the poetry catalog, filling a gap in Punjabi/Hindi literature.
+**Action:**
+- Enriched comedy catalog with: Varun Grover, Sapan Verma, Atul Khatri, Karunesh Talwar, Gaurav Gupta, Papa CJ, Naveen Richard.
+- Added Amrita Pritam to `poets-index.json`.
+- Deduplicated `comedy-index.json` and removed invalid video references.
+- Validated all schemas.

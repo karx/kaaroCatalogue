@@ -106,6 +106,13 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - Notable: "Thoda Saaf Bol", observational comedy
     - YouTube: @AbhishekUpmanyu
 
+16. **Varun Grover**
+    - Status: ✅ Already in catalog
+    - Language: Hindi
+    - Wikipedia: https://en.wikipedia.org/wiki/Varun_Grover_(writer)
+    - Notable: "All India Rank", Lyricist, Writer
+    - YouTube: @VarunGrover
+
 ## Tier 2: Rising Stars & Regional Acts
 
 ### Regional Language Comedians
@@ -123,17 +130,20 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - YouTube: @aadarmalik
 
 18. **Sumukhi Suresh** (English/Kannada)
+    - Status: ✅ Already in catalog
     - Wikipedia: https://en.wikipedia.org/wiki/Sumukhi_Suresh
     - Language: English
     - Notable: "Behti Naak", actress and comedian
     - YouTube: @sumukhisuresh
 
 19. **Kaneez Surka** (English)
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: Improv specialist, Disgustingly Honest
     - YouTube: @kaneezsurka
 
 20. **Appurv Gupta** (Hindi/English)
+    - Status: ✅ Already in catalog
     - Language: Hindi/English
     - Notable: "Appurv Gupta Live"
     - YouTube: @AppurvGupta
@@ -141,11 +151,13 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 ### New Generation (YouTube/Instagram Focus)
 
 21. **Samay Raina**
+    - Status: ✅ Already in catalog
     - Language: English/Hindi
     - Notable: Chess boxing, India's Got Latent
     - YouTube: @samay_raina
 
 22. **Prashasti Singh**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: Comicstaan winner, Prime Video
     - YouTube: @prashasti
