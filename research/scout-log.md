@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-18 - Enrichment: Odia & Hindi Poets
+**Source:** Wikipedia
+**Insight:** Found a significant gap in Odia literature representation. Enriched the catalog with the "Adi Kabi" (Sarala Das), the "Vyasa Kabi" (Fakir Mohan Senapati), and the "Kavi Samrat" (Upendra Bhanja). Also added Harivansh Rai Bachchan to the Hindi section, filling a major gap in the Chhayavaad/Nayi Kavita movement.
+**Action:**
+- Enriched `poets-index.json` with 4 new poets: Sarala Das, Fakir Mohan Senapati, Upendra Bhanja, Harivansh Rai Bachchan.
+- Added 7 major works including *Sarala Mahabharata*, *Chha Maana Atha Guntha*, and *Madhushala*.
+- Validated schema (legacy errors persisted, new entries valid).
