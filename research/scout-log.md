@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-19 - Enrichment: Bombay School Poets
+**Source:** Wikipedia
+**Insight:** The "Bombay School" of poetry (Indian English) was underrepresented. These poets (Dom Moraes, Arun Kolatkar, Eunice de Souza, Adil Jussawalla, Gieve Patel) represent a crucial modern movement in Indian literature, characterized by skepticism, urban settings, and bilingualism.
+**Action:**
+- Enriched `poets-index.json` with 5 key Bombay School poets.
+- Added major works for each poet (e.g., *Jejuri*, *Serendip*, *Women in Dutch Painting*).
+- Validated schema compliance.
