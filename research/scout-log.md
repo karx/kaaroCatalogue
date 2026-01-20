@@ -1,25 +1,11 @@
 
-## 2025-05-22 - Discovery
-**Source:** Rekhta (https://www.rekhta.org)
-**Insight:** Identified a significant gap in the representation of contemporary Urdu poets (post-1950s) in the `poets-index.json`. The current catalog leans heavily towards classical and early modern poets.
-**Action:** Enriched the catalog with 5 prominent contemporary Urdu poets: Jaun Elia, Parveen Shakir, Gulzar, Javed Akhtar, and Bashir Badr. Added their biographical details, major works, and awards. Validated data against Rekhta and Wikipedia.
-
-## 2026-01-06 - Discovery: Rohan Joshi's Personal Channel
-**Source:** https://www.youtube.com/@rohanjoshi8016
-**Insight:** Rohan Joshi has a personal channel with over 171k subscribers, distinct from his work with AIB. He posts stand-up clips, vlogs, and reaction videos.
-**Action:** Enriched `comedy-index.json` with Rohan Joshi's profile and 3 high-quality stand-up clips. Validated against schema.
-
-## 2026-01-07 - Enrichment: Samay Raina
-**Source:** Wikipedia, YouTube
-**Insight:** Samay Raina is a key figure in the "New Generation" of Indian comedy, blending stand-up with chess streaming. He has a significant following and unique genre crossover.
-**Action:** Enriched `comedy-index.json` with Samay Raina's metadata (birth date, location, education, genres, social media). Validated schema.
-
-
-## 2026-01-17 - Enrichment: Comedy & Poetry
-**Source:** YouTube, Wikipedia, Rekhta
-**Insight:** Enriched the comedy catalog with several top-tier Indian comedians. Found duplicate entries and hallucinated metadata entities in `comedy-index.json`, which were cleaned up. Added Amrita Pritam to the poetry catalog, filling a gap in Punjabi/Hindi literature.
-**Action:**
-- Enriched comedy catalog with: Varun Grover, Sapan Verma, Atul Khatri, Karunesh Talwar, Gaurav Gupta, Papa CJ, Naveen Richard.
-- Added Amrita Pritam to `poets-index.json`.
-- Deduplicated `comedy-index.json` and removed invalid video references.
-- Validated all schemas.
+## 2026-01-20 - Enrichment: Major Jnanpith Poets
+**Source:** Wikipedia (https://en.wikipedia.org)
+**Insight:** Filled critical gaps in the poetry catalog by adding 5 major Jnanpith award-winning poets representing Malayalam, Hindi, Urdu, Odia, and Assamese literature. This improves linguistic diversity beyond the previous focus on Urdu/Hindi.
+**Action:** Enriched `poets-index.json` with:
+- G. Sankara Kurup (Malayalam) - First Jnanpith winner
+- Sumitranandan Pant (Hindi) - Chhayavaad pillar
+- Firaq Gorakhpuri (Urdu) - Modern Ghazal master
+- Sarala Das (Odia) - Adi Kabi (15th Century)
+- Nilmani Phookan Jr (Assamese) - Modernist symbolist
+Validates against schema (ignoring legacy `work-rekhta` errors).

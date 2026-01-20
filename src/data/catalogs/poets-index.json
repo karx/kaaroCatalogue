@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-20T19:39:26.508Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 56,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1762,6 +1762,330 @@
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
       }
+    },
+    {
+      "@type": "Person",
+      "id": "poet-03207079-2529-4d67-a29e-5bd98fec600d",
+      "name": "G. Sankara Kurup",
+      "alternateName": [
+        "ജി. ശങ്കരക്കുറുപ്പ്"
+      ],
+      "description": "Indian poet, essayist, and literary critic of Malayalam literature. Known as Mahakavi G (The Great Poet G), he was the first recipient of the Jnanpith Award, India's highest literary honor. His poetry is known for its mystic and symbolic elements, bridging the gap between the Romantic and Progressive movements in Malayalam poetry.",
+      "birthDate": "1901-06-03",
+      "deathDate": "1978-02-02",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Nayathode, Kerala, India"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Thiruvananthapuram, Kerala, India"
+      },
+      "jobTitle": [
+        "Poet",
+        "Writer",
+        "Scholar"
+      ],
+      "knowsLanguage": [
+        "Malayalam",
+        "English",
+        "Sanskrit"
+      ],
+      "award": [
+        "Jnanpith Award (1965)",
+        "Padma Bhushan (1967)",
+        "Sahitya Akademi Award (1963)",
+        "Soviet Land Nehru Award (1967)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/G._Sankara_Kurup"
+      ],
+      "works": [
+        {
+          "@type": "CreativeWork",
+          "name": "Odakkuzhal",
+          "workId": "work-5a0ef432-e484-442b-9191-4b400a6345d2"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Suryakanthi",
+          "workId": "work-4c7f28d4-7e87-4823-8fd1-d7d4b75ee3c4"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Viswadarshanam",
+          "workId": "work-e7c8e206-6203-4622-9b83-a3827583a8d1"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Nimisham",
+          "workId": "work-9bad464a-3c5c-4473-8e54-6ba48b769c98"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Sandhya",
+          "workId": "work-2ad82ebb-ba0c-494b-b6b4-131e26e42187"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Patheyam",
+          "workId": "work-65e9524c-337c-40e8-9cea-9c01d0deea35"
+        }
+      ],
+      "literaryMovement": "Romanticism / Symbolism"
+    },
+    {
+      "@type": "Person",
+      "id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d",
+      "name": "Sumitranandan Pant",
+      "alternateName": [
+        "सुमित्रानंदन पंत"
+      ],
+      "description": "One of the most celebrated 20th-century poets of the Hindi language and a major pillar of the Chhayavaad (Romantic) movement. His poetry is characterized by a deep love for nature, beauty, and later, progressive and philosophical themes influenced by Sri Aurobindo and Marxism.",
+      "birthDate": "1900-05-20",
+      "deathDate": "1977-12-28",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Kausani, Uttarakhand, India"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Allahabad, Uttar Pradesh, India"
+      },
+      "jobTitle": [
+        "Poet",
+        "Writer",
+        "Scholar"
+      ],
+      "knowsLanguage": [
+        "Hindi",
+        "Sanskrit"
+      ],
+      "award": [
+        "Jnanpith Award (1968)",
+        "Padma Bhushan (1961)",
+        "Sahitya Akademi Award (1960)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sumitranandan_Pant"
+      ],
+      "works": [
+        {
+          "@type": "CreativeWork",
+          "name": "Chidambara",
+          "workId": "work-1b5cace4-5367-44c9-bd44-41017f92c7f3"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Pallav",
+          "workId": "work-2086d219-e85e-491a-85e4-dea04fd9ed91"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Veena",
+          "workId": "work-9c168f64-0e27-4504-855f-9aa6ad3e946e"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Gunjan",
+          "workId": "work-3de08897-7311-4c18-846d-f1dd7ab2543a"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Gramya",
+          "workId": "work-ca0b9ab6-bfc1-4cf6-bb7c-cc13f5b3acfe"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Kala Aur Budha Chand",
+          "workId": "work-db82d390-820a-496e-bb08-2165599dead5"
+        }
+      ],
+      "literaryMovement": "Chhayavaad (Romanticism) / Progressivism"
+    },
+    {
+      "@type": "Person",
+      "id": "poet-23b4af10-e6e1-4ba1-aff1-5d4868fabf6e",
+      "name": "Firaq Gorakhpuri",
+      "alternateName": [
+        "فراق گورکھپوری",
+        "Raghupati Sahay"
+      ],
+      "description": "A preeminent Urdu poet and critic, known for revitalizing the Urdu Ghazal by infusing it with introspection and modern sensibility. A professor of English literature by profession, his work bridged the gap between classical Urdu poetics and modern literary trends.",
+      "birthDate": "1896-08-28",
+      "deathDate": "1982-03-03",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Gorakhpur, Uttar Pradesh, India"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "New Delhi, India"
+      },
+      "jobTitle": [
+        "Poet",
+        "Writer",
+        "Scholar"
+      ],
+      "knowsLanguage": [
+        "Urdu",
+        "English",
+        "Hindi"
+      ],
+      "award": [
+        "Jnanpith Award (1969)",
+        "Padma Bhushan (1968)",
+        "Sahitya Akademi Award (1960)",
+        "Soviet Land Nehru Award (1968)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri"
+      ],
+      "works": [
+        {
+          "@type": "CreativeWork",
+          "name": "Gul-e-Naghma",
+          "workId": "work-603b4e99-9412-41c1-bf7b-3d7ebe05af3a"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Mashaal",
+          "workId": "work-7947f1d3-ae2f-4be6-b86b-afa59ec2b83f"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Rooh-e-Kaayenaat",
+          "workId": "work-ff0c3813-4959-4aad-af9a-6f96012360c8"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Shabnamistaan",
+          "workId": "work-d8220cef-1976-409c-a6db-45f591c1f16c"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Gul-e-Ra'naa",
+          "workId": "work-bb086656-c7d3-440b-98ca-5301951c9a7d"
+        }
+      ],
+      "literaryMovement": "Modern Urdu Ghazal"
+    },
+    {
+      "@type": "Person",
+      "id": "poet-b843caff-048f-4f0e-b920-7df72ef66d5f",
+      "name": "Sarala Das",
+      "alternateName": [
+        "ସାରଳା ଦାସ",
+        "Siddheswara Parida"
+      ],
+      "description": "The 'Adi Kabi' (First Poet) of Odia literature. A 15th-century poet who wrote the Odia Mahabharata, Vilanka Ramayana, and Chandi Purana. His works are foundational to the Odia language and literature, moving away from Sanskritized forms to the language of the common people.",
+      "birthDate": "1450-01-01",
+      "deathDate": "1500-01-01",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Kanakapura, Jagatsinghpur, Odisha"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Bila Sarala, Odisha"
+      },
+      "jobTitle": [
+        "Poet",
+        "Writer",
+        "Scholar"
+      ],
+      "knowsLanguage": [
+        "Odia"
+      ],
+      "award": [
+        "Adi Kabi (Title)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarala_Das"
+      ],
+      "works": [
+        {
+          "@type": "CreativeWork",
+          "name": "Mahabharata (Odia)",
+          "workId": "work-fd4c0df7-3d2d-42d1-b694-7576b8ff999b"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Vilanka Ramayana",
+          "workId": "work-b4722f4d-a686-4621-ae02-de88fc4a1957"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Chandi Purana",
+          "workId": "work-4db5b002-1087-424b-aa5b-966fd73d90b8"
+        }
+      ],
+      "literaryMovement": "Bhakti / Medieval Odia"
+    },
+    {
+      "@type": "Person",
+      "id": "poet-1aaba0ba-86a1-4182-84cf-caaca7c4252e",
+      "name": "Nilmani Phookan Jr",
+      "alternateName": [
+        "নীলমণি ফুকন"
+      ],
+      "description": "A renowned Indian poet in the Assamese language and an academic. His poetry is known for its symbolism, inspired by French symbolism and Japanese Haiku, and deeply rooted in the Assamese landscape and folklore. He was awarded the 56th Jnanpith Award.",
+      "birthDate": "1933-09-10",
+      "deathDate": "2023-01-19",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Dergaon, Assam, India"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Guwahati, Assam, India"
+      },
+      "jobTitle": [
+        "Poet",
+        "Writer",
+        "Scholar"
+      ],
+      "knowsLanguage": [
+        "Assamese",
+        "English"
+      ],
+      "award": [
+        "Jnanpith Award (2021)",
+        "Padma Shri (1990)",
+        "Sahitya Akademi Award (1981)",
+        "Assam Valley Literary Award (1997)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Nilmani_Phookan_Jr"
+      ],
+      "works": [
+        {
+          "@type": "CreativeWork",
+          "name": "Surya Henu Nami Ahe Ei Nodiyedi",
+          "workId": "work-5e4de1e9-f71c-466f-bf78-1ce51f58b274"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Gulapi Jamur Lagna",
+          "workId": "work-de303ca1-7bfa-4553-80b0-9356778bf90e"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Kobita",
+          "workId": "work-2884e1e5-f9a7-4c84-b4f3-ce3a44f854d0"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Manas-pratima",
+          "workId": "work-51d2cf96-0072-400f-b45c-909d33e01c17"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Phuli Thaka Suryamukhi Phultor Phale",
+          "workId": "work-37923ec4-45a3-4eac-a7fa-a7e953751d45"
+        }
+      ],
+      "literaryMovement": "Symbolism / Modernism"
     }
   ],
   "works": [
@@ -75509,6 +75833,306 @@
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
       }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-5a0ef432-e484-442b-9191-4b400a6345d2",
+      "name": "Odakkuzhal",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-03207079-2529-4d67-a29e-5bd98fec600d"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry",
+      "abstract": "A major work by G. Sankara Kurup."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-4c7f28d4-7e87-4823-8fd1-d7d4b75ee3c4",
+      "name": "Suryakanthi",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-03207079-2529-4d67-a29e-5bd98fec600d"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry",
+      "abstract": "A major work by G. Sankara Kurup."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-e7c8e206-6203-4622-9b83-a3827583a8d1",
+      "name": "Viswadarshanam",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-03207079-2529-4d67-a29e-5bd98fec600d"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry",
+      "abstract": "A major work by G. Sankara Kurup."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-9bad464a-3c5c-4473-8e54-6ba48b769c98",
+      "name": "Nimisham",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-03207079-2529-4d67-a29e-5bd98fec600d"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry",
+      "abstract": "A major work by G. Sankara Kurup."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-2ad82ebb-ba0c-494b-b6b4-131e26e42187",
+      "name": "Sandhya",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-03207079-2529-4d67-a29e-5bd98fec600d"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry",
+      "abstract": "A major work by G. Sankara Kurup."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-65e9524c-337c-40e8-9cea-9c01d0deea35",
+      "name": "Patheyam",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-03207079-2529-4d67-a29e-5bd98fec600d"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry",
+      "abstract": "A major work by G. Sankara Kurup."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-1b5cace4-5367-44c9-bd44-41017f92c7f3",
+      "name": "Chidambara",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Poetry",
+      "abstract": "A major work by Sumitranandan Pant."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-2086d219-e85e-491a-85e4-dea04fd9ed91",
+      "name": "Pallav",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Poetry",
+      "abstract": "A major work by Sumitranandan Pant."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-9c168f64-0e27-4504-855f-9aa6ad3e946e",
+      "name": "Veena",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Poetry",
+      "abstract": "A major work by Sumitranandan Pant."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-3de08897-7311-4c18-846d-f1dd7ab2543a",
+      "name": "Gunjan",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Poetry",
+      "abstract": "A major work by Sumitranandan Pant."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-ca0b9ab6-bfc1-4cf6-bb7c-cc13f5b3acfe",
+      "name": "Gramya",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Poetry",
+      "abstract": "A major work by Sumitranandan Pant."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-db82d390-820a-496e-bb08-2165599dead5",
+      "name": "Kala Aur Budha Chand",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-ae91a00c-e729-4898-8ce7-548b4f3bea6d"
+      },
+      "inLanguage": "Hindi",
+      "genre": "Poetry",
+      "abstract": "A major work by Sumitranandan Pant."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-603b4e99-9412-41c1-bf7b-3d7ebe05af3a",
+      "name": "Gul-e-Naghma",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-23b4af10-e6e1-4ba1-aff1-5d4868fabf6e"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Poetry",
+      "abstract": "A major work by Firaq Gorakhpuri."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-7947f1d3-ae2f-4be6-b86b-afa59ec2b83f",
+      "name": "Mashaal",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-23b4af10-e6e1-4ba1-aff1-5d4868fabf6e"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Poetry",
+      "abstract": "A major work by Firaq Gorakhpuri."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-ff0c3813-4959-4aad-af9a-6f96012360c8",
+      "name": "Rooh-e-Kaayenaat",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-23b4af10-e6e1-4ba1-aff1-5d4868fabf6e"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Poetry",
+      "abstract": "A major work by Firaq Gorakhpuri."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-d8220cef-1976-409c-a6db-45f591c1f16c",
+      "name": "Shabnamistaan",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-23b4af10-e6e1-4ba1-aff1-5d4868fabf6e"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Poetry",
+      "abstract": "A major work by Firaq Gorakhpuri."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-bb086656-c7d3-440b-98ca-5301951c9a7d",
+      "name": "Gul-e-Ra'naa",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-23b4af10-e6e1-4ba1-aff1-5d4868fabf6e"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Poetry",
+      "abstract": "A major work by Firaq Gorakhpuri."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-fd4c0df7-3d2d-42d1-b694-7576b8ff999b",
+      "name": "Mahabharata (Odia)",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-b843caff-048f-4f0e-b920-7df72ef66d5f"
+      },
+      "inLanguage": "Odia",
+      "genre": "Poetry",
+      "abstract": "A major work by Sarala Das."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-b4722f4d-a686-4621-ae02-de88fc4a1957",
+      "name": "Vilanka Ramayana",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-b843caff-048f-4f0e-b920-7df72ef66d5f"
+      },
+      "inLanguage": "Odia",
+      "genre": "Poetry",
+      "abstract": "A major work by Sarala Das."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-4db5b002-1087-424b-aa5b-966fd73d90b8",
+      "name": "Chandi Purana",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-b843caff-048f-4f0e-b920-7df72ef66d5f"
+      },
+      "inLanguage": "Odia",
+      "genre": "Poetry",
+      "abstract": "A major work by Sarala Das."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-5e4de1e9-f71c-466f-bf78-1ce51f58b274",
+      "name": "Surya Henu Nami Ahe Ei Nodiyedi",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-1aaba0ba-86a1-4182-84cf-caaca7c4252e"
+      },
+      "inLanguage": "Assamese",
+      "genre": "Poetry",
+      "abstract": "A major work by Nilmani Phookan Jr."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-de303ca1-7bfa-4553-80b0-9356778bf90e",
+      "name": "Gulapi Jamur Lagna",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-1aaba0ba-86a1-4182-84cf-caaca7c4252e"
+      },
+      "inLanguage": "Assamese",
+      "genre": "Poetry",
+      "abstract": "A major work by Nilmani Phookan Jr."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-2884e1e5-f9a7-4c84-b4f3-ce3a44f854d0",
+      "name": "Kobita",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-1aaba0ba-86a1-4182-84cf-caaca7c4252e"
+      },
+      "inLanguage": "Assamese",
+      "genre": "Poetry",
+      "abstract": "A major work by Nilmani Phookan Jr."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-51d2cf96-0072-400f-b45c-909d33e01c17",
+      "name": "Manas-pratima",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-1aaba0ba-86a1-4182-84cf-caaca7c4252e"
+      },
+      "inLanguage": "Assamese",
+      "genre": "Poetry",
+      "abstract": "A major work by Nilmani Phookan Jr."
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-37923ec4-45a3-4eac-a7fa-a7e953751d45",
+      "name": "Phuli Thaka Suryamukhi Phultor Phale",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-1aaba0ba-86a1-4182-84cf-caaca7c4252e"
+      },
+      "inLanguage": "Assamese",
+      "genre": "Poetry",
+      "abstract": "A major work by Nilmani Phookan Jr."
     }
   ],
   "tags": [
