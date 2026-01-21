@@ -23,3 +23,14 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-21 - Enrichment: Vir Das & Data Integrity
+**Source:** YouTube API
+**Insight:** Found data integrity issues in `comedy-index.json` (orphan videos, existing comedians skipped by enrichment script). Also discovered "Vicky Roy" entry was a name collision with a photographer.
+**Action:**
+- Fixed `enrich-comedy-catalogue.js` to correctly handle existing comedians.
+- Enriched Vir Das with 20 videos.
+- Fixed 116 orphan videos (re-linked to Karunesh Talwar, Gaurav Gupta, etc.).
+- Deduplicated catalog (removed ~116 duplicate videos).
+- Removed "Vicky Roy" and other invalid entities.
+- Validated schema and quality.

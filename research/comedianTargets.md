@@ -184,11 +184,7 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - Language: English
     - Notable: International touring comedian, Edinburgh Fringe
 
-27. **Vicky Roy**
-    - Language: Hindi
-    - Notable: Royal Stag Mirchi promoted artist
-
-28. **Naveen Richard**
+27. **Naveen Richard**
     - Language: English
     - Notable: Character comedy, Better Life Foundation
     - YouTube: @NaveenRichard
@@ -231,11 +227,11 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 - Character/Sketch-hybrid: Naveen Richard, Sumukhi Suresh
 
 ### Data Priorities
-1. **Comprehensive metadata**: Birth date, hometown, education, career start
-2. **Video discovery**: Minimum 5-10 videos per comedian
-3. **Social links**: YouTube, Instagram, Twitter
-4. **Notable works**: Specials, viral videos, albums
-5. **Platform presence**: Netflix, Amazon Prime, YouTube
+- **Comprehensive metadata**: Birth date, hometown, education, career start
+- **Video discovery**: Minimum 5-10 videos per comedian
+- **Social links**: YouTube, Instagram, Twitter
+- **Notable works**: Specials, viral videos, albums
+- **Platform presence**: Netflix, Amazon Prime, YouTube
 
 ## Enrichment Process Checklist
 

@@ -110,7 +110,7 @@ async function enrichComedian(target, catalog) {
         e.name.toLowerCase() === target.name.toLowerCase()
     );
 
-    if (existing && target.status === 'exists') {
+    if (existing) {
         console.log(`  ℹ️  Already in catalog as ${existing.entityId}`);
 
         // Still try to add videos if missing
@@ -121,6 +121,16 @@ async function enrichComedian(target, catalog) {
         if (existingVideos.length < 5) {
             console.log(`  🔍 Discovering videos (only ${existingVideos.length} found)...`);
             await enrichVideos(existing, catalog, target);
+
+            // Save after enriching videos
+            catalog.metadata.totalVideos = (catalog.videos || []).length;
+            catalog.updatedAt = new Date().toISOString();
+
+            return {
+                status: 'success',
+                reason: 'enriched videos',
+                entityId: existing.entityId
+            };
         }
 
         return {
@@ -188,10 +198,8 @@ async function enrichComedian(target, catalog) {
         }
 
         // Step 3: Add to catalog
-        if (!existing) {
-            catalog.entities.push(result.comedian);
-            console.log(`  ➕ Added to entities`);
-        }
+        catalog.entities.push(result.comedian);
+        console.log(`  ➕ Added to entities`);
 
         // Step 4: Add videos to catalog
         if (!catalog.videos) {
@@ -326,11 +334,10 @@ async function enrichAll(options = {}) {
         const targets = await parseTargetComedians();
 
         // Filter out those that already exist (unless force option)
-        const toEnrich = options.force
-            ? targets
-            : targets.filter(t => t.status !== 'exists');
+        // We now iterate everyone to check for missing videos, unless explicitly filtered by limit
+        const toEnrich = targets;
 
-        console.log(`Found ${targets.length} total, ${toEnrich.length} to enrich`);
+        console.log(`Found ${targets.length} total targets`);
 
         if (toEnrich.length === 0) {
             console.log('\n✨ Nothing to enrich!');

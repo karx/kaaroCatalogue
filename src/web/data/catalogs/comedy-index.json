@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T20:01:03.699Z",
+  "updatedAt": "2026-01-21T19:54:30.790Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -15,7 +15,7 @@
     ],
     "totalEntities": 33,
     "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 504
+    "totalVideos": 548
   },
   "entities": [
     {
@@ -10116,6 +10116,778 @@
       "genre": "Clip",
       "description": "",
       "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofm0vu-5f90z",
+      "name": "EY( ERNST AND YOUNG)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq2qur-2pw8o"
+      },
+      "duration": "PT1M55S",
+      "embedUrl": "https://www.youtube.com/embed/lkkY0zoEBf0",
+      "contentUrl": "https://www.youtube.com/watch?v=lkkY0zoEBf0",
+      "uploadDate": "2025-05-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lkkY0zoEBf0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Gaurav Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofm0vu-q99bu",
+      "name": "FINE DINING RESTAURANTS | Stand up comedy by Gaurav Gupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq2qur-2pw8o"
+      },
+      "duration": "PT4M29S",
+      "embedUrl": "https://www.youtube.com/embed/DcXOMLWe5FE",
+      "contentUrl": "https://www.youtube.com/watch?v=DcXOMLWe5FE",
+      "uploadDate": "2018-03-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DcXOMLWe5FE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This stand-up comedy video describes the funny incidents and experiences in so called Fine Dining restaurants.\n\nVenue and production:   Canvas Laugh Club, Gurgaon\n\nEdited by:   Akshit Arora\n\nWritten and performed by: Gaurav Gupta\n\nSpecial thanks: Ankita Jhalani\n\nFor bookings and show queries: email ",
+      "channelTitle": "Gaurav Gupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofm459-fhik8",
+      "name": "My Bucket List | Stand-up comedy by Atul Khatri",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq2u6o-5r6z2"
+      },
+      "duration": "PT6M4S",
+      "embedUrl": "https://www.youtube.com/embed/akklWUVk5LI",
+      "contentUrl": "https://www.youtube.com/watch?v=akklWUVk5LI",
+      "uploadDate": "2024-10-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/akklWUVk5LI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "I'm 56 and trying to tick off things from my bucket list..\n\nThis is the 4th video from my \"Daddy Kool\" show which I took it across the world last year. More videos will be coming soon..\n\nNow touring India with my new show. All tickets on atulkhatri.com \n\nFollow me on:\nTwitter: @one_by_two\nInstagram:",
+      "channelTitle": "Atul Khatri",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofm459-6zuaa",
+      "name": "Atul Khatri on Sindhi Punjabi marriages",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq2u6o-5r6z2"
+      },
+      "duration": "PT5M1S",
+      "embedUrl": "https://www.youtube.com/embed/M8smtBZEKJ0",
+      "contentUrl": "https://www.youtube.com/watch?v=M8smtBZEKJ0",
+      "uploadDate": "2017-09-14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M8smtBZEKJ0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Atul Khatri a Sindhi talks about his marriage to a Punjabi\n\nFollow him on:\nTwitter: @one_by_two\nInstagram:@one_by_two\nFacebook.com/hornysindhi\nSnapchat: @hornysindhi",
+      "channelTitle": "Atul Khatri",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmdlo-ejm57",
+      "name": "what did you do when you finished your exam too early?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq33ol-pui2p"
+      },
+      "duration": "PT40S",
+      "embedUrl": "https://www.youtube.com/embed/TX4W5-B1G14",
+      "contentUrl": "https://www.youtube.com/watch?v=TX4W5-B1G14",
+      "uploadDate": "2024-06-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TX4W5-B1G14/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Naveen Richard",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-4w0nq",
+      "name": "SKI JUMPERS ARE INJECTING WHAT IN THEIR *WHAT*? #olympics #skiing",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT2M45S",
+      "embedUrl": "https://www.youtube.com/embed/RvPyOE9qV8A",
+      "contentUrl": "https://www.youtube.com/watch?v=RvPyOE9qV8A",
+      "uploadDate": "2026-01-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RvPyOE9qV8A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-gqgsd",
+      "name": "🔴 Isolation Stream #1: Solving The NYT Crossword for funzies",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H13S",
+      "embedUrl": "https://www.youtube.com/embed/Z2xymqJwrI0",
+      "contentUrl": "https://www.youtube.com/watch?v=Z2xymqJwrI0",
+      "uploadDate": "2021-07-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z2xymqJwrI0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "I've been obsessed with the NYT Crossword for the last two weeks. I'm not great, but I still spend way too much time on the damn thing, so now you must waste it with me. This is the way.",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-h5msq",
+      "name": "Spiderman Miles Morales #1",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT52M6S",
+      "embedUrl": "https://www.youtube.com/embed/CAmVm9x6dw4",
+      "contentUrl": "https://www.youtube.com/watch?v=CAmVm9x6dw4",
+      "uploadDate": "2021-10-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CAmVm9x6dw4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Spider-Man but not Peter Parker! Playstation but not 4! NOW WITH 100 % MOAR FACECAM\n\n(“Ohh but Rohan you played this before” yeah that was on the PS4 and it looked awful and ran nothing like it’s running here and now I have Facecam so hey hey hey)\n\nPS: working on possible stream quality issues becau",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-qu1ft",
+      "name": "WENT TO AMSTERDAM. IT WAS... A TRIP? VLOG 1",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT6M5S",
+      "embedUrl": "https://www.youtube.com/embed/N0n0Au9_zWg",
+      "contentUrl": "https://www.youtube.com/watch?v=N0n0Au9_zWg",
+      "uploadDate": "2022-05-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N0n0Au9_zWg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hi! This is my first vlog. I've never done this before, so pls excuse the fact that this has been cobbled together out of limited footage. Hopefully they just get better and better from here. Pls leave any constructive feedback in the comments. \n\nAlso, go to Amsterdam. It's amazing.\n\nEdited by the b",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-pvdwi",
+      "name": "The Batman Trailer Discussion",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H17M40S",
+      "embedUrl": "https://www.youtube.com/embed/QY__voC9mGs",
+      "contentUrl": "https://www.youtube.com/watch?v=QY__voC9mGs",
+      "uploadDate": "2020-08-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QY__voC9mGs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Tejas Menon, Sahil Shah, Ashish Shakya and I chat about all things Batman, and of course, that new trailer",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-rjdi2",
+      "name": "🔴 30 Questions with Sapan Verma, Atul Khatri and Abish Mathew (special appearance by @tanmaybhat)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H27M27S",
+      "embedUrl": "https://www.youtube.com/embed/fCViGYTHr2Q",
+      "contentUrl": "https://www.youtube.com/watch?v=fCViGYTHr2Q",
+      "uploadDate": "2021-10-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fCViGYTHr2Q/hqdefault.jpg",
+      "genre": "Stand-Up Special",
+      "description": "On this episode of 30 Questions, ace comics and friends Sapan Verma, Atul Khatri, Abish Mathew join us to talk about the upcoming season of One Mic Stand, mentoring celebrities, teaching n00bs stand-up, and a bunch of other fun things. \n\nAnd then @tanmaybhat drops in and a Merry time is had by allll",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-2b6ro",
+      "name": "🔴 TIME TO LEARN CHESS? feat. @SamayRainaOfficial",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H35M27S",
+      "embedUrl": "https://www.youtube.com/embed/BGP7Q3S9cD0",
+      "contentUrl": "https://www.youtube.com/watch?v=BGP7Q3S9cD0",
+      "uploadDate": "2021-11-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BGP7Q3S9cD0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "@SamayRainaOfficial brings his considerable skill to bear while giving me a crash course in chess as we take on some chess.com bots. Time for my unskilled ass to learn some new things I guess. \n\n(Extra special shout-out to Samay for doing this. It's very kind of him)",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-q1kjy",
+      "name": "🔴 THE CROSSWORD EPISODE 4 FEAT ASHISH SHAKYA",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT58M41S",
+      "embedUrl": "https://www.youtube.com/embed/8VQ_o6MLe_A",
+      "contentUrl": "https://www.youtube.com/watch?v=8VQ_o6MLe_A",
+      "uploadDate": "2021-10-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8VQ_o6MLe_A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Shaks and I solve the crossword. Or, more accurately, Shaks and I try and solve the crossword while chat screams out the answers ages before we figure it out, and we look stupid. Either way, it's good fun.",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-ca71d",
+      "name": "🔴 THE CROSSWORD EPISODE 3 FEAT ASHISH SHAKYA",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H2M39S",
+      "embedUrl": "https://www.youtube.com/embed/hU8WInV9Og4",
+      "contentUrl": "https://www.youtube.com/watch?v=hU8WInV9Og4",
+      "uploadDate": "2021-10-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hU8WInV9Og4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Join Ashish Shakya and I as we solve the NYT Crossword (but like one of the easy ones) online. I'm sure it'll be as thrilling as it sounds. If things get mad hardcore, we may even do a spelling bee",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-2j7tq",
+      "name": "CHECK THIS OUT IF YOU LOVED SQUID GAME | Rohan Recommends Episode 2",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT8M4S",
+      "embedUrl": "https://www.youtube.com/embed/8Tf9HdKrhBE",
+      "contentUrl": "https://www.youtube.com/watch?v=8Tf9HdKrhBE",
+      "uploadDate": "2021-10-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8Tf9HdKrhBE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "So you loved Squid Game? Good thing there's no dearth of anti-cap, ultra-violent dystopian stuff out there to read, watch and play. If you enjoy this, please share it, please like, please subscribe. \n\nALSO, if there are any other shows or movies that you loved that remind you of Squid Game, please l",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-5whih",
+      "name": "VLOG 2: ROHAN AND @KumarVarunOfficial GO TO COMIC CON FOR THE RINGS OF POWER!!!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT10M26S",
+      "embedUrl": "https://www.youtube.com/embed/0iEzsXh-niU",
+      "contentUrl": "https://www.youtube.com/watch?v=0iEzsXh-niU",
+      "uploadDate": "2022-08-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0iEzsXh-niU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Amazon Prime Video invited me over to the motherlode of alllll things pop culture, San Diego Comic Con, aka SDCC to check out the Rings of Power trailer and it was such an epic weekend!\n#TheRingsOfPower @PrimeVideoIN",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-rvyyq",
+      "name": "🔴 30 Questions Episode 3 (with Ashish Shakya and Kumar Varun)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H32M54S",
+      "embedUrl": "https://www.youtube.com/embed/xqFcLmUEbfw",
+      "contentUrl": "https://www.youtube.com/watch?v=xqFcLmUEbfw",
+      "uploadDate": "2020-11-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xqFcLmUEbfw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Ashish Shakya and I hang out with comedian, actor, random person and quizmaster extraordinaire Kumar Varun. The rules are simple. We can't leave until we answer 30 questions (yes it used to be fifty, and yes those were too many).",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-o97ln",
+      "name": "🔴 50 Questions Episode 1 (with Ashish Shakya and Tanmay Bhat)",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H17M59S",
+      "embedUrl": "https://www.youtube.com/embed/awTKpA-qeig",
+      "contentUrl": "https://www.youtube.com/watch?v=awTKpA-qeig",
+      "uploadDate": "2020-10-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/awTKpA-qeig/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Ashish Shakya and I hang out. The rules are simple. We can't leave until we answer 50 questions. Oh, also, Tanmay drops in!",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-j1f0v",
+      "name": "🔴DAS WHAT I'M TALKING ABOUT! 30 Questions with @virdas",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H19M6S",
+      "embedUrl": "https://www.youtube.com/embed/tibjHTyxpuE",
+      "contentUrl": "https://www.youtube.com/watch?v=tibjHTyxpuE",
+      "uploadDate": "2022-02-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tibjHTyxpuE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Vir Das is one of India's most successful comedians, and an international comedic star. He's also one of the most hardworking, disciplined, multi-talented people I know, and I'm thrilled to sit down with him for a chat. So have your questions ready!",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-gy2n8",
+      "name": "🔴 Uncharted: Among Thieves Playthrough #1",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H52M29S",
+      "embedUrl": "https://www.youtube.com/embed/YJaKAM93O-E",
+      "contentUrl": "https://www.youtube.com/watch?v=YJaKAM93O-E",
+      "uploadDate": "2021-09-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YJaKAM93O-E/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Among Thieves is my favourite game in the world. This does not mean or imply that I am good at it. I'm still looking forward to replaying it though. Also, rejoice, we have facecam now.",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-fm1q2",
+      "name": "🔴 THE CROSSWORD EPISODE 10 Feat @Sahil Shah",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT1H9M32S",
+      "embedUrl": "https://www.youtube.com/embed/XVTIrvrClk8",
+      "contentUrl": "https://www.youtube.com/watch?v=XVTIrvrClk8",
+      "uploadDate": "2022-01-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XVTIrvrClk8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New week, same us, new crossword. \n\n@SahilShahcomedy and I solve the Crossword. Or well, Pishvi gang solves the crossword and we take the credit.",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmgvy-9kx99",
+      "name": "Marvel's Kevin Feige on Shang Chi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk2k8xhj-rojo1"
+      },
+      "duration": "PT3M28S",
+      "embedUrl": "https://www.youtube.com/embed/Sppeu3ZSfsM",
+      "contentUrl": "https://www.youtube.com/watch?v=Sppeu3ZSfsM",
+      "uploadDate": "2021-09-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sppeu3ZSfsM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "A few days ago, an aspiring young filmmaker named Kevin Feige got in touch to chat about their upcoming student film \"Shang Chi and the Legend of the Ten Rings\". They seem like a really chill person, so good luck for the film and for your future, Kevin. I hope your dream of making an \"emseeyou\" (wha",
+      "channelTitle": "Rohan Joshi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmk07-0r8dn",
+      "name": "Worst Amsterdam Experience | Sapan Verma | Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq39zs-l5so3"
+      },
+      "duration": "PT11M7S",
+      "embedUrl": "https://www.youtube.com/embed/aZE2xVgwJyQ",
+      "contentUrl": "https://www.youtube.com/watch?v=aZE2xVgwJyQ",
+      "uploadDate": "2026-01-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aZE2xVgwJyQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "hello, please enjoy this story from my Amsterdam trip a few years ago :)  also please take these as jokes and don't do dr*gs or anything illegal that puts me in trouble.   \n\nTickets on https://www.sapanverma.in/tickets\n\nFollow me on Instagram for more jokes and live show updates:  https://www.instag",
+      "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofmk07-ymt65",
+      "name": "Zepto Blinkit Instamart need to stop #standupcomedy #sapanverma",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkiq39zs-l5so3"
+      },
+      "duration": "PT53S",
+      "embedUrl": "https://www.youtube.com/embed/lk-ytvzqmH0",
+      "contentUrl": "https://www.youtube.com/watch?v=lk-ytvzqmH0",
+      "uploadDate": "2025-05-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lk-ytvzqmH0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-nsu8i",
+      "name": "JOKES FOR WOKE AND OFFENDED PEOPLE | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT4M9S",
+      "embedUrl": "https://www.youtube.com/embed/qargQ-VkyL8",
+      "contentUrl": "https://www.youtube.com/watch?v=qargQ-VkyL8",
+      "uploadDate": "2020-04-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qargQ-VkyL8/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-di8nn",
+      "name": "ARE YOU INDIAN ENOUGH? Or Western? | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT3M54S",
+      "embedUrl": "https://www.youtube.com/embed/UToMbYMuXWU",
+      "contentUrl": "https://www.youtube.com/watch?v=UToMbYMuXWU",
+      "uploadDate": "2023-01-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UToMbYMuXWU/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-rnqd3",
+      "name": "INDIANS ARE RACIST-ISH | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT5M",
+      "embedUrl": "https://www.youtube.com/embed/xU-zhajzad4",
+      "contentUrl": "https://www.youtube.com/watch?v=xU-zhajzad4",
+      "uploadDate": "2017-06-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xU-zhajzad4/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-ypam6",
+      "name": "Vir Das | I COME FROM TWO INDIAS",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT6M54S",
+      "embedUrl": "https://www.youtube.com/embed/5A-F9qu6c_4",
+      "contentUrl": "https://www.youtube.com/watch?v=5A-F9qu6c_4",
+      "uploadDate": "2021-11-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5A-F9qu6c_4/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-9re74",
+      "name": "IS THE WEST MORE PRIVILEGED? | #TenOnTen | EP. 3 | Vir Das",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT10M55S",
+      "embedUrl": "https://www.youtube.com/embed/qhTufX7qGsw",
+      "contentUrl": "https://www.youtube.com/watch?v=qhTufX7qGsw",
+      "uploadDate": "2021-03-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qhTufX7qGsw/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-5yb1d",
+      "name": "WHAT IS FREEDOM OF SPEECH? | #TenOnTen | Vir Das | EP. 2",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT16M27S",
+      "embedUrl": "https://www.youtube.com/embed/CQbm8XKi_xw",
+      "contentUrl": "https://www.youtube.com/watch?v=CQbm8XKi_xw",
+      "uploadDate": "2021-02-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CQbm8XKi_xw/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-051fn",
+      "name": "Dreams of Sorbet | Vir Das: Landing #standupcomedy #jokes #funny",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT56S",
+      "embedUrl": "https://www.youtube.com/embed/8rE5PSLJOYY",
+      "contentUrl": "https://www.youtube.com/watch?v=8rE5PSLJOYY",
+      "uploadDate": "2023-11-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8rE5PSLJOYY/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-z96gr",
+      "name": "Air India  |  Abroad Understanding",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT56S",
+      "embedUrl": "https://www.youtube.com/embed/9cir918vG7s",
+      "contentUrl": "https://www.youtube.com/watch?v=9cir918vG7s",
+      "uploadDate": "2022-09-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9cir918vG7s/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-0xazo",
+      "name": "BROTHER vs OTHER | #TenOnTen | EP. 6 | Vir Das",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT15M2S",
+      "embedUrl": "https://www.youtube.com/embed/3cmwaxxCfx8",
+      "contentUrl": "https://www.youtube.com/watch?v=3cmwaxxCfx8",
+      "uploadDate": "2023-07-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3cmwaxxCfx8/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp6-8yqew",
+      "name": "WHERE MY BENGALIS AT? | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT6M42S",
+      "embedUrl": "https://www.youtube.com/embed/Wy35A85Rya4",
+      "contentUrl": "https://www.youtube.com/watch?v=Wy35A85Rya4",
+      "uploadDate": "2022-08-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wy35A85Rya4/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-jmzey",
+      "name": "SOUNDS OF INDIA | Vir Das | Trailer",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT1M51S",
+      "embedUrl": "https://www.youtube.com/embed/qcAx14IELsk",
+      "contentUrl": "https://www.youtube.com/watch?v=qcAx14IELsk",
+      "uploadDate": "2025-09-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qcAx14IELsk/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-jhliz",
+      "name": "JOKES FOR THE DEAD | #TenOnTen | EP. 4 | Vir Das",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT20M50S",
+      "embedUrl": "https://www.youtube.com/embed/gDkFz36OF8s",
+      "contentUrl": "https://www.youtube.com/watch?v=gDkFz36OF8s",
+      "uploadDate": "2021-05-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gDkFz36OF8s/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-gcr7o",
+      "name": "200 years of oppression for this?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/2pIECaL1-aw",
+      "contentUrl": "https://www.youtube.com/watch?v=2pIECaL1-aw",
+      "uploadDate": "2022-08-06",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2pIECaL1-aw/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-dolrd",
+      "name": "WHY CAN'T AMERICANS BUILD HEAVIER HOUSES??? | Vir Das | Stand-Up",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT45S",
+      "embedUrl": "https://www.youtube.com/embed/ydP8if93ciM",
+      "contentUrl": "https://www.youtube.com/watch?v=ydP8if93ciM",
+      "uploadDate": "2023-11-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ydP8if93ciM/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-9taxa",
+      "name": "BEAUTY LIES | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT8M46S",
+      "embedUrl": "https://www.youtube.com/embed/wBBZ_5Txf7Y",
+      "contentUrl": "https://www.youtube.com/watch?v=wBBZ_5Txf7Y",
+      "uploadDate": "2022-10-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wBBZ_5Txf7Y/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-woln8",
+      "name": "TRIBALISM & CANCEL CULTURE VS COMEDY | #TenOnTen | EP. 5 | Vir Das",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT19M47S",
+      "embedUrl": "https://www.youtube.com/embed/ZW_vjRpXS7w",
+      "contentUrl": "https://www.youtube.com/watch?v=ZW_vjRpXS7w",
+      "uploadDate": "2021-08-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZW_vjRpXS7w/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-yrc5l",
+      "name": "SEE YOU OUTSIDE | A Quarantine Song | Vir Das",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT3M27S",
+      "embedUrl": "https://www.youtube.com/embed/UqpHeuYg0ak",
+      "contentUrl": "https://www.youtube.com/watch?v=UqpHeuYg0ak",
+      "uploadDate": "2020-03-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UqpHeuYg0ak/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-seipt",
+      "name": "What Britain Taught Us | Vir Das: Abroad Understanding #comedy #standupcomedy  #comedian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT42S",
+      "embedUrl": "https://www.youtube.com/embed/yYKsmgVlihg",
+      "contentUrl": "https://www.youtube.com/watch?v=yYKsmgVlihg",
+      "uploadDate": "2023-10-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yYKsmgVlihg/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-wmnkz",
+      "name": "WHAT WERE INDIA'S GREATEST BATTLES? | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT5M26S",
+      "embedUrl": "https://www.youtube.com/embed/2pEjUUU4F_0",
+      "contentUrl": "https://www.youtube.com/watch?v=2pEjUUU4F_0",
+      "uploadDate": "2022-01-25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2pEjUUU4F_0/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkofwkp7-suasp",
+      "name": "HOW TO UNITE SOCIAL MEDIA | Vir Das | Stand-Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-003"
+      },
+      "duration": "PT11M36S",
+      "embedUrl": "https://www.youtube.com/embed/QdNuwZHDiM8",
+      "contentUrl": "https://www.youtube.com/watch?v=QdNuwZHDiM8",
+      "uploadDate": "2022-07-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QdNuwZHDiM8/hqdefault.jpg",
+      "genre": "Clip",
+      "channelTitle": "Vir Das COMEDY",
       "aggregatorChannel": null
     }
   ],
