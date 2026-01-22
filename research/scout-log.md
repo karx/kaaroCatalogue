@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-22 - Enrichment: Urdu Poetry
+**Source:** Rekhta, Wikipedia
+**Insight:** Firaq Gorakhpuri (Jnanpith Winner) was missing from the catalog. Client-side rendering on Rekhta makes programmatic discovery of works challenging without browser automation.
+**Action:**
+- Enriched `poets-index.json` with Firaq Gorakhpuri's profile.
+- Added "Gul-e-Naghma" (Magnum Opus) and the famous ghazal "Bahut pahle se un qadmon ki aahat jaan lete hain" with bilingual content.
+- Validated schema.

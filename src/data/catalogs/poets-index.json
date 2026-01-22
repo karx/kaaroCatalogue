@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-22T19:43:39.687Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 52,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1761,6 +1761,59 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-firaq-36daf565",
+      "name": "Firaq Gorakhpuri",
+      "alternateName": [
+        "Raghupati Sahay"
+      ],
+      "additionalType": "Kavi",
+      "birthDate": "1896-08-28",
+      "deathDate": "1982-03-03",
+      "knowsLanguage": "Urdu, Hindi, English",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Allahabad, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Critic, Lecturer"
+      },
+      "award": [
+        "Jnanpith Award (1969)",
+        "Sahitya Akademi Award (1960)",
+        "Padma Bhushan (1968)",
+        "Sahitya Akademi Fellowship (1970)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri",
+        "https://www.rekhta.org/poets/firaq-gorakhpuri/profile"
+      ],
+      "keywords": [
+        "Ghazal",
+        "Nazm",
+        "Rubai",
+        "Jnanpith",
+        "Modern Urdu Poetry",
+        "Romanticism"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Progressive Writers Movement",
+      "abstract": "Raghupati Sahay, better known as Firaq Gorakhpuri, was one of the most celebrated contemporary Urdu poets. A lecturer in English literature, his poetry is marked by a deep understanding of human psychology, nature, and a unique synthesis of Urdu and Hindi cultural ethos. He paved the way for the modern Urdu ghazal.",
+      "majorWorks": [
+        "Gul-e-Naghma",
+        "Roohe-Kayanaat",
+        "Rup",
+        "Shabnamistan"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri",
+        "retrievedAt": "2026-01-22T19:43:39.608Z"
       }
     }
   ],
@@ -75508,6 +75561,56 @@
         "name": "Academy of the Punjab in North America",
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-10fef5d6-cefb-4764-810d-b22141b994d2",
+      "name": "Gul-e-Naghma",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-firaq-36daf565"
+      },
+      "inLanguage": "Urdu",
+      "dateCreated": "1959",
+      "genre": "Poetry Collection",
+      "abstract": "His magnum opus, a collection of poems that earned him the Jnanpith Award and the Sahitya Akademi Award. It represents a zenith of his poetic career, blending classical richness with modern sensibility.",
+      "keywords": [
+        "Jnanpith",
+        "Ghazal",
+        "Nazm"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri",
+        "retrievedAt": "2026-01-22T19:43:39.608Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-71748c86-6178-4b55-82ce-7ca8ad608bbe",
+      "name": "Bahut pahle se un qadmon ki aahat jaan lete hain",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-firaq-36daf565"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "A famous ghazal exploring the deep, intuitive connection between the poet and Life itself.",
+      "content": {
+        "original": "بہت پہلے سے ان قدموں کی آہٹ جان لیتے ہیں\nتجھے اے زندگی ہم دور سے پہچان لیتے ہیں",
+        "transliteration": "Bahut pahle se un qadmon ki aahat jaan lete hain\nTujhe ai zindagi hum dur se pahchan lete hain",
+        "translation": "Long before your arrival, I recognize the sound of your footsteps\nO Life, I recognize you from afar"
+      },
+      "keywords": [
+        "Ghazal",
+        "Life",
+        "Intuition"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/ghazals/bahut-pahle-se-un-qadmon-kii-aahat-jaan-lete-hain-firaq-gorakhpuri-ghazals",
+        "retrievedAt": "2026-01-22T19:43:39.608Z"
       }
     }
   ],
