@@ -23,3 +23,12 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-23 - Enrichment: Urooj Ashfaq & Anirban Dasgupta
+**Source:** Wikipedia, YouTube
+**Insight:** Enriched the comedy catalog with two prominent Indian comedians. Urooj Ashfaq recently won the Best Newcomer award at the Edinburgh Comedy Awards 2023. Anirban Dasgupta has a popular special "Take It Easy" on Amazon Prime.
+**Action:**
+- Enriched comedy catalog with: Urooj Ashfaq and Anirban Dasgupta.
+- Added 20 videos for each.
+- Fixed a bug in `enrich-comedy-catalogue.js` (via data correction) where markdown headers were being parsed as comedian targets.
+- Validated schemas.

@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T20:01:03.699Z",
+  "updatedAt": "2026-01-23T20:04:00.794Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -13,9 +13,9 @@
       "Netflix is a Joke",
       "Dry Bar Comedy"
     ],
-    "totalEntities": 33,
+    "totalEntities": 35,
     "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 504
+    "totalVideos": 544
   },
   "entities": [
     {
@@ -1052,6 +1052,98 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sapan_Verma",
         "retrievedAt": "2026-01-17T19:51:10.936Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mkrb5ldz-gme39",
+      "name": "Urooj Ashfaq",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "1995-08-24",
+      "knowsLanguage": "en, hi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [
+        "Best Newcomer, Edinburgh Comedy Awards 2023"
+      ],
+      "genre": [
+        "observational",
+        "storytelling"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Urooj_Ashfaq",
+        "https://www.youtube.com/channel/UCbjJZdJbaxGVW88CispTk8g",
+        "https://www.instagram.com/uroojashfaq"
+      ],
+      "keywords": [
+        "Edinburgh Comedy Awards",
+        "Oh No!"
+      ],
+      "verified": true,
+      "abstract": "Urooj Ashfaq is an Indian stand-up comedian, writer and actor from Mumbai. She won the Best Newcomer award at the Edinburgh Comedy Awards in 2023 for her show 'Oh No!', becoming the first India-based artist to win the award.",
+      "nationality": "Indian",
+      "yearsActive": "2016-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/channel/UCbjJZdJbaxGVW88CispTk8g",
+        "instagram": "https://www.instagram.com/uroojashfaq"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Urooj_Ashfaq",
+        "retrievedAt": "2026-01-23T20:03:00.360Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-mkrb5or4-i7s7a",
+      "name": "Anirban Dasgupta",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en, hi, bn",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Kolkata, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [
+        "observational",
+        "political",
+        "storytelling"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Anirban_Dasgupta_(comedian)",
+        "https://www.youtube.com/channel/UCE26JC55IT8fJUTMgXsBuZQ",
+        "https://www.instagram.com/anirbandasgupta5"
+      ],
+      "keywords": [
+        "Take It Easy",
+        "Afsos",
+        "Amazon Prime"
+      ],
+      "verified": true,
+      "abstract": "Anirban Dasgupta is an Indian stand-up comedian and writer from Kolkata. He is known for his Amazon Prime special 'Take It Easy' and for co-creating the dark comedy series 'Afsos'.",
+      "nationality": "Indian",
+      "yearsActive": "2012-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/channel/UCE26JC55IT8fJUTMgXsBuZQ",
+        "instagram": "https://www.instagram.com/anirbandasgupta5"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anirban_Dasgupta_(comedian)",
+        "retrievedAt": "2026-01-23T20:03:04.720Z"
       }
     }
   ],
@@ -10116,6 +10208,726 @@
       "genre": "Clip",
       "description": "",
       "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-j6ib4",
+      "name": "Uber Driver & Grandmother | Stand Up Comedy by Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT7M25S",
+      "embedUrl": "https://www.youtube.com/embed/EzJhTb564iA",
+      "contentUrl": "https://www.youtube.com/watch?v=EzJhTb564iA",
+      "uploadDate": "2019-09-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EzJhTb564iA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In this video I talk about the highs and lows of Uber rides and the highs and lows of having a Grandmother, also the highs and lows of how Hindus and Muslims perceive each other in this country.\nlots of highs and lows, enjoy!\n\nCREDITS\nVenue Courtesy: The Habitat, Mumbai\n\nDirected by Anuj Mehta (@pav",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-q7ezo",
+      "name": "Therapy | Stand Up Comedy by Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT17M25S",
+      "embedUrl": "https://www.youtube.com/embed/Zgb5H_WhrI4",
+      "contentUrl": "https://www.youtube.com/watch?v=Zgb5H_WhrI4",
+      "uploadDate": "2025-01-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Zgb5H_WhrI4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a bit from my show \"Oh No!\" for which I won Best Newcomer at the Edinburgh Comedy Awards, it is formerly called the Perrier which is fancy and I like to call it that.\nI am sharing this info with you because my therapist said it is okay to be proud of my achievements. \n\nI am also on tour with",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-nqsxm",
+      "name": "Ghosts and Periods | Stand Up Comedy by Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT12M25S",
+      "embedUrl": "https://www.youtube.com/embed/a2aoVJoUB80",
+      "contentUrl": "https://www.youtube.com/watch?v=a2aoVJoUB80",
+      "uploadDate": "2022-12-08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a2aoVJoUB80/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The first half of this bit is from my favourite activity - being on the road endlessly \nAnd the second half of this bit is from my least favourite activities - getting my period and dealing with men on the internet  \n\nI hope you enjoy it ✨ \n\nCREDITS\nVideo Production: CoProBros (Sumendra Singh & Kara",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-zas7q",
+      "name": "One Line Jokes & Personal Diary | Stand Up Comedy by Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT17M9S",
+      "embedUrl": "https://www.youtube.com/embed/F9bqk7t2VEc",
+      "contentUrl": "https://www.youtube.com/watch?v=F9bqk7t2VEc",
+      "uploadDate": "2025-04-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F9bqk7t2VEc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This is a bit from my show \"Oh No!\" for which I won Best Newcomer at the Edinburgh Comedy Awards, it is formerly called the Perrier which is fancy and I like to call it that.\nI am sharing this info with you because my therapist said it is okay to be proud of my achievements. \n\nI am also on tour with",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-y2590",
+      "name": "Casual Relationships | Stand Up Comedy by Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT5M53S",
+      "embedUrl": "https://www.youtube.com/embed/VSzD81nG3sg",
+      "contentUrl": "https://www.youtube.com/watch?v=VSzD81nG3sg",
+      "uploadDate": "2020-06-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VSzD81nG3sg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "In this video I talk about casual relationships casually. Most of us have been there and for those of us who haven't you can live vicariously through this video it'll be over in less than 6 minutes coincidentally that's also how long most casual relationships last. \nI had different priorities prior ",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-moda8",
+      "name": "Urooj Vs Cockroach 🫶🏽",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT45S",
+      "embedUrl": "https://www.youtube.com/embed/2uiTzvYTjHE",
+      "contentUrl": "https://www.youtube.com/watch?v=2uiTzvYTjHE",
+      "uploadDate": "2025-04-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2uiTzvYTjHE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-gw1af",
+      "name": "Street Fight | Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT1M22S",
+      "embedUrl": "https://www.youtube.com/embed/8sPrxtfEXqQ",
+      "contentUrl": "https://www.youtube.com/watch?v=8sPrxtfEXqQ",
+      "uploadDate": "2021-02-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8sPrxtfEXqQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "please excuse the cursing it was a street fight after all",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-azvzs",
+      "name": "Instagram Compilation | Urooj Ashfaq",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT8M53S",
+      "embedUrl": "https://www.youtube.com/embed/3uub-FT8tkI",
+      "contentUrl": "https://www.youtube.com/watch?v=3uub-FT8tkI",
+      "uploadDate": "2022-12-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3uub-FT8tkI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "a compilation of some longer videos that don't fit into shorts, this is already on instagram but now im putting it here also because I JUST WANT TO\n\nok take care",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-esnj9",
+      "name": "me thinking of what I would say to the King 🥹👉🏽👈🏽🤪",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT36S",
+      "embedUrl": "https://www.youtube.com/embed/e3PrzmtdKAU",
+      "contentUrl": "https://www.youtube.com/watch?v=e3PrzmtdKAU",
+      "uploadDate": "2025-09-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e3PrzmtdKAU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-ymrds",
+      "name": "my new years resolution is to use my 🧠",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT2M17S",
+      "embedUrl": "https://www.youtube.com/embed/nw00g4Nir7Q",
+      "contentUrl": "https://www.youtube.com/watch?v=nw00g4Nir7Q",
+      "uploadDate": "2026-01-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nw00g4Nir7Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-azshi",
+      "name": "Personal Diary 💖 full video out on my channel now!!!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT1M20S",
+      "embedUrl": "https://www.youtube.com/embed/HOLABs9LL2o",
+      "contentUrl": "https://www.youtube.com/watch?v=HOLABs9LL2o",
+      "uploadDate": "2025-04-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HOLABs9LL2o/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-b26sm",
+      "name": "Do your friends need therapy?!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT46S",
+      "embedUrl": "https://www.youtube.com/embed/AYiFXKJ6NtI",
+      "contentUrl": "https://www.youtube.com/watch?v=AYiFXKJ6NtI",
+      "uploadDate": "2025-01-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AYiFXKJ6NtI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-el0bw",
+      "name": "Open Mic in Edinburgh",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT1M13S",
+      "embedUrl": "https://www.youtube.com/embed/nVBMj1mysI8",
+      "contentUrl": "https://www.youtube.com/watch?v=nVBMj1mysI8",
+      "uploadDate": "2026-01-22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nVBMj1mysI8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-rddeq",
+      "name": "6th July 2025 - Chennai Show & 13th July 2024 - Pune Show | tickets on bookmyshow",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT1M17S",
+      "embedUrl": "https://www.youtube.com/embed/H9co945YgO4",
+      "contentUrl": "https://www.youtube.com/watch?v=H9co945YgO4",
+      "uploadDate": "2025-07-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H9co945YgO4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-evy15",
+      "name": "we are all crazy people yaar 🍻✨😚",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT1M42S",
+      "embedUrl": "https://www.youtube.com/embed/9Vtd1Xw3cOE",
+      "contentUrl": "https://www.youtube.com/watch?v=9Vtd1Xw3cOE",
+      "uploadDate": "2025-01-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Vtd1Xw3cOE/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-e676x",
+      "name": "July 21st to 26th - London Shows, Soho Theatre | August - Edinburgh Fringe Festival, Monkey Barrel",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT1M12S",
+      "embedUrl": "https://www.youtube.com/embed/LXkxlF2f8-Q",
+      "contentUrl": "https://www.youtube.com/watch?v=LXkxlF2f8-Q",
+      "uploadDate": "2025-07-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LXkxlF2f8-Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-i5omm",
+      "name": "I’m keeping the accent ✨🕺",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT59S",
+      "embedUrl": "https://www.youtube.com/embed/-2dVuLaelzQ",
+      "contentUrl": "https://www.youtube.com/watch?v=-2dVuLaelzQ",
+      "uploadDate": "2023-11-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-2dVuLaelzQ/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-mytj8",
+      "name": "#shorts | I hate my name 😓",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT37S",
+      "embedUrl": "https://www.youtube.com/embed/1pbyyv60HOM",
+      "contentUrl": "https://www.youtube.com/watch?v=1pbyyv60HOM",
+      "uploadDate": "2022-09-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1pbyyv60HOM/hqdefault.jpg",
+      "genre": "Short",
+      "description": "#standupcomedy #name",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-iyqkb",
+      "name": "as gen z would say , therapy advice from dad ⚡️hits different ⚡️",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT42S",
+      "embedUrl": "https://www.youtube.com/embed/wucsTFxYM5s",
+      "contentUrl": "https://www.youtube.com/watch?v=wucsTFxYM5s",
+      "uploadDate": "2023-02-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wucsTFxYM5s/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5n6l-lw0d0",
+      "name": "Criticism is hard 😞 #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5ldz-gme39"
+      },
+      "duration": "PT36S",
+      "embedUrl": "https://www.youtube.com/embed/yoUelt6rIWs",
+      "contentUrl": "https://www.youtube.com/watch?v=yoUelt6rIWs",
+      "uploadDate": "2025-01-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yoUelt6rIWs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Urooj Ashfaq",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-la4e6",
+      "name": "How I Met My Parents | Stand up comedy | Anirban Dasgupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT14M29S",
+      "embedUrl": "https://www.youtube.com/embed/ZiQcqS2__lg",
+      "contentUrl": "https://www.youtube.com/watch?v=ZiQcqS2__lg",
+      "uploadDate": "2025-11-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZiQcqS2__lg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New stand up comedy video on my parents and the story of my birth. I absolutely loved doing this bit on stage and if you enjoyed it, please hype, like and share with your friends and family, and drop a comment! Thank you\n\nGet tickets to Cry Daddy - India tour: https://bio.link/anirban \nComing to Mum",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-qvuhv",
+      "name": "Mumbai Traffic Awards | Stand up comedy | Anirban Dasgupta",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT13M33S",
+      "embedUrl": "https://www.youtube.com/embed/ZZv5Gv-UPL4",
+      "contentUrl": "https://www.youtube.com/watch?v=ZZv5Gv-UPL4",
+      "uploadDate": "2025-07-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZZv5Gv-UPL4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "New stand-up comedy on Mumbai traffic as a keen connoisseur of traffic jams. If you enjoyed it, please like and share it with your friends and drop a comment. Thank you\n\nhttps://www.instagram.com/anirbandasgupta5\nTickets for London, Mumbai, Bangalore and Kolkata: https://bio.link/anirban\n\nShot by Ja",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-jyz4h",
+      "name": "Love Songs (Afreen Afreen) | Anirban Dasgupta stand up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT8M19S",
+      "embedUrl": "https://www.youtube.com/embed/k1S8ZeCio7w",
+      "contentUrl": "https://www.youtube.com/watch?v=k1S8ZeCio7w",
+      "uploadDate": "2017-09-26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k1S8ZeCio7w/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets anirbandasgupta.com\n\nStand-up comedy set talking about my favourite song Afreen Afreen and love songs in general. If you like the set, please share with your friends and strangers on social media. And subscribe for more videos. \n\nTwitter : https://twitter.com/adg_5\nFacebook : https",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-lsp7r",
+      "name": "Rescue Act | Anirban Dasgupta stand up comedy | Crowd work",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT11M49S",
+      "embedUrl": "https://www.youtube.com/embed/A8dPU-QJvYw",
+      "contentUrl": "https://www.youtube.com/watch?v=A8dPU-QJvYw",
+      "uploadDate": "2021-12-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A8dPU-QJvYw/hqdefault.jpg",
+      "genre": "Crowd Work",
+      "description": "Live stand up shows are unique and thankfully the cameras were there to capture this memorable night. If you enjoy this, please like and share with your friends and subscribe to this channel for more videos. \n\nWatch my latest short film - Chalti ka naam India \nhttps://www.instagram.com/p/CXGj19-jJyK",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-v5ziz",
+      "name": "Corporate Job and Motivation | Anirban Dasgupta stand up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT6M49S",
+      "embedUrl": "https://www.youtube.com/embed/RjU7ve8IWfI",
+      "contentUrl": "https://www.youtube.com/watch?v=RjU7ve8IWfI",
+      "uploadDate": "2017-11-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RjU7ve8IWfI/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets anirbandasgupta.com\n\nStand-up comedy set on motivational speakers and corporate office. If you like the set, please share with your friends, colleagues from work and strangers on social media. And subscribe for more videos.\n\nCurrently performing my stand-up solo show Take It Easy a",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-woplr",
+      "name": "This joke is a boomerang 😂 #standupcomedy #comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT1M40S",
+      "embedUrl": "https://www.youtube.com/embed/tNqMyFRQLPk",
+      "contentUrl": "https://www.youtube.com/watch?v=tNqMyFRQLPk",
+      "uploadDate": "2025-08-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tNqMyFRQLPk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-x9kja",
+      "name": "Religion and weddings | Anirban Dasgupta stand up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT4M59S",
+      "embedUrl": "https://www.youtube.com/embed/9iprW3UD2ys",
+      "contentUrl": "https://www.youtube.com/watch?v=9iprW3UD2ys",
+      "uploadDate": "2017-02-13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9iprW3UD2ys/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets: anirbandasgupta.com\n\n\nStand-up bit on two things that fascinate me - religion and Indian weddings.   \nThank you for watching. Please share and subscribe it if you liked it. \n\nCredits:\nVideo produced by: Myoho Films (www.myohofilms.in)\nShot by: Chinmay Samnani, Sandeep Mishra & Gau",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-kcnog",
+      "name": "Freedom vs Offence | Anirban Dasgupta Stand up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT4M2S",
+      "embedUrl": "https://www.youtube.com/embed/oiEsKk0AmFA",
+      "contentUrl": "https://www.youtube.com/watch?v=oiEsKk0AmFA",
+      "uploadDate": "2018-07-02",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oiEsKk0AmFA/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets anirbandasgupta.com\n\nFreedom of speech in Indian stand up comedy. \nWatch the full bit and the one hour show Take It Easy on Amazon Prime Video. \n\nIndia: https://amzn.to/2tcFa5Q\nUSA: https://www.amazon.com/dp/B07DTDFV7H\nUK: https://www.amazon.co.uk/dp/B07DTM14HC\n\nIf you like it, sha",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-xe1jr",
+      "name": "Fatherhood | Stand-up comedy compilation",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT7M44S",
+      "embedUrl": "https://www.youtube.com/embed/6P_ZstT6nQ8",
+      "contentUrl": "https://www.youtube.com/watch?v=6P_ZstT6nQ8",
+      "uploadDate": "2023-08-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6P_ZstT6nQ8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Hello. Check out some of my baby jokes over the last two years as my daughter turns 2. Hope you enjoy it.\n\nFollow me on https://www.instagram.com/anirbandasgupta5/\n\nEdits: Aaditi Hirani\n\n#anirbandasgupta #standupcomedy #parenting #standupcomedian #babyvideos",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-1tpjc",
+      "name": "I Dont Want Kids | Anirban Dasgupta stand up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT4M58S",
+      "embedUrl": "https://www.youtube.com/embed/IVqx6RvHAxY",
+      "contentUrl": "https://www.youtube.com/watch?v=IVqx6RvHAxY",
+      "uploadDate": "2017-01-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IVqx6RvHAxY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets: anirbandasgupta.com\n\nJokes about not wanting to have kids. Ever. \nThank you for watching. Please share and subscribe it if you liked it. \n\nCredits:\nVideo produced by: Myoho Films (www.myohofilms.in)\nShot by: Chinmay Samnani, Sandeep Mishra & Gaurav Anand\nProduced & Edited by: Kara",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-wtx4u",
+      "name": "Subjects In School | Anirban Dasgupta Stand-up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT4M50S",
+      "embedUrl": "https://www.youtube.com/embed/zX3q-rQsm-Q",
+      "contentUrl": "https://www.youtube.com/watch?v=zX3q-rQsm-Q",
+      "uploadDate": "2017-03-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zX3q-rQsm-Q/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets: anirbandasgupta.com\nFollow: https://www.instagram.com/anirbandasgupta5/ \n\nInstagramJokes about my PT sir from school, my troubles with hindi and the deep relationship between capital letters and small letters in the English alphabet.\n\nThank you for watching. Please share and subsc",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-bovyd",
+      "name": "Take It Easy | Anirban Dasgupta stand up comedy | Afsos announcement",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT5M20S",
+      "embedUrl": "https://www.youtube.com/embed/YDjE32x2aA4",
+      "contentUrl": "https://www.youtube.com/watch?v=YDjE32x2aA4",
+      "uploadDate": "2020-02-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YDjE32x2aA4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch till the end. \n\nPlease watch our series Afsos, a black comedy thriller of Prime Video worldwide. \nIndia & Rest of World - https://www.primevideo.com/detail/amzn1.dv.gti.86b76382-60b7-9ec6-d80c-e146a60f1b12\nUS -https://www.amazon.com/dp/B083P4NW63\nUK - https://www.amazon.co.uk/dp/B083PQLTJR\n\nTr",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-lqb0q",
+      "name": "London, Mumbai, Gurgaon, Kolkata shows coming up #standupcomedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT1M20S",
+      "embedUrl": "https://www.youtube.com/embed/DliP4k17yQg",
+      "contentUrl": "https://www.youtube.com/watch?v=DliP4k17yQg",
+      "uploadDate": "2025-09-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DliP4k17yQg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-tq3je",
+      "name": "Mom and Kids | Anirban Dasgupta stand up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT3M58S",
+      "embedUrl": "https://www.youtube.com/embed/By0AuZ-pmDU",
+      "contentUrl": "https://www.youtube.com/watch?v=By0AuZ-pmDU",
+      "uploadDate": "2018-07-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/By0AuZ-pmDU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Live show tickets anirbandasgupta.com\n\nMy mom wants me to have a kid. And she wants nothing else. \n\nWatch the full bit and the one hour show Take It Easy.\nIndia: https://amzn.to/2tcFa5Q\nUSA: https://www.amazon.com/dp/B07DTDFV7H\nUK: https://www.amazon.co.uk/dp/B07DTM14HC\n\nIf you like it, share it wit",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-jnrz4",
+      "name": "Facebook Comments | Anirban Dasgupta stand-up comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT3M11S",
+      "embedUrl": "https://www.youtube.com/embed/9OBuaftPaLo",
+      "contentUrl": "https://www.youtube.com/watch?v=9OBuaftPaLo",
+      "uploadDate": "2015-05-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9OBuaftPaLo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Twitter : https://twitter.com/adg_5\nFacebook : https://www.facebook.com/anirbandasgupta05\nEmail : anirban.dasgupta5@gmail.com\n\nLocation courtesy : Canvas Laugh Club, Mumbai.\nThank you for watching.\n\nFollow https://www.instagram.com/anirbandasgupta5/\n#anirbandasgupta #standupcomedy #comedy",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-k25by",
+      "name": "New show Cry daddy on tour #comedy #standupcomedy #parents",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT1M40S",
+      "embedUrl": "https://www.youtube.com/embed/hfwzWE_Thog",
+      "contentUrl": "https://www.youtube.com/watch?v=hfwzWE_Thog",
+      "uploadDate": "2025-07-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hfwzWE_Thog/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-0wppt",
+      "name": "Ambani wedding",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT58S",
+      "embedUrl": "https://www.youtube.com/embed/MN5ka1z-iPc",
+      "contentUrl": "https://www.youtube.com/watch?v=MN5ka1z-iPc",
+      "uploadDate": "2024-07-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MN5ka1z-iPc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Upcoming shows in Gurgaon, Mumbai and Edinburgh Fringe",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-k400p",
+      "name": "Coming to London with my new show. Tickets on Soho theatre or my bio #sohotheatre #london",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT1M53S",
+      "embedUrl": "https://www.youtube.com/embed/qSnwuZcy63A",
+      "contentUrl": "https://www.youtube.com/watch?v=qSnwuZcy63A",
+      "uploadDate": "2025-08-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qSnwuZcy63A/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgl-e0zmc",
+      "name": "London and India show tickets in my bio #comedy #funny",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT44S",
+      "embedUrl": "https://www.youtube.com/embed/nuWZEowwup0",
+      "contentUrl": "https://www.youtube.com/watch?v=nuWZEowwup0",
+      "uploadDate": "2025-08-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nuWZEowwup0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Anirban Dasgupta",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-mkrb5qgm-2qodn",
+      "name": "Performing in Melbourne and Sydney this week onwards. #melbourne #anirbandasgupta #therapy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mkrb5or4-i7s7a"
+      },
+      "duration": "PT54S",
+      "embedUrl": "https://www.youtube.com/embed/HZ5i5vwsMLk",
+      "contentUrl": "https://www.youtube.com/watch?v=HZ5i5vwsMLk",
+      "uploadDate": "2024-04-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HZ5i5vwsMLk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Anirban Dasgupta",
       "aggregatorChannel": null
     }
   ],

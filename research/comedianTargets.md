@@ -163,16 +163,19 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - YouTube: @prashasti
 
 23. **Karunesh Talwar**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: Clean observational comedy
     - YouTube: @karuneshtalwar
 
 24. **Gaurav Gupta**
+    - Status: ✅ Already in catalog
     - Language: Hindi/English
     - Notable: "Papa Meri Shaadi Karwao"
     - YouTube: @gauravguptacomedian
 
 25. **Atul Khatri**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: "Happily Unmarried", oldest Indian standup
     - YouTube: @atulkhatri
@@ -180,28 +183,42 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 ## Tier 3: Legacy & International
 
 26. **Papa CJ**
+    - Status: ✅ Already in catalog
     - Wikipedia: https://en.wikipedia.org/wiki/Papa_CJ
     - Language: English
     - Notable: International touring comedian, Edinburgh Fringe
 
-27. **Vicky Roy**
-    - Language: Hindi
-    - Notable: Royal Stag Mirchi promoted artist
-
-28. **Naveen Richard**
+27. **Naveen Richard**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: Character comedy, Better Life Foundation
     - YouTube: @NaveenRichard
 
-29. **Rohan Joshi**
+28. **Rohan Joshi**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: AIB co-founder, writer
     - YouTube: @rojothegreat
 
-30. **Sapan Verma**
+29. **Sapan Verma**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: EIC founder, "Obsessed"
     - YouTube: @sapanverma
+
+## New Targets (Pending Enrichment)
+
+30. **Urooj Ashfaq**
+    - Wikipedia: https://en.wikipedia.org/wiki/Urooj_Ashfaq
+    - Language: English
+    - Notable: Best Newcomer Edinburgh Comedy Awards 2023
+    - YouTube: @UroojAshfaq
+
+31. **Anirban Dasgupta**
+    - Wikipedia: https://en.wikipedia.org/wiki/Anirban_Dasgupta_(comedian)
+    - Language: English/Hindi
+    - Notable: "Take It Easy", Amazon Prime
+    - YouTube: @AnirbanDasgupta
 
 ## Comedy Collectives & Channels
 
@@ -231,11 +248,11 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 - Character/Sketch-hybrid: Naveen Richard, Sumukhi Suresh
 
 ### Data Priorities
-1. **Comprehensive metadata**: Birth date, hometown, education, career start
-2. **Video discovery**: Minimum 5-10 videos per comedian
-3. **Social links**: YouTube, Instagram, Twitter
-4. **Notable works**: Specials, viral videos, albums
-5. **Platform presence**: Netflix, Amazon Prime, YouTube
+- **Comprehensive metadata**: Birth date, hometown, education, career start
+- **Video discovery**: Minimum 5-10 videos per comedian
+- **Social links**: YouTube, Instagram, Twitter
+- **Notable works**: Specials, viral videos, albums
+- **Platform presence**: Netflix, Amazon Prime, YouTube
 
 ## Enrichment Process Checklist
 
@@ -251,7 +268,7 @@ For each comedian:
 
 ---
 
-**Document Version**: 1.0  
-**Last Updated**: 2026-01-05  
-**Total Comedians**: 30  
+**Document Version**: 1.1
+**Last Updated**: 2026-01-20
+**Total Comedians**: 31
 **Coverage**: Indian comedy scene (2010-2026)
