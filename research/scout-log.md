@@ -23,3 +23,13 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-24 - Enrichment: Malayalam Poets & Comedy Verification
+**Source:** Wikipedia, Google Search
+**Insight:**
+- Identified a gap in Malayalam representation in `poets-index.json`.
+- Verified "Vicky Roy" target from `comedianTargets.md` and discovered he is a Photographer/Motivational Speaker, not a Comedian.
+**Action:**
+- Enriched `poets-index.json` with **Thunchath Ezhuthachan** (Father of Malayalam) and **G. Sankara Kurup** (First Jnanpith Winner).
+- Updated `research/comedianTargets.md` to mark existing comedians as done and Vicky Roy as skipped.
+- Removed Vicky Roy from `comedy-index.json` after initial automated enrichment proved incorrect.

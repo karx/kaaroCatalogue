@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-24T19:43:07.763314Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 53,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1761,6 +1761,98 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "entityId": "poet-65416382-86f9-422c-a5e3-d30ee32d88fb",
+      "name": "Thunchath Ezhuthachan",
+      "@type": "Person",
+      "additionalType": "Kavi",
+      "birthDate": "c. 1495",
+      "deathDate": "16th Century",
+      "knowsLanguage": "Malayalam",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Tirur, Kerala"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Linguist, Translator"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Thunchaththu_Ezhuthachan"
+      ],
+      "keywords": [
+        "Bhakti Movement",
+        "Kilippattu",
+        "Malayalam Literature"
+      ],
+      "era": "Bhakti",
+      "century": "16th Century",
+      "titles": [
+        "Father of Modern Malayalam Literature",
+        "Primal Poet"
+      ],
+      "abstract": "A 16th-century Malayalam devotional poet, translator and linguist. He is revered as the 'Father of Modern Malayalam Literature' for refining the language and popularizing the Kilippattu (Parrot Song) style. His transcreations of the Ramayana and Mahabharata are foundational texts of Kerala culture.",
+      "majorWorks": [
+        "Adhyathmaramayanam",
+        "Mahabharatham",
+        "Irupathinalu Vrittam"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thunchaththu_Ezhuthachan",
+        "retrievedAt": "2026-01-24T19:43:07.411115Z"
+      }
+    },
+    {
+      "entityId": "poet-b25627f8-dfc4-4b05-b3ed-c6c9415dfb82",
+      "name": "G. Sankara Kurup",
+      "@type": "Person",
+      "additionalType": "Kavi",
+      "birthDate": "1901-06-03",
+      "deathDate": "1978-02-02",
+      "knowsLanguage": "Malayalam",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Nayathode, Kerala"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Essayist, Professor"
+      },
+      "award": [
+        "Jnanpith Award",
+        "Padma Bhushan",
+        "Sahitya Akademi Award"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/G._Sankara_Kurup"
+      ],
+      "keywords": [
+        "Modernism",
+        "Symbolism",
+        "Jnanpith",
+        "Odakkuzhal"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "titles": [
+        "Mahakavi G"
+      ],
+      "abstract": "The first recipient of the Jnanpith Award (1965), India's highest literary honor. Known as 'Mahakavi G', he was a mystic and symbolist who bridged the gap between the Romantic and Realist eras in Malayalam poetry. His work 'Odakkuzhal' (The Flute) is a celebrated masterpiece.",
+      "majorWorks": [
+        "Odakkuzhal",
+        "Viswadarsanam",
+        "Muthukkallu",
+        "Patheyam",
+        "Jeevana Sangeetham"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G._Sankara_Kurup",
+        "retrievedAt": "2026-01-24T19:43:07.411167Z"
       }
     }
   ],

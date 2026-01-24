@@ -163,16 +163,19 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - YouTube: @prashasti
 
 23. **Karunesh Talwar**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: Clean observational comedy
     - YouTube: @karuneshtalwar
 
 24. **Gaurav Gupta**
+    - Status: ✅ Already in catalog
     - Language: Hindi/English
     - Notable: "Papa Meri Shaadi Karwao"
     - YouTube: @gauravguptacomedian
 
 25. **Atul Khatri**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: "Happily Unmarried", oldest Indian standup
     - YouTube: @atulkhatri
@@ -180,25 +183,30 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
 ## Tier 3: Legacy & International
 
 26. **Papa CJ**
+    - Status: ✅ Already in catalog
     - Wikipedia: https://en.wikipedia.org/wiki/Papa_CJ
     - Language: English
     - Notable: International touring comedian, Edinburgh Fringe
 
 27. **Vicky Roy**
+    - Status: ❌ Skipped (Photographer/Motivational Speaker, not Comedian)
     - Language: Hindi
     - Notable: Royal Stag Mirchi promoted artist
 
 28. **Naveen Richard**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: Character comedy, Better Life Foundation
     - YouTube: @NaveenRichard
 
 29. **Rohan Joshi**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: AIB co-founder, writer
     - YouTube: @rojothegreat
 
 30. **Sapan Verma**
+    - Status: ✅ Already in catalog
     - Language: English
     - Notable: EIC founder, "Obsessed"
     - YouTube: @sapanverma
