@@ -5,15 +5,15 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-25T19:43:48.449Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
-    "lastSync": "2026-01-04T20:30:00+05:30"
+    "totalEntities": 53,
+    "lastSync": "2026-01-25T19:43:48.449Z"
   },
   "entities": [
     {
@@ -1761,6 +1761,89 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-59325d6c-2585-4bff-a977-eb72e77e3903",
+      "name": "Sarala Das",
+      "additionalType": "Kavi",
+      "birthDate": "15th Century",
+      "knowsLanguage": "Odia",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Odisha"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarala_Dasa"
+      ],
+      "keywords": [
+        "Adi Kavi",
+        "Mahabharata",
+        "Odia Literature"
+      ],
+      "era": "Medieval",
+      "century": "15th Century",
+      "titles": [
+        "Adi Kavi"
+      ],
+      "abstract": "The first scholar to write in Odia and revered as the Adi Kavi (First Poet) of Odia literature. Best known for the Odia Mahabharata.",
+      "majorWorks": [
+        "Mahabharata",
+        "Vilanka Ramayana",
+        "Chandi Purana"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarala_Dasa",
+        "retrievedAt": "2026-01-25T19:43:48.380Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-89ec7702-41aa-4913-bd9a-39d5f4c4e2d1",
+      "name": "Akha Bhagat",
+      "additionalType": "Kavi",
+      "birthDate": "17th Century",
+      "knowsLanguage": "Gujarati",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Ahmedabad, Gujarat"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Goldsmith"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Akha_Bhagat"
+      ],
+      "keywords": [
+        "Chhappa",
+        "Satire",
+        "Bhakti",
+        "Vedanta"
+      ],
+      "era": "Medieval",
+      "century": "17th Century",
+      "literaryMovement": "Bhakti",
+      "titles": [
+        "Akho"
+      ],
+      "abstract": "A medieval Gujarati poet and goldsmith known for his satirical six-stanza poems called Chhappa, criticizing social hypocrisy and empty rituals.",
+      "majorWorks": [
+        "Akhe-gita",
+        "Chhappa"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Akha_Bhagat",
+        "retrievedAt": "2026-01-25T19:43:48.448Z"
       }
     }
   ],
@@ -75508,6 +75591,121 @@
         "name": "Academy of the Punjab in North America",
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-9f23328f-132f-4117-a7fc-600608b86a16",
+      "name": "Mahabharata (Odia)",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-59325d6c-2585-4bff-a977-eb72e77e3903"
+      },
+      "inLanguage": "Odia",
+      "dateCreated": "15th Century",
+      "genre": "Epic",
+      "abstract": "A trans-creation of the Sanskrit Mahabharata, filled with local legends and reflecting the culture of the Gajapati empire.",
+      "keywords": [
+        "Epic",
+        "Odia",
+        "Mythology"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarala_Dasa",
+        "retrievedAt": "2026-01-25T19:43:48.448Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-a9ec7f29-c368-40f7-93ab-44785825a413",
+      "name": "Vilanka Ramayana",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-59325d6c-2585-4bff-a977-eb72e77e3903"
+      },
+      "inLanguage": "Odia",
+      "dateCreated": "15th Century",
+      "genre": "Epic",
+      "abstract": "An Odia retelling of the Ramayana.",
+      "keywords": [
+        "Epic",
+        "Ramayana",
+        "Odia"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarala_Dasa",
+        "retrievedAt": "2026-01-25T19:43:48.448Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-043e3a10-b121-40af-9d15-107128f2eba1",
+      "name": "Chandi Purana",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-59325d6c-2585-4bff-a977-eb72e77e3903"
+      },
+      "inLanguage": "Odia",
+      "dateCreated": "15th Century",
+      "genre": "Purana",
+      "abstract": "A work dedicated to Goddess Chandi (Durga).",
+      "keywords": [
+        "Purana",
+        "Shakti",
+        "Odia"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarala_Dasa",
+        "retrievedAt": "2026-01-25T19:43:48.448Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-c15c44a2-17c4-4f4a-bf67-57e8c1a4b805",
+      "name": "Akhe-gita",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-89ec7702-41aa-4913-bd9a-39d5f4c4e2d1"
+      },
+      "inLanguage": "Gujarati",
+      "dateCreated": "17th Century",
+      "genre": "Philosophical Poetry",
+      "abstract": "A major work dealing with Bhakti (devotion) and Jnana (knowledge).",
+      "keywords": [
+        "Bhakti",
+        "Jnana",
+        "Gujarati"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Akha_Bhagat",
+        "retrievedAt": "2026-01-25T19:43:48.448Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-c63a55a6-7757-4d48-9da7-d59a0aa1ee33",
+      "name": "Chhappa Collection",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-89ec7702-41aa-4913-bd9a-39d5f4c4e2d1"
+      },
+      "inLanguage": "Gujarati",
+      "dateCreated": "17th Century",
+      "genre": "Satire",
+      "abstract": "A collection of 755 satirical poems in the Chhappa format, criticizing social evils and blind faith.",
+      "keywords": [
+        "Satire",
+        "Chhappa",
+        "Social Reform"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Akha_Bhagat",
+        "retrievedAt": "2026-01-25T19:43:48.448Z"
       }
     }
   ],

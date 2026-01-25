@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-25 - Enrichment: Odia & Gujarati Poetry + New Comedy
+**Source:** Wikipedia, YouTube
+**Insight:** Expanded the poetry catalog to include key medieval figures from Odisha (Sarala Das) and Gujarat (Akha), filling regional gaps. Also added "Shreeja Chaturvedi" to the comedy catalog, a rising star in the deadpan genre.
+**Action:**
+- Enriched `poets-index.json` with Sarala Das (Adi Kavi of Odia) and Akha (Gujarati Satirist). Added their major works.
+- Enriched `comedy-index.json` with Shreeja Chaturvedi and 3 of her popular videos ("Speed Thrills", "Pollination", "Yauvan").
+- Validated schema compliance (ignoring known legacy issues).

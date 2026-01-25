@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T20:01:03.699Z",
+  "updatedAt": "2026-01-25T19:43:48.745Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -13,9 +13,9 @@
       "Netflix is a Joke",
       "Dry Bar Comedy"
     ],
-    "totalEntities": 33,
-    "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 504
+    "totalEntities": 34,
+    "lastSync": "2026-01-25T19:43:48.745Z",
+    "totalVideos": 507
   },
   "entities": [
     {
@@ -1052,6 +1052,49 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sapan_Verma",
         "retrievedAt": "2026-01-17T19:51:10.936Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-667cc8de-f379-402d-a7e0-091ef7439f8c",
+      "name": "Shreeja Chaturvedi",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "knowsLanguage": "hi, en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [
+        "observational",
+        "deadpan"
+      ],
+      "sameAs": [
+        "https://www.youtube.com/@ShreejaChaturvedi",
+        "https://www.instagram.com/shreejachaturvedi/"
+      ],
+      "keywords": [
+        "Comicstaan",
+        "Deadpan",
+        "Mumbai"
+      ],
+      "verified": true,
+      "abstract": "Shreeja Chaturvedi is an Indian stand-up comedian known for her deadpan style and observational humor. She rose to prominence with her unique delivery and relatable content.",
+      "nationality": "Indian",
+      "yearsActive": "2018-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/@ShreejaChaturvedi",
+        "instagram": "https://www.instagram.com/shreejachaturvedi/"
+      },
+      "source": {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@ShreejaChaturvedi",
+        "retrievedAt": "2026-01-25T19:43:48.745Z"
       }
     }
   ],
@@ -10116,6 +10159,60 @@
       "genre": "Clip",
       "description": "",
       "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-24d05ee3-da08-44de-8d48-fa7540a1d56c",
+      "name": "Speed Thrills - Stand-up Comedy by Shreeja Chaturvedi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-667cc8de-f379-402d-a7e0-091ef7439f8c"
+      },
+      "duration": "PT4M16S",
+      "embedUrl": "https://www.youtube.com/embed/q3YMCGi9514",
+      "contentUrl": "https://www.youtube.com/watch?v=q3YMCGi9514",
+      "uploadDate": "2024-06-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/q3YMCGi9514/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "My genuine concerns regarding speeding are being laughed at by rude audience.",
+      "channelTitle": "Shreeja Chaturvedi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-91e848d0-673a-4b34-b73e-0eda09366008",
+      "name": "Pollination - Stand-up comedy by Shreeja Chaturvedi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-667cc8de-f379-402d-a7e0-091ef7439f8c"
+      },
+      "duration": "PT13M38S",
+      "embedUrl": "https://www.youtube.com/embed/T_7zXStZe0E",
+      "contentUrl": "https://www.youtube.com/watch?v=T_7zXStZe0E",
+      "uploadDate": "2023-01-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T_7zXStZe0E/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Pollination and other floral concerns.",
+      "channelTitle": "Shreeja Chaturvedi",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-c8c2c57a-71de-4ec5-88fc-287a683b5bcd",
+      "name": "Yauvan - Stand-up comedy by Shreeja Chaturvedi",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-667cc8de-f379-402d-a7e0-091ef7439f8c"
+      },
+      "duration": "PT10M30S",
+      "embedUrl": "https://www.youtube.com/embed/ObNPRh750HY",
+      "contentUrl": "https://www.youtube.com/watch?v=ObNPRh750HY",
+      "uploadDate": "2023-01-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ObNPRh750HY/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Observations on youth and growing up.",
+      "channelTitle": "Shreeja Chaturvedi",
       "aggregatorChannel": null
     }
   ],
