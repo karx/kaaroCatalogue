@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-20T12:00:00.000Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 54,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1761,6 +1761,152 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-2e463840-195b-4a9e-8081-bbfac7bdb22c",
+      "name": "Kumaran Asan",
+      "additionalType": "Kavi",
+      "birthDate": "1873-04-12",
+      "deathDate": "1924-01-16",
+      "knowsLanguage": "Malayalam",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Kayikkara, Travancore"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Social Reformer, Philosopher"
+      },
+      "award": [
+        "Mahakavi (1922)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kumaran_Asan"
+      ],
+      "keywords": [
+        "Renaissance",
+        "Social Reform",
+        "Ezhava",
+        "Sree Narayana Guru"
+      ],
+      "era": "Modern",
+      "century": "19th-20th Century",
+      "literaryMovement": "Malayalam Renaissance",
+      "titles": [
+        "Mahakavi"
+      ],
+      "abstract": "One of the triumvirate poets of modern Malayalam poetry. A disciple of Sree Narayana Guru, he revolutionized the language by shifting from metaphysical to lyrical poetry. His works powerfully attacked the caste system.",
+      "majorWorks": [
+        "Veena Poovu",
+        "Nalini",
+        "Leela",
+        "Duravastha",
+        "Chandalabhikshuki"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kumaran_Asan",
+        "retrievedAt": "2026-01-20T10:00:00.000Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-d269fbcb-fd96-4720-bd8a-1be555a505ee",
+      "name": "Vallathol Narayana Menon",
+      "additionalType": "Kavi",
+      "birthDate": "1878-10-16",
+      "deathDate": "1958-03-13",
+      "knowsLanguage": "Malayalam",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Malappuram, Kerala"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Translator"
+      },
+      "award": [
+        "Padma Bhushan (1954)",
+        "Mahakavi (1913)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Vallathol_Narayana_Menon"
+      ],
+      "keywords": [
+        "Nationalism",
+        "Kathakali",
+        "Kerala Kalamandalam",
+        "Freedom Struggle"
+      ],
+      "era": "Modern",
+      "century": "19th-20th Century",
+      "literaryMovement": "Nationalist Movement",
+      "titles": [
+        "Mahakavi",
+        "Kerala Valmiki"
+      ],
+      "abstract": "A nationalist poet and one of the triumvirate of modern Malayalam poetry. He founded the Kerala Kalamandalam to revitalize Kathakali and wrote extensively on the Indian freedom movement.",
+      "majorWorks": [
+        "Sahitya Manjari",
+        "Chitrayogam",
+        "Magdalana Mariyam",
+        "Ente Gurunathan"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vallathol_Narayana_Menon",
+        "retrievedAt": "2026-01-20T10:00:00.000Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-307de4a0-e45b-4958-a368-214fcf739021",
+      "name": "G. Sankara Kurup",
+      "additionalType": "Kavi",
+      "birthDate": "1901-06-03",
+      "deathDate": "1978-02-02",
+      "knowsLanguage": "Malayalam",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Nayathode, Kerala"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Essayist, Translator"
+      },
+      "award": [
+        "Jnanpith Award (1965)",
+        "Padma Bhushan (1968)",
+        "Sahitya Akademi Award (1963)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/G._Sankara_Kurup"
+      ],
+      "keywords": [
+        "Mysticism",
+        "Symbolism",
+        "Nature",
+        "Odakkuzhal"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Romanticism / Symbolism",
+      "titles": [
+        "Mahakavi G"
+      ],
+      "abstract": "The first winner of the Jnanpith Award (1965) for his collection Odakkuzhal (The Flute). His poetry blends mysticism, nature, and social commitment, influenced by Tagore and Gandhi.",
+      "majorWorks": [
+        "Odakkuzhal",
+        "Visvadarsanam",
+        "Nakhangal",
+        "Sooryakanthi"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G._Sankara_Kurup",
+        "retrievedAt": "2026-01-20T10:00:00.000Z"
       }
     }
   ],
@@ -75508,6 +75654,76 @@
         "name": "Academy of the Punjab in North America",
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-33f6d24e-5c49-4509-8ce8-a1b9982a620a",
+      "name": "Veena Poovu",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-2e463840-195b-4a9e-8081-bbfac7bdb22c"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Elegy",
+      "dateCreated": "1907",
+      "abstract": "A seminal work in Malayalam literature, 'The Fallen Flower' depicts the transient nature of life through the lifecycle of a flower. It marked the transition from neo-classicism to the romantic era in Malayalam poetry.",
+      "keywords": [
+        "Romanticism",
+        "Symbolism",
+        "Life Cycle",
+        "Transience"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Veena_Poovu",
+        "retrievedAt": "2026-01-20T10:00:00.000Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-0dec57f4-723d-454d-ae09-665f538ceeb6",
+      "name": "Sahitya Manjari",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-d269fbcb-fd96-4720-bd8a-1be555a505ee"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry Collection",
+      "abstract": "A collection of poems in 11 volumes, considered the magnum opus of Vallathol. It deals with diverse themes ranging from nationalism and nature to social inequality and Indian culture.",
+      "keywords": [
+        "Nationalism",
+        "Anthology",
+        "Social Reform"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vallathol_Narayana_Menon",
+        "retrievedAt": "2026-01-20T10:00:00.000Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-705ca172-d1bc-4606-8ca8-55a7de0ab523",
+      "name": "Odakkuzhal",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-307de4a0-e45b-4958-a368-214fcf739021"
+      },
+      "inLanguage": "Malayalam",
+      "genre": "Poetry Collection",
+      "dateCreated": "1950",
+      "abstract": "'The Bamboo Flute', a collection of poems that won the first Jnanpith Award in 1965. The poems reflect the poet's mystical vision and his deep connection with nature and the cosmos.",
+      "keywords": [
+        "Jnanpith",
+        "Mysticism",
+        "Nature",
+        "Symbolism"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Odakkuzhal",
+        "retrievedAt": "2026-01-20T10:00:00.000Z"
       }
     }
   ],

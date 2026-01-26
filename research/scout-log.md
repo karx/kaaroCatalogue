@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-20 - Enrichment: Malayalam Poetry
+**Source:** Wikipedia
+**Insight:** Enriched the catalog with the "Great Trio" (Adhunika Kavithrayam) of modern Malayalam poetry and the first Jnanpith Award winner. This fills a significant gap in the representation of Kerala's literary renaissance.
+**Action:**
+- Enriched `poets-index.json` with: Kumaran Asan, Vallathol Narayana Menon, G. Sankara Kurup.
+- Added representative works: *Veena Poovu*, *Sahitya Manjari*, *Odakkuzhal*.
+- Validated schema (ignoring known legacy Rekhta errors).
