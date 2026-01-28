@@ -165,25 +165,41 @@
       "name": "Biswa Kalyan Rath",
       "alternateName": [],
       "additionalType": "Comedian",
-      "birthDate": "",
-      "knowsLanguage": "hi",
-      "homeLocation": null,
+      "birthDate": "1989-12-27",
+      "knowsLanguage": "hi, en",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Rourkela, Odisha, India"
+      },
       "hasOccupation": {
         "@type": "Occupation",
         "name": "Stand-up Comedian"
       },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "IIT Kharagpur"
+      },
       "award": [],
-      "genre": [],
+      "genre": [
+        "Observational",
+        "Sarcasm"
+      ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
         "https://www.youtube.com/channel/UCyOyIUC4bBPjNWkd5gG30TA"
       ],
-      "keywords": [],
-      "verified": false,
-      "abstract": "",
-      "nationality": "",
-      "yearsActive": "",
-      "socialMedia": {},
+      "keywords": [
+        "Pretentious Movie Reviews",
+        "Laakhon Mein Ek",
+        "Mast Aadmi"
+      ],
+      "verified": true,
+      "abstract": "Biswa Kalyan Rath is an Indian stand-up comedian, writer, and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He created the Amazon Prime Video series Laakhon Mein Ek.",
+      "nationality": "Indian",
+      "yearsActive": "2014-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/channel/UCyOyIUC4bBPjNWkd5gG30TA"
+      },
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
@@ -196,25 +212,41 @@
       "name": "Kenny Sebastian",
       "alternateName": [],
       "additionalType": "Comedian",
-      "birthDate": "",
-      "knowsLanguage": "en",
-      "homeLocation": null,
+      "birthDate": "1990-12-31",
+      "knowsLanguage": "en, hi, kn, ml",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Bengaluru, India"
+      },
       "hasOccupation": {
         "@type": "Occupation",
         "name": "Stand-up Comedian"
       },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Karnataka Chitrakala Parishath"
+      },
       "award": [],
-      "genre": [],
+      "genre": [
+        "Musical Comedy",
+        "Observational"
+      ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Kenny_Sebastian",
         "https://www.youtube.com/channel/UCzNq9i-DlDDBLjPerVzJW-A"
       ],
-      "keywords": [],
-      "verified": false,
-      "abstract": "",
-      "nationality": "",
-      "yearsActive": "",
-      "socialMedia": {},
+      "keywords": [
+        "Comicstaan",
+        "The Most Interesting Person in The Room",
+        "Musician"
+      ],
+      "verified": true,
+      "abstract": "Kenneth Mathew Sebastian is an Indian stand-up comedian, musician and filmmaker. He rose to prominence through his YouTube channel and is known for his musical comedy and clean humor. He has released specials on Amazon Prime and Netflix.",
+      "nationality": "Indian",
+      "yearsActive": "2006-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/channel/UCzNq9i-DlDDBLjPerVzJW-A"
+      },
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Kenny_Sebastian",
@@ -227,25 +259,43 @@
       "name": "Kanan Gill",
       "alternateName": [],
       "additionalType": "Comedian",
-      "birthDate": "",
+      "birthDate": "1989-12-24",
       "knowsLanguage": "en",
-      "homeLocation": null,
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Bengaluru, India"
+      },
       "hasOccupation": {
         "@type": "Occupation",
         "name": "Stand-up Comedian"
       },
-      "award": [],
-      "genre": [],
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "MS Ramaiah Institute of Technology"
+      },
+      "award": [
+        "Punch Line Bangalore Winner"
+      ],
+      "genre": [
+        "Observational",
+        "Sketch Comedy"
+      ],
       "sameAs": [
         "https://en.wikipedia.org/wiki/Kanan_Gill",
         "https://www.youtube.com/channel/UC5W8kZaY_u59fwgtjnLrBXA"
       ],
-      "keywords": [],
-      "verified": false,
-      "abstract": "",
-      "nationality": "",
-      "yearsActive": "",
-      "socialMedia": {},
+      "keywords": [
+        "Pretentious Movie Reviews",
+        "Keep It Real",
+        "Noor"
+      ],
+      "verified": true,
+      "abstract": "Kanan Singh Gill is an Indian stand-up comedian, actor, and YouTuber. He gained fame with 'Pretentious Movie Reviews' alongside Biswa Kalyan Rath. He has released comedy specials like 'Keep It Real' and acted in the film 'Noor'.",
+      "nationality": "Indian",
+      "yearsActive": "2013-Present",
+      "socialMedia": {
+        "youtube": "https://www.youtube.com/channel/UC5W8kZaY_u59fwgtjnLrBXA"
+      },
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Kanan_Gill",

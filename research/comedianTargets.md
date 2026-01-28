@@ -185,8 +185,8 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - Notable: International touring comedian, Edinburgh Fringe
 
 27. **Vicky Roy**
-    - Language: Hindi
-    - Notable: Royal Stag Mirchi promoted artist
+    - ❌ INVALID TARGET: Photographer, not comedian.
+    - Status: Rejected
 
 28. **Naveen Richard**
     - Language: English
