@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-29T19:42:28.416Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 54,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1761,6 +1761,148 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-c16912a3-a5bb-4187-a470-bba66182b199",
+      "name": "Sahir Ludhianvi",
+      "alternateName": [
+        "Abdul Hayee"
+      ],
+      "additionalType": "Kavi",
+      "birthDate": "1921-03-08",
+      "deathDate": "1980-10-25",
+      "knowsLanguage": "Urdu, Hindi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Ludhiana, Punjab"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Lyricist"
+      },
+      "award": [
+        "Padma Shri (1971)",
+        "Filmfare Awards"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sahir_Ludhianvi",
+        "https://www.rekhta.org/poets/sahir-ludhianvi/profile"
+      ],
+      "keywords": [
+        "Progressive Writers",
+        "Film Lyrics",
+        "Social Justice",
+        "Romanticism"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Progressive Writers Movement",
+      "abstract": "A giant of Urdu poetry and Hindi film lyrics. His work is marked by a deep empathy for the downtrodden and a romanticism tinged with social consciousness. 'Taj Mahal' and 'Kabhie Kabhie' are iconic.",
+      "majorWorks": [
+        "Talkhiyan",
+        "Parchhaiyan",
+        "Aao Ke Koi Khwab Bunen"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sahir_Ludhianvi",
+        "retrievedAt": "2026-01-29T19:42:28.276Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-871cfbbd-306d-418f-a804-247d02d47b85",
+      "name": "Rahat Indori",
+      "alternateName": [
+        "Rahat Qureshi"
+      ],
+      "additionalType": "Kavi",
+      "birthDate": "1950-01-01",
+      "deathDate": "2020-08-11",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Indore, Madhya Pradesh"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Lyricist, Professor"
+      },
+      "award": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Rahat_Indori",
+        "https://www.rekhta.org/poets/rahat-indori/profile"
+      ],
+      "keywords": [
+        "Mushaira",
+        "Performance Poetry",
+        "Protest Poetry",
+        "Ghazal"
+      ],
+      "era": "Modern",
+      "century": "20th-21st Century",
+      "literaryMovement": "Contemporary Urdu Poetry",
+      "abstract": "A celebrated Urdu poet and lyricist known for his electrifying stage presence and simple yet hard-hitting language. His couplet 'Bulati hai magar jaane ka nai' became a viral internet sensation.",
+      "majorWorks": [
+        "Do Kadam Aur Sahi",
+        "Mere Baad",
+        "Rut",
+        "Naraz"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rahat_Indori",
+        "retrievedAt": "2026-01-29T19:42:28.352Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-eaf208a6-2c58-4ee7-bf6f-62675244e66c",
+      "name": "Nida Fazli",
+      "alternateName": [
+        "Muqtida Hasan Nida Fazli"
+      ],
+      "additionalType": "Kavi",
+      "birthDate": "1938-10-12",
+      "deathDate": "2016-02-08",
+      "knowsLanguage": "Urdu, Hindi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Gwalior, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Lyricist, Dialogue Writer"
+      },
+      "award": [
+        "Padma Shri (2013)",
+        "Sahitya Akademi Award (1998)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Nida_Fazli",
+        "https://www.rekhta.org/poets/nida-fazli/profile"
+      ],
+      "keywords": [
+        "Philosophy",
+        "Humanism",
+        "Ghazal",
+        "Doha"
+      ],
+      "era": "Modern",
+      "century": "20th-21st Century",
+      "literaryMovement": "Modern Urdu Poetry",
+      "abstract": "A prominent Indian Hindi and Urdu poet. His poetry often reflected the angst of the common man and the search for identity. He famously said 'Duniya jise kahte hain, jaadu ka khilona hai'.",
+      "majorWorks": [
+        "Lafzon Ka Pul",
+        "Mor Naach",
+        "Aankh Aur Khwab Ke Darmiyan"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nida_Fazli",
+        "retrievedAt": "2026-01-29T19:42:28.352Z"
       }
     }
   ],
@@ -75508,6 +75650,81 @@
         "name": "Academy of the Punjab in North America",
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-2b9f2686-e4b5-41b7-ba22-5ee8e552fadf",
+      "name": "Talkhiyan",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-c16912a3-a5bb-4187-a470-bba66182b199"
+      },
+      "inLanguage": "Urdu",
+      "dateCreated": "1943",
+      "genre": "Poetry Collection",
+      "abstract": "Sahir's first and most famous collection of poems, featuring 'Taj Mahal' and 'Kabhi Kabhi'. It established him as a revolutionary voice.",
+      "keywords": [
+        "Progressive",
+        "Bitter",
+        "Taj Mahal"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sahir_Ludhianvi",
+        "retrievedAt": "2026-01-29T19:42:28.352Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-36dd19f2-bb6c-42a0-a6a6-d5885641eb1b",
+      "name": "Bulati Hai Magar Jaane Ka Nai",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-871cfbbd-306d-418f-a804-247d02d47b85"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "A viral ghazal known for its opening sher 'Bulati hai magar jaane ka nai'. It speaks of caution and self-respect in the face of temptation.",
+      "content": {
+        "original": "Bulati hai magar jaane ka nai\nWo duniya hai udhar jaane ka nai",
+        "translation": "She calls, but one must not go\nThat is the world, one must not go there"
+      },
+      "keywords": [
+        "Viral",
+        "Ghazal",
+        "Pop Culture"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/ghazals/bulaatii-hai-magar-jaane-kaa-naiin-rahat-indori-ghazals",
+        "retrievedAt": "2026-01-29T19:42:28.352Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-51bc6583-f44e-4572-bc6b-44e10351f812",
+      "name": "Duniya Jise Kahte Hain",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-eaf208a6-2c58-4ee7-bf6f-62675244e66c"
+      },
+      "inLanguage": "Urdu",
+      "genre": "Ghazal",
+      "abstract": "A philosophical ghazal exploring the illusory nature of the world.",
+      "content": {
+        "original": "Duniya jise kahte hain jaadu ka khilona hai\nMil jaye to mitti hai kho jaye to sona hai",
+        "translation": "What they call the world is a toy of magic\nIf found, it is dust; if lost, it is gold"
+      },
+      "keywords": [
+        "Philosophy",
+        "Ghazal",
+        "Life"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/ghazals/duniyaa-jise-kahte-hain-jaaduu-kaa-khilonaa-hai-nida-fazli-ghazals",
+        "retrievedAt": "2026-01-29T19:42:28.352Z"
       }
     }
   ],

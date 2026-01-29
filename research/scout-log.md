@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-29 - Enrichment: Modern Urdu Poets
+**Source:** Wikipedia, Rekhta
+**Insight:** Filled major gaps in the "Modern" and "Contemporary" Urdu poetry section. Sahir Ludhianvi was a critical omission given his status in the Progressive Writers Movement. Rahat Indori and Nida Fazli represent the bridge between literary Urdu and popular/performance poetry.
+**Action:**
+- Enriched `poets-index.json` with: Sahir Ludhianvi, Rahat Indori, Nida Fazli.
+- Added representative works: Talkhiyan, Bulati Hai Magar Jaane Ka Nai, Duniya Jise Kahte Hain.
+- Validated against schema (new entries use proper UUIDs).
