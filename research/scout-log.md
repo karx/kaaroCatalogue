@@ -23,3 +23,10 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-01-30 - Enrichment: Jnanpith Laureates
+**Source:** Internal Research (Jnanpith Archives)
+**Insight:** The catalog was missing several key Jnanpith Award-winning poets, representing major linguistic traditions (Malayalam, Urdu, Bengali, Tamil, Odia).
+**Action:**
+- Enriched `poets-index.json` with 5 Jnanpith Laureates: G. Sankara Kurup, Firaq Gorakhpuri, Bishnu Dey, P.V. Akilan, and Sachidananda Routray.
+- Marked 'Vicky Roy' as an invalid target in comedy research to prevent misclassification.

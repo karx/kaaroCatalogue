@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-01-30T19:55:05.961Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 56,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1761,6 +1761,186 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-a39144b1-bd43-48a4-8268-ed12f56876cc",
+      "name": "G. Sankara Kurup",
+      "additionalType": "Kavi",
+      "birthDate": "1901-06-03",
+      "deathDate": "1978-02-02",
+      "knowsLanguage": "Malayalam",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "award": [
+        "Jnanpith Award (1965)"
+      ],
+      "sameAs": [],
+      "keywords": [
+        "Modern",
+        "Jnanpith"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "abstract": "The first winner of the Jnanpith Award (1965) for his collection Odakkuzhal (The Bamboo Flute). He was a mystic and a symbolist.",
+      "majorWorks": [
+        "Odakkuzhal"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G._Sankara_Kurup",
+        "retrievedAt": "2026-01-30T19:55:05.960Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-d6415f18-2621-468a-803c-36feb1719171",
+      "name": "Firaq Gorakhpuri",
+      "additionalType": "Kavi",
+      "birthDate": "1896-08-28",
+      "deathDate": "1982-03-03",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "award": [
+        "Jnanpith Award (1969)"
+      ],
+      "sameAs": [],
+      "keywords": [
+        "Modern",
+        "Jnanpith"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "abstract": "A Jnanpith Award winner known for his work Gul-e-Naghma.",
+      "majorWorks": [
+        "Gul-e-Naghma"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri",
+        "retrievedAt": "2026-01-30T19:55:05.960Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-9e6d5dc7-e5b0-437b-bd3b-554dfb7f6f6b",
+      "name": "Bishnu Dey",
+      "additionalType": "Kavi",
+      "birthDate": "1909-07-18",
+      "deathDate": "1982-12-03",
+      "knowsLanguage": "Bengali",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "award": [
+        "Jnanpith Award (1971)"
+      ],
+      "sameAs": [],
+      "keywords": [
+        "Modern",
+        "Jnanpith"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "abstract": "A Jnanpith Award winner known for his work Smriti Satta Bhabishyat.",
+      "majorWorks": [
+        "Smriti Satta Bhabishyat"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bishnu_Dey",
+        "retrievedAt": "2026-01-30T19:55:05.960Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-dd16fe13-86a2-4eb7-8f8f-bd74b42a9226",
+      "name": "P.V. Akilan",
+      "additionalType": "Kavi",
+      "birthDate": "1922-06-27",
+      "deathDate": "1988-01-31",
+      "knowsLanguage": "Tamil",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "award": [
+        "Jnanpith Award (1975)"
+      ],
+      "sameAs": [],
+      "keywords": [
+        "Modern",
+        "Jnanpith"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "abstract": "A Jnanpith Award winner known for his work Chittirappavai.",
+      "majorWorks": [
+        "Chittirappavai"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Akilan",
+        "retrievedAt": "2026-01-30T19:55:05.961Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-926c7fbd-1c68-4845-8fda-c47bd3cc87a9",
+      "name": "Sachidananda Routray",
+      "additionalType": "Kavi",
+      "birthDate": "1916-05-13",
+      "deathDate": "2004-08-21",
+      "knowsLanguage": "Odia",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "award": [
+        "Jnanpith Award (1986)"
+      ],
+      "sameAs": [],
+      "keywords": [
+        "Modern",
+        "Jnanpith"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "abstract": "A Jnanpith Award winner known for his work Kabita 1962.",
+      "majorWorks": [
+        "Kabita 1962"
+      ],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sachidananda_Routray",
+        "retrievedAt": "2026-01-30T19:55:05.961Z"
       }
     }
   ],
@@ -75508,6 +75688,116 @@
         "name": "Academy of the Punjab in North America",
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-89b05d63-22bd-491c-8631-1ca428e27f3e",
+      "name": "Odakkuzhal",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-a39144b1-bd43-48a4-8268-ed12f56876cc"
+      },
+      "inLanguage": "Malayalam",
+      "dateCreated": "",
+      "genre": "Poetry Collection",
+      "abstract": "Odakkuzhal by G. Sankara Kurup",
+      "keywords": [
+        "Poetry",
+        "Jnanpith"
+      ],
+      "source": {
+        "name": "Internal Research",
+        "url": "research/indianPoetIndex.md",
+        "retrievedAt": "2026-01-30T19:48:13.444Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-4345957b-35e1-4369-aa83-0b46c935c718",
+      "name": "Gul-e-Naghma",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-d6415f18-2621-468a-803c-36feb1719171"
+      },
+      "inLanguage": "Urdu",
+      "dateCreated": "",
+      "genre": "Poetry Collection",
+      "abstract": "Gul-e-Naghma by Firaq Gorakhpuri",
+      "keywords": [
+        "Poetry",
+        "Jnanpith"
+      ],
+      "source": {
+        "name": "Internal Research",
+        "url": "research/indianPoetIndex.md",
+        "retrievedAt": "2026-01-30T19:48:13.444Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-fa1b65db-24a0-4cd2-bcfe-2b40c8d1f5b0",
+      "name": "Smriti Satta Bhabishyat",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-9e6d5dc7-e5b0-437b-bd3b-554dfb7f6f6b"
+      },
+      "inLanguage": "Bengali",
+      "dateCreated": "",
+      "genre": "Poetry Collection",
+      "abstract": "Smriti Satta Bhabishyat by Bishnu Dey",
+      "keywords": [
+        "Poetry",
+        "Jnanpith"
+      ],
+      "source": {
+        "name": "Internal Research",
+        "url": "research/indianPoetIndex.md",
+        "retrievedAt": "2026-01-30T19:48:13.445Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-7f739246-d229-4c6c-96ca-3c2b2ebd9987",
+      "name": "Chittirappavai",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-dd16fe13-86a2-4eb7-8f8f-bd74b42a9226"
+      },
+      "inLanguage": "Tamil",
+      "dateCreated": "",
+      "genre": "Poetry Collection",
+      "abstract": "Chittirappavai by P.V. Akilan",
+      "keywords": [
+        "Poetry",
+        "Jnanpith"
+      ],
+      "source": {
+        "name": "Internal Research",
+        "url": "research/indianPoetIndex.md",
+        "retrievedAt": "2026-01-30T19:48:13.445Z"
+      }
+    },
+    {
+      "@type": "Book",
+      "workId": "work-14db8611-bc3f-4793-adec-dc5e57371518",
+      "name": "Kabita 1962",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-926c7fbd-1c68-4845-8fda-c47bd3cc87a9"
+      },
+      "inLanguage": "Odia",
+      "dateCreated": "",
+      "genre": "Poetry Collection",
+      "abstract": "Kabita 1962 by Sachidananda Routray",
+      "keywords": [
+        "Poetry",
+        "Jnanpith"
+      ],
+      "source": {
+        "name": "Internal Research",
+        "url": "research/indianPoetIndex.md",
+        "retrievedAt": "2026-01-30T19:48:13.445Z"
       }
     }
   ],
