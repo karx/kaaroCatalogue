@@ -12,15 +12,20 @@ import { discoverAllVideos } from './youtube-adapter.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CATALOG_PATH = path.join(__dirname, '..', 'data', 'catalogs', 'comedy-index.json');
 const WEB_CATALOG_PATH = path.join(__dirname, '..', 'web', 'data', 'catalogs', 'comedy-index.json');
-const TARGETS_PATH = path.join(__dirname, '..', '..', 'research', 'comedianTargets.md');
 
 /**
  * Parse comedian targets from research document
+ * @param {string} targetsPath - Path to the targets file
  * @returns {Promise<Array>} - List of target comedians
  */
-async function parseTargetComedians() {
+async function parseTargetComedians(targetsPath) {
     try {
-        const content = await fs.readFile(TARGETS_PATH, 'utf-8');
+        // Use default path if none provided
+        const defaultPath = path.join(__dirname, '..', '..', 'research', 'comedianTargets.md');
+        const filePath = targetsPath || defaultPath;
+
+        console.log(`Reading targets from: ${filePath}`);
+        const content = await fs.readFile(filePath, 'utf-8');
         const comedians = [];
 
         // Simple regex to extract comedian info from markdown
@@ -110,8 +115,10 @@ async function enrichComedian(target, catalog) {
         e.name.toLowerCase() === target.name.toLowerCase()
     );
 
-    if (existing && target.status === 'exists') {
-        console.log(`  ℹ️  Already in catalog as ${existing.entityId}`);
+    // Skip only if exists AND verified AND target marked as exists (unless force is used elsewhere)
+    // If existing but unverified (verified: false), we proceed to enrich/update
+    if (existing && target.status === 'exists' && existing.verified !== false) {
+        console.log(`  ℹ️  Already in catalog as ${existing.entityId} (Verified: ${existing.verified})`);
 
         // Still try to add videos if missing
         const existingVideos = (catalog.videos || []).filter(v =>
@@ -128,6 +135,8 @@ async function enrichComedian(target, catalog) {
             reason: 'already exists',
             entityId: existing.entityId
         };
+    } else if (existing) {
+        console.log(`  🔄 Re-enriching existing entity: ${existing.entityId} (Verified: ${existing.verified})`);
     }
 
     const result = {
@@ -187,10 +196,17 @@ async function enrichComedian(target, catalog) {
             console.log(`  ⚠️  No videos found on YouTube`);
         }
 
-        // Step 3: Add to catalog
+        // Step 3: Add to catalog or Update existing
         if (!existing) {
             catalog.entities.push(result.comedian);
             console.log(`  ➕ Added to entities`);
+        } else {
+            // Update existing entity
+            // Preserve ID and manually merge to avoid overwriting everything blindly
+            const originalId = existing.entityId;
+            Object.assign(existing, result.comedian);
+            existing.entityId = originalId; // Ensure ID is preserved
+            console.log(`  🔄 Updated entity metadata for ${existing.entityId}`);
         }
 
         // Step 4: Add videos to catalog
@@ -323,12 +339,19 @@ async function enrichAll(options = {}) {
 
         // Parse target comedians
         console.log('\n📋 Parsing target comedians...');
-        const targets = await parseTargetComedians();
+        const targets = await parseTargetComedians(options.targetsFile);
 
         // Filter out those that already exist (unless force option)
-        const toEnrich = options.force
-            ? targets
-            : targets.filter(t => t.status !== 'exists');
+        // Note: enrichComedian will also check verified status, so we pass 'exists' ones if force is false but let enrichComedian decide
+        // But to be efficient, we filter here too.
+        // If we provided a custom file, we likely want to process all of them.
+
+        let toEnrich;
+        if (options.force || options.targetsFile) {
+             toEnrich = targets;
+        } else {
+             toEnrich = targets.filter(t => t.status !== 'exists');
+        }
 
         console.log(`Found ${targets.length} total, ${toEnrich.length} to enrich`);
 
@@ -404,7 +427,8 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     const options = {
         dryRun: args.includes('--dry-run'),
         force: args.includes('--force'),
-        limit: parseInt(args.find(a => a.startsWith('--limit='))?.split('=')[1]) || null
+        limit: parseInt(args.find(a => a.startsWith('--limit='))?.split('=')[1]) || null,
+        targetsFile: args.find(a => a.startsWith('--file='))?.split('=')[1] || null
     };
 
     enrichAll(options).catch(err => {

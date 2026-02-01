@@ -23,3 +23,12 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-02-01 - Enrichment & Correction
+**Source:** Wikipedia, YouTube
+**Insight:** Enriched 5 "Tier 1" comedians (Biswa Kalyan Rath, Kenny Sebastian, Kanan Gill, Tanmay Bhat, Abish Mathew). Discovered and fixed a duplicate entity for "Abish Mathew" (previously misspelled as "Abhish"). Identified a critical issue where the enrichment script generated new IDs for existing entities, breaking video references.
+**Action:**
+- Enriched profiles with 100+ new videos.
+- Corrected Abish Mathew's name and consolidated records.
+- Patched `enrich-comedy-catalogue.js` to better handle updates.
+- Manually fixed video references to ensure all videos point to the correct persistent Entity IDs.

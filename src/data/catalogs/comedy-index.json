@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T20:01:03.699Z",
+  "updatedAt": "2026-02-01T20:02:34.270Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -15,7 +15,7 @@
     ],
     "totalEntities": 33,
     "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 504
+    "totalVideos": 526
   },
   "entities": [
     {
@@ -187,7 +187,7 @@
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
-        "retrievedAt": "2026-01-04T21:11:03.490Z"
+        "retrievedAt": "2026-02-01T20:02:15.422Z"
       }
     },
     {
@@ -218,7 +218,7 @@
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Kenny_Sebastian",
-        "retrievedAt": "2026-01-04T21:11:08.929Z"
+        "retrievedAt": "2026-02-01T20:02:19.789Z"
       }
     },
     {
@@ -249,7 +249,7 @@
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Kanan_Gill",
-        "retrievedAt": "2026-01-04T21:11:14.254Z"
+        "retrievedAt": "2026-02-01T20:02:24.031Z"
       }
     },
     {
@@ -280,38 +280,7 @@
       "source": {
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Tanmay_Bhat",
-        "retrievedAt": "2026-01-04T21:11:44.677Z"
-      }
-    },
-    {
-      "@type": "Person",
-      "entityId": "comedian-mk088x52-465cs",
-      "name": "Abhish Mathew",
-      "alternateName": [],
-      "additionalType": "Comedian",
-      "birthDate": "",
-      "knowsLanguage": "en",
-      "homeLocation": null,
-      "hasOccupation": {
-        "@type": "Occupation",
-        "name": "Stand-up Comedian"
-      },
-      "award": [],
-      "genre": [],
-      "sameAs": [
-        "https://en.wikipedia.org/wiki/Abish_Mathew",
-        "https://www.youtube.com/channel/UCtWoDeegvTPfuuNm_ilJntg"
-      ],
-      "keywords": [],
-      "verified": false,
-      "abstract": "",
-      "nationality": "",
-      "yearsActive": "",
-      "socialMedia": {},
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Abish_Mathew",
-        "retrievedAt": "2026-01-04T21:11:49.958Z"
+        "retrievedAt": "2026-02-01T20:02:27.993Z"
       }
     },
     {
@@ -1052,6 +1021,37 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sapan_Verma",
         "retrievedAt": "2026-01-17T19:51:10.936Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-ml463nqr-hmwjk",
+      "name": "Abish Mathew",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Abish_Mathew",
+        "https://www.youtube.com/channel/UCtWoDeegvTPfuuNm_ilJntg"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Abish_Mathew",
+        "retrievedAt": "2026-02-01T20:02:32.307Z"
       }
     }
   ],
@@ -2582,7 +2582,7 @@
       "name": "CBSE vs ME | Abish Mathew | Stand Up Comedy",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT8M15S",
       "embedUrl": "https://www.youtube.com/embed/ft80MCLMInI",
@@ -2600,7 +2600,7 @@
       "name": "FINISH | Abish Mathew | Full Comedy Special",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT52M25S",
       "embedUrl": "https://www.youtube.com/embed/-V2d32S6qGc",
@@ -2618,7 +2618,7 @@
       "name": "Big Brother & Bungee Jumping | Stand Up Comedy by Abish Mathew",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT11M8S",
       "embedUrl": "https://www.youtube.com/embed/7NO46SsPHRA",
@@ -2636,7 +2636,7 @@
       "name": "Fittest Man In The World | Stand Up Comedy by Abish Mathew",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT16M36S",
       "embedUrl": "https://www.youtube.com/embed/nnDChQS1NTw",
@@ -2654,7 +2654,7 @@
       "name": "Son Of Abish ft Yashraj Mukhate, Aishwarya Mohanraj, Nirmal Pillai & Abishek Kumar | Srushti Tawade",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT46M32S",
       "embedUrl": "https://www.youtube.com/embed/eeFEAjNPVSk",
@@ -2672,7 +2672,7 @@
       "name": "End Of The Month - Abish Mathew Comedy Music Video",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT4M33S",
       "embedUrl": "https://www.youtube.com/embed/do_1PmZKxgc",
@@ -2690,7 +2690,7 @@
       "name": "Billi eyelash? Feat. Vasan Bala, Rajkummar Rao & Radhika Apte",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT57S",
       "embedUrl": "https://www.youtube.com/embed/mVqq57T-g0Y",
@@ -2708,7 +2708,7 @@
       "name": "Train vs. Plane - Abish Mathew Stand Up Comedy",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT4M1S",
       "embedUrl": "https://www.youtube.com/embed/kLcs2Z1FsiM",
@@ -2726,7 +2726,7 @@
       "name": "Don't think! Just remember | CBSE",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT1M",
       "embedUrl": "https://www.youtube.com/embed/BDIoenCmNOM",
@@ -2744,7 +2744,7 @@
       "name": "Indian Dad Beating | Abish Mathew Stand Up Comedy | WHOOP",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT4M2S",
       "embedUrl": "https://www.youtube.com/embed/SWsJ2ghYuUg",
@@ -2762,7 +2762,7 @@
       "name": "Don't Do Drugs #360video - Abish Mathew Comedy Music Video",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT4M3S",
       "embedUrl": "https://www.youtube.com/embed/l4euBoJIkLk",
@@ -2780,7 +2780,7 @@
       "name": "When In Doubt, \"I'm Sorry\" | Abish Mathew Stand Up Comedy | Arguing With My Wife | WHOOP",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT4M23S",
       "embedUrl": "https://www.youtube.com/embed/WIpsHwxSqVs",
@@ -2798,7 +2798,7 @@
       "name": "Zakir Khan's Love For Biryani | Son Of Abish",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-005"
       },
       "duration": "PT2M3S",
       "embedUrl": "https://www.youtube.com/embed/qPTG6GKEbGs",
@@ -2816,7 +2816,7 @@
       "name": "Education System In India",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT1M28S",
       "embedUrl": "https://www.youtube.com/embed/1hHAxJaNwIU",
@@ -2834,7 +2834,7 @@
       "name": "Indian Languages Are Musical | Abish Mathew Stand Up Comedy",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT1M57S",
       "embedUrl": "https://www.youtube.com/embed/qVkCob_cK-I",
@@ -2852,7 +2852,7 @@
       "name": "Sisters & Washrooms | Abish Mathew Stand Up Comedy | WHOOP",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT4M35S",
       "embedUrl": "https://www.youtube.com/embed/wJC7o_Wcl0Q",
@@ -2870,7 +2870,7 @@
       "name": "Tanmay Bhat's new game plan | Streaming 🔴 | Part 1 | Journey Of A Joke",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-mk088t2d-f28x1"
       },
       "duration": "PT22M18S",
       "embedUrl": "https://www.youtube.com/embed/r4ddFYrK_Fk",
@@ -2888,7 +2888,7 @@
       "name": "School English Teacher",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT56S",
       "embedUrl": "https://www.youtube.com/embed/voPUlWDvPzw",
@@ -2906,7 +2906,7 @@
       "name": "What comes after kissing? | WHOOP Trailer | Abish Mathew Stand Up Comedy",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT1M3S",
       "embedUrl": "https://www.youtube.com/embed/cgJTxxKwoCA",
@@ -2924,7 +2924,7 @@
       "name": "Diwali in the city",
       "actor": {
         "@type": "Person",
-        "@id": "comedian-mk088x52-465cs"
+        "@id": "comedian-ml463nqr-hmwjk"
       },
       "duration": "PT49S",
       "embedUrl": "https://www.youtube.com/embed/i-vgKod0gGg",
@@ -10116,6 +10116,402 @@
       "genre": "Clip",
       "description": "",
       "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463cil-j01lj",
+      "name": "Learn Comedy on FrontRow with Biswa",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk087xaa-zgmhg"
+      },
+      "duration": "PT1M38S",
+      "embedUrl": "https://www.youtube.com/embed/lycIjZaxLxg",
+      "contentUrl": "https://www.youtube.com/watch?v=lycIjZaxLxg",
+      "uploadDate": "2020-12-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lycIjZaxLxg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What does it take to deliver the perfect joke? How do you structure it? What's it like to be a full-time standup comedian? How can you navigate around the comedy circuit? Learn all this and more in my comedy course, only on FrontRow - https://link.frontrow.co.in/3SYM2nZeRbb\n\nAam aadmi bana master ji",
+      "channelTitle": "Biswa Kalyan Rath",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463fsg-irwn5",
+      "name": "Simple Ken- Two Types of People@SauravMehta @PrashastiSinghStandup@shamikchakrabarti@Hoezaay",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT52M57S",
+      "embedUrl": "https://www.youtube.com/embed/CkhS-7KHoD4",
+      "contentUrl": "https://www.youtube.com/watch?v=CkhS-7KHoD4",
+      "uploadDate": "2026-01-31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CkhS-7KHoD4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "The fourth live episode of Two Types of People is here! Thanks to the live audience who came for this show (Link is available on bookmyshow once a month/simpleken podcast instagram page).\n\nType Types of People is a debate game where we choose a topic and defend it! Topics like Is Cricket Overhyped? ",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463fsg-34odk",
+      "name": "The Drunk Tale of Charulata - Stand Up Comedy by Kenny Sebastian",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk0881hd-mo1hs"
+      },
+      "duration": "PT18M18S",
+      "embedUrl": "https://www.youtube.com/embed/bYzT9i1zyj4",
+      "contentUrl": "https://www.youtube.com/watch?v=bYzT9i1zyj4",
+      "uploadDate": "2026-01-17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bYzT9i1zyj4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "This wild story (may or may not be inspired from real life) is the wild card entry of the show. My comedy special “Professor of Tomfoolery” goes through a massive change in tone with this bit. I was initially going to remove this from the special but every time I performed the tale of Charulata, peo",
+      "channelTitle": "Kenny Sebastian",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-0kadf",
+      "name": "KARTIK ARYAN REVIEW",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT25M49S",
+      "embedUrl": "https://www.youtube.com/embed/ufBIXbeGg6c",
+      "contentUrl": "https://www.youtube.com/watch?v=ufBIXbeGg6c",
+      "uploadDate": "2026-01-16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ufBIXbeGg6c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Catch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Kushagra Srivastavaa - https://linktr.ee/kushagracomedy\n• Aaditya Kulshreshth - https://link.district.in/DSTRKT/4kgdzxlp\n\nFOLLOW:\n\n• Rohan Jos",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-cb1bk",
+      "name": "HONEY SINGH EXPOSED?!?!",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT28M26S",
+      "embedUrl": "https://www.youtube.com/embed/2RG_cxjxOf4",
+      "contentUrl": "https://www.youtube.com/watch?v=2RG_cxjxOf4",
+      "uploadDate": "2026-01-28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2RG_cxjxOf4/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Catch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Kushagra Srivastavaa - https://linktr.ee/kushagracomedy\n• Aaditya Kulshreshth - https://link.district.in/DSTRKT/4kgdzxlp\n\nFOLLOW:\n\n• Rohan Jos",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-6v5o5",
+      "name": "Tanmay Reacts Parody 🤣",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT58S",
+      "embedUrl": "https://www.youtube.com/embed/tYgl3SLDWbs",
+      "contentUrl": "https://www.youtube.com/watch?v=tYgl3SLDWbs",
+      "uploadDate": "2025-07-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tYgl3SLDWbs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-e5wad",
+      "name": "Zakir Khan Roasts Tanmay Bhat 🔥",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M15S",
+      "embedUrl": "https://www.youtube.com/embed/49JmLQZItqM",
+      "contentUrl": "https://www.youtube.com/watch?v=49JmLQZItqM",
+      "uploadDate": "2025-08-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/49JmLQZItqM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-ulg0l",
+      "name": "Things You NEVER Hear at an Indian Wedding 💀",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M43S",
+      "embedUrl": "https://www.youtube.com/embed/k-hk4SWqjPg",
+      "contentUrl": "https://www.youtube.com/watch?v=k-hk4SWqjPg",
+      "uploadDate": "2026-01-11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k-hk4SWqjPg/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "✨happily never after✨\nft. @C@CeraveIndia",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-3p4uq",
+      "name": "If Dogs Could Talk 🐶",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT24S",
+      "embedUrl": "https://www.youtube.com/embed/A9CRBf9xPmU",
+      "contentUrl": "https://www.youtube.com/watch?v=A9CRBf9xPmU",
+      "uploadDate": "2026-02-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A9CRBf9xPmU/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-aaiz4",
+      "name": "DELHIITES ARE SAVAGE",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT12M28S",
+      "embedUrl": "https://www.youtube.com/embed/vQn6IPQ8Tik",
+      "contentUrl": "https://www.youtube.com/watch?v=vQn6IPQ8Tik",
+      "uploadDate": "2023-02-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vQn6IPQ8Tik/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "FOLLOW:\n• Rohan Joshi - https://www.instagram.com/mojorojo/\n• Aaditya Kulshreshth - https://www.instagram.com/kullubaaazi/\n• Vishal Dayama - https://www.instagram.com/dayamaged/\n• Nishant Tanwar - https://www.instagram.com/nishanttanwar/\n\nCHECK OUT MY OTHER CHANNELS\n• Honestly by Tanmay Bhat: https:",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-fsnak",
+      "name": "Palat Ke Letiye 🍑",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M8S",
+      "embedUrl": "https://www.youtube.com/embed/LSN-4CQf2jc",
+      "contentUrl": "https://www.youtube.com/watch?v=LSN-4CQf2jc",
+      "uploadDate": "2025-10-05",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LSN-4CQf2jc/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-h5533",
+      "name": "Roasting Carryminati 🔥",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M3S",
+      "embedUrl": "https://www.youtube.com/embed/VgaCQeV-57c",
+      "contentUrl": "https://www.youtube.com/watch?v=VgaCQeV-57c",
+      "uploadDate": "2025-08-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VgaCQeV-57c/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-ryv6w",
+      "name": "EVERY ENGINEER WILL RELATE",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT13M37S",
+      "embedUrl": "https://www.youtube.com/embed/-EnEoyCmVKs",
+      "contentUrl": "https://www.youtube.com/watch?v=-EnEoyCmVKs",
+      "uploadDate": "2022-12-27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-EnEoyCmVKs/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "FOLLOW:\n• Rohan Joshi - https://www.instagram.com/mojorojo/\n• Aaditya Kulshreshth - https://www.instagram.com/kullubaaazi/\n Nishant Tanwar - https://www.instagram.com/nishanttanwar/\n• Samay Raina - https://www.instagram.com/maisamayhoon/\n\nCHECK OUT MY OTHER CHANNELS\n• Honestly by Tanmay Bhat: https:",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-cbosf",
+      "name": "Happy birthday Jasssuuu 🥳",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M26S",
+      "embedUrl": "https://www.youtube.com/embed/kjTd6Vy-qRo",
+      "contentUrl": "https://www.youtube.com/watch?v=kjTd6Vy-qRo",
+      "uploadDate": "2025-07-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kjTd6Vy-qRo/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-ts6pf",
+      "name": "VIRAT KOHLI IS BACK!?!?",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT21M50S",
+      "embedUrl": "https://www.youtube.com/embed/iCKu-eilSso",
+      "contentUrl": "https://www.youtube.com/watch?v=iCKu-eilSso",
+      "uploadDate": "2025-09-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iCKu-eilSso/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Catch the panel live here - \n\n• Rohan Joshi - https://tinyurl.com/y44ptex2\n• Piyush Sharma - https://in.bookmyshow.com/events/piyush-sharma-live/ET00131954\n• Kushagra Srivastava - linktr.ee/kushagracomedy\n\nFOLLOW:\n\n• Rohan Joshi - https://www.instagram.com/mojorojo/\n• Piyush Sharma -  https://www.in",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-nu1r1",
+      "name": "This Gets Worse Every Second 📈",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M39S",
+      "embedUrl": "https://www.youtube.com/embed/GTwmTfcC7pw",
+      "contentUrl": "https://www.youtube.com/watch?v=GTwmTfcC7pw",
+      "uploadDate": "2025-09-12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GTwmTfcC7pw/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463m6d-bwboj",
+      "name": "What percentage did you score in your 10th exams? 🤓",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-mk088t2d-f28x1"
+      },
+      "duration": "PT1M10S",
+      "embedUrl": "https://www.youtube.com/embed/WXxn_it-Zng",
+      "contentUrl": "https://www.youtube.com/watch?v=WXxn_it-Zng",
+      "uploadDate": "2025-07-04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WXxn_it-Zng/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "",
+      "channelTitle": "Tanmay Bhat",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463p9a-iaphl",
+      "name": "Journey Of A Joke is back | Abish Mathew",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml463nqr-hmwjk"
+      },
+      "duration": "PT1M",
+      "embedUrl": "https://www.youtube.com/embed/zsi5DzyW6K8",
+      "contentUrl": "https://www.youtube.com/watch?v=zsi5DzyW6K8",
+      "uploadDate": "2022-09-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zsi5DzyW6K8/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Journey of A Joke, a series where we analyze a comedy bit and break it down one joke at a time, is back with another season! \n\nPrevious Seasons:\nSeason 1 - http://y2u.be/MYk9EZb7CKE\nSeason 2 - http://y2u.be/i-dRytrcbg4\nSeason 3 - http://y2u.be/wmNZMPYOeBQ\nSeason 4 - http://y2u.be/OpyMuRccSm4\nSeason ",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463p9a-38lbk",
+      "name": "Delta Variant",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml463nqr-hmwjk"
+      },
+      "duration": "PT30S",
+      "embedUrl": "https://www.youtube.com/embed/OPeEUkrBhko",
+      "contentUrl": "https://www.youtube.com/watch?v=OPeEUkrBhko",
+      "uploadDate": "2021-08-20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OPeEUkrBhko/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Get your shot soon,\nGetcho getcho shot soon.\n\nI’m coming, I’m coming… Like flu.\nYou can survive me if you get your shots soon.\nI’m the Delta Variant,\nQuite nefarious,\nNot taking me seriously, it’s quite hilarious.\n\nImma radical, riding that particle,\nYou are Inadequate,  while I am methodical,  \nTak",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463p9a-9jtpj",
+      "name": "Don't call Raj Tu! Feat  Vasan Bala, Rajkummar Rao & Radhika Apte",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml463nqr-hmwjk"
+      },
+      "duration": "PT21S",
+      "embedUrl": "https://www.youtube.com/embed/hffHF5aS1I0",
+      "contentUrl": "https://www.youtube.com/watch?v=hffHF5aS1I0",
+      "uploadDate": "2025-09-10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hffHF5aS1I0/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Son Of Abish Previous Seasons:\nSeason 1 - http://y2u.be/no67IQgU4TM\nSeason 2 - http://y2u.be/kNbXjtZ1oOE\nSeason 3 - http://y2u.be/G8RHe3xj3qA\nSeason 4 - http://y2u.be/WI7l7gifBCE\nSeason 5 - http://y2u.be/ru5LK-wgZMM\nSeason 6 - http://y2u.be/yaklQvoSqjo\nSeason 7 - http://y2u.be/caBKo4nlLSE\nSeason 8 -",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463p9a-dekje",
+      "name": "Delhi Mumbai Rivalry - Abish Mathew Stand Up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml463nqr-hmwjk"
+      },
+      "duration": "PT2M19S",
+      "embedUrl": "https://www.youtube.com/embed/H4lgf0Kt1Tk",
+      "contentUrl": "https://www.youtube.com/watch?v=H4lgf0Kt1Tk",
+      "uploadDate": "2016-07-01",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H4lgf0Kt1Tk/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "Watch Abish Mathew's latest Stand Up on Indian City Rivalry. Because in India, there is a kind of tradition of good-natured rivalry between different cities.\n\nHey guys, do check out my latest video ► https://www.youtube.com/watch?v=kLcs2Z1FsiM\n\nTwitter: https://twitter.com/abishmathew\nFacebook: http",
+      "channelTitle": "Son Of Abish",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml463p9a-5wt0b",
+      "name": "When Duty Calls | Abish Mathew feat. Naveen Richard | Sketch Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml463nqr-hmwjk"
+      },
+      "duration": "PT6M55S",
+      "embedUrl": "https://www.youtube.com/embed/iszXH11S_iM",
+      "contentUrl": "https://www.youtube.com/watch?v=iszXH11S_iM",
+      "uploadDate": "2018-11-19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iszXH11S_iM/hqdefault.jpg",
+      "genre": "Clip",
+      "description": "What happens when duty calls, would you answer it?\n\nThis sketch was written during Season 2 of Son Of Abish\nWritten by:\nAnirban Dasgupta - https://www.instagram.com/anirbandasgupta5/\nSiddharth Dudeja - https://www.instagram.com/siddharthdudeja/\nUrooj Ashfaq - https://www.instagram.com/uroojashfaq/\nS",
+      "channelTitle": "Son Of Abish",
       "aggregatorChannel": null
     }
   ],
