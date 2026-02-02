@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-02-02 - Enrichment: Vipul Goyal & Jnanpith Poets
+**Source:** Wikipedia, YouTube
+**Insight:** Enriched the comedy catalog with Vipul Goyal (Humorously Yours), who was missing despite being a major act. Added 10 videos. Also enriched poetry catalog with two missing Jnanpith Award winners: Firaq Gorakhpuri (Urdu) and G. Sankara Kurup (Malayalam), bridging the gap in modern Indian poetry.
+**Action:**
+- Added Vipul Goyal to `comedy-index.json`.
+- Added Firaq Gorakhpuri and G. Sankara Kurup to `poets-index.json`.
+- Validated schemas (ignored legacy work ID errors in poetry).

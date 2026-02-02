@@ -5,7 +5,7 @@
   "name": "Global Stand-Up Comedy Index",
   "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T20:01:03.699Z",
+  "updatedAt": "2026-02-02T19:55:02.255Z",
   "metadata": {
     "sources": [
       "YouTube",
@@ -13,9 +13,9 @@
       "Netflix is a Joke",
       "Dry Bar Comedy"
     ],
-    "totalEntities": 33,
+    "totalEntities": 34,
     "lastSync": "2026-01-04T20:30:00+05:30",
-    "totalVideos": 504
+    "totalVideos": 514
   },
   "entities": [
     {
@@ -1052,6 +1052,37 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sapan_Verma",
         "retrievedAt": "2026-01-17T19:51:10.936Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-ml5l9td2-e01ge",
+      "name": "Vipul Goyal",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi, en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Vipul_Goyal",
+        "https://www.youtube.com/channel/UCvLcuNVAb5sKRu7sHuFT0vQ"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vipul_Goyal",
+        "retrievedAt": "2026-02-02T19:54:59.943Z"
       }
     }
   ],
@@ -10116,6 +10147,186 @@
       "genre": "Clip",
       "description": "",
       "channelTitle": "Sapan Verma",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-yhh7r",
+      "name": "CHEATING IN DREAMS | VIPUL GOYAL | STAND-UP COMEDY",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT24M42S",
+      "embedUrl": "https://www.youtube.com/embed/yZMFBsYyJL0",
+      "contentUrl": "https://www.youtube.com/watch?v=yZMFBsYyJL0",
+      "uploadDate": "2025-09-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yZMFBsYyJL0/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "#cheating #vipulgoyal #dreams\n\nA hilarious take on how women always catch their man cheating in dreams. \nAMERICA + INDIA SHOWS:\nhttps://linktr.ee/humorouslyyoursvipul?fbclid=PAb21jcAMpRuRjbGNrAfsQYGV4dG4DYWVtAjExAAGmnrK5L5BWWs10H1L1Lpfv_r0aPAXFoKAb0tlqiQ5evYP2i-tvz49bhnL-_aem_57qmGl4CO-3GaOpUm9UlOg\n",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-267p1",
+      "name": "ROLE REVERSAL | VIPUL GOYAL | CROWDWORK",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT7M12S",
+      "embedUrl": "https://www.youtube.com/embed/WBJA6oUJn4Y",
+      "contentUrl": "https://www.youtube.com/watch?v=WBJA6oUJn4Y",
+      "uploadDate": "2025-11-03",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WBJA6oUJn4Y/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "#funny #vipulgoyal #comedy\n\nRole reversal on how women love asking their guy a lot of questions\nUPCOMING INDIA SHOWS:\nhttps://linktr.ee/humorouslyyoursvipul?fbclid=PAb21jcAMpRuRjbGNrAfsQYGV4dG4DYWVtAjExAAGmnrK5L5BWWs10H1L1Lpfv_r0aPAXFoKAb0tlqiQ5evYP2i-tvz49bhnL-_aem_57qmGl4CO-3GaOpUm9UlOg\n\nProductio",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-xo7nq",
+      "name": "GYNAECOLOGIST CROWDWORK",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT57S",
+      "embedUrl": "https://www.youtube.com/embed/hjhWW5ZKgz8",
+      "contentUrl": "https://www.youtube.com/watch?v=hjhWW5ZKgz8",
+      "uploadDate": "2025-02-21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hjhWW5ZKgz8/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-rld01",
+      "name": "QUESTIONS | MEN vs WOMEN | VIPUL GOYAL |  STAND-UP COMEDY",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT12M49S",
+      "embedUrl": "https://www.youtube.com/embed/CB0wFn94Mr4",
+      "contentUrl": "https://www.youtube.com/watch?v=CB0wFn94Mr4",
+      "uploadDate": "2025-03-29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CB0wFn94Mr4/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "A hilarious take on how girls and boys ask hypothetical questions. #comedy #vipulgoyal #MenWomen \nUK+EUROPE +INDIA ALL TICKETS\nhttps://linktr.ee/humorouslyyoursvipul?fbclid=PAY2xjawJUZ_dleHRuA2FlbQIxMQABpp6yuS-QVlrNdB9S9S6X7_69GjwFxaCgG9LZaokOXr2D9ovrb8-PW4Zy_g_aem_57qmGl4CO-3GaOpUm9UlOg",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-w7cxt",
+      "name": "Indian Bikers | Stand Up Comedy by Vipul Goyal",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT6M2S",
+      "embedUrl": "https://www.youtube.com/embed/d7vyqem4RwU",
+      "contentUrl": "https://www.youtube.com/watch?v=d7vyqem4RwU",
+      "uploadDate": "2019-05-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d7vyqem4RwU/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "Vipul Goyal's take on Indian bikers and their reckless attitude on roads. \n\n\nFollow Vipul Goyal on\nFacebook: https://www.facebook.com/humorouslyyours\nTwitter: https://twitter.com/humorouslyvipul\nInstagram: https://www.instagram.com/humorouslyyours/\n\nCredits:\nShot By: Shreedutt Namjoshi, Jerin Paul, ",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-y7c2f",
+      "name": "COUPLE ARGUMENTS, HOOKS & POCKETS | Vipul Goyal | Stand up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT13M32S",
+      "embedUrl": "https://www.youtube.com/embed/M-wtVn7JiR0",
+      "contentUrl": "https://www.youtube.com/watch?v=M-wtVn7JiR0",
+      "uploadDate": "2022-06-15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M-wtVn7JiR0/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "#VipulGoyal #couples #standupcomedy\nAUSTRALIA SHOWS in AUGUST \nSYDNEY, MELBOURNE & ADELAIDE\nhttps://www.premiertickets.co/vipul-goyal-australia-tour-2022/\nCANBERRA \nhttps://m.moshtix.com.au/v2/event/vipul-goyal-live-stand-up-comedy-canberra/139825\nBRISBANE https://www.standup.com.au/event/vipul-goya",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-bfhxj",
+      "name": "INDIA'S GOT FIR | VIPUL GOYAL| STAND-UP COMEDY",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT3M39S",
+      "embedUrl": "https://www.youtube.com/embed/SJ7acdifbvs",
+      "contentUrl": "https://www.youtube.com/watch?v=SJ7acdifbvs",
+      "uploadDate": "2025-02-23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SJ7acdifbvs/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "My take on recent Indias got latent controversy.\n#comedy #latent #vipulgoyal",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-g1n3p",
+      "name": "ADULTS vs BABIES | Stand Up Comedy by VIPUL GOYAL",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT5M55S",
+      "embedUrl": "https://www.youtube.com/embed/iiOT3LS_6O4",
+      "contentUrl": "https://www.youtube.com/watch?v=iiOT3LS_6O4",
+      "uploadDate": "2019-10-24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iiOT3LS_6O4/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "A light hearted take on how stupid we adults behave around babies.\n\nEditor: Tarun Singhal\nSound : Sohail Singh\nShot At: The Habitat\nSpecial Thanks: Amit Kulkarni, Gaurav Rungta and Piyush Sharma",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-2a3tg",
+      "name": "CRICKET MEMES & AMBANI WEDDING | VIPUL GOYAL| STAND-UP COMEDY",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT15M53S",
+      "embedUrl": "https://www.youtube.com/embed/D6OxfGtb6lg",
+      "contentUrl": "https://www.youtube.com/watch?v=D6OxfGtb6lg",
+      "uploadDate": "2024-07-07",
+      "thumbnailUrl": "https://i.ytimg.com/vi/D6OxfGtb6lg/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "Online trolling of cricketers and ambani wedding. #Ambani #cricket #vipulgoyal",
+      "channelTitle": "Vipul Goyal",
+      "aggregatorChannel": null
+    },
+    {
+      "@type": "VideoObject",
+      "videoId": "video-ml5l9v5b-v8erq",
+      "name": "DESH KA YUVA | Vipul Goyal | Stand up Comedy",
+      "actor": {
+        "@type": "Person",
+        "@id": "comedian-ml5l9td2-e01ge"
+      },
+      "duration": "PT14M30S",
+      "embedUrl": "https://www.youtube.com/embed/_nDwCMWJuvQ",
+      "contentUrl": "https://www.youtube.com/watch?v=_nDwCMWJuvQ",
+      "uploadDate": "2023-01-09",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_nDwCMWJuvQ/hqdefault.jpg",
+      "genre": "Stand-Up Comedy",
+      "description": "A Dil se Tribute to Desh Ka Yuva. #VipulGoyal #comedy #Yuva\n\nEUROPE + UK SHOWS in MAY\n\nAMSTERDAM, 7th May https://serioustimepassfilms.com/vipul-goyal-amsterdam\nLONDON, 12th MAY https://serioustimepassfilms.com/vipul-goyal-london\nDUBLIN, 14th MAY\nhttps://www.gkentertainment.ie/vipul-goyal-live-in-du",
+      "channelTitle": "Vipul Goyal",
       "aggregatorChannel": null
     }
   ],

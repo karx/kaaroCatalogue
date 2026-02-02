@@ -113,6 +113,13 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - Notable: "All India Rank", Lyricist, Writer
     - YouTube: @VarunGrover
 
+17. **Vipul Goyal**
+    - Status: ✅ Already in catalog
+    - Language: Hindi/English
+    - Wikipedia: https://en.wikipedia.org/wiki/Vipul_Goyal
+    - Notable: "Humorously Yours", TVF
+    - YouTube: @VipulGoyal
+
 ## Tier 2: Rising Stars & Regional Acts
 
 ### Regional Language Comedians

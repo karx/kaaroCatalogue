@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-02-02T19:55:18.383Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 53,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1761,6 +1761,54 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-firaq-gorakhpuri-ml5la4wy",
+      "name": "Firaq Gorakhpuri",
+      "additionalType": "Kavi",
+      "knowsLanguage": "Urdu",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri"
+      ],
+      "abstract": "Raghupati Sahay (28 August 1896 – 3 March 1982), also known by his pen name Firaq Gorakhpuri, was an Indian writer, critic, and, according to one commentator, one of the most noted contemporary Urdu poets from India.  He established himself among peers including Muhammad Iqbal, Yagana Changezi, Jigar Moradabadi and Josh Malihabadi.",
+      "confidence": 0.6,
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Urdu Poetry",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Firaq_Gorakhpuri",
+        "retrievedAt": "2026-02-02T19:55:14.914Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-g-sankara-kurup-ml5la6th",
+      "name": "G. Sankara Kurup",
+      "additionalType": "Kavi",
+      "knowsLanguage": "Malayalam",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/G._Sankara_Kurup"
+      ],
+      "abstract": "G. Sankara Kurup, (3 June 1901  – 2 February 1978) also referred to as Mahakavi G (The Great Poet G), was an Indian poet, essayist and literary critic  of Malayalam literature. Known as one of the greats of Malayalam poetry, he was the first recipient of the Jnanpith Award―the highest Indian literary honor.  He served as a nominated member of the Rajya Sabha from 1968 to 1972 and received the Padma Bhushan, the third highest Indian civilian award, in 1967. He was also a recipient of Sahitya Akad",
+      "confidence": 0.6,
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Malayalam Poetry",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G._Sankara_Kurup",
+        "retrievedAt": "2026-02-02T19:55:17.381Z"
       }
     }
   ],
