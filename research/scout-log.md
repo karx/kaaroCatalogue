@@ -23,3 +23,11 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-02-04 - Enrichment: Metadata Polish & Medieval Poets
+**Source:** Wikipedia
+**Insight:** Found significant metadata gaps (birth dates, locations) in `comedy-index.json` for 31 existing comedians. Also identified a lack of diverse Medieval/Bhakti/Sufi poets in `poets-index.json`.
+**Action:**
+- Systematically updated metadata for 31 comedians in `comedy-index.json` using fresh Wikipedia data, filling in birth dates, locations, and abstracts.
+- Added 5 significant Medieval/Bhakti/Sufi poets to `poets-index.json`: Baba Farid (Punjabi), Purandara Dasa (Kannada), Nammalvar (Tamil), Soyarabai (Marathi), and Sachal Sarmast (Sindhi).
+- Validated catalogs (noting legacy workId issues in poetry catalog).

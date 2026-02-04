@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-02-04T20:13:12.870Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 56,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -392,7 +392,6 @@
         "Tragedy"
       ],
       "abstract": "Known as Khuda-e-Sukhan (God of Poetry). His ghazals are marked by pathos (soz) and simplicity. Witnessing Delhi's devastation, his poetry reflects both personal and civilizational tragedy.",
-      "confidence": 0.7,
       "era": "Medieval",
       "century": "18th Century",
       "titles": [
@@ -421,7 +420,6 @@
       "sameAs": [
         "https://en.wikipedia.org/wiki/Muhammad_Iqbal"
       ],
-      "confidence": 0.5,
       "knowsLanguage": "Urdu",
       "era": "Modern",
       "century": "19th-20th Century",
@@ -1761,6 +1759,126 @@
         "name": "Rekhta",
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-baba-farid-ml8glejm",
+      "name": "Baba Farid",
+      "additionalType": "Kavi",
+      "knowsLanguage": "Punjabi",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Baba_Farid"
+      ],
+      "abstract": "Farīduddīn Masūd Ganjshakar (c. 4 April 1188 – 7 May 1266), commonly known as Bābā Farīd or Sheikh Farīd (also in Anglicised spelling Fareed, Fareed ud-Deen, Masood, etc.), was a 12th-13th century Punjabi Muslim mystic, poet and preacher. Revered by Hindus, Muslims and Sikhs alike, he remains one of the most revered Muslim mystics of South Asia during the Islamic Golden Age.",
+      "award": [],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Baba_Farid",
+        "retrievedAt": "2026-02-04T20:07:21.058Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-purandara-dasa-ml8glff3",
+      "name": "Purandara Dasa",
+      "additionalType": "Kavi",
+      "birthDate": "1470",
+      "knowsLanguage": "Sanskrit",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Purandara_Dasa"
+      ],
+      "keywords": [
+        "Bhakti",
+        "Modern",
+        "Medieval",
+        "Devotional"
+      ],
+      "abstract": "Purandara Dasa (IAST: Purandara Dāsa; (c.1470 – c.1564) was a composer, singer and a Haridasa philosopher from present-day Karnataka, India. He was a follower of Madhvacharya's Dvaita philosophy. He was one of the chief founding proponents that shaped modern Carnatic music. In honor of his contributions to Carnatic music, he is referred to as the Pitamaha (lit. \"grandsire\") of Carnatic music. According to a legend, he is considered as an incarnation of Narada.\nPurandara Dasa was a wealthy mercha",
+      "award": [],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+        "retrievedAt": "2026-02-04T20:07:22.191Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-nammalvar-ml8glga7",
+      "name": "Nammalvar",
+      "additionalType": "Kavi",
+      "birthDate": "8th century CE",
+      "knowsLanguage": "Tamil",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Nammalvar"
+      ],
+      "abstract": "Nammalvar was one of the twelve Alvar saints of Tamil Nadu, India, who are known for their affiliation to the Vaishnava tradition of Hinduism. The verses of the Alvars are compiled as the Naalayira Divya Prabandham, where praises are sung of 108 temples that are classified as divine realms, called the Divya Desams. Nammalvar is considered to be the fifth in the line of the twelve Alvars. He is highly regarded as a great mystic of the Vaishnava tradition. He is also considered to be the foremost ",
+      "award": [],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nammalvar",
+        "retrievedAt": "2026-02-04T20:07:23.311Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-soyarabai-ml8glh53",
+      "name": "Soyarabai",
+      "additionalType": "Kavi",
+      "birthDate": "August 1634",
+      "deathDate": "August 1681",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Karad"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Soyarabai"
+      ],
+      "abstract": "Soyarabai Bhosale (Mohite; 1634–1681) was born in August 1634 in the house of Mohite of Karad. Her parents was Sambhaji Mohite and Laxmibai Mohite.She was the second wife of Shivaji, the founder of the Maratha Empire in western India. She was the mother of Shivaji's second son, Rajaram and stepmother to Sambhaji. She was the younger sister of the Maratha army chief, Hambirrao Mohite.",
+      "award": [],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soyarabai",
+        "retrievedAt": "2026-02-04T20:07:24.423Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-sachal-sarmast-ml8gliu7",
+      "name": "Sachal Sarmast",
+      "additionalType": "Kavi",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sachal_Sarmast"
+      ],
+      "keywords": [
+        "Sufi"
+      ],
+      "abstract": "Sachal Sarmast or Sacho Sarmast (Sindhi: سچو سرمست‎; c. 1739 – 1827),  was an 18th and 19th century Sindhi Sufi poet, mystic and philosopher from Daraza (present-day Sindh, Pakistan), regarded as an important figure in the Sindhi-language literature. He is revered throughout Pakistan.",
+      "award": [],
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sachal_Sarmast",
+        "retrievedAt": "2026-02-04T20:07:26.623Z"
       }
     }
   ],
