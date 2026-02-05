@@ -5,6 +5,7 @@
 
 import fs from 'fs/promises';
 import path from 'path';
+import crypto from 'crypto';
 import { fileURLToPath } from 'url';
 import { discoverFromWikipediaList, extractFromWikipedia } from './sources/wikipedia.js';
 import { discover_rekhta_works, ingest_rekhta_works, extract_work_content } from './rekhta-adapter.js';
@@ -594,7 +595,7 @@ export async function add_work_to_catalog({ poetId, work }) {
     // Create work entry
     const workEntry = {
         "@type": work["@type"] || "CreativeWork",
-        workId: work.workId || `work-${Date.now().toString(36)}`,
+        workId: work.workId || `work-${crypto.randomUUID()}`,
         name: work.name,
         author: {
             "@type": "Person",
