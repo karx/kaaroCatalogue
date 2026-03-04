@@ -5,14 +5,14 @@
   "name": "Indian Kavi Index",
   "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
   "createdAt": "2026-01-04T20:30:00+05:30",
-  "updatedAt": "2026-01-17T19:52:28.417Z",
+  "updatedAt": "2026-02-05T19:43:57.741Z",
   "metadata": {
     "sources": [
       "Wikipedia",
       "Sahitya Akademi",
       "Jnanpith Archives"
     ],
-    "totalEntities": 51,
+    "totalEntities": 52,
     "lastSync": "2026-01-04T20:30:00+05:30"
   },
   "entities": [
@@ -1762,6 +1762,29 @@
         "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
       }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-sarojini-naidu-ml9v5ufc",
+      "name": "Sarojini Naidu",
+      "additionalType": "Kavi",
+      "knowsLanguage": "Bengali",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarojini_Naidu"
+      ],
+      "abstract": "Sarojini Naidu (née Chattopadhyay) (Bengali pronunciation: [ʃɔrod͡ʒini]; 13 February 1879 – 2 March 1949) was an Indian political activist and poet who served as the first Governor of United Provinces, after India's independence. She played an important role in the Indian independence movement against the British Raj. She was the first Indian woman to be president of the Indian National Congress and appointed governor of a state.\nBorn in a Bengali family in Hyderabad, Naidu was educated in Madra",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+      "extractedAt": "2026-02-05T19:42:55.561Z",
+      "confidence": 0.6,
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+        "retrievedAt": "2026-02-05T19:42:55.572Z"
+      }
     }
   ],
   "works": [
@@ -2402,7 +2425,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-cad1a8e8-e6e1-4937-ab84-874ec32c4fc7",
+      "workId": "work-17a56803-e5a7-49d2-b80a-58d02efed02f",
       "name": "Gitanjali",
       "author": {
         "@type": "Person",
@@ -2410,10 +2433,14 @@
       },
       "inLanguage": "Bengali",
       "source": {
-        "name": "KaaroCatalogue Archive",
-        "url": "https://en.wikipedia.org/wiki/Gitanjali",
-        "retrievedAt": "2026-01-04T18:38:55.927Z"
-      }
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+        "retrievedAt": "2026-02-05T19:43:57.976Z"
+      },
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Collection of poems, Song Offerings, which won the Nobel Prize.",
+      "keywords": []
     },
     {
       "@type": "CreativeWork",
@@ -74471,7 +74498,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272345-wn1ns",
+      "workId": "work-22502231-9f4d-4146-bf09-48c80e5d7443",
       "name": "tum apne shikwe ki baaten na khod khod ke puchho",
       "author": {
         "@type": "Person",
@@ -74501,7 +74528,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272347-gzx9a",
+      "workId": "work-a74c74e2-3529-49a6-8492-f9e9af139ddb",
       "name": "ohde se madh-e-naz ke bahar na aa saka",
       "author": {
         "@type": "Person",
@@ -74531,7 +74558,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272347-s3brc",
+      "workId": "work-b5ab358d-91d2-41f3-ab43-474572c69a74",
       "name": "ba-nala hasil-e-dil-bastagi faraham kar",
       "author": {
         "@type": "Person",
@@ -74561,7 +74588,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272347-jxpd4",
+      "workId": "work-50dfd779-8f95-4940-9c2d-ef16c6e581e2",
       "name": "barshikal-e-girya-e-ashiq hai dekha chahiye",
       "author": {
         "@type": "Person",
@@ -74591,7 +74618,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272347-izw88",
+      "workId": "work-2fb8f766-f525-4157-a2f1-220d2b4e5617",
       "name": "afsos ki dandan ka kiya rizq falak ne",
       "author": {
         "@type": "Person",
@@ -74621,7 +74648,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272347-ehx2d",
+      "workId": "work-a34cfa09-d683-4656-8ba6-e567a4cc7ff6",
       "name": "aamad-e-sailab-e-tufan-e-sada-e-ab hai",
       "author": {
         "@type": "Person",
@@ -74651,7 +74678,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272348-kmoh3",
+      "workId": "work-5eb4369c-0bd6-4a4e-8b8e-a0067b82a4f0",
       "name": "qatra-e-mai bas-ki hairat se nafas-parwar hua",
       "author": {
         "@type": "Person",
@@ -74681,7 +74708,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272348-mpz9x",
+      "workId": "work-631b3d85-2b4b-4185-8f4d-5d32bd1cff96",
       "name": "ghafil ba-wahm-e-naz KHud-ara hai warna yan",
       "author": {
         "@type": "Person",
@@ -74711,7 +74738,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272348-wbelj",
+      "workId": "work-3c2f0ba2-4e9f-49be-b352-a098d8b981bd",
       "name": "jarahat-tohfa almas-armughan dagh-e-jigar hadiya",
       "author": {
         "@type": "Person",
@@ -74741,7 +74768,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558272348-0ue2o",
+      "workId": "work-8e461d60-1982-4d62-95b2-c0a121ea7b94",
       "name": "ruKH-e-nigar se hai soz-e-jawidani-e-shama",
       "author": {
         "@type": "Person",
@@ -74771,7 +74798,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328530-gaty3",
+      "workId": "work-4546a741-50e6-490b-8f1c-745624ff9d39",
       "name": "patta patta buTa buTa haal hamara jaane hai",
       "author": {
         "@type": "Person",
@@ -74801,7 +74828,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328530-zqkpj",
+      "workId": "work-b22565b8-6617-4a7c-8d42-5a70ab0701b4",
       "name": "ulTi ho gain sab tadbiren kuchh na dawa ne kaam kiya",
       "author": {
         "@type": "Person",
@@ -74831,7 +74858,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328530-58qhm",
+      "workId": "work-d01a4255-566a-4db5-a093-b4b47fec5c37",
       "name": "hasti apni habab ki si hai",
       "author": {
         "@type": "Person",
@@ -74861,7 +74888,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-yqnwr",
+      "workId": "work-6f9da7bf-bccb-49bd-a84c-807c34bce581",
       "name": "dekh to dil ki jaan se uThta hai",
       "author": {
         "@type": "Person",
@@ -74891,7 +74918,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-zjocd",
+      "workId": "work-087f38ea-11ca-4cd4-a1dd-5a9f1f2723fa",
       "name": "faqirana aae sada kar chale",
       "author": {
         "@type": "Person",
@@ -74921,7 +74948,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-7k6ri",
+      "workId": "work-a35d76e5-27d8-4e5d-b307-50436de39a7e",
       "name": "kya kahun tum se main ki kya hai ishq",
       "author": {
         "@type": "Person",
@@ -74951,7 +74978,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-6t5wr",
+      "workId": "work-d670bea1-893f-4a8d-b0ba-e8c238c9c518",
       "name": "ashk aankhon mein kab nahin aata",
       "author": {
         "@type": "Person",
@@ -74981,7 +75008,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-m7l8i",
+      "workId": "work-b8854eed-b236-499e-bbab-f691d8889c80",
       "name": "rah-e-dur-e-ishq mein rota hai kya",
       "author": {
         "@type": "Person",
@@ -75011,7 +75038,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-4do7t",
+      "workId": "work-7b72819c-96f4-4c1e-9643-081964fbca2f",
       "name": "jis sar ko ghurur aaj hai yan taj-wari ka",
       "author": {
         "@type": "Person",
@@ -75041,7 +75068,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558328531-bk26x",
+      "workId": "work-3cb387a1-d734-4533-89b0-2b4e778cb6f0",
       "name": "yaro mujhe muaf rakho main nashe mein hun",
       "author": {
         "@type": "Person",
@@ -75071,7 +75098,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367744-2k13s",
+      "workId": "work-8a0e1f3e-66c7-40dc-8fe1-58c5c780ca96",
       "name": "sitaron se aage jahan aur bhi hain",
       "author": {
         "@type": "Person",
@@ -75101,7 +75128,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-g243a",
+      "workId": "work-9065837b-78ff-4d89-bc48-d663634de5bd",
       "name": "kabhi ai haqiqat-e-muntazar nazar aa libas-e-majaz mein",
       "author": {
         "@type": "Person",
@@ -75131,7 +75158,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-8gnad",
+      "workId": "work-2bc48c68-2cd8-4f3c-97a8-b59c55844584",
       "name": "tere ishq ki intiha chahta hun",
       "author": {
         "@type": "Person",
@@ -75161,7 +75188,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-5a1va",
+      "workId": "work-3530a7c0-1f9c-4738-9a91-41f5062d3840",
       "name": "KHirad-mandon se kya puchhun ki meri ibtida kya hai",
       "author": {
         "@type": "Person",
@@ -75191,7 +75218,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-66dsa",
+      "workId": "work-ada1b091-de17-4634-ad5d-026b142d7798",
       "name": "majnun ne shahr chhoDa to sahra bhi chhoD de",
       "author": {
         "@type": "Person",
@@ -75221,7 +75248,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-gtxal",
+      "workId": "work-930e23f9-d25b-426c-be4a-661d5eaffbcd",
       "name": "zamana aaya hai be-hijabi ka aam didar-e-yar hoga",
       "author": {
         "@type": "Person",
@@ -75251,7 +75278,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-vgunm",
+      "workId": "work-2d8e3126-aa35-4f6f-9fae-8a3dff1ee116",
       "name": "na tu zamin ke liye hai na aasman ke liye",
       "author": {
         "@type": "Person",
@@ -75281,7 +75308,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367745-unz1s",
+      "workId": "work-648c4cc0-274f-4c2e-8e25-c58e1f3cc9ff",
       "name": "jab ishq sikhata hai aadab-e-KHud-agahi",
       "author": {
         "@type": "Person",
@@ -75311,7 +75338,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367746-4kdow",
+      "workId": "work-cb294f39-85ca-4293-9c4c-842808612f32",
       "name": "nigah-e-faqr mein shan-e-sikandari kya hai",
       "author": {
         "@type": "Person",
@@ -75341,7 +75368,7 @@
     },
     {
       "@type": "CreativeWork",
-      "workId": "work-rekhta-1767558367746-jfvcb",
+      "workId": "work-a7ff9294-881a-475a-a0d2-ee1a2f173c9b",
       "name": "dil soz se Khaali hai nigah pak nahin hai",
       "author": {
         "@type": "Person",
@@ -75508,6 +75535,139 @@
         "name": "Academy of the Punjab in North America",
         "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
         "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-dab43577-aab5-4fd5-837e-3c3d9acf0ccd",
+      "name": "The Gardener",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Lyrics of love and life.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+        "retrievedAt": "2026-02-05T19:43:58.136Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-8fa895f4-88ce-4db9-a91d-222d76cd32cc",
+      "name": "The Home and the World",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Novel, Ghare Baire.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+        "retrievedAt": "2026-02-05T19:43:58.395Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-aa867584-cae0-4363-947f-3b3ed0029ea3",
+      "name": "Gora",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Novel tackling social and political issues.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+        "retrievedAt": "2026-02-05T19:43:58.719Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-6a9e98b5-99c6-4147-9e53-04e90acac78b",
+      "name": "Chokher Bali",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-003"
+      },
+      "inLanguage": "Bengali",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Novel about relationships and society.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+        "retrievedAt": "2026-02-05T19:43:59.142Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-89c7d128-6973-4cfa-a426-fafc4d6248ad",
+      "name": "Payoji Maine Ram Ratan Dhan Payo",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-meera-bai"
+      },
+      "inLanguage": "Hindi",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Famous bhajan celebrating the jewel of Ram.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Meera",
+        "retrievedAt": "2026-02-05T19:43:59.470Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-833a670f-48a3-4efa-ba6f-c68a3ab65895",
+      "name": "Mere To Giridhar Gopal",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-meera-bai"
+      },
+      "inLanguage": "Hindi",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Devotional song dedicated to Krishna, rejecting all other relations.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Meera",
+        "retrievedAt": "2026-02-05T19:43:59.811Z"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "workId": "work-9ce54235-3989-4168-8a00-e9cb02866c18",
+      "name": "Pag Ghungroo Bandh Meera Nachi Re",
+      "author": {
+        "@type": "Person",
+        "@id": "poet-meera-bai"
+      },
+      "inLanguage": "Hindi",
+      "genre": "",
+      "dateCreated": "",
+      "abstract": "Song of ecstatic devotion where Meera dances with anklets.",
+      "keywords": [],
+      "source": {
+        "name": "Manual Enrichment",
+        "url": "https://en.wikipedia.org/wiki/Meera",
+        "retrievedAt": "2026-02-05T19:44:00.017Z"
       }
     }
   ],

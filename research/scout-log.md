@@ -23,3 +23,13 @@
 - Added Amrita Pritam to `poets-index.json`.
 - Deduplicated `comedy-index.json` and removed invalid video references.
 - Validated all schemas.
+
+## 2026-02-05 - Enrichment: Major Poets & Schema Fixes
+**Source:** Wikipedia
+**Insight:** Found gaps for major figures: Sarojini Naidu was missing, and Rabindranath Tagore/Meera Bai lacked works in the catalog. Also identified valid `workId` generation issue (must be UUID).
+**Action:**
+- Added Sarojini Naidu to `poets-index.json` with comprehensive metadata.
+- Enriched Rabindranath Tagore with 5 major works (Gitanjali, Gora, etc.).
+- Enriched Meera Bai with 3 famous Bhajans.
+- Fixed `add_work_to_catalog` tool to generate valid UUIDs.
+- Cleaned up 46 invalid work entries (legacy IDs and null content).
