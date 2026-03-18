@@ -203,6 +203,16 @@ This document catalogs Indian stand-up comedians for systematic enrichment into 
     - Notable: EIC founder, "Obsessed"
     - YouTube: @sapanverma
 
+31. **Kapil Sharma**
+    - Wikipedia: https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)
+    - Language: Hindi
+    - Notable: Comedy Nights with Kapil, The Kapil Sharma Show
+
+32. **Aditi Mittal**
+    - Wikipedia: https://en.wikipedia.org/wiki/Aditi_Mittal
+    - Language: English/Hindi
+    - Notable: One of the first women stand-up comedians in India
+
 ## Comedy Collectives & Channels
 
 ### Aggregator Channels to Monitor
