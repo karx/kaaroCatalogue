@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ef752320-58e3-4a2f-94ee-6baac487baa7",
+  "name": "आसा का ईंधण करूँ, मनसा करूँ बिभूति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I use hope as fuel and desire as wealth. A yogi wanders and seeks, yet without this, they remain asleep.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आसा का ईंधण करूँ, मनसा करूँ बिभूति।\nजोगी फेरी फिल करूँ, यौं बिनना वो सूति।।१९९।।",
+    "translation": "I use hope as fuel and desire as wealth. A yogi wanders and seeks, yet without this, they remain asleep.",
+    "meaning": "मैं आशा को ईंधन और इच्छा को संपत्ति के रूप में उपयोग करता हूँ। एक योगी भ्रमण करता है और खोज करता है, लेकिन बिना इस सब के वह सोया रहता है।",
+    "explanation": "इस दोहे में कबीर ने आध्यात्मिक साधना की गहराई को उजागर किया है। उन्होंने बताया है कि आशा और इच्छा साधना के लिए आवश्यक ऊर्जा और प्रेरणा प्रदान करती हैं। एक योगी, जो निरंतर भटकता है और खोज करता है, जब तक कि वह इन तत्वों को नहीं समझता, तब तक वह जागरूकता की स्थिति में नहीं पहुँच सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.601Z"
+  }
+}

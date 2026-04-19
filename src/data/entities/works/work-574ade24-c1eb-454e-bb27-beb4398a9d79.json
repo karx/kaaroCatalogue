@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-574ade24-c1eb-454e-bb27-beb4398a9d79",
+  "name": "बलिहारी गुरु आपनो, घड़ी-घड़ी सौ-सौ बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I bow to my Guru a hundred times every moment. He transformed me from a mere human into a divine being effortlessly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बलिहारी गुरु आपनो, घड़ी-घड़ी सौ-सौ बार।\nमानुष से देवत किया, करत न लागी बार।।१।।",
+    "translation": "I bow to my Guru a hundred times every moment. He transformed me from a mere human into a divine being effortlessly.",
+    "meaning": "संत कबीर इस दोहे में गुरु की महिमा का वर्णन करते हैं। वे कहते हैं कि मैं अपने गुरु पर बार-बार बलिहारी (त्याग) जाता हूँ, क्योंकि उन्होंने मुझे अज्ञान के अंधकार से निकालकर ज्ञान के प्रकाश में ला दिया। गुरु ने मुझे मानव से देवता बनने का मार्ग दिखाया, और यह कार्य उन्होंने बिना समय गंवाए तुरंत कर दिया।",
+    "explanation": "यह दोहा गुरु की महानता का वर्णन करता है। संत कबीर कहते हैं कि गुरु का आशीर्वाद और शिक्षा हमें मनुष्य से देवता बना सकती है। गुरु का महत्व और उनकी शिक्षाओं का असर इतना गहरा होता है कि वह बिना किसी कठिनाई के हमें उच्चतम आध्यात्मिक स्तर पर पहुँचा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.818Z"
+  }
+}

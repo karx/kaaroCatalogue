@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ad3cb4ad-c1d4-430a-b4f5-71a3ff431ab0",
+  "name": "मारग चलते जो गिरा, ताकौं नाहि दोष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who falls while walking the path is not at fault. But if Kabir is sitting, then it is a fault of the head.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मारग चलते जो गिरा, ताकौं नाहि दोष।\nयह कबीर बैठा रहे, ता सिर करहैं दोष।।५९।।",
+    "translation": "One who falls while walking the path is not at fault. But if Kabir is sitting, then it is a fault of the head.",
+    "meaning": "जो मार्ग पर चलते हुए गिरता है, उसे दोष नहीं दिया जाता। लेकिन अगर कबीर बैठा रहे, तो यह सिर का दोष है।",
+    "explanation": "इस दोहे में कबीर ने आत्म-विश्लेषण और विनम्रता के बारे में बात की है। गिरने या असफल होने पर हमें दोष नहीं देना चाहिए, बल्कि आत्म-स्वीकृति और आत्म-आलोचना करनी चाहिए। कबीर ने स्वयं को एक उदाहरण के रूप में प्रस्तुत किया है, जहां आत्म-ध्यान और सुधार की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

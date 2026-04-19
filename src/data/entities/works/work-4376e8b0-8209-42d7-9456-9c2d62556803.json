@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4376e8b0-8209-42d7-9456-9c2d62556803",
+  "name": "जसे माया मन रमैं, तैसा राम रमाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As the mind dwells in illusion, so does Ram dwell in the heart. When you pierce the cosmic sphere, you reach the eternal abode.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जसे माया मन रमैं, तैसा राम रमाय।\nतारा मण्‍डल बेधि के, तब अमरापुर जाय।।७६६।।",
+    "translation": "As the mind dwells in illusion, so does Ram dwell in the heart. When you pierce the cosmic sphere, you reach the eternal abode.",
+    "meaning": "जैसे मन माया में रमता है, वैसे ही राम हृदय में निवास करते हैं। जब तुम तारा मंडल को भेदते हो, तब अमरापुर पहुँचते हो।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि जिस तरह मन माया में उलझा रहता है, वैसे ही भगवान राम हमारे हृदय में निवास करते हैं। जब व्यक्ति तारे के मंडल को पार कर अमरापुर की ओर बढ़ता है, तो वह वास्तविक आत्मा और ईश्वर की प्राप्ति करता है। इस प्रकार, आंतरिक ध्यान और भक्ति के माध्यम से दिव्य सच्चाई को पाया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

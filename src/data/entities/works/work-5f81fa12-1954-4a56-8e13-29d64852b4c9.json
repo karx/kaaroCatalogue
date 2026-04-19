@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5f81fa12-1954-4a56-8e13-29d64852b4c9",
+  "name": "Sakhi Granth",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Sakhi_Granth",
+    "retrievedAt": "2026-01-04T18:38:54.319Z"
+  }
+}

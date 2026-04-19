@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f6d56b7a-0c5e-473a-ac16-4be4900c7c4c",
+  "name": "मन मुरीद संसार है, गुरु मुरीद कोय साध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is a disciple of the world, and the guru is a true disciple. He who follows the words of the guru, his intellect is profound.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मुरीद संसार है, गुरु मुरीद कोय साध।\nजो माने गुरु बचन को, ताका मता अगाध।।११५०।।",
+    "translation": "The mind is a disciple of the world, and the guru is a true disciple. He who follows the words of the guru, his intellect is profound.",
+    "meaning": "मन संसार का मुरीद है और गुरु सच्चे मुरीद हैं। जो गुरु के शब्दों का अनुसरण करता है, उसकी बुद्धि गहन होती है।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिति और गुरु के प्रति श्रद्धा की बात की है। उन्होंने कहा कि संसार में मन भटकता रहता है, जबकि सच्चा गुरु सच्चे भक्त होते हैं। जो गुरु की बातों को मानता है, उसकी समझ और ज्ञान गहरा होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.707Z"
+  }
+}

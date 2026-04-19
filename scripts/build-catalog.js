@@ -50,6 +50,7 @@ function buildPoetsCatalog() {
     : {};
 
   const entities = loadEntities('poets');
+  const works = loadEntities('works');
 
   const catalog = {
     '@context': 'https://schema.org',
@@ -62,10 +63,12 @@ function buildPoetsCatalog() {
     metadata: {
       ...(manifest.metadata || {}),
       totalEntities: entities.length,
+      totalWorks: works.length,
       lastSync: new Date().toISOString(),
       generatedBy: 'build-catalog.js',
     },
     entities,
+    works,
   };
 
   return catalog;
@@ -108,7 +111,11 @@ function writeCatalog(name, catalog) {
   const filename = `${name}-index.json`;
   writeJson(join(CATALOGS_OUT, filename), catalog);
   writeJson(join(WEB_CATALOGS_OUT, filename), catalog);
-  console.log(`  ✓ ${filename} — ${catalog.entities?.length ?? 0} entities${catalog.videos ? `, ${catalog.videos.length} videos` : ''}`);
+  const extras = [
+    catalog.works ? `${catalog.works.length} works` : null,
+    catalog.videos ? `${catalog.videos.length} videos` : null,
+  ].filter(Boolean).join(', ');
+  console.log(`  ✓ ${filename} — ${catalog.entities?.length ?? 0} entities${extras ? `, ${extras}` : ''}`);
 }
 
 async function main() {

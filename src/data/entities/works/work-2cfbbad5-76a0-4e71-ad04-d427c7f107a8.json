@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2cfbbad5-76a0-4e71-ad04-d427c7f107a8",
+  "name": "जब लग मरने से डरैं, तब लगि प्रेमी नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as there is fear of death, true love is not present. The home of love is very far; understand this in your mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लग मरने से डरैं, तब लगि प्रेमी नांहि।\nबड़ी दूर है प्रेम घर, समझ लेहु मन मांहि।।८२०।।",
+    "translation": "As long as there is fear of death, true love is not present. The home of love is very far; understand this in your mind.",
+    "meaning": "जब तक मृत्यु का डर रहता है, तब तक सच्चा प्रेम नहीं होता। प्रेम का घर बहुत दूर है, इसे अपने मन में समझो।",
+    "explanation": "इस दोहे में कबीर ने मृत्यु के डर और सच्चे प्रेम के संबंध को दर्शाया है। जब तक मृत्यु का भय मन में रहता है, तब तक सच्चा प्रेम अनुभव नहीं हो सकता। सच्चा प्रेम उस स्थान पर होता है, जो मन की गहराइयों में समझा जाता है और उसे प्राप्त करना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

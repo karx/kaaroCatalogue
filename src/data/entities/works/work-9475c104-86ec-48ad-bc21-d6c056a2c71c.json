@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9475c104-86ec-48ad-bc21-d6c056a2c71c",
+  "name": "अन्तर्यामी एक तुम, आत्मा के आधार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You are the inner knower, the support of the soul. If you let go of your hand, who will help one cross over?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अन्तर्यामी एक तुम, आत्मा के आधार।\nजो तुम छोड़ो हाथ तो, कौन उतारे पार।।४१।।",
+    "translation": "You are the inner knower, the support of the soul. If you let go of your hand, who will help one cross over?",
+    "meaning": "तुम ही अंतर्यामी हो, आत्मा के आधार हो। यदि तुम अपना हाथ छोड़ दो, तो कौन पार लगाएगा?",
+    "explanation": "इस दोहे में संत कबीर भगवान की अद्वितीयता और उनके प्रति आस्था की बात करते हैं। भगवान ही आत्मा के सबसे बड़े आधार होते हैं। यदि भगवान ने हमें छोड़ दिया, तो कोई भी हमें पार नहीं लगा सकता। यह दोहा हमें भगवान की अपरिहार्यता और उनके प्रति अडिग विश्वास की महत्वपूर्णता को समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

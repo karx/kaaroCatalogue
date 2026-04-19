@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c810210d-acfd-4862-ba12-39b0da42ca41",
+  "name": "कबीर आरणि पैसि करि, पीछैं रहै सु सूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, even if you struggle with the fire, the sun remains behind. By being true to the Lord, you will always be in His presence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर आरणि पैसि करि, पीछैं रहै सु सूर।\nसांई सूं साचा भया, रहसी सदा हजूर।।१९११।।",
+    "translation": "Kabir says, even if you struggle with the fire, the sun remains behind. By being true to the Lord, you will always be in His presence.",
+    "meaning": "कबीर कहते हैं, यदि आप आग के साथ संघर्ष करते हैं, तो भी सूर्य पीछे रहता है। भगवान के प्रति सच्चे रहते हुए, आप हमेशा उनकी उपस्थिति में रहेंगे।",
+    "explanation": "इस दोहे में कबीरदास जी यह समझाते हैं कि चाहे आप कितनी भी कठिनाइयों का सामना करें, भगवान के प्रति सच्चे और ईमानदार रहने पर आप हमेशा उनकी उपस्थिति में रहेंगे। यह दोहा सच्चे समर्पण और विश्वास की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.247Z"
+  }
+}

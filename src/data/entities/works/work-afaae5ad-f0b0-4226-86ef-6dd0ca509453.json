@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-afaae5ad-f0b0-4226-86ef-6dd0ca509453",
+  "name": "लाहा केरी नावरी, पाहन गरुवा भार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The burden of iron is heavy, and the stone weighs down. The pot of poison on the head desires to cross over.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लाहा केरी नावरी, पाहन गरुवा भार।\nसिर पर विष की पोटरी, उतरन चाहे पार।।१६७१।।",
+    "translation": "The burden of iron is heavy, and the stone weighs down. The pot of poison on the head desires to cross over.",
+    "meaning": "लोहा का भार भारी होता है, और पत्थर भी बोझिल होता है। सिर पर विष का बर्तन है, पार करने की इच्छा करता है।",
+    "explanation": "कबीर इस दोहे में जीवन के बोझ और वास्तविकता की बात करते हैं। उन्होंने कहा कि विष का बर्तन सिर पर होने के बावजूद पार करने की इच्छा रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.788Z"
+  }
+}

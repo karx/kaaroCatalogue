@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-46f7a9a9-c464-4ae4-afd3-bd1a343280a8",
+  "name": "शुकदेव सरीखा फेरिया, तो को पावे पार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if someone as wise as Shukdev wanders around, they cannot cross over without a Guru. Without a Guru, one is bound to fall into the cycle of 84 lakh life forms.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शुकदेव सरीखा फेरिया, तो को पावे पार।\nबिनु गुरु निगुरा जो रहे, पड़े चौरासी धार।।३०१।।",
+    "translation": "Even if someone as wise as Shukdev wanders around, they cannot cross over without a Guru. Without a Guru, one is bound to fall into the cycle of 84 lakh life forms.",
+    "meaning": "अगर कोई शुकदेव के समान बुद्धिमान भी इधर-उधर भटके, तो भी वह गुरु के बिना पार नहीं पा सकता। बिना गुरु के, व्यक्ति 84 लाख योनियों के चक्र में फंस जाता है।",
+    "explanation": "कबीर इस दोहे में गुरु की आवश्यकता पर जोर देते हैं। वे कहते हैं कि चाहे कोई व्यक्ति कितना भी ज्ञानी क्यों न हो, वह गुरु के बिना जीवन के दुखों से मुक्त नहीं हो सकता और जन्म-मरण के चक्र में फंसा रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

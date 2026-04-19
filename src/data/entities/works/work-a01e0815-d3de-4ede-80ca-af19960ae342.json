@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a01e0815-d3de-4ede-80ca-af19960ae342",
+  "name": "साधु आया पाहना, मांगै चार रतन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When a saint comes as a guest, he asks for four jewels. The hearth, water, and utensils are needed, and with devotion, food is served.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु आया पाहना, मांगै चार रतन।\nधुनी पानी साथरा, सरधा सेती अन्‍न।।५९१।।",
+    "translation": "When a saint comes as a guest, he asks for four jewels. The hearth, water, and utensils are needed, and with devotion, food is served.",
+    "meaning": "जब कोई साधु अतिथि के रूप में आता है, तो वह चार रत्न मांगता है। चूल्हा, पानी, बर्तन की आवश्यकता होती है, और श्रद्धा से भोजन परोसा जाता है।",
+    "explanation": "संतों के आगमन पर हमें चार बुनियादी चीजों की व्यवस्था करनी होती है: चूल्हा, पानी, बर्तन और श्रद्धा के साथ भोजन। संतों की सेवा और सम्मान का यह तरीका हमें उनके प्रति हमारी श्रद्धा और समर्पण को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

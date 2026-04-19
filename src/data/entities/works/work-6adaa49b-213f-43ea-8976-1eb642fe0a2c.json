@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6adaa49b-213f-43ea-8976-1eb642fe0a2c",
+  "name": "राम नाम जाना नहीं, लागी मोटी खोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one does not know the name of Ram, it is like having a heavy load. The body is a clay pot, it will not rise again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम जाना नहीं, लागी मोटी खोर।\nकाया हांड़ी काठ की, ना वह चढ़े बहोर।।७८८।।",
+    "translation": "If one does not know the name of Ram, it is like having a heavy load. The body is a clay pot, it will not rise again.",
+    "meaning": "यदि किसी को राम का नाम नहीं पता, तो वह भारी बोझ जैसा है। शरीर एक मिट्टी का बर्तन है, वह दोबारा नहीं उठेगा।",
+    "explanation": "इस दोहे में कबीर ने राम के नाम के महत्व को दर्शाया है। उन्होंने कहा है कि यदि किसी को राम का नाम नहीं पता, तो वह भारी बोझ की तरह है। शरीर एक अस्थायी और नाशवान बर्तन है, जो जीवन के अंत में कुछ भी नहीं ले जा सकता। राम का नाम आत्मा को जीवन की सच्चाई और परमानंद की ओर ले जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

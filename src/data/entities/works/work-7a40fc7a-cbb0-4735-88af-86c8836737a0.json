@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a40fc7a-cbb0-4735-88af-86c8836737a0",
+  "name": "कबीर खोजी राम का, गया जु सिंघल दीप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, a seeker of Ram, went to Ceylon Island. But Ram, who resides within, is realized only when one has faith.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर खोजी राम का, गया जु सिंघल दीप।\nराम तो घट भीतर रमि रह्या, जौ आवै परतीत।।१९३६।।",
+    "translation": "Kabir, a seeker of Ram, went to Ceylon Island. But Ram, who resides within, is realized only when one has faith.",
+    "meaning": "कबीर, जो राम के खोजी थे, श्रीलंका द्वीप गए। लेकिन राम तो भीतर निवास करता है, और इसे केवल विश्वास से ही महसूस किया जा सकता है।",
+    "explanation": "इस दोहे में कबीरदास जी ने बताया है कि राम को खोजने के लिए यात्रा पर जाना जरूरी नहीं है। राम भीतर ही निवास करता है और इसे पहचानने के लिए विश्वास की आवश्यकता होती है। कबीर ने अपने अनुभव के माध्यम से इस तथ्य को स्पष्ट किया है कि वास्तविक खोज आत्मा के भीतर होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.254Z"
+  }
+}

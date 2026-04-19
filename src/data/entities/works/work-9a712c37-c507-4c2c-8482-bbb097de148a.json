@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9a712c37-c507-4c2c-8482-bbb097de148a",
+  "name": "Kamba Ramayanam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kamban"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Kamba_Ramayanam",
+    "retrievedAt": "2026-01-04T18:39:08.297Z"
+  }
+}

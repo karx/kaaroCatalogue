@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4e244817-7985-4cb9-9db2-f48121e4aba3",
+  "name": "हंसा के घट भीतरे, बसे सरोवर खोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Within the vessel of the swan resides the tainted lake. No living being finds a place; all remain hidden behind covers.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसा के घट भीतरे, बसे सरोवर खोट।\nएकौ जीव ठौर नहिं लागा, रहा सो ओटहि ओट।।१७०८।।",
+    "translation": "Within the vessel of the swan resides the tainted lake. No living being finds a place; all remain hidden behind covers.",
+    "meaning": "हंस के घट के भीतर एक खराब सरोवर स्थित है। कोई भी जीव ठौर नहीं पाता; सभी छिपे रहते हैं।",
+    "explanation": "कबीर इस दोहे में आंतरिक सत्य और दृष्टिकोण की बात करते हैं। उन्होंने कहा कि बाहरी रूप के बावजूद, असली स्थिति हमेशा छिपी रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.069Z"
+  }
+}

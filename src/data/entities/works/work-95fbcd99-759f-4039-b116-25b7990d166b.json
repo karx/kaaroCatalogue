@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-95fbcd99-759f-4039-b116-25b7990d166b",
+  "name": "सूरा झूझै गिरद सूं, इ�� दिसि सूर न होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A hero struggles with a lion, but on one side, he cannot overcome the lion. Kabir says, without a true guide, no one is truly good.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूरा झूझै गिरद सूं, इक दिसि सूर न होइ।\nकबीर यौं बिन सूरिवां, भला न कहिसी कोइ।।१९१०।।",
+    "translation": "A hero struggles with a lion, but on one side, he cannot overcome the lion. Kabir says, without a true guide, no one is truly good.",
+    "meaning": "एक योद्धा शेर से संघर्ष करता है, लेकिन एक ओर वह शेर पर विजय प्राप्त नहीं कर सकता। कबीर कहते हैं, बिना सच्चे गुरु के कोई भी व्यक्ति वास्तव में अच्छा नहीं है।",
+    "explanation": "इस दोहे में कबीरदास जी यह बताना चाहते हैं कि एक व्यक्ति बाहरी संघर्षों में भले ही मजबूत प्रतीत हो, लेकिन यदि उसके पास एक सच्चा मार्गदर्शक (गुरु) नहीं है, तो वह पूरी तरह से सफल नहीं हो सकता। सच्चे गुरु के बिना, कोई भी व्यक्ति सही मार्ग पर नहीं चल सकता। यह दोहा सच्चे गुरु की महत्वता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.247Z"
+  }
+}

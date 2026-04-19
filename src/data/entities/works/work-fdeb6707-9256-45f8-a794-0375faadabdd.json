@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fdeb6707-9256-45f8-a794-0375faadabdd",
+  "name": "चतुराई चुल्‍है पड़े, ज्ञान कथै हुलसाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Cunning is like a burnt stove; knowledge seems to be lost. Without understanding true devotion and feeling, knowledge becomes meaningless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चतुराई चुल्‍है पड़े, ज्ञान कथै हुलसाय।\nभाव भक्ति जानै बिना, ज्ञानपनो चलि जाय।।१३१५।।",
+    "translation": "Cunning is like a burnt stove; knowledge seems to be lost. Without understanding true devotion and feeling, knowledge becomes meaningless.",
+    "meaning": "चतुराई जले हुए चूल्हे की तरह होती है; ज्ञान खो सा जाता है। वास्तविक भक्ति और भावनाओं की समझ के बिना, ज्ञान बेकार हो जाता है।",
+    "explanation": "कबीर जी के अनुसार, चतुराई और चालाकी किसी काम की नहीं होती; ज्ञान की वास्तविकता तब समझ में आती है जब उसमें भक्ति और भावनाओं की गहराई हो। बिना इनकी समझ के ज्ञान की कोई वास्तविकता नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.811Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-093e8f9d-6591-4481-961b-3598f2dc28c0",
+  "name": "मोटी माया सब तजैं, झीनी तजी न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Gross illusion can be abandoned by all, but subtle illusion cannot be easily left behind. Saints, prophets, and holy people all fall prey to the subtle illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मोटी माया सब तजैं, झीनी तजी न जाय।\nपीर पैगम्‍बर औलिया, झीनी सबको खाय।।११७८।।",
+    "translation": "Gross illusion can be abandoned by all, but subtle illusion cannot be easily left behind. Saints, prophets, and holy people all fall prey to the subtle illusion.",
+    "meaning": "मोटी माया को सभी छोड़ सकते हैं, लेकिन सूक्ष्म माया को छोड़ना आसान नहीं है। पीर, पैगंबर, और औलिया भी सूक्ष्म माया के शिकार होते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया के विभिन्न स्तरों की बात की है। वे बताते हैं कि मोटी और स्पष्ट माया को छोड़ना अपेक्षाकृत आसान है, लेकिन सूक्ष्म माया को छोड़ना कठिन है। यहां तक कि संत, पैगंबर, और औलिया जैसे पवित्र लोग भी सूक्ष्म माया से प्रभावित होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.972Z"
+  }
+}

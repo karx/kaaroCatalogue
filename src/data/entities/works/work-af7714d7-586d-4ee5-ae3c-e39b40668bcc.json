@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-af7714d7-586d-4ee5-ae3c-e39b40668bcc",
+  "name": "शीलवन्त सबसे बड़ा, सब रतनन की खान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Character is the greatest virtue, a mine of all gems. The wealth of the three worlds lies in good character.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शीलवन्त सबसे बड़ा, सब रतनन की खान।\nतीन लोक की संपदा, रही शील में आन।।९।।",
+    "translation": "Character is the greatest virtue, a mine of all gems. The wealth of the three worlds lies in good character.",
+    "meaning": "शील सबसे बड़ी संपत्ति है, जो सभी रत्नों का खजाना है। तीनों लोकों की संपदा अच्छे चरित्र में समाहित है।",
+    "explanation": "यह दोहा नैतिकता और चरित्र की महत्ता पर प्रकाश डालता है। संत कबीर कहते हैं कि शील या अच्छा चरित्र सबसे बड़ी संपत्ति है, जो सभी भौतिक और आध्यात्मिक सम्पदाओं से बढ़कर है। अगर हमारे पास शील है, तो यह हमें तीनों लोकों की सम्पदा से अधिक मूल्यवान बनाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

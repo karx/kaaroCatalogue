@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ed8cd69f-1f44-4415-9ae4-27bd33cd731f",
+  "name": "जप तप दीखै थोथरा, तीरथ ब्रत विश्‍वास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chanting and penance appear hollow, pilgrimages and vows are empty faith. Like a parrot sitting on a silk-cotton tree, the world moves on in disappointment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जप तप दीखै थोथरा, तीरथ ब्रत विश्‍वास।\nसूवा सेमल सेइया, यों जग चला निरास।।१३६५।।",
+    "translation": "Chanting and penance appear hollow, pilgrimages and vows are empty faith. Like a parrot sitting on a silk-cotton tree, the world moves on in disappointment.",
+    "meaning": "जप और तपना खोखला लगता है, तीर्थ यात्रा और व्रत का विश्वास झूठा है। जैसे सूत का पक्षी सेमल के पेड़ पर बैठता है, वैसे ही यह संसार निराशा में चला जाता है।",
+    "explanation": "कबीर जी कहते हैं कि अगर किसी धार्मिक क्रिया में सच्ची भावना और आत्मा का जुड़ाव नहीं है, तो वह केवल खोखला आडंबर है। तीर्थ यात्रा और व्रत जैसी चीज़ें अगर केवल दिखावे के लिए की जाएं तो वे किसी काम की नहीं हैं। कबीर जी का यह दोहा हमें बताता है कि सच्ची आस्था और भक्ति के बिना कोई भी धार्मिक कर्म निरर्थक है, और इससे व्यक्ति को केवल निराशा ही हाथ लगती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.085Z"
+  }
+}

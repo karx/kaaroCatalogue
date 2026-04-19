@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e7b120c-24ba-4fc5-95a9-1756fbaa1eb7",
+  "name": "कबीर औंधी खोपड़ी, कबहूं धापै नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the upside-down skull never gets covered. The wealth of the three worlds, when will it come to one's home?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर औंधी खोपड़ी, कबहूं धापै नांहि।\nतीन लोक की सम्‍पदा, कब आवै घर मांहि।।१७३३।।",
+    "translation": "Kabir says, the upside-down skull never gets covered. The wealth of the three worlds, when will it come to one's home?",
+    "meaning": "कबीर कहते हैं, उलटी खोपड़ी कभी ढकी नहीं जाती। तीनों लोकों की संपत्ति, कब घर आएगी?",
+    "explanation": "कबीर इस दोहे में ज्ञान और भौतिक धन की बात करते हैं। उन्होंने कहा कि भौतिक संपत्ति के चक्कर में मनुष्य वास्तविक ज्ञान को समझ नहीं पाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.075Z"
+  }
+}

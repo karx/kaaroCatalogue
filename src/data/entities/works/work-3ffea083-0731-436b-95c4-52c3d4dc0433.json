@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3ffea083-0731-436b-95c4-52c3d4dc0433",
+  "name": "kab Thahrega dard ai dil kab raat basar hogi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/kab-thahregaa-dard-ai-dil-kab-raat-basar-hogii-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.206Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/kab-thahregaa-dard-ai-dil-kab-raat-basar-hogii-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nkab Thahregā dard ai dil kab raat basar hogī\nsunte the vo ā.eñge sunte the sahar hogī\nkab jaan lahū hogī kab ashk guhar hogā\nkis din tirī shunvā.ī ai dīda-e-tar hogī\nkab mahkegī fasl-e-gul kab bahkegā mai-ḳhāna\nkab sub.h-e-suḳhan hogī kab shām-e-nazar hogī\nvaa.iz hai na zāhid hai nāseh hai na qātil hai\nab shahr meñ yāroñ kī kis tarah basar hogī\nkab tak abhī rah dekheñ ai qāmat-e-jānāna\nkab hashr muayyan hai tujh ko to ḳhabar hogī\nkab Thahrega dard ai dil kab raat basar hogi\nsunte the wo aaenge sunte the sahar hogi\nkab jaan lahu hogi kab ashk guhar hoga\nkis din teri shunwai ai dida-e-tar hogi\nkab mahkegi fasl-e-gul kab bahkega mai-KHana\nkab subh-e-suKHan hogi kab sham-e-nazar hogi\nwaiz hai na zahid hai naseh hai na qatil hai\nab shahr mein yaron ki kis tarah basar hogi\nkab tak abhi rah dekhen ai qamat-e-jaanana\nkab hashr muayyan hai tujh ko to KHabar hogi",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nکب ٹھہرے گا درد اے دل کب رات بسر ہوگی\nسنتے تھے وہ آئیں گے سنتے تھے سحر ہوگی\nکب جان لہو ہوگی کب اشک گہر ہوگا\nکس دن تری شنوائی اے دیدۂ تر ہوگی\nکب مہکے گی فصل گل کب بہکے گا مے خانہ\nکب صبح سخن ہوگی کب شام نظر ہوگی\nواعظ ہے نہ زاہد ہے ناصح ہے نہ قاتل ہے\nاب شہر میں یاروں کی کس طرح بسر ہوگی\nکب تک ابھی رہ دیکھیں اے قامت جانانہ\nکب حشر معین ہے تجھ کو تو خبر ہوگی",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nकब ठहरेगा दर्द ऐ दिल कब रात बसर होगी\nसुनते थे वो आएँगे सुनते थे सहर होगी\nकब जान लहू होगी कब अश्क गुहर होगा\nकिस दिन तिरी शुनवाई ऐ दीदा-ए-तर होगी\nकब महकेगी फ़स्ल-ए-गुल कब बहकेगा मय-ख़ाना\nकब सुब्ह-ए-सुख़न होगी कब शाम-ए-नज़र होगी\nवाइ'ज़ है न ज़ाहिद है नासेह है न क़ातिल है\nअब शहर में यारों की किस तरह बसर होगी\nकब तक अभी रह देखें ऐ क़ामत-ए-जानाना\nकब हश्र मुअ'य्यन है तुझ को तो ख़बर होगी",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:15.478Z"
+  }
+}

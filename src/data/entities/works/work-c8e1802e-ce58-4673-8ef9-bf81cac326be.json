@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c8e1802e-ce58-4673-8ef9-bf81cac326be",
+  "name": "teri surat jo dil-nashin ki hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/terii-suurat-jo-dil-nashiin-kii-hai-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.214Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/terii-suurat-jo-dil-nashiin-kii-hai-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nterī sūrat jo dil-nashīñ kī hai\nāshnā shakl har hasīñ kī hai\nhusn se dil lagā ke hastī kī\nhar ghaḌī ham ne ātishīñ kī hai\nsub.h-e-gul ho ki shām-e-mai-ḳhāna\nmad.h us rū-e-nāznīñ kī hai\nshaiḳh se be-hirās milte haiñ\nham ne tauba abhī nahīñ kī hai\nzikr-e-dozaḳh bayān-e-hūr o qusūr\nbaat goyā yahīñ kahīñ kī hai\nashk to kuchh bhī rañg lā na sake\nḳhuuñ se tar aaj āstīñ kī hai\nkaise māneñ haram ke sahl-pasand\nrasm jo āshiqoñ ke diiñ kī hai\n'faiz' auj-e-ḳhayāl se ham ne\nāsmāñ sindh kī zamīñ kī hai\nteri surat jo dil-nashin ki hai\naashna shakl har hasin ki hai\nhusn se dil laga ke hasti ki\nhar ghaDi hum ne aatishin ki hai\nsubh-e-gul ho ki sham-e-mai-KHana\nmadh us ru-e-naznin ki hai\nshaiKH se be-hiras milte hain\nhum ne tauba abhi nahin ki hai\nzikr-e-dozaKH bayan-e-hur o qusur\nbaat goya yahin kahin ki hai\nashk to kuchh bhi rang la na sake\nKHun se tar aaj aastin ki hai\nkaise manen haram ke sahl-pasand\nrasm jo aashiqon ke din ki hai\n'faiz' auj-e-KHayal se hum ne\naasman sindh ki zamin ki hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nتیری صورت جو دل نشیں کی ہے\nآشنا شکل ہر حسیں کی ہے\nحسن سے دل لگا کے ہستی کی\nہر گھڑی ہم نے آتشیں کی ہے\nصبح گل ہو کہ شام مے خانہ\nمدح اس روئے نازنیں کی ہے\nشیخ سے بے ہراس ملتے ہیں\nہم نے توبہ ابھی نہیں کی ہے\nذکر دوزخ بیان حور و قصور\nبات گویا یہیں کہیں کی ہے\nاشک تو کچھ بھی رنگ لا نہ سکے\nخوں سے تر آج آستیں کی ہے\nکیسے مانیں حرم کے سہل پسند\nرسم جو عاشقوں کے دیں کی ہے\nفیضؔ اوج خیال سے ہم نے\nآسماں سندھ کی زمیں کی ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nतेरी सूरत जो दिल-नशीं की है\nआश्ना शक्ल हर हसीं की है\nहुस्न से दिल लगा के हस्ती की\nहर घड़ी हम ने आतिशीं की है\nसुब्ह-ए-गुल हो कि शाम-ए-मय-ख़ाना\nमद्ह उस रू-ए-नाज़नीं की है\nशैख़ से बे-हिरास मिलते हैं\nहम ने तौबा अभी नहीं की है\nज़िक्र-ए-दोज़ख़ बयान-ए-हूर ओ क़ुसूर\nबात गोया यहीं कहीं की है\nअश्क तो कुछ भी रंग ला न सके\nख़ूँ से तर आज आस्तीं की है\nकैसे मानें हरम के सहल-पसंद\nरस्म जो आशिक़ों के दीं की है\n'फ़ैज़' औज-ए-ख़याल से हम ने\nआसमाँ सिंध की ज़मीं की है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:58.112Z"
+  }
+}

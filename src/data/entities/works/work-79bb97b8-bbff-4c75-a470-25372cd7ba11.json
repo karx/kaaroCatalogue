@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79bb97b8-bbff-4c75-a470-25372cd7ba11",
+  "name": "पानी ते अति पातला, धुआं ते अति छीनि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The water is very thin, the smoke is very clear. The wind is restless, says Kabir, my friend.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पानी ते अति पातला, धुआं ते अति छीनि।\nपवनुहु ते उतावला, दोस्‍त कबीरनि कीनि।।१५९१।।",
+    "translation": "The water is very thin, the smoke is very clear. The wind is restless, says Kabir, my friend.",
+    "meaning": "पानी बहुत पतला है, धुआं बहुत साफ है। हवा असंतुलित है, कबीर कहते हैं, मेरे मित्र।",
+    "explanation": "कबीर इस दोहे में प्राकृतिक तत्वों की स्थिति को दर्शाते हैं। उन्होंने कहा कि पानी बहुत पतला है, धुआं बहुत स्पष्ट है, और हवा असंतुलित है। यह प्रकृति के विभिन्न तत्वों की अस्थिरता और प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.212Z"
+  }
+}

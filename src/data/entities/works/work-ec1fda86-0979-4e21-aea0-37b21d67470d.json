@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ec1fda86-0979-4e21-aea0-37b21d67470d",
+  "name": "जाका गुरु है आंधरा, चेला खरा निरंध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The guru who is blind, and the disciple who is truly sincere. The blind leads the blind, falling into the trap of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाका गुरु है आंधरा, चेला खरा निरंध।\nअन्‍धे को अन्‍ध मिला, पड़ा काल के फन्‍दा।।५२८।।",
+    "translation": "The guru who is blind, and the disciple who is truly sincere. The blind leads the blind, falling into the trap of time.",
+    "meaning": "जो गुरु अंधा है और शिष्य सच्चा है, अंधा अंधे को मार्गदर्शन करता है, और काल के जाल में फंस जाता है।",
+    "explanation": "कबीर ने इस दोहे में अंधे गुरु और सच्चे शिष्य की स्थिति का वर्णन किया है। जब गुरु खुद अंधा होता है, तो वह शिष्य को सही मार्गदर्शन नहीं कर सकता और दोनों ही काल के जाल में फंस जाते हैं। यह दोहा यह चेतावनी देता है कि अंधे मार्गदर्शक के पीछे चलना खतरनाक हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-adf2e408-34a5-477c-9724-2e03fb99e18e",
+  "name": "कबीर सांई तो मिलहगै, पूछिहिंगे कुसलात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, when you meet the Lord, He will inquire about your well-being. I will tell Him everything from the beginning to the end, the innermost secrets of my heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सांई तो मिलहगै, पूछिहिंगे कुसलात।\nआदि अंति की कहूंगा, उर अंतर की बात।।१८५६।।",
+    "translation": "Kabir says, when you meet the Lord, He will inquire about your well-being. I will tell Him everything from the beginning to the end, the innermost secrets of my heart.",
+    "meaning": "कबीर कहते हैं, जब तुम भगवान से मिलोगे, वह तुम्हारे कुशलक्षेम के बारे में पूछेंगे। मैं उन्हें सब कुछ बताऊंगा, आरंभ से अंत तक, अपने हृदय की अंतरतम बातें।",
+    "explanation": "इस दोहे में कबीरदास जी कहते हैं कि जब व्यक्ति भगवान से मिलता है, तो भगवान उसके हाल-चाल पूछते हैं। इस पर कबीरदास जी कहते हैं कि वे अपने हृदय के अंदर की सभी बातों को भगवान के सामने रखेंगे। इससे यह समझ में आता है कि भगवान से कुछ भी छुपाया नहीं जा सकता। उनके सामने हमें सत्य और निष्कपट होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.967Z"
+  }
+}

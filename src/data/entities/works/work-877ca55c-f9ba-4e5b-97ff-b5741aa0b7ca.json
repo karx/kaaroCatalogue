@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-877ca55c-f9ba-4e5b-97ff-b5741aa0b7ca",
+  "name": "मनहिं दिया निज सब दिया, मन से संग शरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who gives away his mind has given everything, including his body. What remains to give? This is what Kabir says.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मनहिं दिया निज सब दिया, मन से संग शरीर।\nअब देवे को क्या रहा, यों कयि कहहिं कबीर।।२६९।।",
+    "translation": "One who gives away his mind has given everything, including his body. What remains to give? This is what Kabir says.",
+    "meaning": "जिसने अपना मन दे दिया, उसने अपना सब कुछ दे दिया, शरीर सहित। अब देने के लिए क्या बचा है? यही कबीर कहते हैं।",
+    "explanation": "यह दोहा समझाता है कि जब व्यक्ति अपने मन को गुरु या ईश्वर को समर्पित कर देता है, तो उसने अपना सब कुछ अर्पित कर दिया है। मन के समर्पण के साथ ही शरीर का भी समर्पण हो जाता है, जिससे और कुछ देने को नहीं बचता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

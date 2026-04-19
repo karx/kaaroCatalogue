@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1f4821f6-39f7-4e0e-8cc5-42eeea0f1fcb",
+  "name": "कुबुधी को सूझै नहीं, उठि उठि देवल जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "An ignorant person does not understand; they keep going to temples. They don't know the heart's residence, how can they know the stones?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुबुधी को सूझै नहीं, उठि उठि देवल जाय।\nदिल देहरा को खबरि नहीं, पाथर ते कह पाय।।१३५४।।",
+    "translation": "An ignorant person does not understand; they keep going to temples. They don't know the heart's residence, how can they know the stones?",
+    "meaning": "अज्ञानी व्यक्ति कुछ भी नहीं समझता; वह बार-बार मंदिर जाता रहता है। उसे दिल की स्थिति का पता नहीं है, वह पत्थरों को कैसे जान सकता है?",
+    "explanation": "कबीर जी के अनुसार, जो लोग अज्ञानी होते हैं, वे केवल बाहरी धार्मिक कर्मों में व्यस्त रहते हैं और आत्मिक ज्ञान को नहीं समझते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.082Z"
+  }
+}

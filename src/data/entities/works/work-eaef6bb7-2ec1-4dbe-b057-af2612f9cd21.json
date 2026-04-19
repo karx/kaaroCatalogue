@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eaef6bb7-2ec1-4dbe-b057-af2612f9cd21",
+  "name": "खूंदन तौ धरती सहै, बाढ़ सहै बनराइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The earth can bear the flooding, the forest can withstand the floods. But the bad words are unbearable for the righteous; they cannot tolerate them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खूंदन तौ धरती सहै, बाढ़ सहै बनराइ।\nकुसबद तौ हरिजन सहै, दूजै सह्या न जाइ।।२४८।।",
+    "translation": "The earth can bear the flooding, the forest can withstand the floods. But the bad words are unbearable for the righteous; they cannot tolerate them.",
+    "meaning": "धरती बाढ़ को सह सकती है, वन भी बाढ़ सह सकते हैं। लेकिन बुरी बातें सही लोगों के लिए सहनीय नहीं होतीं; वे इसे बर्दाश्त नहीं कर सकते।",
+    "explanation": "कबीर इस दोहे में बुरे शब्दों और उनके प्रभाव की बात करते हैं। वे कहते हैं कि जबकि पृथ्वी और वन प्राकृतिक आपदाओं को सहन कर सकते हैं, बुरी बातें या निंदा धार्मिक और सच्चे लोगों के लिए असहनीय होती हैं। यह दोहा बुराई और नकारात्मकता से दूर रहने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

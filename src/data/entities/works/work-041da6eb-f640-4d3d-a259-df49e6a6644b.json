@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-041da6eb-f640-4d3d-a259-df49e6a6644b",
+  "name": "जिह्वा में अमृत बसै, जो कोई जानै बोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Nectar resides on the tongue of one who knows how to speak. Even the poison of the serpent can be overcome with a wise tongue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिह्वा में अमृत बसै, जो कोई जानै बोल।\nविष बासुकि का ऊतरे, जिह्वा तनै हिलोल।।१०२२।।",
+    "translation": "Nectar resides on the tongue of one who knows how to speak. Even the poison of the serpent can be overcome with a wise tongue.",
+    "meaning": "जो बोलने की कला जानता है, उसकी जीभ पर अमृत का वास होता है। यहां तक कि सर्प के विष को भी समझदार वाणी से समाप्त किया जा सकता है।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि बोलने की सही कला को जानने वाले व्यक्ति की वाणी में अमृत होता है। यह अमृत इतना शक्तिशाली होता है कि वह विषैले से विषैले पदार्थ को भी नष्ट कर सकता है। इसका अर्थ है कि सही वाणी और ज्ञान हर विषमता को दूर कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.162Z"
+  }
+}

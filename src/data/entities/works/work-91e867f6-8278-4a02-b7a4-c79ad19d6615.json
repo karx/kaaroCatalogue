@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-91e867f6-8278-4a02-b7a4-c79ad19d6615",
+  "name": "कहत सुनत जग जात हैं, विषय न सुझै काल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world talks and listens, but the subject is not understood by time. Kabir says, listen, O soul, take care of the Lord's name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहत सुनत जग जात हैं, विषय न सुझै काल।\nकहैं कबीर सुन प्रानिया, साहिब नाम सम्‍हाल।।९१६।।",
+    "translation": "The world talks and listens, but the subject is not understood by time. Kabir says, listen, O soul, take care of the Lord's name.",
+    "meaning": "दुनिया बात करती है और सुनती है, लेकिन विषय समय द्वारा समझा नहीं जाता। कबीर कहते हैं, सुनो, प्राणियों, भगवान के नाम की देखभाल करो।",
+    "explanation": "इस दोहे में कबीर समय और वास्तविकता की समझ के महत्व को बताते हैं। वे कहते हैं कि दुनिया में बहुत सारी बातें होती हैं, लेकिन समय के साथ उन विषयों की वास्तविकता का पता नहीं चलता। कबीर इस दोहे के माध्यम से हमें यह समझाने की कोशिश करते हैं कि भगवान के नाम का महत्व और उसकी भक्ति ही जीवन की सच्चाई और स्थिरता प्रदान करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.624Z"
+  }
+}

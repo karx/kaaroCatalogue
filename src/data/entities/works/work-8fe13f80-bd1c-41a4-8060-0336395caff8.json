@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8fe13f80-bd1c-41a4-8060-0336395caff8",
+  "name": "रोड़ा है रहो बाट का, तजि पाषंड अभिमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path is rocky; forsake hypocrisy and pride. Such a person who remains humble will meet God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रोड़ा है रहो बाट का, तजि पाषंड अभिमान।\nऐसा जे जन है रहै, ताहि मिलै भगवान।।२३९।।",
+    "translation": "The path is rocky; forsake hypocrisy and pride. Such a person who remains humble will meet God.",
+    "meaning": "मार्ग पथरीला है; पाखंड और अभिमान को त्याग दो। ऐसा व्यक्ति जो विनम्र रहता है, वह भगवान को प्राप्त करेगा।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जीवन की यात्रा कठिन और पथरीली होती है। पाखंड और अहंकार को छोड़कर ही व्यक्ति सच्चे मार्ग पर चल सकता है। एक विनम्र व्यक्ति जो अपने भीतर की बुराइयों को त्याग देता है, वही भगवान को प्राप्त कर सकता है। यह संतोष और सरलता की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

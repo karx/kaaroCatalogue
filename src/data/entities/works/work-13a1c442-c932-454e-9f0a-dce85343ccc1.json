@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-13a1c442-c932-454e-9f0a-dce85343ccc1",
+  "name": "सन्‍त सुरसरी गंग जल, आनि पखारा अंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The water of the saintly river Ganges purifies the body. The company of the saints cleanses one from impurities.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्‍त सुरसरी गंग जल, आनि पखारा अंग।\nमैले से निरमल भये, साधु जन के संग।।६६०।।",
+    "translation": "The water of the saintly river Ganges purifies the body. The company of the saints cleanses one from impurities.",
+    "meaning": "संतों की गंगा का जल शरीर को पवित्र करता है। साधु जन की संगति व्यक्ति को मैल से शुद्ध करती है।",
+    "explanation": "गंगा के जल की तरह, संतों की संगति भी व्यक्ति को आंतरिक अशुद्धियों से मुक्त करती है और उसे शुद्ध बनाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

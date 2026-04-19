@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5fee7c05-c4e0-4c47-83a1-92aefa09af06",
+  "name": "जो कोय सुमिरन अंग को, पाठ करै मन लाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who remembers the limbs of the body and recites with a focused mind, will develop devotion and knowledge, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो कोय सुमिरन अंग को, पाठ करै मन लाय।\nभक्ति ज्ञान मन ऊपजै, कहैं कबीर समुझाय।।७४६।।",
+    "translation": "One who remembers the limbs of the body and recites with a focused mind, will develop devotion and knowledge, says Kabir.",
+    "meaning": "जो कोई शरीर के अंगों की स्मृति करता है और एकाग्र मन से पाठ करता है, वह भक्ति और ज्ञान प्राप्त करेगा, ऐसा कबीर कहते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जो व्यक्ति शरीर के अंगों का सुमिरण करता है और मन को एकाग्र करके पाठ करता है, उसे भक्ति और ज्ञान की प्राप्ति होती है। यह साधना और ध्यान की प्रक्रिया को समझने में मदद करता है कि भक्ति और ज्ञान का विकास कैसे होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1a192808-3003-46c8-8458-2d2983410d4a",
+  "name": "भक्ति पन्थ बहुत कठिन है, रती न चालै खोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path of devotion is very difficult; deceit cannot pass through even a fraction of it. It's like a bridge without support, requiring careful balance to cross.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति पन्थ बहुत कठिन है, रती न चालै खोट।\nनिराधार का खोल है, अधर धार की चोट।।४१७।।",
+    "translation": "The path of devotion is very difficult; deceit cannot pass through even a fraction of it. It's like a bridge without support, requiring careful balance to cross.",
+    "meaning": "भक्ति का मार्ग अत्यंत कठिन है; इसमें धोखाधड़ी का एक भी अंश नहीं चल सकता। यह एक निराधार पुल की तरह है, जिसे पार करने के लिए सावधानीपूर्वक संतुलन की आवश्यकता होती है।",
+    "explanation": "कबीर इस दोहे में भक्ति के मार्ग की कठिनाई को स्पष्ट करते हैं। वह कहते हैं कि यह मार्ग इतना कठिन है कि इसमें एक भी रत्ती (छोटा अंश) मात्र की भी धोखाधड़ी (खोट) नहीं चल सकती। यह एक ऐसे पुल के समान है जिसमें कोई आधार नहीं होता और उसे पार करने के लिए बहुत संतुलन की आवश्यकता होती है। कबीर हमें यह सिखाते हैं कि सच्ची भक्ति के मार्ग पर चलने के लिए पूरी ईमानदारी और सत्यनिष्ठा आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

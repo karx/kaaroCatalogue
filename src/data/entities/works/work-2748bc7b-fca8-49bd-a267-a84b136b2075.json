@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2748bc7b-fca8-49bd-a267-a84b136b2075",
+  "name": "माया संख पदुम लौं, भक्ति बिहुन जो होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion is like a lotus flower, which lacks devotion. Those who are caught in its grasp end up in hell again and again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया संख पदुम लौं, भक्ति बिहुन जो होय।\nजम लै ग्रासैं सो तेहि, नरक पड़े पुनि सोय।।११९७।।",
+    "translation": "Illusion is like a lotus flower, which lacks devotion. Those who are caught in its grasp end up in hell again and again.",
+    "meaning": "माया एक पदुम के समान है, जिसमें भक्ति का अभाव है। जो इसके जाल में फंस जाते हैं, वे बार-बार नरक में पड़ते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया की तुलना एक सुंदर लेकिन भक्ति से रहित पदुम से की है। माया के प्रभाव में आने वाले लोग पुनः और पुनः नरक के भागी बनते हैं, क्योंकि इसमें सच्ची भक्ति की कमी होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.976Z"
+  }
+}

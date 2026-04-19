@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e5f6089-3357-4ec1-99c7-0fa119c679e8",
+  "name": "साधु भौंरा जग कली, निश दिन फिरै उदास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint is like a bee in the world, constantly moving about with a melancholic demeanor. He stays in places where cool words and peace reside.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु भौंरा जग कली, निश दिन फिरै उदास।\nटुक टुक तहां बिलंबिया, जहं शीतल शब्‍द निवास।।५७९।।",
+    "translation": "The saint is like a bee in the world, constantly moving about with a melancholic demeanor. He stays in places where cool words and peace reside.",
+    "meaning": "संत दुनिया में भौंरे के समान होते हैं, जो लगातार उदास स्वरूप में घूमते रहते हैं। वे उन स्थानों पर निवास करते हैं जहाँ शीतल शब्द और शांति होती है।",
+    "explanation": "संत की यात्रा हमेशा शांति और संतोष की खोज में होती है। वे स्थिरता और सुख की प्राप्ति के लिए हर जगह जाते हैं। संतों की उपस्थिति में हमें शांति और सांत्वना मिलती है, जो उनके स्थिर और शीतल स्वभाव को दर्शाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

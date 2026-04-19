@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a622549e-5e44-47e8-84b5-9c2048200524",
+  "name": "जीवन जीवन रात मद, अविचल रहै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Life is like a night of intoxication, and no one remains steadfast. But if one spends the day in the company of saints, the fruit of life is realized.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जीवन जीवन रात मद, अविचल रहै न कोय।\nजु दिन जाय सत्संग में, जीवन का फल सोय।।३९०।।",
+    "translation": "Life is like a night of intoxication, and no one remains steadfast. But if one spends the day in the company of saints, the fruit of life is realized.",
+    "meaning": "जीवन एक मद की रात की तरह है, और कोई भी स्थिर नहीं रहता। लेकिन यदि कोई दिन संतों की संगति में बिताता है, तो जीवन का फल प्राप्त होता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने जीवन के महत्व को और संतों की संगति के लाभ को स्पष्ट किया है। वे जीवन को एक मद की रात के समान बताते हैं, जिसमें स्थिरता और स्थिरता नहीं रहती। लेकिन यदि व्यक्ति संतों की संगति में समय बिताता है, तो वह जीवन का वास्तविक फल और सुख प्राप्त कर सकता है। इस दोहे से यह सिखने को मिलता है कि संतों की संगति हमारे जीवन को सही दिशा देती है और हमें स्थिरता और समझ प्रदान करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

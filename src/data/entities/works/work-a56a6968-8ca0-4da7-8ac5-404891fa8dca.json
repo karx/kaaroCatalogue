@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a56a6968-8ca0-4da7-8ac5-404891fa8dca",
+  "name": "प्रेम बिना धीरज नहीं, बिरह बिना वैराग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without love, there is no patience; without separation, there is no renunciation. Without the True Guru, one cannot overcome the stains of the mind and its desires.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम बिना धीरज नहीं, बिरह बिना वैराग।\nसतगुरु बिन जावै नहीं, मन मनसा का दाग।।८०२।।",
+    "translation": "Without love, there is no patience; without separation, there is no renunciation. Without the True Guru, one cannot overcome the stains of the mind and its desires.",
+    "meaning": "प्रेम के बिना धीरज नहीं होता; विरह के बिना वैराग्य नहीं होता। सतगुरु के बिना, मन और इच्छाओं के दाग को दूर नहीं किया जा सकता।",
+    "explanation": "इस दोहे में कबीर ने प्रेम, धीरज और वैराग्य की आपसी कड़ी को बताया है। प्रेम धीरज को जन्म देता है, और विरह (वियोग) वैराग्य (त्याग) को। सतगुरु की उपस्थिति के बिना, मन और इच्छाओं के दाग को दूर करना असंभव होता है। यह आध्यात्मिक मार्गदर्शन और गुरु की महत्वपूर्ण भूमिका को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.077Z"
+  }
+}

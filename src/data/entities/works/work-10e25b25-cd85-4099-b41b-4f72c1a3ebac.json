@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-10e25b25-cd85-4099-b41b-4f72c1a3ebac",
+  "name": "तीनि सनेही बहु मिले, चौथे मिले न कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Many lovers are found in the three realms, but no one is found in the fourth. All beloveds are of Ram, who are under His control.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीनि सनेही बहु मिले, चौथे मिले न कोइ।\nसब पियारे राम के, बैठे परबसि‍ होइ।।१९७१।।",
+    "translation": "Many lovers are found in the three realms, but no one is found in the fourth. All beloveds are of Ram, who are under His control.",
+    "meaning": "तीन लोकों में बहुत से प्रेमी मिलते हैं, लेकिन चौथे लोक में कोई नहीं मिलता। सभी प्रेमी राम के हैं, जो उनके नियंत्रण में होते हैं।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि संसार के तीन लोकों में बहुत से प्रेमी और भक्त होते हैं, लेकिन चौथे लोक, जो पूर्णता और दिव्यता का प्रतीक है, में कोई नहीं मिलता। सभी प्रेमी और भक्त अंततः राम के नियंत्रण में होते हैं और उनकी इच्छा के अनुसार होते हैं। यह दोहा परमात्मा के प्रति समर्पण और उसकी इच्छा के प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.532Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6d15aaea-08ac-4717-926d-3c00cc98c79d",
+  "name": "nasib aazmane ke din aa rahe hain",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/nasiib-aazmaane-ke-din-aa-rahe-hain-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.207Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/nasiib-aazmaane-ke-din-aa-rahe-hain-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nnasīb āzmāne ke din aa rahe haiñ\nqarīb un ke aane ke din aa rahe haiñ\njo dil se kahā hai jo dil se sunā hai\nsab un ko sunāne ke din aa rahe haiñ\nabhī se dil o jaañ sar-e-rāh rakh do\nki luTne luTāne ke din aa rahe haiñ\nTapakne lagī un nigāhoñ se mastī\nnigāheñ churāne ke din aa rahe haiñ\nsabā phir hameñ pūchhtī phir rahī hai\nchaman ko sajāne ke din aa rahe haiñ\nchalo 'faiz' phir se kahīñ dil lagā.eñ\nsunā hai Thikāne ke din aa rahe haiñ\nnasib aazmane ke din aa rahe hain\nqarib un ke aane ke din aa rahe hain\njo dil se kaha hai jo dil se suna hai\nsab un ko sunane ke din aa rahe hain\nabhi se dil o jaan sar-e-rah rakh do\nki luTne luTane ke din aa rahe hain\nTapakne lagi un nigahon se masti\nnigahen churane ke din aa rahe hain\nsaba phir hamein puchhti phir rahi hai\nchaman ko sajaane ke din aa rahe hain\nchalo 'faiz' phir se kahin dil lagaen\nsuna hai Thikane ke din aa rahe hain",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nنصیب آزمانے کے دن آ رہے ہیں\nقریب ان کے آنے کے دن آ رہے ہیں\nجو دل سے کہا ہے جو دل سے سنا ہے\nسب ان کو سنانے کے دن آ رہے ہیں\nابھی سے دل و جاں سر راہ رکھ دو\nکہ لٹنے لٹانے کے دن آ رہے ہیں\nٹپکنے لگی ان نگاہوں سے مستی\nنگاہیں چرانے کے دن آ رہے ہیں\nصبا پھر ہمیں پوچھتی پھر رہی ہے\nچمن کو سجانے کے دن آ رہے ہیں\nچلو فیضؔ پھر سے کہیں دل لگائیں\nسنا ہے ٹھکانے کے دن آ رہے ہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nनसीब आज़माने के दिन आ रहे हैं\nक़रीब उन के आने के दिन आ रहे हैं\nजो दिल से कहा है जो दिल से सुना है\nसब उन को सुनाने के दिन आ रहे हैं\nअभी से दिल ओ जाँ सर-ए-राह रख दो\nकि लुटने लुटाने के दिन आ रहे हैं\nटपकने लगी उन निगाहों से मस्ती\nनिगाहें चुराने के दिन आ रहे हैं\nसबा फिर हमें पूछती फिर रही है\nचमन को सजाने के दिन आ रहे हैं\nचलो 'फ़ैज़' फिर से कहीं दिल लगाएँ\nसुना है ठिकाने के दिन आ रहे हैं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:30.510Z"
+  }
+}

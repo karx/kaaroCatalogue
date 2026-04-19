@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4cbb6aeb-eafe-4216-80da-bce449c80d73",
+  "name": "Meghaduta Opening Verse",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "genre": "Khandakavya",
+  "abstract": "A certain Yaksha, who had neglected his duty\nWas cursed by his master to be separated from his beloved for a year\nHe made his dwelling on Ramagiri among hermitages\nNear trees of thick shade, by waters...",
+  "content": {
+    "original": "कश्चित्कान्ताविरहगुरुणा स्वाधिकारात्प्रमत्तः\nशापेनास्तङ्गमितमहिमा वर्षभोग्येण भर्तुः।\nयक्षश्चक्रे जनकतनयास्नानपुण्योदकेषु\nस्निग्धच्छायातरुषु वसतिं रामगिर्याश्रमेषु॥",
+    "transliteration": "Kashchit kantavirahguruna svaadhikarat pramattah\nShapenastangamitamahima varsabhogyen bhartuh\nYakshashchakre janakatanayasnanapunyodakeshu\nSnigdhachchhayatarush vasatim ramagiryashramesh",
+    "translation": "A certain Yaksha, who had neglected his duty\nWas cursed by his master to be separated from his beloved for a year\nHe made his dwelling on Ramagiri among hermitages\nNear trees of thick shade, by waters sanctified by Sita's bath"
+  },
+  "keywords": [
+    "Khandakavya",
+    "Sanskrit"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.010Z"
+  }
+}

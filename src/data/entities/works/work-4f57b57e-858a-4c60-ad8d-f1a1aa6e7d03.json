@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4f57b57e-858a-4c60-ad8d-f1a1aa6e7d03",
+  "name": "जहां दया वहां धर्म है, जहां लोभ तहं पाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there is compassion, there is righteousness; where there is greed, there is sin. Where there is anger, there is death; where there is forgiveness, there is God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां दया वहां धर्म है, जहां लोभ तहं पाप।\nजहां क्रोध वहां काल है, जहां क्षमा वहां आप।।१३९०।।",
+    "translation": "Where there is compassion, there is righteousness; where there is greed, there is sin. Where there is anger, there is death; where there is forgiveness, there is God.",
+    "meaning": "जहां दया है, वहां धर्म है; जहां लोभ है, वहां पाप है। जहां क्रोध है, वहां मृत्यु है; जहां क्षमा है, वहां ईश्वर है।",
+    "explanation": "कबीर इस दोहे में चार महत्वपूर्ण मानवीय भावनाओं के प्रभाव को दर्शाते हैं। वे कहते हैं कि दया से धर्म की उत्पत्ति होती है, जबकि लोभ से पाप का। क्रोध मृत्यु की ओर ले जाता है, जबकि क्षमा से ईश्वर की प्राप्ति होती है। यह दोहा हमें सही और गलत के बीच के अंतर को समझने में मदद करता है और हमारे जीवन में दया और क्षमा के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.090Z"
+  }
+}

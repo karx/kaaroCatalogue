@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-66a77540-4376-4d37-b764-846a34a765ff",
+  "name": "Ekla Chalo Re",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "genre": "Patriotic Song",
+  "abstract": "If they answer not to thy call, walk alone\nWalk alone, walk alone, walk alone, walk alone\nIf they are afraid and cower mutely facing the wall\nO thou unlucky one\nOpen thy mind and speak out alone...",
+  "content": {
+    "original": "যদি তোর ডাক শুনে কেউ না আসে তবে একলা চলো রে।\nএকলা চলো, একলা চলো, একলা চলো, একলা চলো রে॥\nযদি কেউ কথা না কয়, ওরে ওরে ও অভাগা,\nযদি সবাই থাকে মুখ ফিরায়ে সবাই করে ভয়—\nতবে পরান খুলে\nও তুই মুখ ফুটে তোর মনের কথা একলা বলো রে।",
+    "transliteration": "Jodi tor daak shune keu na ashe tobe ekla cholo re\nEkla cholo, ekla cholo, ekla cholo, ekla cholo re\nJodi keu kotha na koy, ore ore o obhaga\nJodi sobai thake mukh phiraye sobai kore bhoy\nTobe poran khule\nO tui mukh phute tor moner kotha ekla bolo re",
+    "translation": "If they answer not to thy call, walk alone\nWalk alone, walk alone, walk alone, walk alone\nIf they are afraid and cower mutely facing the wall\nO thou unlucky one\nOpen thy mind and speak out alone"
+  },
+  "keywords": [
+    "Patriotic Song",
+    "Bengali"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.010Z"
+  }
+}

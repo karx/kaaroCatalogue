@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a12f821-1dbc-4911-8654-2f3ee6534589",
+  "name": "कबीर हरि के रूठते, गुरु के शरणै जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When Hari (God) is displeased, seek refuge in the Guru. Says Kabir, when the Guru is displeased, even Hari cannot help.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरि के रूठते, गुरु के शरणै जाय।\nकहैं कबीर गुरु रूठते, हरि नहिं होत सहाय।।४९७।।",
+    "translation": "When Hari (God) is displeased, seek refuge in the Guru. Says Kabir, when the Guru is displeased, even Hari cannot help.",
+    "meaning": "जब हरि (ईश्वर) नाराज होते हैं, तो गुरु की शरण में जाओ। कबीर कहते हैं, जब गुरु नाराज होते हैं, तो हरि भी मदद नहीं कर सकते।",
+    "explanation": "इस दोहे में कबीर ने गुरु के महत्व को सामने रखा है। उन्होंने कहा है कि जब भगवान नाराज होते हैं, तो गुरु की शरण लेना सबसे अच्छा होता है। लेकिन अगर गुरु नाराज होते हैं, तो भगवान भी मदद नहीं कर सकते। यह गुरु के प्रति सम्मान और उनकी अनिवार्यता को दर्शाता है, यह दिखाते हुए कि गुरु के बिना, दिव्य सहायता भी संभव नहीं हो सकती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.198Z"
+  }
+}

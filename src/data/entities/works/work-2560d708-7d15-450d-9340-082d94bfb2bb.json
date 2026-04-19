@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2560d708-7d15-450d-9340-082d94bfb2bb",
+  "name": "दासातन हिरदै बसै, साधुन सों आधीन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A true servant resides in the heart and is devoted to the saints. Kabir says such a servant is absorbed in love and devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दासातन हिरदै बसै, साधुन सों आधीन।\nकहैं कबीर सो दास है, प्रेम भक्ति लवलीन।।६९२।।",
+    "translation": "A true servant resides in the heart and is devoted to the saints. Kabir says such a servant is absorbed in love and devotion.",
+    "meaning": "सच्चा सेवक हृदय में निवास करता है और संतों के प्रति समर्पित रहता है। कबीर कहते हैं कि ऐसा सेवक प्रेम और भक्ति में लीन होता है।",
+    "explanation": "कबीर इस दोहे में सच्ची भक्ति और समर्पण की बात करते हैं। एक सच्चा सेवक वह होता है जो अपने हृदय में निवास करता है और संतों के प्रति पूरी तरह से समर्पित रहता है। प्रेम और भक्ति के माध्यम से वह सच्ची सेवा को प्राप्त करता है। यह दोहा भक्ति और समर्पण की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

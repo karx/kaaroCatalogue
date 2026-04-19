@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2aa21531-97ee-411a-898d-b52df9afc83d",
+  "name": "बारी-बारी आपने, चले पियारे मीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One by one, dear friends come and go. In your turn, the heart does not come near regularly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बारी-बारी आपने, चले पियारे मीत।\nतेरी बारी जीयरा, नियरे आवै नीत।।४३३।।",
+    "translation": "One by one, dear friends come and go. In your turn, the heart does not come near regularly.",
+    "meaning": "एक-एक करके प्रिय मित्र आते और जाते हैं। जब आपकी बारी आती है, तो दिल नियमित रूप से पास नहीं आता।",
+    "explanation": "इस दोहे में कबीर मित्रता और समय की अवधारणा को व्यक्त करते हैं। वह कहते हैं कि लोग एक-एक करके आते हैं और चले जाते हैं, लेकिन जब आपकी बारी आती है, तो दिल को नियमित रूप से पास नहीं पाया जा सकता। यह जीवन के अस्थिरता और समय के अनिश्चितता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bb9be165-7341-4b94-9e7a-45cb50fb8383",
+  "name": "पडे मोती बीखरा, आधा निकरा आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Scattered pearls fall, half of them are taken away. Without the light of the Lord, the world is turned upside down.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पडे मोती बीखरा, आधा निकरा आय।\nज्‍योति बिना जगदीश की, जगत उलांडा जाय।।२१७१।।",
+    "translation": "Scattered pearls fall, half of them are taken away. Without the light of the Lord, the world is turned upside down.",
+    "meaning": "परे हुए मोती बिखरे हुए हैं, आधे निकल जाते हैं। भगवान की ज्योति के बिना, संसार उल्टा हो जाता है।",
+    "explanation": "इस दोहे में कबीर ने मोती और भगवान की ज्योति का उपयोग कर एक गहरी सच्चाई को उजागर किया है। मोती बिखरे हुए होते हैं और आधे हिस्से खो जाते हैं, जबकि भगवान की ज्योति की कमी के कारण दुनिया उल्टी हो जाती है। इसका अर्थ है कि सच्ची समझ और ज्ञान के बिना जीवन में अराजकता और उलझन बनी रहती है। यह दोहा हमें दिखाता है कि आध्यात्मिक ज्ञान और भगवान की उपस्थिति महत्वपूर्ण है ताकि जीवन को सही दिशा में ले जाया जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.725Z"
+  }
+}

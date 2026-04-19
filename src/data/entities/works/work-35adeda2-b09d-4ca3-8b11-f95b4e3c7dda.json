@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-35adeda2-b09d-4ca3-8b11-f95b4e3c7dda",
+  "name": "मैं जाण्‍यां हरि दूरि है, हरि रह्या सकल भरपूरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I know that the Divine is not distant; it is present everywhere. If you are blind to it, you are distant even when it is close.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं जाण्‍यां हरि दूरि है, हरि रह्या सकल भरपूरि।\nआप पिछांणै बहिरा, नेड़ा की थैं दूरि।।१९३८।।",
+    "translation": "I know that the Divine is not distant; it is present everywhere. If you are blind to it, you are distant even when it is close.",
+    "meaning": "मैं जानता हूँ कि भगवान दूर नहीं है; वह सर्वत्र उपस्थित है। यदि आप इसे पहचानने में असमर्थ हैं, तो आप दूर हैं भले ही यह आपके पास हो।",
+    "explanation": "इस दोहे में कबीरदास जी ने ब्रह्म के साकार स्वरूप की व्याख्या की है। वे यह बताते हैं कि भगवान कहीं दूर नहीं हैं; वह हर जगह मौजूद हैं। लेकिन अगर व्यक्ति उन्हें पहचान नहीं पाता, तो वह स्वयं को भगवान से दूर महसूस करेगा, भले ही वह पास ही हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.255Z"
+  }
+}

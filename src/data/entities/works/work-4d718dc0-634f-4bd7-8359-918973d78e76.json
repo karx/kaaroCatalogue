@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4d718dc0-634f-4bd7-8359-918973d78e76",
+  "name": "पढ़ा सुना सीखा सभी, मिटी न संसै भूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Though I have read, heard, and learned everything, my doubts and delusions haven't vanished. Kabir says, whom should I tell, this is the root of all suffering.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पढ़ा सुना सीखा सभी, मिटी न संसै भूल।\nकहैं कबीर कासों कहूं, यह सब दुख का मूल।।१३७४।।",
+    "translation": "Though I have read, heard, and learned everything, my doubts and delusions haven't vanished. Kabir says, whom should I tell, this is the root of all suffering.",
+    "meaning": "मैंने सब पढ़ा, सुना, और सीखा है, फिर भी मेरे संदेह और भ्रम दूर नहीं हुए। कबीर कहते हैं, किससे कहूं, यह सब दुख का मूल है।",
+    "explanation": "कबीर इस दोहे में ज्ञान की सीमाओं की ओर इशारा करते हैं। वे कहते हैं कि भले ही हमने बहुत कुछ पढ़ा, सुना, और सीखा हो, लेकिन अगर हमारे संदेह और भ्रम दूर नहीं होते, तो वह ज्ञान व्यर्थ है। कबीर के अनुसार, यह भ्रम और अज्ञान ही सभी दुखों का कारण है। सच्चा ज्ञान वह है जो हमारे भीतर की शांति और सच्चाई को उजागर करे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.087Z"
+  }
+}

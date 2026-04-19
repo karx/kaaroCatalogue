@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3816321a-b887-4d56-8f8f-d6c1943a1121",
+  "name": "करम करीमां लिखि रह्या, अब कछू लिख्‍या न जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fate is already written, and nothing can change it. Not even a grain can be reduced or added, no matter how many efforts are made.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करम करीमां लिखि रह्या, अब कछू लिख्‍या न जाइ।\nमासा घटै न तिल बढ़ैं, जो कोटिक करै उपाइ।।१८७५।।",
+    "translation": "Fate is already written, and nothing can change it. Not even a grain can be reduced or added, no matter how many efforts are made.",
+    "meaning": "भाग्य पहले से ही लिखा हुआ है, और इसे बदला नहीं जा सकता। चाहे जितने भी प्रयास किए जाएं, न तो एक रत्ती घटाई जा सकती है, न बढ़ाई जा सकती है।",
+    "explanation": "इस दोहे में कबीरदास जी भाग्य की अपरिवर्तनीयता के बारे में बताते हैं। उनका कहना है कि हमारे कर्म और उनका फल पहले से ही निर्धारित होते हैं और इसे कोई भी प्रयास बदल नहीं सकता। चाहे कितनी भी कोशिश कर लें, हम अपने भाग्य में कोई भी बदलाव नहीं कर सकते। यह दोहा हमें अपने कर्मों को स्वीकार करने और उन्हें सही तरीके से निभाने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.973Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2345f2ae-b6a1-4669-8da1-8dc1447da573",
+  "name": "कोई एक राखै सावधां, चेतनि पहरै जागि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who stays vigilant and aware, even if the clothes are worn out, the thief cannot get to them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोई एक राखै सावधां, चेतनि पहरै जागि।\nबस्तर बासन सूँ खिसै, चोर न सकई लागि।।२४४।।",
+    "translation": "One who stays vigilant and aware, even if the clothes are worn out, the thief cannot get to them.",
+    "meaning": "जो व्यक्ति सतर्क और जागरूक रहता है, भले ही कपड़े पुरानी हों, चोर उसे छू नहीं सकता।",
+    "explanation": "कबीर इस दोहे में सतर्कता और जागरूकता की महत्वपूर्णता को बताते हैं। वे कहते हैं कि व्यक्ति चाहे जैसे भी हो, अगर वह सतर्क और सजग रहता है, तो कोई भी बाहरी खतरा (जैसे चोर) उसे नुकसान नहीं पहुंचा सकता। यह सतर्कता और सावधानी की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

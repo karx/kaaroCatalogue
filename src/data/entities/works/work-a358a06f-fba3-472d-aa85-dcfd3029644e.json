@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a358a06f-fba3-472d-aa85-dcfd3029644e",
+  "name": "यहु तन जालौं मसि करूं, ज्‍यूं धूवां जाइ सरग्‍ग‍ि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Let this body be burnt like ink, as smoke rises to heaven. The mind, however, needs Ram's grace to extinguish the fire within.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यहु तन जालौं मसि करूं, ज्‍यूं धूवां जाइ सरग्‍ग‍ि।\nमति वै राम दया करै, बरसि बुझावै अग्‍ग‍ि।।१७४६।।",
+    "translation": "Let this body be burnt like ink, as smoke rises to heaven. The mind, however, needs Ram's grace to extinguish the fire within.",
+    "meaning": "यह शरीर को स्याही की तरह जलाऊं, जैसे धुआं स्वर्ग की ओर जाता है। लेकिन मन को राम की कृपा चाहिए, ताकि आंतरिक अग्नि बुझ सके।",
+    "explanation": "कबीर इस दोहे में शरीर की आहुति और मानसिक शांति की बात करते हैं। उन्होंने कहा कि सच्ची शांति केवल राम की कृपा से ही मिल सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.079Z"
+  }
+}

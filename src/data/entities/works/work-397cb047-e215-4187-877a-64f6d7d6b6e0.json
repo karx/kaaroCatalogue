@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-397cb047-e215-4187-877a-64f6d7d6b6e0",
+  "name": "पूर्व उगे पश्चिम अथवे, भखे पवन को फूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "East rises, west also, like the flower in the wind. Time consumes all paths, why does man forget?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पूर्व उगे पश्चिम अथवे, भखे पवन को फूल।\nताका राहु काल गरासे, मानुष काहे को भूल।।१५९६।।",
+    "translation": "East rises, west also, like the flower in the wind. Time consumes all paths, why does man forget?",
+    "meaning": "पूर्व उगता है, पश्चिम भी, जैसे पवन में फूल। समय सभी रास्तों को निगल जाता है, फिर मनुष्य क्यों भूल जाता है?",
+    "explanation": "इस दोहे में कबीर ने समय और प्रकृति के संबंध को दर्शाया है। उन्होंने कहा कि जैसे सूरज पूर्व से पश्चिम तक यात्रा करता है और पवन में फूल खिलता है, वैसे ही समय सब कुछ निगल जाता है। इस प्रक्रिया में, मनुष्य क्यों भूल जाता है, यह सोचने योग्य है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.213Z"
+  }
+}

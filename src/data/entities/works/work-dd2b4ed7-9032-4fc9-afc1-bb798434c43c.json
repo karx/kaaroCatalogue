@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dd2b4ed7-9032-4fc9-afc1-bb798434c43c",
+  "name": "हरि संगति सीतल भया, मिटा मोह की ताप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the company of Hari (God), one becomes cool and the heat of attachment is removed. The night and the dawn are experienced when the inner self is revealed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि संगति सीतल भया, मिटा मोह की ताप।\nनिस बासुरि सखनिध्‍य लह्या, जब अंतरि प्रकट्या आप।।१८०९।।",
+    "translation": "In the company of Hari (God), one becomes cool and the heat of attachment is removed. The night and the dawn are experienced when the inner self is revealed.",
+    "meaning": "हरि (भगवान) की संगति में व्यक्ति ठंडा और मोह की गर्मी मिट जाती है। रात और भोर का अनुभव तब होता है जब आत्मा का साक्षात्कार होता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि भगवान की संगति से व्यक्ति को मानसिक शांति और ठंडक मिलती है, जिससे मोह औरattachments की गर्मी समाप्त हो जाती है। जब व्यक्ति अपने आंतरिक स्व को जान लेता है, तब वह रात और सुबह का अनुभव करता है, जो आत्मज्ञान का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.623Z"
+  }
+}

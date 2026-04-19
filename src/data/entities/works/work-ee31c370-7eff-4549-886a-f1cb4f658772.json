@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee31c370-7eff-4549-886a-f1cb4f658772",
+  "name": "मन राजा नायक भया, टांडा लादा जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind has become the king and the hero, but the baggage of life is heavy. Alas, the wealth is gone and the misery remains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन राजा नायक भया, टांडा लादा जाय।\nहै है है है ह्वै रही, पूंजी गयी बिलाय।।९३९।।",
+    "translation": "The mind has become the king and the hero, but the baggage of life is heavy. Alas, the wealth is gone and the misery remains.",
+    "meaning": "मन राजा और नायक बन गया है, लेकिन जीवन का बोझ भारी है। हे हे हे हे कर रहे हैं, पूंजी चली गई और दुख बना रहता है।",
+    "explanation": "इस दोहे में कबीर मन की स्थिति और भौतिक धन की अस्थिरता को दर्शाते हैं। उन्होंने कहा कि भले ही मन खुद को राजा और नायक मानता हो, जीवन का बोझ और समस्याएं बनी रहती हैं। अंततः भौतिक धन चला जाता है और केवल दुःख ही बचता है। यह दोहा हमें चेतावनी देता है कि मन की स्थिति और भौतिक संपत्ति के भ्रम से बाहर आकर वास्तविकता को समझना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.628Z"
+  }
+}

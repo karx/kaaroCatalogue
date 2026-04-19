@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe3c62d4-feac-4d1f-a9de-43bd8d44c075",
+  "name": "हेत बिना आवै नहीं, हेत तहाँ चलि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without purpose, nothing comes; with purpose, everything happens. Kabir says that just as water and saints do not stay in one place, they move on.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हेत बिना आवै नहीं, हेत तहाँ चलि जाय।\nकबीर जल और सन्तजन, नवैं तहाँ ठहराय।।३५९।।",
+    "translation": "Without purpose, nothing comes; with purpose, everything happens. Kabir says that just as water and saints do not stay in one place, they move on.",
+    "meaning": "उद्देश्य के बिना कुछ भी नहीं आता; उद्देश्य के साथ सब कुछ हो जाता है। कबीर कहते हैं कि जैसे पानी और संत एक स्थान पर नहीं रुकते, वे आगे बढ़ जाते हैं।।",
+    "explanation": "इस दोहे में कबीरदास ने उद्देश्य के महत्व को बताया है। बिना किसी उद्देश्य के चीजें स्थिर नहीं रहतीं, लेकिन उद्देश्य के साथ सब कुछ संभव हो जाता है। कबीर ने पानी और संतों की तुलना से यह समझाया है कि वे हमेशा गतिशील और अपने उद्देश्य की दिशा में चलते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

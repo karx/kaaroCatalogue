@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0c17e4cf-b891-4f8b-9626-9c997f6cb90d",
+  "name": "चातुर को चिन्‍ता घनी, नहिं मूरख को लाज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The clever are full of worries, while the foolish have no shame. A wise person does not miss an opportunity; they work to fill their belly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चातुर को चिन्‍ता घनी, नहिं मूरख को लाज।\nसर अवसर जाने नहीं, पेट भरन सूं काज।।९५३।।",
+    "translation": "The clever are full of worries, while the foolish have no shame. A wise person does not miss an opportunity; they work to fill their belly.",
+    "meaning": "चतुर व्यक्ति को चिंता रहती है, जबकि मूर्ख को कोई शर्म नहीं होती। एक ज्ञानी ���्यक्ति अवसर को नहीं छोड़ता, वह पेट भरने के लिए काम करता है।",
+    "explanation": "कबीर इस दोहे में यह बताते हैं कि चतुर और समझदार व्यक्ति हमेशा चिंताओं में डूबे रहते हैं, क्योंकि वे अपने कार्य और अवसरों को गंभीरता से लेते हैं। दूसरी ओर, मूर्ख व्यक्ति को अपनी स्थिति या कार्यों के प्रति कोई शर्म नहीं होती। इस दोहे के माध्यम से कबीर यह सिखाते हैं कि अवसर को पहचानना और उसे सही तरीके से उपयोग करना जीवन की महत्वपूर्ण बात है, जो कि एक समझदार व्यक्ति ही कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.890Z"
+  }
+}

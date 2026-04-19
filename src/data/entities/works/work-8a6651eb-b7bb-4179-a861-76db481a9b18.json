@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8a6651eb-b7bb-4179-a861-76db481a9b18",
+  "name": "खुलि खेलो संसार में, बांधि न सक्‍कै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Play freely in the world; no one can bind you. What can a riverbank do, when there is no pot on the head?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खुलि खेलो संसार में, बांधि न सक्‍कै कोय।\nघाट जगाती क्‍या करै, सिर पर पोट न होय।।१०५७।।",
+    "translation": "Play freely in the world; no one can bind you. What can a riverbank do, when there is no pot on the head?",
+    "meaning": "संसार में खुलकर खेलो; कोई तुम्���ें बांध नहीं सकता। जब सिर पर कोई बर्तन न हो, तो घाट (किनारा) क्या कर सकता है?",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि जब व्यक्ति पूरी स्वतंत्रता से जीता है, तो कोई भी बाहरी शक्ति उसे बांध नहीं सकती। उदाहरण के लिए, अगर सिर पर बर्तन नहीं है, तो नदी का किनारा (घाट) भी कोई उपयोग नहीं कर सकता। यह संकेत करता है कि जब तक मनुष्य स्वयं अपने कर्मों को नियंत्रण में नहीं लाता, तब तक बाहरी परिस्थितियाँ भी उसे प्रभावित नहीं कर सकतीं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.425Z"
+  }
+}

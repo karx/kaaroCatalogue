@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cfbd008b-b254-4dd1-93a2-919429fdedf5",
+  "name": "बनजारी बिनती करै, नरियल लायी हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The trader makes a plea, bringing a coconut in hand. The feast was there but was spoiled, and there was no hero to accompany.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बनजारी बिनती करै, नरियल लायी हाथ।\nबाडा था सो लदि गया, नायक नाहीं साथ।।२१८३।।",
+    "translation": "The trader makes a plea, bringing a coconut in hand. The feast was there but was spoiled, and there was no hero to accompany.",
+    "meaning": "व्यापारी प्रार्थना करता है, हाथ में नारियल लाकर। भोज था लेकिन बिगड़ गया, और नायक साथ नहीं था।",
+    "explanation": "इस दोहे में कबीर ने व्यापारी की प्रार्थना का वर्णन किया है, जो नारियल लेकर आता है। भोज (उत्सव) था लेकिन नायक के बिना अधूरा रह गया। यह दोहा यह दर्शाता है कि बिना सही मार्गदर्शक या सहयोग के, कोई भी प्रयास अधूरा और असफल हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.730Z"
+  }
+}

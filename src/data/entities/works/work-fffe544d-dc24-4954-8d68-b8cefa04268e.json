@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fffe544d-dc24-4954-8d68-b8cefa04268e",
+  "name": "प्रेम बिना नहिं भेष कछु, नाहक करै सुवाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without love, no disguise is of any use, and it leads to unnecessary pretense. After love, the world seems meaningless, and all disguises are ruined.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम बिना नहिं भेष कछु, नाहक करै सुवाद।\nप्रेम बाद जग लग नहीं, सबै भेष बरबाद।।८१५।।",
+    "translation": "Without love, no disguise is of any use, and it leads to unnecessary pretense. After love, the world seems meaningless, and all disguises are ruined.",
+    "meaning": "प्रेम के बिना कोई भी भेष काम का नहीं है, और यह व्यर्थ की दिखावट होती है। प्रेम के बाद, दुनिया का कोई महत्व नहीं रहता, और सभी भेष बेकार हो जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की अपरिहार्यता को बताया है। प्रेम के बिना कोई भी भेष या दिखावट वास्तव में व्यर्थ होती है। प्रेम की प्राप्ति के बाद, बाहरी दिखावट और भेष का कोई महत्व नहीं रहता, और ये सब बेकार हो जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

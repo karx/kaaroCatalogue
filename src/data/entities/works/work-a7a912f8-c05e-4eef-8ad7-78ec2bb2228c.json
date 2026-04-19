@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a7a912f8-c05e-4eef-8ad7-78ec2bb2228c",
+  "name": "Heer Ranjha- by Waris Shah - A Classic Book on their love story{{cite web",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-waris-shah"
+  },
+  "inLanguage": "Punjabi",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Heer_Ranjha-_by_Waris_Shah_-_A_Classic_Book_on_their_love_story{{cite_web",
+    "retrievedAt": "2026-01-04T18:39:16.708Z"
+  }
+}

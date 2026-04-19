@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-471ccb04-d40f-4e81-a98d-ed1dab0cba3e",
+  "name": "अंकूर ते बीज बीज ते अंकुर, अंकुर बीज संभारे",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "From the sprout comes the seed, and from the seed comes the sprout. Similarly, from the body comes action, and from action comes the body; few understand this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंकूर ते बीज बीज ते अंकुर, अंकुर बीज संभारे।\nकाया ते कर्म कर्म ते काया, कोई बिरला जना निखारे।।१४३९।।",
+    "translation": "From the sprout comes the seed, and from the seed comes the sprout. Similarly, from the body comes action, and from action comes the body; few understand this.",
+    "meaning": "अंकुर से बीज निकलता है, और बीज से अंकुर आता है। इसी प्रकार, शरीर से कर्म निकलता है, और कर्म से शरीर बनता है; इसे समझना कुछ ही लोगों के लिए संभव है।",
+    "explanation": "कबीर इस दोहे में जीवन के चक्र और कर्म के प्रभाव की बात करते हैं। वे बताते हैं कि जैसे अंकुर से बीज उत्पन्न होता है और बीज से अंकुर, उसी प्रकार शरीर से कर्म और कर्म से शरीर बनता है। यह चक्र कुछ ही लोग समझ पाते हैं। यह दोहा जीवन के गहरे रहस्यों को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.366Z"
+  }
+}

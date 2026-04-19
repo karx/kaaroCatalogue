@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9e496884-a523-46ca-939c-64f2715d9ff6",
+  "name": "भवसागर भारी भया, गहरा अगम अथाह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The ocean of existence is deep, unfathomable, and vast. O Merciful One, show your mercy, so that I may find some depth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भवसागर भारी भया, गहरा अगम अथाह।\nतुम दयाल दाया करो, तब पाऊं कछु थाह।।२२०२।।",
+    "translation": "The ocean of existence is deep, unfathomable, and vast. O Merciful One, show your mercy, so that I may find some depth.",
+    "meaning": "भवसागर गहरा, अगम और अथाह हो गया है। हे दयालु, कृपा करें, ताकि मैं कुछ थाह पा सकूं।",
+    "explanation": "इस दोहे में संत कबीर जी जीवन के महासागर की गहराई और कठिनाई को व्यक्त कर रहे हैं। वे भगवान से प्रार्थना करते हैं कि वे उनकी सहायता करें, ताकि वे इस कठिन जीवन सागर में कुछ दिशा पा सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.077Z"
+  }
+}

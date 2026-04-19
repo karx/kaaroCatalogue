@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-612c66f1-8750-49ed-a9e4-2d2ffac146ab",
+  "name": "कबिरा काजी स्‍वाद बस, जीव हते तब दोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, 'Driven by taste, the Qazi kills two lives. He climbs the mosque and asks, how can the truth be found in the afterlife?'",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा काजी स्‍वाद बस, जीव हते तब दोय।\nचढ़‍ि मसीत एको कहै, क्‍यों दरगह सांचा होय।।२२६०।।",
+    "translation": "Kabir says, 'Driven by taste, the Qazi kills two lives. He climbs the mosque and asks, how can the truth be found in the afterlife?'",
+    "meaning": "कबीर कहते हैं, 'स्वाद के बस में होकर काज़ी दो जीवों की हत्या करता है। वह मस्जिद में चढ़कर पूछता है, कि आखिर सच्चाई दरगाह (परलोक) में कैसे मिलेगी?'",
+    "explanation": "इस दोहे में कबीर जी बताते हैं कि काजी स्वाद की लालसा में आकर जीवों की हत्या करता है और फिर धर्म के नाम पर मस्जिद में चढ़कर सवाल उठाता है कि परलोक में सच्चाई कैसे मिलेगी। यह दोहा इस बात पर प्रकाश डालता है कि धर्म का पालन केवल दिखावे के लिए नहीं होना चाहिए, बल्कि सच्चाई और करुणा के साथ होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.347Z"
+  }
+}

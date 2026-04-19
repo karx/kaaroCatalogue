@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1970b45e-d5e6-4311-8b5a-a8fcb7b6d211",
+  "name": "कहत सुनत सब दिन गये, उरझि न सुरझा मन्‍न",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All days pass in speaking and listening, yet the mind remains entangled and not clear. Kabir says one remains unaware as if it were the first day.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहत सुनत सब दिन गये, उरझि न सुरझा मन्‍न।\nकहैं कबीर चेता नहीं, अजहूं पहला दिन्‍न।।११३१।।",
+    "translation": "All days pass in speaking and listening, yet the mind remains entangled and not clear. Kabir says one remains unaware as if it were the first day.",
+    "meaning": "सभी दिन कहने और सुनने में ही बीत जाते हैं, फिर भी मन उलझा रहता है और स्पष्ट नहीं होता। कबीर कहते हैं कि एक व्यक्ति अज्ञान में रहता है जैसे कि यह पहला दिन हो।",
+    "explanation": "इस दोहे में कबीर ने मन की अज्ञानता और उलझन को दर्शाया है। उन्होंने कहा है कि भले ही समय कैसे बीत जाए, अगर मन स्पष्टता प्राप्त नहीं करता तो व्यक्ति हमेशा अज्ञानी रहता है। यह आत्म-जागरूकता और मानसिक स्पष्टता की कमी को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.705Z"
+  }
+}

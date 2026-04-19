@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d3b67484-3b3f-439b-a72f-60112c585a44",
+  "name": "तिलभर मछली खाय के, कोटि गऊ दै दान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if one eats a tiny bit of fish and then donates millions of cows, Or dies in Kashi with sacred rituals, hell is still their destiny.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तिलभर मछली खाय के, कोटि गऊ दै दान।\nकाशी करात लै मरै, तो भी नरक निदान।।२२५१।।",
+    "translation": "Even if one eats a tiny bit of fish and then donates millions of cows, Or dies in Kashi with sacred rituals, hell is still their destiny.",
+    "meaning": "यदि कोई तिलभर मछली खाता है और फिर करोड़ों गायों का दान करता है, या काशी में विधिपूर्वक मरता है, तो भी उसका नरक ही नसीब है।",
+    "explanation": "इस दोहे में कबीर जी बताते हैं कि अगर कोई व्यक्ति मछली का एक तिलभर हिस्सा भी खाता है और बाद में करोड़ों गायों का दान करता है, या काशी में पवित्र अनुष्ठानों के साथ मरता है, तो भी उसके पापों के कारण उसे नरक जाना पड़ेगा। यह दोहा इस बात को रेखांकित करता है कि पाप के कार्यों से कोई भी धार्मिक अनुष्ठान या दान उसे बचा नहीं सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.343Z"
+  }
+}

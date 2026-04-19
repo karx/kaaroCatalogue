@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9a777978-3c33-4e35-9967-5f5707544ca9",
+  "name": "मीठा सब कोय खात है, विष ह्व लागै धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone eats sweet things, but poison seems to linger. If one drinks bitter neem, all ailments would disappear.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मीठा सब कोय खात है, विष ह्व लागै धाय।\nनीम न कोई पीवसी, सबै रोग मिट जाय।।११७७।।",
+    "translation": "Everyone eats sweet things, but poison seems to linger. If one drinks bitter neem, all ailments would disappear.",
+    "meaning": "सभी लोग मीठा खाते हैं, लेकिन विष लंबे समय तक लगता है। यदि कोई कड़वा नीम पिये, तो सभी रोग मिट जाएंगे।",
+    "explanation": "इस दोहे में कबीर ने संसार की मिठास और वास्तविकता के बीच के अंतर को व्यक्त किया है। वे बताते हैं कि लोग मीठी चीजों को पसंद करते हैं, लेकिन विष का प्रभाव लंबे समय तक बना रहता है। यदि कोई कड़वा लेकिन स्वास्थ्यप्रद चीज़ जैसे नीम का सेवन करे, तो सभी प्रकार के रोग और समस्याएँ समाप्त हो जाएँगी।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.972Z"
+  }
+}

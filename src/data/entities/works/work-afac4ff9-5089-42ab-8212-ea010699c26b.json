@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-afac4ff9-5089-42ab-8212-ea010699c26b",
+  "name": "प्रेम पियाला जो पिये, शीश दच्छिना देय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who drinks the cup of love should offer their head as a token of gratitude. A greedy person cannot offer their head, they merely take the name of love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम पियाला जो पिये, शीश दच्छिना देय।\nलोभी शीश न दे सकै, नाम प्रेम का लेय।।८२५।।",
+    "translation": "One who drinks the cup of love should offer their head as a token of gratitude. A greedy person cannot offer their head, they merely take the name of love.",
+    "meaning": "जो प्रेम का प्याला पीता है, उसे अपने सिर को दान करना चाहिए। जो लोभी होता है, वह सिर नहीं दे सकता, केवल प्रेम का नाम ही लेता है।",
+    "explanation": "इस दोहे में कबीर ने सच्चे प्रेम की गहराई को दर्शाया है। जो प्रेम की वास्तविकता को समझता है और उसे ग्रहण करता है, वह पूरी विनम्रता और श्रद्धा के साथ अपने सिर को दान करता है। इसके विपरीत, लोभी लोग केवल प्रेम का नाम लेते हैं, परंतु प्रेम की वास्तविक भावना को नहीं समझ पाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.080Z"
+  }
+}

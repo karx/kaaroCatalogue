@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a91ab94-cdd7-451e-abec-639c5b8c9560",
+  "name": "कबीर साकट की सभा, तू मति बैठे जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, do not sit in the company of wicked people. Even if you join them for a moment, their negative influence will grow daily.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर साकट की सभा, तू मति बैठे जाय।\nएक गुवाड़े कदि बड़ै, रोज गदहरा गाय।।३०४।।",
+    "translation": "Kabir says, do not sit in the company of wicked people. Even if you join them for a moment, their negative influence will grow daily.",
+    "meaning": "कबीर कहते हैं, साकट लोगों की संगति में मत बैठो। अगर तुम उनके साथ थोड़ी देर भी बैठोगे, तो उनकी बुराई तुम्हारे भीतर बढ़ती जाएगी।",
+    "explanation": "इस दोहे में कबीर संगति के महत्व को बताते हैं। वे कहते हैं कि बुरी संगति में बैठने से व्यक्ति पर नकारात्मक प्रभाव पड़ता है। बुराई धीरे-धीरे बढ़ती है और अंततः जीवन को प्रभावित करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

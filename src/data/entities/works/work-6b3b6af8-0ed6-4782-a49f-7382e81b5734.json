@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6b3b6af8-0ed6-4782-a49f-7382e81b5734",
+  "name": "माया तरुवर त्रिविधका, शोक दुख संताप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion is a tree with threefold sufferings: grief, sorrow, and pain. It does not offer coolness or sweet fruit; instead, it brings the heat of the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया तरुवर त्रिविधका, शोक दुख संताप।\nशीतलता सुपनै नहीं, फल फीका तन ताप।।१२०६।।",
+    "translation": "Illusion is a tree with threefold sufferings: grief, sorrow, and pain. It does not offer coolness or sweet fruit; instead, it brings the heat of the body.",
+    "meaning": "माया एक त्रैतीय पीड़ा वाले वृक्ष के समान है: शोक, दुख और संताप। यह ठंडक या मीठे फल नहीं देती, बल्कि शरीर की गर्मी लाती है।",
+    "explanation": "इस दोहे में कबीर ने माया की दिक्कत और उसके कष्टप्रद स्वभाव को व्यक्त किया है। माया एक ऐसा वृक्ष है जो दुख, शोक और संताप की त्रैतीय पीड़ा लाता है। यह ठंडक या मीठे फल नहीं देती, बल्कि केवल शरीर की गर्मी और कष्ट प्रदान करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.267Z"
+  }
+}

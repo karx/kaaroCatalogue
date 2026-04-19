@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-54aa02fc-a4d2-4c6e-bbd8-a14a667bcb21",
+  "name": "Gita Govinda",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-jayadeva"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Gita_Govinda",
+    "retrievedAt": "2026-01-04T18:39:05.775Z"
+  }
+}

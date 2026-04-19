@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-82a256e8-59e9-4c28-b9c2-c5988894c954",
+  "name": "जल की जमी में है रोपा, अभी सींचें सौ बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the frozen water, the seeds are sown, but they must be watered a hundred times. Kabir says, do not abandon the creation, for what will be the use of contemplation?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जल की जमी में है रोपा, अभी सींचें सौ बार।\nकबिरा खलक न तजे, जामे कौन वोचार।।१२५।।",
+    "translation": "In the frozen water, the seeds are sown, but they must be watered a hundred times. Kabir says, do not abandon the creation, for what will be the use of contemplation?",
+    "meaning": "जमी हुई जल में बीज बोया गया है, लेकिन उसे सौ बार सींचना पड़ेगा। कबीर कहते हैं, सृष्टि को मत छोड़ो, अन्यथा ध्यान का क्या उपयोग होगा?",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जब बीज जमी हुई भूमि में बोया जाता है, तो उसे बार-बार पानी देना पड़ता है। इसी प्रकार, सच्चे साधना और ध्यान के लिए सृष्टि और कर्मों को छोड़ना उचित नहीं है। हमें अपने कर्मों और सृष्टि के प्रति समर्पित रहना चाहिए ताकि ध्यान और साधना का सही उपयोग हो सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-afd5ac0b-c4b3-4f51-b6eb-f956cb1529bd",
+  "name": "कथनी कथि फूला फिरै, मेरे होयै उचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Words may appear flowery, but without understanding true devotion and feeling, they are of no use. Such ignorant fools do not comprehend the essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कथनी कथि फूला फिरै, मेरे होयै उचार।\nभाव भक्ति समझै नहीं, अंधा मूढ़ गंवार।।१३१३।।",
+    "translation": "Words may appear flowery, but without understanding true devotion and feeling, they are of no use. Such ignorant fools do not comprehend the essence.",
+    "meaning": "शब्द भले ही कितने भी आकर्षक हों, लेकिन यदि वास्तविक भक्ति और भावनाओं की समझ नहीं है, तो वे बेकार हैं। अंधे और मूढ़ लोग इसका सार नहीं समझते।",
+    "explanation": "कबीर जी के अनुसार, केवल शब्दों की सुंदरता से कोई लाभ नहीं होता। वास्तविक भावनाओं और भक्ति की समझ होनी चाहिए। जो लोग इस सच्चाई को नहीं समझते, वे अज्ञानी और मूढ़ होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.811Z"
+  }
+}

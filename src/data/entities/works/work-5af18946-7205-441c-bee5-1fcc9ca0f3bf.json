@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5af18946-7205-441c-bee5-1fcc9ca0f3bf",
+  "name": "सत को खोजत मैं फिरूँ, सतिया न मिलै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I wandered in search of truth, but could not find anyone truthful. When the truth meets the truthful, poison turns into nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सत को खोजत मैं फिरूँ, सतिया न मिलै न कोय।\nजब सत को सतिया मिले, विष तजि अमृत होय।।२९५।।",
+    "translation": "I wandered in search of truth, but could not find anyone truthful. When the truth meets the truthful, poison turns into nectar.",
+    "meaning": "मैं सत्य की खोज में भटका, लेकिन मुझे कोई सत्यवादी नहीं मिला। जब सत्य सत्यवादी से मिलता है, तो विष भी अमृत बन जाता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि सत्य की खोज कठिन होती है। सच्चे सत्य की प्राप्ति के बाद जीवन के सभी कष्ट और विषाद समाप्त हो जाते हैं, और वह व्यक्ति अमृत के समान आनंद की प्राप्ति करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

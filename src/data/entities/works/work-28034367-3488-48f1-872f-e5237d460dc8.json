@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-28034367-3488-48f1-872f-e5237d460dc8",
+  "name": "कबीर यह जग कुछ नहीं, खिन खारा मीठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says this world is nothing, just a moment of bitterness and sweetness. Yesterday, someone sat in the shop, today it is in ashes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह जग कुछ नहीं, खिन खारा मीठ।\nकाल्ह जो बैठा भण्डपै, आज भसाने दीठ।।११५।।",
+    "translation": "Kabir says this world is nothing, just a moment of bitterness and sweetness. Yesterday, someone sat in the shop, today it is in ashes.",
+    "meaning": "कबीर कहते हैं कि यह संसार कुछ भी नहीं है, बस एक क्षण की कड़वाहट और मिठास है। कल जो दुकान पर बैठा था, आज वह राख में बदल गया।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि संसार की भौतिक चीजें क्षणिक होती हैं। जो आज है, वह कल समाप्त हो सकता है। यह जीवन की अस्थिरता और तात्कालिकता को समझाने के लिए है, जिससे यह सिखाया जा सके कि हमें स्थायी सुख और आत्मज्ञान की ओर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

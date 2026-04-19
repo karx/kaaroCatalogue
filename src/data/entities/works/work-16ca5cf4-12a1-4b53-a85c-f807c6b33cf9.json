@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16ca5cf4-12a1-4b53-a85c-f807c6b33cf9",
+  "name": "प्रीति बहत संसार में, नाना विधि की सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Affection is widespread in the world, in many forms and ways. True affection is known to be that which comes from the true guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रीति बहत संसार में, नाना विधि की सोय।\nउत्तम प्रीति सो जानिये, सतगुरु से जो होय।।८२८।।",
+    "translation": "Affection is widespread in the world, in many forms and ways. True affection is known to be that which comes from the true guru.",
+    "meaning": "प्रेम संसार में व्यापक है, अनेक प्रकारों और तरीकों से। सच्चा प्रेम वही होता है जो सच्चे गुरु से प्राप्त होता है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की विभिन्नताओं को उजागर किया है और बताया है कि सच्चा प्रेम वह है जो सच्चे गुरु से प्राप्त होता है। संसार में प्रेम के कई रूप और विधियां हैं, लेकिन सबसे उत्तम प्रेम वह होता है जो आध्यात्मिक मार्गदर्शक, अर्थात् सच्चे गुरु से मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.080Z"
+  }
+}

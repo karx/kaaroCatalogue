@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8df558bb-d883-49a5-af5d-71fcefe62cab",
+  "name": "इष्‍ट मिले अरु मन मिले, मिले सकल रस रीति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When you meet your chosen one and your mind aligns, all pleasures and rituals unite. Kabir says, go where such love among saints exists.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इष्‍ट मिले अरु मन मिले, मिले सकल रस रीति।\nकहैं कबीर तहं जाइये, यह सन्‍तन की प्रीति।।९८३।।",
+    "translation": "When you meet your chosen one and your mind aligns, all pleasures and rituals unite. Kabir says, go where such love among saints exists.",
+    "meaning": "जब तुम अपने इष्ट से मिलते हो और मन भी संगत करता है, तो सभी रस और रीति मिल जाते हैं। कबीर कहते हैं, वहां जाओ जहां संतों के बीच ऐसा प्रेम होता है।",
+    "explanation": "इस दोहे में कबीर दास जी इष्ट और संतों की संगति की महत्ता को बताते हैं। वह कहते हैं कि जब हम अपने इष्ट से मिलते हैं और मन भी उससे जुड़ता है, तो सभी आनंद और रीतियाँ एक हो जाती हैं। कबीर कहते हैं कि हमें वहां जाना चाहिए, जहां संतों का ऐसा प्रेम हो, क्योंकि यही प्रेम सच्चे आध्यात्मिक आनंद का स्रोत है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.894Z"
+  }
+}

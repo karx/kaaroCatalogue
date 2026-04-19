@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-20ed04ed-a399-4806-bdb2-0b11ec1f5f77",
+  "name": "पैड़ै मोती बिखरया, अंधा निकस्‍या आइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Pearls are scattered on the ground, but the blind cannot see them. Without the light of the divine, the world is crossed over.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पैड़ै मोती बिखरया, अंधा निकस्‍या आइ।\nजोति बिनां जगदीस की, जगत उलंघ्‍या जाइ।।१९७८।।",
+    "translation": "Pearls are scattered on the ground, but the blind cannot see them. Without the light of the divine, the world is crossed over.",
+    "meaning": "मोती जमीन पर बिखरे हुए हैं, लेकिन अंधा उन्हें देख नहीं सकता। दिव्य प्रकाश के बिना, संसार को पार करना असंभव है।",
+    "explanation": "इस दोहे में कबीर ने दिव्य ज्ञान की आवश्यकता को स्पष्ट किया है। उन्होंने बताया है कि चाहे कितना भी मूल्यवान और महत्वपूर्ण क्यों न हो, अगर हमें दिव्य ज्ञान और दृष्टि प्राप्त नहीं है, तो हम उसकी असली मूल्य को नहीं पहचान सकते। यह दोहा आत्मज्ञान की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.533Z"
+  }
+}

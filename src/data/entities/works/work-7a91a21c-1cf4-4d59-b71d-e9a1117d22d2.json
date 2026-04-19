@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a91a21c-1cf4-4d59-b71d-e9a1117d22d2",
+  "name": "अड़सठ तीरथ निन्‍दक न्‍हाई, देह पलोसे मैल न जाई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if a critic bathes at sixty-eight pilgrimage sites, the dirt of the body will not be removed. Even if they roam over millions of lands, they will still go to hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अड़सठ तीरथ निन्‍दक न्‍हाई, देह पलोसे मैल न जाई।\nछप्‍पन कोटि धरती फिरि आवै, तो भी निन्‍दक नरकहिं जावे।।१२८३।।",
+    "translation": "Even if a critic bathes at sixty-eight pilgrimage sites, the dirt of the body will not be removed. Even if they roam over millions of lands, they will still go to hell.",
+    "meaning": "यदि कोई निंदा करने वाला साठ आठ तीर्थ स्थलों पर स्नान भी कर ले, तो भी शरीर की मैल साफ नहीं होती। लाखों भूमि की यात्रा करने के बाद भी, वह नरक में ही जाता है।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि निंदा करने वाला चाहे कितने भी तीर्थों पर स्नान कर ले या कितनी भी भूमि की यात्रा कर ले, उसकी आंतरिक अशुद्धता और दोष दूर नहीं होते और वह नरक में ही जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.547Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-faaa3d96-e1e9-4c43-a710-94ca243dbaab",
+  "name": "कहै दरबारी बातरी, क्‍यों पावै वह धाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The courtier speaks of divine realms, but why does he attain that state? He bows his head and wanders, but does not engage in other tasks.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहै दरबारी बातरी, क्‍यों पावै वह धाम।\nशीश उतारै संचरै, नाहिं और को काम।।२०९७।।",
+    "translation": "The courtier speaks of divine realms, but why does he attain that state? He bows his head and wanders, but does not engage in other tasks.",
+    "meaning": "दरबारी दिव्य लोकों की बात करता है, लेकिन वह उस स्थिति को क्यों प्राप्त करता है? वह अपना सिर झुका कर घूमता है, लेकिन अन्य कामों में नहीं लगता।",
+    "explanation": "इस दोहे में कबीर दरबारी लोगों की आलोचना करते हैं, जो केवल धार्मिक बातों का प्रचार करते हैं लेकिन वास्तविकता में अपनी ज़िम्मेदारियों को नहीं निभाते। वह सिर झुका कर घूमते हैं और बाहरी दिखावे पर ध्यान केंद्रित करते हैं, लेकिन उनके कर्म और व्यवहार में सच्चाई नहीं होती। कबीर इस दोहे के माध्यम से सच्चे धर्म और वास्तविक कर्म के महत्व को स्पष्ट करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.099Z"
+  }
+}

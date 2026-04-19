@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5b346152-9b42-48c6-b00f-2b0eab1836a4",
+  "name": "सोई शब्‍द निज सार है, जो गुरु दिया बताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true essence lies in the words that the guru has imparted. I am devoted to that guru, for whose teachings I never feel separated.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोई शब्‍द निज सार है, जो गुरु दिया बताय।\nबलिहारो वा गुरुन की, सीष बियोग न जाय।।१०००।।",
+    "translation": "The true essence lies in the words that the guru has imparted. I am devoted to that guru, for whose teachings I never feel separated.",
+    "meaning": "सच्चा सार उन्हीं शब्दों में है जो गुरु ने बताए हैं। मैं उस गुरु का बलिहार जाता हूं, जिसके उपदेशों से मैं कभी अलग नहीं महसूस करता।",
+    "explanation": "इस दोहे में कबीर दास जी गुरु की महिमा और उनके शब्दों के महत्व को बताते हैं। वह कहते हैं कि सच्चा सार उन्हीं शब्दों में है जो गुरु ने दिए हैं, और वह अपने गुरु को प्रणाम करते हैं, जिनके उपदेशों से वे कभी अलग महसूस नहीं करते। यह दोहा गुरु भक्ति और उनके उपदेशों के प्रति आस्था की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.897Z"
+  }
+}

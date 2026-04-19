@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c11d596f-94d3-4205-a3a1-75f56b2c6b52",
+  "name": "कबीर धनि ते सुंदरी, जिन जाया बैसनौं पूत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the rich and beautiful woman, who has sons and wealth, has attained true greatness by remembering Ram. All the world is in awe of her.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर धनि ते सुंदरी, जिन जाया बैसनौं पूत।\nराम सुमरि नरिभै हुवा, सब जग गया अऊत।।१९८५।।",
+    "translation": "Kabir says, the rich and beautiful woman, who has sons and wealth, has attained true greatness by remembering Ram. All the world is in awe of her.",
+    "meaning": "कबीर कहते हैं कि धनवान और स���ंदर स्त्री, जिनके पास पुत्र और धन है, ने राम का स्मरण करके वास्तविक महानता प्राप्त की है। पूरी दुनिया उसकी प्रशंसा करती है।",
+    "explanation": "इस दोहे में कबीर ने उस महिला की महानता को बताया है जो धन और सौंदर्य के बावजूद राम का स्मरण करती है। उनका कहना है कि वास्तविक महानता और सम्मान केवल भक्ति और आस्था से प्राप्त होती है, न कि भौतिक संपत्ति से। यह भक्ति के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.535Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-21c4098c-7891-48cc-b55e-87bd7ea10b99",
+  "name": "कबिरा हद के जीव सों, हित करि मुखै न बोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir does not speak openly with those bound by limits. To those who are in tune with the infinite, he reveals the inner truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा हद के जीव सों, हित करि मुखै न बोल।\nजो राचे बेहद सों, तिनसों अन्‍तर खोल।।२२२८।।",
+    "translation": "Kabir does not speak openly with those bound by limits. To those who are in tune with the infinite, he reveals the inner truth.",
+    "meaning": "कबीर सीमाओं से बंधे लोगों से खुलकर नहीं बोलते। जो लोग अनंत के साथ जुड़े होते हैं, उन्हें वह आंतरिक सत्य प्रकट करते हैं।",
+    "explanation": "इस दोहे में कबीर जी यह दिखाते हैं कि वह उन लोगों के साथ खुलकर बात नहीं करते जो सीमाओं में बंधे होते हैं। उनके लिए जो अनंत के साथ जुड़े होते हैं, कबीर जी आंतरिक सत्य को प्रकट करते हैं। यह बताता है कि आध्यात्मिक ज्ञान और समझ के लिए गहरी आंतरिक जुड़ाव और अनुभव की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.085Z"
+  }
+}

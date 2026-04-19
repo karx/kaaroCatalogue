@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-56a8fbf4-1d8a-4818-b278-3049c5836d12",
+  "name": "ऊंचा विरष अकासि फल, पंषरू मूए झूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The high fruit of the sky is enjoyed by the birds who have passed away. Many wise people are still pondering, the pure fruit remains distant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचा विरष अकासि फल, पंषरू मूए झूर।\nबहुत सयांने पचि रहे, फल निरमल परि दूरि।।१९२२।।",
+    "translation": "The high fruit of the sky is enjoyed by the birds who have passed away. Many wise people are still pondering, the pure fruit remains distant.",
+    "meaning": "आकाश में ऊंचा फल परिंदे खाते हैं जो मर चुके हैं। बहुत से ज्ञानी लोग अब भी सोच रहे हैं, शुद्ध फल अभी भी दूर है।",
+    "explanation": "इस दोहे में कबीरदास जी यह समझाते हैं कि जो लोग पहले ही गुजर चुके हैं, वे उच्च आदर्शों और ज्ञान को प्राप्त कर लेते हैं, जबकि जीवित लोग अभी भी उसे समझने और प्राप्त करने की कोशिश कर रहे हैं। यह दोहा जीवन के ज्ञान और आदर्शों की वास्तविकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.250Z"
+  }
+}

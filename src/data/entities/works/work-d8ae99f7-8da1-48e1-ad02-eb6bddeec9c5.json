@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d8ae99f7-8da1-48e1-ad02-eb6bddeec9c5",
+  "name": "नाम भजो मन बसि करो, यही बात है तंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chant the name and settle it in your mind; this is the essence of the matter. Why read and die pondering, when countless books of knowledge are there?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाम भजो मन बसि करो, यही बात है तंत।\nकाहे को पढ़‍ि पचि मरो, कोटिन ज्ञान ग‍िरंथ।।९५२।।",
+    "translation": "Chant the name and settle it in your mind; this is the essence of the matter. Why read and die pondering, when countless books of knowledge are there?",
+    "meaning": "नाम का जप करो और उसे मन में बसाओ; यही सच्चाई है। क्यों पढ़ाई करके मृत्यु को गले लगाओ, जबकि अनगिनत ज्ञान के ग्रंथ मौजूद हैं?",
+    "explanation": "कबीर इस दोहे में यह सिखाते हैं कि जीवन की सच्चाई और आध्यात्मिक उद्देश्य को समझने के लिए नाम का जाप और ध्यान महत्वपूर्ण है। वे कहते हैं कि बहुत से ग्रंथ और ज्ञान होते हुए भी, यदि मन में नाम का स्थान न हो, तो ज्ञान का कोई मतलब नहीं है। इस दोहे के माध्यम से कबीर यह संदेश देना चाहते हैं कि वास्तविक शांति और ज्ञान केवल ध्यान और भक्ति के माध्यम से ही प्राप्त किया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.890Z"
+  }
+}

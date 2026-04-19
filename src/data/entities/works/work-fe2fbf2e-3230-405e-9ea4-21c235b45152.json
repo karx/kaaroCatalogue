@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe2fbf2e-3230-405e-9ea4-21c235b45152",
+  "name": "कहते तो कहि जान दे, गुरु की सीख तु लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If they say, say you know; take the Guru's teaching. Don’t reply to the hypocrites and dogs again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहते तो कहि जान दे, गुरु की सीख तु लेय।\nसाकट जन औ श्वान को, फेरि जवाब न देय।।४५२।।",
+    "translation": "If they say, say you know; take the Guru's teaching. Don’t reply to the hypocrites and dogs again.",
+    "meaning": "अगर वे कहते हैं, तो कहो कि तुम जानते हो; गुरु की सीख लो। झूठे लोगों और कुत्तों को फिर से जवाब न दो।",
+    "explanation": "इस दोहे में कबीर सलाह देते हैं कि यदि कोई झूठा या कपटी व्यक्ति सवाल करता है, तो उसे अनदेखा करो और गुरु की शिक्षाओं पर ध्यान दो। झूठे लोगों और कुत्तों को जवाब देने का कोई लाभ नहीं है क्योंकि वे सच्चाई को समझने में असमर्थ होते हैं। यह दोहा गुरु की शिक्षाओं की महत्वता और झूठे लोगों से बचने के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.194Z"
+  }
+}

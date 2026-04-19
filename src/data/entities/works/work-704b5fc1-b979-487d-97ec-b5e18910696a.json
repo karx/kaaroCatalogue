@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-704b5fc1-b979-487d-97ec-b5e18910696a",
+  "name": "Urvashi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dinkar"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Urvashi",
+    "retrievedAt": "2026-01-04T18:39:29.087Z"
+  }
+}

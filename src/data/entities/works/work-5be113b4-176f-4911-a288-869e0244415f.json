@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5be113b4-176f-4911-a288-869e0244415f",
+  "name": "Ghalib ke Khutoot",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mirza-ghalib"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Ghalib_ke_Khutoot",
+    "retrievedAt": "2026-01-04T18:38:56.785Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01a1fb4b-7061-4cd7-aa22-92b1aab83ac7",
+  "name": "लोग विचारा नींदइ, जिन्‍ह न पाया ग्‍यांन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "People who are asleep in ignorance, even if they chant the name of Ram, will not find joy in it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लोग विचारा नींदइ, जिन्‍ह न पाया ग्‍यांन।\nराम नांव राता रहै, तिनहु न भावै आंन।।१३००।।",
+    "translation": "People who are asleep in ignorance, even if they chant the name of Ram, will not find joy in it.",
+    "meaning": "जो लोग अज्ञानता में सोए हुए हैं, भले ही वे राम का नाम लें, उन्हें उसमें आनंद नहीं मिलेगा।",
+    "explanation": "कबीर जी के अनुसार, जो लोग अज्ञानता में डूबे हुए हैं, वे भले ही राम का नाम लें, लेकिन वे सच्चे आनंद और ज्ञान को नहीं प्राप्त कर सकते। वास्तविक आनंद और ज्ञान के लिए आत्मा की जागरूकता आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.550Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e8fd03fb-aa82-46ad-a66c-1acb27867e2f",
+  "name": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I went in search of the bad, but I found none. When I searched my own heart, I found no one worse than myself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय।\nजो दिल खोज्‍या आपना, मुझसा बुरा न कोय।।१४०६।।",
+    "translation": "I went in search of the bad, but I found none. When I searched my own heart, I found no one worse than myself.",
+    "meaning": "मैं बुराई देखने चला, लेकिन कोई बुरा नहीं मिला। जब मैंने अपने दिल को खोजा, तो खुद से बुरा कोई न मिला।",
+    "explanation": "इस दोहे में कबीर आत्म-निरीक्षण की गहराई को व्यक्त करते हैं। वे कहते हैं कि जब उन्होंने बुराई की खोज की, तो उन्हें कोई बुरा नहीं मिला। लेकिन जब उन्होंने अपने ही दिल को देखा, तो उन्हें खुद से बुरा कोई नहीं मिला। यह दोहा आत्म-परख की ओर इशारा करता है और हमें आत्म सुधार की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.358Z"
+  }
+}

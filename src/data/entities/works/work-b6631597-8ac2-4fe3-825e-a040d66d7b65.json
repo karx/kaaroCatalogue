@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b6631597-8ac2-4fe3-825e-a040d66d7b65",
+  "name": "मांगन गये सो मर रहे, मरै जु मांगन जांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who go begging are dying, and those who die begging are dead before their time. They are not engaged in any meaningful action.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांगन गये सो मर रहे, मरै जु मांगन जांहि।\nतिनतें पहले वे मरे, होत करत हैं नाहि।।६४८।।",
+    "translation": "Those who go begging are dying, and those who die begging are dead before their time. They are not engaged in any meaningful action.",
+    "meaning": "जो लोग भीख मांगने जाते हैं, वे मर रहे हैं, और जो मरते हुए भी मांगते हैं, वे पहले ही मर चुके होते हैं। वे किसी महत्वपूर्ण कार्य में लगे नहीं होते।",
+    "explanation": "संत कबीर का कहना है कि जो लोग भीख मांगते हैं, वे वास्तव में आत्मिक मृत्यु का सामना कर रहे हैं। उनका जीवन बेकार हो जाता है क्योंकि वे महत्वपूर्ण कार्यों में संलग्न नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.004Z"
+  }
+}

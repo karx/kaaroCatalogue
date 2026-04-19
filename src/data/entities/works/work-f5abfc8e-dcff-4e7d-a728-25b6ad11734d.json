@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f5abfc8e-dcff-4e7d-a728-25b6ad11734d",
+  "name": "कबीर मन फूल्या फिरै, करता हूँ मैं घ्रंम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's mind wanders, thinking that I am calm. Even after following millions of steps, awareness does not recognize the illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन फूल्या फिरै, करता हूँ मैं घ्रंम।\nकोटि क्रम सिरि ले चल्या, चेत न देखै भ्रम।।१७०।।",
+    "translation": "Kabir's mind wanders, thinking that I am calm. Even after following millions of steps, awareness does not recognize the illusion.",
+    "meaning": "कबीर का मन भटकता रहता है, यह सोचते हुए कि मैं शांत हूँ। लाखों प्रयास करने के बावजूद, चेतना भ्रम को नहीं पहचानती।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि भले ही व्यक्ति अपनी शांतिपूर्ण स्थिति का दावा करे, उसका मन लगातार भ्रम और असावधानी में रहता है। बाहरी प्रयासों से आत्मा की वास्तविक स्थिति को पहचानने में कोई लाभ नहीं होता। यह आत्मज्ञान की प्राप्ति के लिए गहरी अंतर्दृष्टि की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

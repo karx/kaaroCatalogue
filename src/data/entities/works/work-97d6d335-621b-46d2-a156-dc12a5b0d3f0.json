@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-97d6d335-621b-46d2-a156-dc12a5b0d3f0",
+  "name": "मूढ कर्मिया मानवा नख, शिख पाखर आहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Foolish human actions are like the claws and feathers of a bird. What can the rider do if the arrow does not hit?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूढ कर्मिया मानवा नख, शिख पाखर आहि।\nवाहनहारा का करे, जो बाण न लागे ताहि।।१६४३।।",
+    "translation": "Foolish human actions are like the claws and feathers of a bird. What can the rider do if the arrow does not hit?",
+    "meaning": "मूर्ख कर्म मानव की नाखून और पंख की तरह होते हैं। यदि बाण नहीं लगता तो वाहक क्या कर सकता है?",
+    "explanation": "कबीर इस दोहे में मूर्ख कर्मों की तुलना बेजान हिस्सों से करते हैं और यह दिखाते हैं कि ऐसे कर्मों का कोई मूल्य नहीं होता। उन्होंने कहा कि जैसे बाण न लगने पर वाहक कुछ नहीं कर सकता, वैसे ही मूर्ख कर्म भी बेकार होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.510Z"
+  }
+}

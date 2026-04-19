@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a7201845-e596-403a-b7df-0326463d3d32",
+  "name": "चहै अकास पताल जा, फोड़‍ि जाहु ब्रह्मण्‍ड",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if you break through the skies and the earth, and shatter the universe, Kabir says, he will not be destroyed, nor his body affected.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चहै अकास पताल जा, फोड़‍ि जाहु ब्रह्मण्‍ड।\nकहैं कबीर मिटिहै नहीं, देह धरे का दण्‍ड।।१३४३।।",
+    "translation": "Even if you break through the skies and the earth, and shatter the universe, Kabir says, he will not be destroyed, nor his body affected.",
+    "meaning": "चाहे तुम आकाश और पृथ्वी को तोड़ दो, और ब्रह्मांड को चीर डालो, कबीर कहते हैं कि वे नष्ट नहीं होंगे और उनका शरीर भी प्रभावित नहीं होगा।",
+    "explanation": "कबीर जी के अनुसार, किसी भी शक्ति के द्वारा शरीर को नष्ट नहीं किया जा सकता। सच्ची आत्मा और आत्म-ज्ञान स्थायी होते हैं, वे किसी भी बाहरी प्रभाव से प्रभावित नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.816Z"
+  }
+}

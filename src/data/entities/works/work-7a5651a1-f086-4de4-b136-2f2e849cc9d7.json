@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a5651a1-f086-4de4-b136-2f2e849cc9d7",
+  "name": "पाछे लागे जाय था, लोक वेद के साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One may follow the worldly scriptures, but in the presence of the true Guru, they find the lamp of enlightenment in their hands.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाछे लागे जाय था, लोक वेद के साथ।\nपैडे में सतगुरु मिले, दीपक दीन्‍हा हाथ।।५११।।",
+    "translation": "One may follow the worldly scriptures, but in the presence of the true Guru, they find the lamp of enlightenment in their hands.",
+    "meaning": "लोग वेदों का अनुसरण करते हैं, लेकिन सतगुरु की उपस्थिति में उन्हें ज्ञान का दीपक हाथ में मिलता है।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि भले ही लोग वेदों और अन्य धार्मिक ग्रंथों का अनुसरण करते हैं, वास्तविक ज्ञान और समझ की प्राप्ति केवल सतगुरु की उपस्थिति में संभव है। सतगुरु के मार्गदर्शन से ही सही ज्ञान की प्राप्ति होती है, जो जीवन को सही दिशा में ले जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

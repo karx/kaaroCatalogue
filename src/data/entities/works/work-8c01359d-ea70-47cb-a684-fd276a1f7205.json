@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8c01359d-ea70-47cb-a684-fd276a1f7205",
+  "name": "आशा को ईंधन करो, मनसा करौ बभूत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fuel your hopes, and make intentions as ashes. If you practice yoga with such detachment, then even the forest will become your home.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आशा को ईंधन करो, मनसा करौ बभूत।\nजोगी फेरी यों फिरो, तब वन आवै सूत।।९०।।",
+    "translation": "Fuel your hopes, and make intentions as ashes. If you practice yoga with such detachment, then even the forest will become your home.",
+    "meaning": "अपनी आशाओं को ईंधन बनाओ, और इरादों को राख बनाओ। यदि तुम ऐसे ही वैराग्य के साथ योग का अभ्यास करो, तो जंगल भी तुम्हारा घर बन जाएगा।",
+    "explanation": "इस दोहे में कबीर यह सलाह देते हैं कि आशाओं को ईंधन की तरह उपयोग करें और अपनी इच्छाओं को राख के रूप में त्याग दें। जब व्यक्ति वैराग्य और निराश्रयता के साथ योग का अभ्यास करता है, तो कोई भी स्थान, चाहे वह जंगल हो या कोई और, उसे घर जैसा महसूस हो सकता है। यह दिखाता है कि मानसिक स्थिति और दृष्टिकोण किसी भी बाहरी स्थिति को प्रभावित कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

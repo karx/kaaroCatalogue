@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c980a200-47f5-4175-93e0-34b1c6a1b4c8",
+  "name": "कंचन दीया करन ने, द्रौपदी दीया चीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Gold can be used to create a lamp, and the lamp can be used to tear Draupadi's cloth. The one who understands this truth is a true follower, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कंचन दीया करन ने, द्रौपदी दीया चीर।\nजो दीया सो पाइया, ऐसे कहैं कबीर।।५७५।।",
+    "translation": "Gold can be used to create a lamp, and the lamp can be used to tear Draupadi's cloth. The one who understands this truth is a true follower, says Kabir.",
+    "meaning": "सोना दीपक बनाने के काम आता है, और दीपक का उपयोग द्रौपदी की चीर को फाड़ने में किया जा सकता है। जो इस सत्य को समझता है, वही सच्चा अनुयायी है, यह कबीरदास जी कहते हैं।",
+    "explanation": "इस दोहे के माध्यम से कबीरदास जी ने सोने और दीपक के माध्यम से एक गहरा संदेश दिया है। सच्चे अनुयायी वह हैं जो इन चीज़ों के उपयोग और उनके परिणामों को समझते हैं। यह शिक्षा हमें जीवन की सच्चाई को समझने में मदद करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

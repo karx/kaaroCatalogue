@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-380b9e9e-3aec-4edb-99fd-bdd824591b8e",
+  "name": "जो जानहु जगजीवना, जो जानह तो जीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who understands the essence of life, understands the true self. He digests his own food and does not beg for others’ water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो जानहु जगजीवना, जो जानह तो जीव।\nपान पचायेहु आपना, पनिया मागि न पीव।।१५४२।।",
+    "translation": "One who understands the essence of life, understands the true self. He digests his own food and does not beg for others’ water.",
+    "meaning": "जो जीवन के सार को समझता है, वही आत्मा को समझता है। वह अपनी खुद की वस्तुओं को पचाता है और दूसरों से पानी नहीं मांगता।",
+    "explanation": "कबीर इस दोहे में यह स्पष्ट करते हैं कि जो व्यक्ति जीवन के वास्तविक अर्थ को समझता है, वही आत्मा को भी समझता है। ऐसे व्यक्ति को अपनी जरूरतों को पूरा करने के लिए दूसरों पर निर्भर नहीं रहना पड़ता। वह आत्मनिर्भर होता है और अपनी ज़िंदगी की परेशानियों का समाधान खुद करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.935Z"
+  }
+}

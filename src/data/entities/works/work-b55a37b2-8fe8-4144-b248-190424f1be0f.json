@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b55a37b2-8fe8-4144-b248-190424f1be0f",
+  "name": "राम-नाम कै पटं तरै, देबे कौं कुछ नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "By reciting the name of Ram, one crosses over, yet does not receive anything. What is there to be satisfied by the Guru, when the mind is still restless?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम-नाम कै पटं तरै, देबे कौं कुछ नाहिं।\nक्या ले गुर संतोषिए, हौंस रही मन माहिं।।१४८।।",
+    "translation": "By reciting the name of Ram, one crosses over, yet does not receive anything. What is there to be satisfied by the Guru, when the mind is still restless?",
+    "meaning": "राम के नाम का जाप करने से पार पाया जाता है, लेकिन कुछ भी प्राप्त नहीं होता। गुरु से संतोष कैसे मिलेगा, जब मन में अशांति बनी रहती है?",
+    "explanation": "इस दोहे में कबीर यह संकेत कर रहे हैं कि सिर्फ राम के नाम का जाप करने से व्यक्ति पार नहीं हो जाता और न ही संतोष प्राप्त कर पाता है। सच्चा संतोष तब मिलता है जब गुरु की शिक्षाओं का पालन किया जाए और मन को शांति मिले। गुरु का ज्ञान और मार्गदर्शन ही असली संतोष की कुंजी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

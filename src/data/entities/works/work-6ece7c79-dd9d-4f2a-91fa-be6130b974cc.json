@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6ece7c79-dd9d-4f2a-91fa-be6130b974cc",
+  "name": "चर्चा करु तब चौहटे, ज्ञान करो तब दोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Discuss in the marketplace, gain knowledge in pairs. Meditate alone; do not involve anyone else.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चर्चा करु तब चौहटे, ज्ञान करो तब दोय।\nध्‍यान धरो तब एकिला, और न दूजा कोय।।६५९।।",
+    "translation": "Discuss in the marketplace, gain knowledge in pairs. Meditate alone; do not involve anyone else.",
+    "meaning": "चर्चा चौहट पर करो, ज्ञान जोड़े में प्राप्त करो। ध्यान अकेले करना चाहिए, और किसी अन्य को इसमें शामिल नहीं करना चाहिए।",
+    "explanation": "संत कबीर कहते हैं कि सामान्य चर्चाएँ सार्वजनिक स्थान पर और ज्ञान प्राप्ति जोड़े में करनी चाहिए, लेकिन ध्यान केवल अकेले करना चाहिए, ताकि पूरी एकाग्रता बनी रहे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

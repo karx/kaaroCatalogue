@@ -1,0 +1,24 @@
+{
+  "@type": "Book",
+  "workId": "work-c9755149-b38f-4370-8582-641fa4b27e26",
+  "name": "Gitanjali (Song Offerings)",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "dateCreated": "1910",
+  "genre": "Prose Poetry",
+  "abstract": "Collection of prose poems expressing personal, intimate spirituality. Won the Nobel Prize in Literature.",
+  "keywords": [
+    "Spirituality",
+    "Nobel Prize",
+    "Devotion",
+    "Nature"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

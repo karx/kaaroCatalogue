@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6265fb47-7c5d-4ede-be35-752e50a7e1d9",
+  "name": "जैसी गोली गुमज की, नीच परे ठहराया",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as a bullet leaves a mark and stays behind, a foolish heart does not retain words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसी गोली गुमज की, नीच परे ठहराया।\nऐसा हृदय मुरख का, शब्‍द नहीं ठहराय।।१५३८।।",
+    "translation": "Just as a bullet leaves a mark and stays behind, a foolish heart does not retain words.",
+    "meaning": "जैसे एक गोली निशान छोड़ती है और ठहर जाती है, वैसे ही मूर्ख हृदय शब्दों को नहीं पकड़ता।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जैसे गोली निशान छोड़ती है, वैसे ही मूर्ख व्यक्ति शब्दों को नहीं समझ पाता और उन पर ध्यान नहीं देता। यह मूर्खता की निशानी है कि वह सच्चाई या ज्ञान को ग्रहण नहीं कर पाता। कबीर इस बात पर जोर देते हैं कि विवेकशीलता और समझदारी ही वास्तविक ज्ञान को समझने और स्वीकार करने की कुंजी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.934Z"
+  }
+}

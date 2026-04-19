@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ea45e85-023f-4293-90d0-5bb72e7566c3",
+  "name": "कबीर मारू मन कूँ, टूक-टूक है जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the mind is like a desert, barren and empty. If you plant poisonous seeds, why would you regret the consequences?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मारू मन कूँ, टूक-टूक है जाइ।\nविष की क्यारी बोइ करि, लुणत कहा पछिताइ।।२०५।।",
+    "translation": "Kabir says, the mind is like a desert, barren and empty. If you plant poisonous seeds, why would you regret the consequences?",
+    "meaning": "कबीर कहते हैं, मन एक मरुस्थल की तरह है, सूखा और खाली। यदि आप विषैले बीज बोते हैं, तो परिणामों पर पछताने का कोई मतलब नहीं है।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिति और उसके परिणामों पर ध्यान केंद्रित किया है। उन्होंने बताया है कि अगर हम अपने मन में नकारात्मकता या विषैले विचारों को बीजते हैं, तो इसके परिणामस्वरूप हम पछताते हैं। यह आत्म-विश्लेषण और सोच के महत्व को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

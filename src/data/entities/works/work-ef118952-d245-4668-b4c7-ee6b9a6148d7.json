@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ef118952-d245-4668-b4c7-ee6b9a6148d7",
+  "name": "यह जग कोठी काठ की, चहुंदिस लागी आग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This world is a wooden mansion with fire blazing all around. Those who stay inside it burn and die; the saint escapes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह जग कोठी काठ की, चहुंदिस लागी आग।\nभीतर रहै सो जलि मुये, साधु अबरे भाग।।१२४०।।",
+    "translation": "This world is a wooden mansion with fire blazing all around. Those who stay inside it burn and die; the saint escapes.",
+    "meaning": "यह संसार एक लकड़ी की कोठी है जिसमें चारों ओर आग लगी हुई है। जो इसके अंदर रहते हैं, वे जलकर मर जाते हैं; साधु बच जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने संसार की अस्थिरता और इसके विनाशकारी प्रभाव को दर्शाया है। संसार एक लकड़ी की कोठी की तरह है जिसमें चारों ओर आग लगी हुई है। जो इसमें रहते हैं, वे जलकर मर जाते हैं, जबकि साधु इससे बच जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.274Z"
+  }
+}

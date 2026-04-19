@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-edbd899c-2abc-45ec-a50c-b1d26a133d1a",
+  "name": "माग तो अति कठिन है, तहं कोई मति जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The quest is very difficult, and few have the understanding to succeed. Once gone, one cannot return; who can say if one has succeeded?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माग तो अति कठिन है, तहं कोई मति जाय।\nगया तो बहुरा नहीं, कुशल कहै को आय।।१६४१।।",
+    "translation": "The quest is very difficult, and few have the understanding to succeed. Once gone, one cannot return; who can say if one has succeeded?",
+    "meaning": "खोज बहुत कठिन है, और कुछ ही लोग समझ पाते हैं। एक बार चला गया तो वापस नहीं आ सकता; कौन कह सकता है कि सफल हुआ है या नहीं?",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक खोज की कठिनाई को दर्शाते हैं। उन्होंने कहा कि यह यात्रा इतनी कठिन है कि केवल कुछ ही लोग इसे समझ सकते हैं और एक बार निकलने के बाद, वापस लौटना संभव नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.510Z"
+  }
+}

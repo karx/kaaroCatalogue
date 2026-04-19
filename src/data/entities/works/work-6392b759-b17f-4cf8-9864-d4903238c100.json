@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6392b759-b17f-4cf8-9864-d4903238c100",
+  "name": "मानपमान न चित्त धरै, औरत को सनमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One should not be attached to social status or honor, but should instead respect and honor others. Those who seek knowledge will find it through teachings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मानपमान न चित्त धरै, औरत को सनमान।\nजो कोई आशा करै, उपदेशै तेहि ज्ञान।।५८०।।",
+    "translation": "One should not be attached to social status or honor, but should instead respect and honor others. Those who seek knowledge will find it through teachings.",
+    "meaning": "मान-सम्मान के प्रति मनAttached न हो, बल्कि दूसरों का सम्मान और आदर करें। जो कोई ज्ञान की खोज करता है, उसे उपदेश से ज्ञान प्राप्त होगा।",
+    "explanation": "सच्चा ज्ञान और आत्मा की उन्नति तब होती है जब हम सामाजिक मान-अपमान से परे होते हैं और दूसरों का सम्मान करते हैं। ज्ञान की प्राप्ति उपदेश और सही मार्गदर्शन से होती है, जो हमें संतों से मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

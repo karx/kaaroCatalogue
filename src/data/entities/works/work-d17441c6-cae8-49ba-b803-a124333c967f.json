@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d17441c6-cae8-49ba-b803-a124333c967f",
+  "name": "मन मथुरा दिल द्���ारिका, काया कासी जांणि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is in Mathura, the heart in Dwarka, and the body knows Kashi. The tenth door is the temple where the light is known.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मथुरा दिल द्वारिका, काया कासी जांणि।\nदसवा द्वार देहुरा, तामै जोति पिछांणि।।२०२९।।",
+    "translation": "The mind is in Mathura, the heart in Dwarka, and the body knows Kashi. The tenth door is the temple where the light is known.",
+    "meaning": "मन मथुरा में है, दिल द्वारका में है, और शरीर काशी को जानता है। दसवा द्वार मंदिर है जहाँ ज्योति ज्ञात होती है।",
+    "explanation": "इस दोहे में कबीर ने विभिन्न धार्मिक स्थानों के संदर्भ में मन, दिल और शरीर के स्थानों का वर्णन किया है। उन्होंने बताया है कि दसवा द्वार वह मंदिर है जहाँ सच्ची ज्योति ज्ञात होती है। यह आत्मा की वास्तविकता और भक्ति की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.807Z"
+  }
+}

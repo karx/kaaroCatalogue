@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f9b6e784-a4c4-444e-b7e1-e90dfd8bf72d",
+  "name": "करनी का रजमा नहीं, कथनी मेरु समान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Actions are not as transient as words, which are like Mount Meru. The speaker who only talks but does not act, is foolish and ignorant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करनी का रजमा नहीं, कथनी मेरु समान।\nकथता बकता मर गया, मूरख मूढ़ अजान।।१३२४।।",
+    "translation": "Actions are not as transient as words, which are like Mount Meru. The speaker who only talks but does not act, is foolish and ignorant.",
+    "meaning": "कर्मों की स्थिरता शब्दों की तरह नहीं होती, जो मेरु पर्वत के समान होती हैं। केवल बोलने वाला और कुछ न करने वाला व्यक्ति मूढ़ और अज्ञानी होता है।",
+    "explanation": "कबीर जी के अनुसार, कर्म स्थिर और महत्वपूर्ण होते हैं, जबकि शब्द केवल दिखावे के होते हैं। केवल बोलने वाले लोग जो कार्य नहीं करते, वे मूढ़ और अज्ञानी होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.812Z"
+  }
+}

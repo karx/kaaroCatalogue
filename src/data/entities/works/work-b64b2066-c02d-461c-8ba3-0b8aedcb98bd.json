@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b64b2066-c02d-461c-8ba3-0b8aedcb98bd",
+  "name": "राम नाम कड़वा लगे, मीठा लागे दाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The name of Ram may seem bitter, while money seems sweet. In the dilemma of both, neither the illusion of wealth nor the name of Ram is attained.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम कड़वा लगे, मीठा लागे दाम।\nदुविधा में दोनों गए, माया मिली ना राम।।४६५।।",
+    "translation": "The name of Ram may seem bitter, while money seems sweet. In the dilemma of both, neither the illusion of wealth nor the name of Ram is attained.",
+    "meaning": "राम का नाम कड़वा लग सकता है, जबकि पैसा मीठा लगता है। इन दोनों के बीच दुविधा में, न तो माया मिलती है और न ही राम का नाम प्राप्त होता है।",
+    "explanation": "इस दोहे में कबीर ने राम के नाम और धन के बीच की तुलना की है। उन्होंने बताया कि राम का नाम अक्सर कड़वा लगता है जबकि धन मीठा लगता है। जब लोग इन दोनों के बीच फंस जाते हैं, तो न तो माया को छोड़ पाते हैं और न ही राम के नाम को प्राप्त कर पाते हैं। यह दोहा सांसारिक इच्छाओं और आध्यात्मिक लक्ष्य के बीच संघर्ष को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

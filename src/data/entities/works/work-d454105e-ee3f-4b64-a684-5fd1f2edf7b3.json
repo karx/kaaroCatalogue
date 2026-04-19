@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d454105e-ee3f-4b64-a684-5fd1f2edf7b3",
+  "name": "तन मन ताको दीजिए, जोको विषया नाहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Give your body and mind to the one who is free from desires. Leave all else and keep only the Master.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन मन ताको दीजिए, जोको विषया नाहि।\nआपा सब ही डारि के, राखै साहिब माहिं।।४७८।।",
+    "translation": "Give your body and mind to the one who is free from desires. Leave all else and keep only the Master.",
+    "meaning": "अपना शरीर और मन उस व्यक्ति को दीजिए जो इच्छाओं से मुक्त है। बाकी सब कुछ छोड़कर केवल मालिक को ही रखें।",
+    "explanation": "इस दोहे में कबीर ने उस व्यक्ति को अपना शरीर और मन समर्पित करने की सलाह दी है, जो इच्छाओं से मुक्त हो। बाकी सब वस्तुओं को छोड़कर केवल गुरु को ही अपने जीवन में स्थान देने की बात की है। यह दोहा गुरु की अनंतता और समर्पण के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

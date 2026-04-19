@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-079ae71e-d243-4827-bddc-6a6ec4817222",
+  "name": "सांई तेरे जोर जुलम है, मेरा होय अकाज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O Lord, your power and oppression are evident, while my plea is useless. Your reputation is at stake, and the honor of seeking refuge is on the line.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांई तेरे जोर जुलम है, मेरा होय अकाज।\nबिरद तुम्‍हारो लाजि है, शरण परे की लाज।।२१८१।।",
+    "translation": "O Lord, your power and oppression are evident, while my plea is useless. Your reputation is at stake, and the honor of seeking refuge is on the line.",
+    "meaning": "हे सांई, तुम्हारी शक्ति और अत्याचार स्पष्ट हैं, जबकि मेरी प्रार्थना बेकार है। तुम्हारी प्रतिष्ठा दांव पर है और शरण की प्रतिष्ठा भी महत्वपूर्ण है।",
+    "explanation": "इस दोहे में कबीर ने भगवान की शक्ति और अत्याचार को उजागर किया है। वे कहते हैं कि उनकी अपनी प्रार्थना शायद बेकार हो, लेकिन भगवान की प्रतिष्ठा और शरण की प्रतिष्ठा महत्वपूर्ण हैं। यह दोहा दर्शाता है कि जब लोग भगवान की शक्ति और कृपा के सामने खुद को असहाय महसूस करते हैं, तो शरण की महत्वपूर्णता को समझना और उसकी रक्षा करना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.729Z"
+  }
+}

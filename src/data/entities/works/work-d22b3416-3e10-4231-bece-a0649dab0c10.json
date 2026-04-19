@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d22b3416-3e10-4231-bece-a0649dab0c10",
+  "name": "सकल बरन एकत्र ह्व, शक्ति पजि मिलि खाहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All castes come together, worshiping strength and eat together. In confusion of being devotees of Hari, they only head towards the land of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सकल बरन एकत्र ह्व, शक्ति पजि मिलि खाहि।\nहरि दासन की भ्रांति करि, केवल जमपुर जाहिं।।२२४६।।",
+    "translation": "All castes come together, worshiping strength and eat together. In confusion of being devotees of Hari, they only head towards the land of death.",
+    "meaning": "सभी जातियाँ एकत्र होकर, शक्ति की पूजा करके मिलकर खाते हैं। हरि के भक्त होने का भ्रम पालकर, वे केवल यमपुरी (मृत्यु लोक) की ओर जाते हैं।",
+    "explanation": "कबीर जी इस दोहे में बताते हैं कि लोग अपनी जातियों के भेदभाव को भूलकर, शक्ति (शारीरिक शक्ति) की पूजा करते हैं और साथ मिलकर खाते हैं। लेकिन वे हरि के सच्चे भक्त नहीं होते, बल्कि वे केवल भ्रम में रहते हैं और उनके पापों के कारण वे मृत्यु के बाद यमलोक में जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.091Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-466c3e10-aaf2-4add-b4f6-1d2e62f8a15a",
+  "name": "सन्‍त सन्‍तोषी सर्वदा, शब्‍दहिं भेद विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A true saint is always content, understanding the depth of words. By the grace of the true guru, one attains a simple, virtuous, and pure essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्‍त सन्‍तोषी सर्वदा, शब्‍दहिं भेद विचार।\nसतगुरु के परताप ते, सहज सील मतसार।।१०१०।।",
+    "translation": "A true saint is always content, understanding the depth of words. By the grace of the true guru, one attains a simple, virtuous, and pure essence.",
+    "meaning": "सच्चा संत हमेशा संतुष्ट रहता है और शब्दों की गहराई को समझता है। सच्चे गुरु की कृपा से सहज ही शील और पवित्रता प्राप्त होती है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि एक संत जो हमेशा संतोषी रहता है, वह शब्दों के सही अर्थ को समझता है। और यह संतोष और समझ उसे सच्चे गुरु की कृपा से मिलती है, जिससे वह एक सरल, शीलवान और पवित्र जीवन जीता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.161Z"
+  }
+}

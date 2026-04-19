@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fb2fb2ce-3b8d-431f-af4e-b85c6ff6957b",
+  "name": "राजपाट धन पायके, क्‍यों करता अभिमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why be proud after gaining wealth and power? The fate that befell your neighbor will soon be yours.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राजपाट धन पायके, क्‍यों करता अभिमान।\nपड़ासी की जो दशा, भई सो अपनी जान।।८९२।।",
+    "translation": "Why be proud after gaining wealth and power? The fate that befell your neighbor will soon be yours.",
+    "meaning": "धन और राजपाट पाकर क्यों घमंड करते हो? जो हाल तुम्हारे पड़ोसी का हुआ, वही तुम्हारा भी होगा।",
+    "explanation": "इस दोहे में कबीर व्यक्ति को धन, संपत्ति और सत्ता के प्रति घमंड न करने की चेतावनी देते हैं। वे याद दिलाते हैं कि जीवन में सब कुछ अस्थाई है और किसी दिन वही हाल हमारा भी होगा, जो दूसरों का हुआ है। इसलिए घमंड करना व्यर्थ है और हमें विनम्रता से जीवन व्यतीत करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.354Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d1da78a-61bd-45cf-a6f3-cf3d9ca9ec47",
+  "name": "कबीर मन परबत भया, अब मैं पाया जान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the mind has become like a mountain, and I have realized this. The reservoir of love has yielded a treasure of gold.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन परबत भया, अब मैं पाया जान।\nटांकी लागी प्रेम की, निकसी कंचन खान।।११०८।।",
+    "translation": "Kabir says that the mind has become like a mountain, and I have realized this. The reservoir of love has yielded a treasure of gold.",
+    "meaning": "कबीर कहते हैं कि मन पर्वत जैसा हो गया है और मैंने इसे जान लिया है। प्रेम की टांकी से स्वर्ण का खजाना निकल आया है।",
+    "explanation": "इस दोहे में कबीर ने मन के बदलते स्वरूप का वर्णन किया है। पहले मन को एक पर्वत के समान बताया गया है, जो स्थिर और विशाल होता है। इसके साथ ही, प्रेम की टांकी से स्वर्ण का खजाना निकलने का मतलब है कि जब मन में प्रेम और भक्ति की गहराई होती है, तो अमूल्य ज्ञान और आत्मा की संपत्ति प्राप्त होती है। यह आत्मज्ञान और प्रेम की शक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.701Z"
+  }
+}

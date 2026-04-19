@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aa86736b-a414-4335-936d-767949cb3f50",
+  "name": "श्रम ही ते सब होत है, जो मन राखे धीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everything is achieved through effort when one remains patient. Just as digging a well brings out water, persistent labor reveals results.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "श्रम ही ते सब होत है, जो मन राखे धीर।\nश्रम ते खोदत कूप ज्‍यों, थल में प्रगटै नीर।।१३३०।।",
+    "translation": "Everything is achieved through effort when one remains patient. Just as digging a well brings out water, persistent labor reveals results.",
+    "meaning": "सब कुछ मेहनत से ही प्राप्त होता है, जब मन धैर्य बनाए रखे। जैसे कुएँ को खोदने से पानी निकलता है, वैसे ही लगातार मेहनत से परिणाम सामने आते हैं।",
+    "explanation": "कबीर जी के अनुसार, मेहनत और धैर्य से सभी लक्ष्य प्राप्त किए जा सकते हैं। जैसे कुएँ को खोदने से पानी मिलता है, वैसे ही सतत प्रयास से सफलता प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.814Z"
+  }
+}

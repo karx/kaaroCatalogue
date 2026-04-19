@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d33d0166-b14a-4198-9401-dfa4392b7e04",
+  "name": "गुरु मूरति गति चन्‍द्रमा, सेवक नैन चकोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Guru is like the moon, and the disciple’s eyes are like the chakor bird. The disciple remains gazing at the Guru’s form throughout the day and night.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु मूरति गति चन्‍द्रमा, सेवक नैन चकोर।\nआठ पहर निरखत रहे, गुरु मूरति की ओर।।४८१।।",
+    "translation": "The Guru is like the moon, and the disciple’s eyes are like the chakor bird. The disciple remains gazing at the Guru’s form throughout the day and night.",
+    "meaning": "गुरु चंद्रमा के समान है और शिष्य की आँखें चकोर के समान हैं। शिष्य दिन-रात गुरु के रूप को निहारते रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने गुरु और शिष्य के संबंध को चंद्रमा और चकोर की उपमा दी है। चकोर पक्षी चंद्रमा की ओर हमेशा देखता रहता है, इसी तरह शिष्य भी गुरु के प्रति अपनी अटूट भक्ति और प्रेम प्रकट करता है। यह दोहा गुरु के प्रति शिष्य की निरंतर निष्ठा और समर्पण को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

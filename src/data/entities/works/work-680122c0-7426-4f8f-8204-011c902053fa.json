@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-680122c0-7426-4f8f-8204-011c902053fa",
+  "name": "चन्दन जैसा साधु है, सर्पहि सम संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint is like sandalwood, and the world is like a serpent. The saint remains wrapped in the divine, without any inner flaws.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चन्दन जैसा साधु है, सर्पहि सम संसार।\nवाके अग्ङ लपटा रहे, मन मे नाहिं विकार।।११९।।",
+    "translation": "The saint is like sandalwood, and the world is like a serpent. The saint remains wrapped in the divine, without any inner flaws.",
+    "meaning": "साधु चन्दन के समान है, और संसार सर्प के समान है। साधु दिव्य में लिपटा रहता है, मन में कोई विकार नहीं होता।",
+    "explanation": "इस दोहे में कबीर यह तुलना करते हैं कि एक सच्चा साधु चन्दन की तरह होता है, जो सर्प की तरह संसार की बुराईयों से घिरा रहता है। साधु अपने भीतर कोई विकार नहीं रखता और पूरी तरह से दिव्य में समर्पित होता है। यह हमें सिखाता है कि आंतरिक शांति और शुद्धता को बनाए रखना चाहिए, भले ही बाहरी संसार कितना भी विकृत हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

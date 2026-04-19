@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b88652c4-d9af-499d-b4cc-35362e592a89",
+  "name": "Kurukshetra",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dinkar"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Kurukshetra",
+    "retrievedAt": "2026-01-04T18:39:29.087Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0f6d45e5-732d-4880-b228-c4fecafb604c",
+  "name": "कबीरा प्याला प्रेम का, अंतर लिया लगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's cup is filled with love, which he holds close. Love pervades every part of him, and what is left to consume?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा प्याला प्रेम का, अंतर लिया लगाय।\nरोम रोम में रमि रहा, और अमल क्या खाय।।२०३।।",
+    "translation": "Kabir's cup is filled with love, which he holds close. Love pervades every part of him, and what is left to consume?",
+    "meaning": "कबीर का प्याला प्रेम से भरा हुआ है, जिसे उन्होंने अपने पास रखा है। प्रेम हर अंग में व्याप्त है, और अब खाने के लिए कुछ भी नहीं बचा है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम के महत्व को और उसकी व्यापकता को व्यक्त किया है। उन्होंने कहा है कि प्रेम में पूर्णता प्राप्त हो जाने के बाद, जीवन में और कुछ भी आवश्यक नहीं रह जाता है। प्रेम ही सब कुछ है, और यह हर अंग में व्याप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

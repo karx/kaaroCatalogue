@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1d9b011f-ff94-4200-8e72-f0b3cb01a90b",
+  "name": "माया जगवे कौन गन, अंत न आवै काज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the benefit of illusion in the world? It never ends. Only the name of the divine is worthy; it leads to ultimate welfare.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया जगवे कौन गन, अंत न आवै काज।\nसोई नाम जोगावहु, भये परमारथ साज।।११७०।।",
+    "translation": "What is the benefit of illusion in the world? It never ends. Only the name of the divine is worthy; it leads to ultimate welfare.",
+    "meaning": "जगत में माया का कोई लाभ नहीं है; इसका अंत नहीं आता। केवल भगवान का नाम ही मूल्यवान है; यही परमार्थ को प्राप्त करता है।",
+    "explanation": "इस दोहे में कबीर ने माया के अनन्त प्रभाव और इसके निरर्थकता की बात की है। वे बताते हैं कि माया का कोई वास्तविक लाभ नहीं है और यह कभी समाप्त नहीं होती। केवल भगवान के नाम की महिमा है, जो व्यक्ति को अंतिम कल्याण और आत्मसाक्षात्कार की ओर ले जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.971Z"
+  }
+}

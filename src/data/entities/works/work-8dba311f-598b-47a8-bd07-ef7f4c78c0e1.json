@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8dba311f-598b-47a8-bd07-ef7f4c78c0e1",
+  "name": "आज कहै मैं कल भजूँ, काल फिर काल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Today, you say you'll pray tomorrow, and tomorrow you'll delay again. While waiting for the right moment, the opportunity will slip away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आज कहै मैं कल भजूँ, काल फिर काल।\nआज काल के करत ही, औसर जासी चाल।।४२३।।",
+    "translation": "Today, you say you'll pray tomorrow, and tomorrow you'll delay again. While waiting for the right moment, the opportunity will slip away.",
+    "meaning": "आज कहते हो कि कल भजूँगा, और कल फिर टाल दोगे। इस तरह इंतजार करते-करते मौका हाथ से निकल जाएगा।",
+    "explanation": "इस दोहे में कबीर समय को टालने की आदत और उसके परिणाम के बारे में बताते हैं। वह कहते हैं कि हम अक्सर आज के कार्य को कल पर टालते रहते हैं, और इस तरह से महत्वपूर्ण मौके हाथ से निकल जाते हैं। यह दोहा हमें यह सिखाता है कि हमें किसी भी कार्य को तुरंत करना चाहिए और उसे भविष्य पर नहीं छोड़ना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

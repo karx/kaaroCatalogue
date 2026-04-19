@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b49b968d-db2d-4557-8d72-edb5ec5f9ae1",
+  "name": "बाना पहिरे सिंह का, चलै भेड़ की चाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Dressing like a lion but walking like a sheep, speaking like a jackal, the dog meets its end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाना पहिरे सिंह का, चलै भेड़ की चाल।\nबोली बोले सियार की, कुत्ता खावै काल।।६३४।।",
+    "translation": "Dressing like a lion but walking like a sheep, speaking like a jackal, the dog meets its end.",
+    "meaning": "सिंह के वस्त्र पहनकर भेड़ की तरह चलना, गीदड़ की तरह बोलना, कुत्ता अपनी मौत को प्राप्त होता है।",
+    "explanation": "संत कहते हैं कि बाहरी रूप और आंतरिक स्वभाव में मेल होना आवश्यक है। जो बाहरी रूप को अपनाकर भी अपनी स्वाभाविक आदतें नहीं छोड़ता, उसका अंत बुरा होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.003Z"
+  }
+}

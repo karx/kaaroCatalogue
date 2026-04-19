@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e0e2c1a-7999-42ca-bd18-0e0d78fe9b64",
+  "name": "Sakheegeeta",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dr-bendre"
+  },
+  "inLanguage": "Kannada",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Sakheegeeta",
+    "retrievedAt": "2026-01-04T18:39:31.482Z"
+  }
+}

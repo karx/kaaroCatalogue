@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0cc24e1b-e1ac-49e1-a426-8ae5a8413002",
+  "name": "साधु सिद्ध बहु अन्तरा, साधु मता परचण्ड",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints are often great, their knowledge profound. Saints are the masters of wisdom; they can guide one through the nine regions of existence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सिद्ध बहु अन्तरा, साधु मता परचण्ड।\nसिद्ध जु वारे आपको, साधु तारि नौ खण्ड।।३२८।।",
+    "translation": "Saints are often great, their knowledge profound. Saints are the masters of wisdom; they can guide one through the nine regions of existence.",
+    "meaning": "साधु अक्सर महान होते हैं, उनके ज्ञान की गहराई अद्वितीय होती है। साधु ज्ञान के मालिक होते हैं; वे नौ लोकों को पार कराने में सक्षम होते हैं।",
+    "explanation": "कबीर इस दोहे में साधुओं के ज्ञान और परिपक्वता की बात करते हैं। साधु की गहरी समझ और अनुभव उन्हें हर कठिनाई से पार पाने में सक्षम बनाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

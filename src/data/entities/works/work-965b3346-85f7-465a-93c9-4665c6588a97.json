@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-965b3346-85f7-465a-93c9-4665c6588a97",
+  "name": "दुख सुख एक समान है, हरष शोक नहिं व्‍याप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Pain and pleasure are the same, there is no attachment to joy or sorrow. The one who is truly compassionate remains unaffected by these emotions and does not suffer from heat or cold.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुख सुख एक समान है, हरष शोक नहिं व्‍याप।\nउपकारी निहकामता, उपजै छोह न ताप।।५७६।।",
+    "translation": "Pain and pleasure are the same, there is no attachment to joy or sorrow. The one who is truly compassionate remains unaffected by these emotions and does not suffer from heat or cold.",
+    "meaning": "दुख और सुख समान होते हैं, खुशी या शोक की कोई भावना नहीं होती। जो वास्तव में दयालु होता है, वह इन भावनाओं से अप्रभावित रहता है और उसे गर्मी या सर्दी का अनुभव नहीं होता।",
+    "explanation": "इस दोहे में कबीरदास जी ने यह कहा है कि साधु और संत के लिए दुख और सुख, खुशी और शोक समान होते हैं। सच्चे दयालु व्यक्ति की भावनाएँ इन भौतिक और भावनात्मक स्थितियों से परे होती हैं, और वह इनसे प्रभावित नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

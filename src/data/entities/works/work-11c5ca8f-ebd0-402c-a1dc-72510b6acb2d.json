@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-11c5ca8f-ebd0-402c-a1dc-72510b6acb2d",
+  "name": "कबीर बारया नाव परि, कीया राई लूंण",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, once you've boarded the boat of truth, even a pinch of salt becomes enough. Who can mislead those whom the true path guides?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर बारया नाव परि, कीया राई लूंण।\nजिसहि चलावै पंथ तूं, तिसहि भुलावै कौंण।।१९०३।।",
+    "translation": "Kabir says, once you've boarded the boat of truth, even a pinch of salt becomes enough. Who can mislead those whom the true path guides?",
+    "meaning": "कबीर कहते हैं, सत्य की नाव पर चढ़ने के बाद, एक चुटकी नमक भी पर्याप्त हो जाती है। जिन्हें सच्चा मार्गदर्शन प्राप्त होता है, उन्हें कौन भटका सकता है?",
+    "explanation": "इस दोहे में कबीरदास जी सत्य और ईश्वर पर विश्वास रखने की महत्ता पर जोर देते हैं। वे कहते हैं कि जब व्यक्ति सत्य की राह पर चलने लगता है, तो छोटी से छोटी चीज भी उसके लिए पर्याप्त हो जाती है। जो व्यक्ति सच्चे मार्ग पर है, उसे कोई भी गलत दिशा में नहीं ले जा सकता। यह दोहा ईश्वर और सत्य में अडिग विश्वास की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.245Z"
+  }
+}

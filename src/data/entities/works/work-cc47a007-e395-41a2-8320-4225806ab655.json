@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cc47a007-e395-41a2-8320-4225806ab655",
+  "name": "झूठे गुरु के पक्ष को, तजज न कीजै बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not support the false guru repeatedly. One who wanders repeatedly does not find the door of true knowledge.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झूठे गुरु के पक्ष को, तजज न कीजै बार।\nद्वार न पावै शब्‍द का, भटके बारम्‍बार।।५२५।।",
+    "translation": "Do not support the false guru repeatedly. One who wanders repeatedly does not find the door of true knowledge.",
+    "meaning": "झूठे गुरु का समर्थन बार-बार न करें। जो बार-बार भटकता है, उसे सही ज्ञान का द्वार नहीं मिलता।",
+    "explanation": "कबीर ने इस दोहे में झूठे गुरु के समर्थन से दूर रहने की सलाह दी है। बार-बार भटकने से कोई भी व्यक्ति सही ज्ञान प्राप्त नहीं कर सकता। यह दोहा हमें सचेत करता है कि झूठे मार्गदर्शकों से दूर रहना चाहिए और सही मार्ग की ओर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

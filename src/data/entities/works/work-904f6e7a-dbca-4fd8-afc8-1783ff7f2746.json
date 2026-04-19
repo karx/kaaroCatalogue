@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-904f6e7a-dbca-4fd8-afc8-1783ff7f2746",
+  "name": "मथुरा काशी द्वारिका, हरिद्वार जगनाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even visiting sacred places like Mathura, Kashi, Dwarka, Haridwar, and Jagannath brings no benefit without the company of saints and the worship of God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मथुरा काशी द्वारिका, हरिद्वार जगनाथ।\nसाधु संगति हरिभजन बिन, कछु न आवै हाथ।।६६२।।",
+    "translation": "Even visiting sacred places like Mathura, Kashi, Dwarka, Haridwar, and Jagannath brings no benefit without the company of saints and the worship of God.",
+    "meaning": "मथुरा, काशी, द्वारिका, हरिद्वार और जगन्नाथ जैसे तीर्थ स्थानों की यात्रा करने से कुछ लाभ नहीं होता यदि साधु संगति और हरि भजन न किया जाए।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि चाहे कितने भी पवित्र स्थानों की यात्रा की जाए, यदि साधु संगति और ईश्वर की भक्ति नहीं की जाती, तो उसका कोई महत्व नहीं है। तीर्थ यात्रा का असली लाभ तभी मिलता है जब साधु संगति और हरि भजन साथ हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

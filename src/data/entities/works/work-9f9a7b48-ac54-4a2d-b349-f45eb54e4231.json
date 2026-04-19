@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9f9a7b48-ac54-4a2d-b349-f45eb54e4231",
+  "name": "संत न बांधै गांठड़ी, पेट समाता लेइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint does not hoard, he takes only what fits in his belly. He remains facing the Lord, who provides wherever needed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संत न बांधै गांठड़ी, पेट समाता लेइ।\nसांई सूं सनमुख रहै, जहां मांगै तहां देइ।।१८७७।।",
+    "translation": "The saint does not hoard, he takes only what fits in his belly. He remains facing the Lord, who provides wherever needed.",
+    "meaning": "संत संग्रह नहीं करता, वह केवल उतना ही लेता है जितना उसके पेट में समा सके। वह सदैव ईश्वर की ओर मुख किए रहता है, और जहाँ भी आवश्यक हो, वहीं से प्राप्त करता है।",
+    "explanation": "इस दोहे में कबीरदास जी संत के जीवन के आदर्श को बताते हैं। वे कहते हैं कि एक सच्चा संत कभी भी संग्रह नहीं करता, वह केवल उतना ही ग्रहण करता है जितनी उसकी आवश्यकता है। संत सदैव ईश्वर पर निर्भर रहता है, जो हर परिस्थिति में उसे प्रदान करता है। यह दोहा सादगी और ईश्वर पर विश्वास का महत्व दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.973Z"
+  }
+}

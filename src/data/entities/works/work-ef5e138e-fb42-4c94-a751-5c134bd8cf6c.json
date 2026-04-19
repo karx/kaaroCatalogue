@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ef5e138e-fb42-4c94-a751-5c134bd8cf6c",
+  "name": "मन लागा उनमुनि सौं, उनमनि मनहि बिलग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind attached to the sage is separated from the mundane mind. Salt dissolves in water, and the water dissolves in salt.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन लागा उनमुनि सौं, उनमनि मनहि बिलग।\nलूंण बिलगा पाणियां, पांणी लूंणा बिलग।।१७९५।।",
+    "translation": "The mind attached to the sage is separated from the mundane mind. Salt dissolves in water, and the water dissolves in salt.",
+    "meaning": "जो मन साधु से जुड़ा होता है, वह सांसारिक मन से अलग हो जाता है। नमक पानी में घुल जाता है और पानी नमक में घुल जाता है।",
+    "explanation": "इस दोहे में कबीर ने साधु से जुड़ने के बाद मन के परिवर्तन को दर्शाया है। जैसे नमक पानी में घुल जाता है और पानी नमक में, वैसे ही एक साधु के संपर्क में आने पर मन सांसारिक चिंताओं से अलग हो जाता है और दिव्य प्रेम में समाहित हो जाता है। यह दोहा आंतरिक बदलाव और दिव्य संबंध की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.356Z"
+  }
+}

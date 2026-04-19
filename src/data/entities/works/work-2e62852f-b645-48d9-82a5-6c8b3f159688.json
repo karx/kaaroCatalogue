@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e62852f-b645-48d9-82a5-6c8b3f159688",
+  "name": "घाट जगाती धर्मराय, गुरुमुख ले पहिचान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The riverbank brings forth righteousness, recognized by the Guru's follower. Without the Guru's name, there is no resolution to the troubles.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घाट जगाती धर्मराय, गुरुमुख ले पहिचान।\nछाप बिना गुरु नाम के, सांकट रहा निदान।।१०७४।।",
+    "translation": "The riverbank brings forth righteousness, recognized by the Guru's follower. Without the Guru's name, there is no resolution to the troubles.",
+    "meaning": "घाट धर्म को जन्म देता है, गुरु के शिष्य द्वारा पहचाना जाता है। गुरु के नाम के बिना, संकट का समाधान नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने धार्मिकता और गुरु के महत्व पर जोर दिया है। घाट (या स्थान) धार्मिकता को जन्म देता है, और गुरु के शिष्य इस धार्मिकता को समझते हैं। गुरु के नाम के बिना, जीवन के संकटों का समाधान नहीं होता है, जिससे गुरु की महत्वपूर्ण भूमिका का संकेत मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

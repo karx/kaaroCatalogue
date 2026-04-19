@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ce43db4-61b3-4d00-82b7-80932081d5a3",
+  "name": "मूल ध्‍यान गुरु रूप है, मूल पूजा गुरु पांव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The root of meditation is the form of the Guru; the root of worship is the Guru's feet. The root of the name is the Guru’s word, and the root of truth is the essence of the Guru’s teachings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूल ध्‍यान गुरु रूप है, मूल पूजा गुरु पांव।\nमूल नाम गुरु वचन है, मूल सत्‍य सतभाव।।४९०।।",
+    "translation": "The root of meditation is the form of the Guru; the root of worship is the Guru's feet. The root of the name is the Guru’s word, and the root of truth is the essence of the Guru’s teachings.",
+    "meaning": "मूल ध्यान गुरु के रूप में है, मूल पूजा गुरु के पांवों में है। मूल नाम गुरु के वचन में है, और मूल सत्य गुरु के उपदेशों की भावना में है।",
+    "explanation": "इस दोहे में कबीर ने गुरु के महत्व को विभिन्न पहलुओं से समझाया है। ध्यान का मूल गुरु के रूप में होता है, पूजा का मूल गुरु के पांवों में होता है, नाम का मूल गुरु के वचन में होता है, और सत्य का मूल गुरु के उपदेशों की भावना में होता है। इससे यह स्पष्ट होता है कि गुरु की उपस्थिति और उनकी शिक्षाएँ जीवन के सभी महत्वपूर्ण तत्वों का केंद्र हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-80ba6ec6-f9fe-4da3-8711-16a926b0e468",
+  "name": "शूरा सन्‍मुख बाहता, कोई न बांधे धीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A brave man remains unmoved before his enemy, and no one can bind his courage. But in the battlefield of life, Kabir says, such steadfastness is rare.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शूरा सन्‍मुख बाहता, कोई न बांधे धीर।\nपर दल मोरन रन अटल, ऐसा दास कबीर।।२१०६।।",
+    "translation": "A brave man remains unmoved before his enemy, and no one can bind his courage. But in the battlefield of life, Kabir says, such steadfastness is rare.",
+    "meaning": "वीर व्यक्ति अपने दुश्मन के सामने अडिग रहता है, और कोई भी उसकी वीरता को नहीं बांध सकता। पर जीवन की लड़ाई में, कबीर कहते हैं कि ऐसी स्थिरता दुर्लभ है।",
+    "explanation": "इस दोहे में कबीर ने वीरता की स्थिरता की बात की है। वीर व्यक्ति अपनी स्थिति और साहस में अडिग रहता है और किसी भी परिस्थितियों से प्रभावित नहीं होता। लेकिन जीवन की लड़ाई में, यह स्थिरता प्राप्त करना कठिन है। कबीर ने इस स्थिरता की कमी को उजागर किया है और इसे प्राप्त करने की आवश्यकता को बताया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.361Z"
+  }
+}

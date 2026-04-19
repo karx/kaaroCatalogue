@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-05f3b184-57b5-4fd8-ab41-35963f24ca5b",
+  "name": "मान बड़ाई देखि कर, भक्ति करै संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing pride and greatness, the world engages in devotion. When they see any inferiority, they blame others as ignorant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मान बड़ाई देखि कर, भक्ति करै संसार।\nजब देखै कछु हीनता, अवगुन धरै गंवार।।१२६४।।",
+    "translation": "Seeing pride and greatness, the world engages in devotion. When they see any inferiority, they blame others as ignorant.",
+    "meaning": "मान और बड़ाई को देखकर लोग भक्ति करते हैं। जब वे किसी कमी को देखते हैं, तो दूसरों को गंवार मानते हैं।",
+    "explanation": "इस दोहे में कबीर जी ने कहा है कि लोग गर्व और बड़ाई को देखकर भक्ति करते हैं। जब वे किसी कमी का सामना करते हैं, तो दूसरों को दोषी मानते हैं और उन्हें गंवार समझते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.543Z"
+  }
+}

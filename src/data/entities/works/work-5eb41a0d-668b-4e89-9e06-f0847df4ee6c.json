@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5eb41a0d-668b-4e89-9e06-f0847df4ee6c",
+  "name": "Mālavikāgnimitram",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Mālavikāgnimitram",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

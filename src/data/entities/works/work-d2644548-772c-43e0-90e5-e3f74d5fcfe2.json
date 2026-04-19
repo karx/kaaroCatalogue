@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d2644548-772c-43e0-90e5-e3f74d5fcfe2",
+  "name": "अंडा किन बिसमिल किया, घुन किया किन हलाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Who slaughtered the egg and made it permissible to eat? Who butchered the fish? Everyone is focused only on what they eat.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंडा किन बिसमिल किया, घुन किया किन हलाल।\nमछली किन जबह करी, सब खाने का ख्‍याल।।२२५५।।",
+    "translation": "Who slaughtered the egg and made it permissible to eat? Who butchered the fish? Everyone is focused only on what they eat.",
+    "meaning": "अंडे को किसने बिसमिल किया और उसे खाने के योग्य बनाया? मछली को किसने जबह किया? सब लोग केवल खाने के बारे में सोचते हैं।",
+    "explanation": "इस दोहे में कबीर जी प्रश्न करते हैं कि अंडे और मछली को किसने बिसमिल और हलाल किया? वह कहते हैं कि लोग केवल खाने के बारे में सोचते हैं, परंतु वे यह नहीं समझते कि उनके ये कृत्य पाप के श्रेणी में आते हैं। इस दोहे के माध्यम से कबीर जी भोजन के प्रति लोगों के दृष्टिकोण की आलोचना कर रहे हैं, विशेषकर जब वह हिंसा पर आधारित हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.345Z"
+  }
+}

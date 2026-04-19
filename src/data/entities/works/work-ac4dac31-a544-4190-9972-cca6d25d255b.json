@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ac4dac31-a544-4190-9972-cca6d25d255b",
+  "name": "जो उगै सो आथवे, फूले सो कुम्‍ह‍िलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whatever sprouts, fades after blooming. Whatever ripens, eventually falls; whatever is born, ultimately dies.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो उगै सो आथवे, फूले सो कुम्‍ह‍िलाय।\nजो चूनै सो ढहि पड़, जामै सो मरि जाय।।१०४६।।",
+    "translation": "Whatever sprouts, fades after blooming. Whatever ripens, eventually falls; whatever is born, ultimately dies.",
+    "meaning": "जो कुछ उगता है, वह खिलने के बाद मुरझा जाता है। जो कुछ पकता है, वह अंततः गिर जाता है; जो कुछ जन्म लेता है, वह अंततः मर जाता है।",
+    "explanation": "इस दोहे में कबीर जीवन के अटल सत्य की बात करते हैं। वे कहते हैं कि इस संसार में जो भी जन्म लेता है, वह अंततः मुरझा जाता है, गिर जाता है, और मर जाता है। यह जीवन के नश्वर और अस्थायी होने का प्रतीक है, और हमें इस सत्य को स्वीकार करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.165Z"
+  }
+}

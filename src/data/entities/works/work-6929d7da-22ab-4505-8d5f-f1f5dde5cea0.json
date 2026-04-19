@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6929d7da-22ab-4505-8d5f-f1f5dde5cea0",
+  "name": "राम रतन धन मुक्ति में, खान खुली घट माहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The jewel of Ram’s name is in liberation, the treasure is open within the vessel. It is given with conditions, but there is no buyer.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम रतन धन मुक्ति में, खान खुली घट माहिं।\nसेतमेतही देतहों, ग्रोहक कोई नाहिं।।२१६७।।",
+    "translation": "The jewel of Ram’s name is in liberation, the treasure is open within the vessel. It is given with conditions, but there is no buyer.",
+    "meaning": "राम के नाम का रत्न मुक्ति में है, खजाना घट के अंदर खुला है। यह शर्तों के साथ दिया जाता है, लेकिन कोई ग्राहक नहीं है।",
+    "explanation": "इस दोहे में कबीर ने मुक्ति और आध्यात्मिक ज्ञान के महत्व को दर्शाया है। राम के नाम का रत्न मुक्ति में पाया जाता है और यह आंतरिक रूप से उपलब्ध है। हालांकि, यह शर्तों के साथ प्रदान किया जाता है और इसके लिए कोई ग्राहक नहीं होता। यह दोहा यह सिखाता है कि आध्यात्मिक ज्ञान अनमोल होता है लेकिन इसे समझने और अपनाने के लिए सजगता और तैयारी की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.724Z"
+  }
+}

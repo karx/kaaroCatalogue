@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2cb018cb-6a21-475f-828f-9ee08b54b8d3",
+  "name": "मानसरोवर सुभर जल, हंसा केलि कराहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The beautiful waters of Mansarovar are enjoyed by the swans. The liberated souls taste the nectar, never to return.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मानसरोवर सुभर जल, हंसा केलि कराहिं।\nमुकताहल मुकता चुगैं, अब उड़‍ि अनत न जाहिं।।१८१८।।",
+    "translation": "The beautiful waters of Mansarovar are enjoyed by the swans. The liberated souls taste the nectar, never to return.",
+    "meaning": "मानसरोवर के सुंदर जल का आनंद हंस लेते हैं। मुक्ति प्राप्त आत्माएँ उस अमृत का स्वाद लेती हैं और फिर कभी वापस नहीं आतीं।",
+    "explanation": "इस दोहे में कबीर ने मानसरोवर के पवित्र जल की बात की है, जिसे हंसों द्वारा आनंदित किया जाता है। मुक्ति प्राप्त आत्माएँ इस अमृत का अनुभव करती हैं और फिर कभी संसार में वापस नहीं आतीं। यह आत्मा की आध्यात्मिक मुक्ति और अनन्त शांति का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.625Z"
+  }
+}

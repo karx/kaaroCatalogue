@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d9258b14-7e06-4f8c-9d9d-fb0f733ff0e8",
+  "name": "मन सायर मनसा लहरि, बूड़े बहुत अचेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is like the waves of a river, often drowning in ignorance. Kabir says those who read this will have a heart full of wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन सायर मनसा लहरि, बूड़े बहुत अचेत।\nकहहिं कबीर ते बांचिहै, जाके हृदय विवेक।।१६५२।।",
+    "translation": "The mind is like the waves of a river, often drowning in ignorance. Kabir says those who read this will have a heart full of wisdom.",
+    "meaning": "मन नदी की लहरों की तरह होता है, अक्सर अज्ञान में डूबा रहता है। कबीर कहते हैं कि जो इसे पढ़ेगा, उसके दिल में विवेक होगा।",
+    "explanation": "कबीर इस दोहे में मन की प्रवृत्तियों और अज्ञानता को दर्शाते हैं। उन्होंने कहा कि केवल वे लोग जो हृदय में विवेक रखते हैं, इस ज्ञान को समझ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.783Z"
+  }
+}

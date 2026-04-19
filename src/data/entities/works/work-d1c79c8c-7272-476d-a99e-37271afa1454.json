@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d1c79c8c-7272-476d-a99e-37271afa1454",
+  "name": "क्षमा बड़े न को उचित है, छोटे को उत्पात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Forgiveness is not appropriate for the mighty, but for the weak it causes chaos. Where did Vishnu’s vessel go, for it is bound to suffer the consequences.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्षमा बड़े न को उचित है, छोटे को उत्पात।\nकहा विष्णु का घटि गया, जो भुगु मारीलात।।१४७।।",
+    "translation": "Forgiveness is not appropriate for the mighty, but for the weak it causes chaos. Where did Vishnu’s vessel go, for it is bound to suffer the consequences.",
+    "meaning": "क्षमाशीलता बड़े लोगों के लिए उचित नहीं होती, छोटे लोगों के लिए उत्पात होती है। विष्णु का घटि कहां गया, जो भुगतने की मार झेलनी पड़ी।",
+    "explanation": "इस दोहे में कबीर यह बताने का प्रयास कर रहे हैं कि क्षमा बड़े लोगों के लिए उचित नहीं होती, क्योंकि वे अपनी शक्ति और अधिकार के बल पर कुछ भी कर सकते हैं। लेकिन छोटे लोगों को क्षमा के नाम पर बहुत कुछ सहना पड़ता है। विष्णु का घटि (कुल्हाड़ी) भी ऐसे समय में काम आता है जब लोग अपने कर्मों की सजा भुगतते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

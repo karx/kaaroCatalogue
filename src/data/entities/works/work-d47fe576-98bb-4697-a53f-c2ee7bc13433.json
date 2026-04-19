@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d47fe576-98bb-4697-a53f-c2ee7bc13433",
+  "name": "आहेड़ी दौं लाइया, मृग पुकारै रोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The deer is crying out and calling in the forest. When the fire rages in the forest, it burns everything within it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आहेड़ी दौं लाइया, मृग पुकारै रोइ।\nजा बन में क्रीला करी, दाझत है बन सोइ।।१९४८।।",
+    "translation": "The deer is crying out and calling in the forest. When the fire rages in the forest, it burns everything within it.",
+    "meaning": "मृग जंगल में रोता और पुकारता है। जब जंगल में आग लगती है, तो वह सब कुछ जला देती है।",
+    "explanation": "इस दोहे में कबीरदास जी ने जंगल में आग लगने और मृग की स्थिति का वर्णन किया है। मृग की पुकार और आग की लपटें सब कुछ जला देती हैं। यह दोहा जीवन की आपत्तियों और उनके प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.258Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0332dfb8-2123-48df-81eb-5737387e9074",
+  "name": "पांचों इन्द्रिय छठा मन, सम संगत सूचंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The five senses and the mind together make six, with the right company, Kabir says, the seven knots become free of worries.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पांचों इन्द्रिय छठा मन, सम संगत सूचंत।\nकहैं कबीर जग क्‍या करे, सातों गांठ निश्चिन्‍त।।१०३३।।",
+    "translation": "The five senses and the mind together make six, with the right company, Kabir says, the seven knots become free of worries.",
+    "meaning": "पांचों इन्द्रियां और मन मिलकर छह होते हैं, और सही संगति में रहने से, कबीर कहते हैं, सातों गांठें चिंता मुक्त हो जाती हैं।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि पांच इन्द्रियों और मन का संयम और सही संगति में रहना महत्वपूर्ण है। जब व्यक्ति सही संगति और सत्संग में रहता है, तो उसकी सभी इच्छाएं और मानसिक बाधाएं समाप्त हो जाती हैं, और वह चिंता मुक्त हो जाता है। यह सात गांठों का खुलना है, जिसका अर्थ है मानसिक और आध्यात्मिक मुक्ति।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.163Z"
+  }
+}

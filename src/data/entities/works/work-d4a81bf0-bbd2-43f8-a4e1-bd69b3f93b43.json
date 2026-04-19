@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d4a81bf0-bbd2-43f8-a4e1-bd69b3f93b43",
+  "name": "माली आवत देख के, कलियान करी पुकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing the gardener come, Kaliyan (a name for the gardener) called out. Collecting flowers one by one, the time for our end has arrived.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माली आवत देख के, कलियान करी पुकार।\nफूल-फूल चुन लिए, काल हमारी बार।।१३७।।",
+    "translation": "Seeing the gardener come, Kaliyan (a name for the gardener) called out. Collecting flowers one by one, the time for our end has arrived.",
+    "meaning": "माली को आते देखकर, कलियान ने पुकारा। फूल-फूल चुनते हुए, हमारे अंत का समय आ गया है।",
+    "explanation": "इस दोहे में कबीर जीवन की क्षणिकता और समय की महत्वता को उजागर करते हैं। माली के आने पर फूलों को इकट्ठा करना एक संकेत है कि मृत्यु का समय नजदीक है। इस प्रकार, जीवन के हर क्षण का सदुपयोग करना चाहिए और समय की कीमत समझनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

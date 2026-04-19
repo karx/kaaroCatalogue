@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-38da0019-8e9d-4395-aaa9-d8be32e02398",
+  "name": "जा कारणि मैं जाइ था, सोई पाई ठोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The reason I went was to find a resting place. That same place turned out to be myself, though I was speaking of others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा कारणि मैं जाइ था, सोई पाई ठोर।\nसोई फिरि आपण भया, जासूं कहता और।।१८१६।।",
+    "translation": "The reason I went was to find a resting place. That same place turned out to be myself, though I was speaking of others.",
+    "meaning": "जिस कारण मैं गया था, वही एक ठौर पाया। वही ठौर फिर से खुद मैं ही बन गया, जबकि मैं दूसरों की बात कर रहा था।",
+    "explanation": "इस दोहे में कबीर यह व्यक्त कर रहे हैं कि जब उन्होंने खुद को जानने की कोशिश की, तो पाया कि जिस ठौर की खोज वे कर रहे थे, वह असल में स्वयं उनकी ही आत्मा थी। वे जिस ठौर को बाहर खोज रहे थे, वही ठौर उनके भीतर ही मौजूद था। यह आत्मज्ञान और स्वयं के भीतर छिपे सत्य को समझने की प्रक्रिया को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.624Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d85bc056-637c-45ec-8173-ec92f9c53022",
+  "name": "मन की घाली हूं गई, मन की घाली जाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is like a worn-out vessel, and it will remain so. Those who are attached to false company, are sold off in the market.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन की घाली हूं गई, मन की घाली जाउं।\nसंग जो परी कसंग के, हाटै हाट बिकाउं।।११३२।।",
+    "translation": "The mind is like a worn-out vessel, and it will remain so. Those who are attached to false company, are sold off in the market.",
+    "meaning": "मन जैसे पुराना बर्तन है, और ऐसा ही रहेगा। जो लोग झूठी संगति में लगे रहते हैं, वे बाजार में बिक जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिति और उसके नकारात्मक प्रभाव को बताया है। उन्होंने कहा है कि जो लोग झूठी और अस्थिर संगति में रहते हैं, वे खुद को बेचते हैं और अपनी स्थिति को और भी खराब कर लेते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.705Z"
+  }
+}

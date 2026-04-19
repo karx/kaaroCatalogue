@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-94cb97d0-b824-4c8e-9add-708c5ca5724c",
+  "name": "आगे अंधा कूप में, दूजे लिया बुलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One blind person falls into a well and calls another. Both will drown, and what solution can be found?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगे अंधा कूप में, दूजे लिया बुलाय।\nदोनों बूडछे बापुरे, निकसे कौन उपाय।।२७८।।",
+    "translation": "One blind person falls into a well and calls another. Both will drown, and what solution can be found?",
+    "meaning": "एक अंधा कुएँ में गिर जाता है और दूसरे को बुलाता है। दोनों डूब जाएंगे, और इसका क्या उपाय हो सकता है?",
+    "explanation": "यह दोहा बताता है कि जब एक अंधा व्यक्ति स्वयं किसी मुसीबत में होता है और वह दूसरे अंधे को भी अपनी ओर खींचता है, तो दोनों डूब जाते हैं। यह उन लोगों के लिए एक चेतावनी है जो स्वयं गुमराह होते हैं और दूसरों को भी गुमराह करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

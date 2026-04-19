@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a3968169-5281-4544-9525-54654a2f12f7",
+  "name": "लालच लोभ न मोह मद, एकल भला अनीह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Greed, desire, and delusion do not affect the one who is single and calm. The true devotee of Ram, such a person never loses his head.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लालच लोभ न मोह मद, एकल भला अनीह।\nहरिजन सौरा राम सो, शिर बिन कदै न होय।।२१०४।।",
+    "translation": "Greed, desire, and delusion do not affect the one who is single and calm. The true devotee of Ram, such a person never loses his head.",
+    "meaning": "लालच, मोह और अहंकार उस व्यक्ति को प्रभावित नहीं करते जो एकल और शांत होता है। राम का सच्चा भक्त कभी अपना सिर नहीं खोता।",
+    "explanation": "इस दोहे में कबीर ने यह बताया है कि जो व्यक्ति अपने भीतर से शांत और एकल रहता है, वह लालच, मोह और अहंकार से प्रभावित नहीं होता। सच्चा भक्त हमेशा संयमित रहता है और कभी भी अपनी आत्मा और गरिमा को नहीं खोता। यह दोहा आंतरिक शांति और समर्पण के महत्व को रेखांकित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.360Z"
+  }
+}

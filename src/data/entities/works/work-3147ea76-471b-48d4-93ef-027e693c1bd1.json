@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3147ea76-471b-48d4-93ef-027e693c1bd1",
+  "name": "आइ न सकौं तुझ पैं, सकूं न तूझ बुलाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I cannot come to you, nor can you call me. The heart is burning with separation, continuously burning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आइ न सकौं तुझ पैं, सकूं न तूझ बुलाइ।\nजियरा यौही लेहुगे, बिरह तपाइ तपाइ।।१७४५।।",
+    "translation": "I cannot come to you, nor can you call me. The heart is burning with separation, continuously burning.",
+    "meaning": "मैं तुम्हारे पास नहीं आ सकता, न तुम मुझे बुला सकते हो। दिल बिछड़न से जल रहा है, लगातार जल रहा है।",
+    "explanation": "कबीर इस दोहे में separation और longing की बात करते हैं। उन्होंने कहा कि separation के कारण दिल लगातार जल रहा है और दोनों ही मिल नहीं सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.079Z"
+  }
+}

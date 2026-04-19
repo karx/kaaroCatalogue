@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31092346-daa3-47c5-9c9b-772e1ecdc1d1",
+  "name": "अपना तो कोई नहिं, हम काहू के नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no true ownership; we belong to no one. When the boat reaches the other shore, all those who were separated are reunited.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपना तो कोई नहिं, हम काहू के नांहि।\nपार पहूंची नाव जब, मिलि सब बिछुड़े जांहि।।१२१३।।",
+    "translation": "There is no true ownership; we belong to no one. When the boat reaches the other shore, all those who were separated are reunited.",
+    "meaning": "सच्चा स्वामित्व कोई नहीं है; हम किसी के नहीं हैं। जब नाव पार हो जाती है, तो सभी बिछड़े लोग मिल जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने स्वामित्व की अवधारणा की असत्यता को व्यक्त किया है। असल में, सभी को एकसाथ लाने के लिए जब आध्यात्मिक यात्रा पूरी होती है, तो सभी बिछड़े लोग पुनः मिल जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.269Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-61fd6a7a-efd0-40bb-b561-5003e27bf20d",
+  "name": "आगे सीढ़ी सांकरी, पीछे चकनाचूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In front is a fragile ladder, behind it is destruction. The beauty of the veil remains hidden and distant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगे सीढ़ी सांकरी, पीछे चकनाचूर।\nपरदा तर की सुंदरी, रही धको ते दूर।।१४४८।।",
+    "translation": "In front is a fragile ladder, behind it is destruction. The beauty of the veil remains hidden and distant.",
+    "meaning": "आगे एक कमजोर सीढ़ी है, पीछे विनाश है। परदा और सुंदरता छुपी हुई और दूर रहती है।",
+    "explanation": "कबीर इस दोहे में भ्रांति और वास्तविकता की बात करते हैं। वे बताते हैं कि आगे की ओर एक कमजोर सीढ़ी और पीछे विनाश की स्थिति है, जबकि सुंदरता और परदा छुपे और दूर रहते हैं। यह दोहा जीवन की भ्रमात्मक परिस्थितियों और उनकी वास्तविकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.371Z"
+  }
+}

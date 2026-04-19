@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ff71d683-d9ae-4d6a-a264-eefe010c868d",
+  "name": "बाहर क्या दिखलाए, अनंतर जपिए राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is shown outside is meaningless; within, one should chant Ram's name. What use is the world's work, when you have the wealth of devotion?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाहर क्या दिखलाए, अनंतर जपिए राम।\nकाहे काज संसार से, तुझे धनी से काम।।६२।।",
+    "translation": "What is shown outside is meaningless; within, one should chant Ram's name. What use is the world's work, when you have the wealth of devotion?",
+    "meaning": "बाहर की चीजें महत्वहीन हैं; भीतर से राम का नाम जपना चाहिए। दुनिया के काम की कोई महत्वता नहीं है, जब तुम्हारे पास भक्ति का धन हो।",
+    "explanation": "इस दोहे में कबीर ने बाहरी दिखावे और आंतरिक भक्ति के बीच अंतर को स्पष्ट किया है। उन्होंने बताया कि बाहरी चीजों का कोई महत्व नहीं है, बल्कि आंतरिक भक्ति और नाम जपने से ही वास्तविक संपत्ति मिलती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bb94926c-b01d-468e-bc15-3aef918370cc",
+  "name": "माया छाया एक सी, बिरला जानै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion is like a shadow, and only a few understand it. It follows the devotee and flees from those who face it directly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया छाया एक सी, बिरला जानै कोय।\nभगता के पीछे फिरै, सनमुख भाजै सोय।।११८७।।",
+    "translation": "Illusion is like a shadow, and only a few understand it. It follows the devotee and flees from those who face it directly.",
+    "meaning": "माया एक छाया के समान है, और केवल कुछ ही लोग इसे समझते हैं। यह भक्तों का पीछा करती है और जो इसका सामना करता है, उससे भाग जाती है।",
+    "explanation": "इस दोहे में कबीर ने माया की छाया के समानता को दर्शाया है। माया भक्तों का पीछा करती है और केवल वे लोग इसे समझ पाते हैं जो इसका सीधे-सपाट सामना करते हैं। जो लोग माया के प्रभाव से दूर रहते हैं और इसका सही आकलन करते हैं, वे इसे पार कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.974Z"
+  }
+}

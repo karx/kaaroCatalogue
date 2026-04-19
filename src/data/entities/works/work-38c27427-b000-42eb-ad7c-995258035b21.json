@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-38c27427-b000-42eb-ad7c-995258035b21",
+  "name": "आए हैं सो जाएंगे, राजा रंक फकीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who have come will leave, whether they are kings, paupers, or saints. Some leave in grandeur on thrones, while others leave in chains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आए हैं सो जाएंगे, राजा रंक फकीर।\nएक सिंहासन चढ़ चले, एक बँधे जात जंजीर।।१३।।",
+    "translation": "Those who have come will leave, whether they are kings, paupers, or saints. Some leave in grandeur on thrones, while others leave in chains.",
+    "meaning": "जो भी आया है, वह जाएगा, चाहे वह राजा हो, रंक हो या फकीर। कुछ सिंहासन पर चढ़कर जाते हैं, तो कुछ जंजीरों में बंधे चले जाते हैं।",
+    "explanation": "इस दोहे में संत कबीर जीवन की नश्वरता और मृत्यु की अनिवार्यता पर प्रकाश डालते हैं। वह बताते हैं कि जीवन में चाहे जो भी हो, अंत में सभी को इस संसार से विदा होना है। इस सत्य को स्वीकार करके हमें जीवन को सही तरीके से जीना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9aff9d51-409b-449e-aff4-479167e0a481",
+  "name": "शब्‍द न करै मुलाहिजा, शब्‍द फिरै चह धार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Words do not show mercy, they cut like a sharp sword. When one understands oneself, then the relationship between guru and disciple is established.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द न करै मुलाहिजा, शब्‍द फिरै चह धार।\nआपा पर जब चीन्हिया, तब गुरु सिष व्‍यवहार।।१०२०।।",
+    "translation": "Words do not show mercy, they cut like a sharp sword. When one understands oneself, then the relationship between guru and disciple is established.",
+    "meaning": "शब्द दया नहीं दिखाते, वे चार धारी तलवार की तरह होते हैं। जब कोई खुद को समझता है, तभी गुरु और शिष्य का सही संबंध स्थापित होता है।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि शब्दों की शक्ति तलवार की तरह होती है, जो बिना दया किए वार करती है। सही गुरु-शिष्य संबंध तभी बनता है, जब व्यक्ति पहले स्वयं को समझ लेता है और अपने शब्दों का सही उपयोग करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.162Z"
+  }
+}

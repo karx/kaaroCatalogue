@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-277e4658-5b46-4719-8a62-c3700a5935d7",
+  "name": "खेत बिगारेउ खरतुआ, सभा बिगारी कूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A careless farmer ruins the field, a cruel person disrupts the assembly. A greedy person ruins devotion, like adding dirt to saffron.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खेत बिगारेउ खरतुआ, सभा बिगारी कूर।\nभक्ति बिगारी लालची, ज्यों केसर में घूर।।४१५।।",
+    "translation": "A careless farmer ruins the field, a cruel person disrupts the assembly. A greedy person ruins devotion, like adding dirt to saffron.",
+    "meaning": "असावधान किसान खेत को बर्बाद कर देता है, और एक क्रूर व्यक्ति सभा को खराब कर देता है। इसी प्रकार, लालची व्यक्ति भक्ति को नष्ट कर देता है, जैसे केसर में गंदगी मिल जाती है।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि जिस प्रकार एक लापरवाह किसान अपने खेत को नष्ट कर देता है और एक क्रूर व्यक्ति किसी सभा को बिगाड़ देता है, उसी प्रकार एक लालची व्यक्ति अपनी भक्ति को बर्बाद कर देता है। जिस तरह केसर में गंदगी मिलने से उसकी शुद्धता खत्म हो जाती है, उसी प्रकार लालच भक्ति की पवित्रता को नष्ट कर देता है। यह दोहा हमें यह सिखाता है कि लालच से दूर रहकर हमें सच्ची भक्ति की ओर अग्रसर होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

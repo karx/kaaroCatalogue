@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5531a4e3-b3d0-4b15-8fd5-ad554d006d1f",
+  "name": "शूर सनाह न पहरई, मरता नहीं डराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A brave person does not wear armor, nor does he fear death. The coward turns his back and runs; the brave face challenges head-on.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शूर सनाह न पहरई, मरता नहीं डराय।\nकायर भाजै पीठि दै, शूर मुंडीमुंह खाय।।२१०७।।",
+    "translation": "A brave person does not wear armor, nor does he fear death. The coward turns his back and runs; the brave face challenges head-on.",
+    "meaning": "वीर व्यक्ति कवच नहीं पहनता और मृत्यु से डरता नहीं है। कायर पीठ दिखाकर भाग जाता है; वीर चुनौती का सामना करता है।",
+    "explanation": "इस दोहे में कबीर ने वीरता और कायरता के बीच के अंतर को स्पष्ट किया है। वीर व्यक्ति न तो कवच पहनता है और न ही मृत्यु से डरता है, जबकि कायर व्यक्ति मुश्किलों का सामना करने के बजाय पीठ दिखाकर भाग जाता है। यह दोहा वीरता की उच्चता और कायरता की आलोचना को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.361Z"
+  }
+}

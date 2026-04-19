@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-48d27e9a-731b-47fc-abdc-fd15e581f4ef",
+  "name": "जाका गुरु है गीरही, गिरही चेला होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If the Guru is worldly, the disciple will also be worldly. No matter how much they try to cleanse themselves, the stains will not go away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाका गुरु है गीरही, गिरही चेला होय।\nकीच-कीच के धोवते, दाग न छूटे कोय।।२८७।।",
+    "translation": "If the Guru is worldly, the disciple will also be worldly. No matter how much they try to cleanse themselves, the stains will not go away.",
+    "meaning": "अगर गुरु गृहस्थी है, तो शिष्य भी गृहस्थी होगा। चाहे वे कितनी भी कोशिश करें, दाग नहीं मिटेंगे।",
+    "explanation": "इस दोहे में कबीर उन गुरुओं की निंदा करते हैं ज�� संसारिक बंधनों में फंसे हुए हैं। अगर गुरु स्वयं गृहस्थी है, तो उसका शिष्य भी उसी मार्ग पर चलेगा और आध्यात्मिक उन्नति प्राप्त नहीं कर पाएगा, चाहे वह कितनी भी कोशिश कर ले।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

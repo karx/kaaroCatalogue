@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c144459c-849f-4fc8-a02f-bbe3a80820e4",
+  "name": "कबीर संसा कोउ नहीं, हरि सूं लाग्गा हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, there’s no doubt when one is in love with Hari. Fight against lust and anger, like a warrior in battle.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर संसा कोउ नहीं, हरि सूं लाग्गा हेत।\nकाम-क्रोध सूं झूझणा, चौडै मांड्या खेत।।२३२।।",
+    "translation": "Kabir says, there’s no doubt when one is in love with Hari. Fight against lust and anger, like a warrior in battle.",
+    "meaning": "कबीर कहते हैं, जब कोई भगवान हरि से प्रेम करता है, तो उसके मन में कोई संदेह नहीं रहता। वह काम और क्रोध के खिलाफ युद्ध करता है, जैसे योद्धा मैदान में लड़ता है।",
+    "explanation": "इस दोहे में कबीर भगवान से प्रेम को सर्वोच्च मानते हैं। जब कोई व्यक्ति भगवान से सच्चा प्रेम करता है, तो उसके मन में कोई संदेह नहीं रहता। वह अपने मन के भीतर काम और क्रोध जैसी नकारात्मक भावनाओं से संघर्ष करता है, जैसे योद्धा युद्ध के मैदान में दुश्मनों से लड़ता है। यह एक आंतरिक संघर्ष है, जिसे जीतने के लिए दृढ़ता और समर्पण की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

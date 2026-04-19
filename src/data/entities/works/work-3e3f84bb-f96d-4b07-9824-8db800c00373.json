@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e3f84bb-f96d-4b07-9824-8db800c00373",
+  "name": "हरिजन सोई जानिये, जिह्वा कहैं न मार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Know that person as a devotee of the Lord, who doesn't hurt anyone with their words. They remain immersed in the guru's teachings day and night.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरिजन सोई जानिये, जिह्वा कहैं न मार।\nआठ पहर चितवन रहै, गुरु का ज्ञान विचार।।१०१३।।",
+    "translation": "Know that person as a devotee of the Lord, who doesn't hurt anyone with their words. They remain immersed in the guru's teachings day and night.",
+    "meaning": "उस व्यक्ति को भगवान का भक्त समझो, जो अपनी वाणी से किसी को आहत नहीं करता। वह दिन-रात गुरु की शिक्षाओं में लीन रहता है।",
+    "explanation": "इस दोहे में कबीर सच्चे भक्त की पहचान बताते हैं। वे कहते हैं कि जो व्यक्ति अपनी वाणी से किसी को दुख नहीं पहुंचाता और हर समय गुरु की शिक्षा में डूबा रहता है, वही सच्चा हरिजन या भक्त है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.161Z"
+  }
+}

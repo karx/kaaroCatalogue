@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f4c53634-11ea-40a6-963c-e0a647de2cbb",
+  "name": "बिरह भुवंगम तन बसै, मंत्र न लागै कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is consumed by the sting of separation; no mantra can help. The one separated from Ram does not live, they live only as a mad person.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरह भुवंगम तन बसै, मंत्र न लागै कोइ।\nराम वियोगी ना जिवै, जिवै त बौरा होइ।।१७५३।।",
+    "translation": "The body is consumed by the sting of separation; no mantra can help. The one separated from Ram does not live, they live only as a mad person.",
+    "meaning": "शरीर बिछड़न की पीड़ा से जल जाता है; कोई मंत्र मदद नहीं कर सकता। जो राम से बिछड़े हैं, वे जीवित नहीं रहते, वे केवल एक पागल की तरह जीवित रहते हैं।",
+    "explanation": "कबीर इस दोहे में separation और मंत्र की भूमिका की बात करते हैं। उन्होंने कहा कि बिछड़े हुए व्यक्ति के लिए कोई मंत्र भी राहत नहीं दे सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.343Z"
+  }
+}

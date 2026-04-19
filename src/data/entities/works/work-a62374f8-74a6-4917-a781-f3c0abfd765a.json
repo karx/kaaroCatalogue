@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a62374f8-74a6-4917-a781-f3c0abfd765a",
+  "name": "समुझे की गति एक है, जिहि समझे सब ठौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The essence of understanding is the same, no matter where it is perceived. Kabir says that the middle path is often considered different.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "समुझे की गति एक है, जिहि समझे सब ठौर।\nकहहिं कबिर ये बीच के, कहै और की और।।१६९०।।",
+    "translation": "The essence of understanding is the same, no matter where it is perceived. Kabir says that the middle path is often considered different.",
+    "meaning": "समझने का सार एक ही है, चाहे जहां भी समझा जाए। कबीर कहते हैं कि मध्य मार्ग को अक्सर अलग माना जाता है।",
+    "explanation": "कबीर इस दोहे में समझ और भ्रांति की बात करते हैं। उन्होंने कहा कि समझ का सार समान है, लेकिन बीच के रास्ते को अलग माना जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.791Z"
+  }
+}

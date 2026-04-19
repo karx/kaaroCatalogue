@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe36c3c5-c5ad-47e8-95da-8b77222acd6f",
+  "name": "पतिबरता मैली भली, गले कांच को पोत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A devoted wife may be unclean, but if she applies glass (to adorn herself) around her neck, she shines among all friends, like the sun and moon's light.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पतिबरता मैली भली, गले कांच को पोत।\nसब सखियन में यों दिपै, ज्यों रवि ससि को जोत।।१६५।।",
+    "translation": "A devoted wife may be unclean, but if she applies glass (to adorn herself) around her neck, she shines among all friends, like the sun and moon's light.",
+    "meaning": "एक पतिव्रता महिला भले ही मैले कपड़े पहने, लेकिन यदि वह अपने गले में कांच का आभूषण लगाती है, तो वह सभी सहेलियों में ऐसे चमकती है जैसे सूर्य और चंद्रमा की चमक।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि व्यक्ति की आंतरिक भक्ति और समर्पण ही उसकी वास्तविक सुंदरता और मूल्य को दर्शाते हैं। भले ही बाहरी रूप से व्यक्ति साधारण या मैले हों, लेकिन जब उनके भीतर सच्ची भक्ति और समर्पण होता है, तो वे दूसरों के बीच चमक उठते हैं। यह दोहा आंतरिक गुणों की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

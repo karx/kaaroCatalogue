@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2b93621b-9327-40ed-baf7-109cbdc6b208",
+  "name": "जबहि नाम हिरद धरा, भया पाप का नाश",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the name is held in the heart, sins are eradicated. It is like placing dry grass on a burning fire; it extinguishes the fire.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जबहि नाम हिरद धरा, भया पाप का नाश।\nमानो चिनगा आग को, परो परान घास।।७५४।।",
+    "translation": "When the name is held in the heart, sins are eradicated. It is like placing dry grass on a burning fire; it extinguishes the fire.",
+    "meaning": "जब नाम हृदय में धारण किया जाता है, तो पाप समाप्त हो जाते हैं। यह जैसे आग पर सूखी घास डालने के समान है; यह आग को बुझा देती है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जब हृदय में नाम का ध्यान किया जाता है, तो पाप और दोष समाप्त हो जाते हैं। यह स्थिति तब जैसी होती है जब आग पर सूखी घास डाली जाती है, जिससे आग शांत हो जाती है। नाम की साधना और भक्ति पापों को समाप्त कर देती है और आत्मा को शुद्ध करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

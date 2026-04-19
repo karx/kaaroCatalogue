@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fbd7752b-a977-4046-adba-cabc8a1f912c",
+  "name": "इत पर घर उत है घरा, बनिजन आये हाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the house of love, not a place for traders to come and go. Selling your actions like merchandise, get up and continue on your path.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इत पर घर उत है घरा, बनिजन आये हाट।\nकरम करीना बेचि के, उठि करि चालो बाट।।८३६।।",
+    "translation": "This is the house of love, not a place for traders to come and go. Selling your actions like merchandise, get up and continue on your path.",
+    "meaning": "यह प्रेम का घर है, व्यापारियों के आने-जाने का स्थान नहीं। अपने कर्मों को माल की तरह बेचकर, उठो और अपने मार्ग पर चलो।",
+    "explanation": "इस दोहे में कबीर ने प्रेम के घर की पवित्रता और व्यापारीक दृष्टिकोण से अलगाव को दर्शाया है। प्रेम का घर व्यापार और लेन-देन की जगह नहीं है। यहाँ कर्मों को वस्त्र की तरह बेचना और तदनुसार अपने मार्ग पर चलना चाहिए। प्रेम और आत्मिक पथ पर चलने के लिए आपको अपने कर्मों को शुद्ध और निष्कलंक रखना होगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.081Z"
+  }
+}

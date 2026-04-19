@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6b813a52-7757-4fc2-9b42-5e2622bfd9aa",
+  "name": "देषण के सबको भले, जिसे सीत के कोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even the best covering is useless, if it traps cold inside. When the sun rises, it does not appear, and water cannot be bound.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "देषण के सबको भले, जिसे सीत के कोट।\nरवि कै उदै न दीसहीं, बंधै न जल की पोट।।२०७६।।",
+    "translation": "Even the best covering is useless, if it traps cold inside. When the sun rises, it does not appear, and water cannot be bound.",
+    "meaning": "सबसे अच्छे वस्त्र भी बेकार हैं, अगर वे ठंड को रोकने में असफल हों। जब सूरज उदय होता है, तो वह दिखाई नहीं देता, और जल को बांध कर रखा नहीं जा सकता।",
+    "explanation": "इस दोहे में कबीर जीवन की सच्चाई को प्रकट करते हैं। वे बताते हैं कि जैसे अच्छा कपड़ा ठंड को नहीं रोक सकता और जल को बांधकर नहीं रखा जा सकता, वैसे ही आडंबर से सच्चाई को नहीं छुपाया जा सकता। सूरज का उदय होने पर सब स्पष्ट हो जाता है। यह दोहा जीवन में सच्चाई और सादगी के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.094Z"
+  }
+}

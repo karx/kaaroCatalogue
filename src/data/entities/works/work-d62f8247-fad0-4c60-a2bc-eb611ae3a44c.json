@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d62f8247-fad0-4c60-a2bc-eb611ae3a44c",
+  "name": "गुरु को मानुष जानते, ते नर कहिए अन्‍ध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who recognize the Guru as a human are blind. In this world of suffering, they are trapped in the snare of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु को मानुष जानते, ते नर कहिए अन्‍ध।\nहोय दुखी संसार में, आगे जम का फन्‍द।।४७१।।",
+    "translation": "Those who recognize the Guru as a human are blind. In this world of suffering, they are trapped in the snare of death.",
+    "meaning": "जो गुरु को एक मानव मानते हैं, वे अंधे होते हैं। इस दुःखद संसार में, वे मृत्यु के जाल में फंसे होते हैं।",
+    "explanation": "इस दोहे में कबीर ने गुरु की वास्तविकता को समझने में असफल लोगों की आलोचना की है। उन्होंने कहा है कि जो लोग गुरु को केवल एक सामान्य मानव मानते हैं, वे अंधे हैं और इस संसार के दुखों में फंसे हुए हैं। वे मृत्यु के जाल में फंस जाते हैं। यह दोहा गुरु के प्रति सच्ची समझ और उनके अद्वितीय स्थान की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

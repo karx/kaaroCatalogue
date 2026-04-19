@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ac6f642b-0d03-4002-8848-5777216061db",
+  "name": "काल काम तत्काल है, बुरा न कीजै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Time and actions are immediate; do no evil. Goodness will be rewarded, while evil will lead to downfall.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल काम तत्काल है, बुरा न कीजै कोय।\nभले भलई पे लहै, बुरे बुराई होय।।४४७।।",
+    "translation": "Time and actions are immediate; do no evil. Goodness will be rewarded, while evil will lead to downfall.",
+    "meaning": "समय और कर्म तात्कालिक हैं; बुरा मत करो। भले को भला मिलेगा, जबकि बुराई बुराई को जन्म देती है।",
+    "explanation": "इस दोहे में कबीर समय और कर्म के तात्कालिक प्रभाव को दर्शाते हैं। वे सलाह देते हैं कि बुरा न करें क्योंकि समय और कर्म तुरंत परिणाम देते हैं। अच्छे कर्म अच्छे परिणाम लाते हैं, जबकि बुरे कर्म बुरे परिणामों का कारण बनते हैं। यह दोहा जीवन की नैतिकता और कर्मफल के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

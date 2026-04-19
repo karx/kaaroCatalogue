@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6862d070-e1fc-4f51-8415-6d5947804f2a",
+  "name": "चाल बकुल की चलत हैं, बहुरि कहावै हंस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The walk of a swan is elegant, but it is still called a duck. How can those who are bound by the traps of time be truly liberated?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चाल बकुल की चलत हैं, बहुरि कहावै हंस।\nते मुक्ता कैसे चुंगे, पड़े काल के फंस।।३६२।।",
+    "translation": "The walk of a swan is elegant, but it is still called a duck. How can those who are bound by the traps of time be truly liberated?",
+    "meaning": "हंस की चाल सुंदर होती है, लेकिन उसे हंस ही कहा जाता है। जो लोग काल के बंधनों में फंसे हैं, वे कैसे मुक्त हो सकते हैं।।",
+    "explanation": "इस दोहे में कबीरदास ने समय की बंधनों में फंसे हुए लोगों की स्थिति को दर्शाया है। भले ही कोई बाहरी रूप से सुंदर और उत्कृष्ट प्रतीत होता है, अगर वह काल के बंधनों में फंसा हुआ है, तो उसकी मुक्ति संभव नहीं होती। यह दोहा इस बात को उजागर करता है कि वास्तविक मुक्ति और आंतरिक शांति तभी संभव होती है जब व्यक्ति काल के बंधनों से मुक्त हो जाए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

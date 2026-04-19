@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-acc56fd0-6a4f-4ace-9a0d-f563ae8b20cb",
+  "name": "हम घर जाल्‍या आपणां, लिया मूराड़ा हाथिम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "We have burned our own house and taken a handful of ashes. Now, if the house burns with us, let it be.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हम घर जाल्‍या आपणां, लिया मूराड़ा हाथिम।\nअब घर जालौं तास का, जे चलै हमारे साथि।।१९७४।।",
+    "translation": "We have burned our own house and taken a handful of ashes. Now, if the house burns with us, let it be.",
+    "meaning": "हमने अपने घर को जला दिया है और हाथ में राख ले ली है। अब, अगर घर हमारे साथ जलता है, तो जलने दो।",
+    "explanation": "इस दोहे में कबीर ने आंतरिक परिवर्तन और आत्म-समर्पण की बात की है। जब व्यक्ति अपनी पुरानी सांसारिक वस्तुओं और बंधनों को छोड़ देता है, तो वह किसी भी नई चुनौती या कठिनाई का सामना करने के लिए तैयार होता है। यह व्यक्तिगत और आत्मिक स्वतंत्रता के प्रतीक के रूप में देखा जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.532Z"
+  }
+}

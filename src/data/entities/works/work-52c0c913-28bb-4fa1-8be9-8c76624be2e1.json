@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-52c0c913-28bb-4fa1-8be9-8c76624be2e1",
+  "name": "स्‍वामी सेवक एक मत, मन ही मैं म‍िलि जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Master and servant share the same mind, they merge in spirit. Cunning does not please, only the love of the heart does.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्‍वामी सेवक एक मत, मन ही मैं म‍िलि जाइ।\nचतुराई रीझै नहीं, रीझै मन कै भाइ।।२२६९।।",
+    "translation": "Master and servant share the same mind, they merge in spirit. Cunning does not please, only the love of the heart does.",
+    "meaning": "स्वामी और सेवक एक ही मन रखते हैं, वे आत्मा में एक हो जाते हैं। चतुराई से नहीं, बल्कि केवल दिल से की गई भक्ति से स्वामी प्रसन्न होते हैं।",
+    "explanation": "इस दोहे में कबीर जी स्वामी और सेवक के संबंध को स्पष्ट करते हैं। वे कहते हैं कि जब स्वामी और सेवक एक ही विचारधारा और भावना में डूब जाते हैं, तो वे आत्मा के स्तर पर एक हो जाते हैं। केवल चतुराई से नहीं, बल्कि सच्ची भावना और प्रेम से ही स्वामी (ईश्वर) प्रसन्न होते हैं। यह दोहा सच्चे समर्पण और प्रेम की शक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.350Z"
+  }
+}

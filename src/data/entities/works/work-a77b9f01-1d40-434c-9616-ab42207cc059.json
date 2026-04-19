@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a77b9f01-1d40-434c-9616-ab42207cc059",
+  "name": "कबीर प्रगट राम कहि, छांनै राम न गाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, if one speaks of the revealed Ram but does not sing of Ram, then it is like removing the thatch from the roof, which does not stop the rain from falling again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर प्रगट राम कहि, छांनै राम न गाइ।\nफूस क जौंड़ा दूरि करि, ज्‍यूं बहुरि न लागै लाइ।।१९३०।।",
+    "translation": "Kabir says, if one speaks of the revealed Ram but does not sing of Ram, then it is like removing the thatch from the roof, which does not stop the rain from falling again.",
+    "meaning": "कबीर कहते हैं, यदि कोई प्रकट राम का उल्लेख करता है लेकिन राम का गायन नहीं करता, तो यह वैसा ही है जैसे छप्पर को हटा देना, जो फिर से बारिश से नहीं बचा सकता।",
+    "explanation": "इस दोहे में कबीरदास जी ने धार्मिक और आध्यात्मिक प्रकटता के वास्तविक महत्व को दर्शाया है। वे बताते हैं कि यदि व्यक्ति केवल नाम लेता है लेकिन सच्चे भाव से ईश्वर की भक्ति नहीं करता, तो यह बाहरी ढांचे को हटाने जैसा है, जो किसी भी गहरी समस्या को हल नहीं करता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.252Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-19489c7e-65d2-4f99-a915-1de8f29f31ab",
+  "name": "कहा चुनावै मेड़िया, लम्बी भीत उसारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where is the choice of the media? The high walls are narrow. The house is only three and a half hands, and the courtyard is barely four.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहा चुनावै मेड़िया, लम्बी भीत उसारि।\nघर तो साढ़े तीन हाथ, घना तो पौने चारि।।४२८।।",
+    "translation": "Where is the choice of the media? The high walls are narrow. The house is only three and a half hands, and the courtyard is barely four.",
+    "meaning": "मीडिया की चुनाव कहाँ है? ऊँची दीवारें संकीर्ण हैं। घर केवल साढ़े तीन हाथ का है, और आँगन भी बस पौने चार हाथ का है।",
+    "explanation": "इस दोहे में कबीर समाज की भ्रांतियों और वास्तविकता के बारे में बात करते हैं। वह कहते हैं कि मीडिया की चमक और आभासी दुनिया के बावजूद, वास्तविकता की दीवारें संकीर्ण और छोटी होती हैं। यह दोहा हमें यह समझाने का प्रयास करता है कि बाहरी दिखावे से ज्यादा महत्वपूर्ण जीवन की वास्तविकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-89abed8d-1881-4a53-a958-c354632105f3",
+  "name": "भक्ति-बीज पलटै नहीं, जो जुग जाय अनन्‍त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The seed of devotion does not change, even if ages pass. It transcends all distinctions of high and low, as it is the true saint’s quality.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति-बीज पलटै नहीं, जो जुग जाय अनन्‍त।\nऊंच नीच घर अवतरै, होय सन्‍त का सन्‍त।।७१३।।",
+    "translation": "The seed of devotion does not change, even if ages pass. It transcends all distinctions of high and low, as it is the true saint’s quality.",
+    "meaning": "भक्ति का बीज कभी नहीं बदलता, चाहे कितनी भी कालावधि बीत जाए। यह ऊंच-नीच के भेद से परे है, क्योंकि यह सच्चे संत की विशेषता है।",
+    "explanation": "कबीर इस दोहे में भक्ति की स्थिरता और उसके अमूल्य स्वभाव को दर्शाते हैं। भक्ति का बीज समय के साथ नहीं बदलता और यह सभी भेदों से परे है। सच्चे संत का गुण है कि भक्ति हमेशा एक समान रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

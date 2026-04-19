@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a26ebd0c-cc24-4314-b049-13441e591d57",
+  "name": "अंक भरे भरि भेटिया, मन मैं मांही धीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The filled vessel overflows, the mind is steadfast in its devotion. Kabir questions why one should meet, while both bodies are separate.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंक भरे भरि भेटिया, मन मैं मांही धीर।\nकहै कबीर ते क्‍यूं मिलैं, जब लग दोइ सरीर।।१८०४।।",
+    "translation": "The filled vessel overflows, the mind is steadfast in its devotion. Kabir questions why one should meet, while both bodies are separate.",
+    "meaning": "भरपूर बर्तन छलक जाता है, मन अपनी भक्ति में स्थिर रहता है। कबीर पूछते हैं कि क्यों मिलना चाहिए, जब तक दो शरीर अलग-अलग हैं।",
+    "explanation": "इस दोहे में कबीर ने भक्ति और आत्म-साक्षात्कार के संदर्भ में मिलन की आवश्यकता को प्रश्न किया है। जब दोनों शरीर अलग हैं और मन भक्ति में स्थिर है, तो मिलन की आवश्यकता क्यों है? कबीर यहाँ पर एकता और आत्म-साक्षात्कार के गहरे अर्थों को छूते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.622Z"
+  }
+}

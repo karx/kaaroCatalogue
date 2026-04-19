@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e59701a8-6b01-4140-8bb9-d24bec4a474c",
+  "name": "खांडा तिसको बाहिये, जो फिरि खांडे की देय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A sword is meant for one who wields it in battle. What use is a sword to a coward, who merely gnashes his teeth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खांडा तिसको बाहिये, जो फिरि खांडे की देय।\nकायर को क्‍या बाहिये, दांतों तिनका लेय।।२११०।।",
+    "translation": "A sword is meant for one who wields it in battle. What use is a sword to a coward, who merely gnashes his teeth.",
+    "meaning": "ख़ंड़ा उसे ही उपयोगी है जो युद्ध में उसे चलाए। कायर के लिए ख़ंड़ा का क्या उपयोग, जो केवल दांतों को पीसता है।",
+    "explanation": "इस दोहे में कबीर ने वीरता और कायरता के बीच अंतर को स्पष्ट किया है। युद्ध के लिए ख़ंड़ा तभी उपयोगी है जब वह उसे युद्ध में प्रयोग करे। कायर के लिए यह बेकार है, क्योंकि वह केवल दांत पीसने और डर का प्रदर्शन करता है। यह दोहा वीरता के वास्तविक उपयोग को दर्शाता है और कायरता की निरर्थकता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.361Z"
+  }
+}

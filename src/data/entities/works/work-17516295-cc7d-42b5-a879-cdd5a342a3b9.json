@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-17516295-cc7d-42b5-a879-cdd5a342a3b9",
+  "name": "जैसी प्रीति कुटुंब की, तैसी गुरु सों होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The love one has for family should be the same as that for the Guru. Kabir says that the true disciple is not held back by anything.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसी प्रीति कुटुंब की, तैसी गुरु सों होय।\nकहें कबीर ता दास को, पला न पकड़े कोय।।४६९।।",
+    "translation": "The love one has for family should be the same as that for the Guru. Kabir says that the true disciple is not held back by anything.",
+    "meaning": "परिवार के प्रति जो प्रेम होता है, वही प्रेम गुरु के प्रति होना चाहिए। कबीर कहते हैं कि सच्चा शिष्य किसी भी चीज़ से नहीं रोका जाता।",
+    "explanation": "इस दोहे में कबीर ने गुरु के प्रति प्रेम और सम्मान की बात की है। उन्होंने परिवार के प्रति जो प्रेम होता है, वही प्रेम गुरु के प्रति होना चाहिए। सच्चा शिष्य गुरु की भक्ति और शिक्षाओं के प्रति पूर्ण रूप से समर्पित होता है और किसी भी बाधा से प्रभावित नहीं होता। यह दोहा गुरु के प्रति सच्चे प्रेम और निष्ठा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe4bbdf5-0d46-48cc-8ef2-04135680420c",
+  "name": "कबीर सोचि विचरिया, दूजा कोई नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir reflects and finds there is no one else. When he realizes the self, he merges back into the source.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सोचि विचरिया, दूजा कोई नांहि।\nआपा पर जब चीन्हिया, तब उलटि समाना मांहि।।१८६५।।",
+    "translation": "Kabir reflects and finds there is no one else. When he realizes the self, he merges back into the source.",
+    "meaning": "कबीर सोच-विचार करते हैं और पाते हैं कि कोई दूसरा नहीं है। जब वे आत्मज्ञान प्राप्त करते हैं, तो वे अपने स्रोत में विलीन हो जाते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी आत्मज्ञान के महत्व को बताते हैं। वे कहते हैं कि जब उन्होंने गहराई से विचार किया, तो पाया कि उनके अलावा कोई दूसरा नहीं है। यह आत्मा और परमात्मा के एकत्व की ओर इशारा करता है। जब मनुष्य अपने आप को पहचान लेता है, तो वह परमात्मा में विलीन हो जाता है, क्योंकि आत्मा और परमात्मा एक ही हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.970Z"
+  }
+}

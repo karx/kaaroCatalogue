@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d9a3ed12-bfd9-4f78-b303-724416f5c232",
+  "name": "wo buton ne Dale hain waswase ki dilon se KHauf-e-KHuda gaya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/vo-buton-ne-daale-hain-vasvase-ki-dilon-se-khauf-e-khudaa-gayaa-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.209Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/vo-buton-ne-daale-hain-vasvase-ki-dilon-se-khauf-e-khudaa-gayaa-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nvo butoñ ne Daale haiñ vasvase ki diloñ se ḳhauf-e-ḳhudā gayā\nvo paḌī haiñ roz qayāmateñ ki ḳhayāl-e-roz-e-jazā gayā\njo nafas thā ḳhār-e-gulū banā jo uThe the haath lahū hue\nvo nashāt-e-āh-e-sahr ga.ī vo vaqār-e-dast-e-duā gayā\nna vo rañg fasl-e-bahār kā na ravish vo abr-e-bahār kī\njis adā se yaar the āshnā vo mizāj-e-bād-e-sabā gayā\njo talab pe ahd-e-vafā kiyā to vo ābrū-e-vafā ga.ī\nsar-e-ām jab hue mudda.ī to savāb-e-sidq-o-safā gayā\nabhī bādbān ko tah rakho abhī muztarib hai ruḳh-e-havā\nkisī rāste meñ hai muntazir vo sukūñ jo aa ke chalā gayā\nwo buton ne Dale hain waswase ki dilon se KHauf-e-KHuda gaya\nwo paDi hain roz qayamaten ki KHayal-e-roz-e-jaza gaya\njo nafas tha KHar-e-gulu bana jo uThe the hath lahu hue\nwo nashat-e-ah-e-sahr gai wo waqar-e-dast-e-dua gaya\nna wo rang fasl-e-bahaar ka na rawish wo abr-e-bahaar ki\njis ada se yar the aashna wo mizaj-e-baad-e-saba gaya\njo talab pe ahd-e-wafa kiya to wo aabru-e-wafa gai\nsar-e-am jab hue muddai to sawab-e-sidq-o-safa gaya\nabhi baadban ko tah rakho abhi muztarib hai ruKH-e-hawa\nkisi raste mein hai muntazir wo sukun jo aa ke chala gaya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nوہ بتوں نے ڈالے ہیں وسوسے کہ دلوں سے خوف خدا گیا\nوہ پڑی ہیں روز قیامتیں کہ خیال روز جزا گیا\nجو نفس تھا خار گلو بنا جو اٹھے تھے ہاتھ لہو ہوئے\nوہ نشاط آہ سحر گئی وہ وقار دست دعا گیا\nنہ وہ رنگ فصل بہار کا نہ روش وہ ابر بہار کی\nجس ادا سے یار تھے آشنا وہ مزاج باد صبا گیا\nجو طلب پہ عہد وفا کیا تو وہ آبروئے وفا گئی\nسر عام جب ہوئے مدعی تو ثواب صدق و صفا گیا\nابھی بادبان کو تہ رکھو ابھی مضطرب ہے رخ ہوا\nکسی راستے میں ہے منتظر وہ سکوں جو آ کے چلا گیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nवो बुतों ने डाले हैं वसवसे कि दिलों से ख़ौफ़-ए-ख़ुदा गया\nवो पड़ी हैं रोज़ क़यामतें कि ख़याल-ए-रोज़-ए-जज़ा गया\nजो नफ़स था ख़ार-ए-गुलू बना जो उठे थे हाथ लहू हुए\nवो नशात-ए-आह-ए-सहर गई वो वक़ार-ए-दस्त-ए-दुआ गया\nन वो रंग फ़स्ल-ए-बहार का न रविश वो अब्र-ए-बहार की\nजिस अदा से यार थे आश्ना वो मिज़ाज-ए-बाद-ए-सबा गया\nजो तलब पे अहद-ए-वफ़ा किया तो वो आबरू-ए-वफ़ा गई\nसर-ए-आम जब हुए मुद्दई' तो सवाब-ए-सिदक़-ओ-सफ़ा गया\nअभी बादबान को तह रखो अभी मुज़्तरिब है रुख़-ए-हवा\nकिसी रास्ते में है मुंतज़िर वो सुकूँ जो आ के चला गया",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:04.813Z"
+  }
+}

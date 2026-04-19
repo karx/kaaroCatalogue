@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-95ae0db6-a68a-4874-9e12-1ae5ca99c494",
+  "name": "उज्‍जवल पहरे कापड़ा, पान सुपारी खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing bright clothes and consuming betel leaves and nuts may seem important, but without the name of the Divine, one is bound for the abode of Yama (death).",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उज्‍जवल पहरे कापड़ा, पान सुपारी खाय।\nएक हरि के नाम बिन, बाँध‍ा यमपुर जाय।।९५।।",
+    "translation": "Wearing bright clothes and consuming betel leaves and nuts may seem important, but without the name of the Divine, one is bound for the abode of Yama (death).",
+    "meaning": "चमकदार कपड़े पहनना और पान-सुपारी खाना महत्वपूर्ण लग सकता है, लेकिन अगर हरि के नाम के बिना है, तो व्यक्ति यमपुरी की ओर बंधा रहता है।",
+    "explanation": "इस दोहे में कबीर यह दिखाते हैं कि बाहरी आभूषण और भौतिक वस्तुएं जैसे चमकदार कपड़े और पान-सुपारी केवल दिखावा हैं। असली महत्व और मोक्ष की प्राप्ति के लिए हरि के नाम की आवश्यकता होती है। बिना दिव्य नाम के, सभी बाहरी प्रदर्शन अंततः मृत्यु के घर में ही बंध जाते हैं। यह दर्शाता है कि आध्यात्मिकता और दिव्यता का महत्व बाहरी दिखावे से कहीं अधिक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

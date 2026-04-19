@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c8f91101-68d8-4b14-bcbf-54022782ea3b",
+  "name": "सुमरित सुरत जगाय कर, मुख से कछु न बोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Awaken your awareness through remembrance, and speak not a word from your mouth. Close the door of the external and open the door of the inner self.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमरित सुरत जगाय कर, मुख से कछु न बोल।\nबाहर का पट बंद कर, अंदर का पट खोल।।४३।।",
+    "translation": "Awaken your awareness through remembrance, and speak not a word from your mouth. Close the door of the external and open the door of the inner self.",
+    "meaning": "स्मरण के माध्यम से अपनी चेतना को जागृत करो और मुख से कुछ न बोलो। बाहरी पट को बंद कर दो और अंदर के पट को खोलो।",
+    "explanation": "इस दोहे में संत कबीर ध्यान की एक गहन विधि का वर्णन करते हैं। वे बताते हैं कि स्मरण से अपनी आत्मा की जागृति करनी चाहिए और बाहरी दुनिया के सभी शोर-शराबे को बंद करके अपने अंदर की ओर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-12769b35-269f-4741-9b9a-04e594c64f20",
+  "name": "Sonar Tari",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Sonar_Tari",
+    "retrievedAt": "2026-01-04T18:38:55.927Z"
+  }
+}

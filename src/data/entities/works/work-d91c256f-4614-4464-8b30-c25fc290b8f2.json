@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d91c256f-4614-4464-8b30-c25fc290b8f2",
+  "name": "लूटि सके तो लूटि ले, राम नाम की लूट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Steal if you can, steal the loot of Ram's name. In the end, you will regret; the soul will be liberated.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लूटि सके तो लूटि ले, राम नाम की लूट।\nफिर पाछे पछताहुगे, प्राण जाहिंगे छूट।।७८५।।",
+    "translation": "Steal if you can, steal the loot of Ram's name. In the end, you will regret; the soul will be liberated.",
+    "meaning": "यदि संभव हो तो लूट लो, राम नाम की लूट। आखिर में पछताओगे, प्राण छूट जाएंगे।",
+    "explanation": "इस दोहे में कबीर ने राम नाम की 'लूट' को विशेष महत्व दिया है। उन्होंने कहा है कि यदि आप राम का नाम ले सकते हैं, तो इसे पूरी तरह से अपनाएं और इसका लाभ उठाएं। अंत में, जब जीवन समाप्त होगा, तो आपको पछतावा होगा, लेकिन यदि आपने राम का नाम सही तरीके से लिया है, तो आत्मा को मुक्ति मिलेगी।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.817Z"
+  }
+}

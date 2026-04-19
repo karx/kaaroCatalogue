@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-93d98d1a-c182-4041-ae35-8876cd0c7669",
+  "name": "कहता हूं कहि जात हूं, मानै नहीं गंवार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I speak and go away, but the foolish do not accept it. How can a renunciant in a household and a desirous person cross the boundary?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहता हूं कहि जात हूं, मानै नहीं गंवार।\nबैरागी गिरही कहा, कामी वार न पार।।१२२६।।",
+    "translation": "I speak and go away, but the foolish do not accept it. How can a renunciant in a household and a desirous person cross the boundary?",
+    "meaning": "मैं बोलता हूं और चला जाता हूं, लेकिन गंवार इसे स्वीकार नहीं करते। एक गृहस्थ बैरागी और कामी व्यक्ति कैसे पार कर सकते हैं?",
+    "explanation": "इस दोहे में कबीर ने बताया है कि उनकी बातें मूर्खों द्वारा स्वीकार नहीं की जाती हैं। गृहस्थ बैरागी और कामी व्यक्ति की स्थिति का उदाहरण देते हुए कबीर ने उनकी मुक्ति की कठिनाई को दर्शाया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.271Z"
+  }
+}

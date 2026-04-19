@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2645021d-e5bc-40cf-9e98-c6c5f4572d0c",
+  "name": "बहते को मत बहन दो, कर गहि एचहु ठौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not let the flowing one keep flowing, hold them at this place. If they do not listen to your words, say them twice more.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बहते को मत बहन दो, कर गहि एचहु ठौर।\nकह्यौ सुन्‍यो मानै नहीं, शब्‍द कहो दुइ और।।९६९।।",
+    "translation": "Do not let the flowing one keep flowing, hold them at this place. If they do not listen to your words, say them twice more.",
+    "meaning": "बहते हुए को बहने मत दो, उन्हें इस स्थान पर रोक लो। अगर वे तुम्हारी बात नहीं सुनते, तो उसे दोबारा कहो।",
+    "explanation": "इस दोहे में कबीर दास जी जीवन के प्रवाह और सत्संगति की बात कर रहे हैं। वह कहते हैं कि अगर कोई व्यक्ति सही रास्ते से भटक रहा है, तो उसे रोकने का प्रयास करो और सही मार्ग पर लाने की कोशिश करो। अगर वह पहली बार में नहीं सुनता, तो उसे बार-बार समझाओ। यह हमारे जीवन में धैर्य और सत्य की शिक्षा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

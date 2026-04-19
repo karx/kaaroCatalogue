@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1e8f1789-b05d-4bb6-9f52-1bb55652121c",
+  "name": "गुर दाघा चेला जल्‍या, बिरहा लागी आगि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The disciple has been burned by the Guru, and the fire of separation is intense. The little fellow has survived, but only to complete his task.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुर दाघा चेला जल्‍या, बिरहा लागी आगि।\nतिणका बपुड़ा ऊबरया, गलि पूरे कै लागि।।१९४७।।",
+    "translation": "The disciple has been burned by the Guru, and the fire of separation is intense. The little fellow has survived, but only to complete his task.",
+    "meaning": "शिष्य गुरु के द्वारा जलाया गया है, और वियोग की आग तीव्र है। छोटा बच्चा बच गया है, लेकिन केवल अपने कार्य को पूरा करने के लिए।",
+    "explanation": "इस दोहे में कबीरदास जी ने गुरु और शिष्य के संबंधों में वियोग और कठिनाई को स्पष्ट किया है। शिष्य गुरु के कठिन परीक्षण से गुजरता है और वियोग की आग को सहन करता है। यह दोहा जीवन की कठिनाइयों और गुरु के प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.257Z"
+  }
+}

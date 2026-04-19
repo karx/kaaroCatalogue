@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db2a99e4-1ed9-4169-9c47-85f5d455c191",
+  "name": "कबीर हरि के नाम में, सुरति रहै करतार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, in the name of Hari, the consciousness remains on the Creator. From that mouth, pearls and infinite diamonds flow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरि के नाम में, सुरति रहै करतार।\nता मुख से मोती झरे, हीरा अनंत अपार।।७९०।।",
+    "translation": "Kabir says, in the name of Hari, the consciousness remains on the Creator. From that mouth, pearls and infinite diamonds flow.",
+    "meaning": "कबीर कहते हैं, हरि के नाम में, चेतना सृष्टि के रचयिता पर बनी रहती है। उस मुख से मोती और अनंत हीरे बहते हैं।",
+    "explanation": "इस दोहे में कबीर ने हरि के नाम की महिमा को दर्शाया है। जब मन और चेतना हरि के नाम में स्थिर रहती है, तब उस व्यक्ति की वाणी से अनमोल रत्न जैसे मोती और हीरे निकलते हैं। यह दिखाता है कि सच्ची भक्ति और ध्यान के परिणाम स्वरूप दिव्य ज्ञान और अमूल्य गुण प्रकट होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

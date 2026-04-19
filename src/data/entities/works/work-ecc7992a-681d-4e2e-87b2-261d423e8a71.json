@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ecc7992a-681d-4e2e-87b2-261d423e8a71",
+  "name": "दहरा तो नूतन भया, तदपि न चीन्‍हे कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The place remains new, yet no one recognizes it. One who understands this word of wisdom is the true master.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दहरा तो नूतन भया, तदपि न चीन्‍हे कोय।\nजिहि यह शब्‍द विवेकिया, छत्र धनी है सोय।।१५६६।।",
+    "translation": "The place remains new, yet no one recognizes it. One who understands this word of wisdom is the true master.",
+    "meaning": "स्थान नया रहता है, फिर भी कोई नहीं पहचानता। जो इस शब्द को समझता है, वही सच्चा मालिक है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि स्थान या स्थिति नई हो सकती है, लेकिन उसकी पहचान हर कोई नहीं कर पाता। सच्चा समझदार और बुद्धिमान व्यक्ति ही इस सच्चाई को समझ सकता है और वास्तव में वही सच्चा स्वामी होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.207Z"
+  }
+}

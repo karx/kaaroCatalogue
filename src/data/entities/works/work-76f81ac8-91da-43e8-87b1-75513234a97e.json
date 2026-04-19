@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-76f81ac8-91da-43e8-87b1-75513234a97e",
+  "name": "कबीर खालिक जागिया, और न जागै कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir has awakened to the Creator, and no one else has. Whoever awakens with poison filled within, becomes a servant of devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर खालिक जागिया, और न जागै कोइ।\nकै जागे बिनसई विष भरया, कै दास बंदगी होइ।।२००६।।",
+    "translation": "Kabir has awakened to the Creator, and no one else has. Whoever awakens with poison filled within, becomes a servant of devotion.",
+    "meaning": "कबीर ने सृजनहार के प्रति जागरूकता प्राप्त की है, और कोई और नहीं जागा है। जो व्यक्ति विष भरे हुए जागरूक होता है, वह भक्ति का सेवक बन जाता है।",
+    "explanation": "इस दोहे में कबीर ने खुद के दिव्य जागरण और उसके महत्व को व्यक्त किया है। उन्होंने कहा है कि उन्होंने सृजनहार के प्रति जागरूकता प्राप्त की है, जबकि अन्य नहीं जागे हैं। जब किसी व्यक्ति के अंदर विष होता है (संसारिक समस्याएं या परेशानियाँ), तो वह भक्ति और सेवा में लीन हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.801Z"
+  }
+}

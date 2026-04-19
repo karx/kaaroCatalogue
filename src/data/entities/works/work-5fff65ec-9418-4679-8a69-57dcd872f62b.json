@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5fff65ec-9418-4679-8a69-57dcd872f62b",
+  "name": "तू तू करता तू भया, तुझ में रहा समाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You are, you do, you become; you reside within yourself. The mind merges with you; now there is no end to it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तू तू करता तू भया, तुझ में रहा समाय।\nतुझ मांहि मन मिलि रहा, अब कहुं अनत न जाय।।७९५।।",
+    "translation": "You are, you do, you become; you reside within yourself. The mind merges with you; now there is no end to it.",
+    "meaning": "तू ही है, तू ही करता है, तू ही बन जाता है; तू अपने भीतर निवास करता है। मन तेरे साथ मिल जाता है; अब इसका कोई अंत नहीं है।",
+    "explanation": "इस दोहे में कबीर ने आत्मा और परमात्मा के एकत्व की बात की है। उन्होंने कहा कि परमात्मा स्वयं ही सब कुछ है और हर क्रिया में उपस्थित है। जब मन प���री तरह से परमात्मा के साथ मिल जाता है, तब इस एकता का कोई अंत नहीं होता। यह भक्ति और आत्मा के मिलन की अवस्था को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.819Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1dfadf85-19c3-4f8c-9832-7e1a00f14bbf",
+  "name": "लगी लगन छूटे नाहिं, जीभ-चोंच जरि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Once attached, it is hard to leave. The tongue burns like a beak. How can sweetness be found in embers, where a parrot would chew?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लगी लगन छूटे नाहिं, जीभ-चोंच जरि जाय।\nमीठा कहाँ अंगार में, जाहि चकोर चबाय।।४०।।",
+    "translation": "Once attached, it is hard to leave. The tongue burns like a beak. How can sweetness be found in embers, where a parrot would chew?",
+    "meaning": "एक बार लगन लग जाए तो छोड़ना मुश्किल हो जाता है। जीभ की तरह चोंच जलती है। अंगार में मिठास कैसे हो सकती है, जहां चकोर चबाता है।",
+    "explanation": "इस दोहे में संत कबीर संसारिक लगाव औरattachment की कठिनाई को व्यक्त करते हैं। जब किसी चीज के प्रति लगाव हो जाता है, तो उसे छोड़ना कठिन होता है। यह दोहा यह भी बताता है कि जैसे अंगार में मिठास नहीं हो सकती, वैसे ही हमें उन वस्तुओं की खोज करनी चाहिए जो सच्ची और सारगर्भित हों।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

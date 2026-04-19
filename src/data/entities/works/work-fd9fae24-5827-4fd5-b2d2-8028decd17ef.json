@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd9fae24-5827-4fd5-b2d2-8028decd17ef",
+  "name": "कबिरा भूलि बिगारिया, तू ना कर मैला चित्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir has made a mistake and ruined himself; do not make your heart dirty. O Lord, what is needed is humility, not continuous defilement.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा भूलि बिगारिया, तू ना कर मैला चित्त।\nसाहब गरुवा चाहिये, नफर बिगारो नित्त।।२१८७।।",
+    "translation": "Kabir has made a mistake and ruined himself; do not make your heart dirty. O Lord, what is needed is humility, not continuous defilement.",
+    "meaning": "कबीर ने गलती की है और खुद को बिगाड़ लिया है; कृपया अपने दिल को गंदा न करें। हे साहब, जो चाहिए वह विनम्रता है, निरंतर मैल नहीं।",
+    "explanation": "इस दोहे में कबीर ने अपनी गलती और आत्म-निंदा की बात की है, और भगवान से प्रार्थना की है कि वे अपने दिल को गंदा न करें। उन्होंने विनम्रता की आवश्यकता पर बल दिया है, और निरंतर आत्म-निंदा को छोड़ने की सलाह दी है। यह दोहा सच्ची विनम्रता और आत्म-सुधार के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.731Z"
+  }
+}

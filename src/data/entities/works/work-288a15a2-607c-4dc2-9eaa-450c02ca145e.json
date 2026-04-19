@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-288a15a2-607c-4dc2-9eaa-450c02ca145e",
+  "name": "हंसा मोति बिकनिया, कंचन थार भराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan sells pearls and fills its golden dish. What can be done for someone who does not recognize its value?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसा मोति बिकनिया, कंचन थार भराय।\nजो जाको मम न जाने, सो ताको काह कराय।।१७१०।।",
+    "translation": "The swan sells pearls and fills its golden dish. What can be done for someone who does not recognize its value?",
+    "meaning": "हंस मोतियों को बेचता है और अपने सोने के बर्तन को भरता है। जिसे इसके मूल्य की पहचान नहीं है, उसके लिए क्या किया जा सकता है?",
+    "explanation": "कबीर इस दोहे में मूल्य और पहचान की बात करते हैं। उन्होंने कहा कि असली मूल्य और मूल्यांकन की पहचान नहीं करने वाले को कुछ नहीं किया जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.069Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8663910e-429f-4664-8382-a3cb2dd3f927",
+  "name": "आंगणि बेलि अकासि फल, अण ब्‍यावर का दूध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the courtyard, the vine has heavenly fruit, not the milk of the worldly cow. The hare’s horn is an illusion, just like a barren woman’s son.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आंगणि बेलि अकासि फल, अण ब्‍यावर का दूध।\nससा सींग को धूनहड़ी, रमै बांझ का पूत।।२०३४।।",
+    "translation": "In the courtyard, the vine has heavenly fruit, not the milk of the worldly cow. The hare’s horn is an illusion, just like a barren woman’s son.",
+    "meaning": "आंगन में बेल का फल आकाशीय होता है, न कि worldly गाय का दूध। खरगोश के सींग एक भ्रांति हैं, जैसे कि बाँझ महिला का पुत्र।",
+    "explanation": "इस दोहे में कबीर ने आंगन की बेल के फल को आकाशीय बताया है और worldly दूध के विपरीत बताया है। खरगोश के सींग और बाँझ महिला का पुत्र एक भ्रांति के उदाहरण हैं। यह भौतिक और आध्यात्मिक वास्तविकताओं के अंतर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.810Z"
+  }
+}

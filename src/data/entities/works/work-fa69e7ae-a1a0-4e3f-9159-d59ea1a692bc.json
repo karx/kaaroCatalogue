@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fa69e7ae-a1a0-4e3f-9159-d59ea1a692bc",
+  "name": "कबीर बन बन मैं फिरा, कारणि अपणें राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir roamed through the forests for the sake of his own Ram. Those who are like Ram are able to fulfill all tasks.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर बन बन मैं फिरा, कारणि अपणें राम।\nराम सरीखे जन मिले, तिन सारे सब काम।।२०१२।।",
+    "translation": "Kabir roamed through the forests for the sake of his own Ram. Those who are like Ram are able to fulfill all tasks.",
+    "meaning": "कबीर ने अपने राम के लिए वन-वन भटके। जो लोग राम के समान होते हैं, वे सभी कार्यों को पूरा कर सकते हैं।",
+    "explanation": "इस दोहे में कबीर ने अपने आध्यात्मिक खोज और समर्पण को बताया है। उन्होंने कहा है कि उन्होंने अपने राम के लिए वन-वन घूमे। जो लोग राम के समान होते हैं, वे जीवन के सभी कार्यों को सफलतापूर्वक कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.803Z"
+  }
+}

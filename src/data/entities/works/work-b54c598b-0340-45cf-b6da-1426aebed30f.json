@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b54c598b-0340-45cf-b6da-1426aebed30f",
+  "name": "भेष देख मत भूलिये, बूझि लीजिये ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not be deceived by outward appearance; seek the inner knowledge. True gold is identified only through a proper test.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भेष देख मत भूलिये, बूझि लीजिये ज्ञान।\nबिना कसौटी होत नहीं, कंचन की पहिचान।।३७०।।",
+    "translation": "Do not be deceived by outward appearance; seek the inner knowledge. True gold is identified only through a proper test.",
+    "meaning": "बाहर की शक्ल देखकर मत बहलाइए, आंतरिक ज्ञान को समझिए। सच्चे सोने की पहचान केवल सही कसौटी से होती है।।",
+    "explanation": "इस दोहे में कबीरदास ने बाहरी आभूषणों और दिखावे के बजाय आंतरिक ज्ञान की महत्वपूर्णता को दर्शाया है। जैसे कि सोने की सच्चाई को कसौटी द्वारा ही जाना जा सकता है, वैसे ही सच्चा ज्ञान भी बाहरी रूप से नहीं, बल्कि आंतरिक परीक्षण और समझ से प्राप्त होता है। कबीर ने यह सिखाया है कि सतही दिखावे से परे जाकर वास्तविकता की पहचान करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

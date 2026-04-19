@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f4accb70-8480-4d77-a6cc-4fba632acde4",
+  "name": "सह ही में सत बाटई, रोटी में ते टूक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The truth lies in the presence of good company, not just a piece of bread. Kabir says to the servant, never let the mistake happen.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सह ही में सत बाटई, रोटी में ते टूक।\nकहैं कबीर ता दास को, कबहुँ न आवे चूक।।४५१।।",
+    "translation": "The truth lies in the presence of good company, not just a piece of bread. Kabir says to the servant, never let the mistake happen.",
+    "meaning": "सत्य अच्छे साथ में है, सिर्फ रोटी के टुकड़े में नहीं। कबीर दास को कहते हैं, कभी भी गलती न होने दें।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि वास्तविक सत्य अच्छे संगति और सही मार्ग में छिपा है, न कि केवल भौतिक वस्तुओं जैसे रोटी के टुकड़े में। कबीर सलाह देते हैं कि गलती को कभी भी नहीं दोहराना चाहिए, ताकि जीवन में सच्चाई और अच्छाई बनी रहे। यह दोहा अच्छे संगति और जीवन के नैतिक पहलू को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.194Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-028c447e-ee6c-4f57-9b4f-2e686d0979f3",
+  "name": "मन पंछी तब लगि उडै, विषय वासना मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind, like a bird, keeps flying in the desires of worldly pleasures. Knowledge is like a hawk that snatches the mind when it does not arrive.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन पंछी तब लगि उडै, विषय वासना मांहि।\nज्ञान बाज को झपट में, जब लगि आवै नांहि।।११५६।।",
+    "translation": "The mind, like a bird, keeps flying in the desires of worldly pleasures. Knowledge is like a hawk that snatches the mind when it does not arrive.",
+    "meaning": "मन एक पक्षी की तरह विषयों की इच्छाओं में उड़ता रहता है। ज्ञान बाज की तरह है, जो मन को पकड़ लेता है जब तक वह नहीं आता।",
+    "explanation": "इस दोहे में कबीर ने मन की चंचलता और विषयों की इच्छाओं में उलझे रहने की बात की है। ज्ञान एक शिकारी की तरह है जो मन को सही मार्ग पर लाने का काम करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.968Z"
+  }
+}

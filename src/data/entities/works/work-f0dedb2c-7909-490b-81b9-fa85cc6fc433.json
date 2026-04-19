@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f0dedb2c-7909-490b-81b9-fa85cc6fc433",
+  "name": "बड़ी बिपति बड़ाई है, नन्‍हा करम से दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Great calamity is indeed a form of greatness, far from small deeds. Stars all remain distinct while the moon and sun are central.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बड़ी बिपति बड़ाई है, नन्‍हा करम से दूर।\nतारे सब न्‍यारे रहें, गहै चंद और सूर।।१२५९।।",
+    "translation": "Great calamity is indeed a form of greatness, far from small deeds. Stars all remain distinct while the moon and sun are central.",
+    "meaning": "बड़ी विपत्ति भी एक प्रकार की बड़ाई है, छोटी-छोटी कर्मों से दूर। जैसे सितारे अलग-अलग रहते हैं लेकिन चंद्रमा और सूरज मुख्य होते हैं।",
+    "explanation": "कबीर जी ने यह दोहा कहा है कि बड़ी विपत्ति भी किसी तरह की बड़ाई का हिस्सा हो सकती है, जो छोटी-छोटी चीजों से अलग होती है। जैसे तारे अलग-अलग होते हैं लेकिन चाँद और सूरज विशेष स्थान पर होते हैं, उसी तरह बड़ी कठिनाइयाँ महत्वपूर्ण होती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.542Z"
+  }
+}

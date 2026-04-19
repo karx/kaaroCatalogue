@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-559b8e61-881a-4ca3-802f-12265dece468",
+  "name": "जा दिन कृतम ना हुता, होता हट न पट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If the day of creation had not occurred, there would be no space or earth. Kabir says that there would only be the people of Ram (God), who see beyond the material world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा दिन कृतम ना हुता, होता हट न पट।\nहुता कबीरा राम जन, जिनि देखै औघट घट।।१८०७।।",
+    "translation": "If the day of creation had not occurred, there would be no space or earth. Kabir says that there would only be the people of Ram (God), who see beyond the material world.",
+    "meaning": "अगर सृष्टि का दिन न होता, तो न तो कोई स्थान होता और न ही पृथ्वी। कबीर कहते हैं कि केवल राम के भक्त ही होते, जो भौतिक संसार से परे देख सकते हैं।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि अगर सृष्टि का आरंभ न हुआ होता, तो केवल भगवान के भक्त ही होते, जो भौतिक संसार की सीमाओं को पार कर सकते हैं। यह दोहा धार्मिक दृष्टिकोण से भौतिक सृष्टि के अस्तित्व की सीमाओं को उजागर करता है और आध्यात्मिक सच्चाई की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.623Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-34f842cf-38e9-4e8f-b20b-4d684b88f154",
+  "name": "कबीर नाव तो झांझरि, भरी बिराने भार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the boat is leaky, and it's overloaded. Without knowing the boatman, how will you cross over?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर नाव तो झांझरि, भरी बिराने भार।\nखेवट सों परिच नहीं, क्‍यौंकर उतरै पार।।८५९।।",
+    "translation": "Kabir, the boat is leaky, and it's overloaded. Without knowing the boatman, how will you cross over?",
+    "meaning": "कबीर, नाव तो टूटी हुई है, और यह ओवरलोडेड है। मल्लाह को जाने बिना, आप पार कैसे करेंगे?",
+    "explanation": "इस दोहे में कबीर आत्मज्ञान की ओर इशारा करते हैं। बिना आत्मज्ञान और सतगुरु की पहचान के, सांसारिक दुखों से पार पाना कठिन है। आत्मज्ञान के बिना, हम जीवन की कठिनाइयों से पार नहीं पा सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.349Z"
+  }
+}

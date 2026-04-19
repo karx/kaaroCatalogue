@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-28f4f5ea-6065-4ddf-8dcc-d72b007901ff",
+  "name": "माया तजी तो क्‍या भया, मान तजा नहिं जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What has been achieved by renouncing illusion if pride is not abandoned? Even the greatest sages are consumed by pride.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया तजी तो क्‍या भया, मान तजा नहिं जाय।\nमान मड़े मुनिवर गले, मान सबन को खाय।।१२६७।।",
+    "translation": "What has been achieved by renouncing illusion if pride is not abandoned? Even the greatest sages are consumed by pride.",
+    "meaning": "अगर गर्व को नहीं छोड़ा जाए, तो माया को छोड़ने का क्या लाभ है? यहाँ तक कि सबसे बड़े मुनिवर भी गर्व से ग्रसित होते हैं।",
+    "explanation": "कबीर जी के अनुसार, माया या सांसारिक चीजों को छोड़ने का कोई मतलब नहीं है अगर गर्व और अहंकार को नहीं छोड़ा जाए। यहाँ तक कि महान मुनिवर भी गर्व से प्रभावित होते हैं, जो कि एक महत्वपूर्ण मुद्दा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.544Z"
+  }
+}

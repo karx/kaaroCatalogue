@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-96199dca-45e5-4015-87a3-fc8842ad5775",
+  "name": "नहाये धोये क्‍या भया, जो मन मैल न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of bathing and cleaning if the mind's impurity remains? Even though the fish lives in water, it still smells.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नहाये धोये क्‍या भया, जो मन मैल न जाय।\nमीन सदा जल में रहै, धोये बास न जाय।।१३७८।।",
+    "translation": "What is the use of bathing and cleaning if the mind's impurity remains? Even though the fish lives in water, it still smells.",
+    "meaning": "नहाने-धोने से क्या लाभ, अगर मन की मैल नहीं जाती? जैसे मछली सदा जल में रहती है, फिर भी उसकी गंध नहीं जाती।",
+    "explanation": "कबीर इस दोहे में बाहरी शुद्धि और आंतरिक शुद्धि के बीच अंतर को दर्शाते हैं। वे कहते हैं कि केवल शरीर को धोने से कुछ नहीं होता अगर मन अशुद्ध बना रहता है। जैसे मछली पानी में रहती है, लेकिन उसकी गंध नहीं जाती, वैसे ही बाहरी स्वच्छता का कोई मतलब नहीं अगर अंदर से व्यक्ति पवित्र नहीं है। यह दोहा हमें सच्चे आत्मशुद्धि की आवश्यकता पर बल देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.088Z"
+  }
+}

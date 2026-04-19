@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2ac4d5c6-a1c4-4461-bc0b-1f8ac9e20358",
+  "name": "साधु सती और शूरमां, इनकी बात अगाध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The words of saints, virtuous ones, and warriors are profound. Those who renounce bodily desires find greater fulfillment in them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सती और शूरमां, इनकी बात अगाध।\nआशा छोडे देहकी, तिनमें अधिका साध।।२०९५।।",
+    "translation": "The words of saints, virtuous ones, and warriors are profound. Those who renounce bodily desires find greater fulfillment in them.",
+    "meaning": "साधु, सती और वीर की बातें गहरी होती हैं। जो लोग शारीरिक इच्छाओं को छोड़ देते हैं, उन्हें इनमें अधिक संतोष मिलता है।",
+    "explanation": "इस दोहे में कबीर साधु, सती और वीर की बातों की गहराई को दर्शाते हैं। ये लोग अपनी बातों में एक गहरी समझ और ज्ञान रखते हैं। जब व्यक्ति अपने शारीरिक इच्छाओं और संसारिक मोह को छोड़ देता है, तब उसे इन लोगों की शिक्षाओं से अधिक लाभ होता है। यह दोहा आत्म-संयम और साधना के महत्व को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.099Z"
+  }
+}

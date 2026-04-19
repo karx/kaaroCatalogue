@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4d5fedc5-345b-4bb8-9841-6697f7358b15",
+  "name": "सांचै कोई पतीयई, झूठे जग पतियाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one believes in the truth, but falsehood is widely accepted. A cloth worth five rupees is sold for seven rupees.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांचै कोई पतीयई, झूठे जग पतियाय।\nपांच टका की धोपटी, सात टके बिक जाय।।१४१६।।",
+    "translation": "No one believes in the truth, but falsehood is widely accepted. A cloth worth five rupees is sold for seven rupees.",
+    "meaning": "सच्चाई पर कोई विश्वास नहीं करता, लेकिन झूठ को आसानी से स्वीकार कर लिया जाता है। पांच रुपये की कपड़ा सात रुपये में बिक जाता है।",
+    "explanation": "कबीर इस दोहे में सच्चाई की अवहेलना और झूठ की स्वीकृति को दर्शाते हैं। वे बताते हैं कि लोग सच्चाई को मान्यता नहीं देते, जबकि झूठ को आसानी से स्वीकार कर लेते हैं। इसका उदाहरण देते हुए वे कहते हैं कि पांच रुपये की कीमत का कपड़ा सात रुपये में बिकता है, जिससे यह स्पष्ट होता है कि झूठ को अधिक मूल्य दिया जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.361Z"
+  }
+}

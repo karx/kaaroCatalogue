@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1bd63560-65b7-4dbb-ab3f-373afd6f2efd",
+  "name": "नाम जपत दरिद्री भला, टूटी घर की छान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chanting the name is better for the poor than a broken roofed house. Gold temples are of no use where there is no knowledge of the true Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाम जपत दरिद्री भला, टूटी घर की छान।\nकंचन मन्दिर जारि दे, जहां न सतगुरु ज्ञान।।७४२।।",
+    "translation": "Chanting the name is better for the poor than a broken roofed house. Gold temples are of no use where there is no knowledge of the true Guru.",
+    "meaning": "नाम का जाप दरिद्रता से भरे व्यक्ति के लिए भी अच्छा है, भले ही उसका घर टूटा हुआ हो। जहां सतगुरु का ज्ञान नहीं है, वहां सोने के मंदिर भी बेकार हैं।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि नाम का जाप करना दरिद्रता में भी लाभकारी है, और इसका महत्व किसी भी भौतिक संपत्ति से अधिक है। यदि किसी स्थान पर सतगुरु का ज्ञान नहीं है, तो वहां सोने के मंदिर भी महत्वहीन हैं। नाम का जाप और सतगुरु का ज्ञान वास्तविक समृद्धि की कुंजी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

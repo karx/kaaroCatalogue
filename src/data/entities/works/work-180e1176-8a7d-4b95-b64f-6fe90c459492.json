@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-180e1176-8a7d-4b95-b64f-6fe90c459492",
+  "name": "नव मन दुग्‍ध बटोरिके, टिपके भया विनास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "New milk gathered, but it turns to ruin. The milk turned sour and curdled, leading to the destruction of even ghee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नव मन दुग्‍ध बटोरिके, टिपके भया विनास।\nदूध फाटि कांजी भया, हुआ घृतहु को नास।।१५७५।।",
+    "translation": "New milk gathered, but it turns to ruin. The milk turned sour and curdled, leading to the destruction of even ghee.",
+    "meaning": "नया दूध इकट्ठा किया, लेकिन वह खराब हो गया। दूध खट्टा हो गया और दही बन गया, जिससे घी का भी नाश हो गया।",
+    "explanation": "कबीर इस दोहे में नए प्रयासों की अस्थिरता की बात कर रहे हैं। उन्होंने कहा कि नया दूध इकट्ठा करने से जब वह खराब हो जाता है, तो उसका परिणाम केवल दही नहीं होता, बल्कि घी का भी नाश होता है। यह दोहा इस बात की ओर इशारा करता है कि नए प्रयासों में सतर्कता और सही दिशा की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.209Z"
+  }
+}

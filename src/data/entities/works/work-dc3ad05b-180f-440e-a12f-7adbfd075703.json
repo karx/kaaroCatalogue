@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc3ad05b-180f-440e-a12f-7adbfd075703",
+  "name": "काजी-मुल्ला भ्रमियां, चल्या युनीं कै साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The clerics and scholars wander around with their followers. They forget the essence of faith and only focus on rituals.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजी-मुल्ला भ्रमियां, चल्या युनीं कै साथ।\nदिल थे दीन बिसारियां, करद लई जब हाथ।।१८४।।",
+    "translation": "The clerics and scholars wander around with their followers. They forget the essence of faith and only focus on rituals.",
+    "meaning": "काजी और मुल्ला अपने अनुयायियों के साथ भ्रमित रहते हैं। वे धर्म का सार भूल जाते हैं और केवल अनुष्ठानों पर ध्यान केंद्रित करते हैं।",
+    "explanation": "इस दोहे में कबीर ने धार्मिक पाखंड और कर्तव्यहीनता को उजागर किया है। उन्होंने बताया है कि धार्मिक विद्वान और धर्मगुरु अपने अनुयायियों को भ्रमित करते हैं और धर्म की वास्तविकता को छोड़कर केवल बाहरी अनुष्ठानों पर ध्यान केंद्रित करते हैं। सच्चे धर्म का सार समझना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

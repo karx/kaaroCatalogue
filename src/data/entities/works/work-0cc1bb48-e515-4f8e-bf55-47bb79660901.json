@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0cc1bb48-e515-4f8e-bf55-47bb79660901",
+  "name": "सुखिया सब संसार है, खयै अरु सोवै",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The entire world is happy, eating and sleeping. The unfortunate servant Kabir is awake and weeping.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुखिया सब संसार है, खयै अरु सोवै।\nदुखिया दास कबीर है, जागै अरु रोवै।।१७८०।।",
+    "translation": "The entire world is happy, eating and sleeping. The unfortunate servant Kabir is awake and weeping.",
+    "meaning": "पूरा संसार सुखी है, खा रहा है और सो रहा है। दुखी दास कबीर जाग रहा है और रो रहा है।",
+    "explanation": "इस दोहे में कबीर ने संसार की सुख-सुविधाओं और उनकी अपनी पीड़ा की तुलना की है। जहां पूरा संसार सुख और आराम में है, वहीं कबीर खुद दुखी हैं, जागते और रोते हैं। यह दोहा कबीर के दुखी और जागरूक जीवन के बीच के अंतर को स्पष्ट करता है और संसार की स्थिति के प्रति उनकी असंतोष की भावना को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.352Z"
+  }
+}

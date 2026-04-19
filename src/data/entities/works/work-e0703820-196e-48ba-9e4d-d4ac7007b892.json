@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0703820-196e-48ba-9e4d-d4ac7007b892",
+  "name": "मूरख संग न कीजिये, लोहा जलि न तिराइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not associate with fools, who cannot be purified by fire. They are like the fruit of a banana, a shell, or a snake's mouth; a single drop is their worth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूरख संग न कीजिये, लोहा जलि न तिराइ।\nकदली-सीप-भुजगं मुख, एक बूंद तिहँ भाइ।।१९५।।",
+    "translation": "Do not associate with fools, who cannot be purified by fire. They are like the fruit of a banana, a shell, or a snake's mouth; a single drop is their worth.",
+    "meaning": "मूर्खों के साथ न रहें, जो आग से शुद्ध नहीं हो सकते। वे केले के फल, सीप, या नाग के मुँह जैसे होते हैं; एक बूंद भी उनके योग्य नहीं होती।",
+    "explanation": "इस दोहे में कबीर ने मूर्खों के साथ संगति करने के खतरों को उजागर किया है। उन्होंने कहा है कि मूर्ख व्यक्ति किसी भी सुधार या शुद्धि के योग्य नहीं होते और उनकी संगति से केवल हानि होती है। इस प्रकार, उनके साथ समय बर्बाद करना उचित नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a2509cf-c431-46c7-90c3-df0dd98353e0",
+  "name": "जो सुख को मुनिवर रटैं, सुन नर करै विलाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who recite the happiness of ascetics will lament in life. True happiness is obtained effortlessly through association with saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो सुख को मुनिवर रटैं, सुन नर करै विलाप।\nसो सुख सहजै पाइया, सन्‍तों संगति आप।।५८२।।",
+    "translation": "Those who recite the happiness of ascetics will lament in life. True happiness is obtained effortlessly through association with saints.",
+    "meaning": "जो लोग तपस्वियों की खुशी का जाप करते हैं, वे जीवन में विलाप करते हैं। सच्चा सुख बिना मेहनत के संतों की संगति से प्राप्त होता है।",
+    "explanation": "संतों की संगति में सच्चा सुख प्राप्त होता है। लोग जो केवल तपस्वियों के बारे में बात करते हैं और उनकी खुशी की चर्चा करते हैं, वे खुद सुख की कमी महसूस करते हैं। असली सुख संतों के साथ समय बिताने से मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

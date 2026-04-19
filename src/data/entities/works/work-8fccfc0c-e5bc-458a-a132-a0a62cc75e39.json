@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8fccfc0c-e5bc-458a-a132-a0a62cc75e39",
+  "name": "कबीर कहा गरबियौ, काल कहै कर केस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, why be proud? Death may strike you anytime, anywhere, and in any foreign land.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कहा गरबियौ, काल कहै कर केस।\nना जाणै कहाँ मारिसी, कै धरि के परदेस।।२११।।",
+    "translation": "Kabir says, why be proud? Death may strike you anytime, anywhere, and in any foreign land.",
+    "meaning": "कबीर कहते हैं, गर्व क्यों करो? मृत्यु कहीं भी, किसी भी समय तुम्हें मार सकती है, चाहे तुम किसी भी देश में हो।",
+    "explanation": "कबीर इस दोहे में गर्व और अहंकार का त्याग करने की शिक्षा देते हैं। वे समझाते हैं कि मृत्यु अनिश्चित है और किसी भी समय, किसी भी स्थान पर आ सकती है। इसलिए हमें अपने जीवन में विनम्रता और सद्गुणों को अपनाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

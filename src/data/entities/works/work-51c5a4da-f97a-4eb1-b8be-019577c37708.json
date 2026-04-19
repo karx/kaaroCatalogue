@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-51c5a4da-f97a-4eb1-b8be-019577c37708",
+  "name": "साँईं ते सब होत है, बन्दे ते कछु नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everything comes from the Divine; nothing comes from individuals. A mountain is made from a mustard seed, and a mustard seed is within the mountain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साँईं ते सब होत है, बन्दे ते कछु नाहिं।\nराई ते पर्वत करे, पर्वत राई माहिं।।८६।।",
+    "translation": "Everything comes from the Divine; nothing comes from individuals. A mountain is made from a mustard seed, and a mustard seed is within the mountain.",
+    "meaning": "सभी कुछ दिव्य से उत्पन्न होता है; व्यक्तियों से कुछ भी नहीं आता। एक पहाड़ एक राई से बना होता है, और राई पहाड़ में मौजूद होती है।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि सब कुछ दिव्य शक्ति या परमात्मा से उत्पन्न होता है, और कोई भी व्यक्ति स्वतंत्र रूप से कुछ भी उत्पन्न नहीं कर सकता। राई का एक छोटा सा बीज पहाड़ बना सकता है, और पहाड़ में वही राई मौजूद रहती है। इसका अर्थ है कि सभी वस्तुएं और शक्तियाँ एक ही स्रोत से आती हैं और अंततः उसी में समाहित होती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e78c07c-eb11-404b-91b6-2beadc696721",
+  "name": "कबीर देखत दिन गया, निस भी देखत जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir sees the day go by, and the night also passes. The longing of separation does not end, the heart keeps burning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर देखत दिन गया, निस भी देखत जाइ।\nबिरहणि पिव पावै नहीं, जियरा तलपैं माइ।।१७६९।।",
+    "translation": "Kabir sees the day go by, and the night also passes. The longing of separation does not end, the heart keeps burning.",
+    "meaning": "कबीर दिन को बीतते हुए देखते हैं, और रात भी गुजर जाती है। विरह की तड़प समाप्त नहीं होती, दिल जलता रहता है।",
+    "explanation": "इस दोहे में कबीर ने विरह की निरंतर पीड़ा को स्पष्ट किया है। वे दिन और रात की निरंतरता के बावजूद, विरह की भावना को समाप्त नहीं मानते हैं। यह दोहा दर्शाता है कि सच्चे प्रेम में विरह की पीड़ा और तड़प स्थायी होती है, और व्यक्ति का दिल हमेशा जलता रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.348Z"
+  }
+}

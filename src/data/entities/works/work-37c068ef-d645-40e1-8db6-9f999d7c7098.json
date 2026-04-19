@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-37c068ef-d645-40e1-8db6-9f999d7c7098",
+  "name": "पाहन पूजै हरि मिलै, तो मैं पूजूं पहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If God could be found by worshipping a stone, then I'd worship a mountain. Better to use a millstone and feed the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाहन पूजै हरि मिलै, तो मैं पूजूं पहार।\nताते तो चक्‍की भली, पीसि खाय संसार।।���३५८।।",
+    "translation": "If God could be found by worshipping a stone, then I'd worship a mountain. Better to use a millstone and feed the world.",
+    "meaning": "अगर पत्थर की पूजा से भगवान मिल सकते हैं, तो मैं पहाड़ की पूजा करूंगा। इससे बेहतर है कि चक्की का उपयोग करके दुनिया को खिलाया जाए।",
+    "explanation": "इस दोहे में कबीर जी मूर्ति पूजा पर कटाक्ष करते हैं। वे कहते हैं कि अगर भगवान पत्थर की मूर्ति की पूजा से मिल सकते हैं, तो पहाड़ की पूजा करना बेहतर होगा, क्योंकि वह और भी बड़ा है। परंतु कबीर का संदेश यह है कि मूर्ति पूजा से बेहतर है, चक्की जैसी वस्तुओं का सही उपयोग करना जो समाज के लिए लाभदायक हो। यह दोहा हमें व्यर्थ की आडंबर और मूर्ति पूजा से दूर रहने और सार्थक कार्य करने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.083Z"
+  }
+}

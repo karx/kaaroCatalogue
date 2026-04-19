@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-37faea1a-21c2-4b62-9fca-6d13c624774e",
+  "name": "बाजीगर के वानरा, जियरा मन के साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The monkeys of the magician, along with the heart and mind. The mind is like the ocean; where it goes, no one knows.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाजीगर के वानरा, जियरा मन के साथ।\nमन सायर समुद्र है, वहि कतहूं जानि जाय।।१६५५।।",
+    "translation": "The monkeys of the magician, along with the heart and mind. The mind is like the ocean; where it goes, no one knows.",
+    "meaning": "जादूगर के बंदर, दिल और मन के साथ। मन समुद्र की तरह होता है; वह कहाँ जाता है, कोई नहीं जानता।",
+    "explanation": "कबीर इस दोहे में मन की अनिश्चितता और उसकी व्यापकता को दर्शाते हैं। उन्होंने कहा कि मन समुद्र के समान गहरा और अनजान होता है, जहाँ वह जाएगा, कोई नहीं जानता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.784Z"
+  }
+}

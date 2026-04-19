@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-706cefd4-0380-4434-870b-26c7bfffaea4",
+  "name": "जिन पर सांच पिछानिया, करता केवल सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who recognize the truth and focus only on its essence, why would they follow the falsehoods of their lineage?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिन पर सांच पिछानिया, करता केवल सार।\nसो प्रानी काहे चले, झूठै कुल की लार।।१४१३।।",
+    "translation": "Those who recognize the truth and focus only on its essence, why would they follow the falsehoods of their lineage?",
+    "meaning": "जो व्यक्ति सच्चाई को पहचानता है और केवल उसकी सार्थकता पर ध्यान केंद्रित करता है, वह अपने कुल की झूठी बातों का पालन क्यों करेगा?",
+    "explanation": "कबीर इस दोहे में उन लोगों की बात करते हैं जो सच्चाई को समझते हैं और इसके केवल सार पर ध्यान केंद्रित करते हैं। वे सवाल करते हैं कि ऐसे व्यक्ति अपने कुल की झूठी मान्यताओं का पालन क्यों करेंगे। यह दोहा सच्चाई की गहराई को समझने और झूठ से परे जाने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.360Z"
+  }
+}

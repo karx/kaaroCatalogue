@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-87b15044-4e83-4f3d-8548-f910dd6f938c",
+  "name": "चतुराई हरि ना मिलै, ए बातां की बात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Cleverness won't bring you Hari; it's all talk. Only Gopinath is the buyer of the truly surrendered soul.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चतुराई हरि ना मिलै, ए बातां की बात।\nएक निस प्रेही निरधार का, गाहक गोपीनाथ।।२२२।।",
+    "translation": "Cleverness won't bring you Hari; it's all talk. Only Gopinath is the buyer of the truly surrendered soul.",
+    "meaning": "चतुराई से हरि नहीं मिलते; यह सब बातें ही हैं। केवल गोपीनाथ ही सच्ची भक्ति से समर्पित आत्मा के ग्राहक हैं।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि भगवान की प्राप्ति चतुराई से नहीं होती। यह केवल बातें बनाने से संभव नहीं है। भगवान गोपीनाथ (कृष्ण) सिर्फ उसी को स्वीकार करते हैं, जो पूरी तरह से उनके प्रति समर्पित होता है। सच्ची भक्ति के लिए चालाकी और चतुराई नहीं, बल्कि पूर्ण समर्पण चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

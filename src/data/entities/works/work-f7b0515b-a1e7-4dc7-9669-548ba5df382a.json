@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7b0515b-a1e7-4dc7-9669-548ba5df382a",
+  "name": "बिना सांच सुमिरन नहीं, बिन भेदी भक्ति न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without true remembrance, there is no devotion. Without understanding the essence, devotion cannot be achieved. Even if gold is hidden in iron, it remains iron.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिना सांच सुमिरन नहीं, बिन भेदी भक्ति न होय।\nपारस में परदा रहा, कस लोहा कंचन होय।।७३०।।",
+    "translation": "Without true remembrance, there is no devotion. Without understanding the essence, devotion cannot be achieved. Even if gold is hidden in iron, it remains iron.",
+    "meaning": "सच्चे स्मरण के बिना भक्ति नहीं होती। बिना सार को समझे भक्ति प्राप्त नहीं होती। यदि सोना भी लोहे में छिपा हो, तो वह लोहे जैसा ही रहेगा।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि सच्चे स्मरण और सही समझ के बिना भक्ति अधूरी होती है। अगर किसी वस्तु में महत्वपूर्ण गुण छिपा हो, जैसे सोना लोहे में छिपा हो, तो वह गुण प्रकट नहीं हो सकता। इसलिए भक्ति और समर्पण के लिए सच्चे ज्ञान और समझ की आवश्यकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.544Z"
+  }
+}

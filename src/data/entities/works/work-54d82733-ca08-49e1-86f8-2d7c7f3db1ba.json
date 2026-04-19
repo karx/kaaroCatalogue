@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-54d82733-ca08-49e1-86f8-2d7c7f3db1ba",
+  "name": "Sur Sagar",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-surdas"
+  },
+  "inLanguage": "Braj Bhasha",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Sur_Sagar",
+    "retrievedAt": "2026-01-04T18:39:11.792Z"
+  }
+}

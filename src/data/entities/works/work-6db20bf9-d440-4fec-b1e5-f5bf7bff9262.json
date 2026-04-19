@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6db20bf9-d440-4fec-b1e5-f5bf7bff9262",
+  "name": "दया का लच्‍छन भक्ति है, भक्ति से होवै ध्‍यान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Compassion leads to devotion, devotion leads to meditation. Meditation brings knowledge, this is the ultimate principle.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया का लच्‍छन भक्ति है, भक्ति से होवै ध्‍यान।\nध्‍यान से मिलता ज्ञान है, यह सिद्धान्‍त उरान।।१३९६।।",
+    "translation": "Compassion leads to devotion, devotion leads to meditation. Meditation brings knowledge, this is the ultimate principle.",
+    "meaning": "दया का लक्षण भक्ति है, भक्ति से ध्यान होता है। ध्यान से ज्ञान मिलता है, यही सर्वोच्च सिद्धांत है।",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक साधना के मार्ग को दर्शाते हैं। वे कहते हैं कि दया से भक्ति उत्पन्न होती है, भक्ति से ध्यान की प्राप्ति होती है, और ध्यान से ज्ञान का प्रकाश मिलता है। यह दोहा आत्मज्ञान की ओर बढ़ने की प्रक्रिया को सरल और स्पष्ट रूप से समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.092Z"
+  }
+}

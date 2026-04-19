@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9ae67927-80de-4a04-85ad-47419248d3af",
+  "name": "सद्गुरु ऐसा कीजिये, लोभ मोह भ्रम नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Find a true Guru who is free from greed, attachment, and delusion. Such a Guru is like a river that remains distinct yet appears within the ocean.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सद्गुरु ऐसा कीजिये, लोभ मोह भ्रम नाहिं।\nदरिया सो न्यारा रहे, दीसे दरिया माहि।।२८२।।",
+    "translation": "Find a true Guru who is free from greed, attachment, and delusion. Such a Guru is like a river that remains distinct yet appears within the ocean.",
+    "meaning": "ऐसे सच्चे गुरु को ढूंढें जो लोभ, मोह और भ्रम से मुक्त हो। ऐसा गुरु उस नदी की तरह है जो सागर में समाहित होकर भी अलग दिखाई देता है।",
+    "explanation": "इस दोहे में कबीर सच्चे गुरु की विशेषताओं को बताते हैं। वे कहते हैं कि सच्चा गुरु वही है जो लोभ, मोह, और भ्रम से रहित हो। ऐसा गुरु भले ही संसार में रहता हो, लेकिन वह संसार से प्रभावित नहीं होता। उसकी स्थिति उस नदी के समान है जो सागर में समाहित होकर भी अपनी पहचान बनाए रखती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

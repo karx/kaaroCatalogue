@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b66ce5bc-ebfb-4d16-b2ab-c66d821cba86",
+  "name": "कबीर माया बेसवा, दोनूं की इक जात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is a courtesan, of the same class as both the high and the low. It shows respect to those who come, but does not understand the essence of one's nature.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया बेसवा, दोनूं की इक जात।\nआंवत को आदर करैं, जात न बूझ बात।।११९५।।",
+    "translation": "Kabir says, illusion is a courtesan, of the same class as both the high and the low. It shows respect to those who come, but does not understand the essence of one's nature.",
+    "meaning": "कबीर कहते हैं, माया एक बेसवा है, जो उच्च और नीच दोनों की समान जाति की होती है। यह आने वालों को आदर दिखाती है, लेकिन व्यक्ति की असली प्रकृति को नहीं समझती।",
+    "explanation": "इस दोहे में कबीर ने माया की तुलना एक बेसवा से की है जो हर किसी के लिए समान है, चाहे वे उच्च हों या नीच। माया सभी को सम्मान देती है लेकिन व्यक्ति की वास्तविक स्वभाव को नहीं समझती है। यह माया के सतही और भ्रमित करने वाले स्वभाव को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.975Z"
+  }
+}

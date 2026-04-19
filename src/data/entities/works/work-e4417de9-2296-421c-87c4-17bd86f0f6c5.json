@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4417de9-2296-421c-87c4-17bd86f0f6c5",
+  "name": "सात समुंद की मसि करौं, लेखनि सब बनराइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if I turn the seven seas into ink and all the wood into pens, even if I use the entire earth as paper, I still cannot write all the virtues of my Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सात समुंद की मसि करौं, लेखनि सब बनराइ।\nधरती सब कागद करौं, तऊ गरू गुण लिख्‍या न जाइ।।१८९९।।",
+    "translation": "Even if I turn the seven seas into ink and all the wood into pens, even if I use the entire earth as paper, I still cannot write all the virtues of my Guru.",
+    "meaning": "यदि मैं सात समुद्रों को स्याही बना दूं और सभी लकड़ियों को कलम, और पूरी पृथ्वी को कागज बना दूं, तब भी मैं अपने गुरु के गुणों को नहीं लिख सकता।",
+    "explanation": "इस दोहे में कबीरदास जी गुरु के महत्व और उनकी महानता को व्यक्त करते हैं। वे कहते हैं कि चाहे उनके पास कितनी भी सामग्री क्यों न हो, वह अपने गुरु के गुणों का वर्णन नहीं कर सकते। यह दोहा गुरु के प्रति कृतज्ञता और उनके अपार ज्ञान और गुणों के प्रति आदर का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.979Z"
+  }
+}

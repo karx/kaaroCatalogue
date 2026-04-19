@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-18f03454-f453-4bf1-9faa-c846ad72fe83",
+  "name": "काबा फिर कासी भया, राम भया रहीम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Kaaba became Kashi, Ram became Rahim. Flour, sugar, and bread are present; Kabir sits and eats.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काबा फिर कासी भया, राम भया रहीम।\nमोट चून मैदा भया, बैठि कबीरा जीम।।१८५४।।",
+    "translation": "The Kaaba became Kashi, Ram became Rahim. Flour, sugar, and bread are present; Kabir sits and eats.",
+    "meaning": "काबा काशी हो गया, राम रहीम बन गए। आटा, चीनी और ब्रेड मौजूद हैं; कबीर बैठकर खाता है।",
+    "explanation": "इस दोहे में कबीर ने धार्मिक स्थलों और नामों के परिवर्तन की बात की है। वे बताते हैं कि धार्मिक स्थल और नाम जैसे काबा और काशी, या भगवान के नाम जैसे राम और रहीम, केवल बाहरी रूप होते हैं। असली महत्व भीतर के आहार और साधना का है। कबीर का तात्पर्य है कि भौतिक वस्त्र और धार्मिक स्थानों से ज्यादा महत्वपूर्ण है आत्मिक संतोष और साधना।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.967Z"
+  }
+}

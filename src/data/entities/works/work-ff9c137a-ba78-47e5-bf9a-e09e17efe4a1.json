@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ff9c137a-ba78-47e5-bf9a-e09e17efe4a1",
+  "name": "दुनिया सेती दोसती, होय भजन में भंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Friendship with the world causes disruption in devotion. True unity is with Ram alone, and with the company of the saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुनिया सेती दोसती, होय भजन में भंग।\nएका एकी राम सों, कै साधुन के संग।।८४०।।",
+    "translation": "Friendship with the world causes disruption in devotion. True unity is with Ram alone, and with the company of the saints.",
+    "meaning": "दुनिया के साथ दोस्ती से भक्ति में विघ्न आता है। सच्ची एकता केवल राम के साथ है और संतों के संग है।",
+    "explanation": "इस दोहे में कबीर ने भक्ति और संसारिक मित्रता के बीच के संघर्ष को उजागर किया है। दुनिया के साथ दोस्ती करने से भक्ति में बाधा आती है, क्योंकि सांसारिक जुड़ाव मन की एकाग्रता को भंग कर देता है। सच्ची भक्ति और एकता केवल राम और संतों के साथ होती है, जो आध्यात्मिक मार्ग पर सही दिशा प्रदान करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.081Z"
+  }
+}

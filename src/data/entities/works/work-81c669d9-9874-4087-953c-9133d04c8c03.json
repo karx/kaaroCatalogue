@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-81c669d9-9874-4087-953c-9133d04c8c03",
+  "name": "पायो पर पायो नहीं, हीरा हड्डी मार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Found a jewel but did not find it; it was a bone hit. Says Kabir, thus went, without discerning the fool.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पायो पर पायो नहीं, हीरा हड्डी मार।\nकहे कबीर योंही गयो, परखे बिना गंवार।।२१५८।।",
+    "translation": "Found a jewel but did not find it; it was a bone hit. Says Kabir, thus went, without discerning the fool.",
+    "meaning": "हीरा मिला लेकिन उसका मूल्य नहीं पाया; यह हड्डी से मारा गया था। कबीर कहते हैं कि ऐसे ही गया, बिना समझे मूर्ख।",
+    "explanation": "इस दोहे में कबीर ने यह व्यक्त किया है कि जब हम किसी मूल्यवान वस्तु को सही तरीके से पहचान नहीं पाते, तो हमें उसका वास्तविक महत्व समझ में नहीं आता। हीरा को हड्डी से मारना इसका प्रतीक है कि हमने मूल्यवान वस्तु की सही पहचान नहीं की और अंत में उसे गंवा दिया। यह दोहा यह सिखाता है कि सतर्कता और समझ के बिना हम अपनी मूल्यवान चीज़ें खो सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.722Z"
+  }
+}

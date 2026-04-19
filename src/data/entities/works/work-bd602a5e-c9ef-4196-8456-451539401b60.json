@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bd602a5e-c9ef-4196-8456-451539401b60",
+  "name": "सती जलन कूं नीकली, चित्त धरि एकबमेख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The burning of the wife (in the fire of sacrifice) was proper when the mind was focused solely on the divine. When the body and mind were surrendered to the Lord, no trace of distinction remained.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सती जलन कूं नीकली, चित्त धरि एकबमेख।\nतन मन सौंप्‍या पीव कूं, तब अंतर रही न रेख।।१९२८।।",
+    "translation": "The burning of the wife (in the fire of sacrifice) was proper when the mind was focused solely on the divine. When the body and mind were surrendered to the Lord, no trace of distinction remained.",
+    "meaning": "पत्नी की अग्नि में जलने की प्रक्रिया तब सही थी जब मन पूरी तरह से ईश्वर के प्रति समर्पित था। जब शरीर और मन भगवान को सौंप दिए गए, तब कोई भेदभाव की रेखा नहीं रही।",
+    "explanation": "इस दोहे में कबीरदास जी ने समर्पण और एकनिष्ठता की महत्वपूर्णता को दर्शाया है। जब व्यक्ति अपने तन और मन को पूर्ण रूप से भगवान को सौंप देता है, तब कोई भी भेदभाव की रेखा नहीं रहती। यह सिखाता है कि सच्ची भक्ति और समर्पण में सभी भौतिक भिन्नताओं को पार कर दिया जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.252Z"
+  }
+}

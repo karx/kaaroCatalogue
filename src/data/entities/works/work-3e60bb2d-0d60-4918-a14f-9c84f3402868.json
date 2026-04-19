@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e60bb2d-0d60-4918-a14f-9c84f3402868",
+  "name": "माला पहरयां कुछ नहीं, भगति न आई हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing a rosary achieves nothing, devotion is not attained. Shaving the head and mustache, they follow the ways of the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला पहरयां कुछ नहीं, भगति न आई हाथ।\nमाथौ मूँछ मुंडाइ करि, चल्या जगत् के साथ।।२१९।।",
+    "translation": "Wearing a rosary achieves nothing, devotion is not attained. Shaving the head and mustache, they follow the ways of the world.",
+    "meaning": "माला पहनने से कुछ हासिल नहीं होता, भक्ति हाथ नहीं आती। सिर और मूंछें मुंडाकर, वे संसार के साथ चलते हैं।",
+    "explanation": "कबीर इस दोहे में भक्ति की सच्चाई पर बात करते हैं। वे कहते हैं कि बाहरी आडंबरों से, जैसे माला पहनना और सिर मुंडाना, भक्ति प्राप्त नहीं होती। सच्ची भक्ति मन से होती है, न कि बाहरी दिखावे से। जो लोग केवल संसार की चकाचौंध में चलते हैं, वे सच्ची भक्ति से दूर रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-33f397b1-9de7-445e-a13e-1e81373d4a3f",
+  "name": "दुरबल को न सताइये, जाकी मोटी हाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not oppress the weak, for their deep sighs. The melted wax will turn to ashes with the breath of the lifeless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुरबल को न सताइये, जाकी मोटी हाय।\nबिना जीव की सांस से, लाह भसम ह्वै जाय।।९५८।।",
+    "translation": "Do not oppress the weak, for their deep sighs. The melted wax will turn to ashes with the breath of the lifeless.",
+    "meaning": "दुर्बल को मत सताओ, जिसकी गहरी आह निकलती है। निर्जीव की सांस से पिघली हुई मोम राख में बदल जाती है।",
+    "explanation": "इस दोहे में कबीर दास जी कमजोर और पीड़ित व्यक्ति की पीड़ा का वर्णन कर रहे हैं। वह कहते हैं कि कमजोर व्यक्ति को सताना नहीं चाहिए, क्योंकि उसकी गहरी आह बहुत प्रभावशाली होती है। जिस प्रकार निर्जीव की सांस से मोम पिघल कर राख में बदल जाती है, उसी प्रकार कमजोर व्यक्ति की आह से बड़ा अनर्थ हो सकता है। इसलिए हमें दूसरों पर अत्याचार करने से बचना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.891Z"
+  }
+}

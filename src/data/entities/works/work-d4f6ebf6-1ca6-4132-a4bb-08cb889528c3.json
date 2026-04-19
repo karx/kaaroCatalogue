@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d4f6ebf6-1ca6-4132-a4bb-08cb889528c3",
+  "name": "कबीर इस संसार कौं, समझाऊं कै बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir has tried to explain this world, time and again. But like the one holding a sheep's tail, they wish to cross the ocean.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर इस संसार कौं, समझाऊं कै बार।\nपूछ जू पकडै़ भेड़ की, उतरया चाह पार।।२०७९।।",
+    "translation": "Kabir has tried to explain this world, time and again. But like the one holding a sheep's tail, they wish to cross the ocean.",
+    "meaning": "कबीर ने इस संसार को बार-बार समझाया है। लेकिन वे लोग जो भेड़ की पूंछ पकड़कर नदी पार करना चाहते हैं, वे सफल नहीं हो सकते।",
+    "explanation": "कबीर इस दोहे में लोगों को बार-बार समझाने की कोशिश करते हैं कि सच्चे मार्ग पर चलो, लेकिन लोग भ्रम में पड़े रहते हैं। वे भेड़ की पूंछ पकड़कर नदी पार करने जैसा असंभव प्रयास करते हैं। इस दोहे के माध्यम से कबीर समझाते हैं कि झूठे साधनों से सच्ची मुक्ति नहीं मिल सकती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.095Z"
+  }
+}

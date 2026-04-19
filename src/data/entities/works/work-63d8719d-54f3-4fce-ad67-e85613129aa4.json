@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-63d8719d-54f3-4fce-ad67-e85613129aa4",
+  "name": "नहिं दीन नहिं दीनता, संत नहिं मिहमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there is no humility or humble behavior, where there are no saints or guests, death has made its home there, and the house becomes a living graveyard.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नहिं दीन नहिं दीनता, संत नहिं मिहमान।\nता घर जम डेरा किया, जीवत भया मसान।।१४०२।।",
+    "translation": "Where there is no humility or humble behavior, where there are no saints or guests, death has made its home there, and the house becomes a living graveyard.",
+    "meaning": "जहां न दीनता है, न दीनता का व्यवहार, जहां संत और मेहमान नहीं आते, वहां यमराज ने अपना डेरा डाल लिया है, और वह घर जीवित रहते हुए भी श्मशान बन जाता है।",
+    "explanation": "कबीर इस दोहे में उन घरों की स्थिति का वर्णन करते हैं, जहां विनम्रता और संतों का वास नहीं होता। ऐसे घर में मृत्यु का निवास होता है, और वह घर जीवित रहते हुए भी मृत जैसा हो जाता है। यह दोहा हमें सिखाता है कि विनम्रता और साधुओं की संगति के बिना जीवन सूना और मृतप्राय हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.357Z"
+  }
+}

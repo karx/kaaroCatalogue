@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6ef98d4c-8b7f-4ca0-90b0-b7ffaf7c8ab6",
+  "name": "ऐसा कोई ना मिले, राम भगति का गीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one is found to sing the song of Ram's devotion. Just as a deer surrenders its body and mind, it listens to the hunter's song.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई ना मिले, राम भगति का गीत।\nतन मन सौंपे मृग ज्‍यूं, सुनै बधिक का गीत।।१९६६।।",
+    "translation": "No one is found to sing the song of Ram's devotion. Just as a deer surrenders its body and mind, it listens to the hunter's song.",
+    "meaning": "कोई ऐसा नहीं मिलता जो राम की भक्ति का गीत गा सके। जैसे एक हिरण अपने तन और मन को पूरी तरह से सौंप देता है और शिकारी के गीत को सुनता है।",
+    "explanation": "इस दोहे में कबीर ने राम की भक्ति और समर्पण की बात की है। उन्होंने इसे एक हिरण के उदाहरण से स्पष्ट किया है, जो अपने पूरे अस्तित्व को शिकार के गीत को सुनने के लिए समर्पित कर देता है। यह भक्ति और समर्पण की गहराई को दर्शाता है, जो सच्ची भक्ति में अपेक्षित है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.531Z"
+  }
+}

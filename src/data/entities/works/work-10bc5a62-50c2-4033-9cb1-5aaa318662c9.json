@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-10bc5a62-50c2-4033-9cb1-5aaa318662c9",
+  "name": "नारी कुंड नरक का, बिरला चंभै बाग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A woman is like the pit of hell, only a rare one escapes. A saint may rise above, but the world is entrapped and dying.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नारी कुंड नरक का, बिरला चंभै बाग।\nकोई साधू जन ऊबरै, सब जग मूंवा लाग।।२०५०।।",
+    "translation": "A woman is like the pit of hell, only a rare one escapes. A saint may rise above, but the world is entrapped and dying.",
+    "meaning": "एक स्त्री नरक के कुएं के समान है, जिसमें से बहुत कम ���ोग ही बच पाते हैं। साधु पुरुष ऊबर सकते हैं, लेकिन सारी दुनिया उसमें फंसी हुई है और मर रही है।",
+    "explanation": "कबीर इस दोहे में स्त्री को नरक के कुंड के समान मानते हैं, जिसमें से बहुत कम लोग ही बाहर निकल पाते हैं। केवल साधु पुरुष ही इस आकर्षण से बच सकते हैं, लेकिन बाकी सारी दुनिया इसमें फंसी हुई है और अपने विनाश की ओर बढ़ रही है। कबीर हमें इस चेतावनी के माध्यम से स्त्रियों के प्रति हमारे दृष्टिकोण में सावधानी बरतने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.814Z"
+  }
+}

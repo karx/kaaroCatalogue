@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-876efbc3-4852-4220-8335-48b081f8482d",
+  "name": "अलख इलाही एक है, नाम धराया दोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The divine is one, though names are two. Kabir says, hearing two names creates confusion and doubt.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अलख इलाही एक है, नाम धराया दोय।\nकहै कबीर दो नाम सुनि, भरम परो मति कोय।।२२०४।।",
+    "translation": "The divine is one, though names are two. Kabir says, hearing two names creates confusion and doubt.",
+    "meaning": "अलख इलाही एक है, नाम धराया दोय। कहते हैं कबीर, दो नाम सुनने से भ्रम और संदेह उत्पन्न होता है।",
+    "explanation": "इस दोहे में संत कबीर जी यह स्पष्ट करते हैं कि ईश्वर एक है, लेकिन हमारे भिन्न-भिन्न नामों के कारण भ्रम और संदेह उत्पन्न होता है। वे कहते हैं कि एक ही दिव्य सत्ता को दो नामों से अलग समझना भ्रमकारी है। इस प्रकार, वे एकता की सच्चाई को स्पष्ट करने का प्रयास करते हैं और दो नामों के माध्यम से भ्रम से बचने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.078Z"
+  }
+}

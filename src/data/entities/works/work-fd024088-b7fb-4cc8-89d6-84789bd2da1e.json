@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd024088-b7fb-4cc8-89d6-84789bd2da1e",
+  "name": "तू मति जाने बावरे, मेरा है सब कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Don't be foolish and think that everything is yours. Even your life and body, bound together, are not truly your own.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तू मति जाने बावरे, मेरा है सब कोय।\nप्रान पिण्‍ड सो बंधि रहा, सो नहिं अपना होय।।८८०।।",
+    "translation": "Don't be foolish and think that everything is yours. Even your life and body, bound together, are not truly your own.",
+    "meaning": "बावरे, यह न सोचो कि सब कुछ तुम्हारा है। तुम्हारे जीवन और शरीर, जो एक साथ बंधे हुए हैं, वे भी वास्तव में तुम्हारे नहीं हैं।",
+    "explanation": "कबीर इस दोहे में माया और असत्य मोह से बचने की बात करते हैं। वे समझाते हैं कि व्यक्ति जो कुछ भी अपना मानता है, वह वास्तव में उसका नहीं है, यहाँ तक कि उसका शरीर और जीवन भी। यह संसारिक मोह के अस्थायित्व का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.353Z"
+  }
+}

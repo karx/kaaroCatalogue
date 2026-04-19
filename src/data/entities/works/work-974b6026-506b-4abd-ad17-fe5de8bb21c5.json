@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-974b6026-506b-4abd-ad17-fe5de8bb21c5",
+  "name": "साधु बिहंगम सुरसरी, चले बिहंगम चाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint is like a bird moving freely in a river. Wherever he goes, he makes the place flourish.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु बिहंगम सुरसरी, चले बिहंगम चाल।\nजो जो गलियां नीकसे, सो सो करे निहाल।।६३१।।",
+    "translation": "A saint is like a bird moving freely in a river. Wherever he goes, he makes the place flourish.",
+    "meaning": "संत एक पक्षी की तरह होता है जो स्वतंत्र रूप से बहती नदी में चलता है। जहाँ भी वह जाता है, वहाँ की स्थिति को फलता-फूलता है।",
+    "explanation": "संत की यात्रा और उनके कार्य हर जगह सकारात्मक प्रभाव डालते हैं। वे जहां भी जाते हैं, वहां की स्थिति में सुधार और समृद्धि लाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.002Z"
+  }
+}

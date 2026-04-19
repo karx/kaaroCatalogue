@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a03a15d1-26a7-49da-a863-7943edfd0615",
+  "name": "देखा देखी भक्ति का, कबहुं न चढसी रंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Imitative devotion will never take root. When difficulties arise, it will be abandoned just like a snake sheds its skin.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "देखा देखी भक्ति का, कबहुं न चढसी रंग।\nविपत्त‍ि पड़े यो छाड़सी, केचुलि तजत भुजंग।।७१४।।",
+    "translation": "Imitative devotion will never take root. When difficulties arise, it will be abandoned just like a snake sheds its skin.",
+    "meaning": "नकल की भक्ति कभी भी स्थायी नहीं होती। जब कठिनाइयाँ आती हैं, तो इसे वैसे ही छोड़ दिया जाता है जैसे सांप अपनी खाल त्याग देता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो लोग भक्ति की नकल करते हैं, उनकी भक्ति स्थायी नहीं होती। जब मुश्किलें आती हैं, तो यह भक्ति भी सांप की तरह अपनी खाल की तरह त्याग दी जाती है। सच्ची भक्ति केवल सच्चे दिल से की जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e7c64303-3859-42c3-ab91-cf000c6e5f21",
+  "name": "साकट सूकर कीकरा, तीनों की गति एक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wicked, the pig, and the thorn tree all have the same nature. Despite a million efforts, they do not change their ways.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साकट सूकर कीकरा, तीनों की गति एक।\nकोटि जतन परमोघिये, तऊ न छाड़े टेक।।३०८।।",
+    "translation": "The wicked, the pig, and the thorn tree all have the same nature. Despite a million efforts, they do not change their ways.",
+    "meaning": "साकट (दुष्ट), सूअर, और कीकर का स्वभाव एक जैसा होता है। करोड़ों प्रयासों के बावजूद वे अपनी राह नहीं बदलते।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि कुछ चीजें अपनी मूल प्रकृति को नहीं बदल सकतीं, चाहे कितने भी प्रयास क्यों न किए जाएं। साकट व्यक्ति, सूअर, और कीकर का वृक्ष इसी श्रेणी में आते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

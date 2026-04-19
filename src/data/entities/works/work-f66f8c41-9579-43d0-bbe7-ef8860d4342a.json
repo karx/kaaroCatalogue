@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f66f8c41-9579-43d0-bbe7-ef8860d4342a",
+  "name": "जोगी जंगम सेवड़ा, ज्ञानी गुनी अपार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The yogi, the wandering monk, and the wise with boundless virtues all are seekers. What does six philosophies achieve when driven by greed?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जोगी जंगम सेवड़ा, ज्ञानी गुनी अपार।\nषट दर्शन से क्‍या बने, एक लोभ की लार।।१७३५।।",
+    "translation": "The yogi, the wandering monk, and the wise with boundless virtues all are seekers. What does six philosophies achieve when driven by greed?",
+    "meaning": "योगी, जंगम साधु, और अपार गुण वाले ज्ञानी सभी खोजी हैं। छह दर्शन का क्या लाभ होता है जब लोभ से प्रेरित हों?",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक अभ्यास और इच्छाओं की बात करते हैं। उन्होंने कहा कि विभिन्न धार्मिक या दार्शनिक विचार भी तब तक कोई मूल्य नहीं रखते जब तक उनमें लोभ और स्वार्थ न हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.075Z"
+  }
+}

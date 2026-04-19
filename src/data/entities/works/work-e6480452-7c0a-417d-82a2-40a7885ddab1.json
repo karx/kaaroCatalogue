@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e6480452-7c0a-417d-82a2-40a7885ddab1",
+  "name": "मान बड़ाई ऊरमी, ये जग का व्‍यवहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Pride and greatness are the norms of this world. True benefit comes from humility, poverty, and devotion, as guided by the True Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मान बड़ाई ऊरमी, ये जग का व्‍यवहार।\nदीन गरीबी बन्‍दगी, सतगुरु का उपकार।।१२६३।।",
+    "translation": "Pride and greatness are the norms of this world. True benefit comes from humility, poverty, and devotion, as guided by the True Guru.",
+    "meaning": "मान और बड़ाई इस जगत की आदतें हैं। सच्चा लाभ विनम्रता, गरीबी, और भक्ति से होता है, जैसा कि सतगुरु ने बताया है।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि मान और बड़ाई इस दुनिया की सामान्य बातें हैं। सच्ची भलाई विनम्रता, गरीबी और भक्ति से होती है, और यह उपकार सतगुरु से मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.543Z"
+  }
+}

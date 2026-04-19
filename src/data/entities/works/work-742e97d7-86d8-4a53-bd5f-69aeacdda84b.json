@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-742e97d7-86d8-4a53-bd5f-69aeacdda84b",
+  "name": "इस तन का दीवा करौ, बाती मेल्यूं जीवउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Make this body a lamp, and the wick is the life. Pour the oil of devotion like molten iron, and then you will see the divine face.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इस तन का दीवा करौ, बाती मेल्यूं जीवउं।\nलोही सींचो तेल ज्यूं, कब मुख देख पठिउं।।१५९।।",
+    "translation": "Make this body a lamp, and the wick is the life. Pour the oil of devotion like molten iron, and then you will see the divine face.",
+    "meaning": "इस शरीर को दीपक बना दो, और बाती जीवन है। भक्ति का तेल लोहे की तरह डाले, तब आप भगवान का मुख देख सकोगे।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि अपने शरीर को एक दीपक की तरह बनाएं और जीवन को उसकी बाती मानें। भक्ति के तेल को जैसे लोहे की तरह डालें, इससे शरीर और मन को ईश्वर की ओर केंद्रित करें। इस प्रकार, सच्ची भक्ति और ध्यान से ईश्वर का दर्शन संभव हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3ba90d2c-5c3c-448a-8d19-fffdeb9487b6",
+  "name": "आँखों देखा घी भला, न मुख मेला तेल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing clarified butter with your eyes is good, but if your mouth is oily, it is not useful. It is better to have a dispute with a saint than to have a friendship with a wicked person.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आँखों देखा घी भला, न मुख मेला तेल।\nसाघु सो झगड़ा भला, ना साकट सों मेल।।३१२।।",
+    "translation": "Seeing clarified butter with your eyes is good, but if your mouth is oily, it is not useful. It is better to have a dispute with a saint than to have a friendship with a wicked person.",
+    "meaning": "आंखों से घी देखना अच्छा है, लेकिन यदि आपका मुंह चिकना है, तो यह उपयोगी नहीं है। एक साधु से झगड़ा होना बेहतर है, बजाए बुरे व्यक्ति से दोस्ती करने के।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि बाहरी दिखावट से ज्यादा महत्वपूर्ण व्यक्ति का आचार और व्यवहार होता है। साधु के साथ झगड़ा होना भी बुरा नहीं है, लेकिन बुरे लोगों की संगति से दूर रहना बेहतर है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

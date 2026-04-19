@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-945374c0-89e2-41f6-bf9e-a4b9aa16dc1c",
+  "name": "गही टेग नहिं छोड़ई, चोंच जीभ जरि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bird does not let go of the iron, even if its beak and tongue burn. Just like that, the partridge eats burning embers.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गही टेग नहिं छोड़ई, चोंच जीभ जरि जाय।\nऐसे तप्‍त अंगार है, ताहि चकोर चबाय।।१४८९।।",
+    "translation": "The bird does not let go of the iron, even if its beak and tongue burn. Just like that, the partridge eats burning embers.",
+    "meaning": "चिड़िया लोहे को नहीं छोड़ती, भले ही उसकी चोंच और जीभ जल जाए। उसी तरह चकोर जलते हुए अंगारों को खाता है।",
+    "explanation": "इस दोहे में कबीर ने जिद और अज्ञानता का वर्णन किया है। जैसे एक पक्षी लोहे को नहीं छोड़ता, भले ही उसकी चोंच और जीभ जल जाए, उसी तरह मनुष्य भी अपनी गलतियों या अज्ञानता से चिपका रहता है, भले ही वह उसे नुकसान पहुंचा रहा हो। यह दोहा हमें अंधेपन और जिद को त्यागने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.660Z"
+  }
+}

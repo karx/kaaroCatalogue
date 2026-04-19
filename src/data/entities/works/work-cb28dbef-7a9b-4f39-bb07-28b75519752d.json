@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb28dbef-7a9b-4f39-bb07-28b75519752d",
+  "name": "गृह तज के भये उदासी, वन खंड तप के जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "After abandoning the household, one becomes a recluse and goes to the forest for penance. Despite all efforts, they are left with nothing but picking wild fruits.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गृह तज के भये उदासी, वन खंड तप के जाय।\nचोली थाके मारिया, बेरई चुनि चुनि खाय।।१४९६।।",
+    "translation": "After abandoning the household, one becomes a recluse and goes to the forest for penance. Despite all efforts, they are left with nothing but picking wild fruits.",
+    "meaning": "घर छोड़कर वन में तपस्या करने के लिए जाने पर भी, व्यक्ति के हिस्से में केवल बेर चुनकर खाने का भाग्य ही आता है।",
+    "explanation": "कबीर इस दोहे में साधना और तपस्या के दिखावटी रूप को उजागर करते हैं। व्यक्ति जब संसार छोड़कर तपस्या के लिए वन जाता है, तब भी उसे वास्तविक शांति नहीं मिलती। उसकी तपस्या केवल नाम मात्र की होती है, और अंत में वह कुछ न पा सकने के कारण केवल बेर चुनकर खाने की स्थिति में रह जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.661Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e19d946b-d0de-48ca-82ff-e8d3460d5f65",
+  "name": "आये हैं तो जायेंगे, राजा रंक फकीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone who comes must leave, whether king, pauper, or saint. One ascends the throne, and another leaves bound in chains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आये हैं तो जायेंगे, राजा रंक फकीर।\nएक सिंहासन चढ़‍ि चले, एक बांधे जात जंजीर।।८७८।।",
+    "translation": "Everyone who comes must leave, whether king, pauper, or saint. One ascends the throne, and another leaves bound in chains.",
+    "meaning": "जो भी आता है, उसे जाना ही होगा, चाहे वह राजा हो, गरीब हो या संत। कोई सिंहासन पर चढ़ता है, तो कोई जंजीरों में बंधा हुआ जाता है।",
+    "explanation": "कबीर इस दोहे में जीवन की नश्वरता और मृत्यु के सामने सभी के समान होने की बात करते हैं। वे बताते हैं कि चाहे कोई राजा हो या गरीब, अंततः सभी को इस दुनिया से जाना होगा और सभी का हाल एक जैसा ही होगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.352Z"
+  }
+}

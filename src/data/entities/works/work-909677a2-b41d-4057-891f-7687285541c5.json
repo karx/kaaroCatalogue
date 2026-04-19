@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-909677a2-b41d-4057-891f-7687285541c5",
+  "name": "सब रग तंत रबाब तन, बिरह बजावै नित्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Every vein and fiber of the body plays the tune of separation. No one else can hear it; it is only for the Lord’s own mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब रग तंत रबाब तन, बिरह बजावै नित्त।\nऔर न कोई सुणि सकै, कै साई कै चित्त।।१७५५।।",
+    "translation": "Every vein and fiber of the body plays the tune of separation. No one else can hear it; it is only for the Lord’s own mind.",
+    "meaning": "शरीर की हर नस और रेशा बिछड़न की धुन बजाता है। कोई और इसे नहीं सुन सकता; यह केवल भगवान के अपने मन के लिए है।",
+    "explanation": "कबीर इस दोहे में शरीर की संगीत और बिछड़न की बात करते हैं। उन्होंने कहा कि शरीर की हर अंग बिछड़न की धुन बजाता है, जिसे केवल भगवान ही समझ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.344Z"
+  }
+}

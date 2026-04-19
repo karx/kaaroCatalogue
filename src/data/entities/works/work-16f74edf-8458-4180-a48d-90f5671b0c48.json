@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16f74edf-8458-4180-a48d-90f5671b0c48",
+  "name": "कबीर लौंग-इलायची, दातुन माटी पानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, cloves, cardamom, and brushing sticks are of no use. Kabir advises saints not to take any bribes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर लौंग-इलायची, दातुन माटी पानि।\nकहैं कबीर संतन को, देत न कीजै कानि।।५८५।।",
+    "translation": "Kabir says, cloves, cardamom, and brushing sticks are of no use. Kabir advises saints not to take any bribes.",
+    "meaning": "कबीर कहते हैं कि लौंग, इलायची और दातुन का कोई महत्व नहीं है। कबीर संतों को सलाह देते हैं कि वे कोई भी रिश्वत न लें।",
+    "explanation": "संतों को रिश्वत और भौतिक वस्तुओं से कोई फर्क नहीं पड़ता। कबीर का संदेश है कि सच्चे साधु और संत अपनी साधना में स्थिर रहते हैं और बाहरी भौतिक वस्तुओं से प्रभावित नहीं होते। उनका उद्देश्य केवल आत्मा की उन्नति और दूसरों की भलाई होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0d56745f-491b-46d5-840f-67a4426b4e4b",
+  "name": "एक एक निरुवारिये, जो निरुवारी जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One must overcome each problem, as every solution leads to another. Speaking with a double-tongue only invites slaps.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक एक निरुवारिये, जो निरुवारी जाय।\nदुई मुख के बोलना, घना तमाचा खाय।।१४६०।।",
+    "translation": "One must overcome each problem, as every solution leads to another. Speaking with a double-tongue only invites slaps.",
+    "meaning": "हर समस्या का समाधान करना चाहिए, क्योंकि हर समाधान एक और समस्या को जन्म देता है। दोमुंहे होकर बोलने से केवल थप्पड़ मिलते हैं।",
+    "explanation": "इस दोहे में कबीर समझाते हैं कि जीवन की हर समस्या का समाधान करना आवश्यक है, लेकिन हर समाधान एक नई समस्या का कारण बन सकता है। इसलिए, समस्याओं का समाधान करते समय धैर्य और सावधानी से काम लेना चाहिए। साथ ही, दोहरे मुँह से बोलना यानी एक ही समय में अलग-अलग बातें कहना केवल अपमान और असफलता का कारण बनता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.655Z"
+  }
+}

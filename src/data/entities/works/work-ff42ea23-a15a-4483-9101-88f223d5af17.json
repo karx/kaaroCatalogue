@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ff42ea23-a15a-4483-9101-88f223d5af17",
+  "name": "गाँठि होय सो हाथ कर, हाथ होय सी देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is tied in a knot is handled by the hand; the hand is the body. The market does not wait; take what you need.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गाँठि होय सो हाथ कर, हाथ होय सी देह।\nआगे हाट न बानिया, लेना होय सो लेह।।४४९।।",
+    "translation": "What is tied in a knot is handled by the hand; the hand is the body. The market does not wait; take what you need.",
+    "meaning": "जो गाँठी हुई चीज़ होती है, उसे हाथ से ही पकड़ा जाता है; हाथ ही शरीर है। बाजार इंतजार नहीं करता; जो चाहिए, उसे ले लो।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि जिस चीज़ को आप बांधते हैं, उसे हाथ से ही संभालते हैं और हाथ खुद शरीर का हिस्सा होता है। इसलिए, जो भी चाहिए, उसे तुरंत ले लेना चाहिए क्योंकि जीवन में समय का कोई ठिकाना नहीं होता और बाजार या जीवन की गति धीमी नहीं होती। यह दोहा जीवन की तात्कालिकता और समय की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

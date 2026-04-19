@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e9ad21a9-28d7-48b4-bbe5-d6aafa96b56d",
+  "name": "हारौं तो हरि मान है, जो जीतूं तौ दाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If I lose, it is the honor of Hari, if I win, it is the wager. Playing with the Supreme Being, whether the head is lost or not.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हारौं तो हरि मान है, जो जीतूं तौ दाव।\nपारब्रह्म सों खेलतां, जो शिर जाय तो जाव।।२१४४।।",
+    "translation": "If I lose, it is the honor of Hari, if I win, it is the wager. Playing with the Supreme Being, whether the head is lost or not.",
+    "meaning": "यदि मैं हारता हूँ, तो वह हरि की मान्यता है, और यदि मैं जीतता हूँ, तो वह दांव है। पारब्रह्म के साथ खेलते हुए, चाहे सिर जाए या न जाए।",
+    "explanation": "इस दोहे में कबीर ने हार और जीत की अवधारणा को भगवान के साथ खेल से जोड़ा है। हार को हरि का मान मानते हुए, और जीत को एक दांव मानते हुए, कबीर ने पारब्रह्म (सर्वोच्च शक्ति) के साथ खेल की भावना को दर्शाया है, जिसमें न तो हार की चिंता होती है और न ही जीत की। यह दोहा परमात्मा के साथ जीवन के खेल की गहराई को समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.371Z"
+  }
+}

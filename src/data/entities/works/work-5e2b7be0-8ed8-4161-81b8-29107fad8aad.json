@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5e2b7be0-8ed8-4161-81b8-29107fad8aad",
+  "name": "माला तो कर में फिरै, जीभ फिरै मुख मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rosary moves in the hand, the tongue moves in the mouth. The mind wanders in all directions, this is not true remembrance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला तो कर में फिरै, जीभ फिरै मुख मांहि।\nमनुवा तो चहुं दिशि फिरै, यह तो सुमिरन नांहि।।७७६।।",
+    "translation": "The rosary moves in the hand, the tongue moves in the mouth. The mind wanders in all directions, this is not true remembrance.",
+    "meaning": "माला हाथ में घूमती है, जीभ मुख में चलती है। मन हर दिशा में घूमता है, यह सच्चा स्मरण नहीं है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि अगर केवल माला हाथ में घूम रही है और जीभ राम का नाम ले रही है, लेकिन मन हर दिशा में भटक रहा है, तो यह सच्चा स्मरण नहीं है। सच्चे स्मरण के लिए मन का ध्यान केंद्रित होना चाहिए और आत्मा को पूरी तरह से भक्ति में समर्पित होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

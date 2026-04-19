@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d77c3fa7-0848-4ef3-a25e-cfbaeebe6340",
+  "name": "तन थिर मन थिर बचन थिर, सुरति निरति थिर होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the body is steady, the mind is steady, speech is steady, and perception and attention are steady, says Kabir, then no illusion can affect such a devotee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन थिर मन थिर बचन थिर, सुरति निरति थिर होय।\nकहैं कबीर उस दास को, कल्‍प न व्‍यापे कोय।।७४८।।",
+    "translation": "When the body is steady, the mind is steady, speech is steady, and perception and attention are steady, says Kabir, then no illusion can affect such a devotee.",
+    "meaning": "जब शरीर स्थिर हो, मन स्थिर हो, वचन स्थिर हो, और इंद्रियां और ध्यान स्थिर हों, तब कबीर कहते हैं कि कोई भी भ्रांति उस भक्त को प्रभावित नहीं कर सकती।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि आत्मिक उन्नति और सच्ची भक्ति तब प्राप्त होती है जब शरीर, मन, वचन, इंद्रियां और ध्यान सभी स्थिर होते हैं। जब ये सभी तत्व स्थिर होते हैं, तो कोई भी भ्रम या विकार भक्त को प्रभावित नहीं कर सकते। यह स्थिरता आत्मज्ञान और दिव्य अनुभूति के लिए महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

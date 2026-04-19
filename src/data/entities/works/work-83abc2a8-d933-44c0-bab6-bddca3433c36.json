@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-83abc2a8-d933-44c0-bab6-bddca3433c36",
+  "name": "कुल करनी के कारने, ढिग ही रहिगो राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Due to the deeds of the lineage, Ram remains steadfast. The shame of lineage is only when there is grandeur in death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुल करनी के कारने, ढिग ही रहिगो राम।\nकुल काकी लाजि है, जब जमकी धूमधाम।।४३०।।",
+    "translation": "Due to the deeds of the lineage, Ram remains steadfast. The shame of lineage is only when there is grandeur in death.",
+    "meaning": "कुल की करनी के कारण, राम ही स्थिर रहते हैं। कुल की लाज तब होती है जब मृत्यु के समय धूमधाम होता है।",
+    "explanation": "इस दोहे में कबीर कुल की गरिमा और उसके कार्यों के बारे में बात करते हैं। वह बताते हैं कि कुल की अच्छाइयों और बुराइयों का प्रभाव केवल तब दिखाई देता है जब मृत्यु के समय धूमधाम होता है। यह दोहा कुल के कार्यों और मृत्यु की वास्तविकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

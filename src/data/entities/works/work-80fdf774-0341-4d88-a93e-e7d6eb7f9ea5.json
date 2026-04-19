@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-80fdf774-0341-4d88-a93e-e7d6eb7f9ea5",
+  "name": "बेरा बांधिनि सर्प का, भव सागर अतिमाह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rope is tied by the serpent; the ocean of existence is immense. If you leave it, you will drown; if you hold it, it will bite your arm.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बेरा बांधिनि सर्प का, भव सागर अतिमाह।\nछोड़े तो बूड नहीं, गहे तो डसे बांह।।१६१८।।",
+    "translation": "The rope is tied by the serpent; the ocean of existence is immense. If you leave it, you will drown; if you hold it, it will bite your arm.",
+    "meaning": "रस्सी सर्प द्वारा बंधी हुई है; अस्तित्व का सागर विशाल है। यदि आप इसे छोड़ देंगे, तो आप डूब जाएंगे; यदि आप इसे पकड़ेंगे, तो यह आपके हाथ को काटेगा।",
+    "explanation": "कबीर इस दोहे में जीवन के कठिन और जटिल स्थितियों का वर्णन करते हैं। उन्होंने कहा कि अस्तित्व का सागर इतना विशाल है कि उसे संभालना मुश्किल है। अगर हम उसे छोड़ दें, तो हम डूब सकते हैं और अगर हम उसे पकड़ें, तो भी मुश्किलें बढ़ सकती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.505Z"
+  }
+}

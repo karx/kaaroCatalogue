@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-96fac19d-a887-4e3b-b19c-528984c6ac46",
+  "name": "हरिया जानै रुखड़ा, उस पानी का नेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A green tree understands the love of water, but a dry log does not, no matter how much it rains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरिया जानै रुखड़ा, उस पानी का नेह।\nसूखा काठ न जानि है, कितहूं बूड़ा मेह।।५४५।।",
+    "translation": "A green tree understands the love of water, but a dry log does not, no matter how much it rains.",
+    "meaning": "हरा-भरा पेड़ पानी के प्रेम को समझता है, लेकिन सूखी लकड़ी नहीं, चाहे कितना भी पानी बरसे।",
+    "explanation": "इस दोहे में संत कबीर जी संवेदनशीलता और समझ की बात कर रहे हैं। वे कहते हैं कि एक हरा-भरा पेड़ पानी के महत्व और उसकी प्रेमपूर्ण छुवन को महसूस कर सकता है, जबकि सूखी लकड़ी के लिए पानी का कोई महत्व नहीं है। इसी प्रकार, केवल संवेदनशील और समझदार व्यक्ति ही प्रेम और ज्ञान को आत्मसात कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.467Z"
+  }
+}

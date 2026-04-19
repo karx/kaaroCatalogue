@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ec02eb3b-e6eb-477e-9816-4190161efeed",
+  "name": "Tirukkural on Virtue",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-thiruvalluvar"
+  },
+  "inLanguage": "Tamil",
+  "genre": "Didactic Poetry",
+  "abstract": "As the letter A is the first of all letters\nSo the eternal God is first in the world\n\nWhat is the use of learning, if one does not worship\nThe pure feet of the One who has perfect knowledge?...",
+  "content": {
+    "original": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு\n\nகற்றதனால் ஆய பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் எனின்",
+    "transliteration": "Akara mudala ezhuththellaam aadhi\nBhagavan mudhatre ulagu\n\nKatrathanaal aaya payanenkol vaalarivaan\nNatraal thozhaaar enin",
+    "translation": "As the letter A is the first of all letters\nSo the eternal God is first in the world\n\nWhat is the use of learning, if one does not worship\nThe pure feet of the One who has perfect knowledge?"
+  },
+  "keywords": [
+    "Didactic Poetry",
+    "Tamil"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.010Z"
+  }
+}

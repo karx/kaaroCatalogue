@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-72a414dc-2ff7-4b32-8b4e-445024ed05b9",
+  "name": "काल हमारे संग है, कस जीवन की आस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Time is with us, clinging to the hope of life. Ten days of maintaining the name, until the last breath of the cage.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल हमारे संग है, कस जीवन की आस।\nदस दिन नाम संभार ले, जब लग पिंजर सांस।।१०८०।।",
+    "translation": "Time is with us, clinging to the hope of life. Ten days of maintaining the name, until the last breath of the cage.",
+    "meaning": "समय हमारे साथ है, जीवन की आशा के साथ चिपका हुआ है। दस दिन तक नाम को संजोए रखना, जब तक शरीर की आखिरी सांस न चले।",
+    "explanation": "इस दोहे में कबीर ने जीवन और मृत्यु के बीच संघर्ष को व्यक्त किया है। समय हमेशा हमारे साथ रहता है और हमें जीवन की आशा बनाए रखनी चाहिए। जब तक शरीर की अंतिम सांस तक, नाम और भक्ति को बनाए रखना आवश्यक है। यह जीवन की अनिश्चितता और समय के साथ संगति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.428Z"
+  }
+}

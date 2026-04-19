@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8c78d831-ac1c-45f6-872f-73e5ee7407fa",
+  "name": "माया माया सब कहैं, माया लखै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone talks about illusion, but no one truly understands it. That which does not leave the mind is called illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया माया सब कहैं, माया लखै न कोय।\nजो मन से ना ऊतरे, माया कहिए सोय।।११९३।।",
+    "translation": "Everyone talks about illusion, but no one truly understands it. That which does not leave the mind is called illusion.",
+    "meaning": "सभी लोग माया के बारे में बात करते हैं, लेकिन कोई भी इसे सही से नहीं समझता। जो मन से नहीं उतरती, वही माया कही जाती है।",
+    "explanation": "इस दोहे में कबीर ने माया की वास्तविकता को समझने की कठिनाई को व्यक्त किया है। लोग माया के बारे में बहुत कुछ कहते हैं, लेकिन कोई भी इसके वास्तविक स्वरूप को नहीं समझता। जो कुछ भी हमारे मन से पूरी तरह से नहीं निकलता, वही माया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.975Z"
+  }
+}

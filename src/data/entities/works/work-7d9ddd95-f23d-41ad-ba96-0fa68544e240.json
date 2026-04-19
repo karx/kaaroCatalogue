@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7d9ddd95-f23d-41ad-ba96-0fa68544e240",
+  "name": "काजल केरी कोठड़ी, काजल ही का कोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The kajal (eyeliner) is in the room of kajal, and the kajal itself is the boundary. I am devoted to that servant who is shielded by Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजल केरी कोठड़ी, काजल ही का कोट।\nबलिहारी ता दास की, जे रहै राम की ओट।।२०१९।।",
+    "translation": "The kajal (eyeliner) is in the room of kajal, and the kajal itself is the boundary. I am devoted to that servant who is shielded by Ram.",
+    "meaning": "काजल काजल के कमरे में होता है, और काजल स्वयं ही एक सीमा होती है। मैं उस सेवक को समर्पित हूँ जो राम की छांव में रहता है।",
+    "explanation": "इस दोहे में कबीर ने काजल की स्थिति को दर्शाते हुए उसकी सीमा को बताया है। उन्होंने कहा है कि काजल स्वयं अपनी सीमा है, और जो व्यक्ति राम की छांव में रहता है, वह अत्यंत महत्वपूर्ण और आदरणीय है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.805Z"
+  }
+}

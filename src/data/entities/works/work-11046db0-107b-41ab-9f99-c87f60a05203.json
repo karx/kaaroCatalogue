@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-11046db0-107b-41ab-9f99-c87f60a05203",
+  "name": "कबिरा माला मनहि की, और संसारी भीख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the true rosary is the one in the mind, while worldly desires are like begging. If one could find God by rotating a rosary, then why don’t you see the oxen tied to a well becoming saints?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा माला मनहि की, और संसारी भीख।\nमाला फेरे हरि मिले, गले रहट के देख।।२।।",
+    "translation": "Kabir says, the true rosary is the one in the mind, while worldly desires are like begging. If one could find God by rotating a rosary, then why don’t you see the oxen tied to a well becoming saints?",
+    "meaning": "कबीर कहते हैं कि सच्ची माला मन की होती है, जबकि सांसारिक इच्छाएँ भीख के समान हैं। अगर माला फेरने से हरि मिल सकते हैं, तो क्यों नहीं तुम बैल को देखते, जो रहट में बंधा होता है और माला की तरह चक्कर लगाता है।",
+    "explanation": "इस दोहे में संत कबीर सांसारिक इच्छाओं और सच्ची भक्ति के अंतर को समझा रहे हैं। वह कहते हैं कि बाहरी माला फेरना और दिखावा करने से कुछ नहीं होता। सच्ची भक्ति मन से होती है। अगर सिर्फ माला फेरने से भगवान मिल सकते हैं, तो जो बैल रहट को घुमाते हैं, वे भी संत हो जाते। यहाँ कबीर आंतरिक भक्ति पर जोर दे रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

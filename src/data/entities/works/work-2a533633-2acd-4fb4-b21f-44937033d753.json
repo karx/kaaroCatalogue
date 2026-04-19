@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2a533633-2acd-4fb4-b21f-44937033d753",
+  "name": "जाके जिव्याँ बंधन नहीं, हृदय में नाहीं सांच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not associate with those who are not bound by any principles and have no truth in their hearts. It is like eating shards of glass.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाके जिव्याँ बंधन नहीं, हृदय में नाहीं सांच।\nवाके संग न लागिए, खाली वटिया कांच।।३०।।",
+    "translation": "Do not associate with those who are not bound by any principles and have no truth in their hearts. It is like eating shards of glass.",
+    "meaning": "उन लोगों के साथ मत जुड़ें जिनके जीवन में कोई सिद्धांत नहीं है और जिनके ह्रदय में कोई सच्चाई नहीं है। यह काँच के टुकड़े खाने के समान है।",
+    "explanation": "इस दोहे में संत कबीर हमें सावधान करते हैं कि हमें उन लोगों से दूर रहना चाहिए जो सच्चाई और सिद्धांतों के बिना जीते हैं। ऐसे लोगों के साथ संबंध रखना हमें नुकसान पहुंचा सकता है, जैसे काँच खाने से हमारे शरीर को चोट पहुंच सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c6b504d4-9c92-47af-b77b-12047e5dc082",
+  "name": "ऊजल पहिनै कापड़ा, पान सुपारि खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing clean clothes and eating betel leaves, Without devotion to the Guru, one is bound to the realm of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊजल पहिनै कापड़ा, पान सुपारि खाय।\nकबीर गुरु की भक्ति बिन, बांध जमपुर जाय।।९१७।।",
+    "translation": "Wearing clean clothes and eating betel leaves, Without devotion to the Guru, one is bound to the realm of death.",
+    "meaning": "साफ कपड़े पहनना और सुपारी खाना, गुरु की भक्ति के बिना, मृत्यु के लोक में बंधा रहता है।",
+    "explanation": "इस दोहे में कबीर गुरु की भक्ति के महत्व को स्पष्ट करते हैं। वे कहते हैं कि भले ही व्यक्ति अच्छे वस्त्र पहनें और अच्छे भोजन करें, अगर गुरु की भक्ति नहीं है, तो वह मृत्यु के बंधनों में बंधा रहेगा। कबीर यह संदेश देते हैं कि सच्चे जीवन की दिशा और मुक्ति केवल गुरु की भक्ति और मार्गदर्शन से ही प्राप्त की जा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.624Z"
+  }
+}

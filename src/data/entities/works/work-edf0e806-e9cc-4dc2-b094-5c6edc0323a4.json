@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-edf0e806-e9cc-4dc2-b094-5c6edc0323a4",
+  "name": "कबीर रसरी पांव में, कह सौवे सुख चैन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, you feel secure with the rope around your feet, But the drum of death is beating day and night.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर रसरी पांव में, कह सौवे सुख चैन।\nमांस नगारा कूंच का, बाजत है दिन रैन।।८७७।।",
+    "translation": "Kabir says, you feel secure with the rope around your feet, But the drum of death is beating day and night.",
+    "meaning": "कबीर कहते हैं, तुम रस्सी को अपने पैरों में महसूस करते हो और खुद को सुरक्षित समझते हो, लेकिन मृत्यु का नगाड़ा दिन और रात बजता रहता है।",
+    "explanation": "इस दोहे में कबीर आत्म-तुष्टि और झूठे सुरक्षा भाव पर वार करते हैं। वे बताते हैं कि चाहे व्यक्ति अपने जीवन में कितना भी सुरक्षित महसूस करे, मौत हर समय करीब है और किसी को भी बिना चेतावनी के ले जा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.352Z"
+  }
+}

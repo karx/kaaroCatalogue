@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d44c6ba-7682-49d6-9501-e05815ff5bde",
+  "name": "तन बोझत, मन काग है, लक्ष योजन उड़ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is very frail and the mind is like a crow that flies away. Sometimes the path of righteousness is elusive, sometimes it is as vast as the sky.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन बोझत, मन काग है, लक्ष योजन उड़ि जाय।\nकबहुँ के धर्म अगम दई, कबहुँ गगन समाय।।६६।।",
+    "translation": "The body is very frail and the mind is like a crow that flies away. Sometimes the path of righteousness is elusive, sometimes it is as vast as the sky.",
+    "meaning": "शरीर बहुत कमजोर है और मन एक कौवे की तरह उड़ जाता है। कभी धर्म का मार्ग कठिन होता है और कभी आकाश की तरह विस्तृत होता है।",
+    "explanation": "इस दोहे में कबीर ने शरीर की कमजोरी और मन की अस्थिरता की बात की है। धर्म के मार्ग को समझना कभी कठिन होता है और कभी बहुत व्यापक लगता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

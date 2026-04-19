@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-68ef7b9e-bbd4-4382-9e33-16a8aef86224",
+  "name": "कबीर मुख सोई भला, जा मुख निकसै राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, a face is good if it speaks of Ram. If the face does not speak of Ram, what is its use?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मुख सोई भला, जा मुख निकसै राम।\nजा मुख राम न नीकसै, ता मुख है किस काम।।७६५।।",
+    "translation": "Kabir says, a face is good if it speaks of Ram. If the face does not speak of Ram, what is its use?",
+    "meaning": "कबीर कहते हैं, वही मुख अच्छा है जो राम का गुणगान करे। अगर मुख राम का नाम नहीं लेता, तो उसकी क्या उपयोगिता है?",
+    "explanation": "इस दोहे में कबीर ने यह स्पष्ट किया है कि एक व्यक्ति का मुख (मुख या वाणी) तब ही अच्छा है जब वह भगवान राम के गुणों का प्रचार करता है। अगर व्यक्ति की वाणी राम का नाम नहीं लेती या धर्म की बात नहीं करती, तो उसकी वास्तविक उपयोगिता कुछ भी नहीं है। यह दोहा हमारे शब्दों की शक्ति और उनके प्रभाव को समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

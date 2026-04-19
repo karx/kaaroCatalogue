@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe17b77f-9f30-4574-9908-68babca2274e",
+  "name": "राम पियारा छांड़ि करि, करै आन का जाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Leaving aside the beloved name of Ram, one chants the name of another. Like a courtesan's son, who is his true father?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम पियारा छांड़ि करि, करै आन का जाप।\nबेस्या केरा पूतं ज्यूं, कहै कौन सू बाप।।१५५।।",
+    "translation": "Leaving aside the beloved name of Ram, one chants the name of another. Like a courtesan's son, who is his true father?",
+    "meaning": "राम के प्रिय नाम को छोड़कर कोई दूसरा नाम जपता है। जैसे वेश्या के बेटे का कोई सच्चा पिता नहीं होता, वैसे ही ऐसा भक्त सच्चे देवता को नहीं जानता।",
+    "explanation": "इस दोहे में कबीर यह व्यक्त कर रहे हैं कि जो व्यक्ति राम के प्रिय नाम को छोड़कर किसी और नाम का जाप करता है, वह सच्चे भक्ति और ईश्वर की पहचान से दूर रहता है। जैसे वेश्या के बेटे का कोई वास्तविक पिता नहीं होता, वैसे ही ऐसा व्यक्ति सच्चे देवता से अज्ञानी रहता है। कबीर यह संदेश दे रहे हैं कि सच्ची भक्ति और प्रेम में स्थिरता और समर्पण होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-927e8d40-270e-493f-ac23-cb1eafb41070",
+  "name": "मान नहीं अपमान नहीं, ऐसे शीतल सन्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint who is neither honored nor dishonored is truly calm. Such a saint has crossed the ocean of worldly existence and is unaffected by the teeth of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मान नहीं अपमान नहीं, ऐसे शीतल सन्त।\nभव सागर से पार हैं, तोरे जम के दन्त।।३५२।।",
+    "translation": "A saint who is neither honored nor dishonored is truly calm. Such a saint has crossed the ocean of worldly existence and is unaffected by the teeth of time.",
+    "meaning": "जो संत सम्मान या अपमान से परे रहता है, वही सच्चा शीतल है। ऐसा संत भव सागर से पार हो चुका है और काल के दांतों से अप्रभावित है।।",
+    "explanation": "इस दोहे में कबीरदास ने सच्चे संत की विशेषताओं को बताया है। एक सच्चा संत सम्मान और अपमान से परे होता है और उसकी शीतलता उसकी संतुलित स्थिति को दर्शाती है। वह व्यक्ति जो सांसारिक जीवन की समस्याओं और समय की परेशानियों से ऊपर उठ चुका होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

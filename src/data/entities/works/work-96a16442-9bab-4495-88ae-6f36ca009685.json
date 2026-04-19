@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-96a16442-9bab-4495-88ae-6f36ca009685",
+  "name": "अकिल बिहूना आदमी, जानै नहीं गंवार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A foolish and ignorant person does not understand. Just like a monkey, who, when controlled, dances around door to door.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अकिल बिहूना आदमी, जानै नहीं गंवार।\nजैसे कपि परबस पर्यो, नाचौ घर घर द्वार।।१३५०।।",
+    "translation": "A foolish and ignorant person does not understand. Just like a monkey, who, when controlled, dances around door to door.",
+    "meaning": "एक मूर्ख और अज्ञानी व्यक्ति को कुछ भी समझ में नहीं आता। जैसे एक बंदर, जब नियंत्रित होता है, तो वह घर-घर जाकर नाचता है।",
+    "explanation": "कबीर जी के अनुसार, जो लोग मूर्ख और अज्ञानी होते हैं, वे कुछ नहीं समझते और अन्य लोगों की तरह अजीब व्यवहार करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.818Z"
+  }
+}

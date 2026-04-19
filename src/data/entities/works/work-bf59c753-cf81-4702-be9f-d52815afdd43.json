@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bf59c753-cf81-4702-be9f-d52815afdd43",
+  "name": "सांप बिछी का मंत्र है, महुरो झारा जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mantra of the snake and scorpion has gone away; the flowing river of delusion continues, where can the feet find rest?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांप बिछी का मंत्र है, महुरो झारा जाय।\nसलिल मोह नदिया बहै, पांव कहां ठहराय।।१६९५।।",
+    "translation": "The mantra of the snake and scorpion has gone away; the flowing river of delusion continues, where can the feet find rest?",
+    "meaning": "सांप और बिच्छू का मंत्र चला गया है; भ्रांति की बहती नदी चलती रहती है, पांव को विश्राम कहां मिलेगा?",
+    "explanation": "कबीर इस दोहे में भ्रांति और वास्तविकता की बात करते हैं। उन्होंने कहा कि भ्रांति की नदी निरंतर बहती रहती है और इसमें विश्राम नहीं मिलता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.792Z"
+  }
+}

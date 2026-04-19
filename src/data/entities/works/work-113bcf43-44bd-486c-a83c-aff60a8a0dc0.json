@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-113bcf43-44bd-486c-a83c-aff60a8a0dc0",
+  "name": "मन माया एक है, माया मनहिं समाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Mind and illusion are the same; illusion resides in the mind. Beyond the three worlds, there is doubt; why should I speak of separation?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन माया एक है, माया मनहिं समाय।\nतीनि लोक संशय परे, काहि कहौं बिलगाय।।१६५३।।",
+    "translation": "Mind and illusion are the same; illusion resides in the mind. Beyond the three worlds, there is doubt; why should I speak of separation?",
+    "meaning": "मन और माया एक हैं; माया मन में समाई हुई है। तीनों लोकों से परे संशय है; मैं विभाजन की बात क्यों करूं?",
+    "explanation": "कबीर इस दोहे में दिखाते हैं कि मन और माया एक ही हैं और माया मन में ही निवास करती है। उन्होंने कहा कि सभी प्रकार के संदेह तीन लोकों से परे हैं और विभाजन की चर्चा व्यर्थ है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.784Z"
+  }
+}

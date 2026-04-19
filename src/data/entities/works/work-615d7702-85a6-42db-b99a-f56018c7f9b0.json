@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-615d7702-85a6-42db-b99a-f56018c7f9b0",
+  "name": "दोख बखत नहिं करि सके, दिन में करु इक बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One cannot accomplish anything in a short time; do it at least once a day. Kabir says, through the sight of a saint, one can cross the ocean of life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दोख बखत नहिं करि सके, दिन में करु इक बार।\nकबीर साधु दरश ते, उतरे भौजल पार।।५६४।।",
+    "translation": "One cannot accomplish anything in a short time; do it at least once a day. Kabir says, through the sight of a saint, one can cross the ocean of life.",
+    "meaning": "अच्छे समय में भी कोई काम नहीं कर सकता, दिन में एक बार तो अवश्य कर लें। कबीर कहते हैं कि संत के दर्शन से समुद्र पार कर सकते हैं।",
+    "explanation": "इस दोहे में कबीर संत के महत्व को दर्शाते हैं और यह भी बताते हैं कि हमें किसी भी महत्वपूर्ण काम को तुरंत करने की कोशिश करनी चाहिए। अगर हम दिन में एक बार भी कोशिश करें, तो सफलता प्राप्त कर सकते हैं। संत के दर्शन से जीवन की कठिनाइयों से पार पाया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3b73c0d8-df5b-42cd-a080-c37efe60c5cf",
+  "name": "हाड़ जरै ज्‍यौं लाकड़ी, केस जरै ज्‍यों घास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Flesh burns like wood, hair burns like grass. Seeing the whole world burning, Kabir became despondent.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हाड़ जरै ज्‍यौं लाकड़ी, केस जरै ज्‍यों घास।\nसब जग जरता देखि करि, भये कबीर उदास।।९३२।।",
+    "translation": "Flesh burns like wood, hair burns like grass. Seeing the whole world burning, Kabir became despondent.",
+    "meaning": "मांस लकड़ी की तरह जलता है, बाल घास की तरह जलते हैं। पूरी दुनिया को जलते हुए देखकर, कबीर उदास हो गए।",
+    "explanation": "इस दोहे में कबीर जीवन की अस्थिरता और उसकी नश्वरता को दर्शाते हैं। वे बताते हैं कि जैसे लकड़ी और घास जलते हैं, वैसे ही जीवन की वस्तुएं भी नष्ट होती हैं। जब कबीर ने देखा कि पूरी दुनिया भी इसी तरह जल रही है, तो वे गहरे विचार और उदासी में डूब गए। यह दोहा जीवन की अनियतता और मौत के अनिवार्य सत्य को स्वीकार करने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

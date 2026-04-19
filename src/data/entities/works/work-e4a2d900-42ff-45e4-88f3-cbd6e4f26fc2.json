@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4a2d900-42ff-45e4-88f3-cbd6e4f26fc2",
+  "name": "सींध भइ तब का भया, चहूं दिसि फूटी बास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the seed is ripe, it spreads its fragrance in all directions. Even now, the seed has sprouted, showing the hope of a new beginning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सींध भइ तब का भया, चहूं दिसि फूटी बास।\nअजहूं बीज अंकूर है, भीऊगण की आस।।२०३६।।",
+    "translation": "When the seed is ripe, it spreads its fragrance in all directions. Even now, the seed has sprouted, showing the hope of a new beginning.",
+    "meaning": "जब बीज पक जाता है, तो यह चारों दिशाओं में अपनी खुशबू फ��लाता है। अभी भी बीज अंकुरित हो रहा है, नई शुरुआत की उम्मीद दिखाते हुए।",
+    "explanation": "इस दोहे में कबीर ने यह बताया है कि जब बीज पक जाता है, तो उसकी खुशबू हर दिशा में फैल जाती है। यह जीवन के नए अवसर और संभावनाओं को दर्शाता है, जिसमें बीज के अंकुरित होने की प्रक्रिया को एक नई शुरुआत के रूप में देखा जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.810Z"
+  }
+}

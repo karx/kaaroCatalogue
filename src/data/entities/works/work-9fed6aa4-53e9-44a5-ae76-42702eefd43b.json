@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9fed6aa4-53e9-44a5-ae76-42702eefd43b",
+  "name": "कबीर भाठी कलाल की, बहुतक बैठे आइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that a potter’s kiln requires a long time to fire. Only those who offer their heads will drink, otherwise, the beloved will not come.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर भाठी कलाल की, बहुतक बैठे आइ।\nसिर सौंपे सोई पिवै, नहीं तो पिया न जाइ।।१९५२।।",
+    "translation": "Kabir says that a potter’s kiln requires a long time to fire. Only those who offer their heads will drink, otherwise, the beloved will not come.",
+    "meaning": "कबीर कहते हैं कि कुम्हार की भट्ठी को तपाने में काफी समय लगता है। सिर समर्पण करने वाले ही पी सकते हैं, अन्यथा प्रिय नहीं मिलते।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि आत्मज्ञान और प्रेम प्राप्त करने में समय और धैर्य लगता है। जैसे कुम्हार की भट्ठी को अच्छे से गर्म करने में समय लगता है, वैसे ही सच्ची भक्ति के लिए पूर्ण समर्पण और धैर्य की आवश्यकता होती है। सिर समर्पण का अर्थ है कि हमें अपनी अहंकारिता को छोड़कर पूरी तरह से खुद को समर्पित करना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.527Z"
+  }
+}

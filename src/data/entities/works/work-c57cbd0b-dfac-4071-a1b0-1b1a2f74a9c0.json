@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c57cbd0b-dfac-4071-a1b0-1b1a2f74a9c0",
+  "name": "अब तो हम कंचन भये, तब हम होते कांच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Now I have become gold, whereas I was once mere glass. By the grace of the True Guru, my heart has become pure and true.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अब तो हम कंचन भये, तब हम होते कांच।\nसतगुरु की किरपा भई, दिल अपने को सांच।।१४१५।।",
+    "translation": "Now I have become gold, whereas I was once mere glass. By the grace of the True Guru, my heart has become pure and true.",
+    "meaning": "अब मैं सोना बन गया हूँ, जबकि पहले मैं केवल कांच था। सतगुरु की कृपा से, मेरा दिल अब शुद्ध और सच्चा हो गया है।",
+    "explanation": "इस दोहे में कबीर अपनी आध्यात्मिक परिवर्तन की यात्रा का वर्णन करते हैं। वे बताते हैं कि पहले वे केवल कांच की तरह थे, लेकिन सतगुरु की कृपा से वे सोने की तरह बन गए हैं। यह दोहा गुरु की कृपा के माध्यम से आत्म-शुद्धि और परिवर्तन की शक्ति को दर्शाता है और हमें सच्चे आत्मज्ञान की ओर प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.360Z"
+  }
+}

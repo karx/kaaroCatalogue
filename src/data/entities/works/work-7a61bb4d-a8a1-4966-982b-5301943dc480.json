@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a61bb4d-a8a1-4966-982b-5301943dc480",
+  "name": "कबीर बेड़ा जरजरा, कूड़ा खेवन हार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the boat is fragile, and the boatman is weak. Those who have faith crossed safely, but those burdened with pride sank.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर बेड़ा जरजरा, कूड़ा खेवन हार।\nहरुये हरुये तरि गये, बूड़े जिन सिर भार।।८७५।।",
+    "translation": "Kabir, the boat is fragile, and the boatman is weak. Those who have faith crossed safely, but those burdened with pride sank.",
+    "meaning": "कबीर, नाव कमजोर है, और मल्लाह भी कमजोर है। जो विश्वास रखते हैं वे सुरक्षित पार कर गए, लेकिन जो घमंड से भरे हुए थे वे डूब गए।",
+    "explanation": "इस दोहे में कबीर जीवन की चुनौतियों की बात करते हैं। वे समझाते हैं कि जीवन की नैया कमजोर है और इसे पार करने के लिए सच्चे विश्वास की आवश्यकता है। जो लोग अहंकार से भरे हुए होते हैं, वे जीवन की कठिनाइयों में फंसकर डूब जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.352Z"
+  }
+}

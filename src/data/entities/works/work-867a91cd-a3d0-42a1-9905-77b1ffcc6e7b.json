@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-867a91cd-a3d0-42a1-9905-77b1ffcc6e7b",
+  "name": "राम जपत दालिद भला, टूटि घर की छांनि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chanting Ram is good for the poor, even if the roof of the house breaks. Set fire to the high temple where devotion does not reach.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम जपत दालिद भला, टूटि घर की छांनि।\nऊचे मंदिर जालि दे, जहां भगति न सारंगपांनि।।१९८८।।",
+    "translation": "Chanting Ram is good for the poor, even if the roof of the house breaks. Set fire to the high temple where devotion does not reach.",
+    "meaning": "राम का जाप गरीबों के लिए अच्छा है, चाहे घर की छत टूट जाए। ऊंचे मंदिर को आग लगा दो जहां भक्ति नहीं पहुंचती।",
+    "explanation": "इस दोहे में कबीर ने भक्ति की वास्तविकता को दर्शाया है। उन्होंने कहा है कि भगवान का स्मरण और भक्ति गरीबों के लिए भी अमूल्य होती है, जबकि भव्य मंदिरों की कोई महत्ता नहीं है यदि वहां सच्ची भक्ति नहीं है। यह भक्ति के सहजता और उसकी वास्तविकता की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.536Z"
+  }
+}

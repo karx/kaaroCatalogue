@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aabe1932-aa08-4e6a-b2ee-54631c5ac7f0",
+  "name": "कबीर हरि रस यौं पिया, बाकी रही न थाकि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that once one drinks the nectar of Hari, there is no fatigue left. A potter's vessel that is once baked does not return to the wheel again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरि रस यौं पिया, बाकी रही न थाकि।\nपाका कलस कुंभार का, बहुरि न चढ़हि चाकि।।१९५०।।",
+    "translation": "Kabir says that once one drinks the nectar of Hari, there is no fatigue left. A potter's vessel that is once baked does not return to the wheel again.",
+    "meaning": "कबीर कहते हैं कि जब कोई हरि का रस पी लेता है, तो थकावट खत्म हो जाती है। एक बार पके हुए कलश को फिर से चाक पर नहीं चढ़ाया जाता।",
+    "explanation": "यह दोहा इस बात को स्पष्ट करता है कि जब व्यक्ति को सच्चे भक्ति या आत्मा का रस प्राप्त हो जाता है, तो वह दुनिया की थकावट से मुक्त हो जाता है। जैसे एक बार बर्तन को पकाने के बाद उसे चाक पर नहीं चढ़ाया जाता, उसी प्रकार एक बार भक्ति की प्राप्ति के बाद, व्यक्ति को पुनः सांसारिक प्रयासों की आवश्यकता नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.258Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9083c087-79ea-4fbb-95b1-a885a6c25000",
+  "name": "जिन‍ि जिनि शंबल नहि किया, ऐसा पुर पठ (त्त) न पाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who did not make preparations, such people will not find a safe place. When the days of crisis arrive, it’s too late to take shelter.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिन‍ि जिनि शंबल नहि किया, ऐसा पुर पठ (त्त) न पाय।\nझालि परे दिन आथये, शंबल कियो न जाय।।१५२६।।",
+    "translation": "Those who did not make preparations, such people will not find a safe place. When the days of crisis arrive, it’s too late to take shelter.",
+    "meaning": "जिन्होंने पहले से कोई तैयारी नहीं की, ऐसे लोग सुरक्षित स्थान नहीं पा सकते। जब संकट के दिन आते हैं, तब शरण लेना बहुत देर हो जाती है।",
+    "explanation": "कबीर इस दोहे में हमें समझाते हैं कि जीवन में संकट या कठिनाई का समय आने से पहले ही हमें अपनी तैयारियां कर लेनी चाहिए। संकट के समय में जो पहले से तैयार नहीं होते, उन्हें सही दिशा नहीं मिलती और वे मुसीबत का सामना करते हैं। इसलिए जीवन में दूरदर्शिता और सतर्कता का महत्व है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.931Z"
+  }
+}

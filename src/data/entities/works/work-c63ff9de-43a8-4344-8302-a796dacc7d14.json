@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c63ff9de-43a8-4344-8302-a796dacc7d14",
+  "name": "कबीर आपन राम कहि, औरन राम कहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, call it your own Ram, and others call it Ram as well. If Ram does not appear on the lips, then what is the use of that mouth calling Ram?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर आपन राम कहि, औरन राम कहाय।\nजा मुख राम न नीसरै, ता मुख राम कहाय।।७८७।।",
+    "translation": "Kabir says, call it your own Ram, and others call it Ram as well. If Ram does not appear on the lips, then what is the use of that mouth calling Ram?",
+    "meaning": "कबीर कहते हैं, इसे अपना राम कहो, और दूसरों को भी राम कहने दो। यदि राम होंठों पर प्रकट नहीं होते, तो उस मुख का राम कहने का क्या उपयोग है?",
+    "explanation": "इस दोहे में कबीर ने राम के नाम की महत्वपूर्णता को दर्शाया है। उन्होंने कहा है कि अगर राम का नाम हमारे होंठों पर नहीं आता, तो उसका उच्चारण कोई मायने नहीं रखता। सच्ची भक्ति तब है जब राम हमारे जीवन और वाणी में पूरी तरह से समाहित होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

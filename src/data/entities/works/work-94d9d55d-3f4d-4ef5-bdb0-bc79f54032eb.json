@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-94d9d55d-3f4d-4ef5-bdb0-bc79f54032eb",
+  "name": "हद्द छांडि बेहद गया, अबरन किया मिलान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Leaving the limited, one attains the infinite, and the coverings were removed. The servant Kabir found the divine, that is to say, Rahman.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हद्द छांडि बेहद गया, अबरन किया मिलान।\nदास कबीरा मिलि रहा, सो कहिये रहमान।।२२१८।।",
+    "translation": "Leaving the limited, one attains the infinite, and the coverings were removed. The servant Kabir found the divine, that is to say, Rahman.",
+    "meaning": "सीमित को छोड़कर अनंत को प्राप्त किया, और आच्छादन हटा दिए। दास कबीर ने दिव्य को पाया, अर्थात रहमान।",
+    "explanation": "इस दोहे में कबीर जी यह बताते हैं कि सीमितता को छोड़कर अनंत को प्राप्त किया जा सकता है। जब बाहरी आच्छादन हट जाते हैं, तब व्यक्ति दिव्य का अनुभव करता है। कबीर जी का यह कहना है कि सच्चे ज्ञान और दिव्यता की प्राप्ति के लिए सीमाओं को पार करना आवश्यक है और बाहरी बाधाओं को हटाना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.082Z"
+  }
+}

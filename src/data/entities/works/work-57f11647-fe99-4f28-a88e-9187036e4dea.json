@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57f11647-fe99-4f28-a88e-9187036e4dea",
+  "name": "जहां प्रेम तह नेम नहीं, तहां न बुधि व्‍यवहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there is love, there are no rules; where there is no understanding or behavior. When the mind is immersed in love, who counts the days and dates?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां प्रेम तह नेम नहीं, तहां न बुधि व्‍यवहार।\nप्रेम मगन जब मन भया, कौन गिनै तिथि वार।।७९६।।",
+    "translation": "Where there is love, there are no rules; where there is no understanding or behavior. When the mind is immersed in love, who counts the days and dates?",
+    "meaning": "जहां प्रेम होता है, वहां कोई नियम नहीं होते; वहां कोई बौद्धिक व्यवहार नहीं होता। जब मन प्रेम में डूब जाता है, तो कौन तारीख और दिन गिनता है?",
+    "explanation": "इस दोहे में कबीर ने प्रेम की स्वाभाविकता और उसकी शक्ति को बताया है। प्रेम नियमों और व्यवस्थित आचरण से परे होता है। जब मन पूरी तरह से प्रेम में लीन हो जाता है, तो समय और तारीख का कोई महत्व नहीं रह जाता। यह प्रेम की गहराई और उसकी स्वतंत्रता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.819Z"
+  }
+}

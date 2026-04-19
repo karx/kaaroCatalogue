@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cfa4e352-c9e1-42a4-8ebc-797fd1130d56",
+  "name": "चिंतामणि मन में बसै, सोई चित मैं आणि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The philosopher's stone resides in the mind, bringing forth whatever is desired. Worry not, for the Lord’s will takes care of everything.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चिंतामणि मन में बसै, सोई चित मैं आणि।\nबिन चिंता चिंता करै, इहैं प्रभु की बाणि।।१८७३।।",
+    "translation": "The philosopher's stone resides in the mind, bringing forth whatever is desired. Worry not, for the Lord’s will takes care of everything.",
+    "meaning": "चिंतामणि मन में बसता है, जो भी चाहो वही प्राप्त होता है। चिंता मत करो, क्योंकि प्रभु की मर्जी से सब कुछ होता है।",
+    "explanation": "इस दोहे में कबीरदास जी बताते हैं कि मन में चिंतामणि यानी इच्छाशक्ति का वास है, जो भी हम मन में ठानते हैं, वही फलित होता है। लेकिन हमें अनावश्यक चिंता नहीं करनी चाहिए, क्योंकि सभी घटनाएं प्रभु की इच्छा से ही होती हैं। ईश्वर की मर्जी से ही संसार में सब कुछ घटित होता है, इसलिए हमें चिंता से मुक्त रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.972Z"
+  }
+}

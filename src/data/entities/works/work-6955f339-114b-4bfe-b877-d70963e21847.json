@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6955f339-114b-4bfe-b877-d70963e21847",
+  "name": "कबीर सजड़े की जड़ा, झूठा मोह अपार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The root of deceit is false pride. Many metalworkers have perished, yet the falsehood remains unshaken.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सजड़े की जड़ा, झूठा मोह अपार।\nअनेक लुहारे पचि मुये, उझड़त नहीं लगार।।१३३४।।",
+    "translation": "The root of deceit is false pride. Many metalworkers have perished, yet the falsehood remains unshaken.",
+    "meaning": "धोखे की जड़ झूठा अहंकार है। कई लोहार मर चुके हैं, फिर भी झूठ कायम रहता है।",
+    "explanation": "कबीर जी के अनुसार, झूठा अहंकार धोखे की जड़ होता है। कई लोग झूठ के कारण बर्बाद हो जाते हैं, लेकिन झूठ की जड़ें गहरी होती हैं और नहीं समाप्त होतीं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.814Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0df6a023-ce91-442f-8144-6e7f87c1c5a1",
+  "name": "यह तन विषय की बेलरी, गुरु अमृत की खान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This body is a vine of desires, but the Guru is a mine of nectar. Even if one has to give one's head to find the Guru, consider it a small price to pay.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह तन विषय की बेलरी, गुरु अमृत की खान।\nसीस दिये जो गुरु मिलै, तो भी सस्ता जान।।२८९।।",
+    "translation": "This body is a vine of desires, but the Guru is a mine of nectar. Even if one has to give one's head to find the Guru, consider it a small price to pay.",
+    "meaning": "यह शरीर इच्छाओं की बेल है, लेकिन गुरु अमृत की खान है। अगर गुरु को पाने के लिए सिर भी देना पड़े, तो इसे भी सस्ता समझो।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि हमारा शरीर इच्छाओं और सांसारिक मोहों से भरा हुआ है, जबकि सच्चा गुरु अमृत का स्रोत है। गुरु को पाने के लिए यदि हमें अपना सर्वस्व भी त्यागना पड़े, तो भी यह सौदा सस्ता ही है, क्योंकि गुरु का महत्व असीमित है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

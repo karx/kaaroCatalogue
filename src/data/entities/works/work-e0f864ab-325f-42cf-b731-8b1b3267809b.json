@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0f864ab-325f-42cf-b731-8b1b3267809b",
+  "name": "नीर पिलावत क्‍या फिरै, सायर घर घर वारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why do you go around offering water from house to house? The one who is truly thirsty will find and drink it on their own.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नीर पिलावत क्‍या फिरै, सायर घर घर वारि।\nजो त्रिषावंत होइगा, तो पिवेगा झख मारि।।१८९३।।",
+    "translation": "Why do you go around offering water from house to house? The one who is truly thirsty will find and drink it on their own.",
+    "meaning": "तुम घर-घर पानी क्यों बांटते फिरते हो? जो वास्तव में प्यासा होगा, वह स्वयं ही इसे ढूंढेगा और पिएगा।",
+    "explanation": "इस दोहे में कबीरदास जी सच्ची आवश्यकता और आत्मजागृति के बारे में बात करते हैं। वे कहते हैं कि किसी को जबरदस्ती कुछ देने की कोशिश मत करो, क्योंकि जो वास्तव में जरूरतमंद होगा, वह खुद ही उसे खोज लेगा। यह दोहा इस बात पर जोर देता है कि सच्ची प्यास या आवश्यकता भीतर से उत्पन्न होती है, और जब वह जागृत होती है, तो व्यक्ति स्वयं ही उसे पाने का प्रयास करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.977Z"
+  }
+}

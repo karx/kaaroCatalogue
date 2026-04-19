@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a70c0eb-4762-4efb-8122-f836d60c8269",
+  "name": "आस्ति कहौं तो कोइ न पतीजे, बिना अस्ति का सिद्धा",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one speaks of existence, no one believes; without existence, there is no true knowledge. Kabir says, listen saints, the diamond is recognized by its own light.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आस्ति कहौं तो कोइ न पतीजे, बिना अस्ति का सिद्धा।\nकहहिं कबीर सनहु हे सन्‍तो, हीरी हीरा विद्धा।।१४५३।।",
+    "translation": "If one speaks of existence, no one believes; without existence, there is no true knowledge. Kabir says, listen saints, the diamond is recognized by its own light.",
+    "meaning": "यदि कोई अस्तित्व की बात करता है, तो कोई विश्वास नहीं करता; बिना अस्तित्व के कोई सही ज्ञान नहीं होता। कबीर कहते हैं, सुनो संतों, हीरा अपनी चमक से पहचाना जाता है।",
+    "explanation": "कबीर इस दोहे में अस्तित्व और ज्ञान की बात करते हैं। वे बताते हैं कि अस्तित्व की बात करने पर कोई विश्वास नहीं करता और बिना अस्तित्व के सही ज्ञान प्राप्त नहीं होता। संतों को सुनने के लिए, कबीर कहते हैं कि हीरा अपनी चमक से ही पहचाना जाता है। यह दोहा अस्तित्व और उसकी पहचान की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.653Z"
+  }
+}

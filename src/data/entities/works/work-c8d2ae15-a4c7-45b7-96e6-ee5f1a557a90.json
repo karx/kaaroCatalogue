@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c8d2ae15-a4c7-45b7-96e6-ee5f1a557a90",
+  "name": "कबीर शीतल जल नहीं, हिम ना शीतल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir is not cold water, nor is he cold like snow. Kabir is the cool saint who is beloved of Lord Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर शीतल जल नहीं, हिम ना शीतल होय।\nकबीर शीतल सन्‍त जन, राम सनेही सोय।।५८३।।",
+    "translation": "Kabir is not cold water, nor is he cold like snow. Kabir is the cool saint who is beloved of Lord Ram.",
+    "meaning": "कबीर ठंडा पानी नहीं हैं, और न ही वह बर्फ के समान ठंडे हैं। कबीर वह ठंडा संत हैं जो राम के प्रिय हैं।",
+    "explanation": "कबीर की ठंडक उनकी आध्यात्मिक स्थिति को दर्शाती है, जो शीतल पानी या बर्फ से अधिक गहरी है। वह वास्तव में एक ऐसा संत हैं जो भगवान राम के सच्चे प्रेमी हैं और जिनकी उपस्थिति में एक विशेष प्रकार की शांति और ठंडक का अहसास होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

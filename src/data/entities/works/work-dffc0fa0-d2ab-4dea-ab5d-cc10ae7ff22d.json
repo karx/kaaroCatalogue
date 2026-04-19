@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dffc0fa0-d2ab-4dea-ab5d-cc10ae7ff22d",
+  "name": "बोलना है बह भांति का, नैनन नहिं कछु सूझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The words are of many kinds, but the eyes do not see anything. Kabir says, understand the words of the self.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बोलना है बह भांति का, नैनन नहिं कछु सूझ।\nकहहिं कबीर पुकारि के, घट बानी बूझ।।१६२१।।",
+    "translation": "The words are of many kinds, but the eyes do not see anything. Kabir says, understand the words of the self.",
+    "meaning": "शब्द कई प्रकार के होते हैं, लेकिन आँखें कुछ नहीं देखतीं। कबीर कहते हैं, आत्मा की बातों को समझो।",
+    "explanation": "कबीर इस दोहे में संचार और आत्म-ज्ञान की बात करते हैं। उन्होंने कहा कि शब्दों की विविधता के बावजूद, असली समझ आत्मा की बातों से आती है, जो बाहरी आंखों से नहीं देखी जा सकती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.506Z"
+  }
+}

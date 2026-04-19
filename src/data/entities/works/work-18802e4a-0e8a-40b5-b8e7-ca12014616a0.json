@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-18802e4a-0e8a-40b5-b8e7-ca12014616a0",
+  "name": "पाहन ही का देहरा, पाहन ही का देव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The temple is made of stone, and the deity is also stone. The blind worshiper, how can he be truly devoted?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाहन ही का देहरा, पाहन ही का देव।\nपूजन हारा आंधरा, क्‍यों करि मानै सेव।।१३५९।।",
+    "translation": "The temple is made of stone, and the deity is also stone. The blind worshiper, how can he be truly devoted?",
+    "meaning": "मंदिर पत्थर का है, और देवता भी पत्थर का है। अंधा (मूर्ख) उपासक, वह कैसे सच्ची भक्ति कर सकता है?",
+    "explanation": "कबीर जी इस दोहे में उन लोगों की आलोचना करते हैं जो बिना समझे-बूझे केवल बाहरी आडंबर में फंसकर मूर्ति पूजा करते हैं। वे बताते हैं कि मंदिर और मूर्ति दोनों ही पत्थर के होते हैं, इसलिए केवल बाहरी पूजा से कुछ नहीं मिलेगा। ऐसे अंधभक्त जो केवल दिखावे की पूजा करते हैं, वे सच्चे अर्थों में भक्ति नहीं कर सकते। कबीर जी का संदेश है कि सच्ची भक्ति केवल हृदय से ही की जा सकती है, न कि बाहरी साधनों से।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.083Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ec35fd7-1110-4917-99af-b2197e796214",
+  "name": "जो तू चाहे मुक्ति को, छोड़ दे सब आस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you seek liberation, give up all attachments. The state of liberation will come to you as it is, with nothing left behind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो तू चाहे मुक्ति को, छोड़ दे सब आस।\nमुक्त ही जैसा हो रहे, सब कुछ तेरे पास।।७८।।",
+    "translation": "If you seek liberation, give up all attachments. The state of liberation will come to you as it is, with nothing left behind.",
+    "meaning": "यदि तुम मुक्ति की चाह रखते हो, तो सभी आसक्तियों को छोड़ दो। मुक्ति की अवस्था तुम्हारे पास वैसी ही आ जाएगी, बिना किसी शेष के।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि मुक्ति प्राप्त करने के लिए सभी प्रकार की इच्छाओं और लगावों को छोड़ना पड़ता है। जब व्यक्ति सभी आसक्तियों को त्याग देता है, तो मुक्ति की स्थिति स्वाभाविक रूप से प्राप्त होती है। इस प्रकार, सच्ची मुक्ति की प्राप्ति के लिए निराशा और भौतिक चीजों से मुक्त होना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57de3d82-f122-4eef-8e94-1ae1367b7462",
+  "name": "मनह मनोरथ छाँड़िये, तेरा किया न होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Abandon your desires; your actions won't always succeed. If you expect ghee to emerge from water, no one would eat dry food.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मनह मनोरथ छाँड़िये, तेरा किया न होइ।\nपाणी में घीव नीकसै, तो रूखा खाइ न कोइ।।२०७।।",
+    "translation": "Abandon your desires; your actions won't always succeed. If you expect ghee to emerge from water, no one would eat dry food.",
+    "meaning": "अपनी मनोकामनाओं को छोड़ दो, तुम्हारे किए से कुछ नहीं होगा। अगर पानी से घी निकलने की उम्मीद हो, तो कोई सूखा भोजन नहीं खाएगा।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि केवल मनोकामनाओं पर निर्भर रहने से कुछ नहीं होता। जैसे पानी से घी निकालने की अपेक्षा निरर्थक है, वैसे ही बिना प्रयास के कुछ प्राप्त नहीं किया जा सकता। इस संसार में सबकुछ कर्म पर निर्भर है, इसलिए व्यर्थ की इच्छाओं से दूर रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

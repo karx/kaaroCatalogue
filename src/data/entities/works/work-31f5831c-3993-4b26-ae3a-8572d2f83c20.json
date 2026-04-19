@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31f5831c-3993-4b26-ae3a-8572d2f83c20",
+  "name": "कबीर पीर पिरावनी, पंजर पीड़ न जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the agony of love remains in the heart, even though the external pain may go away. The heart is constantly overwhelmed by the pain of separation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर पीर पिरावनी, पंजर पीड़ न जाइ।\nएक जू पीड़ पिरीति की, रही कलेजा छाइ।।१७४८।।",
+    "translation": "Kabir says, the agony of love remains in the heart, even though the external pain may go away. The heart is constantly overwhelmed by the pain of separation.",
+    "meaning": "कबीर कहते हैं, प्रेम की पीड़ा हृदय में रहती है, भले ही बाहरी पीड़ा चली जाती हो। हृदय हमेशा बिछड़ने के दर्द से अभिभूत रहता है।",
+    "explanation": "कबीर इस दोहे में प्रेम की पीड़ा और दिल के भीतर के दर्द की बात करते हैं। उन्होंने कहा कि प्रेम का दर्द बाहरी पीड़ा की तुलना में ज्यादा गहरा होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.080Z"
+  }
+}

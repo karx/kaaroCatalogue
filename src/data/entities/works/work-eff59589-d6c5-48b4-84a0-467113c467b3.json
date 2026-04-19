@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eff59589-d6c5-48b4-84a0-467113c467b3",
+  "name": "ना गुरु मिल्या न सिष भया, लालच खेल्या डाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Neither did I find a Guru, nor did I become a disciple; greed played its tricks. The world is sinking in the flood, and I am riding a boat of stone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ना गुरु मिल्या न सिष भया, लालच खेल्या डाव।\nदुन्यू बूड़े धार में, चढ़ि पाथर की नाव।।१५०।।",
+    "translation": "Neither did I find a Guru, nor did I become a disciple; greed played its tricks. The world is sinking in the flood, and I am riding a boat of stone.",
+    "meaning": "न तो गुरु मिला और न ही शिष्य बना; लालच ने खेल खेले। संसार बाढ़ में डूब रहा है, और मैं पत्थर की नाव पर सवार हूँ।",
+    "explanation": "इस दोहे में कबीर का अभिप्राय है कि बिना गुरु और सही शिष्यत्व के जीवन में लालच और मोह के कारण व्यक्ति सही मार्ग नहीं पकड़ पाता। वे इस बात को व्यक्त कर रहे हैं कि संसार का स्थिति खराब हो रही है, और वे एक ठोस और स्थिर मार्ग की तलाश में हैं, जो पत्थर की नाव के समान है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

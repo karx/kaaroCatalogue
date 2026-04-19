@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bd760346-01a1-4c05-9436-a24dde7d62bb",
+  "name": "अब कै जे सांई मिले, तौ सब दुख आपौं रोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you have found the Lord, then all your sorrows will be alleviated. Place your head at His feet and speak only what needs to be said.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अब कै जे सांई मिले, तौ सब दुख आपौं रोइ।\nचरनूं ऊपर सीस धरि, कहूं ज कहणां होइ।।१३०१।।",
+    "translation": "If you have found the Lord, then all your sorrows will be alleviated. Place your head at His feet and speak only what needs to be said.",
+    "meaning": "यदि आप भगवान को प्राप्त कर लेते हैं, तो सभी दुख समाप्त हो जाएंगे। उनके चरणों पर सिर रख दें और केवल वही कहें जो कहने की आवश्यकता हो।",
+    "explanation": "कबीर जी के अनुसार, भगवान की प्राप्ति से सभी दुख दूर हो जाते हैं। भगवान के चरणों में सिर झुका देने से हमें सच्चे शांति और सुख की प्राप्ति होती है, और हमें केवल आवश्यक बातें ही कहनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.808Z"
+  }
+}

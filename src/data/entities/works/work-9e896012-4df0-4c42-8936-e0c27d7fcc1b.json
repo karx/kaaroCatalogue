@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9e896012-4df0-4c42-8936-e0c27d7fcc1b",
+  "name": "मौत बिसारी बावरे, अचरज कीया कौन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The foolish forget about death, amazed at what? The body returns to dust, just as flour returns to dough.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मौत बिसारी बावरे, अचरज कीया कौन।\nतन माटी में मिल गया, ज्‍यौं आटा में लौन।।९०३।।",
+    "translation": "The foolish forget about death, amazed at what? The body returns to dust, just as flour returns to dough.",
+    "meaning": "मूर्ख लोग मौत को भूल जाते हैं, आश्चर्य किस बात पर? शरीर मिट्टी में मिल जाता है, जैसे आटा फिर से गूंथा जाता है।",
+    "explanation": "कबीर इस दोहे में मृत्यु की वास्तविकता को सरल भाषा में प्रस्तुत करते हैं। वे बताते हैं कि लोग अक्सर मौत को भूल जाते हैं और इसमें आश्चर्यचकित होते हैं। शरीर का मिट्टी में मिल जाना एक स्वाभाविक प्रक्रिया है, जैसा आटा गूंथा जाता है। कबीर इस दोहे के माध्यम से जीवन की अस्थिरता और मृत्यु की सच्चाई को स्वीकार करने का संदेश देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.623Z"
+  }
+}

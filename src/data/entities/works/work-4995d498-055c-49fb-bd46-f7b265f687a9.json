@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4995d498-055c-49fb-bd46-f7b265f687a9",
+  "name": "लकड़ी कहै लुहार की, तू मति जारे मोहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wood says to the blacksmith, 'Do not burn me.' One day will come when I will burn you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लकड़ी कहै लुहार की, तू मति जारे मोहिं।\nएक दिन ऐसा होयगा, मैं जारौंगी तोहि।।१४४।।",
+    "translation": "The wood says to the blacksmith, 'Do not burn me.' One day will come when I will burn you.",
+    "meaning": "लकड़ी लोहार से कहती है, 'तू मुझे मत जला।' एक दिन ऐसा आएगा जब मैं तुझे जलाऊंगी।",
+    "explanation": "यह दोहा जीवन के चक्र और कर्म के सिद्धांत को दर्शाता है। कबीर इस रूपक के माध्यम से कहते हैं कि जो आज दूसरों के साथ बुरा कर रहा है, उसे भी एक दिन अपने कर्मों का फल भुगतना पड़ेगा। इस प्रकार जीवन में सही मार्ग पर चलने की शिक्षा दी गई है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

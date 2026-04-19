@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d910e24b-a223-4175-95f0-4a07ac671327",
+  "name": "साकट कहा न कहि चलै, सुनहा कहा न खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wicked person will not speak truthfully, and the wise will not consume what is impure. If a crow defiles a monastery, does that monastery lose its sanctity?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साकट कहा न कहि चलै, सुनहा कहा न खाय।\nजो कौवा मठ हगि भरै, तो मठ को कहा नशाय।।३०२।।",
+    "translation": "The wicked person will not speak truthfully, and the wise will not consume what is impure. If a crow defiles a monastery, does that monastery lose its sanctity?",
+    "meaning": "साकट व्यक्ति सच्चाई नहीं बोलेगा, और समझदार व्यक्ति अपवित्र चीज़ें नहीं खाएगा। अगर कौवा मठ को गंदा कर देता है, तो क्या मठ की पवित्रता समाप्त हो जाती है?",
+    "explanation": "इस दोहे में कबीर साकट व्यक्ति की चरित्रहीनता और धर्म का सार समझाते हैं। जैसे एक मठ को कौवे की गंदगी से अपवित्र नहीं माना जाता, वैसे ही किसी के गलत आचरण से धर्म का मूल नहीं बदलता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

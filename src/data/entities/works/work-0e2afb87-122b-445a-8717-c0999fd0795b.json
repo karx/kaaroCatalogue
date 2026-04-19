@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0e2afb87-122b-445a-8717-c0999fd0795b",
+  "name": "साधु सती और सूरमा, राखा रहै न ओट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint, sage, and warrior do not hide behind a shield. With their heads adorned with flags, they face all challenges bravely.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सती और सूरमा, राखा रहै न ओट।\nमाथा बांधि पताक सों, नेजा घालैं चोट।।६१४।।",
+    "translation": "A saint, sage, and warrior do not hide behind a shield. With their heads adorned with flags, they face all challenges bravely.",
+    "meaning": "संत, ऋषि और योद्धा कभी भी छिपे हुए नहीं रहते। वे अपने सिर पर ध्वज बांधकर सभी चुनौतियों का सामना बहादुरी से करते हैं।",
+    "explanation": "संतों और योद्धाओं की महिमा उनके साहस और दृढ़ता में है। वे किसी भी स्थिति में छिपते नहीं हैं और खुलकर सभी समस्याओं का सामना करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-22e24fd9-0423-4af8-9a80-ca7a120becbf",
+  "name": "Dil Hi To Hai Na Sang-o-Khisht",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "abstract": "It is but a heart, not stone or brick, why should it not fill with pain?\nI shall weep a thousand times, why should anyone torment me?\n\nI do not lie fallen at your door forever\nCurse such a life that I...",
+  "content": {
+    "original": "دلِ ہی تو ہے نہ سنگ و خشت درد سے بھر نہ آئے کیوں\nروئیں گے ہم ہزار بار کوئی ہمیں ستائے کیوں\n\nدائم پڑا ہوا ترے در پر نہیں ہوں میں\nخاک ایسی زندگی پہ کہ پتھر سے بھی نہ ہوں",
+    "transliteration": "Dil hi to hai na sang-o-khisht dard se bhar na aaye kyun\nRoyenge hum hazaar baar koi humein sataye kyun\n\nDaayam para hua tere dar par nahin hoon main\nKhaak aisi zindagi pe ke pathar se bhi na hoon",
+    "translation": "It is but a heart, not stone or brick, why should it not fill with pain?\nI shall weep a thousand times, why should anyone torment me?\n\nI do not lie fallen at your door forever\nCurse such a life that I am not even like stone"
+  },
+  "keywords": [
+    "Ghazal",
+    "Urdu"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.010Z"
+  }
+}

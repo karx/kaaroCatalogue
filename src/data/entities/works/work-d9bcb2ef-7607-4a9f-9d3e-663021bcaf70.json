@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d9bcb2ef-7607-4a9f-9d3e-663021bcaf70",
+  "name": "सतगुरु महिमा अनंत है, अनंत किया उपकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The glory of the True Guru is infinite, and their benevolence is boundless. The eyes reveal infinite truths and their manifestations are endless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु महिमा अनंत है, अनंत किया उपकार।\nलोचन अनंत उघारिया, अनंत दिखावन हार।।५०२।।",
+    "translation": "The glory of the True Guru is infinite, and their benevolence is boundless. The eyes reveal infinite truths and their manifestations are endless.",
+    "meaning": "सतगुरु की महिमा अनंत है और उनकी कृपा भी अपार है। उनकी दृष्टि अनंत सत्य प्रकट करती है और उनकी अवतार की शक्ति भी असीम है।",
+    "explanation": "यह दोहा सतगुरु की अनंत महिमा और उनकी कृपा को दर्शाता है। सतगुरु की दृष्टि और उनकी उपस्थिति अनंत सत्य और ज्ञान को प्रकट करती है, जिससे व्यक्ति को असीम लाभ और अनुभव प्राप्त होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.463Z"
+  }
+}

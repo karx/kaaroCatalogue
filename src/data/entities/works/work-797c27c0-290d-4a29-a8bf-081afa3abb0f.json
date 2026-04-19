@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-797c27c0-290d-4a29-a8bf-081afa3abb0f",
+  "name": "मलमल खासा पहिनते, खाते नागर पान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing fine muslin and eating betel leaves, They walk in a crooked manner, full of pride.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मलमल खासा पहिनते, खाते नागर पान।\nटेढ़ा होकर चलते, करते बहुत गुमान।।४२९।।",
+    "translation": "Wearing fine muslin and eating betel leaves, They walk in a crooked manner, full of pride.",
+    "meaning": "मलमल की कपड़े पहनकर और नागर पान खाते हैं। वे टेढ़े होकर चलते हैं और गर्व से भरे रहते हैं।",
+    "explanation": "कबीर इस दोहे में आडंबर और आत्ममुग्धता की बात करते हैं। वह बताते हैं कि लोग मलमल के कपड़े पहनकर और पान खाते हुए गर्व करते हैं, लेकिन उनकी चाल टेढ़ी होती है। यह दोहा बाहरी दिखावे और आंतरिक वास्तविकता के बीच का फर्क दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

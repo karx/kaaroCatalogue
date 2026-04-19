@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a38b4bf6-51d7-454f-8e95-17c3a1bbc39e",
+  "name": "कबीर लहरि समुद्र की, केतो आवै जांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the waves of the ocean come and go. I am devoted to the servant who turns them back into the ocean.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर लहरि समुद्र की, केतो आवै जांहि।\nबलिहारी वा दास की, उलटि समावै मांहि।।११३९।।",
+    "translation": "Kabir says that the waves of the ocean come and go. I am devoted to the servant who turns them back into the ocean.",
+    "meaning": "कबीर कहते हैं कि समुद्र की लहरें आती-जाती रहती हैं। मैं उस सेवक के प्रति समर्पित हूं जो इन्हें वापस समुद्र में मिलाता है।",
+    "explanation": "इस दोहे में कबीर ने समुद्र की लहरों का उदाहरण देकर भ्रम और सत्य के बीच के अंतर को बताया है। उन्होंने कहा कि जो व्यक्ति लहरों को समुद्र में वापस मिला देता है, वह वास्तव में समर्पित और ज्ञान प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

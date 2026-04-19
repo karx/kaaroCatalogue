@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-570d54e5-e88f-4974-b72e-aa6698b93b50",
+  "name": "क्‍यूं नृप नारी नींदये, क्‍यूं पनिहारी कौं मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why do the king and queen sleep, and why is the water carrier honored? One who adorns the bride and always remembers Ram, is truly honored.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्‍यूं नृप नारी नींदये, क्‍यूं पनिहारी कौं मान।\nव मांग संवारै पीव कौं, वा नित उठि सुमिरै राम।।१९८४।।",
+    "translation": "Why do the king and queen sleep, and why is the water carrier honored? One who adorns the bride and always remembers Ram, is truly honored.",
+    "meaning": "राजा और रानी क्यों सोते हैं, और पानी भरने वाली को क्यों सम्मानित किया जाता है? जो दुल्हन को सजाता है और हमेशा राम का स्मरण करता है, वही सच्चे सम्मान का पात्र है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि भौतिक सम्मान और सोना कुछ भी नहीं है। सच्चा सम्मान उस व्यक्ति को मिलता है जो हर समय राम का ध्यान करता है और भक्ति में लीन रहता है। यह भक्ति और आध्यात्मिक समर्पण की वास्तविकता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.535Z"
+  }
+}

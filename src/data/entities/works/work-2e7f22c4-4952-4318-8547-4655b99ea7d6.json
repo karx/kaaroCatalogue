@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e7f22c4-4952-4318-8547-4655b99ea7d6",
+  "name": "na ganwao nawak-e-nim-kash dil-e-reza-reza ganwa diya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/na-ganvaao-naavak-e-niim-kash-dil-e-reza-reza-ganvaa-diyaa-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.205Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/na-ganvaao-naavak-e-niim-kash-dil-e-reza-reza-ganvaa-diyaa-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nna gañvāo nāvak-e-nīm-kash dil-e-reza-reza gañvā diyā\njo bache haiñ sañg sameT lo tan-e-dāġh-dāġh luTā diyā\nmire chāra-gar ko naved ho saf-e-dushmanāñ ko ḳhabar karo\njo vo qarz rakhte the jaan par vo hisāb aaj chukā diyā\nkaro kaj jabīñ pe sar-e-kafan mire qātiloñ ko gumāñ na ho\nki ġhurūr-e-ishq kā bāñkpan pas-e-marg ham ne bhulā diyā\nudhar ek harf ki kushtanī yahāñ laakh uzr thā guftanī\njo kahā to sun ke uḌā diyā jo likhā to paḌh ke miTā diyā\njo ruke to koh-e-girāñ the ham jo chale to jaañ se guzar ga.e\nrah-e-yār ham ne qadam qadam tujhe yādgār banā diyā\nna ganwao nawak-e-nim-kash dil-e-reza-reza ganwa diya\njo bache hain sang sameT lo tan-e-dagh-dagh luTa diya\nmere chaara-gar ko nawed ho saf-e-dushmanan ko KHabar karo\njo wo qarz rakhte the jaan par wo hisab aaj chuka diya\nkaro kaj jabin pe sar-e-kafan mere qatilon ko guman na ho\nki ghurur-e-ishq ka bankpan pas-e-marg hum ne bhula diya\nudhar ek harf ki kushtani yahan lakh uzr tha guftani\njo kaha to sun ke uDa diya jo likha to paDh ke miTa diya\njo ruke to koh-e-giran the hum jo chale to jaan se guzar gae\nrah-e-yar hum ne qadam qadam tujhe yaadgar bana diya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nنہ گنواؤ ناوک نیم کش دل ریزہ ریزہ گنوا دیا\nجو بچے ہیں سنگ سمیٹ لو تن داغ داغ لٹا دیا\nمرے چارہ گر کو نوید ہو صف دشمناں کو خبر کرو\nجو وہ قرض رکھتے تھے جان پر وہ حساب آج چکا دیا\nکرو کج جبیں پہ سر کفن مرے قاتلوں کو گماں نہ ہو\nکہ غرور عشق کا بانکپن پس مرگ ہم نے بھلا دیا\nادھر ایک حرف کہ کشتنی یہاں لاکھ عذر تھا گفتنی\nجو کہا تو سن کے اڑا دیا جو لکھا تو پڑھ کے مٹا دیا\nجو رکے تو کوہ گراں تھے ہم جو چلے تو جاں سے گزر گئے\nرہ یار ہم نے قدم قدم تجھے یادگار بنا دیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nन गँवाओ नावक-ए-नीम-कश दिल-ए-रेज़ा-रेज़ा गँवा दिया\nजो बचे हैं संग समेट लो तन-ए-दाग़-दाग़ लुटा दिया\nमिरे चारा-गर को नवेद हो सफ़-ए-दुश्मनाँ को ख़बर करो\nजो वो क़र्ज़ रखते थे जान पर वो हिसाब आज चुका दिया\nकरो कज जबीं पे सर-ए-कफ़न मिरे क़ातिलों को गुमाँ न हो\nकि ग़ुरूर-ए-इश्क़ का बाँकपन पस-ए-मर्ग हम ने भुला दिया\nउधर एक हर्फ़ कि कुश्तनी यहाँ लाख उज़्र था गुफ़्तनी\nजो कहा तो सुन के उड़ा दिया जो लिखा तो पढ़ के मिटा दिया\nजो रुके तो कोह-ए-गिराँ थे हम जो चले तो जाँ से गुज़र गए\nरह-ए-यार हम ने क़दम क़दम तुझे यादगार बना दिया",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:56.730Z"
+  }
+}

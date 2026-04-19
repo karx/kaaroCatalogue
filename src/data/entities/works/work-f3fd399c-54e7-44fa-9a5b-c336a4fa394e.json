@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3fd399c-54e7-44fa-9a5b-c336a4fa394e",
+  "name": "आज काल के लोग हैं, मिलि कै बिछुरी जाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "People of today meet and then part ways. They seek their own gain, swearing by Ram's name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आज काल के लोग हैं, मिलि कै बिछुरी जाहिं।\nलाहा कारण आपने, सौगन्ध राम कि खाहिं।।३४६।।",
+    "translation": "People of today meet and then part ways. They seek their own gain, swearing by Ram's name.",
+    "meaning": "आजकल के लोग मिलते हैं और फिर बिछड़ जाते हैं। वे अपने लाभ की कामना करते हैं, राम की सौगंध लेते हैं।।",
+    "explanation": "इस दोहे में कबीरदास ने आजकल के लोगों की स्वार्थपरक प्रवृत्ति का वर्णन किया है। वे मिलते हैं और फिर अपने स्वार्थ की वजह से बिछड़ जाते हैं, और राम के नाम की सौगंध लेते हैं। यह दोहा जीवन में स्वार्थ की प्रवृत्ति और उसकी अस्थिरता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.393Z"
+  }
+}

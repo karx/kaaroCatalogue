@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2fcb2632-2898-462a-a4d8-3e559a28c821",
+  "name": "Zikr-e-Mir",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Zikr-e-Mir",
+    "retrievedAt": "2026-01-04T18:39:02.124Z"
+  }
+}

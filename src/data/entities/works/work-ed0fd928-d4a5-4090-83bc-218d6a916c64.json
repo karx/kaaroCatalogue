@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ed0fd928-d4a5-4090-83bc-218d6a916c64",
+  "name": "कोठी तो यह काठ की, ढिग ढिग दीन्‍ही आगि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wooden house is set on fire from nearby. The learned ones ponder and get trapped, while the non-believers escape.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोठी तो यह काठ की, ढिग ढिग दीन्‍ही आगि।\nपंडित पढ़‍ि गुणि झोली भये, साकत उबरे भागि।।१४८७।।",
+    "translation": "The wooden house is set on fire from nearby. The learned ones ponder and get trapped, while the non-believers escape.",
+    "meaning": "यह लकड़ी का घर है और इसके पास ही आग लगा दी गई है। पंडित पढ़कर और विचार कर फंस गए, जबकि साकत (आस्थाहीन) भागकर बच गए।",
+    "explanation": "इस दोहे में कबीर ने जीवन की अस्थिरता को एक जलते हुए लकड़ी के घर के रूप में चित्रित किया है। पंडित (ज्ञानियों) का जीवन विचारों में उलझा रहता है, लेकिन जीवन की नश्वरता को नकारने वाले लोग तात्कालिक रूप से भले ही बच जाएं। यह दोहा बताता है कि ज्ञान और चिंतन भी कभी-कभी हमें समस्याओं से तुरंत बाहर नहीं निकाल पाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.660Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a2cf4872-9ea0-453a-a121-907e3b9cd2d1",
+  "name": "खसम कहावै बैरनव, घर में साकट जोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The master may call her a wicked woman, but if there is a wicked person in the house, how can true devotion exist where there are two opposing ideas?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खसम कहावै बैरनव, घर में साकट जोय।\nएक धरा में दो मता, भक्ति कहाँ ते होय।।३१०।।",
+    "translation": "The master may call her a wicked woman, but if there is a wicked person in the house, how can true devotion exist where there are two opposing ideas?",
+    "meaning": "स्वामी उसे बुरी महिला कह सकते हैं, लेकिन यदि घर में कोई बुरा व्यक्ति हो, तो जहां दो विरोधी विचार हों, वहां सच्ची भक्ति कैसे हो सकती है?",
+    "explanation": "इस दोहे में कबीर बताते हैं कि भक्ति की सच्चाई तब ही संभव है जब घर में एकता और सच्चाई हो। अगर एक ही जगह पर दो विरोधी विचार या व्यक्ति हों, तो भक्ति की गहराई और सच्चाई संभव नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

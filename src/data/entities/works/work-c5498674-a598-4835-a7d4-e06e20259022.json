@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c5498674-a598-4835-a7d4-e06e20259022",
+  "name": "Bang-e-Dra",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-allama-iqbal"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Bang-e-Dra",
+    "retrievedAt": "2026-01-04T18:39:02.985Z"
+  }
+}

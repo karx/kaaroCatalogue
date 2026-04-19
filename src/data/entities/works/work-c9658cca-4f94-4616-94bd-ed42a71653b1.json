@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c9658cca-4f94-4616-94bd-ed42a71653b1",
+  "name": "राम वियोगी विकल तन, इन दुखवै मति कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body of one separated from Ram is restless, no one understands this sorrow. When touched, they die, like a dry leaf in a pond.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम वियोगी विकल तन, इन दुखवै मति कोय।\nछूबत ही मरि जाहिंगे, तालाबेली होय।।१६६६।।",
+    "translation": "The body of one separated from Ram is restless, no one understands this sorrow. When touched, they die, like a dry leaf in a pond.",
+    "meaning": "जो राम से दूर होता है, उसका शरीर बेचैन रहता है, कोई इस दुख को नहीं समझता। जब छुआ जाता है, वे मर जाते हैं, जैसे तालाब में सूखा पत्ता।",
+    "explanation": "कबीर इस दोहे में राम से वियोग के दुख और उसकी गहराई को दर्शाते हैं। उन्होंने इसे तालाब में सूखे पत्ते की तरह बताया, जो छूने से मर जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.787Z"
+  }
+}

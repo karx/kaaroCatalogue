@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-789ea911-fc80-4d1a-b5f0-86e47926aa6a",
+  "name": "पाणी केरा पूतला, राख्‍या पवन संवारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Humans are mere dolls of water, sustained by the breath of life. The Creator has infused them with divine light, allowing them to speak and act.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाणी केरा पूतला, राख्‍या पवन संवारि।\nनानां बांणी बोलिया, जोति धरी करतारि।।१८६६।।",
+    "translation": "Humans are mere dolls of water, sustained by the breath of life. The Creator has infused them with divine light, allowing them to speak and act.",
+    "meaning": "मनुष्य जल के पुतले हैं, जिन्हें जीवन की हवा ने संवार रखा है। सृष्टिकर्ता ने उनमें दिव्य प्रकाश डाला है, जिससे वे बोलते और कर्म करते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी ने मनुष्य की अस्थिरता और उसके जीवन के मूल स्रोत की ओर ध्यान आकर्षित किया है। वे कहते हैं कि मनुष्य मात्र जल का पुतला है, जिसमें प्राण वायु ने जीवन संचार किया है। सृष्टिकर्ता ने उसे बोलने की शक्ति और दिव्यता प्रदान की है, जिससे वह इस संसार में विभिन्न कार्य करता है। यह दोहा हमें हमारी वास्तविकता और भगवान की शक्ति का एहसास कराता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.970Z"
+  }
+}

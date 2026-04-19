@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7af56dac-4eb7-417a-b7fb-d1bad11be283",
+  "name": "कांमी लज्‍जा ना करैं, मन मांहे अहिलाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The lustful feel no shame, their mind finds perverse joy. They don't ask sleep for rest, nor hunger for taste.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कांमी लज्‍जा ना करैं, मन मांहे अहिलाद।\nनींद न मांगै सांथरा, भूख न मांगै स्‍वाद।।२०५७।।",
+    "translation": "The lustful feel no shame, their mind finds perverse joy. They don't ask sleep for rest, nor hunger for taste.",
+    "meaning": "कामुक व्यक्ति को कोई लज्जा नहीं होती, उसके मन में विकृत आनंद होता है। वह नींद से विश्राम की उम्मीद नहीं करता, और न ही भूख से स्वाद की।",
+    "explanation": "कबीर इस दोहे में कामुक व्यक्ति की मानसिकता का वर्णन करते हैं। वह व्यक्ति जिसे कामना ने घेर रखा है, उसे अपने कृत्यों पर कोई लज्जा नहीं होती। उसके मन में केवल विकृत आनंद होता है। उसकी नींद विश्राम के लिए नहीं होती और न ही उसकी भूख भोजन के स्वाद के लिए होती है। यहाँ कबीर हमें इस विकृति से बचने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.088Z"
+  }
+}

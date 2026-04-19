@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-rekhta-1767558367745-8gnad",
+  "name": "tere ishq ki intiha chahta hun",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-allama-iqbal"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/tire-ishq-kii-intihaa-chaahtaa-huun-allama-iqbal-ghazals",
+    "retrievedAt": "2026-01-04T20:26:07.745Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/tire-ishq-kii-intihaa-chaahtaa-huun-allama-iqbal-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ntire ishq kī intihā chāhtā huuñ\nmirī sādgī dekh kyā chāhtā huuñ\nsitam ho ki ho vada-e-be-hijābī\nkoī baat sabr-āzmā chāhtā huuñ\nye jannat mubārak rahe zāhidoñ ko\nki maiñ aap kā sāmnā chāhtā huuñ\nzarā sā to dil huuñ magar shoḳh itnā\nvahī lan-tarānī sunā chāhtā huuñ\nkoī dam kā mehmāñ huuñ ai ahl-e-mahfil\ncharāġh-e-sahar huuñ bujhā chāhtā huuñ\nbharī bazm meñ raaz kī baat kah dī\nbaḌā be-adab huuñ sazā chāhtā huuñ\ntere ishq ki intiha chahta hun\nmeri sadgi dekh kya chahta hun\nsitam ho ki ho wada-e-be-hijabi\nkoi baat sabr-azma chahta hun\nye jannat mubarak rahe zahidon ko\nki main aap ka samna chahta hun\nzara sa to dil hun magar shoKH itna\nwahi lan-tarani suna chahta hun\nkoi dam ka mehman hun ai ahl-e-mahfil\ncharagh-e-sahar hun bujha chahta hun\nbhari bazm mein raaz ki baat kah di\nbaDa be-adab hun saza chahta hun",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nترے عشق کی انتہا چاہتا ہوں\nمری سادگی دیکھ کیا چاہتا ہوں\nستم ہو کہ ہو وعدۂ بے حجابی\nکوئی بات صبر آزما چاہتا ہوں\nیہ جنت مبارک رہے زاہدوں کو\nکہ میں آپ کا سامنا چاہتا ہوں\nذرا سا تو دل ہوں مگر شوخ اتنا\nوہی لن ترانی سنا چاہتا ہوں\nکوئی دم کا مہماں ہوں اے اہل محفل\nچراغ سحر ہوں بجھا چاہتا ہوں\nبھری بزم میں راز کی بات کہہ دی\nبڑا بے ادب ہوں سزا چاہتا ہوں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nतिरे इश्क़ की इंतिहा चाहता हूँ\nमिरी सादगी देख क्या चाहता हूँ\nसितम हो कि हो वादा-ए-बे-हिजाबी\nकोई बात सब्र-आज़मा चाहता हूँ\nये जन्नत मुबारक रहे ज़ाहिदों को\nकि मैं आप का सामना चाहता हूँ\nज़रा सा तो दिल हूँ मगर शोख़ इतना\nवही लन-तरानी सुना चाहता हूँ\nकोई दम का मेहमाँ हूँ ऐ अहल-ए-महफ़िल\nचराग़-ए-सहर हूँ बुझा चाहता हूँ\nभरी बज़्म में राज़ की बात कह दी\nबड़ा बे-अदब हूँ सज़ा चाहता हूँ",
+    "lastUpdated": "2026-01-04T20:26:17.505Z"
+  }
+}

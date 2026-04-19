@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1f2c6f5-2133-4dc5-b247-0bc028393480",
+  "name": "प्रीति कर सुख लेने को, सो सुख गया हिराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The pleasure gained from false love is fleeting, like the leech that, having grasped a snake, regrets it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रीति कर सुख लेने को, सो सुख गया हिराय।\nजैसे पाइ छछून्दरी, पकड़ि साँप पछिताय।।३९३।।",
+    "translation": "The pleasure gained from false love is fleeting, like the leech that, having grasped a snake, regrets it.",
+    "meaning": "झूठे प्रेम से प्राप्त सुख क्षणिक होता है, जैसे छछून्दरी जो साँप को पकड़कर पछताती है।",
+    "explanation": "इस दोहे में कबीर दास जी ने झूठे प्रेम और उसके परिणाम को स्पष्ट किया है। वे बताते हैं कि झूठे प्रेम से प्राप्त सुख स्थायी नहीं होता, और यह उसी तरह है जैसे छछून्दरी ने साँप को पकड़ लिया और बाद में पछताया। इसका तात्पर्य है कि अगर किसी को झूठे प्रेम में सुख की उम्मीद होती है, तो वह अंततः पछताएगा, क्योंकि वह प्रेम कभी भी स्थायी और वास्तविक नहीं होता। यह दोहा हमें सिखाता है कि केवल सच्चे और वास्तविक प्रेम में ही स्थायी सुख प्राप्त हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

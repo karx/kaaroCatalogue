@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5c26d392-8172-42fa-8bce-aaa2cad0c61c",
+  "name": "माला फेरत जग भया, मिटा न मन का फेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Turning the beads does not remove the inner turmoil. Throw away the beads of the hand and focus on the turmoil of the mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला फेरत जग भया, मिटा न मन का फेर।\nकर का मनका डारि दे, मनका मन का फेर।।७४५।।",
+    "translation": "Turning the beads does not remove the inner turmoil. Throw away the beads of the hand and focus on the turmoil of the mind.",
+    "meaning": "माला फेरने से मन की उलझनें नहीं मिटतीं। हाथ की माला को छोड़ दो और मन की उलझनों पर ध्यान केंद्रित करो।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि माला फेरने से केवल बाहरी क्रियाएँ पूरी होती हैं, लेकिन मन की उलझनों का समाधान नहीं होता। वास्तविक ध्यान और साधना मन की उलझनों पर केंद्रित होनी चाहिए, न कि केवल बाहरी प्रतीकों पर। हाथ की माला को छोड़कर, हमें अपने मन की स्थिति पर ध्यान देना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f8c15be5-414f-43df-b630-d11b186dbc1c",
+  "name": "कबीर मिरतक देखकर, मति धारो विश्‍वास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, do not trust a dead person as they might wake up as a ghost and destroy the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मिरतक देखकर, मति धारो विश्‍वास।\nकबहूं जागै भूत ह्वे, करै पिंड का नाश।।१०४०।।",
+    "translation": "Kabir says, do not trust a dead person as they might wake up as a ghost and destroy the body.",
+    "meaning": "कबीर कहते हैं, मृतक पर विश्वास न करो, क्योंकि वह भूत के रूप में जाग सकता है और शरीर का नाश कर सकता है।",
+    "explanation": "इस दोहे में कबीर चेतावनी देते हैं कि हमें मृत शरीर पर विश्वास नहीं करना चाहिए, क्योंकि कभी-कभी मरा हुआ व्यक्ति भी भूत के रूप में जाग सकता है और नुकसान पहुंचा सकता है। यह दोहा मन और उसकी चंचलता का प्रतीक है, जो हमेशा जागरूक रहने की आवश्यकता को बताता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.164Z"
+  }
+}

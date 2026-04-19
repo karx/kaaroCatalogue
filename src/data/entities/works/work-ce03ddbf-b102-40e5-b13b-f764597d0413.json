@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ce03ddbf-b102-40e5-b13b-f764597d0413",
+  "name": "कुरुक्षेत्र सब मेदिनी, खेती करै किसान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kurukshetra is a fertile land where farmers cultivate. The deer of illusion roam around, while the fields remain barren.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुरुक्षेत्र सब मेदिनी, खेती करै किसान।\nमोह मिरग सब चरि गया, आसन रहि खलियान।।१२१९।।",
+    "translation": "Kurukshetra is a fertile land where farmers cultivate. The deer of illusion roam around, while the fields remain barren.",
+    "meaning": "कुरुक्षेत्र एक उपजाऊ भूमि है जहाँ किसान खेती करते हैं। मोह के मृग इधर-उधर घूमते हैं, जबकि खेत खाली रह जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने कुरुक्षेत्र की उपजाऊ भूमि और मोह के प्रभाव को दर्शाया है। जैसे किसान उपजाऊ भूमि पर खेती करते हैं, मोह के मृग उसकी उपजाऊता को नष्ट कर देते हैं, जिससे खेत बंजर रह जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.270Z"
+  }
+}

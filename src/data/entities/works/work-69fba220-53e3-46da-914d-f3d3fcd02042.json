@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-69fba220-53e3-46da-914d-f3d3fcd02042",
+  "name": "ऐसा कोई न मिले, हम कौं लेइ पिछानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one is found to lift us up and rescue us. Only by showing mercy to ourselves, we can be saved from the field of strife.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई न मिले, हम कौं लेइ पिछानि।\nअपना करि किरपा करे, ले उतारे मैदानि।।१९६५।।",
+    "translation": "No one is found to lift us up and rescue us. Only by showing mercy to ourselves, we can be saved from the field of strife.",
+    "meaning": "कोई ऐसा नहीं मिलता जो हमें उठाकर बचा सके। केवल अपनी करुणा से ही हम संघर्ष के क्षेत्र से बाहर निकल सकते हैं।",
+    "explanation": "इस दोहे में कबीर ने आत्म-करुणा और आत्म-सहायता की महत्वपूर्णता को व्यक्त किया है। उन्होंने कहा है कि बाहरी मदद की कमी के बावजूद, आत्म-प्रेम और करुणा से हम अपनी समस्याओं और संघर्षों से बाहर निकल सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.530Z"
+  }
+}

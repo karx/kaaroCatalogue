@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c2c7b19d-eb46-403a-b7b9-6c3ce371baee",
+  "name": "donon jahan teri mohabbat mein haar ke",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/donon-jahaan-terii-mohabbat-men-haar-ke-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.200Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/donon-jahaan-terii-mohabbat-men-haar-ke-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ndonoñ jahān terī mohabbat meñ haar ke\nvo jā rahā hai koī shab-e-ġham guzār ke\nvīrāñ hai mai-kada ḳhum-o-sāġhar udaas haiñ\ntum kyā ga.e ki ruuTh ga.e din bahār ke\nik fursat-e-gunāh milī vo bhī chaar din\ndekhe haiñ ham ne hausle parvardigār ke\nduniyā ne terī yaad se begāna kar diyā\ntujh se bhī dil-fareb haiñ ġham rozgār ke\nbhūle se muskurā to diye the vo aaj 'faiz'\nmat pūchh valvale dil-e-nā-kardā-kār ke\ndonon jahan teri mohabbat mein haar ke\nwo ja raha hai koi shab-e-gham guzar ke\nviran hai mai-kada KHum-o-saghar udas hain\ntum kya gae ki ruTh gae din bahaar ke\nek fursat-e-gunah mili wo bhi chaar din\ndekhe hain hum ne hausle parwardigar ke\nduniya ne teri yaad se begana kar diya\ntujh se bhi dil-fareb hain gham rozgar ke\nbhule se muskura to diye the wo aaj 'faiz'\nmat puchh walwale dil-e-na-karda-kar ke",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nدونوں جہان تیری محبت میں ہار کے\nوہ جا رہا ہے کوئی شب غم گزار کے\nویراں ہے مے کدہ خم و ساغر اداس ہیں\nتم کیا گئے کہ روٹھ گئے دن بہار کے\nاک فرصت گناہ ملی وہ بھی چار دن\nدیکھے ہیں ہم نے حوصلے پروردگار کے\nدنیا نے تیری یاد سے بیگانہ کر دیا\nتجھ سے بھی دل فریب ہیں غم روزگار کے\nبھولے سے مسکرا تو دیے تھے وہ آج فیضؔ\nمت پوچھ ولولے دل ناکردہ کار کے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nदोनों जहान तेरी मोहब्बत में हार के\nवो जा रहा है कोई शब-ए-ग़म गुज़ार के\nवीराँ है मय-कदा ख़ुम-ओ-साग़र उदास हैं\nतुम क्या गए कि रूठ गए दिन बहार के\nइक फ़ुर्सत-ए-गुनाह मिली वो भी चार दिन\nदेखे हैं हम ने हौसले पर्वरदिगार के\nदुनिया ने तेरी याद से बेगाना कर दिया\nतुझ से भी दिल-फ़रेब हैं ग़म रोज़गार के\nभूले से मुस्कुरा तो दिए थे वो आज 'फ़ैज़'\nमत पूछ वलवले दिल-ए-ना-कर्दा-कार के",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:28.945Z"
+  }
+}

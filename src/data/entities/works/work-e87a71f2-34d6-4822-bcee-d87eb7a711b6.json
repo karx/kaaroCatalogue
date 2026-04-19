@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e87a71f2-34d6-4822-bcee-d87eb7a711b6",
+  "name": "बंधा पानी निरमला, जो टूक गहिरा होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Water that is bound is pure if it is deep. Similarly, a saint is noble if he has the means to aid others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बंधा पानी निरमला, जो टूक गहिरा होय।\nसाधु जन बैठा भला, जो कुछ साधन होय।।६१७।।",
+    "translation": "Water that is bound is pure if it is deep. Similarly, a saint is noble if he has the means to aid others.",
+    "meaning": "बंधा हुआ पानी यदि गहरा हो तो वह शुद्ध रहता है। इसी प्रकार, एक साधु भी उत्तम होता है यदि उसके पास दूसरों की सहायता करने के साधन होते हैं।",
+    "explanation": "साधु की महानता उसकी साधनों की उपलब्धता से होती है। जैसे गहरा और बंधा हुआ पानी शुद्ध रहता है, वैसे ही एक साधु अपने साधनों के माध्यम से दूसरों की भलाई के लिए काम करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

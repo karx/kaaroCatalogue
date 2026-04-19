@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-afd21024-58b9-4ecd-9b41-f6ebaa185710",
+  "name": "aae kuchh abr kuchh sharab aae",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/aae-kuchh-abr-kuchh-sharaab-aae-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.203Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/aae-kuchh-abr-kuchh-sharaab-aae-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\naa.e kuchh abr kuchh sharāb aa.e\nis ke ba.ad aa.e jo azaab aa.e\nbām-e-mīnā se māhtāb utre\ndast-e-sāqī meñ āftāb aa.e\nhar rag-e-ḳhūñ meñ phir charāġhāñ ho\nsāmne phir vo be-naqāb aa.e\numr ke har varaq pe dil kī nazar\nterī mehr-o-vafā ke baab aa.e\nkar rahā thā ġham-e-jahāñ kā hisāb\naaj tum yaad be-hisāb aa.e\nna ga.ī tere ġham kī sardārī\ndil meñ yuuñ roz inqalāb aa.e\njal uThe bazm-e-ġhair ke dar-o-bām\njab bhī ham ḳhānumāñ-ḳharāb aa.e\nis tarah apnī ḳhāmushī gūñjī\ngoyā har samt se javāb aa.e\n'faiz' thī raah sar-ba-sar manzil\nham jahāñ pahuñche kāmyāb aa.e\naae kuchh abr kuchh sharab aae\nis ke baad aae jo azab aae\nbaam-e-mina se mahtab utre\ndast-e-saqi mein aaftab aae\nhar rag-e-KHun mein phir charaghan ho\nsamne phir wo be-naqab aae\numr ke har waraq pe dil ki nazar\nteri mehr-o-wafa ke bab aae\nkar raha tha gham-e-jahan ka hisab\naaj tum yaad be-hisab aae\nna gai tere gham ki sardari\ndil mein yun roz inqalab aae\njal uThe bazm-e-ghair ke dar-o-baam\njab bhi hum KHanuman-KHarab aae\nis tarah apni KHamushi gunji\ngoya har samt se jawab aae\n'faiz' thi rah sar-ba-sar manzil\nhum jahan pahunche kaamyab aae",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nآئے کچھ ابر کچھ شراب آئے\nاس کے بعد آئے جو عذاب آئے\nبام مینا سے ماہتاب اترے\nدست ساقی میں آفتاب آئے\nہر رگ خوں میں پھر چراغاں ہو\nسامنے پھر وہ بے نقاب آئے\nعمر کے ہر ورق پہ دل کی نظر\nتیری مہر و وفا کے باب آئے\nکر رہا تھا غم جہاں کا حساب\nآج تم یاد بے حساب آئے\nنہ گئی تیرے غم کی سرداری\nدل میں یوں روز انقلاب آئے\nجل اٹھے بزم غیر کے در و بام\nجب بھی ہم خانماں خراب آئے\nاس طرح اپنی خامشی گونجی\nگویا ہر سمت سے جواب آئے\nفیضؔ تھی راہ سر بسر منزل\nہم جہاں پہنچے کامیاب آئے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nआए कुछ अब्र कुछ शराब आए\nइस के बा'द आए जो अज़ाब आए\nबाम-ए-मीना से माहताब उतरे\nदस्त-ए-साक़ी में आफ़्ताब आए\nहर रग-ए-ख़ूँ में फिर चराग़ाँ हो\nसामने फिर वो बे-नक़ाब आए\nउम्र के हर वरक़ पे दिल की नज़र\nतेरी मेहर-ओ-वफ़ा के बाब आए\nकर रहा था ग़म-ए-जहाँ का हिसाब\nआज तुम याद बे-हिसाब आए\nन गई तेरे ग़म की सरदारी\nदिल में यूँ रोज़ इंक़लाब आए\nजल उठे बज़्म-ए-ग़ैर के दर-ओ-बाम\nजब भी हम ख़ानुमाँ-ख़राब आए\nइस तरह अपनी ख़ामुशी गूँजी\nगोया हर सम्त से जवाब आए\n'फ़ैज़' थी राह सर-ब-सर मंज़िल\nहम जहाँ पहुँचे कामयाब आए",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:35.600Z"
+  }
+}

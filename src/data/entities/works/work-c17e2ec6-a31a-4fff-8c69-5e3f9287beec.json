@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c17e2ec6-a31a-4fff-8c69-5e3f9287beec",
+  "name": "मोह सलिल की धार में, बहि गये गहिर गंभीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the current of the river of illusion, many have been carried away deeply. The subtle fish of awareness swims against the current of the water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मोह सलिल की धार में, बहि गये गहिर गंभीर।\nसूक्ष्‍म मछली सुरति है, चढ़ती उल्‍टी नीर।।१२१८।।",
+    "translation": "In the current of the river of illusion, many have been carried away deeply. The subtle fish of awareness swims against the current of the water.",
+    "meaning": "मोह की धार में कई लोग गहरे में बह गए हैं। जागरूकता की सूक्ष्म मछली उल्टी धारा में तैरती है।",
+    "explanation": "इस दोहे में कबीर ने मोह की धारा के प्रभाव को और जागरूकता की महत्वता को दर्शाया है। मोह की धारा में बहकर लोग गहरे में चले जाते हैं, जबकि जागरूकता की मछली उस उल्टी धारा में तैरती है और स्वयं को बचा लेती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.269Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8dab6bfd-e4fb-4307-8363-111ae365ffd1",
+  "name": "हंसा तो महाराणा का, आया थलियां माहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan is of the great king, it has come to the field. The crane kills one by one, not knowing the essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसा तो महाराणा का, आया थलियां माहिं।\nबगुला करि करि मारिया, मरम जो जानै नाहिं।।२१५५।।",
+    "translation": "The swan is of the great king, it has come to the field. The crane kills one by one, not knowing the essence.",
+    "meaning": "हंस महाराणा का है, जो खेतों में आया है। बगुला एक-एक करके मार रहा है, और उसकी वास्तविकता को नहीं जानता।",
+    "explanation": "इस दोहे में कबीर ने हंस और बगुला के माध्यम से एक गहरा संदेश दिया है। हंस को महाराणा का बताकर उसकी महानता को दर्शाया है, लेकिन बगुला उसकी हत्या कर रहा है, जो उसके वास्तविक मूल्य को नहीं समझता। यह दोहा यह सिखाता है कि जिन चीज़ों की वास्तविकता को हम समझ नहीं पाते, उनका उपयोग कर अन्य लोग हमें हानि पहुंचा सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.721Z"
+  }
+}

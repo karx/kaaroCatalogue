@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0666292a-d926-43d2-a555-feecf3381336",
+  "name": "साधुन के सतसंग से, थर-थर काँपे देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "From the company of saints, the body trembles with reverence. One should be careful that the affection does not fade due to feelings of false attachment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधुन के सतसंग से, थर-थर काँपे देह।\nकबहुँ भाव कुभाव ते, जनि मिटि जाय सनेह।।३८१।।",
+    "translation": "From the company of saints, the body trembles with reverence. One should be careful that the affection does not fade due to feelings of false attachment.",
+    "meaning": "संतों की संगति से शरीर श्रद्धा से कांपता है। व्यक्ति को यह ध्यान रखना चाहिए कि स्नेह झूठी भावनाओं से मिट न जाए।",
+    "explanation": "इस दोहे में कबीर दास जी बताते हैं कि संतों की संगति में व्यक्ति का शरीर श्रद्धा से कांपता है। लेकिन यह भी आवश्यक है कि इस श्रद्धा और स्नेह को बनाए रखा जाए और झूठी भावनाओं से प्रभावित न होने दिया जाए। इस दोहे का संदेश है कि संतों की संगति में भक्ति और श्रद्धा के साथ-साथ हमें अपनी भावनाओं की गहराई और सच्चाई पर ध्यान देना चाहिए, ताकि हमारा स्नेह स्थायी और सच्चा रहे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

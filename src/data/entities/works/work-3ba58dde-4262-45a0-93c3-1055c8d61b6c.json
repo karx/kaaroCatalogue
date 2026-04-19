@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3ba58dde-4262-45a0-93c3-1055c8d61b6c",
+  "name": "कबीर यह मन लालची, समझै नहीं गंवार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir describes the mind as greedy and ignorant. It is lazy in devotion but always ready for indulgence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह मन लालची, समझै नहीं गंवार।\nभजन करन को आलसी, खाने को तैयार।।१११८।।",
+    "translation": "Kabir describes the mind as greedy and ignorant. It is lazy in devotion but always ready for indulgence.",
+    "meaning": "कबीर ने मन को लालची और अज्ञानी बताया है। यह भजन करने में आलसी होता है लेकिन भोग-विलास के लिए हमेशा तैयार रहता है।",
+    "explanation": "इस दोहे में कबीर ने मन की लालच और उसकी प्रवृत्तियों पर प्रकाश डाला है। मन अक्सर भजन और ध्यान में आलसी होता है, लेकिन भोग और इच्छाओं के लिए हमेशा तैयार रहता है। यह उन आंतरिक संघर्षों को दर्शाता है जो व्यक्ति को भक्ति और भोग के बीच संतुलन बनाए रखने में मदद करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

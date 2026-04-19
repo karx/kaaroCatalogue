@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16971c25-c99a-4621-af50-bb78f96c0393",
+  "name": "जानि बूझि जड़ होय रहो, बल तजि निर्बल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Knowingly, one becomes inert, abandoning strength and becoming weak. Kabir says, no one takes care of such a saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जानि बूझि जड़ होय रहो, बल तजि निर्बल होय।\nकहहिं कबीर तेहि संत के, पला न पकरे कोय।।१५२३।।",
+    "translation": "Knowingly, one becomes inert, abandoning strength and becoming weak. Kabir says, no one takes care of such a saint.",
+    "meaning": "जान-बूझकर कोई जड़ हो जाता है, अपनी ताकत छोड़कर निर्बल हो जाता है। कबीर कहते हैं, ऐसे संत की कोई देखभाल नहीं करता।",
+    "explanation": "इस दोहे में कबीर उन संतों के बारे में बात कर रहे हैं जो जानबूझकर अपनी सांसारिक शक्तियों को त्याग देते हैं और अपने आपको निर्बल बना लेते हैं। यह उनके आत्म-समर्पण और विनम्रता का प्रतीक है। लेकिन समाज उन्हें नजरअंदाज कर देता है और उनकी देखभाल नहीं करता, क्योंकि वे समाज के सामान्य मानकों से अलग होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.931Z"
+  }
+}

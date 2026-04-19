@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6d4d8d9f-71cb-4aba-ab7a-0989835638fe",
+  "name": "राम नाम सुमिरन करै, सतगुरु पद निज ध्‍यान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chant the name of Ram and meditate on the true Guru's feet. Worship the soul, show compassion to all beings, and attain liberation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम सुमिरन करै, सतगुरु पद निज ध्‍यान।\nआतम पूजा जीव दया, लहै सो मुक्ति अमान।।९८५।।",
+    "translation": "Chant the name of Ram and meditate on the true Guru's feet. Worship the soul, show compassion to all beings, and attain liberation.",
+    "meaning": "राम का नाम सुमिरन करो और सच्चे गुरु के चरणों का ध्यान करो। आत्मा की पूजा करो, सभी जीवों पर दया करो, और मोक्ष प्राप्त करो।",
+    "explanation": "इस दोहे में कबीर दास जी राम नाम के सुमिरन और सतगुरु के ध्यान की महत्ता को बताते हैं। वह कहते हैं कि हमें अपने जीवन में राम का नाम जपना चाहिए और सच्चे गुरु के चरणों का ध्यान करना चाहिए। आत्मा की पूजा और सभी जीवों पर दया करके ही हम मोक्ष प्राप्त कर सकते हैं। यह दोहा हमें सच्ची भक्ति और करुणा के महत्व को समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.895Z"
+  }
+}

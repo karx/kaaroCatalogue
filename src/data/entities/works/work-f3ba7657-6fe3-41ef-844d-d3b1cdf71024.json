@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3ba7657-6fe3-41ef-844d-d3b1cdf71024",
+  "name": "दोहरा कथि कहहिं कबीर, प्रतिदिन समय जु देखि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says this twice: observe the passage of time daily. Once life is gone, it does not return; it does not come again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दोहरा कथि कहहिं कबीर, प्रतिदिन समय जु देखि।\nमुई गये न बहुरे, बहुरि न ऐहैं फेरि।।१५६८।।",
+    "translation": "Kabir says this twice: observe the passage of time daily. Once life is gone, it does not return; it does not come again.",
+    "meaning": "कबीर दोहरा कर कहते हैं: समय के हर दिन को देखो। जब जीवन चला जाता है, तो वह फिर वापस नहीं आता; वह दोबारा नहीं आता।",
+    "explanation": "इस दोहे में कबीर ने समय की अनंतता और मृत्यु की अटूटता की बात की है। उन्होंने कहा कि समय को ध्यानपूर्वक देखना चाहिए क्योंकि जब जीवन समाप्त हो जाता है, तो वह लौटकर नहीं आता है। इसलिए हमें अपने समय और जीवन की कीमत समझनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.208Z"
+  }
+}

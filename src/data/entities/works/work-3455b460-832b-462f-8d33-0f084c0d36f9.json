@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3455b460-832b-462f-8d33-0f084c0d36f9",
+  "name": "मन कहे कहौं जाइये, चित्त कहो कहां जाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind says go here, the heart says where should I go? After wandering for six months, one still finds oneself in the same place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन कहे कहौं जाइये, चित्त कहो कहां जाउं।\nछव मास के हींडते, आध कोस पर गांउ।।१६२९।।",
+    "translation": "The mind says go here, the heart says where should I go? After wandering for six months, one still finds oneself in the same place.",
+    "meaning": "मन कहता है कि यहां जाओ, दिल कहता है कि कहां जाऊं। छह महीने घूमने के बाद भी, व्यक्ति वही जगह पाता है।",
+    "explanation": "कबीर इस दोहे में जीवन की दिशा और भ्रम की बात करते हैं। उन्होंने कहा कि मन और दिल के बीच टकराव और भ्रम से व्यक्ति घूमते-घूमते एक ही जगह पर रह जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.507Z"
+  }
+}

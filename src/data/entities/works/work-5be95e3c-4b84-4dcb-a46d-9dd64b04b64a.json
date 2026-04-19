@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5be95e3c-4b84-4dcb-a46d-9dd64b04b64a",
+  "name": "Parimal",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-nirala"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Parimal",
+    "retrievedAt": "2026-01-04T18:39:26.567Z"
+  }
+}

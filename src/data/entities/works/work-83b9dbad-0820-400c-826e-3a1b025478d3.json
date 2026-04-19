@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-83b9dbad-0820-400c-826e-3a1b025478d3",
+  "name": "काजल केरी कोठड़ी, तैसी यहु संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This world is like a room filled with kajal (black dye). I am devoted to the servant who sees beyond the illusion and emerges victorious.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजल केरी कोठड़ी, तैसी यहु संसार।\nबलिहारी ता दास की, पैसिर निकसण हार।।१९७।।",
+    "translation": "This world is like a room filled with kajal (black dye). I am devoted to the servant who sees beyond the illusion and emerges victorious.",
+    "meaning": "यह संसार काजल से भरी कोठरी की तरह है। मैं उस दास का सम्मान करता हूँ जो इस भ्रम को पार करके विजयी होता है।",
+    "explanation": "इस दोहे में कबीर ने संसार की झूठी छवि को काजल की कोठरी से जोड़ा है। उन्होंने बताया है कि यह दुनिया भ्रामक और अंधकारपूर्ण है, और केवल वही व्यक्ति विजय प्राप्त कर सकता है जो इस भ्रामक स्थिति को पार कर लेता है। कबीर ने सच्ची समझ और दृष्टि के महत्व को दर्शाया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.601Z"
+  }
+}

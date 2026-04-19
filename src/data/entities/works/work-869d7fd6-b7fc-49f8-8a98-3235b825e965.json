@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-869d7fd6-b7fc-49f8-8a98-3235b825e965",
+  "name": "जैसी करनी जासु की, तैसी भुगते सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One experiences the results according to their own actions. Without devotion to the true guru, one suffers throughout lifetimes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसी करनी जासु की, तैसी भुगते सोय।\nबिन सतगुरु की भक्ति के, जनम जनम दुख होय।।१३२३।।",
+    "translation": "One experiences the results according to their own actions. Without devotion to the true guru, one suffers throughout lifetimes.",
+    "meaning": "व्यक्ति अपने कर्मों के अनुसार फल प्राप्त करता है। सच्चे गुरु की भक्ति के बिना, जीवन भर दुख भोगना पड़ता है।",
+    "explanation": "कबीर जी के अनुसार, व्यक्ति के कर्म ही उसके जीवन के परिणाम तय करते हैं। यदि सच्चे गुरु की भक्ति नहीं है, तो व्यक्ति जन्म-जन्मभर दुख भोगता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.812Z"
+  }
+}

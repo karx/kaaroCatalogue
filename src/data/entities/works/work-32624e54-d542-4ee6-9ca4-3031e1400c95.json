@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-32624e54-d542-4ee6-9ca4-3031e1400c95",
+  "name": "कबीर सो घन संचिये, जो आगे कू होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that one should accumulate wealth for the future. No one has seen the end of one's journey by placing a knot on the head.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सो घन संचिये, जो आगे कू होइ।\nसीस चढ़ाये गाठ की, जात न देख्या कोइ।।१७४।।",
+    "translation": "Kabir says that one should accumulate wealth for the future. No one has seen the end of one's journey by placing a knot on the head.",
+    "meaning": "कबीर कहते हैं कि भविष्य के लिए संपत्ति एकत्र करनी चाहिए। किसी ने भी सिर पर गाँठ बांधने से अपने यात्रा का अंत नहीं देखा।",
+    "explanation": "इस दोहे में कबीर ने भविष्य के लिए आध्यात्मिक और नैतिक समृद्धि को संचित करने की सलाह दी है। उन्होंने बताया है कि सिर पर गाँठ बांधने से कोई भी अपने जीवन की अंतिम यात्रा को नहीं देख सकता, इसलिए आध्यात्मिक समृद्धि और ज्ञान को संचित करना महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

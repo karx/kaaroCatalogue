@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ffcdbee9-da20-47e0-a53f-7567f869efb1",
+  "name": "गुणिया तो गुण ही गहे, निगुर्णयां गुणहि घिनाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The virtuous hold onto virtues, while the non-virtuous despise them. Like giving a nutmeg to an ox, how would it understand its value?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुणिया तो गुण ही गहे, निगुर्णयां गुणहि घिनाय।\nबैलहिं दीजे जायफल, क्‍या बुझे क्‍या खाय।।१४९१।।",
+    "translation": "The virtuous hold onto virtues, while the non-virtuous despise them. Like giving a nutmeg to an ox, how would it understand its value?",
+    "meaning": "गुणवान व्यक्ति गुणों को अपनाता है, जबकि निर्गुण व्यक्ति उन गुणों से घृणा करता है। जैसे बैल को जायफल देने से वह उसका स्वाद या मूल्य नहीं समझेगा।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि गुणवान लोग हमेशा गुणों को अपनाते हैं, जबकि निर्गुण व्यक्ति उन गुणों का मूल्य नहीं समझते। यह स्थिति वैसी ही है जैसे बैल को जायफल दिया जाए, तो वह उसका महत्व नहीं समझेगा। इसका मतलब यह है कि व्यक्ति की आंतरिक स्थिति के अनुसार ही वह गुणों का महत्व समझ सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.661Z"
+  }
+}

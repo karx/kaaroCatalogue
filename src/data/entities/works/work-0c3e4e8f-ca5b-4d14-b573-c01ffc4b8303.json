@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0c3e4e8f-ca5b-4d14-b573-c01ffc4b8303",
+  "name": "संत समागम परम सुख, जान अल्‍प सुख और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The company of saints is supreme bliss; know that worldly pleasures are minor. The swan swims in the lake of honor, while the heron stays at different places.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संत समागम परम सुख, जान अल्‍प सुख और।\nमान सरोवर हंस है, बगुला ठौर ठौर।।६२४।।",
+    "translation": "The company of saints is supreme bliss; know that worldly pleasures are minor. The swan swims in the lake of honor, while the heron stays at different places.",
+    "meaning": "संतों का संग परम सुख होता है; सांसारिक सुखों को छोटे समझें। हंस मान सरोवर में तैरता है, जबकि बगुला विभिन्न स्थानों पर रहता है।",
+    "explanation": "संतों का संग सबसे बड़ा सुख प्रदान करता है, जबकि सांसारिक सुख तुच्छ होते हैं। हंस जैसे संत सम्मान के सरोवर में तैरते हैं, जबकि बगुला विभिन्न स्थानों पर भटकता है, यही जीवन की सच्चाई है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.002Z"
+  }
+}

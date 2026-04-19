@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e95bb9df-2e06-463c-af48-3a694be9c017",
+  "name": "Ye Na Thi Hamari Qismat",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mirza-ghalib"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "abstract": "It was not in my destiny to unite with my beloved\nHad I lived longer, this waiting would have continued\n\nI lived on your promise, but know this as a lie\nThat I would have died of joy, had I believed y...",
+  "content": {
+    "original": "یہ نہ تھی ہماری قسمت کہ وصالِ یار ہوتا\nاگر اور جیتے رہتے یہی انتظار ہوتا\n\nتیرے وعدے پر جئے ہم تو یہ جان جھوٹ جانا\nکہ خوشی سے مر نہ جاتے اگر اعتبار ہوتا",
+    "transliteration": "Ye na thi hamari qismat ke wisal-e-yaar hota\nAgar aur jeete rehte yahi intezaar hota\n\nTere waade par jiye hum to ye jaan jhoot jaana\nKe khushi se mar na jaate agar aitbaar hota",
+    "translation": "It was not in my destiny to unite with my beloved\nHad I lived longer, this waiting would have continued\n\nI lived on your promise, but know this as a lie\nThat I would have died of joy, had I believed you"
+  },
+  "keywords": [
+    "Ghazal",
+    "Urdu"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.008Z"
+  }
+}

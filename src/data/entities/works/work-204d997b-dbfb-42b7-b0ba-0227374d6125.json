@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-204d997b-dbfb-42b7-b0ba-0227374d6125",
+  "name": "कबीर संगति साधु की, बेगि करीजैं जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The company of saints swiftly removes ignorance. It dispels foolishness and imparts true wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर संगति साधु की, बेगि करीजैं जाइ।\nदुरमति दुरि गंवाइसी, देसी सुमति बताइ।।२००९।।",
+    "translation": "The company of saints swiftly removes ignorance. It dispels foolishness and imparts true wisdom.",
+    "meaning": "साधुओं की संगति शीघ्रता से अज्ञानता को समाप्त करती है। यह मूर्खता को दूर कर देती है और सच्ची बुद्धि प्रदान करती है।",
+    "explanation": "इस दोहे में कबीर ने साधु की संगति के प्रभाव को स्पष्ट किया है। उन्होंने कहा है कि साधुओं की संगति जल्दी ही अज्ञानता और मूर्खता को दूर करती है और सच्ची बुद्धि प्रदान करती है। यह व्यक्ति को आध्यात्मिक मार्ग पर अग्रसर करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.802Z"
+  }
+}

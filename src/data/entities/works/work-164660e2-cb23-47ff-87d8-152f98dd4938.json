@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-164660e2-cb23-47ff-87d8-152f98dd4938",
+  "name": "भक्‍त मरे क्‍या रोइये, जो अपने घर जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why weep when a devotee dies, for they return home. Weep for the unfortunate non-believer, who is sold in the marketplace of the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्‍त मरे क्‍या रोइये, जो अपने घर जाय।\nरोइये साकट बापुरे, हाटों हाट बिकाय।।१०३४।।",
+    "translation": "Why weep when a devotee dies, for they return home. Weep for the unfortunate non-believer, who is sold in the marketplace of the world.",
+    "meaning": "भक्त के मरने पर क्यों रोना, क्योंकि वह अपने घर चला जाता है। रोना चाहिए उस अभागे साकट (अविश्वासी) के लिए, जो संसार के बाजार में बिक जाता है।",
+    "explanation": "इस दोहे में कबीर मृत्यु के बाद की स्थिति का वर्णन करते हैं। वे कहते हैं कि जब एक सच्चा भक्त मरता है, तो वह अपने असली घर, यानी ईश्वर के पास लौट जाता है, इसलिए उसके लिए रोने की जरूरत नहीं है। बल्कि, उस व्यक्ति के लिए रोना चाहिए जो इस संसार के मोह में फंसा रहता है और अपनी आत्मा को संसार की माया में बेच देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.163Z"
+  }
+}

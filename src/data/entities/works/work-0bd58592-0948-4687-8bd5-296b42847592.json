@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0bd58592-0948-4687-8bd5-296b42847592",
+  "name": "द्वार थनी के पड़ि रहे, धका धनी का खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who linger at the door of the rich suffer from the kick of their wealth. Sometimes, the wealthy are gracious, but they never leave their door.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "द्वार थनी के पड़ि रहे, धका धनी का खाय।\nकबहुक धनी निवाजि है, जो दर छाड़ि न जाय।।४०७।।",
+    "translation": "Those who linger at the door of the rich suffer from the kick of their wealth. Sometimes, the wealthy are gracious, but they never leave their door.",
+    "meaning": "जो लोग अमीरों के दरवाजे पर पड़े रहते हैं, वे उनके धन की लात सहते हैं। कभी-कभी अमीर कृपालु हो सकते हैं, लेकिन वे कभी अपने दरवाजे को नहीं छोड़ते।",
+    "explanation": "इस दोहे में कबीर दास जी ने धन और अमीरों के साथ व्यवहार की सच्चाई को बताया है। वे कहते हैं कि जो लोग अमीरों के दरवाजे पर पड़े रहते हैं, वे केवल उनके धन और अमीरी की उपेक्षा का सामना करते हैं। अमीर कभी भी अपनी स्थिति से बाहर नहीं जाते। यह दोहा हमें यह सिखाता है कि धन और अमीरों के प्रति अंध श्रद्धा रखना व्यर्थ है, क्योंकि वे अपनी स्थिति को नहीं छोड़ते और केवल बाहरी दिखावे के अलावा कुछ नहीं देते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.921Z"
+  }
+}

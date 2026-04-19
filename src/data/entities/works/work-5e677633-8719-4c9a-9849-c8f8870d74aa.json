@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5e677633-8719-4c9a-9849-c8f8870d74aa",
+  "name": "खलक मिला खाली हुआ, बहुत किया बकवाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world becomes empty with much talk and argument. A barren cradle shakes; what pleasure does it hold?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खलक मिला खाली हुआ, बहुत किया बकवाद।\nबांझ हिलावै पालना, तामें कौन स्‍वाद।।९०२।।",
+    "translation": "The world becomes empty with much talk and argument. A barren cradle shakes; what pleasure does it hold?",
+    "meaning": "बहुत अधिक बात-चीत और विवाद से संसार खाली हो जाता है। एक सूखा पालना हिलता है; उसमें कोई आनंद नहीं है।",
+    "explanation": "कबीर इस दोहे में बकवाद और अकारण बहस की व्यर्थता को उजागर करते हैं। वे कहते हैं कि बहुत अधिक बात करने और विवाद करने से केवल भ्रम और खालीपन पैदा होता है। सूखे पालने का उदाहरण देकर, वे यह दिखाते हैं कि ऐसे बेतुके विवाद का कोई वास्तविक मूल्य या आनंद नहीं होता। इस दोहे के माध्यम से, कबीर हमें शांति और संतुलित संवाद की ओर इशारा करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.623Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-23b9cf4b-0a45-4779-a6fb-29d0bd2a3d43",
+  "name": "संसै काल शरीर में, जारि केर सब धूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Time is burning in the body, turning everything to dust. The servant who is saved from time, is blessed by the compassionate Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संसै काल शरीर में, जारि केर सब धूर।\nकाल से बांच दास जन, जिन पै दयाल हजूर।।१०७७।।",
+    "translation": "Time is burning in the body, turning everything to dust. The servant who is saved from time, is blessed by the compassionate Lord.",
+    "meaning": "समय शरीर में जल रहा है, सब कुछ धूल में बदल रहा है। जो व्यक्ति समय से बच जाता है, वह दयालु प्रभु द्वारा आशीर्वादित होता है।",
+    "explanation": "इस दोहे में कबीर समय की अवश्यम्भावीता और उसकी सच्चाई को बताते हैं। समय शरीर को नष्ट कर देता है और सब कुछ धूल में बदल जाता है। केवल वही व्यक्ति बच सकता है जो समय से बच जाता है और इसे दयालु प्रभु का आशीर्वाद माना जाता है। यह समय की महत्वता और आत्मा की रक्षा के लिए ध्यान केंद्रित करने की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

@@ -9,6 +9,7 @@ import assert from 'node:assert/strict';
 import {
   validatePersonEntity,
   validateVideoEntity,
+  validateWorkEntity,
   checkDuplicateSameAs,
   nameSimilarity,
   findFuzzyNameCollisions,
@@ -125,6 +126,62 @@ describe('validateVideoEntity', () => {
 
   it('passes when validComedianIds is not provided (skips cross-ref check)', () => {
     const errors = validateVideoEntity(validVideo, 'videos/video-001.json', undefined);
+    assert.deepEqual(errors, []);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// validateWorkEntity
+// ---------------------------------------------------------------------------
+
+describe('validateWorkEntity', () => {
+  const validPoets = new Set(['poet-kabir', 'poet-kalidasa']);
+  const validWork = {
+    workId: 'work-abc123',
+    name: 'Bijak',
+    author: { '@type': 'Person', '@id': 'poet-kabir' },
+  };
+
+  it('passes a fully valid work', () => {
+    const errors = validateWorkEntity(validWork, 'works/work-abc123.json', validPoets);
+    assert.deepEqual(errors, []);
+  });
+
+  it('errors when workId is missing', () => {
+    const errors = validateWorkEntity({ ...validWork, workId: undefined }, 'works/work-abc123.json', validPoets);
+    assert.ok(errors.some(e => e.includes('missing workId')));
+  });
+
+  it('errors when workId does not match filename', () => {
+    const errors = validateWorkEntity(validWork, 'works/work-wrong.json', validPoets);
+    assert.ok(errors.some(e => e.includes('does not match filename')));
+  });
+
+  it('errors when name is missing', () => {
+    const errors = validateWorkEntity({ ...validWork, name: undefined }, 'works/work-abc123.json', validPoets);
+    assert.ok(errors.some(e => e.includes('missing name')));
+  });
+
+  it('errors when author.@id is missing', () => {
+    const work = { ...validWork, author: { '@type': 'Person' } };
+    const errors = validateWorkEntity(work, 'works/work-abc123.json', validPoets);
+    assert.ok(errors.some(e => e.includes('missing author.@id')));
+  });
+
+  it('errors when author.@id references non-existent poet', () => {
+    const work = { ...validWork, author: { '@type': 'Person', '@id': 'poet-nobody' } };
+    const errors = validateWorkEntity(work, 'works/work-abc123.json', validPoets);
+    assert.ok(errors.some(e => e.includes('does not match any poet entity')));
+  });
+
+  it('errors when author object is absent entirely', () => {
+    const work = { ...validWork, author: undefined };
+    const errors = validateWorkEntity(work, 'works/work-abc123.json', validPoets);
+    assert.ok(errors.some(e => e.includes('missing author.@id')));
+  });
+
+  it('passes when validPoetIds is not provided (skips cross-ref check)', () => {
+    const errors = validateWorkEntity(validWork, 'works/work-abc123.json', undefined);
     assert.deepEqual(errors, []);
   });
 });

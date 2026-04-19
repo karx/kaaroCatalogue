@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f4f5dfcc-b508-4b72-ab6c-0be20667600d",
+  "name": "मैं भारन सब ज्ञानिया, कथत बकत दिन जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I bear all knowledge, and the talk of the day goes on. The thief is not recognized, but the crow is mistaken for a swan.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं भारन सब ज्ञानिया, कथत बकत दिन जाय।\nसाह चोर चीन्‍है नहीं, कागा हंस लगाय।।२१७५।।",
+    "translation": "I bear all knowledge, and the talk of the day goes on. The thief is not recognized, but the crow is mistaken for a swan.",
+    "meaning": "मैं सभी ज्ञान को धारण करता हूँ, और दिनभर बातें होती रहती हैं। चोर को नहीं पहचाना जाता, लेकिन काग को हंस मान लिया जाता है।",
+    "explanation": "इस दोहे में कबीर ने ज्ञान और उसकी पहचान की बात की है। वे कहते हैं कि भले ही लोग ज्ञान का सही उपयोग और पहचान नहीं कर पाते, और अक्सर साधारण चीज़ों को विशेष मान लेते हैं। चोर को पहचानना मुश्किल होता है, लेकिन काग (आम कौआ) को हंस (विशेष और सुंदर पक्षी) मान लिया जाता है। यह दोहा हमें यह सिखाता है कि सतही दिखावट और भ्रम के आधार पर वस्तुओं और लोगों की सही पहचान की जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.727Z"
+  }
+}

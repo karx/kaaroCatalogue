@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3b6cefce-5ec6-4de2-a9ee-d94403b38561",
+  "name": "लेना है सो जल्द ले, कही सुनी मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you need something, take it quickly; heed what is said. What is heard has lasted ages, the cycle of birth and death is bound.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लेना है सो जल्द ले, कही सुनी मान।\nकहीं सुनी जुग जुग चली, आवागमन बँधान।।४४८।।",
+    "translation": "If you need something, take it quickly; heed what is said. What is heard has lasted ages, the cycle of birth and death is bound.",
+    "meaning": "अगर आपको कुछ चाहिए, तो जल्दी ले लें; जो कहा गया है, उस पर ध्यान दें। जो सुना गया है, वह युगों से चलता आ रहा है, जन्म और मृत्यु का चक्र बंधा हुआ है।",
+    "explanation": "इस दोहे में कबीर यह सलाह देते हैं कि जो भी आवश्यक हो, उसे तुरंत ले लेना चाहिए और जो भी कहा जाए, उस पर ध्यान देना चाहिए। कबीर यह भी बताते हैं कि जो भी बातें समय से सुनी गई हैं, वे सदियों से चलती आ रही हैं और जन्म-मृत्यु का चक्र लगातार चलता रहता है। यह दोहा जीवन की सच्चाइयों और समय की अनिवार्यता पर प्रकाश डालता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

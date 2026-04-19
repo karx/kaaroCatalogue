@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-202284fa-934f-4a7f-b176-8b582a487857",
+  "name": "शब्‍द शब्‍द सब कोय कहै, शब्‍द का करो विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone speaks words, but reflect on their meaning. One word can cool, while another can burn.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द शब्‍द सब कोय कहै, शब्‍द का करो विचार।\nएक शब्‍द शीतल करै, एक शब्‍द दे जार।।१०१६।।",
+    "translation": "Everyone speaks words, but reflect on their meaning. One word can cool, while another can burn.",
+    "meaning": "सभी लोग शब्द कहते हैं, लेकिन उनके अर्थ पर विचार करो। एक शब्द शीतलता दे सकता है, जबकि दूसरा जला सकता है।",
+    "explanation": "कबीर इस दोहे में शब्दों की शक्ति का वर्णन करते हैं। वे बताते हैं कि शब्दों का सही अर्थ और उपयोग समझना जरूरी है, क्योंकि एक शब्द सुकून दे सकता है जबकि दूसरा दुख का कारण बन सकता है। इसलिए शब्दों को सोच-समझकर बोलना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.161Z"
+  }
+}

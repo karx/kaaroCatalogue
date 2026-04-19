@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-23b86ba9-0665-49f6-8427-689885576a29",
+  "name": "कुटिल वचन सबतें बुरा, जारि करै सब छार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Harsh words are the worst; they burn everything to ashes. The words of the saint are like water; they rain nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुटिल वचन सबतें बुरा, जारि करै सब छार।\nसाधु वचन जल रूप है, बरसै अमृत धार।।९९१।।",
+    "translation": "Harsh words are the worst; they burn everything to ashes. The words of the saint are like water; they rain nectar.",
+    "meaning": "कठोर वचन सबसे बुरे होते हैं; वे सब कुछ जलाकर राख कर देते हैं। साधु के वचन जल के समान होते हैं; वे अमृत की धाराओं की तरह बरसते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी कठोर वचनों के दुष्प्रभाव और साधु वचनों के लाभ को बताते हैं। वह कहते हैं कि कठोर वचन सबसे बुरे होते हैं, जो हर चीज को जलाकर राख कर देते हैं। इसके विपरीत, साधु के वचन जल के समान होते हैं, जो अमृत की तरह जीवन को सींचते हैं। यह दोहा हमें वाणी में मधुरता और संयम की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.895Z"
+  }
+}

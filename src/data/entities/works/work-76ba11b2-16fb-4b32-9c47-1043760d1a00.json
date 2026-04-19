@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-76ba11b2-16fb-4b32-9c47-1043760d1a00",
+  "name": "कुशल-कुशल जो पूछता, जग में रहा न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one remains in the world to ask about well-being. Old age and death are inevitable; where is well-being?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुशल-कुशल जो पूछता, जग में रहा न कोय।\nजरा मुई न भय मुवा, कुशल कहाँ ते होय।।४४०।।",
+    "translation": "No one remains in the world to ask about well-being. Old age and death are inevitable; where is well-being?",
+    "meaning": "अब इस संसार में कोई भी कुशलक्षेम पूछने वाला नहीं बचा है। बुढ़ापा और मृत्यु तो निश्चित हैं; ऐसे में कुशलक्षेम कहाँ से आएगी?",
+    "explanation": "कबीर इस दोहे में कहते हैं कि अब इस संसार में ऐसा कोई नहीं बचा जो किसी की कुशलक्षेम पूछे। उन्होंने इस बात पर प्रकाश डाला है कि बुढ़ापा और मृत्यु जीवन का अटल सत्य है, जो सभी को प्रभावित करता है। इस स्थिति में वास्तविक कुशलता या सुरक्षित अवस्था की कोई संभावना नहीं है। यह दोहा जीवन के अनिवार्य दुखों की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

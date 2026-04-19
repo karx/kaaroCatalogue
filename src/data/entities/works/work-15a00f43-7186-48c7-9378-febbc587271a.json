@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15a00f43-7186-48c7-9378-febbc587271a",
+  "name": "कबीर यह गत अटपटी, चटपट लखी न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that this state is peculiar, and cannot be quickly understood. When the disturbance of the mind ceases, the meaning becomes clear.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह गत अटपटी, चटपट लखी न जाय।\nजो मन की खटपट मिटै, अधर भये ठहराय।।११४१।।",
+    "translation": "Kabir says that this state is peculiar, and cannot be quickly understood. When the disturbance of the mind ceases, the meaning becomes clear.",
+    "meaning": "कबीर कहते हैं कि यह स्थिति अजीब है, और इसे तुरंत नहीं समझा जा सकता। जब मन की अशांति समाप्त हो जाती है, तब अर्थ स्पष्ट हो जाता है।",
+    "explanation": "इस दोहे में कबीर ने मन की अशांति और उसके प्रभाव को व्यक्त किया है। उन्होंने कहा कि यह अवस्था समझने में समय लेती है, लेकिन जब मन की अशांति समाप्त हो जाती है, तब सच्चाई स्पष्ट हो जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

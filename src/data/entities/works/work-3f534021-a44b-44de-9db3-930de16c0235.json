@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3f534021-a44b-44de-9db3-930de16c0235",
+  "name": "कुमति कीच चेला भरा, गुरु ज्ञान जल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The disciple filled with ignorance is like dirt; the Guru's knowledge is like water. It washes away the burden of many lifetimes in an instant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुमति कीच चेला भरा, गुरु ज्ञान जल होय।\nजनम-जनम का मोरचा, पल में डारे धोय।।२५१।।",
+    "translation": "The disciple filled with ignorance is like dirt; the Guru's knowledge is like water. It washes away the burden of many lifetimes in an instant.",
+    "meaning": "अज्ञान से भरा शिष्य कीचड़ की तरह है; गुरु का ज्ञान पानी के समान है। यह पल में कई जन्मों का बोझ धो डालता है।",
+    "explanation": "कबीर इस दोहे में गुरु के ज्ञान की शक्ति और अज्ञान के प्रभाव को दर्शाते हैं। वे कहते हैं कि अज्ञान से भरा व्यक्ति गंदगी की तरह होता है, लेकिन गुरु का ज्ञान पानी की तरह है जो उस गंदगी को तुरंत धो डालता है। यह दोहा ज्ञान की महिमा और अज्ञान के निवारण की क्षमता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.127Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c1e190e6-dbf1-4d75-90a5-383799284d74",
+  "name": "sham-e-firaq ab na puchh aai aur aa ke Tal gai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/shaam-e-firaaq-ab-na-puuchh-aaii-aur-aa-ke-tal-gaii-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.206Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/shaam-e-firaaq-ab-na-puuchh-aaii-aur-aa-ke-tal-gaii-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nshām-e-firāq ab na pūchh aa.ī aur aa ke Tal ga.ī\ndil thā ki phir bahal gayā jaañ thī ki phir sambhal ga.ī\nbazm-e-ḳhayāl meñ tire husn kī sham.a jal ga.ī\ndard kā chāñd bujh gayā hijr kī raat Dhal ga.ī\njab tujhe yaad kar liyā sub.h mahak mahak uThī\njab tirā ġham jagā liyā raat machal machal ga.ī\ndil se to har mo.āmla kar ke chale the saaf ham\nkahne meñ un ke sāmne baat badal badal ga.ī\nāḳhir-e-shab ke ham-safar 'faiz' na jaane kyā hue\nrah ga.ī kis jagah sabā sub.h kidhar nikal ga.ī\nsham-e-firaq ab na puchh aai aur aa ke Tal gai\ndil tha ki phir bahal gaya jaan thi ki phir sambhal gai\nbazm-e-KHayal mein tere husn ki shama jal gai\ndard ka chand bujh gaya hijr ki raat Dhal gai\njab tujhe yaad kar liya subh mahak mahak uThi\njab tera gham jaga liya raat machal machal gai\ndil se to har moamla kar ke chale the saf hum\nkahne mein un ke samne baat badal badal gai\naaKHir-e-shab ke ham-safar 'faiz' na jaane kya hue\nrah gai kis jagah saba subh kidhar nikal gai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nشام فراق اب نہ پوچھ آئی اور آ کے ٹل گئی\nدل تھا کہ پھر بہل گیا جاں تھی کہ پھر سنبھل گئی\nبزم خیال میں ترے حسن کی شمع جل گئی\nدرد کا چاند بجھ گیا ہجر کی رات ڈھل گئی\nجب تجھے یاد کر لیا صبح مہک مہک اٹھی\nجب ترا غم جگا لیا رات مچل مچل گئی\nدل سے تو ہر معاملہ کر کے چلے تھے صاف ہم\nکہنے میں ان کے سامنے بات بدل بدل گئی\nآخر شب کے ہم سفر فیضؔ نہ جانے کیا ہوئے\nرہ گئی کس جگہ صبا صبح کدھر نکل گئی",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nशाम-ए-फ़िराक़ अब न पूछ आई और आ के टल गई\nदिल था कि फिर बहल गया जाँ थी कि फिर सँभल गई\nबज़्म-ए-ख़याल में तिरे हुस्न की शम्अ जल गई\nदर्द का चाँद बुझ गया हिज्र की रात ढल गई\nजब तुझे याद कर लिया सुब्ह महक महक उठी\nजब तिरा ग़म जगा लिया रात मचल मचल गई\nदिल से तो हर मोआ'मला कर के चले थे साफ़ हम\nकहने में उन के सामने बात बदल बदल गई\nआख़िर-ए-शब के हम-सफ़र 'फ़ैज़' न जाने क्या हुए\nरह गई किस जगह सबा सुब्ह किधर निकल गई",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:00.145Z"
+  }
+}

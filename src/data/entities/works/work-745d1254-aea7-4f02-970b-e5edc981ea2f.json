@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-745d1254-aea7-4f02-970b-e5edc981ea2f",
+  "name": "अबुध सुबुध सुत मातु पितु, सबहि करै प्रतिपाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The ignorant and the wise, sons and parents, all provide support and care. One should focus on their own conduct and follow their own path.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अबुध सुबुध सुत मातु पितु, सबहि करै प्रतिपाल।\nअपनी ओर निबाहिये, सिख सुत गहि निज चाल।।४८६।।",
+    "translation": "The ignorant and the wise, sons and parents, all provide support and care. One should focus on their own conduct and follow their own path.",
+    "meaning": "अज्ञानी और ज्ञानी, संतान और माता-पिता सभी समर्थन और देखभाल करते हैं। व्यक्ति को अपनी खुद की चाल पर ध्यान देना चाहिए और अपने मार्ग का पालन करना चाहिए।",
+    "explanation": "इस दोहे में कबीर ने जीवन के विभिन्न पहलुओं को दर्शाया है। उन्होंने कहा कि चाहे कोई अज्ञानी हो या ज्ञानी, संतान हो या माता-पिता, सभी व्यक्ति का पालन और देखभाल करते हैं। परंतु, व्यक्ति को अपनी खुद की दिशा और चाल पर ध्यान देना चाहिए और स्वयं के मार्ग पर चलना चाहिए। यह आत्मनिर्भरता और स्वाधीनता की ओर संकेत करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

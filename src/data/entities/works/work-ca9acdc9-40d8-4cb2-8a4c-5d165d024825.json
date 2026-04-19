@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ca9acdc9-40d8-4cb2-8a4c-5d165d024825",
+  "name": "जागृत रूपी जीव है, शब्‍द सुहागा सेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The awakened soul is like a living being, refined by the touchstone of the word. Like a drop of water or a hen, Kabir says, only a few can truly see this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जागृत रूपी जीव है, शब्‍द सुहागा सेत।\nजर्र बिंदु जल कुक्‍कुटी, कहहिं कबीर कोइ देख।।१५२२।।",
+    "translation": "The awakened soul is like a living being, refined by the touchstone of the word. Like a drop of water or a hen, Kabir says, only a few can truly see this.",
+    "meaning": "जागृत आत्मा एक जीवित प्राणी की तरह है, जिसे शब्द रूपी सुहागा से परिष्कृत किया जाता है। जैसे जल की बूंद या मुर्गी, कबीर कहते हैं, इसे समझने वाले बहुत कम होते हैं।",
+    "explanation": "इस दोहे में कबीर जागरूक आत्मा और शब्द के माध्यम से आत्मा के शुद्धिकरण की बात कर रहे हैं। आत्मा को ज्ञान और सत्य के शब्द से परिष्कृत किया जा सकता है, जैसे सुहागा किसी धातु को शुद्ध करता है। इस गहन सत्य को समझना आसान नहीं है, और केवल कुछ ही इसे समझ पाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.930Z"
+  }
+}

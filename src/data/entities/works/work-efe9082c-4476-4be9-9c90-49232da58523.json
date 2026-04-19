@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-efe9082c-4476-4be9-9c90-49232da58523",
+  "name": "चिन्‍ता चित्त बिसारिये, फिर बूझिये नहिं आन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Forget the worries of the mind, and then do not seek elsewhere. Remove the distractions of the senses, and you will naturally find God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चिन्‍ता चित्त बिसारिये, फिर बूझिये नहिं आन।\nइन्‍द्री पसारा मेटिये, सजह मिलै भगवान।।११५२।।",
+    "translation": "Forget the worries of the mind, and then do not seek elsewhere. Remove the distractions of the senses, and you will naturally find God.",
+    "meaning": "चिंताओं को मन से निकाल दो और कहीं और मत ढूंढो। इंद्रियों के भ्रम को दूर करो, तो भगवान स्वयं ही मिल जाएंगे।",
+    "explanation": "इस दोहे में कबीर ने मन की चिंता और इंद्रियों के भटकाव को दूर करने की सलाह दी है। जब मन की चिंताओं को त्याग कर इंद्रियों के मोह को मिटा दिया जाता है, तब सहज रूप से भगवान की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.967Z"
+  }
+}

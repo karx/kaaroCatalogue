@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-772c599e-c885-4cf9-be81-5594ab48fddd",
+  "name": "जो रोऊँ तो बल घटै, हँसो तो राम रिसाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If I cry, my strength diminishes; if I laugh, Ram becomes angry. Grieving within my mind is like wood being eaten by termites.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो रोऊँ तो बल घटै, हँसो तो राम रिसाइ।\nमन ही माहिं बिसूरणा, ज्यूँ घुँण काठहिं खाइ।।१६०।।",
+    "translation": "If I cry, my strength diminishes; if I laugh, Ram becomes angry. Grieving within my mind is like wood being eaten by termites.",
+    "meaning": "अगर मैं रोऊँ तो मेरी शक्ति कम हो जाती है; अगर हँसूं तो राम नाराज हो जाते हैं। मन में दुखी होना ऐसा है जैसे लकड़ी में दीमक लग गई हो।",
+    "explanation": "कबीर इस दोहे में अपने भावनात्मक संघर्ष का वर्णन कर रहे हैं। वे बताते हैं कि जब वे रोते हैं तो उनकी शक्ति घट जाती है, और जब वे हँसते हैं तो राम नाराज हो जाते हैं। मन में आंतरिक दुख की स्थिति को लकड़ी में लगे दीमक के समान बताते हैं, जो धीरे-धीरे उस वस्तु को नष्ट कर देती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

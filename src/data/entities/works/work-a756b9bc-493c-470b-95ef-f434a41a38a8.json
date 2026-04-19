@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a756b9bc-493c-470b-95ef-f434a41a38a8",
+  "name": "काल काल तत्‍काल है, बुरा न करिये कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Time is immediate and does not wait, do not do bad to anyone. If you do not sow salt, you will not reap salt, but if you sow it, you will.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल काल तत्‍काल है, बुरा न करिये कोय।\nअनबोवे लुनता न‍हीं, बोवे लुनता होय।।९५७।।",
+    "translation": "Time is immediate and does not wait, do not do bad to anyone. If you do not sow salt, you will not reap salt, but if you sow it, you will.",
+    "meaning": "समय तत्क्षण है, किसी के साथ बुरा मत करो। अगर तुम नमक नहीं बोओगे तो नमक नहीं काटोगे, लेकिन अगर तुम इसे बोओगे तो यही पाओगे।",
+    "explanation": "यह दोहा समय की महत्ता और कर्मों का फल बताने वाला है। कबीर दास जी कह रहे हैं कि समय का चक्र चलता रहता है, और समय का इंतजार नहीं करना चाहिए। जो भी काम करना है, उसे समय रहते ही करना चाहिए। इसके साथ ही कर्म का फल अवश्य मिलता है। यदि हम किसी के प्रति बुरे कार्य करते हैं, तो उसका बुरा परिणाम हमें ही भुगतना पड़ता है। इसीलिए बुरा कर्म करने से बचना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.891Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4758265c-4caf-43f8-8354-638acb4dd143",
+  "name": "काया काढ़ा काल घुन, जतन-जतन सो खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is consumed by the worm of time, no matter how much effort you make. The body is impermanent; no one understands its essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काया काढ़ा काल घुन, जतन-जतन सो खाय।\nकाया बह्रा ईश बस, मर्म न काहूँ पाय।।१०६।।",
+    "translation": "The body is consumed by the worm of time, no matter how much effort you make. The body is impermanent; no one understands its essence.",
+    "meaning": "शरीर समय के कीड़े द्वारा खा लिया जाता है, चाहे आप कितनी भी कोशिश करें। शरीर नश्वर है; इसका सार कोई नहीं समझता।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि शरीर समय के कीड़े द्वारा धीरे-धीरे नष्ट हो जाता है, चाहे हम कितना भी प्रयास करें। शरीर अस्थायी और नश्वर है, और इसका वास्तविक अर्थ या सार कोई नहीं जानता। यह दर्शाता है कि बाहरी शरीर और भौतिकता से अधिक महत्वपूर्ण है आंतरिक ज्ञान और आध्यात्मिकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

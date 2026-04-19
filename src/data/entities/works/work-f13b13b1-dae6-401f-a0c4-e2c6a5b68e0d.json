@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f13b13b1-dae6-401f-a0c4-e2c6a5b68e0d",
+  "name": "क्‍या मुख ले बिनती करूं, लाज आवत है मोहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "How can I make a plea with my face? I am filled with shame. You see my faults, how should I approach you?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्‍या मुख ले बिनती करूं, लाज आवत है मोहि।\nतुम देखत अवगुन किया, कैसे भाऊं तोहि।।२१८२।।",
+    "translation": "How can I make a plea with my face? I am filled with shame. You see my faults, how should I approach you?",
+    "meaning": "मैं किस प्रकार से प्रार्थना करूं, मुझे शर्म आती है। तुम मेरे दोष देखते हो, मैं तुम्हारे पास कैसे आऊं?",
+    "explanation": "इस दोहे में कबीर ने प्रार्थना करने में अपनी शर्म और आत्म-संकोच को व्यक्त किया है। वे भगवान से पूछते हैं कि वे उनके दोषों को देखते हैं, तो वे कैसे प्रार्थना करें। यह दोहा भावनात्मक संघर्ष और आत्म-निरीक्षण को दर्शाता है, जो दिखाता है कि कबीर अपने दोषों के बावजूद भगवान से सच्चे प्रेम और मार्गदर्शन की प्रार्थना करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.730Z"
+  }
+}

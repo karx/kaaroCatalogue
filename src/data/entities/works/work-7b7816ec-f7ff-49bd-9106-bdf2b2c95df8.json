@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7b7816ec-f7ff-49bd-9106-bdf2b2c95df8",
+  "name": "जब लग भक्ति सकाम है, तब लग निष्फल सेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as devotion is filled with desires, all service remains fruitless. Kabir says, how can one meet the selfless Divine with a mind full of desires?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लग भक्ति सकाम है, तब लग निष्फल सेव।\nकहैं कबीर वह क्यों मिलै, निहकामी निजदेव।।४१३।।",
+    "translation": "As long as devotion is filled with desires, all service remains fruitless. Kabir says, how can one meet the selfless Divine with a mind full of desires?",
+    "meaning": "जब तक भक्ति में कामना (इच्छा) है, तब तक सारी सेवा निष्फल है। कबीर कहते हैं, इच्छाओं से भरे मन के साथ कोई निष्कामी देवता से कैसे मिल सकता है?",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जब तक भक्ति में इच्छाएं (सकामना) शामिल होती हैं, तब तक वह सच्ची सेवा नहीं हो सकती और उसके फल की प्राप्ति नहीं होती। सच्ची भक्ति तब होती है जब मन निष्काम (निष्कामना) हो, यानी जब भक्ति में किसी प्रकार की इच्छाएं नहीं होतीं। कबीर कहते हैं कि केवल निष्काम भक्ति के माध्यम से ही व्यक्ति अपने निज देवता, यानी परमात्मा, से मिल सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

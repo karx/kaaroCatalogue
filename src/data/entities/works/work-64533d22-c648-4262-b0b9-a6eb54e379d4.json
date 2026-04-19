@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-64533d22-c648-4262-b0b9-a6eb54e379d4",
+  "name": "कहत सुनत सब दिन गए, उरझि न सुरझया मन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Days pass in hearing and speaking, yet the mind remains confused. Kabir says, if you are not aware, it is still the first day.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहत सुनत सब दिन गए, उरझि न सुरझया मन।\nकहि कबीर चेत्‍या नहीं, अजहूं सु पहला दिन।।१७२५।।",
+    "translation": "Days pass in hearing and speaking, yet the mind remains confused. Kabir says, if you are not aware, it is still the first day.",
+    "meaning": "कहते-सुनते दिन बीत जाते हैं, लेकिन मन उलझा रहता है। कबीर कहते हैं, यदि आप जागरूक नहीं हैं, तो आज भी पहला दिन है।",
+    "explanation": "कबीर इस दोहे में समझ और जागरूकता की बात करते हैं। उन्होंने कहा कि भले ही समय बीत जाए, यदि आप सच्चे रूप से जागरूक नहीं हैं, तो कुछ भी नया नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.073Z"
+  }
+}

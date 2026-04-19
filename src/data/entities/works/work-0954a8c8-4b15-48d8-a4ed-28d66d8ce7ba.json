@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0954a8c8-4b15-48d8-a4ed-28d66d8ce7ba",
+  "name": "अकिल बिहूना सिंह ज्‍यों, गयों ससा के संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even a foolish lion, when it associates with rabbits, loses its pride. Seeing its own reflection, it destroys its body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अकिल बिहूना सिंह ज्‍यों, गयों ससा के संग।\nअपनी प्रतिमा देखिके, कियो तन को भंग।।१३५३।।",
+    "translation": "Even a foolish lion, when it associates with rabbits, loses its pride. Seeing its own reflection, it destroys its body.",
+    "meaning": "एक मूर्ख शेर, जब खरगोशों के साथ जाता है, तो अपनी शान खो देता है। अपनी छवि देखकर, वह अपने शरीर को नष्ट कर देता है।",
+    "explanation": "कबीर जी के अनुसार, यदि एक बुद्धिहीन व्यक्ति उच्च स्थान पर होने के बावजूद असामान्य स्थिति में फंस जाता है, तो वह अपनी स्थिति खो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.082Z"
+  }
+}

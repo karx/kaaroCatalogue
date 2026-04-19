@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9a1c3e04-896a-4d47-b0ff-937413f43fe6",
+  "name": "धौं की डाही लाकरी, ओभी करे पुकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The broken piece of wood also cries out. Now if one goes to a blacksmith's house, it is beaten again and again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धौं की डाही लाकरी, ओभी करे पुकार।\nअब जो जाय लोहार घर, डाढे दूजी बार।।१५७१।।",
+    "translation": "The broken piece of wood also cries out. Now if one goes to a blacksmith's house, it is beaten again and again.",
+    "meaning": "टूटे हुए लकड़ी के टुकड़े भी पुकारते हैं। अब अगर कोई लोहार के घर जाता है, तो उसे बार-बार पीटा जाता है।",
+    "explanation": "इस दोहे में कबीर ने सामाजिक स्थिति और शोषण की बात की है। टूटे हुए लकड़ी के टुकड़े की तरह, जिनका उपयोग किया जाता है, वे भी पुकारते हैं। लोहार के घर जाने पर, इन टुकड़ों को फिर से पीटा जाता है, जो शोषण और अमानवीयता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.208Z"
+  }
+}

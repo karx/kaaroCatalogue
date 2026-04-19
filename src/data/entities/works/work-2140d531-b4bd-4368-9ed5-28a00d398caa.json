@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2140d531-b4bd-4368-9ed5-28a00d398caa",
+  "name": "जरा श्वान जोबन ससा, काल अहेरी नित्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Old age is like a dog, youth like a rabbit, and time is the hunter. In between these two enemies, where is the friend called well-being?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जरा श्वान जोबन ससा, काल अहेरी नित्त।\nदो बैरी बिच झोंपड़ा, कुशल कहाँ सो मित्र।।४४१।।",
+    "translation": "Old age is like a dog, youth like a rabbit, and time is the hunter. In between these two enemies, where is the friend called well-being?",
+    "meaning": "बुढ़ापा कुत्ते के समान है, यौवन खरगोश के समान है, और समय शिकारी है। इन दो दुश्मनों के बीच, कुशलता नामक मित्र कहाँ है?",
+    "explanation": "इस दोहे में कबीर ने बुढ़ापे को कुत्ते के समान बताया है जो हमें हमेशा घेरे रहता है, और यौवन को खरगोश के समान बताया है जो जल्दी से भाग जाता है। समय को उन्होंने शिकारी कहा है, जो हमेशा हमारे पीछे रहता है। इन दो विरोधियों के बीच, हमारे लिए कुशलता या शांति कहाँ हो सकती है? यह दोहा जीवन के संक्षिप्त और अस्थिर स्वभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

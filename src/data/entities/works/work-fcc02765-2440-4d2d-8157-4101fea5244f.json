@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fcc02765-2440-4d2d-8157-4101fea5244f",
+  "name": "बाहिर सुख दुख देन को, हुकुम करै मन मांय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "External happiness and sorrow are dictated by the mind. When the mind is ready, it manifests as external experiences.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाहिर सुख दुख देन को, हुकुम करै मन मांय।\nजब उठे मन बखत को, बाहिर रूप धरि आय।।१३४५।।",
+    "translation": "External happiness and sorrow are dictated by the mind. When the mind is ready, it manifests as external experiences.",
+    "meaning": "बाहर के सुख और दुख मन द्वारा निर्धारित होते हैं। जब मन तैयार होता है, तब ये बाहरी अनुभवों के रूप में प्रकट होते हैं।",
+    "explanation": "कबीर जी के अनुसार, बाहरी सुख और दुख हमारे मन की स्थिति पर निर्भर करते हैं। जब मन तैयार और स्थिर होता है, तब ये बाहरी रूप में अनुभव होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.816Z"
+  }
+}

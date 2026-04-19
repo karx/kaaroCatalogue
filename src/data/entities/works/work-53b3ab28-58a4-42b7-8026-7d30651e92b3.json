@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-53b3ab28-58a4-42b7-8026-7d30651e92b3",
+  "name": "बिरछा कबहुं न फल भखै, नदी न संचवै नीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A tree does not eat its own fruit, and a river does not drink its own water. Similarly, a saint does not seek personal gain; he holds his body for the sake of altruism.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरछा कबहुं न फल भखै, नदी न संचवै नीर।\nपरमारथ के कारने, साधु धरा शरीर।।५९६।।",
+    "translation": "A tree does not eat its own fruit, and a river does not drink its own water. Similarly, a saint does not seek personal gain; he holds his body for the sake of altruism.",
+    "meaning": "पेड़ कभी अपने फल का सेवन नहीं करता, और नदी अपने पानी को नहीं पीती। इसी तरह, संत व्यक्तिगत लाभ नहीं चाहते; वे परमार्थ के लिए शरीर धारण करते हैं।",
+    "explanation": "संत समाज की भलाई के लिए अपने शरीर और जीवन का उपयोग करते हैं, जबकि वे स्वयं किसी व्यक्तिगत लाभ की इच्छा नहीं करते। जैसे पेड़ और नदी अपनी संपत्ति का उपयोग दूसरों के लिए करते हैं, वैसे ही संत भी अपना जीवन दूसरों की सेवा में समर्पित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

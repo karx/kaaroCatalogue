@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c4a8ae6b-374a-4275-be11-2c1607cf1b23",
+  "name": "चंदन की कुटकी भली, नां बंबुर को अवरांऊं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A small piece of sandalwood is better than a thousand bumblebees. A small hut of saints is better than a large village of scholars.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंदन की कुटकी भली, नां बंबुर को अवरांऊं।\nवैसनो की छपरी भलो, नां साषत का बड गाउं।।१९८०।।",
+    "translation": "A small piece of sandalwood is better than a thousand bumblebees. A small hut of saints is better than a large village of scholars.",
+    "meaning": "चंदन की छोटी सी कुटकी हजारों भौंरों से बेहतर है। संतों की एक छोटी सी झोपड़ी एक बड़े विद्वानों के गांव से बेहतर है।",
+    "explanation": "इस दोहे में कबीर ने साधारण और सरल चीजों की श्रेष्ठता को दर्शाया है। उन्होंने बताया है कि भले ही बाहरी रूप से छोटी और साधारण चीजें हों, लेकिन वे उच्च और मूल्यवान होती हैं। यह भौतिकता की अस्थायी प्रकृति की तुलना में आत्मिक मूल्य की स्थिरता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.534Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c1e4cd9b-a363-4536-b614-5a080b741010",
+  "name": "अंषड़यिां झाई पडो, पंथ निहारि निहारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path is full of thorns, and as I look at it again and again, my tongue is blistered. I keep calling out to Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंषड़यिां झाई पडो, पंथ निहारि निहारि।\nजीभड़ि‍यां छाला पड्या, राम पुकारि पुकारि।।१७५७।।",
+    "translation": "The path is full of thorns, and as I look at it again and again, my tongue is blistered. I keep calling out to Ram.",
+    "meaning": "मार्ग कांटों से भरा हुआ है, और जब मैं इसे बार-बार देखता हूँ, मेरी जीभ पर छाले पड़ गए हैं। मैं राम को पुकारता रहता हूँ।",
+    "explanation": "इस दोहे में कबीर ने आध्यात्मिक यात्रा की कठिनाइयों को स्पष्ट किया है। मार्ग में कांटे होने और बार-बार देखने से जीभ पर छाले पड़ने का संकेत आत्मिक संघर्ष और कठिनाई का प्रतीक है। कबीर ने यह भी दिखाया है कि इन कठिनाइयों के बावजूद, व्यक्ति का ध्यान और पुकार राम की ओर स्थिर रहता है, जो उसकी भक्ति और समर्पण को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.345Z"
+  }
+}

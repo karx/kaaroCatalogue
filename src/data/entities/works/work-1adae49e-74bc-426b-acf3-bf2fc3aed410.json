@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1adae49e-74bc-426b-acf3-bf2fc3aed410",
+  "name": "गगन दमामा बाजिया, पड़े निसाने घाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sky reverberates with drums, but the marks of wounds remain. The field is ploughed by warriors, I yearn for death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गगन दमामा बाजिया, पड़े निसाने घाव।\nखेत बुहारे सूरमा, मोहे मरण का चाव।।४५८।।",
+    "translation": "The sky reverberates with drums, but the marks of wounds remain. The field is ploughed by warriors, I yearn for death.",
+    "meaning": "आसमान ढोलों से गूंज रहा है, लेकिन घावों के निशान बने रहते हैं। खेत योद्धाओं द्वारा हल चलाया जाता है, मुझे मृत्यु की लालसा है।",
+    "explanation": "इस दोहे में कबीर ने युद्ध की ध्वनि और उसके घावों के निशानों की तुलना की है। वे मृत्यु की इच्छा प्रकट करते हैं, जो जीवन के संघर्ष और युद्ध की तात्कालिकता को दर्शाता है। कबीर का यह दोहा जीवन की यथार्थता और मृत्यु की इच्छा को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

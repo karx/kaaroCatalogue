@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a8fd6e4-4b5a-4188-8874-f349eba8c975",
+  "name": "शुकदेव सरिखा फेरिया, तो को पावै पारा",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who circulates like Shukdev finds the essence. Without a guru, one remains a wanderer and suffers through eighty-four lakhs of births.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शुकदेव सरिखा फेरिया, तो को पावै पारा।\nगुरु बिन निगुरा जो रहै, पड़े चौरासी धार।।५५७।।",
+    "translation": "One who circulates like Shukdev finds the essence. Without a guru, one remains a wanderer and suffers through eighty-four lakhs of births.",
+    "meaning": "जो शुकदेव की तरह घूमता है, उसे पारा मिलता है। गुरु के बिना, व्यक्ति चौरासी लाख योनियों में भटकता रहता है।",
+    "explanation": "इस दोहे में कबीर जी ने शुकदेव की तरह प्रवृत्तियों की बात की है। बिना गुरु के व्यक्ति चौरासी लाख योनियों में भटकता रहता है। इसलिए गुरु की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

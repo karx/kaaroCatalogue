@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f29a1d7f-98a0-4da2-a01a-3aab02fcd99d",
+  "name": "स्वाँग पहरि सो रहा भया, खाया-पीया खूंदि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Donning a disguise, one falls asleep, eating and drinking without care. The path your saints took, you have sealed it shut.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्वाँग पहरि सो रहा भया, खाया-पीया खूंदि।\nजिहि तेरी साधु नीकले, सो तो मेल्ही मूंदि।।२२१।।",
+    "translation": "Donning a disguise, one falls asleep, eating and drinking without care. The path your saints took, you have sealed it shut.",
+    "meaning": "स्वांग रचकर तुम सो गए, खाना-पीना कर अनदेखा कर दिया। जिस मार्ग पर तुम्हारे संत चले, उसे तुमने बंद कर दिया।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि लोग बाहरी दिखावे में फंसकर वास्तविकता से दूर हो जाते हैं। वे स्वांग रचते हैं, जिससे उनके भीतर की जागरूकता खत्म हो जाती है। उन्होंने अपने संतों के द्वारा दिखाए गए मार्ग को भी नजरअंदाज कर दिया है, जो उन्हें सच्ची भक्ति और मोक्ष की ओर ले जाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

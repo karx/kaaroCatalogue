@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-af660495-360b-4d99-8312-e2cee172550c",
+  "name": "kab yaad mein tera sath nahin kab hat mein tera hat nahin",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/kab-yaad-men-teraa-saath-nahiin-kab-haat-men-teraa-haat-nahiin-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.205Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/kab-yaad-men-teraa-saath-nahiin-kab-haat-men-teraa-haat-nahiin-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nkab yaad meñ terā saath nahīñ kab haat meñ terā haat nahīñ\nsad-shukr ki apnī rātoñ meñ ab hijr kī koī raat nahīñ\nmushkil haiñ agar hālāt vahāñ dil bech aa.eñ jaañ de aa.eñ\ndil vaalo kūcha-e-jānāñ meñ kyā aise bhī hālāt nahīñ\njis dhaj se koī maqtal meñ gayā vo shaan salāmat rahtī hai\nye jaan to aanī jaanī hai is jaañ kī to koī baat nahīñ\nmaidān-e-vafā darbār nahīñ yaañ nām-o-nasab kī pūchh kahāñ\nāshiq to kisī kā naam nahīñ kuchh ishq kisī kī zaat nahīñ\ngar baazī ishq kī baazī hai jo chāho lagā do Dar kaisā\ngar jiit ga.e to kyā kahnā haare bhī to baazī maat nahīñ\nkab yaad mein tera sath nahin kab hat mein tera hat nahin\nsad-shukr ki apni raaton mein ab hijr ki koi raat nahin\nmushkil hain agar haalat wahan dil bech aaen jaan de aaen\ndil walo kucha-e-jaanan mein kya aise bhi haalat nahin\njis dhaj se koi maqtal mein gaya wo shan salamat rahti hai\nye jaan to aani jaani hai is jaan ki to koi baat nahin\nmaidan-e-wafa darbar nahin yan nam-o-nasab ki puchh kahan\naashiq to kisi ka nam nahin kuchh ishq kisi ki zat nahin\ngar bazi ishq ki bazi hai jo chaho laga do Dar kaisa\ngar jit gae to kya kahna haare bhi to bazi mat nahin",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nکب یاد میں تیرا ساتھ نہیں کب ہات میں تیرا ہات نہیں\nصد شکر کہ اپنی راتوں میں اب ہجر کی کوئی رات نہیں\nمشکل ہیں اگر حالات وہاں دل بیچ آئیں جاں دے آئیں\nدل والو کوچۂ جاناں میں کیا ایسے بھی حالات نہیں\nجس دھج سے کوئی مقتل میں گیا وہ شان سلامت رہتی ہے\nیہ جان تو آنی جانی ہے اس جاں کی تو کوئی بات نہیں\nمیدان وفا دربار نہیں یاں نام و نسب کی پوچھ کہاں\nعاشق تو کسی کا نام نہیں کچھ عشق کسی کی ذات نہیں\nگر بازی عشق کی بازی ہے جو چاہو لگا دو ڈر کیسا\nگر جیت گئے تو کیا کہنا ہارے بھی تو بازی مات نہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nकब याद में तेरा साथ नहीं कब हात में तेरा हात नहीं\nसद-शुक्र कि अपनी रातों में अब हिज्र की कोई रात नहीं\nमुश्किल हैं अगर हालात वहाँ दिल बेच आएँ जाँ दे आएँ\nदिल वालो कूचा-ए-जानाँ में क्या ऐसे भी हालात नहीं\nजिस धज से कोई मक़्तल में गया वो शान सलामत रहती है\nये जान तो आनी जानी है इस जाँ की तो कोई बात नहीं\nमैदान-ए-वफ़ा दरबार नहीं याँ नाम-ओ-नसब की पूछ कहाँ\nआशिक़ तो किसी का नाम नहीं कुछ इश्क़ किसी की ज़ात नहीं\nगर बाज़ी इश्क़ की बाज़ी है जो चाहो लगा दो डर कैसा\nगर जीत गए तो क्या कहना हारे भी तो बाज़ी मात नहीं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:53.496Z"
+  }
+}

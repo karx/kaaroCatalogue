@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-235be4e0-5375-49ab-95d9-d0fc5ce4cc24",
+  "name": "कबीर केवल नाम कह, शुद्ध गरीबी चाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, speak only the name of God and live a life of pure simplicity. False pride will drown you like a heavy stone in water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर केवल नाम कह, शुद्ध गरीबी चाल।\nकूर बड़ाई बूड़सी, भारी परसी झाल।।८६७।।",
+    "translation": "Kabir says, speak only the name of God and live a life of pure simplicity. False pride will drown you like a heavy stone in water.",
+    "meaning": "कबीर कहते हैं कि केवल भगवान का नाम लो और सरलता से जियो। झूठी बड़ाई तुम्हें भारी पत्थर की तरह डुबा देगी।",
+    "explanation": "इस दोहे में कबीर सच्चे नाम की महत्ता बताते हैं और साधारण और शुद्ध जीवन की आवश्यकता पर बल देते हैं। वे समझाते हैं कि झूठे अहंकार और बड़ाई का कोई फायदा नहीं, क्योंकि यह अंततः व्यक्ति को डूबा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.351Z"
+  }
+}

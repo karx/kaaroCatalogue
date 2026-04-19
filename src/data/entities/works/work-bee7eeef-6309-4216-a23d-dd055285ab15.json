@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bee7eeef-6309-4216-a23d-dd055285ab15",
+  "name": "बुन्‍द खिरी नर नारि की, जैसी आतम घात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as a drop of oil affects the body, so does the harm of ignorance affect the soul. The ignorant do not recognize this fact.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बुन्‍द खिरी नर नारि की, जैसी आतम घात।\nअज्ञानी मानै न‍हीं, येहि बात उत्‍पात।।१२२४।।",
+    "translation": "Just as a drop of oil affects the body, so does the harm of ignorance affect the soul. The ignorant do not recognize this fact.",
+    "meaning": "जैसे एक बूँद तेल शरीर को प्रभावित करती है, वैसे ही अज्ञानता का प्रभाव आत्मा को होता है। अज्ञानी इस तथ्य को पहचान नहीं पाते।",
+    "explanation": "इस दोहे में कबीर ने अज्ञानता के आत्मा पर प्रभाव को बताया है। जैसे एक बूँद तेल शरीर पर असर डालती है, वैसे ही अज्ञानता आत्मा को प्रभावित करती है, लेकिन अज्ञानी इसे समझ नहीं पाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.271Z"
+  }
+}

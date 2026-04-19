@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b412948d-6668-4e05-b992-12c5be62adc2",
+  "name": "रात्‍यूं रूंनी बिरहनीं, ज्‍यूं बंची कूं कुंज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The night is spent in separation, like a deer in a thicket. Kabir says, within the soul is a burning flame, and separation manifests as a bundle of pain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रात्‍यूं रूंनी बिरहनीं, ज्‍यूं बंची कूं कुंज।\nकबीर अंतर प्रजल्‍या, प्रगट्या बिरहा पुंज।।१७३६।।",
+    "translation": "The night is spent in separation, like a deer in a thicket. Kabir says, within the soul is a burning flame, and separation manifests as a bundle of pain.",
+    "meaning": "रात का समय बिछड़न में बिताया जाता है, जैसे एक हिरण झाड़ी में छिपा रहता है। कबीर कहते हैं, आत्मा के भीतर एक जलती हुई आग है, और बिछड़न एक दर्द का गुच्छा बन जाता है।",
+    "explanation": "कबीर इस दोहे में बिछड़न और longing की बात करते हैं। उन्होंने कहा कि बिछड़न के समय आत्मा में एक आग जलती है, जो पीड़ा और दर्द का रूप ले लेती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.075Z"
+  }
+}

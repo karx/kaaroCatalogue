@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-rekhta-1767558328531-m7l8i",
+  "name": "rah-e-dur-e-ishq mein rota hai kya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/mir-taqi-mir-ghazals-36",
+    "retrievedAt": "2026-01-04T20:25:28.531Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/mir-taqi-mir-ghazals-36"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nrāh-e-dūr-e-ishq meñ rotā hai kyā\naage aage dekhiye hotā hai kyā\nqāfile meñ sub.h ke ik shor hai\nya.anī ġhāfil ham chale sotā hai kyā\nsabz hotī hī nahīñ ye sarzamīñ\ntuḳhm-e-ḳhvāhish dil meñ tū botā hai kyā\nye nishān-e-ishq haiñ jaate nahīñ\ndaaġh chhātī ke abas dhotā hai kyā\nġhairat-e-yūsuf hai ye vaqt-e-azīz\n'mīr' us ko rā.egāñ khotā hai kyā\nrah-e-dur-e-ishq mein rota hai kya\naage aage dekhiye hota hai kya\nqafile mein subh ke ek shor hai\nyani ghafil hum chale sota hai kya\nsabz hoti hi nahin ye sarzamin\ntuKHm-e-KHwahish dil mein tu bota hai kya\nye nishan-e-ishq hain jate nahin\ndagh chhati ke abas dhota hai kya\nghairat-e-yusuf hai ye waqt-e-aziz\n'mir' us ko raegan khota hai kya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nراہ دور عشق میں روتا ہے کیا\nآگے آگے دیکھیے ہوتا ہے کیا\nقافلے میں صبح کے اک شور ہے\nیعنی غافل ہم چلے سوتا ہے کیا\nسبز ہوتی ہی نہیں یہ سرزمیں\nتخم خواہش دل میں تو بوتا ہے کیا\nیہ نشان عشق ہیں جاتے نہیں\nداغ چھاتی کے عبث دھوتا ہے کیا\nغیرت یوسف ہے یہ وقت عزیز\nمیرؔ اس کو رائیگاں کھوتا ہے کیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nराह-ए-दूर-ए-इश्क़ में रोता है क्या\nआगे आगे देखिए होता है क्या\nक़ाफ़िले में सुब्ह के इक शोर है\nया'नी ग़ाफ़िल हम चले सोता है क्या\nसब्ज़ होती ही नहीं ये सरज़मीं\nतुख़्म-ए-ख़्वाहिश दिल में तू बोता है क्या\nये निशान-ए-इश्क़ हैं जाते नहीं\nदाग़ छाती के अबस धोता है क्या\nग़ैरत-ए-यूसुफ़ है ये वक़्त-ए-अज़ीज़\n'मीर' उस को राएगाँ खोता है क्या",
+    "lastUpdated": "2026-01-04T20:25:58.554Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c77e5548-e359-4715-b476-89bcd46083e2",
+  "name": "पूरा सतगुरु न मिला, सुनी अधूरी सीख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without finding a complete true guru, one hears incomplete teachings. Wearing the disguise of a monk, begs for alms from door to door.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पूरा सतगुरु न मिला, सुनी अधूरी सीख।\nस्‍वांग यती का पहिन के, घर-घर मांगी भीख।।५२९।।",
+    "translation": "Without finding a complete true guru, one hears incomplete teachings. Wearing the disguise of a monk, begs for alms from door to door.",
+    "meaning": "पूर्ण सत्य गुरु के बिना, अधूरी शिक्षा सुनते हैं। संत की भेष में, घर-घर भिक्षा मांगते हैं।",
+    "explanation": "कबीर इस दोहे में पूर्ण और सच्चे गुरु की महत्ता को समझाते हैं। उन्होंने कहा है कि बिना सच्चे गुरु के, व्यक्ति अधूरी और अधकचरी शिक्षा ही सुनता है। इस अधूरी शिक्षा के कारण, कुछ लोग यति या साधू का भेष धारण कर, दर-दर भिक्षा मांगते हैं, जो वास्तविक ज्ञान या साधना का प्रतीक नहीं है। यह दोहा इस बात को उजागर करता है कि केवल सच्चे गुरु से ही पूर्ण और सही शिक्षा प्राप्त की जा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

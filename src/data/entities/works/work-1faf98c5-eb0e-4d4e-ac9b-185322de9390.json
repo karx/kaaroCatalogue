@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1faf98c5-eb0e-4d4e-ac9b-185322de9390",
+  "name": "जेहि मारग गए पंडिता, ताते ही गई बहीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path taken by the scholars leads to the same place. Kabir ascended the high path of Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जेहि मारग गए पंडिता, ताते ही गई बहीर।\nऊंची घाटी राम की, तेहि चढ़‍ि गया कबीर।।१५३३।।",
+    "translation": "The path taken by the scholars leads to the same place. Kabir ascended the high path of Ram.",
+    "meaning": "जो मार्ग पंडितों ने चुना, वही परिणाम देता है। कबीर ने राम के ऊंचे मार्ग को अपनाया।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि विद्वान या पंडित जिस मार्ग पर चलते हैं, वह अक्सर उतना प्रभावी नहीं होता। कबीर ने राम के उच्च मार्ग को अपनाया और वहां सफलता प्राप्त की। इसका तात्पर्य है कि केवल विद्या या पंडितत्व से नहीं, बल्कि सच्ची भक्ति और आत्मा की ऊँचाई से मार्गदर्शन मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.932Z"
+  }
+}

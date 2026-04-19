@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d09f98e8-6839-468a-b67b-c236d20d9aca",
+  "name": "दास कहावन कठिन है, मैं दासन का दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To be called a servant is difficult; I am a servant of servants. Now, I remain like the grass underfoot.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दास कहावन कठिन है, मैं दासन का दास।\nअब तो होय रहूं, पांव तले की घास।।६९३।।",
+    "translation": "To be called a servant is difficult; I am a servant of servants. Now, I remain like the grass underfoot.",
+    "meaning": "सेवक कहलाना कठिन है; मैं सेवकों का सेवक हूं। अब तो मैं पांव के नीचे की घास की तरह रह जाता हूं।",
+    "explanation": "इस दोहे में कबीर सेवा और विनम्रता की गहराई ���ो व्यक्त करते हैं। वे कहते हैं कि सेवक कहलाना कठिन है, और वे खुद को सेवकों का सेवक मानते हैं। इसका मतलब है कि वे पूरी तरह से विनम्रता और सेवा में डूबे हुए हैं। यह दोहा सेवा की सच्चाई और विनम्रता के महत्व को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

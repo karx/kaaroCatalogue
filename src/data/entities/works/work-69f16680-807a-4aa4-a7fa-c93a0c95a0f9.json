@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-69f16680-807a-4aa4-a7fa-c93a0c95a0f9",
+  "name": "सतगुरु शब्‍द उलंंघि के, जो सेवक कहुं जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If a servant disobeys the true Guru's words, wherever they go, death awaits them, Kabir explains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु शब्‍द उलंंघि के, जो सेवक कहुं जाय।\nजहां जाय तह काल है, कहैं कबीर समझाय।।६८०।।",
+    "translation": "If a servant disobeys the true Guru's words, wherever they go, death awaits them, Kabir explains.",
+    "meaning": "यदि कोई सेवक सतगुरु के शब्द की अवहेलना करता है, तो जहां भी वह जाता है, वहां मौत उसका इंतजार कर रही होती है, कबीर समझाते हैं।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो सेवक सतगुरु के शब्दों का उल्लंघन करता है, वह जीवन में कहीं भी सुरक्षित नहीं रहता। उसके लिए हर जगह काल का भय होता है। सतगुरु की आज्ञा का पालन न करने पर व्यक्ति अपने जीवन में विनाश की ओर बढ़ता है, और अंत में उसे काल का सामना करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

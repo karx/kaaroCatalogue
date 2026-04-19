@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fa4c2f8d-b1e8-46a1-b317-157fe4c03ad1",
+  "name": "हद छाड़‍ि बेहद गया, किया सुन्‍न‍ि असनान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Leaving the finite, I reached the infinite, and took a bath in the void. The sage does not find a palace; there, I rested.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हद छाड़‍ि बेहद गया, किया सुन्‍न‍ि असनान।\nमुनि जन महल न पावई, तहां किया विश्राम।।१७९०।।",
+    "translation": "Leaving the finite, I reached the infinite, and took a bath in the void. The sage does not find a palace; there, I rested.",
+    "meaning": "असीम को प्राप्त करने के लिए सीमित को छोड़ दिया, और शून्य में स्नान किया। ऋषि को महल नहीं मिलता; वहीं मैंने विश्राम किया।",
+    "explanation": "इस दोहे में कबीर ने सीमित और असीम के बीच के अंतर को दर्शाया है। उन्होंने सीमित दुनिया को छोड़कर असीम में प्रवेश किया और शून्य में स्नान किया। यह दर्शाता है कि सच्चे ज्ञान की प्राप्ति के लिए भौतिक वस्तुओं और सुख-सुविधाओं की आवश्यकता नहीं है। कबीर का यह दोहा आत्मा की गहराई और शांति की प्राप्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.355Z"
+  }
+}

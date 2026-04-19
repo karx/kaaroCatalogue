@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-573dc721-06b3-4b73-98b2-a9ef3c25dd5d",
+  "name": "दोय बखत नहिं करि सके, दिन में करूँ इक बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One cannot perform rituals twice a day, but if done once a day, it is sufficient. Kabir says, by seeing the saint, one can cross the ocean of worldly life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दोय बखत नहिं करि सके, दिन में करूँ इक बार।\nकबीर साधु दरश ते, उतरैं भव जल पार।।३१३।।",
+    "translation": "One cannot perform rituals twice a day, but if done once a day, it is sufficient. Kabir says, by seeing the saint, one can cross the ocean of worldly life.",
+    "meaning": "रोज दो बार पूजा नहीं की जा सकती, लेकिन एक बार करना पर्याप्त है। कबीर कहते हैं कि साधु के दर्शन से व्यक्ति जीवन के संसार के समुद्र को पार कर सकता है।",
+    "explanation": "इस दोहे में कबीर साधु के दर्शन को महत्वपूर्ण बताते हैं। वे कहते हैं कि दैनिक अनुष्ठान और पूजा की तुलना में, साधु के दर्शन से व्यक्ति जीवन की समस्याओं से पार पा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

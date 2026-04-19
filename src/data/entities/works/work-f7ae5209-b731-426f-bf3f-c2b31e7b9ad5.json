@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7ae5209-b731-426f-bf3f-c2b31e7b9ad5",
+  "name": "यह माया है चूहड़ी, और चूहड़ा कीजो",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This illusion is a mere game, and the game is the illusion. Father and son are entangled in this game, with no one remaining unaffected.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह माया है चूहड़ी, और चूहड़ा कीजो।\nबाप-पूत उरभय के, संग न काहू कीजो।।७५।।",
+    "translation": "This illusion is a mere game, and the game is the illusion. Father and son are entangled in this game, with no one remaining unaffected.",
+    "meaning": "यह माया एक खेल है, और खेल भी माया है। पिता और पुत्र इस खेल में उलझे हुए हैं, और कोई भी इससे अप्रभावित नहीं रहता।",
+    "explanation": "इस दोहे में कबीर माया (भौतिक संसार) के खेल और इसके प्रभाव को समझाते हैं। वह बताते हैं कि माया एक खेल की तरह है जिसमें सभी लोग, चाहे वे पिता-पुत्र हों या कोई और, शामिल होते हैं और इससे प्रभावित होते हैं। इस खेल से बाहर निकलना या इस खेल की सच्चाई को समझना मुश्किल है, लेकिन इसे समझने से मुक्ति प्राप्त हो सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

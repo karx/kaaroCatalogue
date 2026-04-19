@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fa1c088b-f6c0-414b-ac9c-25ff9aee7a5d",
+  "name": "ज्ञान रतन का जतनकर, माटी का संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Protect the jewel of wisdom, as the world is made of dust. Kabir says, once you come and go, the world seems pale.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञान रतन का जतनकर, माटी का संसार।\nआय कबीर फिर गया, फीका है संसार।।१४५।।",
+    "translation": "Protect the jewel of wisdom, as the world is made of dust. Kabir says, once you come and go, the world seems pale.",
+    "meaning": "ज्ञान के रतन की रक्षा करो, क्योंकि यह संसार माटी का है। कबीर कहते हैं, जब तुम आकर चले जाओगे, तो यह संसार फीका लगेगा।",
+    "explanation": "कबीर इस दोहे में ज्ञान के महत्व को बताते हैं। वे कहते हैं कि संसार माटी का बना हुआ है और अस्थाई है, जबकि ज्ञान ही सच्ची संपत्ति है। इसलिए हमें अपने ज्ञान की रक्षा करनी चाहिए और सांसारिक चीज़ों में लिप्त नहीं होना चाहिए। जीवन का उद्देश्य केवल सांसारिक वस्त्रों तक सीमित नहीं होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d366ca8-7276-47b2-b4aa-103cb74e879e",
+  "name": "कबिरा सांई तो मिलैंगे, पूछंगे कुशलात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When I meet my Lord, He will inquire about my well-being. I will tell Him everything, from the beginning to the end, and all that lies within my heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा सांई तो मिलैंगे, पूछंगे कुशलात।\nआदि अंत की सब कहूं, उर अंतर की बात।।२२००।।",
+    "translation": "When I meet my Lord, He will inquire about my well-being. I will tell Him everything, from the beginning to the end, and all that lies within my heart.",
+    "meaning": "जब मैं अपने सांई से मिलूंगा, तो वे मेरी कुशलता पूछेंगे। मैं उन्हें सब कुछ बता दूंगा, आरंभ से लेकर अंत तक, और जो भी मेरे दिल के भीतर है।",
+    "explanation": "इस दोहे में संत कबीर जी भगवान से मिलने की कल्पना कर रहे हैं और सोचते हैं कि भगवान उनसे उनके हालचाल पूछेंगे। वे भगवान को अपने जीवन की पूरी कहानी और दिल की सारी बातें बताने की इच्छा रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.735Z"
+  }
+}

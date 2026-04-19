@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-df3aaa7c-d2c5-4b1f-91b9-2bcf14a325a4",
+  "name": "मास-मास नहिं करि सकै, उठे मास अलबत्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one cannot perform rituals every month, they can still do it within a month. Kabir says do not delay in this matter.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मास-मास नहिं करि सकै, उठे मास अलबत्त।\nयामें ढील न कीजिये, कहै कबीर अविगत्त।।३१६।।",
+    "translation": "If one cannot perform rituals every month, they can still do it within a month. Kabir says do not delay in this matter.",
+    "meaning": "यदि कोई हर महीने अनुष्ठान नहीं कर सकता, तो भी एक महीने के भीतर इसे किया जा सकता है। कबीर कहते हैं कि इस मामले में ढील न करें।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि नियमित पूजा और अनुष्ठान करने में ढील नहीं देनी चाहिए। यदि कोई हर महीने अनुष्ठान नहीं कर सकता, तो भी वह समय पर इसे पूरा करे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

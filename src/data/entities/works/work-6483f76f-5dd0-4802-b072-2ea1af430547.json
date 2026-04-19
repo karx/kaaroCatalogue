@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6483f76f-5dd0-4802-b072-2ea1af430547",
+  "name": "यह तन काचा कुंभ है, माहिं किया रहि वास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This body is like a fragile pot, within which life resides. Kabir looks at it and realizes there is no hope for eternal life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह तन काचा कुंभ है, माहिं किया रहि वास।\nकबीर नैन निहारिया, नहिं जीवन की आस।।८९०।।",
+    "translation": "This body is like a fragile pot, within which life resides. Kabir looks at it and realizes there is no hope for eternal life.",
+    "meaning": "यह शरीर एक कच्चे घड़े की तरह है, जिसमें जीवन का वास है। कबीर इसे देखते हैं और समझते हैं कि यहां स्थायी जीवन की कोई उम्मीद नहीं है।",
+    "explanation": "कबीर इस दोहे में जीवन के अस्थायित्व और शरीर की नश्वरता पर ध्यान केंद्रित करते हैं। वे शरीर को एक कच्चे घड़े की तरह देखते हैं, जिसमें जीवन अस्थायी रूप से वास करता है, और इस जीवन की नश्वरता को समझने की बात करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.354Z"
+  }
+}

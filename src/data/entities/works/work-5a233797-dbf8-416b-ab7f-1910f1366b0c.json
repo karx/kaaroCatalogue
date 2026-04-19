@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5a233797-dbf8-416b-ab7f-1910f1366b0c",
+  "name": "बकरी पाती खात है, ताकी काढी खाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The goat eats leaves, yet its skin is stripped off. What fate awaits those who eat the goat itself?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बकरी पाती खात है, ताकी काढी खाल।\nजो बकरी को खात है, तिनका कौन हवाल।।२२५३।।",
+    "translation": "The goat eats leaves, yet its skin is stripped off. What fate awaits those who eat the goat itself?",
+    "meaning": "बकरी पत्तियाँ खाती है, फिर भी उसकी खाल उतारी जाती है। जो लोग बकरी को खाते हैं, उनका क्या हाल होगा?",
+    "explanation": "इस दोहे में कबीर जी बकरी का उदाहरण देते हुए बताते हैं कि जो बकरी केवल पत्तियाँ खाती है, उसे भी लोग मारकर उसकी खाल उतार लेते हैं। तो जो लोग बकरी का मांस खाते हैं, उनके कर्मों का परिणाम कितना भयानक होगा? यह दोहा इस बात पर जोर देता है कि हिंसा और निर्दोष प्राणियों को मारने वालों को उनके पापों का भारी परिणाम भुगतना पड़ेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.344Z"
+  }
+}

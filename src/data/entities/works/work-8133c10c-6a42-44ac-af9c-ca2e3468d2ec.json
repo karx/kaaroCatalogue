@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8133c10c-6a42-44ac-af9c-ca2e3468d2ec",
+  "name": "माखी गहै कुवास को, फूल वास नहिं लेयै",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A fly is attracted to filth and does not care for flowers. But a honeybee, like a saint, is attracted to the fragrance of flowers.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माखी गहै कुवास को, फूल वास नहिं लेयै।\nमधुमाखी हैं साधु जन, पुष्‍प बास चित देयं।।१२८५।।",
+    "translation": "A fly is attracted to filth and does not care for flowers. But a honeybee, like a saint, is attracted to the fragrance of flowers.",
+    "meaning": "एक मक्खी गंदगी की ओर आकर्षित होती है और फूलों की ओर ध्यान नहीं देती। लेकिन मधुमक्खी, जैसे एक साधू, फूलों की खुशबू से आकर्षित होती है।",
+    "explanation": "कबीर जी ने इस दोहे में मक्खी और मधुमक्खी के उदाहरण से समझाया है कि लोग अपनी प्रवृत्तियों के अनुसार ही आकर्षित होते हैं। गंदगी की ओर आकर्षित होने वाली मक्खी की तरह, जो लोग बुराई और दोषों में लिप्त होते हैं, वे अच्छे गुणों को नहीं पहचानते। वहीं, साधू और पुण्यात्मा लोग अच्छे और सकारात्मक गुणों की ओर आकर्षित होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.547Z"
+  }
+}

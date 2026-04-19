@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-25b7664a-1a61-422b-95a2-a0fcade463e7",
+  "name": "घटी बढी जानै नहीं, मनमें राखे जीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who does not know the ups and downs, keeps victory in the mind. The hypocrite fights with pride, and observes a reversed way.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घटी बढी जानै नहीं, मनमें राखे जीत।\nगाडर लडै गयन्‍दसा, देखो उलटी रीत।।२१४६।।",
+    "translation": "One who does not know the ups and downs, keeps victory in the mind. The hypocrite fights with pride, and observes a reversed way.",
+    "meaning": "जो घटते और बढ़ते को नहीं जानता, वह मन में जीत रखता है। जो धूर्त है, वह गर्व से लड़ता है और उलटी रीत अपनाता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जो व्यक्ति जीवन के उतार-चढ़ाव को नहीं समझता, वह हमेशा अपने मन में विजय की सोच रखता है। इसके विपरीत, जो लोग दंभ और स्वार्थ से भरे होते हैं, वे झगड़े करते हैं और असामान्य मार्ग अपनाते हैं। यह दोहा हमें जीवन की सच्चाई को समझने और सही मार्ग पर चलने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.372Z"
+  }
+}

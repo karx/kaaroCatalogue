@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ab6f5bf2-8ebf-439c-b93d-06fce064bb01",
+  "name": "भुवंगम बास न बेधई, चन्‍दन दोष न लाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bhujanga (serpent) does not harm, and sandalwood does not have faults. If the body is filled with poison, where can nectar reside?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भुवंगम बास न बेधई, चन्‍दन दोष न लाय।\nसब अंग तो विष सों भरा, अमृत कहां समाय।।६४९।।",
+    "translation": "The bhujanga (serpent) does not harm, and sandalwood does not have faults. If the body is filled with poison, where can nectar reside?",
+    "meaning": "भुवंगम (नाग) नुकसान नहीं पहुँचाता, और चंदन में दोष नहीं होता। यदि शरीर विष से भरा हुआ है, तो अमृत कहाँ समाएगा?",
+    "explanation": "संत कबीर का कहना है कि जब शरीर और मन में विष हो, तो अमृत या शांति का अनुभव संभव नहीं है। बाहरी वस्तुएं निर्दोष हो सकती हैं, लेकिन आंतरिक विष का प्रभाव प्रमुख होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.004Z"
+  }
+}

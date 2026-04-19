@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7bd9f10b-73d7-430c-9fde-ef8a7f297c3a",
+  "name": "बिरह जलाई मैं जलौं, जलती जल हरि जाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I am burned by the fire of separation, and it burns continuously. Seeing me burn, where will the saints find solace?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरह जलाई मैं जलौं, जलती जल हरि जाउं।\nमो देख्‍यां जलहरि जलै, संतौं कहां बुझाउं।।१७७४।।",
+    "translation": "I am burned by the fire of separation, and it burns continuously. Seeing me burn, where will the saints find solace?",
+    "meaning": "मैं विरह की आग से जल रहा हूँ, और यह लगातार जलती रहती है। मुझे जलते हुए देखकर, संत कहाँ शांति पाएंगे?",
+    "explanation": "इस दोहे में कबीर ने विरह की अग्नि से जलने की स्थिति को व्यक्त किया है और संतों की स्थिति को सवाल उठाया है। कबीर के अनुसार, अगर वे स्वयं विरह की आग से जल रहे हैं, तो संत कहाँ शांति पाएंगे? यह दोहा विरह की पीड़ा की तीव्रता और इसके भावनात्मक प्रभाव को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.350Z"
+  }
+}

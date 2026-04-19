@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b400d5bd-89c5-402a-b652-7d2a259f2982",
+  "name": "पर नारी का राचणौं, जिसी ल्‍हसण की षांनि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The creation of a woman is like the excitement of a festival. When the truth is revealed, it becomes evident like a festival day.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पर नारी का राचणौं, जिसी ल्‍हसण की षांनि।\nषूणैं बैसि रषाइए, परगट होइ दिवानि।।२०४२।।",
+    "translation": "The creation of a woman is like the excitement of a festival. When the truth is revealed, it becomes evident like a festival day.",
+    "meaning": "महिला की रचना त्यौहार की खुशी की तरह है। जब सच्चाई प्रकट होती है, तो यह त्यौहार के दिन की तरह स्पष्ट हो जाती है।",
+    "explanation": "इस दोहे में कबीर ने महिला की रचना को त्यौहार की खुशी के समान बताया है। सच्चाई जब प्रकट होती है, तो यह त्यौहार की तरह स्पष्ट हो जाती है। इसका तात्पर्य है कि महिलाओं की वास्तविकता एक खुशी की तरह प्रकट होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.812Z"
+  }
+}

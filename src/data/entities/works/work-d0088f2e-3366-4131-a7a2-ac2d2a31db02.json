@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d0088f2e-3366-4131-a7a2-ac2d2a31db02",
+  "name": "दुनिया के धोखै मआ, चला कुटुंब की कानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Deceived by the world, the family’s reputation is questioned. What is the pride of lineage when the earth becomes a cremation ground?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुनिया के धोखै मआ, चला कुटुंब की कानि।\nतब कुल की क्‍या लाज है, जब ले धरा मसानि।।९२७।।",
+    "translation": "Deceived by the world, the family’s reputation is questioned. What is the pride of lineage when the earth becomes a cremation ground?",
+    "meaning": "दुनिया के धोखे में आकर, परिवार की प्रतिष्ठा पर सवाल उठता है। जब धरती श्मशान बन जाती है, तो वंश का गर्व क्या रह जाता है?",
+    "explanation": "इस दोहे में कबीर ने संसार के धोखों और भ्रामकता पर प्रकाश डाला है। वे बताते हैं कि जब किसी की मृत्यु होती है और धरती श्मशान में बदल जाती है, तो परिवार और वंश की प्रतिष्ठा का कोई महत्व नहीं रह जाता। कबीर का यह संदेश है कि भौतिक चीजें और सामाजिक मान्यता क्षणिक होती हैं, और सच्ची महत्वपूर्णता आध्यात्मिक समझ और आत्मज्ञान में होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.626Z"
+  }
+}

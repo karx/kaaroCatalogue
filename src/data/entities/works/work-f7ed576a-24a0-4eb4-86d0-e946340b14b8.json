@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7ed576a-24a0-4eb4-86d0-e946340b14b8",
+  "name": "कबीर जंत्र न बाजई, टूट गये सब तार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the instrument is not playing, all its strings are broken. What can the poor instrument do, when the player has left?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर जंत्र न बाजई, टूट गये सब तार।\nजंत्र बिचारा क्‍या करै, जब चला बजावन हार।।८६४।।",
+    "translation": "Kabir, the instrument is not playing, all its strings are broken. What can the poor instrument do, when the player has left?",
+    "meaning": "कबीर, वाद्य यंत्र नहीं बज रहा है, उसके सभी तार टूट गए हैं। जब बजाने वाला चला गया है, तो बेचारा यंत्र क्या कर सकता है?",
+    "explanation": "कबीर इस दोहे में जीवन की नाजुकता की बात करते हैं। जैसे वाद्य यंत्र बिना तार के नहीं बज सकता, वैसे ही जब जीवन की डोर टूट जाती है, तो यह शरीर कुछ नहीं कर सकता। यह हमें जीवन की अस्थिरता का एहसास कराता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.350Z"
+  }
+}

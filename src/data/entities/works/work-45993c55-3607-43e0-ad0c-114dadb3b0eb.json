@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-45993c55-3607-43e0-ad0c-114dadb3b0eb",
+  "name": "बाहिर क्‍या दिखलाइये, अन्‍तर जपिये राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why display externally? Meditate on Rama within. What is the use of showing off with the crowd when you have work with the Divine?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाहिर क्‍या दिखलाइये, अन्‍तर जपिये राम।\nकहा महोला खलक सों, पयों धनी सों काम।।७५६।।",
+    "translation": "Why display externally? Meditate on Rama within. What is the use of showing off with the crowd when you have work with the Divine?",
+    "meaning": "बाहर क्या दिखाना है? अंदर ही राम का जाप करो। भीड़ के साथ दिखावा करने का क्या लाभ, जब आपके पास ईश्वर के साथ काम है।",
+    "explanation": "इस दोहे में कबीर बाहरी दिखावे को त्यागने और आंतरिक भक्ति पर ध्यान केंद्रित करने का संदेश देते हैं। वे बताते हैं कि बाहरी दिखावे और भीड़ के साथ दिखावा करने की बजाय, हमें अपने अंदर ही राम का जाप करना चाहिए। इस प्रकार की आंतरिक भक्ति और साधना अधिक महत्वपूर्ण है और वास्तविक दिव्य संबंध को बढ़ावा देती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

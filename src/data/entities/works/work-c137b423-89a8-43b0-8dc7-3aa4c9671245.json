@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c137b423-89a8-43b0-8dc7-3aa4c9671245",
+  "name": "माया संच संग्रहै, वह दिन जानै नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion gathers and stores, but it does not know the day it will end. All the efforts of a thousand years come to nothing in a moment of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया संच संग्रहै, वह दिन जानै नांहि।\nसहस बरस की सब करै, मर मुहूरत मांहि।।११८५।।",
+    "translation": "Illusion gathers and stores, but it does not know the day it will end. All the efforts of a thousand years come to nothing in a moment of death.",
+    "meaning": "माया संचय करती है, लेकिन यह नहीं जानती कि इसका अंत कब होगा। हजारों वर्षों की सारी मेहनत एक पल में मृत्यु के समय बेकार हो जाती है।",
+    "explanation": "इस दोहे में कबीर ने माया के संचय और उसके अंत की अनिश्चितता की बात की है। माया जितनी भी संपत्ति और प्रयासों का संचय करती है, अंततः यह सब एक पल में बेकार हो जाता है जब मृत्यु आती है। इसलिए माया के प्रति मोह त्यागना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.973Z"
+  }
+}

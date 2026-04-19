@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-998f3648-f26b-4e58-af0b-eb1dacd43046",
+  "name": "कबीर साई सूरिवां, मन सूं मांडे झूझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, one who is devoted to the Lord, fights with the mind. Removing the five enemies, one can be free from all others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर साई सूरिवां, मन सूं मांडे झूझ।\nपंच पयादा पाड़‍ि ले, दूरि करै सब दूज।।१९०९।।",
+    "translation": "Kabir says, one who is devoted to the Lord, fights with the mind. Removing the five enemies, one can be free from all others.",
+    "meaning": "कबीर कहते हैं, जो भगवान के प्रति समर्पित है, वह मन से संघर्ष करता है। पांच दुश्मनों को हटाकर, वह अन्य सभी दुश्मनों से मुक्त हो सकता है।",
+    "explanation": "इस दोहे में कबीरदास जी बताने की कोशिश करते हैं कि जो व्यक्ति भगवान के प्रति सच्चे मन से समर्पित होता है, वह अपने मन के पाँच दुश्मनों से संघर्ष करता है। ये पाँच दुश्मन काम, क्रोध, लोभ, मोह और अहंकार हैं। इन दुश्मनों को दूर करके, व्यक्ति सभी अन्य समस्याओं से मुक्त हो जाता है। यह दोहा आंतरिक शांति और समर्पण की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.246Z"
+  }
+}

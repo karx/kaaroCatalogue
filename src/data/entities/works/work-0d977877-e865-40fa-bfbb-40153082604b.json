@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0d977877-e865-40fa-bfbb-40153082604b",
+  "name": "माटी कहै कुम्हार सो, क्‍यों तू रौंदे मोहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The clay says to the potter, 'Why do you trample on me?' One day will come when I will trample on you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माटी कहै कुम्हार सो, क्‍यों तू रौंदे मोहि।\nएक दिन ऐसा होयगा, मैं रौदूंगी तोहि।।९०५।।",
+    "translation": "The clay says to the potter, 'Why do you trample on me?' One day will come when I will trample on you.",
+    "meaning": "मिट्टी कुम्हार से कहती है, 'तू मुझको क्यों कुचलता है?' एक दिन आएगा जब मैं तुझको कुचल दूंगी।",
+    "explanation": "कबीर इस दोहे में जीवन की अस्थिरता और भाग्य के उलटफेर की बात करते हैं। वे उदाहरण देते हैं कि कैसे एक समय मिट्टी, जो कुम्हार के हाथों से दबती है, एक दिन ऐसी स्थिति पैदा कर सकती है जब वह कुम्हार को उलट देगी। यह दोहा हमें सिखाता है कि जीवन में कभी भी स्थिति बदल सकती है और हमें हर स्थिति में विनम्र रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.623Z"
+  }
+}

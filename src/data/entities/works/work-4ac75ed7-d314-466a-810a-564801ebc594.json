@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ac75ed7-d314-466a-810a-564801ebc594",
+  "name": "कोटि-कोटि तीरथ कर, कोटि-कोटि करु धाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Visiting millions of pilgrimage sites and performing countless rituals are futile as long as one does not serve a saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोटि-कोटि तीरथ कर, कोटि-कोटि करु धाम।\nजब लग साधु न सेवई, तब लग काचा काम।।६०२।।",
+    "translation": "Visiting millions of pilgrimage sites and performing countless rituals are futile as long as one does not serve a saint.",
+    "meaning": "लाखों तीर्थ स्थानों पर जाकर और अनगिनत कर्मकांड करने का कोई महत्व नहीं है, जब तक कि एक संत की सेवा न की जाए।",
+    "explanation": "संत की सेवा का महत्व सभी धार्मिक क्रियाओं से अधिक होता है। तीर्थ यात्राएं और कर्मकांड केवल बाहरी प्रदर्शन हैं, जबकि सच्ची भक्ति और सेवा का फल संत के पास जाकर मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:51.999Z"
+  }
+}

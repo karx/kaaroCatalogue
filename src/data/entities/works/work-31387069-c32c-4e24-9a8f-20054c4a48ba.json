@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31387069-c32c-4e24-9a8f-20054c4a48ba",
+  "name": "तेरे हिय में राम हैं, ताहि न देखा जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ram resides in your heart, but you cannot see him. You will see him only when the doubts in your heart disappear.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तेरे हिय में राम हैं, ताहि न देखा जाय।\nताको तो तब देखिये, दिल की दुविधा जाय।।१३७७।।",
+    "translation": "Ram resides in your heart, but you cannot see him. You will see him only when the doubts in your heart disappear.",
+    "meaning": "तेरे हृदय में राम हैं, पर तुझे वह दिखाई नहीं देते। जब दिल की दुविधा समाप्त हो जाएगी, तभी तू राम को देख सकेगा।",
+    "explanation": "कबीर इस दोहे में आत्मज्ञान की बात करते हैं। वे कहते हैं कि ईश्वर आपके हृदय में ही वास करता है, लेकिन उसे देखने के लिए अपने मन की दुविधाओं और संदेहों को दूर करना आवश्यक है। जब मन से सभी संदेह दूर हो जाते हैं, तब ही सच्चे ज्ञान और ईश्वर की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.087Z"
+  }
+}

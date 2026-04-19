@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-10cebc52-40e1-4476-9259-acecfad8749b",
+  "name": "कुटिल वचन सबसे बुरा, जारि करै तन हार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Harsh words are the worst; they burn the body and soul. The words of a saint are like water, pouring down as nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुटिल वचन सबसे बुरा, जारि करै तन हार।\nसाधु वचन जल रूप है, बरसे अमृत धार।।२१।।",
+    "translation": "Harsh words are the worst; they burn the body and soul. The words of a saint are like water, pouring down as nectar.",
+    "meaning": "कुटिल (कटु) वचन सबसे बुरे होते हैं, ये शरीर और आत्मा को जला देते हैं। साधु वचन जल के समान होते हैं, जो अमृत की धारा के रूप में बरसते हैं।",
+    "explanation": "इस दोहे में संत कबीर बताते हैं कि कठोर शब्द किसी के जीवन में बहुत दुख और कष्ट लाते हैं। जबकि साधु पुरुषों के वचन अमृत के समान होते हैं, जो शांति और सुख प्रदान करते हैं। यह हमें मीठे और विनम्र शब्दों का प्रयोग करने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-84c9044e-b3be-4b95-a234-f5cb633556ca",
+  "name": "काया काठी, काल घुन, जतन-जतन सो खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is a wooden vessel eaten by the worms of time. Despite all efforts, it is governed by the divine, and no one understands its essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काया काठी, काल घुन, जतन-जतन सो खाय।\nकाया वैद्य ईश बस, मर्म न काहू पाय।।६०।।",
+    "translation": "The body is a wooden vessel eaten by the worms of time. Despite all efforts, it is governed by the divine, and no one understands its essence.",
+    "meaning": "शरीर एक लकड़ी के बर्तन की तरह है, जिसे काल के कीड़े खा जाते हैं। सभी प्रयासों के बावजूद, यह ईश्वर द्वारा संचालित होता है और इसका मर्म किसी को समझ में नहीं आता।",
+    "explanation": "इस दोहे में कबीर ने शरीर की क्षणिकता और मृत्यु के विषय में बताया है। शरीर एक लकड़ी के बर्तन की तरह है, जो काल के कीड़ों द्वारा धीरे-धीरे नष्ट हो जाता है। इसमें कितने भी प्रयास कर लें, यह ईश्वर के नियंत्रण में रहता है और इसका गहन सत्य कोई नहीं जानता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c0e6dc3f-f796-4fec-9dad-77697435d3a3",
+  "name": "Ramavataram'Silai Elupatu",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kamban"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Ramavataram'Silai_Elupatu",
+    "retrievedAt": "2026-01-04T18:39:08.297Z"
+  }
+}

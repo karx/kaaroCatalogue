@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-561d6cfe-4101-4aaf-8e6d-f200cfc67c38",
+  "name": "एक कनक अरु कांमनी, दोऊ अगनि की झाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One gold and one woman, both are like flames of fire. Just seeing them can burn the body, touching them brings destruction.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक कनक अरु कांमनी, दोऊ अगनि की झाल।\nदेखें ही तन प्रजलै, परस्‍यां ह्वै पैमाल।।२०४७।।",
+    "translation": "One gold and one woman, both are like flames of fire. Just seeing them can burn the body, touching them brings destruction.",
+    "meaning": "एक सोना और एक स्त्री, दोनों आग की लपटों के समान हैं। इन्हें देखने मात्र से शरीर जल सकता है और छूने से सर्वनाश हो सकता है।",
+    "explanation": "कबीर इस दोहे में सोने और स्त्री को आग की लपटों के समान बता रहे हैं। इन्हें देखते ही जैसे शरीर जलने लगता है, वैसे ही इनकी आसक्ति में पड़ने पर जीवन में विनाशकारी परिणाम हो सकते हैं। इस प्रकार कबीर हमें इनसे बचने और सावधान रहने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.813Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7920825f-cbd5-4ad3-b4b5-7e992a73a4ff",
+  "name": "कबीरा लोहा एक है, गढ़ने में है फेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that iron is one, but it transforms differently in the process. It can become armor or a sword depending on how it is forged.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा लोहा एक है, गढ़ने में है फेर।\nताहि का बखतर बने, ताहि की शमशेर।।१११।।",
+    "translation": "Kabir says that iron is one, but it transforms differently in the process. It can become armor or a sword depending on how it is forged.",
+    "meaning": "कबीर कहते हैं कि लोहा एक ही होता है, लेकिन उसे गढ़ने की प्रक्रिया में उसका रूप बदल जाता है। यह बख्तर या शमशेर बन सकता है, यह निर्भर करता है कि इसे कैसे तैयार किया गया है।",
+    "explanation": "इस दोहे में कबीर यह दिखाते हैं कि लोहा एक ही सामग्री है, लेकिन उसकी प्रक्रिया और रूपांतरण के अनुसार उसका उपयोग विभिन्न उद्देश्यों के लिए किया जाता है। जैसे कि लोहा बख्तर और शमशेर दोनों में बदल सकता है, वैसे ही मनुष्य की योग्यता और गुण उसकी शिक्षा और संगति पर निर्भर करते हैं। यह दर्शाता है कि बाहरी रूप से अधिक महत्वपूर्ण है आंतरिक गुण और मानसिकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

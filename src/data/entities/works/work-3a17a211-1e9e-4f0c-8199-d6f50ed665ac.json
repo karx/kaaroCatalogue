@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a17a211-1e9e-4f0c-8199-d6f50ed665ac",
+  "name": "कबिरन भक्ति बिगारीयां, कंकर पत्‍थर धोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that devotion is tainted, washing pebbles and stones. Inside, poison is kept while nectar is lost.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरन भक्ति बिगारीयां, कंकर पत्‍थर धोय।\nअंदर में विष राखि के, अमृत डारिन खोय।।१६२६।।",
+    "translation": "Kabir says that devotion is tainted, washing pebbles and stones. Inside, poison is kept while nectar is lost.",
+    "meaning": "कबीर कहते हैं कि भक्ति बिगड़ी हुई है, कंकर और पत्थरों को धोकर। अंदर विष रखा जाता है और अमृत खो जाता है।",
+    "explanation": "कबीर इस दोहे में दिखाते हैं कि दिखावे की भक्ति व्यर्थ है जब उसके अंदर बुरे भावनाएँ और इच्छाएँ हों। उन्होंने कहा कि जो लोग बाहरी धार्मिकता का दिखावा करते हैं, लेकिन उनके अंदर विषपूर्ण विचार होते हैं, वे असली अमृत खो देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.507Z"
+  }
+}

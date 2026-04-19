@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-821aeb5f-5284-47aa-ac8b-721115df442c",
+  "name": "उजला कपड़ा पहिरि करि, पान सुपारी खाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Dressed in fine clothes and chewing betel leaves, without taking Hari's name, they are bound for the land of Yama.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उजला कपड़ा पहिरि करि, पान सुपारी खाहिं।\nएकै हरि के नाव बिन, बाँधे जमपुरि जाहिं।।२१३।।",
+    "translation": "Dressed in fine clothes and chewing betel leaves, without taking Hari's name, they are bound for the land of Yama.",
+    "meaning": "सुंदर कपड़े पहनकर और पान सुपारी खाकर, हरि का नाम लिए बिना, वे यमलोक की ओर बढ़ते हैं।",
+    "explanation": "कबीर इस दोहे में सांसारिक दिखावे और आडंबरों की निस्सारता पर प्रकाश डालते हैं। वे कहते हैं कि बाहरी सुंदरता और सांसारिक सुखों में उलझे हुए लोग, यदि हरि का नाम नहीं लेते, तो अंततः यमराज के बंधनों में फंस जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

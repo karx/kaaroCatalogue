@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c49fd8d9-7cc0-457b-9c03-91c451092eef",
+  "name": "षूंणै पड्या न छुटियो, सुण‍ि रे जीव अबूझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The deaf will not escape from the truth, listen, O soul. Kabir says, even in death, struggle with the senses.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "षूंणै पड्या न छुटियो, सुण‍ि रे जीव अबूझ।\nकबीर मरि मैदान मैं, करि इंद्रया सूं झूझ।।१९०८।।",
+    "translation": "The deaf will not escape from the truth, listen, O soul. Kabir says, even in death, struggle with the senses.",
+    "meaning": "बहरा व्यक्ति सत्य से नहीं बच सकता, सुनो ओ आत्मा। कबीर कहते हैं, मृत्यु के समय भी इंद्रियों से संघर्ष करना होगा।",
+    "explanation": "इस दोहे में कबीरदास जी बताते हैं कि जो व्यक्ति सत्य को नहीं सुनता, वह सत्य से बच नहीं सकता। वे यह भी कहते हैं कि मृत्यु के समय भी इंद्रियों से संघर्ष करना पड़ता है। यह दोहा जीवन की सच्चाई और आत्मा की आवश्यकताओं की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.246Z"
+  }
+}

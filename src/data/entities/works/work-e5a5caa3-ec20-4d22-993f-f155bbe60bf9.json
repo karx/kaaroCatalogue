@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e5a5caa3-ec20-4d22-993f-f155bbe60bf9",
+  "name": "सब‍की उत्‍पति धरती, सब जीवन प्रतिपाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The earth gives rise to all and sustains all life. The earth itself does not know its own virtues; thus is the wisdom of the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब‍की उत्‍पति धरती, सब जीवन प्रतिपाल।\nधरती न जाने आप गुण, ऐसो गुरु विचार।।१६८८।।",
+    "translation": "The earth gives rise to all and sustains all life. The earth itself does not know its own virtues; thus is the wisdom of the Guru.",
+    "meaning": "धरती सभी की उत्पत्ति करती है और जीवन का पालन करती है। धरती अपने गुणों को नहीं जानती; यही गुरु की सोच है।",
+    "explanation": "कबीर इस दोहे में धरती की महत्वता और गुरु के ज्ञान की बात करते हैं। उन्होंने कहा कि जैसे धरती अपनी गुणों को नहीं जानती, वैसे ही गुरु की सोच भी अलग होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.791Z"
+  }
+}

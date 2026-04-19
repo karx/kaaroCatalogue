@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-38f6e1e8-be49-47c3-9a41-8a6601a9205b",
+  "name": "कबीर मन तो एक है, भावै जहां लगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says the mind is one; it follows where it is inclined. If it inclines towards devotion to the Guru, it will also incline towards worldly pursuits.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन तो एक है, भावै जहां लगाय।\nभावै गुरु की भक्ति कर, भावे विषय कमाय।।१११२।।",
+    "translation": "Kabir says the mind is one; it follows where it is inclined. If it inclines towards devotion to the Guru, it will also incline towards worldly pursuits.",
+    "meaning": "कबीर कहते हैं कि मन एक ही होता है; वह उसी ओर झुकता है जहाँ उसका झुकाव होता है। यदि मन गुरु की भक्ति की ओर झुकता है, तो यह विषयों की ओर भी झुक जाएगा।",
+    "explanation": "इस दोहे में कबीर ने मन की प्रवृत्तियों को समझाया है। उन्होंने कहा है कि मन में एकता होती है और वह उस दिशा में बहता है जहाँ उसका झुकाव होता है। यदि मन गुरु की भक्ति की ओर झुका है, तो वह संसारिक विषयों की ओर भी झुक जाएगा। यह दर्शाता है कि मन की दिशा और प्रवृत्ति जीवन के कर्मों को प्रभावित करती है और इसे सही दिशा में मोड़ना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.701Z"
+  }
+}

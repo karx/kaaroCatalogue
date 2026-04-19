@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0d4d53c-aedf-4aa2-bf00-a9a09d216ec7",
+  "name": "kab tak dil ki KHair manaen kab tak rah dikhlaoge",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/kab-tak-dil-kii-khair-manaaen-kab-tak-rah-dikhlaaoge-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.208Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/kab-tak-dil-kii-khair-manaaen-kab-tak-rah-dikhlaaoge-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nkab tak dil kī ḳhair manā.eñ kab tak rah dikhlāoge\nkab tak chain kī mohlat doge kab tak yaad na aaoge\nbiitā diid ummīd kā mausam ḳhaak uḌtī hai āñkhoñ meñ\nkab bhejoge dard kā bādal kab barkhā barsāoge\nahd-e-vafā yā tark-e-mohabbat jo chāho so aap karo\napne bas kī baat hī kyā hai ham se kyā manvāoge\nkis ne vasl kā sūraj dekhā kis par hijr kī raat Dhalī\ngesuoñ vaale kaun the kyā the un ko kyā jatlāoge\n'faiz' diloñ ke bhaag meñ hai ghar bharnā bhī luT jaanā bhī\ntum is husn ke lutf-o-karam par kitne din itrāoge\nkab tak dil ki KHair manaen kab tak rah dikhlaoge\nkab tak chain ki mohlat doge kab tak yaad na aaoge\nbita did ummid ka mausam KHak uDti hai aankhon mein\nkab bhejoge dard ka baadal kab barkha barsaoge\nahd-e-wafa ya tark-e-mohabbat jo chaho so aap karo\napne bas ki baat hi kya hai hum se kya manwaoge\nkis ne wasl ka suraj dekha kis par hijr ki raat Dhali\ngesuon wale kaun the kya the un ko kya jatlaoge\n'faiz' dilon ke bhag mein hai ghar bharna bhi luT jaana bhi\ntum is husn ke lutf-o-karam par kitne din itraoge",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nکب تک دل کی خیر منائیں کب تک رہ دکھلاؤ گے\nکب تک چین کی مہلت دو گے کب تک یاد نہ آؤ گے\nبیتا دید امید کا موسم خاک اڑتی ہے آنکھوں میں\nکب بھیجو گے درد کا بادل کب برکھا برساؤ گے\nعہد وفا یا ترک محبت جو چاہو سو آپ کرو\nاپنے بس کی بات ہی کیا ہے ہم سے کیا منواؤ گے\nکس نے وصل کا سورج دیکھا کس پر ہجر کی رات ڈھلی\nگیسوؤں والے کون تھے کیا تھے ان کو کیا جتلاؤ گے\nفیضؔ دلوں کے بھاگ میں ہے گھر بھرنا بھی لٹ جانا بھی\nتم اس حسن کے لطف و کرم پر کتنے دن اتراؤ گے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nकब तक दिल की ख़ैर मनाएँ कब तक रह दिखलाओगे\nकब तक चैन की मोहलत दोगे कब तक याद न आओगे\nबीता दीद उम्मीद का मौसम ख़ाक उड़ती है आँखों में\nकब भेजोगे दर्द का बादल कब बरखा बरसाओगे\nअहद-ए-वफ़ा या तर्क-ए-मोहब्बत जो चाहो सो आप करो\nअपने बस की बात ही क्या है हम से क्या मनवाओगे\nकिस ने वस्ल का सूरज देखा किस पर हिज्र की रात ढली\nगेसुओं वाले कौन थे क्या थे उन को क्या जतलाओगे\n'फ़ैज़' दिलों के भाग में है घर भरना भी लुट जाना भी\nतुम इस हुस्न के लुत्फ़-ओ-करम पर कितने दिन इतराओगे",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:41.756Z"
+  }
+}

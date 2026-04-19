@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7dfc41ee-475e-44f1-b979-57282eb70638",
+  "name": "ज्‍यौं कोरी रेजा बुनै, नीरा आवै छोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as a weaver creates cloth with thread and water, Such is the account of the thread of life; if you can, understand it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्‍यौं कोरी रेजा बुनै, नीरा आवै छोर।\nऐसा लेखा मीच का, दौरि सके तो दौर।।८४४।।",
+    "translation": "Just as a weaver creates cloth with thread and water, Such is the account of the thread of life; if you can, understand it.",
+    "meaning": "जैसे एक बुनकर धागे और पानी से कपड़ा बनाता है, वैसा ही जीवन का लेखा है; यदि आप समझ सकें, तो समझें।",
+    "explanation": "इस दोहे में कबीर ने जीवन के जटिलता को एक बुनकर के काम से तुलना की है। जैसे बुनकर धागे और पानी से कपड़ा बुनता है, वैसे ही जीवन की घटनाओं और अनुभवों का लेखा भी जटिल होता है। यह दोहा जीवन की गहराई और उसकी जटिलताओं को समझने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.082Z"
+  }
+}

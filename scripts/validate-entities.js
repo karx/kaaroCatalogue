@@ -13,6 +13,7 @@ import { fileURLToPath } from 'url';
 import {
   validatePersonEntity,
   validateVideoEntity,
+  validateWorkEntity,
   checkDuplicateSameAs,
   findFuzzyNameCollisions,
 } from './lib/validate.js';
@@ -43,8 +44,10 @@ async function main() {
   const poetEntries = loadDir('poets');
   const comedyEntries = loadDir('comedy');
   const videoEntries = loadDir('videos');
+  const workEntries = loadDir('works');
 
   const comedianIds = new Set(comedyEntries.map(e => e.data.entityId).filter(Boolean));
+  const poetIds = new Set(poetEntries.map(e => e.data.entityId).filter(Boolean));
 
   // Validate person entities
   for (const { file, data } of [...poetEntries, ...comedyEntries]) {
@@ -57,6 +60,11 @@ async function main() {
     errors.push(...validateVideoEntity(data, file, comedianIds));
   }
 
+  // Validate work entities
+  for (const { file, data } of workEntries) {
+    errors.push(...validateWorkEntity(data, file, poetIds));
+  }
+
   // Fuzzy name collision warnings (across all people)
   const allPeople = [...poetEntries, ...comedyEntries]
     .filter(e => e.data.name && e.data.entityId)
@@ -66,6 +74,7 @@ async function main() {
   // Report
   console.log('🔍 Kaaro Catalogue — Entity Validation\n');
   console.log(`   Poets:     ${poetEntries.length}`);
+  console.log(`   Works:     ${workEntries.length}`);
   console.log(`   Comedians: ${comedyEntries.length}`);
   console.log(`   Videos:    ${videoEntries.length}`);
   console.log();

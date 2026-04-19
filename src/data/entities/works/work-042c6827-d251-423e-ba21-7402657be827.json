@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-042c6827-d251-423e-ba21-7402657be827",
+  "name": "स्‍वारथ कूं स्‍वारथ मिले, पड़‍ि पड़‍ि लूंबा बूंब",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Self-interest leads to self-interest, resulting in endless cycles. The unattached and indifferent remain unperturbed by such cycles.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्‍वारथ कूं स्‍वारथ मिले, पड़‍ि पड़‍ि लूंबा बूंब।\nनिस्‍प्रेही निरधार को, कोय न राखे झूंब।।१०९०।।",
+    "translation": "Self-interest leads to self-interest, resulting in endless cycles. The unattached and indifferent remain unperturbed by such cycles.",
+    "meaning": "स्वार्थ को स्वार्थ ही मिलता है, जिससे अंतहीन चक्र बन जाता है। जो निरपेक्ष और निर्लिप्त होते हैं, वे इस चक्र से प्रभावित नहीं होते।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थ की समाप्ति और उसके निरंतर चक्र की बात की है। जब किसी का स्वार्थ होता है, तो वह स्वार्थ ही उसे मिलता है और यह चक्र निरंतर चलता रहता है। लेकिन जो निरपेक्ष और निष्कपट होते हैं, वे इस चक्र से अछूते रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.429Z"
+  }
+}

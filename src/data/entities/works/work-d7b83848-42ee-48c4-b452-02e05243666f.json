@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d7b83848-42ee-48c4-b452-02e05243666f",
+  "name": "जहाँ गाहक, तहाँ हूँ नहीं, जहाँ मैं गाहक नाँय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there are no customers, I am not there; where I am not a customer, there is no place for me. Fools wander about, grasping at the shadow of words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहाँ गाहक, तहाँ हूँ नहीं, जहाँ मैं गाहक नाँय।\nमूरख यह भरमत फिरे, पकड़ शब्द की छाँय।।६७।।",
+    "translation": "Where there are no customers, I am not there; where I am not a customer, there is no place for me. Fools wander about, grasping at the shadow of words.",
+    "meaning": "जहां ग्राहक नहीं हैं, मैं वहाँ नहीं हूँ; जहां मैं ग्राहक नहीं हूँ, वहां मेरे लिए कोई स्थान नहीं है। मूर्ख लोग शब्दों की छाया पकड़कर भटकते हैं।",
+    "explanation": "इस दोहे में कबीर ने वास्तविकता की बात की है कि जहाँ वास्तविक मूल्य नहीं है, वहाँ वे स्वयं भी नहीं होते। वे शब्दों की छाया पकड़कर भटकने वाले मूर्खों की आलोचना कर रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

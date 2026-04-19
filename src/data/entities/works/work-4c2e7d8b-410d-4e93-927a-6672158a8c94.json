@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4c2e7d8b-410d-4e93-927a-6672158a8c94",
+  "name": "धरती करते एक पग, समुंद्र करते फाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "With one step, they traverse the earth; with a leap, they cross the seas. They can roll mountains in their hands, yet time devours them too.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धरती करते एक पग, समुंद्र करते फाल।\nहाथों परबत लौलते, ते भी खाये काल।।४४४।।",
+    "translation": "With one step, they traverse the earth; with a leap, they cross the seas. They can roll mountains in their hands, yet time devours them too.",
+    "meaning": "एक कदम में धरती को पार कर लेते हैं; एक छलांग में समुद्र को लांघ जाते हैं। वे पर्वतों को अपने हाथों में घुमा सकते हैं, फिर भी समय उन्हें भी खा जाता है।",
+    "explanation": "कबीर इस दोहे में उन लोगों की शक्ति और सामर्थ्य का वर्णन कर रहे हैं जो बहुत शक्तिशाली होते हैं। वे कहते हैं कि कुछ लोग इतने बलवान होते हैं कि एक कदम में धरती को पार कर सकते हैं और एक छलांग में समुद्र को लांघ सकते हैं। वे पर्वतों को अपने हाथों में घुमा सकते हैं, लेकिन समय उनकी शक्ति को भी नष्ट कर देता है। यह दोहा जीवन की क्षणभंगुरता और समय की अपरिहार्यता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

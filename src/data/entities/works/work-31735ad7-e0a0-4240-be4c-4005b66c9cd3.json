@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31735ad7-e0a0-4240-be4c-4005b66c9cd3",
+  "name": "सांचै कोई न पतीयई, झूठे जग पतियाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one believes in the truth, but the falsehoods of the world are widely accepted. The streets are full of deception, and wine is sold everywhere.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांचै कोई न पतीयई, झूठे जग पतियाय।\nगली गली गो रास फिरै, मदिरा बैठ बिकाय।।१४११।।",
+    "translation": "No one believes in the truth, but the falsehoods of the world are widely accepted. The streets are full of deception, and wine is sold everywhere.",
+    "meaning": "सच्चाई पर कोई विश्वास नहीं करता, लेकिन दुनिया की झूठी बातें व्यापक रूप से स्वीकार की जाती हैं। गलियाँ धोखे से भरी हुई हैं और शराब हर जगह बिक रही है।",
+    "explanation": "कबीर इस दोहे में सच्चाई और झूठ के प्रति लोगों के दृष्टिकोण की आलोचना करते हैं। वे कहते हैं कि सच्चाई को लोग नहीं मानते, जबकि झूठ और धोखे को आसानी से स्वीकार कर लिया जाता है। यह दोहा समाज में व्याप्त झूठ और धोखे की ओर इशारा करता है और सच्चाई की कमी की ओर ध्यान आकर्षित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.359Z"
+  }
+}

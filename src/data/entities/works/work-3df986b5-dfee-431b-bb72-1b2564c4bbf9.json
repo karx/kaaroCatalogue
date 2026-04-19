@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3df986b5-dfee-431b-bb72-1b2564c4bbf9",
+  "name": "गारी ही सों ऊपजै, कलह, कष्ट और मींच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "From harsh words arise conflict, suffering, and pain. The one who steps back is a saint, the one who retaliates is lowly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गारी ही सों ऊपजै, कलह, कष्ट और मींच।\nहारि चले सो साधु है, लागि चले सो नीच।।१७।।",
+    "translation": "From harsh words arise conflict, suffering, and pain. The one who steps back is a saint, the one who retaliates is lowly.",
+    "meaning": "गाली-गलौज से केवल कलह, कष्ट और पीड़ा ही उत्पन्न होती है। जो हार मानकर पीछे हट जाता है, वह साधु है, और जो उलझता है, वह नीच है।",
+    "explanation": "यह दोहा हमें व्यवहार और आचरण का महत्व सिखाता है। संत कबीर बताते हैं कि गाली-गलौज से केवल संघर्ष और पीड़ा ही उत्पन्न होती है। जो व्यक्ति ऐसे समय में पीछे हट जाता है, वह साधु है, और जो उलझता है, वह नीच है। यह हमें शांति और संयम का पालन करने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

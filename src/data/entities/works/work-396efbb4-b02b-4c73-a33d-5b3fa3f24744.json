@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-396efbb4-b02b-4c73-a33d-5b3fa3f24744",
+  "name": "कामी क्रोधी लालची, इनते भक्ति न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Desire, anger, and greed cannot lead to true devotion. Only a true hero who has abandoned caste, class, and family can practice true devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामी क्रोधी लालची, इनते भक्ति न होय।\nभक्ति करै कोय सूरमा, जाति बरन कुल खोय।।१२२१।।",
+    "translation": "Desire, anger, and greed cannot lead to true devotion. Only a true hero who has abandoned caste, class, and family can practice true devotion.",
+    "meaning": "काम, क्रोध, और लालच से सच्ची भक्ति नहीं हो सकती। केवल एक सच्चा वीर, जिसने जाति, वर्ग और कुल का त्याग किया है, सच्ची भक्ति कर सकता है।",
+    "explanation": "इस दोहे में कबीर ने भक्ति के मार्ग में आने वाली बाधाओं को बताया है। काम, क्रोध, और लालच भक्ति में विघ्न डालते हैं। सच्ची भक्ति के लिए, व्यक्ति को जाति, वर्ग, और कुल के बंधनों को त्यागना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.270Z"
+  }
+}

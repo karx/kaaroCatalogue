@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-efecfc28-9db7-473f-b9b8-a43d437fe9a2",
+  "name": "कबीर भग की प्रीतड़ी, केते गए गडंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the love for God is precious, many have lost their count. Many are still going, laughing, straight to hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर भग की प्रीतड़ी, केते गए गडंत।\nकेते अजहूं जायसी, नरकि हसंत हसंत।।२०४८।।",
+    "translation": "Kabir, the love for God is precious, many have lost their count. Many are still going, laughing, straight to hell.",
+    "meaning": "कबीर कहते हैं कि भगवत प्रेम बहुत कीमती है, अनगिनत लोग इसके लिए मर मिटे हैं। फिर भी, कई लोग अभी भी हंसते हुए नरक में जा रहे हैं।",
+    "explanation": "कबीर इस दोहे में भगवान के प्रेम की महत्ता को समझा रहे हैं। वे कहते हैं कि भगवान का प्रेम अत्यंत मूल्यवान है और कई लोग इसे पाने के लिए अपना सर्वस्व त्याग चुके हैं। इसके बावजूद, कई लोग अपनी माया में फंसे रहते हैं और हंसते-हंसते नरक की ओर बढ़ते हैं। कबीर हमें सचेत करते हैं कि हम भी इस प्रकार का मार्ग न अपनाएं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.813Z"
+  }
+}

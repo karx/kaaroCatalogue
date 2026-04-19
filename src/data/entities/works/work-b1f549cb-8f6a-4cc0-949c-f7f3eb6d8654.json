@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b1f549cb-8f6a-4cc0-949c-f7f3eb6d8654",
+  "name": "चौंसठ दीवा जोय के, चौदह चन्दा माहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if you light sixty-four lamps and fourteen moons in your house, what light will there be if the true Guru is not present?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चौंसठ दीवा जोय के, चौदह चन्दा माहिं।\nतेहि घर किसका चाँदना, जिहि घर सतगुरु नाहिं।।२९७।।",
+    "translation": "Even if you light sixty-four lamps and fourteen moons in your house, what light will there be if the true Guru is not present?",
+    "meaning": "अगर आप अपने घर में चौसठ दीये और चौदह चाँद जलाएं, तो भी वहां कोई प्रकाश नहीं होगा, अगर वहां सच्चा गुरु मौजूद नहीं है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि गुरु का महत्व सबसे ऊपर है। चाहे आप कितने भी बाहरी साधनों का उपयोग करें, सच्चे गुरु के बिना जीवन में वास्तविक प्रकाश या ज्ञान नहीं प्राप्त किया जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

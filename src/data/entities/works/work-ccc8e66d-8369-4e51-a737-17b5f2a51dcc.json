@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ccc8e66d-8369-4e51-a737-17b5f2a51dcc",
+  "name": "दोष पराया देखि के, चले हसन्‍त हसन्‍त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "People laugh and point out others' faults, but they cannot see their own faults. They are ignorant of both the beginning and the end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दोष पराया देखि के, चले हसन्‍त हसन्‍त।\nअपने चित्त न आवई, जिनको आदि न अन्‍त।।१२८९।।",
+    "translation": "People laugh and point out others' faults, but they cannot see their own faults. They are ignorant of both the beginning and the end.",
+    "meaning": "लोग दूसरों की दोषों पर हंसते हैं, लेकिन अपनी खुद की दोषों को नहीं देख पाते। वे शुरुआत और अंत दोनों से अनजान होते हैं।",
+    "explanation": "कबीर जी इस दोहे में यह बताते हैं कि लोग अक्सर दूसरों की कमियों पर हंसते हैं और उन्हें उजागर करते हैं, जबकि वे अपनी स्वयं की कमियों को देख नहीं पाते। यही अज्ञानता उनके जीवन के आरंभ और अंत को समझने में बाधक होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.548Z"
+  }
+}

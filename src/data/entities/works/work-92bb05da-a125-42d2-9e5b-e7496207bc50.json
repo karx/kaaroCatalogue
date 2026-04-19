@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-92bb05da-a125-42d2-9e5b-e7496207bc50",
+  "name": "teri umid tera intizar jab se hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/tirii-umiid-tiraa-intizaar-jab-se-hai-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.208Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/tirii-umiid-tiraa-intizaar-jab-se-hai-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ntirī umiid tirā intizār jab se hai\nna shab ko din se shikāyat na din ko shab se hai\nkisī kā dard ho karte haiñ tere naam raqam\ngila hai jo bhī kisī se tire sabab se hai\nhuā hai jab se dil-e-nā-subūr be-qābū\nkalām tujh se nazar ko baḌe adab se hai\nagar sharar hai to bhaḌke jo phuul hai to khile\ntarah tarah kī talab tere rañg-e-lab se hai\nkahāñ ga.e shab-e-furqat ke jāgne vaale\nsitāra-e-saharī ham-kalām kab se hai\nteri umid tera intizar jab se hai\nna shab ko din se shikayat na din ko shab se hai\nkisi ka dard ho karte hain tere nam raqam\ngila hai jo bhi kisi se tere sabab se hai\nhua hai jab se dil-e-na-subur be-qabu\nkalam tujh se nazar ko baDe adab se hai\nagar sharar hai to bhaDke jo phul hai to khile\ntarah tarah ki talab tere rang-e-lab se hai\nkahan gae shab-e-furqat ke jagne wale\nsitara-e-sahari ham-kalam kab se hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nتری امید ترا انتظار جب سے ہے\nنہ شب کو دن سے شکایت نہ دن کو شب سے ہے\nکسی کا درد ہو کرتے ہیں تیرے نام رقم\nگلہ ہے جو بھی کسی سے ترے سبب سے ہے\nہوا ہے جب سے دل ناصبور بے قابو\nکلام تجھ سے نظر کو بڑے ادب سے ہے\nاگر شرر ہے تو بھڑکے جو پھول ہے تو کھلے\nطرح طرح کی طلب تیرے رنگ لب سے ہے\nکہاں گئے شب فرقت کے جاگنے والے\nستارۂ سحری ہم کلام کب سے ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nतिरी उमीद तिरा इंतिज़ार जब से है\nन शब को दिन से शिकायत न दिन को शब से है\nकिसी का दर्द हो करते हैं तेरे नाम रक़म\nगिला है जो भी किसी से तिरे सबब से है\nहुआ है जब से दिल-ए-ना-सुबूर बे-क़ाबू\nकलाम तुझ से नज़र को बड़े अदब से है\nअगर शरर है तो भड़के जो फूल है तो खिले\nतरह तरह की तलब तेरे रंग-ए-लब से है\nकहाँ गए शब-ए-फ़ुर्क़त के जागने वाले\nसितारा-��-सहरी हम-कलाम कब से है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:51.898Z"
+  }
+}

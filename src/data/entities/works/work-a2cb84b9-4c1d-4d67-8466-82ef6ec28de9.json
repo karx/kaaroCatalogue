@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a2cb84b9-4c1d-4d67-8466-82ef6ec28de9",
+  "name": "जिहि शब्‍दे दुख ना लगे, सोई शब्‍द उचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak words that do not cause pain. The word that cools down the heat is the essence of truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिहि शब्‍दे दुख ना लगे, सोई शब्‍द उचार।\nतपत मिटी सीतल भया, सोई शब्‍द ततसार।।१००६।।",
+    "translation": "Speak words that do not cause pain. The word that cools down the heat is the essence of truth.",
+    "meaning": "ऐसे शब्द बोलो जो दुख न पहुँचाएं। जो शब्द तप को शीतल बना दे, वही सत्य का सार है।",
+    "explanation": "इस दोहे में कबीर दास जी ऐसे शब्दों की बात करते हैं जो किसी को दुख न पहुँचाएं। वह कहते हैं कि जो शब्द तप (गर्मी) को शीतल बना देते हैं, वही सत्य का सार है। यह दोहा हमें सत्यमेव जयते की ओर प्रेरित करता है और यह सिखाता है कि शब्दों का चयन सोच-समझकर करना चाहिए ताकि वे दूसरों को दुख न पहुँचाएं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

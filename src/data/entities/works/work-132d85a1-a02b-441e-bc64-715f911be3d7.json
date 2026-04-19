@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-132d85a1-a02b-441e-bc64-715f911be3d7",
+  "name": "कबीर माया सांपिनी, जनता ही को खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is like a poisonous snake that consumes the people. Meeting it is like meeting a venomous serpent; it seizes and devours you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया सांपिनी, जनता ही को खाय।\nऐसा मिलना न गारुड़ी, पकड़‍ि पिटारे बांय।।११८६।।",
+    "translation": "Kabir says, illusion is like a poisonous snake that consumes the people. Meeting it is like meeting a venomous serpent; it seizes and devours you.",
+    "meaning": "कबीर कहते हैं, माया एक विषैला सांप है जो लोगों को खा जाती है। इसका मिलना एक जहर से भरे सांप से मिलने जैसा है; यह पकड़ लेता है और निगल जाता है।",
+    "explanation": "इस दोहे में कबीर ने माया को विषैले सांप के समान बताया है जो लोगों को धीरे-धीरे नष्ट करता है। जब कोई माया के प्रभाव में आता है, तो वह एक खतरनाक स्थिति में होता है जो उसे पूरी तरह से निगल सकती है। माया से बचना और इससे दूर रहना अत्यंत महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.974Z"
+  }
+}

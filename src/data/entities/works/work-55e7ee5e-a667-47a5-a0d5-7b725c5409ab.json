@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-55e7ee5e-a667-47a5-a0d5-7b725c5409ab",
+  "name": "शूरा लरै कमन्‍द ह्वै, धरसों शीहा उतारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The brave fight with courage, discarding all fear. Kabir says, whether one is killed or kills, it's the same for those who fight.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शूरा लरै कमन्‍द ह्वै, धरसों शीहा उतारि।\nकहै कबीरा मारा मुआ, कहै जो मारहिं मारि।।२११६।।",
+    "translation": "The brave fight with courage, discarding all fear. Kabir says, whether one is killed or kills, it's the same for those who fight.",
+    "meaning": "वीर साहस के साथ लड़ते हैं, और सभी भय को त्यागते हैं। कबीर कहते हैं, चाहे कोई मरे या मारे, यह सब एक जैसा होता है जो लड़े।",
+    "explanation": "इस दोहे में कबीर ने वीरता और मृत्यु की अवधारणा को प्रस्तुत किया है। एक वीर व्यक्ति लड़ाई में पूरी साहसिकता दिखाता है और डर को छोड़ देता है। कबीर ने यह भी कहा है कि जो लोग लड़ाई करते हैं, उनके लिए मरना या मारना दोनों ही समान होते हैं। यह दोहा वीरता की सच्चाई और मृत्यु की सामान्यता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.363Z"
+  }
+}

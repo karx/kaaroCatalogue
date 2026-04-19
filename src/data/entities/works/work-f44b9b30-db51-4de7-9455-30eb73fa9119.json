@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f44b9b30-db51-4de7-9455-30eb73fa9119",
+  "name": "कबीर पानी हौज का, देखत गया बिलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the water of the tank evaporated as I watched. In the same way, the soul will depart when death arrives.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर पानी हौज का, देखत गया बिलाय।\nऐसे ही जीव जायगा, काल जु पहुंचा आय।।८६६।।",
+    "translation": "Kabir, the water of the tank evaporated as I watched. In the same way, the soul will depart when death arrives.",
+    "meaning": "कबीर, हौज का पानी देखते ही देखते सूख गया। उसी तरह, जीव भी समय आने पर चला जाएगा।",
+    "explanation": "इस दोहे में कबीर जीवन की क्षणभंगुरता पर ध्यान दिलाते हैं। जैसे हौज का पानी धीरे-धीरे सूख जाता है, वैसे ही जीवन भी समय के साथ समाप्त हो जाता है। यह हमें सिखाता है कि समय का सही उपयोग करें और जीवन की अस्थिरता को समझें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.350Z"
+  }
+}

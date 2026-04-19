@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8323629f-e927-43a1-8e3d-3c365b8c395d",
+  "name": "दीन गंवायो दूनि संग, दुनी न चाली साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You lost your spirituality for the sake of the world, but the world won't accompany you in the end. You have struck your own foot with an axe, foolish one.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीन गंवायो दूनि संग, दुनी न चाली साथ।\nपांव कुल्‍हाड़ी मारिया, मूरख अपने हाथ।।८८१।।",
+    "translation": "You lost your spirituality for the sake of the world, but the world won't accompany you in the end. You have struck your own foot with an axe, foolish one.",
+    "meaning": "तुमने दुनिया के लिए अपनी आध्यात्मिकता खो दी, लेकिन यह दुनिया अंत में तुम्हारे साथ नहीं जाएगी। मूर्ख, तुमने अपनी ही टांग पर कुल्हाड़ी मार ली।",
+    "explanation": "इस दोहे में कबीर दुनिया की माया और भौतिक सुखों के पीछे भागने की मूर्खता की बात करते हैं। वे बताते हैं कि व्यक्ति ने दुनिया के मोह में फंसकर अपनी आत्मा को खो दिया, जबकि यह भौतिक संसार उसके अंतिम समय में किसी काम का नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.353Z"
+  }
+}

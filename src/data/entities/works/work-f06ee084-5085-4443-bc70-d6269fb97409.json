@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f06ee084-5085-4443-bc70-d6269fb97409",
+  "name": "माया के बस परे, ब्रह्मा विष्‍णु महेश",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Beyond the control of illusion are Brahma, Vishnu, and Mahesh. Narad, Saraswati, Sanak, Sanandan, Gauri, and Ganesh.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया के बस परे, ब्रह्मा विष्‍णु महेश।\nनारद सारद सनक सनन्‍दन, गौरी और गनेश।।१६३९।।",
+    "translation": "Beyond the control of illusion are Brahma, Vishnu, and Mahesh. Narad, Saraswati, Sanak, Sanandan, Gauri, and Ganesh.",
+    "meaning": "माया के नियंत्रण से परे ब्रह्मा, विष्णु और महेश हैं। नारद, सरस्वती, सनक, सनन्दन, गौरी और गणेश भी हैं।",
+    "explanation": "कबीर इस दोहे में दिखाते हैं कि माया या भ्रम के प्रभाव से ब्रह्मा, विष्णु, महेश जैसे प्रमुख देवता भी अछूते नहीं हैं। यह दर्शाता है कि माया की शक्ति सभी को प्रभावित कर सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.509Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d77807b8-16e2-48ab-87db-86bd8fe5130f",
+  "name": "मना मनोरथ छांड़‍ि दे, तेरा किया न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Abandon the desires of the mind; what you have done will not be achieved. Just as ghee does not flow in water, so does not a dry diet fulfill.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मना मनोरथ छांड़‍ि दे, तेरा किया न होय।\nपानी में घी नीकसै, रूखा खाय न कोय।।१११४।।",
+    "translation": "Abandon the desires of the mind; what you have done will not be achieved. Just as ghee does not flow in water, so does not a dry diet fulfill.",
+    "meaning": "मन के इच्छाओं को छोड़ दो; जो कुछ भी किया है, वह पूरा नहीं होगा। जैसे पानी में घी नहीं मिल सकता, वैसे ही सूखा आहार भी पूरा नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने इच्छाओं और मन की प्रवृत्तियों को समझाने की कोशिश की है। उन्होंने कहा है कि जब मन की इच्छाओं को छोड़ दिया जाता है, तब ही किसी काम में सफलता मिलती है। उदाहरण के तौर पर, पानी में घी नहीं मिल सकता और सूखा भोजन भी संतोषजनक नहीं होता। इसका मतलब है कि मन की इच्छाओं को नियंत्रित करने से ही वास्तविक संतोष और सफलता मिलती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

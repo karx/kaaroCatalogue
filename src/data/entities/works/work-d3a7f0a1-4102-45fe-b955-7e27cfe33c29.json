@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d3a7f0a1-4102-45fe-b955-7e27cfe33c29",
+  "name": "श्रम ही ते सब कुछ बने, बिन श्रम मिल न काहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everything is achieved through hard work; nothing is obtained without effort. Just as ghee cannot come out of a straight finger, success requires labor.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "श्रम ही ते सब कुछ बने, बिन श्रम मिल न काहि।\nसीधी अंगुली घी जम्‍मो, कबहूं निकसै नाहिं।।१३१९।।",
+    "translation": "Everything is achieved through hard work; nothing is obtained without effort. Just as ghee cannot come out of a straight finger, success requires labor.",
+    "meaning": "हर चीज मेहनत से ही प्राप्त होती है; बिना मेहनत के कुछ भी नहीं मिलता। जैसे सीधे अंगुली से घी नहीं निकलता, सफलता के लिए मेहनत की आवश्यकता होती है।",
+    "explanation": "कबीर जी के अनुसार, किसी भी चीज को प्राप्त करने के लिए मेहनत और श्रम की आवश्यकता होती है। बिना प्रयास के सफलता प्राप्त नहीं होती, जैसे सीधे अंगुली से घी नहीं निकलता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.812Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f428bd3b-bdab-431d-b074-dc2edffd0109",
+  "name": "विषय वासना उरझि कर, जनम गंवाया बाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Involved in sensual desires, life has been wasted. Now what is the use of regret? Remember your own actions.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विषय वासना उरझि कर, जनम गंवाया बाद।\nअब पछितावा क्या करै, निज करनी कर याद।।४५३।।",
+    "translation": "Involved in sensual desires, life has been wasted. Now what is the use of regret? Remember your own actions.",
+    "meaning": "विषय वासना में उलझकर, जीवन को बर्बाद कर दिया। अब पछताने से क्या लाभ? अपनी करनी को याद रखो।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि यदि व्यक्ति अपनी इच्छाओं और वासनाओं में उलझा रहता है, तो उसका जीवन व्यर्थ चला जाता है। जब जीवन समाप्त हो जाता है, तो पछताने का कोई लाभ नहीं होता। महत्वपूर्ण यह है कि व्यक्ति अपनी करनी और कर्मों को याद रखे और सही मार्ग पर चले। यह दोहा जीवन की व्यर्थता और पछतावे के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.194Z"
+  }
+}

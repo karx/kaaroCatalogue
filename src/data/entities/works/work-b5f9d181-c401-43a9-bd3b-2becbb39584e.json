@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b5f9d181-c401-43a9-bd3b-2becbb39584e",
+  "name": "काजी मुल्‍लां भरमिया, चले दुनी के साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Qazi and Mulla are deluded, following worldly desires. They have removed religion from their hearts, taking the knife in hand.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजी मुल्‍लां भरमिया, चले दुनी के साथ।\nदिल सो दीन निवारिया, करद लई तद हाथ।।२२६१।।",
+    "translation": "The Qazi and Mulla are deluded, following worldly desires. They have removed religion from their hearts, taking the knife in hand.",
+    "meaning": "काज़ी और मुल्ला भ्रमित हो गए हैं, वे दुनियादारी के पीछे चल रहे हैं। उन्होंने अपने दिल से धर्म को निकाल दिया है और हाथ में चाकू ले लिया है।",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि काज़ी और मुल्ला दुनियादारी में फंसकर भ्रमित हो गए हैं। उन्होंने अपने दिल से सच्चे धर्म को निकालकर हिंसा का रास्ता अपना लिया है। यह दोहा धार्मिक नेताओं के ढोंग और पाखंड की आलोचना करता है, जो धर्म के नाम पर हिंसा करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.348Z"
+  }
+}

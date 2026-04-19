@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ed3ee75-d16f-4b7d-8b1f-57568cc09350",
+  "name": "ऊँचे पानी न टिके, नीचे ही ठहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Water cannot remain high; it settles at the bottom. The lower it is, the more it fills and quenches thirst, while the higher it is, it remains thirsty.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊँचे पानी न टिके, नीचे ही ठहराय।\nनीचा हो सो भरिए पिए, ऊँचा प्यासा जाय।।५७।।",
+    "translation": "Water cannot remain high; it settles at the bottom. The lower it is, the more it fills and quenches thirst, while the higher it is, it remains thirsty.",
+    "meaning": "ऊँचा पानी टिक नहीं सकता, वह नीचे ही ठहरता है। जितना नीचे होगा, उतना अधिक भरकर पिएगा, और ऊँचा रहने पर वह प्यासा रह जाएगा।",
+    "explanation": "इस दोहे में कबीर ने ऊँचाई और नीचाई की तुलना की है। जैसा पानी हमेशा नीचे की ओर बहता है और वहीं ठहरता है, वैसे ही यदि हम स्वयं को नीचा मानकर चलें तो अधिक संतोष और खुशी प्राप्त कर सकते हैं। ऊँचाई या गर्व से हम प्यासे और असंतुष्ट रह जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

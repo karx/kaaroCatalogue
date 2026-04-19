@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c0dfc190-68d8-4674-bfd4-d79386660534",
+  "name": "भक्ति बिगाड़ी कामिया, इन्द्रिन केरे स्‍वाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Desire spoils devotion and indulges the senses. One who loses a gem from his hand wastes his life in the process.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति बिगाड़ी कामिया, इन्द्रिन केरे स्‍वाद।\nहीरा खोया हाथ सों, जनम गंवाय बाद।।१२३५।।",
+    "translation": "Desire spoils devotion and indulges the senses. One who loses a gem from his hand wastes his life in the process.",
+    "meaning": "काम भक्ति को बिगाड़ देता है और इंद्रियों को indulge करता है। जो अपने हाथ से हीरा खो देता है, वह जीवन को व्यर्थ गवा देता है।",
+    "explanation": "इस दोहे में कबीर ने काम के भक्ति पर प्रभाव को दर्शाया है। काम भक्ति को बिगाड़ देता है और इंद्रियों के आनंद में लग जाता है, जैसे कोई अपने हाथ से हीरा खोकर जीवन को व्यर्थ गवा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.272Z"
+  }
+}

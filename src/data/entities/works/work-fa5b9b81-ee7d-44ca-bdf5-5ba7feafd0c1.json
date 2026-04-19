@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fa5b9b81-ee7d-44ca-bdf5-5ba7feafd0c1",
+  "name": "सोना सज्‍जन साधुजन, टूटि जुरहिं शत् बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A good, virtuous person is broken and mended a hundred times. A wicked person, like a potter's vessel, breaks with just one crack.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोना सज्‍जन साधुजन, टूटि जुरहिं शत् बार।\nदुर्जन कुंभ कुम्‍हार का, एकहि धरे दरार।।१७०५।।",
+    "translation": "A good, virtuous person is broken and mended a hundred times. A wicked person, like a potter's vessel, breaks with just one crack.",
+    "meaning": "एक अच्छा, धर्मी व्यक्ति सौ बार टूटकर जुड़ता है। एक बुरा व्यक्ति, जैसे कि एक कुम्हार का बर्तन, एक ही दरार से टूट जाता है।",
+    "explanation": "कबीर इस दोहे में सद्गुण और दुष्टता की बात करते हैं। उन्होंने कहा कि अच्छे लोग बार-बार टूटकर भी ठीक हो जाते हैं, जबकि बुरे लोग एक छोटी सी दरार से ही टूट जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.068Z"
+  }
+}

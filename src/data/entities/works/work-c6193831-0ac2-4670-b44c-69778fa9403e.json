@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c6193831-0ac2-4670-b44c-69778fa9403e",
+  "name": "यह मन नीचा मूल है, नीचा करम सुहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is inherently low, and low actions seem pleasant. It abandons nectar for the sake of pride and embraces poison with affection.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह मन नीचा मूल है, नीचा करम सुहाय।\nअमृत छाडै मान करि, विषहि प्रीत करि खाय।।११२४।।",
+    "translation": "The mind is inherently low, and low actions seem pleasant. It abandons nectar for the sake of pride and embraces poison with affection.",
+    "meaning": "मन स्वाभाविक रूप से नीचा होता है, और नीच कार्य अच्छे लगते हैं। यह मान के लिए अमृत को छोड़ देता है और विष को प्यार के साथ अपनाता है।",
+    "explanation": "इस दोहे में कबीर ने मन की स्वाभाविक स्थिति और इसके व्यवहार की बात की है। उन्होंने बताया है कि मन अक्सर नीच कार्यों को पसंद करता है और गर्व के लिए अमृत को छोड़ देता है, जबकि विष को अपनाता है। यह मन की स्वाभाविक प्रवृत्तियों और उनके परिणामों को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.703Z"
+  }
+}

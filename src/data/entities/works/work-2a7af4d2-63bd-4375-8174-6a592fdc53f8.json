@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2a7af4d2-63bd-4375-8174-6a592fdc53f8",
+  "name": "सुमिरन तू घट में करै, घट ही में करतार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Rememberance should be done within the vessel (body), for the Creator is in the vessel itself. Inside this vessel, you will find the treasure of consciousness and the word.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन तू घट में करै, घट ही में करतार।\nघट ही भीतर पाइये, सुरति शब्‍द भण्‍डार।।७९३।।",
+    "translation": "Rememberance should be done within the vessel (body), for the Creator is in the vessel itself. Inside this vessel, you will find the treasure of consciousness and the word.",
+    "meaning": "स्मरण शरीर (घट) में ही करना चाहिए, क्योंकि सृष्टिकर्ता उसी शरीर में है। इस शरीर के भीतर आपको चेतना और शब्द का खजाना मिलेगा।",
+    "explanation": "इस दोहे में कबीर ने शरीर के भीतर ध्यान और स्मरण करने की बात की है। उन्होंने बताया है कि सृष्टिकर्ता या परमात्मा शरीर के भीतर ही है। इसलिए, ध्यान और स्मरण को शरीर के भीतर ही करना चाहिए, जिससे चेतना और दिव्य शब्द का खजाना प्राप्त होता है। यह आत्मा की आंतरिक यात्रा और खोज को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

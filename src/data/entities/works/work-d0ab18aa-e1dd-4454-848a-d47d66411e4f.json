@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d0ab18aa-e1dd-4454-848a-d47d66411e4f",
+  "name": "जोरी करि जबह करै, मुखसों कहै हलाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "They commit slaughter by force, claiming it is permissible. When God asks for an account, what will be their state?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जोरी करि जबह करै, मुखसों कहै हलाल।\nसाहब लेखा मांगसी, तब होसी कौन हवाल।।२२६३।।",
+    "translation": "They commit slaughter by force, claiming it is permissible. When God asks for an account, what will be their state?",
+    "meaning": "वे बलपूर्वक हत्या करते हैं और इसे हलाल बताते हैं। जब साहब (ईश्वर) उनसे हिसाब मांगेगा, तब उनकी क्या दशा होगी?",
+    "explanation": "इस दोहे में कबीर जी बताते हैं कि लोग जबरदस्ती हत्या करते हैं और इसे धार्मिक रूप से जायज़ ठहराते हैं। लेकिन जब ईश्वर उनसे उनके कर्मों का हिसाब मांगेगा, तब उनकी क्या हालत होगी? यह दोहा इस बात पर जोर देता है कि कोई भी व्यक्ति अपने बुरे कर्मों से नहीं बच सकता, चाहे वह उन्हें धार्मिकता का आवरण देकर ही क्यों न करे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.348Z"
+  }
+}

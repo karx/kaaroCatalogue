@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-91a26a01-c1a5-44d8-9235-e27c41f79667",
+  "name": "शब्‍द पाय सुरति राखहि, सो पहुंच दरबार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who keeps the word in mind reaches the divine court. Kabir says, there you will see our true master seated.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द पाय सुरति राखहि, सो पहुंच दरबार।\nकहैं कबीर तहां देखिये, बैठा पुरुष हमार।।१००८।।",
+    "translation": "One who keeps the word in mind reaches the divine court. Kabir says, there you will see our true master seated.",
+    "meaning": "जो भी व्यक्ति शब्द का स्मरण करता है, वह ईश्वरीय दरबार तक पहुंच जाता है। कबीर कहते हैं, वहां हमारे सच्चे गुरु बैठे हुए मिलेंगे।",
+    "explanation": "इस दोहे में कबीर इस बात पर जोर देते हैं कि जो भी व्यक्ति ईश्वर के शब्द या नाम का ध्यान रखता है, उसे ईश्वर की कृपा प्राप्त होती है और वह अंत में उस दिव्य दरबार में पहुंचता है जहां भगवान के दर्शन होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

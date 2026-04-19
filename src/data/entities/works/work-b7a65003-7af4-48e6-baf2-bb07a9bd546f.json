@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b7a65003-7af4-48e6-baf2-bb07a9bd546f",
+  "name": "कली खोटी, जग आंधरा, शब्द न माने कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In this dark age, the world is blind and does not listen to the word of truth. Even if you present a clear mirror of truth, the world becomes hostile.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कली खोटी, जग आंधरा, शब्द न माने कोय।\nचाहे ���हे सत आइना, जो कहे सो बैरी होय।।३६।।",
+    "translation": "In this dark age, the world is blind and does not listen to the word of truth. Even if you present a clear mirror of truth, the world becomes hostile.",
+    "meaning": "कलियुग में यह दुनिया अंधी है और सत्य के शब्दों को नहीं मानती। भले ही आप सत्य का स्पष्ट आईना दिखाएं, फिर भी यह दुनिया शत्रुतापूर्ण हो जाती है।",
+    "explanation": "यह दोहा कलियुग के अंधकार और अज्ञानता का वर्णन करता है। संत कबीर कहते हैं कि इस युग में लोग सत्य को नहीं समझते और न ही उसे स्वीकार करते हैं। यहां तक कि जब आप उन्हें सत्य दिखाते हैं, तब भी वे उसे नकारते हैं और विरोध करने लगते हैं। यह संसार की अज्ञानता और अंधकार का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

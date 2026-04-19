@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1c9c8e1a-295d-4959-b164-a09ce8d1caa0",
+  "name": "अपने अपने चोर को, सब कोय डारै मार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone punishes the thief within others, but the thief within me I punish myself. I punish everyone with this realization.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपने अपने चोर को, सब कोय डारै मार।\nमेरा चोर मुझको मिलै, सरबस डारुं वार।।११११।।",
+    "translation": "Everyone punishes the thief within others, but the thief within me I punish myself. I punish everyone with this realization.",
+    "meaning": "हर कोई दूसरों के अंदर चोर को सजा देता है, लेकिन मेरे अंदर का चोर खुद को सजा देता हूँ। इस आत्म-साक्षात्कार से मैं सभी को सजा देता हूँ।",
+    "explanation": "इस दोहे में कबीर ने आत्म-निरीक्षण और आत्म-आलोचना की बात की है। लोग दूसरों के दोषों को उजागर करते हैं और उन्हें सजा देते हैं, लेकिन खुद के दोष को पहचानना और उसे सुधारना कठिन होता है। कबीर कहते हैं कि उनके खुद के दोष को पहचान कर सुधारना ही असली आत्मज्ञान है, और इसी से वे सबको सही मार्ग पर चलने की प्रेरणा देते हैं। यह आत्म-जागरूकता और आत्म-सुधार का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.701Z"
+  }
+}

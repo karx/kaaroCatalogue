@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-86bf89be-7068-4b1c-bc7a-ee6fca5cefce",
+  "name": "कबीर मन मरकट भया, नेक न कहुं ठहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says the mind is like a monkey, and it does not settle down in goodness. Without holding onto the name of Ram, it goes wherever it desires.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन मरकट भया, नेक न कहुं ठहराय।\nराम नाम बांधै बिना, जित भावै तित जाय।।११३०।।",
+    "translation": "Kabir says the mind is like a monkey, and it does not settle down in goodness. Without holding onto the name of Ram, it goes wherever it desires.",
+    "meaning": "कबीर कहते हैं कि मन एक बंदर की तरह होता है, और यह अच्छाई में स्थिर नहीं होता। राम के नाम को पकड़ने के बिना, यह जहां चाहें जाती है।",
+    "explanation": "इस दोहे में कबीर ने मन की चंचलता और उसकी अस्थिरता को व्यक्त किया है। उन्होंने बताया है कि बिना राम के नाम की शरण में आए, मन अनियंत्रित रहता है और अपनी इच्छाओं के अनुसार भटकता रहता है। यह आत्म-नियंत्रण और आध्यात्मिक अभ्यास के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.704Z"
+  }
+}

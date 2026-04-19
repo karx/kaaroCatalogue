@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-940b6d6e-7aff-4a4d-95b3-06c97a51b0d2",
+  "name": "माया तजी तौ क्या भया, मानि तजि नही जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What happens if one renounces illusion? The ego does not leave. Even if one meets great sages, the ego still consumes everyone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया तजी तौ क्या भया, मानि तजि नही जाइ।\nमानि बड़े मुनियर मिले, मानि सबनि को खाइ।।१७८।।",
+    "translation": "What happens if one renounces illusion? The ego does not leave. Even if one meets great sages, the ego still consumes everyone.",
+    "meaning": "माया को छोड़ देने पर भी क्या होता है? अहंकार नहीं जाता। भले ही कोई महान ऋषियों से मिले, अहंकार सभी को प्रभावित करता है।",
+    "explanation": "इस दोहे में कबीर ने अहंकार और माया की सच्चाई को उजागर किया है। वे कहते हैं कि माया को छोड़ने से अहंकार नहीं जाता और यह अहंकार व्यक्ति को महान व्यक्तियों के साथ भी प्रभावित करता है। इस प्रकार, अहंकार और माया को समझना और उनसे मुक्त होना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

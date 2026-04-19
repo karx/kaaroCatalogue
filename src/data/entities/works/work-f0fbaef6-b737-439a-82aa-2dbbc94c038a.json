@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f0fbaef6-b737-439a-82aa-2dbbc94c038a",
+  "name": "कबीर क्षुधा है कूकरी, करत भजन में भंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Hunger is the dog's bark; it disrupts devotion. Throw a piece of bread to it, and focus on meditation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर क्षुधा है कूकरी, करत भजन में भंग।\nवाकूं टुकड़ा डारि के, सुमिरन करुं सुरंग।।७५५।।",
+    "translation": "Hunger is the dog's bark; it disrupts devotion. Throw a piece of bread to it, and focus on meditation.",
+    "meaning": "भूख कुत्ते की भौंक है; यह भजन में विघ्न डालती है। उसे एक टुकड़ा रोटी डाल दो और ध्यान में लग जाओ।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि भक्ति और ध्यान में भूख जैसे बाहरी विघ्न आ सकते हैं, जो ध्यान को बाधित करते हैं। इस विघ्न को दूर करने के लिए एक टुकड़ा रोटी जैसे साधारण समाधान अपनाना चाहिए और ध्यान में पूर्ण रूप से लग जाना चाहिए। इस तरह से बाहरी बाधाओं को पार कर ध्यान को जारी रखा जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

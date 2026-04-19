@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f1d9abb7-92de-4553-a922-e1c0436f2fe8",
+  "name": "काहूं को न संतापिये, जो शिर हंता होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not trouble anyone who is constantly troubled; the one who repeatedly turns to words is considered to be a true servant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काहूं को न संतापिये, जो शिर हंता होय।\nफिर फिर वाकूं बन्दिये, दास लच्‍छ है सोय।।६८७।।",
+    "translation": "Do not trouble anyone who is constantly troubled; the one who repeatedly turns to words is considered to be a true servant.",
+    "meaning": "जो व्यक्ति लगातार परेशान रहता है, उसे परेशान मत करो। जो बार-बार शब्दों की ओर लौटता है, वही सच्चा सेवक होता है।",
+    "explanation": "इस दोहे में कबीर सलाह देते हैं कि किसी ऐसे व्यक्ति को परेशान न करें जो लगातार खुद परेशान रहता है। सच्चा सेवक वह होता है जो बार-बार शब्दों की ओर लौटता है और खुद को सही रास्ते पर बनाए रखता है। यह दोहा मन की शांति और स्थिरता के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-034d15dc-099e-4227-ba2a-bd6b84f42735",
+  "name": "कुटिल बचन सबसे बुरा, जासे होत न हार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Cunning words are the worst, as they lead to no resolution. The words of the saint are like water, showering the nectar of wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुटिल बचन सबसे बुरा, जासे होत न हार।\nसाधु वचन जल रूप है, बरसे अम्रत धार।।१०८।।",
+    "translation": "Cunning words are the worst, as they lead to no resolution. The words of the saint are like water, showering the nectar of wisdom.",
+    "meaning": "चालाक शब्द सबसे बुरे होते हैं, क्योंकि वे किसी भी समाधान की ओर नहीं ले जाते। संतों के वचन जल के समान हैं, जो अमृत की धारा बहाते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि कपटी और चालाक शब्द किसी भी समस्या का समाधान नहीं देते और सबसे खराब होते हैं। इसके विपरीत, संतों के वचन जल की तरह होते हैं, जो ज्ञान और अमृत का बहाव लाते हैं। यह दर्शाता है कि सच्चे और ईमानदार शब्द और विचार जीवन में शांति और समाधान लाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

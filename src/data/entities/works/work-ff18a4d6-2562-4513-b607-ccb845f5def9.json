@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ff18a4d6-2562-4513-b607-ccb845f5def9",
+  "name": "गुरु मूरति आगे खड़ी, दुतिया भेद कछु नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The form of the Guru stands ahead; there is no distinction between the two. By bowing to Him, all darkness is dispelled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु मूरति आगे खड़ी, दुतिया भेद कछु नाहिं।\nउन्‍हीं कूं परनाम करि, सकल तिमिर मिटि जाहिं।।४९२।।",
+    "translation": "The form of the Guru stands ahead; there is no distinction between the two. By bowing to Him, all darkness is dispelled.",
+    "meaning": "गुरु का रूप सामने खड़ा है, दो भेद कुछ भी नहीं हैं। उनके चरणों में प्रणाम करने से, समस्त अंधकार मिट जाता है।",
+    "explanation": "इस दोहे में कबीर ने गुरु की उपस्थिति और उनके प्रभाव को स्पष्ट किया है। उन्होंने बताया है कि गुरु का रूप हमेशा हमारे सामने होता है और उनके सामने कोई भेद नहीं होता। जब हम गुरु के चरणों में प्रणाम करते हैं, तो समस्त अंधकार और भ्रम समाप्त हो जाते हैं, जिससे ज्ञान और स्पष्टता प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-78f2cff1-557c-457c-9823-17b0bde84288",
+  "name": "पात झरन्‍ता यौं कहै, सुन तरुवर बन राय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The leaves fall and say, listen, the tree is in the forest. Those who part this time will not meet again, they will go far away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पात झरन्‍ता यौं कहै, सुन तरुवर बन राय।\nअबके बिछुड़े ना मिले, दूर पड़ेंगे जाय।।१०८८।।",
+    "translation": "The leaves fall and say, listen, the tree is in the forest. Those who part this time will not meet again, they will go far away.",
+    "meaning": "पत्तियाँ गिरकर कहती हैं, सुनो, वृक्ष जंगल में है। जो इस बार बिछड़ गए हैं, वे फिर कभी नहीं मिलेंगे, दूर चले जाएंगे।",
+    "explanation": "इस दोहे में कबीर ने पत्तियों के माध्यम से बिछड़ने और पुनः मिलने की असंभावना को व्यक्त किया है। पत्तियाँ गिरने के बाद पुनः नहीं लौटतीं, इसी प्रकार जो इस समय बिछड़ते हैं, वे फिर कभी नहीं मिलते। यह बिछड़ने और दूर होने के सत्य को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.429Z"
+  }
+}

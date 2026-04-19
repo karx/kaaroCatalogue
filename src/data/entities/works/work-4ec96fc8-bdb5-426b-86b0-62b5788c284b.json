@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ec96fc8-bdb5-426b-86b0-62b5788c284b",
+  "name": "काहू को नहिं निन्दिये, चाहे जैसा होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not criticize anyone, no matter how they are. Instead, repeatedly bind yourself, for the true sage is one who is gentle.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काहू को नहिं निन्दिये, चाहे जैसा होय।\nफिर फिर ताको बन्दिये, साधु लच्‍छ है सोय।।१२९६।।",
+    "translation": "Do not criticize anyone, no matter how they are. Instead, repeatedly bind yourself, for the true sage is one who is gentle.",
+    "meaning": "किसी की निंदा मत करो, चाहे जैसा भी वह हो। इसके बजाय, बार-बार खुद को बांधो, क्योंकि सच्चा साधू वह है जो विनम्र होता है।",
+    "explanation": "कबीर जी के अनुसार, हमें किसी की निंदा नहीं करनी चाहिए। इसके बजाय, हमें अपने आपको सुधारने और आत्म-नियंत्रण करने पर ध्यान देना चाहिए। सच्चे साधू वे होते हैं जो विनम्रता और शीलता का पालन करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.549Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b9841f09-3e4d-4656-b3e6-bbae1f5aac02",
+  "name": "{{hlist",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/{{hlist",
+    "retrievedAt": "2026-01-04T18:38:55.927Z"
+  }
+}

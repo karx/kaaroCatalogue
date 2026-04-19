@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-791f71a7-e39c-4dca-9561-5a5c8de2d86d",
+  "name": "पशुवा सों पालौ पर्यो, रहु रहु हिया न खीज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, do not lose heart if you find yourself among ignorant beings. Just as seeds will not sprout on barren land, no matter how many you sow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पशुवा सों पालौ पर्यो, रहु रहु हिया न खीज।\nऊषर बीज न ऊगसी, बोवै दूना बीज।।५४८।।",
+    "translation": "Kabir says, do not lose heart if you find yourself among ignorant beings. Just as seeds will not sprout on barren land, no matter how many you sow.",
+    "meaning": "कबीर कहते हैं, अगर आप खुद को अज्ञानियों के बीच पाएं तो भी धैर्य न खोएं। जैसे ऊसर भूमि में बीज नहीं उगते, चाहे आप कितने भी बीज बोएं।",
+    "explanation": "इस दोहे में संत कबीर जी धैर्य और समझ की बात कर रहे हैं। वे कहते हैं कि यदि आप खुद को ऐसे लोगों के बीच पाते हैं जो अज्ञानता से भरे हैं, तो आपको निराश नहीं होना चाहिए। जिस प्रकार बंजर भूमि पर बीज नहीं उगते, वैसे ही अज्ञानता से भरे लोगों में ज्ञान के बीज नहीं पनप सकते, चाहे आप कितनी भी कोशिश करें। यह दोहा हमें धैर्य और समझदारी से काम लेने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.468Z"
+  }
+}

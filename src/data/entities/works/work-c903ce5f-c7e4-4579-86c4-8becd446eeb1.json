@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c903ce5f-c7e4-4579-86c4-8becd446eeb1",
+  "name": "कबीर सुमिरन सार है, और सकल जंजाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that remembrance is essential and cuts through all entanglements. Seek the essence from beginning to end; otherwise, time will deceive you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सुमिरन सार है, और सकल जंजाल।\nआदि अंत मधि सोधिया, दूजा देखा काल।।७५७।।",
+    "translation": "Kabir says that remembrance is essential and cuts through all entanglements. Seek the essence from beginning to end; otherwise, time will deceive you.",
+    "meaning": "कबीर कहते हैं कि सुमिरण सबसे महत्वपूर्ण है और यह सभी जंजालों को काटता है। शुरुआत से अंत तक सार को खोजो; अन्यथा, काल तुम्हें धोखा देगा।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि सुमिरण (याद) सबसे महत्वपूर्ण है और यह सभी जंजालों और उलझनों को दूर करता है। व्यक्ति को शुरुआत से लेकर अंत तक इस सार को समझने की कोशिश करनी चाहिए, अन्यथा समय की प्रवृत्तियों और धोखों से वह गुमराह हो सकता है। यह आत्मिक ज्ञान और सच्चे मार्ग की पहचान के लिए अत्यंत आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-64e3ca71-9b51-4b5c-bb13-aaa6905a846f",
+  "name": "सद पाणी पाताल का, काढ़‍ि कबीरा पीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true water is from the depths of the underworld, and Kabir drinks it. The stale water is deadly, and its poison delays life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सद पाणी पाताल का, काढ़‍ि कबीरा पीव।\nबासी पाव पड़‍ि मुए, विषै बिलंबे जीव।।१४२८।।",
+    "translation": "The true water is from the depths of the underworld, and Kabir drinks it. The stale water is deadly, and its poison delays life.",
+    "meaning": "सच्चा पानी पाताल की गहराइयों से है, और कबीर उसे पीते हैं। बासी पानी मृत्युकारी होता है, और इसका विष जीवन को विलंबित करता है।",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक ज्ञान और सच्ची विद्या की बात करते हैं। वे कहते हैं कि सच्चा ज्ञान और पवित्रता गहराइयों से प्राप्त होती है, और वह स्वयं इसे ग्रहण करते हैं। बासी और पुराना ज्ञान जीवन के लिए हानिकारक होता है, और इसका विष जीवन को धीमा करता है। यह दोहा सच्चे ज्ञान की खोज और पुरानी अवधारणाओं से दूरी बनाए रखने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.363Z"
+  }
+}

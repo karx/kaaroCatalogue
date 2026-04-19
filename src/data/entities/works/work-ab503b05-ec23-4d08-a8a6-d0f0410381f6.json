@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ab503b05-ec23-4d08-a8a6-d0f0410381f6",
+  "name": "निर्बेरी निहकामता, स्‍वामी सेती नेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "True renunciation and devotion are to be with the Lord. The worldly matters remain separate; this is the belief of saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निर्बेरी निहकामता, स्‍वामी सेती नेह।\nविषया सो न्‍यारा रहे, साधुन का मत येह।।५८८।।",
+    "translation": "True renunciation and devotion are to be with the Lord. The worldly matters remain separate; this is the belief of saints.",
+    "meaning": "सच्ची तितिक्षा और भक्ति भगवान के साथ होना चाहिए। सांसारिक विषय अलग रहते हैं; यही संतों का विश्वास है।",
+    "explanation": "संतों का जीवन परित्याग और भक्ति से भरा होता है। वे भगवान के प्रति अपने प्रेम और समर्पण को प्राथमिकता देते हैं और सांसारिक विषयों से परे रहते हैं। संतों का मानना ​​है कि सच्ची भक्ति और त्याग भगवान के साथ रहना है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

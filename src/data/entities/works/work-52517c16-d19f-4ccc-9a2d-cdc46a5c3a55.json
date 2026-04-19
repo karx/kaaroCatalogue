@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-52517c16-d19f-4ccc-9a2d-cdc46a5c3a55",
+  "name": "बिन डांडै जग डांडिया, सोरठि परिया डांड",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without a stick, the world is disciplined. The one who travels the path of greed finds sweetness in the stones.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिन डांडै जग डांडिया, सोरठि परिया डांड।\nबाटनिहारा लोभिया, गुड़े ते मीठी खांड।।१६१३।।",
+    "translation": "Without a stick, the world is disciplined. The one who travels the path of greed finds sweetness in the stones.",
+    "meaning": "बिना डंडे के, दुनिया अनुशासित रहती है। जो लालच के मार्ग पर चलता है, वह पत्थरों में भी मिठास पाता है।",
+    "explanation": "कबीर इस दोहे में भौतिकता और लालच की आलोचना करते हैं। उन्होंने कहा कि बिना डंडे के दुनिया व्यवस्थित रहती है, लेकिन जो व्यक्ति लालच के मार्ग पर चलता है, वह पत्थरों में भी मिठास खोजता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.504Z"
+  }
+}

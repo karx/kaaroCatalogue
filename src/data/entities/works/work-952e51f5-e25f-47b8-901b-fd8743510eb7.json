@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-952e51f5-e25f-47b8-901b-fd8743510eb7",
+  "name": "नारि पराई आपणीं, भुगत्‍या नरकहि जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing another's wife as one's own leads to hell. Fire is fire, whether near or far, don't put your hand in it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नारि पराई आपणीं, भुगत्‍या नरकहि जाइ।\nआगि आगि सब एक है, तामैं हाथ न बाहि।।२०५८।।",
+    "translation": "Seeing another's wife as one's own leads to hell. Fire is fire, whether near or far, don't put your hand in it.",
+    "meaning": "दूसरी की पत्नी को अपनी समझने पर व्यक्ति नरक को भोगता है। आग, आग ही होती है, चाहे वह पास हो या दूर, उसमें हाथ नहीं डालना चाहिए।",
+    "explanation": "कबीर इस दोहे में चेतावनी देते हैं कि किसी अन्य की पत्नी को अपनी समझने की भूल नहीं करनी चाहिए। ऐसा करने वाला व्यक्ति अपने जीवन में नरक भोगता है। आग चाहे जितनी भी दूर या पास हो, उसमें हाथ डालने पर जलने का ही खतरा होता है। इसी प्रकार, किसी दूसरे की पत्नी को गलत दृष्टि से देखने पर उसका परिणाम भी अत्यंत भयानक होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.088Z"
+  }
+}

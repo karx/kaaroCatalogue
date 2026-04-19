@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aea51fdc-e0de-41fd-a2e1-bde2a144278b",
+  "name": "जिसहि न कोई विसहि तू, जिस तू तिस सब कोई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who do not admire you, admire you; those who admire you, do not.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिसहि न कोई विसहि तू, जिस तू तिस सब कोई।\nदरिगह तेरी सांइयाँ, जा मरूम कोइ होइ।।२४१।।",
+    "translation": "Those who do not admire you, admire you; those who admire you, do not.",
+    "meaning": "जो तुम्हारी प्रशंसा नहीं करते, वे तुम्हारी प्रशंसा करते हैं; जो तुम्हारी प्रशंसा करते हैं, वे नहीं करते।",
+    "explanation": "कबीर इस दोहे में भगवान की उपस्थिति और महत्व को समझाते हैं। वे कहते हैं कि जो लोग भगवान की प्रशंसा नहीं करते, वे वास्तव में भगवान की प्रशंसा करते हैं, और जो लोग भगवान की प्रशंसा करते हैं, वे शायद ऐसा नहीं करते। यह दोहा एक गहरे आध्यात्मिक दृष्टिकोण को दर्शाता है, जिसमें बाहरी दिखावा और वास्तविक श्रद्धा की असमानता को उजागर किया गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

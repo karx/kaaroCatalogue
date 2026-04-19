@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-faf34e5f-6d2a-49af-b985-14fbbf6ce54e",
+  "name": "काह बड़े कुल ऊपजे, जो रे बड़‍ि बुद्धिहि नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of being born into a great family if one lacks wisdom? Just like a flower that blooms beautifully but soon withers away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काह बड़े कुल ऊपजे, जो रे बड़‍ि बुद्धिहि नाहिं।\nजैसे फूल उजारि के, मिथ्‍या लगि झरि जाहिं।।१४८३।।",
+    "translation": "What is the use of being born into a great family if one lacks wisdom? Just like a flower that blooms beautifully but soon withers away.",
+    "meaning": "यदि किसी में बुद्धि नहीं है, तो बड़े कुल में जन्म लेने का क्या फायदा? यह ऐसा ही है जैसे एक फूल जो खिलने के बाद जल्द ही मुरझा जाता है।",
+    "explanation": "कबीर इस दोहे में यह बता रहे हैं कि जन्म के कुल या वंश पर गर्व करना व्यर्थ है, यदि व्यक्ति के पास बुद्धि और विवेक नहीं है। जैसे एक फूल अपनी सुंदरता के बावजूद जल्द ही मुरझा जाता है, वैसे ही व्यक्ति की कुल की पहचान भी थोड़े समय तक ही टिकती है। वास्तविक मूल्य बुद्धि और ज्ञान में है, न कि कुल में।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.659Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a8cb83cc-ad33-4a1a-996e-aa475170b54c",
+  "name": "कबीरा पगरा दूरि है, आय पहुँची साँझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's journey is far, and the evening has arrived. He keeps everyone’s heart, while the courtesan remains barren.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा पगरा दूरि है, आय पहुँची साँझ।\nजन-जन को मन राखता, वेश्या रहि गयी बाँझ।।४४६।।",
+    "translation": "Kabir's journey is far, and the evening has arrived. He keeps everyone’s heart, while the courtesan remains barren.",
+    "meaning": "कबीर का मार्ग दूर है, और संध्या आ गई है। वह सभी के मन को अपने साथ रखता है, जबकि वेश्या बाँझ रह गई है।",
+    "explanation": "इस दोहे में कबीर अपनी यात्रा के दूर होने और संध्या के आगमन का वर्णन करते हैं। वे सभी के मन को अपने साथ रखते हैं, जबकि वेश्या का बेजोड़ होना दर्शाता है कि सांसारिक सुख और इच्छाओं के बावजूद, अंततः सब कुछ नष्ट हो जाता है। यह दोहा जीवन की वास्तविकता और समय की यात्रा पर प्रकाश डालता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

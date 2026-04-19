@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-187bcd4e-0ee8-44bb-8d57-030e10d47dc6",
+  "name": "अगनि जू लागि नीर मैं, कंदू जलिया झारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fire has come into the water, and the reed is burning in the embers. The scholars of the south are still pondering and reflecting.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अगनि जू लागि नीर मैं, कंदू जलिया झारि।\nउतर दषिण के पंडिता, रहे बिचारि बिचारि।।१९४५।।",
+    "translation": "Fire has come into the water, and the reed is burning in the embers. The scholars of the south are still pondering and reflecting.",
+    "meaning": "अग्नि पानी में आ गई है, और कंदू की आग जल रही है। दक्षिण के पंडित अब भी विचार करते रहते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी ने अग्नि और पानी के विरोधाभास का उदाहरण दिया है, जिसमें आग जल रही है और विद्वान विचार में लगे हैं। यह स्थिति असंगति और भ्रम की स्थिति को दर्शाती है, जो बाहरी रूप से दिखाई देती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.257Z"
+  }
+}

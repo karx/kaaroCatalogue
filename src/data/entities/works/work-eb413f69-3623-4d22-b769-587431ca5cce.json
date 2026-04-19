@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eb413f69-3623-4d22-b769-587431ca5cce",
+  "name": "[[The Call of the Marching Bell",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-allama-iqbal"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/[[The_Call_of_the_Marching_Bell",
+    "retrievedAt": "2026-01-04T18:39:02.985Z"
+  }
+}

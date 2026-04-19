@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5671a0df-32dd-4b8d-a65a-eb48bec45216",
+  "name": "दूरि भया तो का भया, सिर दे नेडा होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of distance? The head must be offered up close. Without surrendering completely, success cannot be achieved.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दूरि भया तो का भया, सिर दे नेडा होइ।\nजब लग सिर सौंपै नहीं, कारिज सिधि न होइ।।१९२३।।",
+    "translation": "What is the use of distance? The head must be offered up close. Without surrendering completely, success cannot be achieved.",
+    "meaning": "दूरी का क्या फायदा? सिर को करीब से अर्पित करना चाहिए। पूरी तरह से समर्पण किए बिना सफलता प्राप्त नहीं होती।",
+    "explanation": "इस दोहे में कबीरदास जी यह कहते हैं कि केवल दूर से देखने या प्रयास करने से काम नहीं चलेगा। पूर्ण समर्पण और निष्ठा से ही किसी भी कार्य में सफलता प्राप्त की जा सकती है। यह दोहा समर्पण और सच्ची लगन की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.250Z"
+  }
+}

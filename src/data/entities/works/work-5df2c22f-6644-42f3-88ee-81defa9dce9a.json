@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5df2c22f-6644-42f3-88ee-81defa9dce9a",
+  "name": "पंडित पढि़ गुनि पचि मुये, गुरु बिन मिले न ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The learned scholar may read and know many scriptures, but without the Guru, true knowledge is unattainable. Without knowledge, liberation is not possible; truth is beyond mere words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंडित पढि़ गुनि पचि मुये, गुरु बिन मिले न ज्ञान।\nज्ञान बिना नहिं मुक्ति है, सत्त सब्‍द परमान।।४८७।।",
+    "translation": "The learned scholar may read and know many scriptures, but without the Guru, true knowledge is unattainable. Without knowledge, liberation is not possible; truth is beyond mere words.",
+    "meaning": "पंडित बहुत पढ़ते हैं और ज्ञान प्राप्त करते हैं, लेकिन गुरु के बिना सच्चा ज्ञान नहीं मिल सकता। ज्ञान के बिना मुक्ति संभव नहीं है; सत्य केवल शब्दों से परे है।",
+    "explanation": "इस दोहे में कबीर ने गुरु के बिना सच्चे ज्ञान की प्राप्ति की कठिनाई को व्यक्त किया है। पंडित और विद्वान किताबों का अध्ययन करके बहुत कुछ जानते हैं, लेकिन सच्चा ज्ञान गुरु के बिना प्राप्त नहीं होता। ज्ञान की प्राप्ति और मुक्ति के लिए गुरु का मार्गदर्शन आवश्यक है। सत्य को केवल शब्दों के माध्यम से नहीं समझा जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

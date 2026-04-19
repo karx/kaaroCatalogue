@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5afff042-eea9-4bf0-a862-352ebf5a6ea8",
+  "name": "भौ समंद विष जल भरया, मन नहीं बांधै धीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The ocean is filled with poisonous water, but the mind cannot be contained. When the strong and loving Lord is found, then Kabir crosses over.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भौ समंद विष जल भरया, मन नहीं बांधै धीर।\nसबल सनेही हरि मिले, तब उतरे पारि कबीर।।१४३२।।",
+    "translation": "The ocean is filled with poisonous water, but the mind cannot be contained. When the strong and loving Lord is found, then Kabir crosses over.",
+    "meaning": "समंदर विषैले जल से भरा हुआ है, लेकिन मन को समेटा नहीं जा सकता। जब शक्तिशाली और प्रेमी भगवान मिलते हैं, तब कबीर पार हो जाते हैं।",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक यात्रा और समर्पण की बात करते हैं। वे कहते हैं कि संसार विष से भरा हुआ है, और मन को नियंत्रित करना कठिन है। जब व्यक्ति सच्चे और शक्तिशाली भगवान को पाता है, तब वह सभी बाधाओं को पार कर जाता है। यह दोहा भगवान की कृपा और आत्मा की यात्रा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.364Z"
+  }
+}

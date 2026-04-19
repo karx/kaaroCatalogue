@@ -1,0 +1,32 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d2c0355-e2a7-4efd-b84b-a86a8c126664",
+  "name": "Hum Dekhenge",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Nazm",
+  "abstract": "The anthem of protest. Written against the Zia regime, it uses Islamic imagery to challenge tyranny.",
+  "keywords": [
+    "Nazm",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/nazms/hum-dekhenge-laazim-hai-ki-hum-bhi-dekhenge-faiz-ahmed-faiz-nazms",
+    "retrievedAt: ": "2026-01-04T19:31:07.327Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/nazms/hum-dekhenge-laazim-hai-ki-hum-bhi-dekhenge-faiz-ahmed-faiz-nazms"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:46:41.721Z"
+  }
+}

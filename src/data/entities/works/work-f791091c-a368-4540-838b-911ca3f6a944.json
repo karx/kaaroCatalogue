@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f791091c-a368-4540-838b-911ca3f6a944",
+  "name": "सुकृत लागै साधु की, बादि विमुख की जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Virtue is attributed to a saint, but after that, some become indifferent. Some stay near, while others benefit differently.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुकृत लागै साधु की, बादि विमुख की जाय।\nकै तो तल गाड़ी रहै, कै कोय और खाय।।११७५।।",
+    "translation": "Virtue is attributed to a saint, but after that, some become indifferent. Some stay near, while others benefit differently.",
+    "meaning": "साधु को सुकृत का श्रेय मिलता है, लेकिन बाद में कुछ लोग विमुख हो जाते हैं। कुछ लोग पास रहते हैं, जबकि कुछ अन्य लाभ प्राप्त करते हैं।",
+    "explanation": "इस दोहे में कबीर ने साधु के प्रति आदर और उसके बाद की स्थिति को व्यक्त किया है। साधु को गुण और अच्छाई का श्रेय दिया जाता है, लेकिन कुछ लोग बाद में उसकी उपेक्षा कर देते हैं। कुछ लोग साधु के पास रहते हैं, जबकि अन्य लोग अन्य तरीकों से लाभ प्राप्त करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.972Z"
+  }
+}

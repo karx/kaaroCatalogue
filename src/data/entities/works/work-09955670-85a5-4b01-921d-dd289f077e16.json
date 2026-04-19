@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-09955670-85a5-4b01-921d-dd289f077e16",
+  "name": "भय से भक्ति करै सबै, भय से पूजा होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone worships out of fear, and worship happens through fear. Fear is the touchstone for life, there is no one who is fearless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भय से भक्ति करै सबै, भय से पूजा होय।\nभय पारस है जीव को, निरभय हाय न कोय।।९३५।।",
+    "translation": "Everyone worships out of fear, and worship happens through fear. Fear is the touchstone for life, there is no one who is fearless.",
+    "meaning": "सभी लोग भय के कारण भक्ति करते हैं, और पूजा भय से होती है। भय जीवन के लिए एक पारस है, कोई भी निर्भय नहीं है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि भय भक्ति और पूजा का एक प्रमुख कारण बन जाता है। भय को एक पारस या परखने का पत्थर माना गया है जो जीवन की सच्चाई को उजागर करता है। कबीर के अनुसार, सभी लोग किसी न किसी रूप में भय के प्रभाव में होते हैं, और कोई भी पूरी तरह निर्भय नहीं होता। इस प्रकार, भय की भूमिका को समझना और स्वीकारना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bc12500f-4bf0-4821-baf5-82cbfaae9b8c",
+  "name": "Shah Jo Risalo",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-shah-latif-bhittai"
+  },
+  "inLanguage": "Sindhi",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Shah_Jo_Risalo",
+    "retrievedAt": "2026-01-04T18:39:19.536Z"
+  }
+}

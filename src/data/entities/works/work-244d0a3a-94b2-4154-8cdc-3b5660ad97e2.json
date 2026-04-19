@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-244d0a3a-94b2-4154-8cdc-3b5660ad97e2",
+  "name": "आज कहै मैं काल भजुं, काल कहै फिर काल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Today I say, worship Time; Time says to worship it later. Today’s actions of Time, keep delaying the opportunity.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आज कहै मैं काल भजुं, काल कहै फिर काल।\nआज काल के करत ही, औसर जासी चाल।।९३०।।",
+    "translation": "Today I say, worship Time; Time says to worship it later. Today’s actions of Time, keep delaying the opportunity.",
+    "meaning": "आज मैं कहता हूँ, समय की पूजा करो; समय कहता है इसे बाद में पूजा करो। आज के समय के काम, अवसर को लगातार टालते जाते हैं।",
+    "explanation": "कबीर इस दोहे में समय की पूजा और समय की स्थगितता को दर्शाते हैं। वे बताते हैं कि लोग अक्सर समय की पूजा करने की बात करते हैं, लेकिन समय हमेशा इसे टालते रहने के लिए कहता है। यह स्थगन और देरी अंततः अवसर को खोने का कारण बनती है। कबीर का संदेश है कि हमें समय का महत्व समझना चाहिए और अवसरों को हाथ से जाने से बचाने के लिए तत्पर रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.626Z"
+  }
+}

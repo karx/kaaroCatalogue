@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d4dc285f-44b3-45f0-add0-635ea35fb95e",
+  "name": "हौं तोहि पूछौं हे सखी, जीवत क्‍यूं न मराइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I ask you, my friend, why does one not die while living? The dead can be rectified after death, but why is it not rectified while living?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हौं तोहि पूछौं हे सखी, जीवत क्‍यूं न मराइ।\nमूंवा पीछे सत करै, जीवत क्‍यूं न कराइ।।१९२९।।",
+    "translation": "I ask you, my friend, why does one not die while living? The dead can be rectified after death, but why is it not rectified while living?",
+    "meaning": "मैं तुमसे पूछता हूँ, मेरे दोस्त, जीवित रहते हुए कोई क्यों नहीं मरता? मृत व्यक्ति को मृत्यु के बाद सुधार सकते हैं, लेकिन जीवित रहते हुए क्यों नहीं किया जा सकता?",
+    "explanation": "इस दोहे में कबीरदास जी जीवन और मृत्यु के बीच के संबंध को समझाते हैं। वे यह सवाल उठाते हैं कि जब व्यक्ति जीवित है, तब उसे सुधारने का प्रयास क्यों नहीं किया जाता, जबकि मृत व्यक्ति को बाद में सुधारने की संभावना होती है। यह जीवन की सच्चाई को उजागर करने का प्रयास है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.252Z"
+  }
+}

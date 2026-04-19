@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57f6b803-7979-496e-89f6-09f436f9aa5c",
+  "name": "माया जात है, सुनो शब्‍द निज मोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion is fleeting; hear my words. In the homes of the content, there are saints, and in the homes of the rich, there are thieves.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया जात है, सुनो शब्‍द निज मोर।\nसुखियों के घर साध जन, सूमौं के घर चोर।।११६४।।",
+    "translation": "Illusion is fleeting; hear my words. In the homes of the content, there are saints, and in the homes of the rich, there are thieves.",
+    "meaning": "माया क्षणिक है; मेरे शब्द सुनो। सुखी लोगों के घर में साधु होते हैं, और अमीरों के घर में चोर होते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया के क्षणिक स्वभाव और जीवन की वास्तविकताओं को व्यक्त किया है। वे बताते हैं कि जो लोग सच्चे सुख में होते हैं, उनके घर में साधु और संत होते हैं, जबकि जिनके पास धन है, उनके घर में केवल भौतिक सुख और भ्रष्टाचार होते हैं। यह दोहा माया और असली संतोष के बीच अंतर को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.969Z"
+  }
+}

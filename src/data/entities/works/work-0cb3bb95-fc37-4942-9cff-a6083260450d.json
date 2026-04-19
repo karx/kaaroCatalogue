@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0cb3bb95-fc37-4942-9cff-a6083260450d",
+  "name": "सत ही में सत बांटई, रोटी म ते टूक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In truth, truth is shared, like pieces of bread are divided. Says Kabir to the servant, never let there be any error.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सत ही में सत बांटई, रोटी म ते टूक।\nकहैं कबीर ता दास को, कबहुं न आवै चूक।।९५१।।",
+    "translation": "In truth, truth is shared, like pieces of bread are divided. Says Kabir to the servant, never let there be any error.",
+    "meaning": "सत्य में सत्य बांटा जाता है, जैसे रोटी को टुकड़ों में बांटा जाता है। कबीर कहते हैं कि दास को कभी भी गलती नहीं करनी चाहिए।",
+    "explanation": "कबीर इस दोहे में सत्य और उदारता की बात करते हैं। वे कहते हैं कि जैसे रोटी के टुकड़े बांटे जाते हैं, वैसे ही सत्य भी बांटा जाता है। दास को यह सिखाया जाता है कि उसे कभी भी गलती नहीं करनी चाहिए। यह दोहा हमें सिखाता है कि सच्चाई और सही आचरण जीवन की महत्वपूर्ण बातें हैं, जो किसी भी प्रकार की चूक से परे होनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.890Z"
+  }
+}

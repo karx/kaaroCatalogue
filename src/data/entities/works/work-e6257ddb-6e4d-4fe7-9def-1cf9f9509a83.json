@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e6257ddb-6e4d-4fe7-9def-1cf9f9509a83",
+  "name": "द्वारे तेरे रामजी, मिलहुँ कबीरा मोहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "At your door, O Ram, Kabir wishes to meet you. Though you are present everywhere, if I do not meet you, where will I find you?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "द्वारे तेरे रामजी, मिलहुँ कबीरा मोहिं।\nतैं तो सब में मिलि रहा, मैं न मिलुंगा तोहि।।१५६९।।",
+    "translation": "At your door, O Ram, Kabir wishes to meet you. Though you are present everywhere, if I do not meet you, where will I find you?",
+    "meaning": "तेरे द्वार पर, ओ राम, कबीर मिलना चाहता है। जबकि तुम सब जगह मौजूद हो, अगर मैं तुमसे नहीं मिल पाऊं, तो मैं तुम्हें कहाँ पाऊँगा?",
+    "explanation": "कबीर इस दोहे में ईश्वर से एक विशेष मुलाकात की इच्छा व्यक्त कर रहे हैं। उन्होंने कहा कि भगवान हर जगह मौजूद हैं, लेकिन अगर वे उन्हें व्यक्तिगत रूप से नहीं मिलते, तो उन्हें कहाँ मिलेगा? यह दोहा ईश्वर के प्रति उनकी खोज और प्रेम को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.208Z"
+  }
+}

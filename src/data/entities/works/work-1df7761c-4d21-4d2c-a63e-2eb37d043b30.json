@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1df7761c-4d21-4d2c-a63e-2eb37d043b30",
+  "name": "नैंनां नीझर लाइया, रहट बहै निस जाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "With eyes filled with tears, I continuously work, day and night. Like a cuckoo calling out, I keep calling for Ram, hoping to meet Him someday.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नैंनां नीझर लाइया, रहट बहै निस जाम।\nपपीहा ज्‍यूं पिव पिव करौं, कबहुं मिलहुगे राम।।१७५९।।",
+    "translation": "With eyes filled with tears, I continuously work, day and night. Like a cuckoo calling out, I keep calling for Ram, hoping to meet Him someday.",
+    "meaning": "आँखों में आंसू भरकर, मैं दिन-रात निरंतर काम करता हूँ। पपीहे की तरह पुकारते हुए, मैं राम को पुकारता रहता हूँ, आशा है कि कभी मैं उनसे मिल सकूँ।",
+    "explanation": "इस दोहे में कबीर ने भगवान के प्रति अपनी गहरी तड़प और निरंतरता को व्यक्त किया है। आंसू भरी आँखों के साथ दिन-रात काम करना और पपीहे की तरह भगवान को पुकारना उनकी भक्ति और आशा का प्रतीक है। यह दोहा दिखाता है कि कबीर की भक्ति की सच्चाई और निरंतर प्रयास उनके भगवान से मिलने की गहरी इच्छा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.346Z"
+  }
+}

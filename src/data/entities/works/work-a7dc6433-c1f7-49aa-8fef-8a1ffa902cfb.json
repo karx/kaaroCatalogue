@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a7dc6433-c1f7-49aa-8fef-8a1ffa902cfb",
+  "name": "जिस मरनै से जग डरै, सो मेरे आनंद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "That which causes fear to the world is my joy. When will I die and when will I see the complete bliss?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिस मरनै से जग डरै, सो मेरे आनंद।\nकब मरिहूं कब देखिहूं, पूरन परमानंद।।१९१८।।",
+    "translation": "That which causes fear to the world is my joy. When will I die and when will I see the complete bliss?",
+    "meaning": "जिससे दुनिया डरती है, वही मेरा आनंद है। मैं कब मरूंगा और कब पूर्ण आनंद को देखूंगा?",
+    "explanation": "इस दोहे में कबीरदास जी यह बताना चाहते हैं कि जो चीज़ दुनिया को डराती है, वह उन्हें आनंद प्रदान करती है। वे मृत्यु और पूर्ण आनंद की प्राप्ति के बारे में सोचते हैं। यह दोहा मृत्यु और सच्चे आनंद की गहरी समझ की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.249Z"
+  }
+}

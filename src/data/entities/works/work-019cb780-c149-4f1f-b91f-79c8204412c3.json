@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-019cb780-c149-4f1f-b91f-79c8204412c3",
+  "name": "ज्ञानी होय सो मानही, बूझै शब्द हमार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wise accept and understand our words. Kabir says that he is beyond the entire cycle of birth and death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञानी होय सो मानही, बूझै शब्द हमार।\nकहैं कबीर सो बाँचि है, और सकल जमधार।।४३९।।",
+    "translation": "The wise accept and understand our words. Kabir says that he is beyond the entire cycle of birth and death.",
+    "meaning": "ज्ञानी व्यक्ति हमारे शब्दों को स्वीकार करता है और समझता है। कबीर कहते हैं कि वह जन्म और मृत्यु के चक्र से परे हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जो व्यक्ति ज्ञानवान होता है, वह उनकी बातों को समझता और मानता है। कबीर स्वयं को जन्म और मृत्यु के चक्र से परे मानते हैं, जो उनकी गहन आध्यात्मिक समझ और मुक्ति की स्थिति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

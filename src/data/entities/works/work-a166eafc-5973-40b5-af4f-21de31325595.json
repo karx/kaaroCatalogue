@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a166eafc-5973-40b5-af4f-21de31325595",
+  "name": "मैं मन्ता मन मारि रे, घट ही माहैं घेरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I discipline my mind and confine it within my own self. Whenever it goes astray, I control it with the stick of wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं मन्ता मन मारि रे, घट ही माहैं घेरि।\nजबहीं चालै पीठि दे, अंकुस दै-दै फेरि।।२०६।।",
+    "translation": "I discipline my mind and confine it within my own self. Whenever it goes astray, I control it with the stick of wisdom.",
+    "meaning": "मैं अपने मन को नियंत्रित करता हूँ और इसे अपने भीतर ही सीमित करता हूँ। जब भी यह भटकता है, मैं इसे ज्ञान की छड़ी से नियंत्रण में लाता हूँ।",
+    "explanation": "इस दोहे में कबीर ने मानसिक अनुशासन और आत्म-नियंत्रण के महत्व को दर्शाया है। उन्होंने बताया है कि आत्म-संयम और ध्यान कैसे मन को नियंत्रित करने में मदद करते हैं। जब मन इच्छाओं और प्रवृत्तियों के प्रति आकर्षित होता है, तो उसे ज्ञान और समझ से नियंत्रित करना आवश्यक होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

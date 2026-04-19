@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a3242eb4-f521-4eda-ab5b-4df2cd10f6a5",
+  "name": "झिरमिरि झिरमिरि बरषिया, पांहण ऊपरि मेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rain falls softly on the stone. The soil melts into moisture, the stone remains the same.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झिरमिरि झिरमिरि बरषिया, पांहण ऊपरि मेह।\nमाटी गलि सैजल भई, पांहण वाही तेह।।१७२१।।",
+    "translation": "The rain falls softly on the stone. The soil melts into moisture, the stone remains the same.",
+    "meaning": "बरसात पत्थर पर धीरे-धीरे गिरती है। मिट्टी तरल में बदल जाती है, पत्थर वैसा का वैसा रहता है।",
+    "explanation": "कबीर इस दोहे में प्रकृति और परिवर्तन की बात करते हैं। उन्होंने कहा कि कुछ तत्व परिवर्तन को स्वीकार करते हैं, जबकि कुछ अडिग रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.072Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4d147d52-3124-40ba-bff5-12548c116c94",
+  "name": "माया सेती मति मिली, जो सोबरिया देहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Intellect gained through illusion is unreliable. Even revered sages like Narada have been deceived by it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया सेती मति मिली, जो सोबरिया देहि।\nनारद से मुनिवर गले, क्‍याहि भरोसा तेहि।।११८०।।",
+    "translation": "Intellect gained through illusion is unreliable. Even revered sages like Narada have been deceived by it.",
+    "meaning": "माया से प्राप्त बुद्धि अस्थिर होती है। नारद जैसे आदरणीय ऋषि भी इससे धोखा खा सकते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया द्वारा प्राप्त बुद्धि की अस्थिरता की बात की है। वे बताते हैं कि माया से प्राप्त ज्ञान और समझ सच्चे और स्थिर नहीं होते। यहां तक कि महान ऋषि जैसे नारद भी इस माया से प्रभावित हो सकते हैं, इसलिए इस पर भरोसा नहीं किया जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.973Z"
+  }
+}

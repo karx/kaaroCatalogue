@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ebd1a0ea-6284-4245-9002-d97e03bbfdf5",
+  "name": "जल परमानै माछली, कुल परमानै सुद्धि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as fish live in water and are sustained by it, purity is upheld by the essence of the family lineage. The intelligence of a person reflects the nature of the Guru they have found.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जल परमानै माछली, कुल परमानै सुद्धि।\nजाको जैसा गुरु मिला, ताको तैसी बुद्धि।।४८५।।",
+    "translation": "Just as fish live in water and are sustained by it, purity is upheld by the essence of the family lineage. The intelligence of a person reflects the nature of the Guru they have found.",
+    "meaning": "मछली जल में रहती है और जल से ही उसका जीवन चलता है, उसी प्रकार कुल की शुद्धि का पालन किया जाता है। व्यक्ति की बुद्धि उस गुरु की प्रकृति को दर्शाती है जो उसे मिला है।",
+    "explanation": "इस दोहे में कबीर ने गुरु के प्रभाव को मछली और जल के संबंध से जोड़ा है। जैसे मछली जल में रहती है और उसी से उसकी जिंदगी चलती है, वैसे ही गुरु के प्रभाव से व्यक्ति की बुद्धि और समझदारी विकसित होती है। गुरु की गुण और सिखाने का तरीका ही शिष्य की बुद्धि को आकार देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f2b075f2-0f2a-4f1a-b456-a4385327adcb",
+  "name": "कबीर हरि-रस यौं पिया, बाकी रही न थाकि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir drank the nectar of Hari; nothing else remained. The pot of the potter once baked cannot be put back on the wheel.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरि-रस यौं पिया, बाकी रही न थाकि।\nपाका कलस कुंभार का, बहुरि न चढ़ई चाकि।।१७२।।",
+    "translation": "Kabir drank the nectar of Hari; nothing else remained. The pot of the potter once baked cannot be put back on the wheel.",
+    "meaning": "कबीर ने हरि के अमृत को पिया, इसके बाद कुछ भी बाकी नहीं रहा। एक बार पक चुका कुंभार का बर्तन वापस चाक पर नहीं चढ़ सकता।",
+    "explanation": "इस दोहे में कबीर ने यह बताया है कि जब कोई व्यक्ति भगवान की दिव्यता को पूरी तरह से अनुभव करता है, तो उसके जीवन में कुछ भी बाकी नहीं रहता। जैसे एक बार बर्तन पक जाने के बाद उसे चाक पर नहीं चढ़ाया जा सकता, वैसे ही पूर्ण आध्यात्मिक अनुभव के बाद कुछ और की चाह नहीं रहती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

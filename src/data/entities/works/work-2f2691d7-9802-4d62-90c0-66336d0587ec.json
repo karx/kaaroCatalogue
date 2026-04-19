@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2f2691d7-9802-4d62-90c0-66336d0587ec",
+  "name": "काटि कटि जबह करै, या पाप संग का भेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who butcher and commit sacrifices, adopting the guise of sin, Will certainly not know Ram, says Kabir's message.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काटि कटि जबह करै, या पाप संग का भेस।\nनिश्‍च राम न जानही, कहै कबीर संदेस।।२२५२।।",
+    "translation": "Those who butcher and commit sacrifices, adopting the guise of sin, Will certainly not know Ram, says Kabir's message.",
+    "meaning": "जो लोग वध करते हैं और बलि चढ़ाते हैं, पाप के भेस में रहकर, वे निश्चित रूप से राम को नहीं जान पाएंगे, कबीर का संदेश यही है।",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि जो लोग हिंसा और हत्या का मार्ग चुनते हैं और पाप में लिप्त रहते हैं, वे सच्चे परमात्मा (राम) को कभी नहीं जान पाते। कबीर जी का यह संदेश इस बात पर जोर देता है कि जो लोग पाप में लिप्त रहते हैं, वे सच्चाई और ईश्वर की भक्ति से वंचित रह जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.343Z"
+  }
+}

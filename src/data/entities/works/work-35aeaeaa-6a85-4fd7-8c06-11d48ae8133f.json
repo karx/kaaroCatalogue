@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-35aeaeaa-6a85-4fd7-8c06-11d48ae8133f",
+  "name": "राम कबीरा एक है, कहन सुनन को दोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ram and Kabir are one, though they are spoken of as two. Only those who have met the true Guru understand this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम कबीरा एक है, कहन सुनन को दोय।\nदो करि सोई जानई, सतगरु मिला न हाय।।२२११।।",
+    "translation": "Ram and Kabir are one, though they are spoken of as two. Only those who have met the true Guru understand this.",
+    "meaning": "राम और कबीर एक ही हैं, हालांकि उन्हें दो कहा जाता है। केवल वे लोग जो सच्चे गुरु से मिले हैं, इस सच्चाई को समझते हैं।",
+    "explanation": "इस दोहे में संत कबीर जी बताते हैं कि राम और कबीर वास्तव में एक ही हैं, लेकिन वे दो के रूप में बोला जाता है। वे यह भी कहते हैं कि इस सच्चाई को केवल वे लोग समझ सकते हैं जिन्होंने सच्चे गुरु से मिलकर इसका ज्ञान प्राप्त किया है। यह दोहा एकता और सच्चे ज्ञान की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.080Z"
+  }
+}

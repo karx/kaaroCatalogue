@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e3b39d77-ea9e-45f9-890f-5c692bd91736",
+  "name": "पाहन को क्‍या पूजिये, जो नहिं देय जवाब",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why worship a stone that cannot answer? The blind man, driven by hope, loses his essence in vain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाहन को क्‍या पूजिये, जो नहिं देय जवाब।\nअंधा नर आशा मुखी, यों ही खोवै आब।।१३७६।।",
+    "translation": "Why worship a stone that cannot answer? The blind man, driven by hope, loses his essence in vain.",
+    "meaning": "उस पत्थर की पूजा क्यों करें जो जवाब नहीं दे सकता? आशा के मुख पर अंधा व्यक्ति व्यर्थ ही अपना जीवन खोता है।",
+    "explanation": "कबीर इस दोहे में मूर्तिपूजा पर प्रश्न उठाते हैं। वे कहते हैं कि जो पत्थर आपको जवाब नहीं दे सकता, उसकी पूजा करना निरर्थक है। जो व्यक्ति अपनी आशाओं में अंधा बनकर पत्थरों की पूजा करता है, वह अपनी वास्तविकता को खो देता है। यह दोहा हमें आत्मचिंतन और सच्ची भक्ति की ओर प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.087Z"
+  }
+}

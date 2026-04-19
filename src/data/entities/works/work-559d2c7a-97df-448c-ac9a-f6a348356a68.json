@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-559d2c7a-97df-448c-ac9a-f6a348356a68",
+  "name": "बिरहनि ऊभी पंथ सिरि, पंथी बूझे धाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The separation causes pain, the traveler understands and runs on the path. Speaking one word to the beloved, when will we meet again?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरहनि ऊभी पंथ सिरि, पंथी बूझे धाइ।\nएक सबद कहि पीव का, कब रे मिलैंगे आइ।।१७४०।।",
+    "translation": "The separation causes pain, the traveler understands and runs on the path. Speaking one word to the beloved, when will we meet again?",
+    "meaning": "विछड़न से पीड़ा होती है, यात्री रास्ते पर समझकर दौड़ते हैं। प्रिय को एक शब्द बोलते हुए, कब हम फिर मिलेंगे?",
+    "explanation": "कबीर इस दोहे में बिछड़ने और मिलन की खोज की बात करते हैं। उन्होंने कहा कि separation का दर्द और मिलन की खोज यात्री की तरह होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.077Z"
+  }
+}

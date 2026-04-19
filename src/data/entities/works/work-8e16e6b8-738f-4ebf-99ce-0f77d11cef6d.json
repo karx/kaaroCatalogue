@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e16e6b8-738f-4ebf-99ce-0f77d11cef6d",
+  "name": "दया-भाव हृदय नहीं, ज्ञान थके बेहद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without a compassionate heart, knowledge is of no use. Those who lack compassion will ultimately go to hell, despite hearing many teachings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया-भाव हृदय नहीं, ज्ञान थके बेहद।\nते नर नरक ही जाएंगे, सुनि-सुनि साखी-शब्द।।५३।।",
+    "translation": "Without a compassionate heart, knowledge is of no use. Those who lack compassion will ultimately go to hell, despite hearing many teachings.",
+    "meaning": "यदि हृदय में दया का भाव नहीं है, तो ज्ञान भी व्यर्थ है। जो लोग दया की कमी रखते हैं, वे सुनकर भी नरक में चले जाएंगे।",
+    "explanation": "इस दोहे में संत कबीर ने ज्ञान और दया के महत्व को बताया है। उन्होंने कहा कि केवल ज्ञान प्राप्त करना ही पर्याप्त नहीं है; दया और सहानुभूति भी जरूरी है। बिना दया के ज्ञान का कोई मूल्य नहीं होता और ऐसे लोग पवित्रता की ओर नहीं बढ़ सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

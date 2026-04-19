@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-128ff26a-b1b7-48aa-9941-f812122fae9a",
+  "name": "तुझ में औगुन तुझहि गुन, तुझ गुन औगुन मुझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You have faults within you and virtues within you; your virtues and faults are within me. If I forget you, you forget me as well.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तुझ में औगुन तुझहि गुन, तुझ गुन औगुन मुझ।\nजो मैं विसरूं तुझकौं, तू मति बिसरै मुझ।।२१८४।।",
+    "translation": "You have faults within you and virtues within you; your virtues and faults are within me. If I forget you, you forget me as well.",
+    "meaning": "तुझमें दोष और गुण हैं, और तेरे गुण और दोष मेरे भीतर हैं। अगर मैं तुझे भूल जाऊं, तो तू भी मुझे भूल जाएगा।",
+    "explanation": "इस दोहे में कबीर ने भगवान और अपने रिश्ते के गहरे सत्य को उजागर किया है। वे बताते हैं कि भगवान के गुण और दोष उनके भीतर भी होते हैं, और उनका स्वयं का गुण और दोष भगवान में हैं। यह दोहा इस बात को दर्शाता है कि एक दूसरे को भूलना और याद रखना, दोनों ही आपसी संबंधों की गहराई और समझ पर निर्भर करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.730Z"
+  }
+}

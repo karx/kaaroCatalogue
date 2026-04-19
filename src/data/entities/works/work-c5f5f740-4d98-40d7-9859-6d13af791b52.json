@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c5f5f740-4d98-40d7-9859-6d13af791b52",
+  "name": "मुल्‍ला चढ़‍ि किलकारिया, अल्‍लाह न बहिरा होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mullah shouts from the minaret, but Allah is not deaf. The one you call out to is within your own heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मुल्‍ला चढ़‍ि किलकारिया, अल्‍लाह न बहिरा होय।\nजेहि कारन तूं बांग दे, दिल ही अन्‍दर सोय।।१३६७।।",
+    "translation": "The mullah shouts from the minaret, but Allah is not deaf. The one you call out to is within your own heart.",
+    "meaning": "मुल्ला मीनार पर चढ़कर जोर से आवाज़ लगाता है, लेकिन अल्लाह बहरा नहीं है। जिसे तुम पुकारते हो, वह तुम्हारे दिल के भीतर ही सोया हुआ है।",
+    "explanation": "कबीर इस दोहे में धार्मिक आडंबरों पर प्रहार करते हैं। वे कहते हैं कि अल्लाह को पुकारने के लिए ऊंची आवाज़ की ज़रूरत नहीं है, क्योंकि वह बहरा नहीं है। असल में, ईश्वर हर व्यक्ति के दिल में बसता है, और उसे खोजने के लिए बाहर की दुनिया में आवाज़ लगाने की बजाय अपने अंदर झांकना चाहिए। यह दोहा हमें आत्मचिंतन और ईश्वर को अपने भीतर खोजने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.085Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-94093f05-f3d2-4a02-abaf-dd27d61e68b6",
+  "name": "गुरु किया है देह का, सतगुरु चीन्‍हा नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you consider the body as your Guru and do not recognize the true Guru, you will keep drowning again and again in the ocean of existence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु किया है देह का, सतगुरु चीन्‍हा नांहि।\nभवसागर के जाल में, फिर फिर गोता खांहि।।५१६।।",
+    "translation": "If you consider the body as your Guru and do not recognize the true Guru, you will keep drowning again and again in the ocean of existence.",
+    "meaning": "यदि आप शरीर को ही अपना गुरु मान लेते हैं और सच्चे गुरु को नहीं पहचानते, तो आप बार-बार भवसागर के जाल में फंसते रहेंगे।",
+    "explanation": "इस दोहे में संत कबीर जी शरीर को गुरु मानने की भूल की ओर संकेत कर रहे हैं। वह कहते हैं कि यदि कोई व्यक्ति केवल शरीर और सांसारिकता को ही अपना गुरु मान लेता है और सच्चे गुरु का ज्ञान नहीं प्राप्त करता, तो वह बार-बार इस संसार रूपी समुद्र में डूबता रहेगा। सच्चे गुरु का मार्गदर्शन ही व्यक्ति को मोक्ष की ओर ले जा सकता है, अन्यथा वह भ्रम और अज्ञान के जाल में फंसा रहेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

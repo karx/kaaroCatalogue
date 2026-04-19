@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-43e27493-58ab-4a23-b07e-29623a97aec1",
+  "name": "ताकी पूरी क्‍यों परे, गुरु न लखाई बाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why does the task remain incomplete? The guru does not show the way. When the time is over, it returns to the same old path.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ताकी पूरी क्‍यों परे, गुरु न लखाई बाट।\nताके बेरा बूड़ही, फिरि औघट घाट।।१५५५।।",
+    "translation": "Why does the task remain incomplete? The guru does not show the way. When the time is over, it returns to the same old path.",
+    "meaning": "काम क्यों अधूरा रहता है? गुरु रास्ता नहीं दिखाते। जब समय समाप्त होता है, तो यह वही पुराना मार्ग पर लौट आता है।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि जब गुरु सही मार्ग नहीं दिखाते, तब कार्य अधूरा रह जाता है। समय के अंत में, व्यक्ति वही पुराने मार्ग पर लौट आता है, जो उसने पहले चुना था। यह दोहा यह समझाता है कि सच्ची मार्गदर्शिता की आवश्यकता है ताकि व्यक्ति अपने जीवन की यात्रा को सही दिशा में ले जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.205Z"
+  }
+}

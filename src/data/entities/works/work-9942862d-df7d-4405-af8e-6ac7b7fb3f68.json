@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9942862d-df7d-4405-af8e-6ac7b7fb3f68",
+  "name": "कबीर कुल सोई भला, जो कुल उपजै दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, a family is truly noble if it produces a servant. A family where no servant is born is like a barren wasteland.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कुल सोई भला, जो कुल उपजै दास।\nजा कुल दास न ऊपजे, सो कुल आक पलास।।६९४।।",
+    "translation": "Kabir says, a family is truly noble if it produces a servant. A family where no servant is born is like a barren wasteland.",
+    "meaning": "कबीर कहते हैं, एक कुल तब ही उत्तम होता है जब वह एक सेवक उत्पन्न करता है। जहां कोई सेवक नहीं उत्पन्न होता, वह कुल निर्जल के समान होता है।",
+    "explanation": "इस दोहे में कबीर परिवार और सेवा की महत्ता की बात करते हैं। वे कहते हैं कि एक परिवार तभी श्रेष्ठ होता है जब उसमें एक सच्चा सेवक पैदा होता है। अगर परिवार में कोई सेवक नहीं होता, तो वह परिवार निर्जल और अनुपयोगी होता है। यह दोहा सेवा और परिवार के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

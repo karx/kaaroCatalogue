@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-77525286-f68d-41a4-a92f-cf6415335c37",
+  "name": "Abhijnanashakuntala",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Abhijnanashakuntala",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

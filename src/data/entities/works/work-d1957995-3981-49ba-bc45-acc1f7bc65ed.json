@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d1957995-3981-49ba-bc45-acc1f7bc65ed",
+  "name": "ग्‍यांनी तो नींडर भया, मांजै नां‍हीं संक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wise become fearless, free from doubt. But those under the sway of senses, are fearless in worldly poison.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ग्‍यांनी तो नींडर भया, मांजै नां‍हीं संक।\nइंद्री केरे बसि पड़या, भूंचौं विषै निसंक।।२०६०।।",
+    "translation": "The wise become fearless, free from doubt. But those under the sway of senses, are fearless in worldly poison.",
+    "meaning": "ज्ञानी व्यक्ति निडर हो जाता है, उसमें कोई संदेह नहीं होता। लेकिन जो इंद्रियों के वश में होता है, वह सांसारिक विष में निडर होता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि एक ज्ञानी व्यक्ति निडर होता है क्योंकि वह सत्य को जानता है और उसमें कोई संदेह नहीं होता। लेकिन जो व्यक्ति इंद्रियों के अधीन होता है, वह सांसारिक मोह-माया के विष में बिना किसी संकोच के डूबा रहता है। उसकी यह निर्भीकता उसे अंततः विनाश की ओर ले जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.089Z"
+  }
+}

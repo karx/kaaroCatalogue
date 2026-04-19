@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8b301b38-c2a4-44fb-9199-051b92f53dd4",
+  "name": "निश्‍चय काल गरास हो, बहुत कहा समझाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Certainly, time devours everything, though much is said and explained. Kabir says, what can I say, seeing none believe.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निश्‍चय काल गरास हो, बहुत कहा समझाय।\nकह कबीर मैं का कहूं, देखत ना पतियाय।।१०७२।।",
+    "translation": "Certainly, time devours everything, though much is said and explained. Kabir says, what can I say, seeing none believe.",
+    "meaning": "निश्चित रूप से, समय सब कुछ निगल जाता है, हालांकि बहुत कुछ कहा और समझाया जाता है। कबीर कहते हैं, मैं क्या कहूं, देखकर भी कोई विश्वास नहीं करता।",
+    "explanation": "इस दोहे में कबीर समय की अपरिहार्यता और उसकी शक्ति की बात करते हैं। उन्होंने इस तथ्य को स्वीकार किया कि समय सभी चीजों को समाप्त कर देता है, लेकिन लोग इस सच्चाई को मानने में संकोच करते हैं। यह जीवन के अनिश्चित और अस्थायी स्वभाव को दर्शाता है, जिसे समझने में लोग अक्सर विफल रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

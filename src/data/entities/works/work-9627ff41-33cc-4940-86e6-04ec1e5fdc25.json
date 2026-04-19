@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9627ff41-33cc-4940-86e6-04ec1e5fdc25",
+  "name": "hum par tumhaari chah ka ilzam hi to hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ham-par-tumhaarii-chaah-kaa-ilzaam-hii-to-hai-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.203Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ham-par-tumhaarii-chaah-kaa-ilzaam-hii-to-hai-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nham par tumhārī chaah kā ilzām hī to hai\ndushnām to nahīñ hai ye ikrām hī to hai\ndil nā-umīd to nahīñ nākām hī to hai\nlambī hai ġham kī shaam magar shaam hī to hai\nkarte haiñ jis pe ta.an koī jurm to nahīñ\nshauq-e-fuzūl o ulfat-e-nākām hī to hai\ndil mudda'ī ke harf-e-malāmat se shaad hai\nai jān-e-jāñ ye harf tirā naam hī to hai\ndast-e-falak meñ gardish-e-taqdīr to nahīñ\ndast-e-falak meñ gardish-e-ayyām hī to hai\nāḳhir to ek roz karegī nazar vafā\nvo yār-e-ḳhush-ḳhisāl sar-e-bām hī to hai\nbhīgī hai raat 'faiz' ġhazal ibtidā karo\nvaqt-e-sarod dard kā hangām hī to hai\nhum par tumhaari chah ka ilzam hi to hai\ndushnam to nahin hai ye ikram hi to hai\ndil na-umid to nahin nakaam hi to hai\nlambi hai gham ki sham magar sham hi to hai\nkarte hain jis pe tan koi jurm to nahin\nshauq-e-fuzul o ulfat-e-nakaam hi to hai\ndil mudda'i ke harf-e-malamat se shad hai\nai jaan-e-jaan ye harf tera nam hi to hai\ndast-e-falak mein gardish-e-taqdir to nahin\ndast-e-falak mein gardish-e-ayyam hi to hai\naaKHir to ek roz karegi nazar wafa\nwo yar-e-KHush-KHisal sar-e-baam hi to hai\nbhigi hai raat 'faiz' ghazal ibtida karo\nwaqt-e-sarod dard ka hangam hi to hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nہم پر تمہاری چاہ کا الزام ہی تو ہے\nدشنام تو نہیں ہے یہ اکرام ہی تو ہے\nدل ناامید تو نہیں ناکام ہی تو ہے\nلمبی ہے غم کی شام مگر شام ہی تو ہے\nکرتے ہیں جس پہ طعن کوئی جرم تو نہیں\nشوق فضول و الفت ناکام ہی تو ہے\nدل مدعی کے حرف ملامت سے شاد ہے\nاے جان جاں یہ حرف ترا نام ہی تو ہے\nدست فلک میں گردش تقدیر تو نہیں\nدست فلک میں گردش ایام ہی تو ہے\nآخر تو ایک روز کرے گی نظر وفا\nوہ یار خوش خصال سر بام ہی تو ہے\nبھیگی ہے رات فیضؔ غزل ابتدا کرو\nوقت سرود درد کا ہنگام ہی تو ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nहम पर तुम्हारी चाह का इल्ज़ाम ही तो है\nदुश्नाम तो नहीं है ये इकराम ही तो है\nदिल ना-उमीद तो नहीं नाकाम ही तो है\nलम्बी है ग़म की शाम मगर शाम ही तो है\nकरते हैं जिस पे ता'न कोई जुर्म तो नहीं\nशौक़-ए-फ़ुज़ूल ओ उल्फ़त-ए-नाकाम ही तो है\nदिल मुद्द'ई के हर्फ़-ए-मलामत से शाद है\nऐ जान-ए-जाँ ये हर्फ़ तिरा नाम ही तो है\nदस्त-ए-फ़लक में गर्दिश-ए-तक़दीर तो नहीं\nदस्त-ए-फ़लक में गर्दिश-ए-अय्याम ही तो है\nआख़िर तो एक रोज़ करेगी नज़र वफ़ा\nवो यार-ए-ख़ुश-ख़िसाल सर-ए-बाम ही तो है\nभीगी है रात 'फ़ैज़' ग़ज़ल इब्तिदा करो\nवक़्त-ए-सरोद दर्द का हंगाम ही तो है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:38.841Z"
+  }
+}

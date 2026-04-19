@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c2e797e-14b4-41e6-af53-d1c70a82d752",
+  "name": "ज्ञानी को ज्ञानी मिलै, रस की लूटम लूट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When a wise person meets another wise person, they revel in joy. But when a wise person meets an ignorant one, it leads to frustration.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञानी को ज्ञानी मिलै, रस की लूटम लूट।\nज्ञानी अज्ञानी मिलै, हौवे माथा कूट।।६६४।।",
+    "translation": "When a wise person meets another wise person, they revel in joy. But when a wise person meets an ignorant one, it leads to frustration.",
+    "meaning": "जब एक ज्ञानी दूसरे ज्ञानी से मिलता है, तो वे आनंदित होते हैं। लेकिन जब एक ज्ञानी अज्ञानी से मिलता है, तो निराशा होती है।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि जब दो ज्ञानी लोग मिलते हैं, तो उनके बीच ज्ञान की चर्चा से आनंद की प्राप्ति होती है। लेकिन जब एक ज्ञानी व्यक्ति किसी अज्ञानी व्यक्ति से मिलता है, तो वह निराश और परेशान हो जाता है क्योंकि अज्ञानी व्यक्ति को ज्ञान की बातें समझ नहीं आतीं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-11e1479e-9eea-4a5f-ba1e-af54ef48f13e",
+  "name": "पाव पलक की गमि नहीं, करे काल के साज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The feet cannot measure the blink of an eye, but death prepares its traps. In the midst, it strikes suddenly, like a hawk on a partridge.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाव पलक की गमि नहीं, करे काल के साज।\nबीच अचानक मारिहैं, ज्‍यों तीतर कों बाज।।१५९४।।",
+    "translation": "The feet cannot measure the blink of an eye, but death prepares its traps. In the midst, it strikes suddenly, like a hawk on a partridge.",
+    "meaning": "पांव पलकों की गति को नहीं माप सकते, लेकिन मृत्यु अपने जाल तैयार करती है। बीच में, यह अचानक हमला करती है, जैसे बाज तीतर पर।",
+    "explanation": "कबीर इस दोहे में जीवन की अस्थिरता और मृत्यु की अनिश्चितता को दर्शाते हैं। उन्होंने कहा कि पांव पलकों की गति को नहीं माप सकते, लेकिन मृत्यु अपने जाल तैयार करती है और अचानक हमला करती है, जैसे बाज तीतर पर हमला करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.213Z"
+  }
+}

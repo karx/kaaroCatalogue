@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fa32dd5a-d6b8-4197-8c09-ff3cc19d1128",
+  "name": "भक्ति दुहेली गुरुन की, नहिं कायर का काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "True devotion to the guru is not the work of cowards. One who humbly offers their head and hands to the guru will attain their own abode.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति दुहेली गुरुन की, नहिं कायर का काम।\nसीस उतारे हाथ सों, ताहि मिलै निज धाम।।७१६।।",
+    "translation": "True devotion to the guru is not the work of cowards. One who humbly offers their head and hands to the guru will attain their own abode.",
+    "meaning": "सच्ची भक्ति गुरु के प्रति डरपोकों का काम नहीं है। जो अपने सिर और हाथ गुरु को विनम्रता से अर्पित करता है, उसे अपना घर प्राप्त होता है।",
+    "explanation": "कबीर इस दोहे में सच्ची भक्ति के महत्व को बताते हैं। वे कहते हैं कि गुरु के प्रति सच्ची भक्ति किसी डरपोक का काम नहीं है। जो व्यक्ति अपनी विनम्रता से गुरु को अपना सिर और हाथ अर्पित करता है, उसे अपने आत्मिक घर की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

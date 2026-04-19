@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5412ebed-8683-46ff-85b2-37175a2d7969",
+  "name": "बग ध्‍यानी ज्ञानी घने, अरथी मिले अनेक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Many learned and wise people are found, and many hearse carriers are seen. But Kabir says that the one without pride is rare among thousands.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बग ध्‍यानी ज्ञानी घने, अरथी मिले अनेक।\nमान रहित कबीर कहैं, सो लाखन में एक।।१२६९।।",
+    "translation": "Many learned and wise people are found, and many hearse carriers are seen. But Kabir says that the one without pride is rare among thousands.",
+    "meaning": "बहुत से ज्ञानी और ध्यानियों को देखा जाता है, और कई शव वाहक भी मिलते हैं। लेकिन कबीर जी कहते हैं कि गर्व रहित व्यक्ति हजारों में एक होता है।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि बहुत से ज्ञानी और धार्मिक लोग मिलते हैं, और कई शव वाहक भी देखे जाते हैं। लेकिन गर्व से मुक्त व्यक्ति हजारों में एक ही मिलता है, जो कि दुर्लभ होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.544Z"
+  }
+}

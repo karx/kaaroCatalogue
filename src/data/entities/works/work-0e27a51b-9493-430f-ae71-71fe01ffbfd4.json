@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0e27a51b-9493-430f-ae71-71fe01ffbfd4",
+  "name": "दाग जु लागा नील का, सौ मन साबुन धोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A stain from indigo cannot be removed even with a hundred pounds of soap. No matter how many efforts are made, a crow cannot become a swan.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दाग जु लागा नील का, सौ मन साबुन धोय।\nकोटि जतन परमोधिये, कागा हंस न होय।।३९१।।",
+    "translation": "A stain from indigo cannot be removed even with a hundred pounds of soap. No matter how many efforts are made, a crow cannot become a swan.",
+    "meaning": "नील का दाग सौ मन साबुन से भी नहीं हटता। चाहे कितनी भी कोशिश की जाए, कौआ हंस नहीं बन सकता।",
+    "explanation": "इस दोहे में कबीर दास जी ने आंतरिक शुद्धता और परिवर्तन की सीमाओं को व्यक्त किया है। वे कहते हैं कि नील का दाग इतना गहरा होता है कि सौ मन साबुन से भी नहीं हटता, और कौआ अपनी स्वभावगत पहचान को बदल नहीं सकता, चाहे कितनी भी कोशिश की जाए। इसका तात्पर्य है कि कुछ चीजें अपनी स्वाभाविक विशेषताओं को बनाए रखती हैं, और आंतरिक परिवर्तन के लिए गहरी और सच्ची साधना की आवश्यकता होती है। यह दोहा हमें यह समझाने में मदद करता है कि बाहरी प्रयासों से आंतरिक रूप में वास्तविक परिवर्तन नहीं आता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

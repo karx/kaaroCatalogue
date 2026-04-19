@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e8248559-1938-4d21-8310-a1ddd3f782dd",
+  "name": "इंन्‍द्रलोक अचरिज भया, ब्रह्मा पड्या विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even Indra was amazed, and Brahma pondered deeply. Kabir has moved beyond the realm of Ram, reaching the boundless divine abode.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इंन्‍द्रलोक अचरिज भया, ब्रह्मा पड्या विचार।\nकबीर चाल्‍या राम पैं, कोतिगहार अपार।।१४२६।।",
+    "translation": "Even Indra was amazed, and Brahma pondered deeply. Kabir has moved beyond the realm of Ram, reaching the boundless divine abode.",
+    "meaning": "इंद्रलोक भी चकित हो गया, और ब्रह्मा ने गहराई से विचार किया। कबीर ने राम के क्षेत्र को पार करके अनंत दिव्य स्थान को प्राप्त कर लिया।",
+    "explanation": "कबीर इस दोहे में अपनी दिव्य उपलब्धियों और आध्यात्मिक उच्चता की बात करते हैं। वे बताते हैं कि यहाँ तक कि इंद्र और ब्रह्मा भी उनके अद्वितीय अनुभव से चकित हो गए। कबीर ने राम के सामान्य क्षेत्र को पार कर अनंत और असीमित दिव्य क्षेत्र को प्राप्त किया। यह दोहा कबीर की आध्यात्मिक यात्रा और ऊँचाई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.363Z"
+  }
+}

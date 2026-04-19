@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9fa2f14e-3540-4952-9875-426a7d89be78",
+  "name": "कबीर मन तीषा किया, बिरह लाइ परषांन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir made his mind a razor, troubled by the pain of separation. His heart remained fixed on the feet, where time’s hand does not reach.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन तीषा किया, बिरह लाइ परषांन।\nचित चरणूं मैं चभि रह्या, तहां नहीं काल का पाण।।१९६१।।",
+    "translation": "Kabir made his mind a razor, troubled by the pain of separation. His heart remained fixed on the feet, where time’s hand does not reach.",
+    "meaning": "कबीर ने अपने मन को तीखी धार वाला औजार बना लिया, जो विरह के कष्ट से परेशान था। उनका चित्त हर समय हरि के चरणों में लगा रहा, जहां काल की पहुंच नहीं है।",
+    "explanation": "इस दोहे में कबीर ने अपने मन को विरह और भक्ति के संदर्भ में एक तीखी धार वाला औजार बताया है। जब मन पूरी तरह से हरि की भक्ति और चरणों में ध्यान केंद्रित हो जाता है, तो वह काल और मृत्यु की पहुंच से परे हो जाता है। इसका अर्थ है कि सच्चे भक्ति से जीवन की सभी समस्याओं से मुक्ति मिलती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.530Z"
+  }
+}

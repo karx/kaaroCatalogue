@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-099c9722-e859-490f-9462-cab410ac752a",
+  "name": "कांचै भांडे सम रहे, ज्यों कुम्हार की देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as a clay pot is protected from within, the body is protected from the inside. The external appearance is like the clay pot itself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कांचै भांडे सम रहे, ज्यों कुम्हार की देह।\nभीतर राखे राखणा, बाहर चोई देह।।८५।।",
+    "translation": "Just as a clay pot is protected from within, the body is protected from the inside. The external appearance is like the clay pot itself.",
+    "meaning": "जैसे एक कांच के बर्तन को अंदर से सुरक्षा दी जाती है, वैसे ही शरीर को भी अंदर से सुरक्षा मिलती है। बाहरी रूप कांच के बर्तन के समान होता है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जैसे कांच के बर्तन को अंदर से सुरक्षा मिलती है, वैसे ही हमारे शरीर की वास्तविक सुरक्षा और मजबूती आंतरिक होती है। बाहरी रूप और दिखावे की तुलना में आंतरिक सुरक्षा और संतुलन अधिक महत्वपूर्ण है। यह दर्शाता है कि आंतरिक गुण और स्वास्थ्य बाहरी दिखावे से अधिक महत्वपूर्ण हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

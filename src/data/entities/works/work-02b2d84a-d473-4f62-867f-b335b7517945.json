@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-02b2d84a-d473-4f62-867f-b335b7517945",
+  "name": "सन्त होत हैं हेत के, हेतु तहाँ चलि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints act according to their purpose, and once their purpose is served, they move on. Kabir says, without purpose, who will believe in the need?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्त होत हैं हेत के, हेतु तहाँ चलि जाय।\nकहैं कबीर के हेत बिन, गरज कहाँ पतियाय।।३५८।।",
+    "translation": "Saints act according to their purpose, and once their purpose is served, they move on. Kabir says, without purpose, who will believe in the need?",
+    "meaning": "संत अपने उद्देश्य के अनुसार कार्य करते हैं, और जब उनका उद्देश्य पूरा हो जाता है, वे आगे बढ़ जाते हैं। कबीर कहते हैं, बिना उद्देश्य के, आवश्यकता की बात कौन मानेगा।।",
+    "explanation": "इस दोहे में कबीरदास ने संतों के उद्देश्य और उनकी कार्यप्रणाली की बात की है। संत अपने उद्देश्य की पूर्ति के बाद आगे बढ़ जाते हैं, और बिना किसी उद्देश्य के कोई भी आवश्यकता को नहीं समझेगा। यह दोहा यह भी दर्शाता है कि संतों का कार्य केवल उद्देश्यपूर्ण होता है, न कि अकारण।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b9277cf8-ba88-41e7-bb12-66ce1e98ae08",
+  "name": "एक कहौं तो है नहीं, दुई कहौं तो गारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If I say it's one, it doesn't exist; if I say it's two, it's an insult. Kabir says, just remain as you are.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक कहौं तो है नहीं, दुई कहौं तो गारि।\nहै जैसा तैसा रहो, कहहिं कबीर पुकारि।।१४६१।।",
+    "translation": "If I say it's one, it doesn't exist; if I say it's two, it's an insult. Kabir says, just remain as you are.",
+    "meaning": "यदि मैं इसे एक कहूं तो यह नहीं है; यदि मैं इसे दो कहूं तो यह अपमान है। कबीर कहते हैं, जैसा है वैसा ही बने रहो।",
+    "explanation": "इस दोहे में कबीर जीवन की अद्वैत और द्वैत की स्थिति का वर्णन कर रहे हैं। उनका कहना है कि जब हम इसे एक मानते हैं तो यह हमारे समझ में नहीं आता और जब इसे दो मानते हैं तो यह हमें भ्रमित करता है। इसलिए वह सलाह देते हैं कि हमें इसे जैसा है वैसा ही स्वीकार कर लेना चाहिए और उस पर जोर नहीं देना चाहिए। यही सही मार्ग है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.655Z"
+  }
+}

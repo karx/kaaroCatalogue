@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e41c25ec-f59a-41c1-89fb-ef83d7bcce35",
+  "name": "कामी कुत्ता तीस दिन, अन्‍तर होय उदास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A desirous dog may become sad after thirty days, but a desirous man is like a dog forever, throughout the six seasons and twelve months.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामी कुत्ता तीस दिन, अन्‍तर होय उदास।\nकामी नर कुत्ता सदा, छह रितु बारह मास।।१२२७।।",
+    "translation": "A desirous dog may become sad after thirty days, but a desirous man is like a dog forever, throughout the six seasons and twelve months.",
+    "meaning": "कामी कुत्ता तीस दिन बाद उदास हो सकता है, लेकिन कामी मनुष्य हमेशा कुत्ते की तरह रहता है, छह ऋतुओं और बारह महीनों तक।",
+    "explanation": "इस दोहे में कबीर ने कामी व्यक्ति की अंतहीन इच्छाओं को दर्शाया है। जैसे कुत्ता कुछ समय बाद उदास हो जाता है, कामी व्यक्ति की इच्छाएं कभी समाप्त नहीं होतीं और वह हमेशा असंतुष्ट रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.271Z"
+  }
+}

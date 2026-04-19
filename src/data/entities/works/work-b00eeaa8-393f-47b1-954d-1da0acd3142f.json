@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b00eeaa8-393f-47b1-954d-1da0acd3142f",
+  "name": "शब्‍द जु ऐसा बोलिये, मन का आपा खोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak words in such a way that the ego of the mind is lost. Let your words soothe others, and you too will become serene.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द जु ऐसा बोलिये, मन का आपा खोय।\nऔरन को शीतल करे, आपहुं शीतल होय।।१००५।।",
+    "translation": "Speak words in such a way that the ego of the mind is lost. Let your words soothe others, and you too will become serene.",
+    "meaning": "ऐसे शब्द बोलो जिससे मन का अहंकार समाप्त हो जाए। अपने शब्दों से दूसरों को शीतल बनाओ, और स्वयं भी शांत हो जाओ।",
+    "explanation": "इस दोहे में कबीर दास जी शब्दों की शक्ति और अहंकार को समाप्त करने की बात करते हैं। वह कहते हैं कि हमें ऐसे शब्द बोलने चाहिए जो हमारे मन के अहंकार को समाप्त कर दें। यदि हम अपने शब्दों से दूसरों को शांत और सुखी बनाएं, तो हम भी स्वयं शांत और शीतल हो जाएंगे। यह दोहा हमें अहंकार को त्यागने और शांति की ओर बढ़ने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

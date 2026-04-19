@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-58f965f6-63de-4d0b-b950-e98de9e06a12",
+  "name": "पाणि पियावत का फिरो, घर घर सायर बारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Drinking water and wandering, visiting each house. Those who are wise, enjoy without hesitation; the foolish are caught in a cycle.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाणि पियावत का फिरो, घर घर सायर बारि।\nतुषावंत जो होंहिगे, पीवहिंगे झख मारि।।१५८९।।",
+    "translation": "Drinking water and wandering, visiting each house. Those who are wise, enjoy without hesitation; the foolish are caught in a cycle.",
+    "meaning": "पानी पीते हुए घूमते हैं, हर घर का दौरा करते हैं। जो लोग ज्ञानी हैं, वे बिना हिचकिचाहट के आनंद लेते हैं; मूर्ख एक चक्र में फंस जाते हैं।",
+    "explanation": "कबीर इस दोहे में पानी पीकर घूमने और घर-घर जाने की प्रक्रिया का उपयोग करके ज्ञानी और मूर्खों के बीच अंतर को दर्शाते हैं। ज्ञानी लोग जीवन के आनंद को सहजता से स्वीकार करते हैं, जबकि मूर्ख एक निरंतर चक्र में फंस जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.212Z"
+  }
+}

@@ -84,6 +84,16 @@ async function main() {
   );
   console.log(`  ✓ Wrote ${comedyWritten} comedian files\n`);
 
+  // Migrate poetry works
+  const works = poetsIndex.works || [];
+  console.log(`📜 Works: ${works.length} entities`);
+  const worksWritten = migrateEntities(
+    works,
+    join(ROOT, 'src/data/entities/works'),
+    'works'
+  );
+  console.log(`  ✓ Wrote ${worksWritten} work files\n`);
+
   // Migrate videos
   const videos = comedyIndex.videos || [];
   console.log(`🎬 Videos: ${videos.length} entities`);

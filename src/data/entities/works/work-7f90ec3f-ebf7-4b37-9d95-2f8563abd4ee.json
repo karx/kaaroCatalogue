@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7f90ec3f-ebf7-4b37-9d95-2f8563abd4ee",
+  "name": "जरा मरण बालापना, चौथा वृद्ध अवस्‍था आह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Youth, death, childhood, and the fourth is old age. Just like a cat stalks a mouse, death strikes similarly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जरा मरण बालापना, चौथा वृद्ध अवस्‍था आह।\nजस मुसमसा तके बिलाइ, अस जम घात लगाय।।१५१३।।",
+    "translation": "Youth, death, childhood, and the fourth is old age. Just like a cat stalks a mouse, death strikes similarly.",
+    "meaning": "युवा अवस्था, मृत्यु, बालपन, और चौथी अवस्था बुढ़ापा होती है। जैसे बिल्ली चुपके से चूहे का पीछा करती है, वैसे ही मृत्यु जीवन का पीछा करती है।",
+    "explanation": "कबीर इस दोहे में जीवन के चार प्रमुख चरणों का वर्णन करते हैं - बचपन, युवावस्था, मृत्यु, और बुढ़ापा। इन चार चरणों के दौरान मनुष्य मृत्यु के साए में जीता है। जैसे बिल्ली चुपके से चूहे का पीछा करती है और अंत में उसे मार देती है, वैसे ही मृत्यु धीरे-धीरे जीवन के साथ चलती है। यह दोहा जीवन के अस्थायित्व और मृत्यु की अपरिहार्यता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.929Z"
+  }
+}

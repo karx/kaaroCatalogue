@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0836470b-192e-4330-8609-a74f6024ea5a",
+  "name": "चकोर भरोसे चंद के, निगले पप्‍तांगार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The chakora bird, trusting the moon, swallows burning embers. Kabir says, do not be misled by such false things.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चकोर भरोसे चंद के, निगले पप्‍तांगार।\nकहहिं कबीर दाधे नहीं, ऐसी वस्‍तु लगार।।१५०३।।",
+    "translation": "The chakora bird, trusting the moon, swallows burning embers. Kabir says, do not be misled by such false things.",
+    "meaning": "चकोर चंद्रमा के भरोसे जलते अंगार निगल लेता है। कबीर कहते हैं, ऐसी झूठी बातों पर विश्वास मत करो।",
+    "explanation": "कबीर इस दोहे में अंधविश्वास और झूठे भरोसे की आलोचना करते हैं। जैसे चकोर चंद्रमा के भ्रम में जलते अंगारों को निगलता है, वैसे ही लोग झूठी बातों और भ्रम में पड़ जाते हैं, जिससे उन्हें नुकसान होता है। इसलिए सच्चाई की पहचान करनी चाहिए और झूठ से बचना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.927Z"
+  }
+}

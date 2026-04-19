@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a8f64e10-f202-43e9-af4e-3529deca6213",
+  "name": "सतगुरु मिला जु जानिये, ज्ञान उजाला होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When one meets the true Guru, enlightenment dawns. The vessel of delusion is shattered, and one remains unique.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु मिला जु जानिये, ज्ञान उजाला होय।\nभ्रम का भांड तोड़ि करि, रहै निराला होय।।२६८।।",
+    "translation": "When one meets the true Guru, enlightenment dawns. The vessel of delusion is shattered, and one remains unique.",
+    "meaning": "जब सच्चे गुरु से मुलाकात होती है, तो ज्ञान का प्रकाश फैलता है। भ्रम का पात्र टूट जाता है, और व्यक्ति निराला हो जाता है।",
+    "explanation": "यह दोहा बताता है कि जब किसी को सच्चे गुरु की प्राप्ति होती है, तब उनके जीवन में ज्ञान का प्रकाश फैल जाता है। उनके जीवन से भ्रम और अज्ञान का नाश हो जाता है, जिससे वे संसार में अलग, विशेष और निराला बन जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-27264822-ba1b-4a07-82d7-29a090422252",
+  "name": "ऊंचा कुल के कारणै, बंस बध्‍या अधिकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Due to high lineage, the family holds power. The sandalwood's fragrance does not fade, even if the whole family is burnt.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचा कुल के कारणै, बंस बध्‍या अधिकार।\nचंदन बास भेदै नहीं, जाल्‍या सब परिवार।।१७३०।।",
+    "translation": "Due to high lineage, the family holds power. The sandalwood's fragrance does not fade, even if the whole family is burnt.",
+    "meaning": "ऊंची जाति के कारण परिवार को अधिकार मिलते हैं। चंदन की सुगंध नहीं मिटती, भले ही पूरा परिवार जल जाए।",
+    "explanation": "कबीर इस दोहे में सामाजिक स्थिति और वास्तविक मूल्य की बात करते हैं। उन्होंने कहा कि सच्चा मूल्य और गुण समाज के किसी भी सम्मान से प्रभावित नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.074Z"
+  }
+}

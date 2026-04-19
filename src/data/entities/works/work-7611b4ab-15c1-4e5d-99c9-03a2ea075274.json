@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7611b4ab-15c1-4e5d-99c9-03a2ea075274",
+  "name": "कबीर मन मृतक भया, दुर्बल भया सरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When Kabir's mind became lifeless and his body weakened, then Hari came to him again, Kabir says.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन मृतक भया, दुर्बल भया सरीर।\nतब पैंडे लागा हरि फिरै, कहत कबीर कबीर।।२३८।।",
+    "translation": "When Kabir's mind became lifeless and his body weakened, then Hari came to him again, Kabir says.",
+    "meaning": "जब कबीर का मन मृतक हो गया और उनका शरीर दुर्बल हो गया, तब हरि फिर से उनके पास आए, ऐसा कबीर कहते हैं।",
+    "explanation": "इस दोहे में कबीर आत्मा और शरीर की स्थिति के बारे में बताते हैं। वे कहते हैं कि जब उनका मन पूरी तरह से शांत और निर्जीव हो गया और शरीर कमजोर हो गया, तब भगवान हरि उनके पास फिर से आए। यह एक आध्यात्मिक अनुभव है जो बताता है कि जब व्यक्ति सांसारिक बंधनों से मुक्त हो जाता है, तब उसे भगवान का दर्शन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

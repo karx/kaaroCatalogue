@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6790bc88-3637-4d3a-8363-80190dfa3993",
+  "name": "जिहं घरि साध न पूजिये, हरि की सेवा नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where saints are not honored, and service to Hari is not performed, that house is of no worth, inhabited by ghosts.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिहं घरि साध न पूजिये, हरि की सेवा नांहि।\nते घर मुड़हट सारषे, भूत बसै तिन मांहि।।१९८२।।",
+    "translation": "Where saints are not honored, and service to Hari is not performed, that house is of no worth, inhabited by ghosts.",
+    "meaning": "जहाँ साधुओं की पूजा नहीं होती और हरि की सेवा नहीं की जाती, वह घर बेकार है और वहां भूत निवास करते हैं।",
+    "explanation": "इस दोहे में कबीर ने उन घरों की अवहेलना की है जहाँ धार्मिक और आध्यात्मिक गतिविधियाँ नहीं होतीं। उन्होंने कहा है कि ऐसे घरों का कोई महत्व नहीं होता और वे भूतों द्वारा निवासित होते हैं। यह दोहा धार्मिक और आध्यात्मिक गतिविधियों की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.534Z"
+  }
+}

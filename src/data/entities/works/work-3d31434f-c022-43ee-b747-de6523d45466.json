@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d31434f-c022-43ee-b747-de6523d45466",
+  "name": "गर्भ योगीश्वर गुरु बिन, लागा हरि का सेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without the guru, who is the Lord of Yoga, devotion to God feels incomplete. Kabir says that even Shukdev was sent back from Vaikunth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गर्भ योगीश्वर गुरु बिन, लागा हरि का सेव।\nकहे कबीर बैकुंठ ते, फेर दिया शुकदेव।।८४।।",
+    "translation": "Without the guru, who is the Lord of Yoga, devotion to God feels incomplete. Kabir says that even Shukdev was sent back from Vaikunth.",
+    "meaning": "गुरु के बिना, जो योगेश्वर हैं, भगवान की भक्ति अधूरी लगती है। कबीर कहते हैं कि शुकदेव को भी बैकुण्ठ से वापस भेजा गया।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि गुरु का महत्व कितना बड़ा है। बिना गुरु के, जो योग के अधिपति होते हैं, भगवान की भक्ति अधूरी महसूस होती है। यहां तक कि महान संत शुकदेव को भी गुरु के बिना बैकुण्ठ से वापस भेज दिया गया। यह गुरु की उपस्थिति और मार्गदर्शन की अनिवार्यता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

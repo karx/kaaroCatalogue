@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3bced4a1-2165-4cdf-a9c6-d9c0fa31ce71",
+  "name": "हयबर गयबर सघन घन, छत्रपति की नारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The noble woman of a king cannot be compared to a common woman. The woman who serves the saints is incomparable to her.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हयबर गयबर सघन घन, छत्रपति की नारि।\nतासु पटतरे ना तुले, हरिजन की पनिहारि।।६२७।।",
+    "translation": "The noble woman of a king cannot be compared to a common woman. The woman who serves the saints is incomparable to her.",
+    "meaning": "राजा की सम्मानित पत्नी की तुलना एक साधारण महिला से नहीं की जा सकती। जो महिला संतों की सेवा करती है, उसकी तुलना किसी से नहीं की जा सकती।",
+    "explanation": "संतों की सेवा करने वाली महिला की महानता और मूल्य किसी भी सम्मानित रानी से अधिक है। उसका योगदान और समर्पण अद्वितीय है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.002Z"
+  }
+}

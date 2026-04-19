@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e3ac2d9a-dd78-4c2f-a2d5-2bdeee5108c0",
+  "name": "जाप मरै अजपा मरै, अनहद भी मरि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Recitation may perish, and so may the Ajapa, even the unspoken divine sound can die. But the essence, which is absorbed in the Word, is not consumed by time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाप मरै अजपा मरै, अनहद भी मरि जाय।\nसुरति समानी शब्‍द में, ताहि काल न खाय।।७२९।।",
+    "translation": "Recitation may perish, and so may the Ajapa, even the unspoken divine sound can die. But the essence, which is absorbed in the Word, is not consumed by time.",
+    "meaning": "जाप समाप्त हो सकता है, अजपा समाप्त हो सकता है, अनहद भी समाप्त हो सकता है। लेकिन वह सार, जो शब्द में समा जाता है, समय द्वारा समाप्त नहीं होता।",
+    "explanation": "इस दोहे में कबीर यह बताना चाहते हैं कि केवल जाप और ध्यान ही नहीं, बल्कि अजपा और अनहद भी समाप्त हो सकते हैं, लेकिन जो सार या तत्त्व शब्द में समा जाता है, वह समय के प्रभाव से परे होता है। यह तत्त्व शाश्वत होता है और अमर रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.543Z"
+  }
+}

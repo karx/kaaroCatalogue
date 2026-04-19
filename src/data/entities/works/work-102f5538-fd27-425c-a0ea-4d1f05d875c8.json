@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-102f5538-fd27-425c-a0ea-4d1f05d875c8",
+  "name": "घुंघची भर के बाये, उपजी पसेरी आठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "From a handful of seeds, a large harvest grows. But when death arrives, it takes everything away, whether it is morning or evening.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घुंघची भर के बाये, उपजी पसेरी आठ।\nडेरा परा काल, सांझ सकारो जाय।।१५००।।",
+    "translation": "From a handful of seeds, a large harvest grows. But when death arrives, it takes everything away, whether it is morning or evening.",
+    "meaning": "थोड़ी सी बीज से बड़ी फसल उगती है, लेकिन जब मृत्यु आती है, तो वह सब कुछ छीन लेती है, चाहे वह सुबह हो या शाम।",
+    "explanation": "इस दोहे में कबीर जीवन और मृत्यु की अनिश्चितता की बात करते हैं। जैसे थोड़ी सी बीज से बड़ी फसल उगती है, वैसे ही जीवन में प्रयासों से फल प्राप्त होता है। लेकिन मृत्यु अनिश्चित है, और जब वह आती है, तो सब कुछ अपने साथ ले जाती है। इससे हमें यह समझना चाहिए कि जीवन की नश्वरता को ध्यान में रखते हुए हमें अपने समय का सदुपयोग करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.662Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c180d4be-f8e1-4201-a02a-581596c4339c",
+  "name": "जब तू आया जगत में, लोग हंसे तू रोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When you entered the world, people laughed while you cried. Do not act in a way that will make people laugh at you later.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब तू आया जगत में, लोग हंसे तू रोय।\nऐसी करनी ना करो, पीछे हंसे सब कोय।।१३३१।।",
+    "translation": "When you entered the world, people laughed while you cried. Do not act in a way that will make people laugh at you later.",
+    "meaning": "जब तुम इस दुनिया में आए, लोग हंस रहे थे और तुम रो रहे थे। ऐसी स्थिति में मत रहो कि लोग तुम्हारे कार्यों पर बाद में हंसें।",
+    "explanation": "कबीर जी के अनुसार, जब व्यक्ति दुनिया में आता है, तो लोग उसकी कमियों पर हंसते हैं। इसलिए ऐसा कुछ नहीं करना चाहिए जिससे बाद में लोग हंसें और तिरस्कृत करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.814Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79576f8a-66df-4928-905a-a2116c2fba68",
+  "name": "बहुत जतन करि कीजिये, सब फल जाय नसाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No matter how much effort is put into accumulating wealth, it all ultimately gets stolen by the thief of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बहुत जतन करि कीजिये, सब फल जाय नसाय।\nकबीर संचै सूम धन, अन्‍त चोर ले जाय।।१२४३।।",
+    "translation": "No matter how much effort is put into accumulating wealth, it all ultimately gets stolen by the thief of time.",
+    "meaning": "कितनी भी मेहनत क्यों न की जाए, सभी संपत्ति अंततः समय के चोर द्वारा ले ली जाती है।",
+    "explanation": "इस दोहे में कबीर ने धन संचय के अर्थहीनता को बताया है। कितना भी प्रयास किया जाए, अंत में सब कुछ समय के चोर द्वारा चुरा लिया जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.274Z"
+  }
+}

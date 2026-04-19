@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-95a76815-6214-4747-8f53-6c4e4b4155af",
+  "name": "मांगन को भल बोलना, चोरन को भल चूप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "It is good to speak kindly to the beggar, silence is good for the thief. Rain is good for the gardener, and sunlight is good for the washerman.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांगन को भल बोलना, चोरन को भल चूप।\nमाली को भल बरसनो, धोबी को भल धूप।।९४५।।",
+    "translation": "It is good to speak kindly to the beggar, silence is good for the thief. Rain is good for the gardener, and sunlight is good for the washerman.",
+    "meaning": "भिखारी से अच्छे से बोलना अच्छा होता है, चोर से चुप रहना अच्छा होता है। माली के लिए बारिश अच्छी होती है, और धोबी के लिए धूप अच्छी होती है।",
+    "explanation": "कबीर इस दोहे में सामाजिक व्यवहार की विविधता को दर्शाते हैं। उन्होंने कहा है कि भिखारी से अच्छे शब्दों से बात करना अच्छा होता है, जबकि चोर के साथ चुप रहना सही होता है। इसी तरह, माली के लिए बारिश और धोबी के लिए धूप लाभकारी होती है। यह दोहा हमें यह समझाता है कि परिस्थितियों के अनुसार व्यवहार को समायोजित करना चाहिए और उचित उपाय अपनाने चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.628Z"
+  }
+}

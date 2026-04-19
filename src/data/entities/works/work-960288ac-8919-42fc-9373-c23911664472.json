@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-960288ac-8919-42fc-9373-c23911664472",
+  "name": "हे मतिहीनी माछीरी, राखि न सकी शरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O foolish fish, unable to save the body, The pond's service is futile, the net of time is not a cure.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हे मतिहीनी माछीरी, राखि न सकी शरीर।\nसो सरवर सेवा नहीं, जाल काल नहिं कीर।।९१९।।",
+    "translation": "O foolish fish, unable to save the body, The pond's service is futile, the net of time is not a cure.",
+    "meaning": "हे मूर्ख मछली, जो शरीर को नहीं बचा सकी, तालाब की सेवा निरर्थक है, समय का जाल कोई इलाज नहीं है।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि जो लोग अपने जीवन के महत्वपूर्ण पहलुओं को नजरअंदाज करते हैं, वे मृत्यु के समय लाचार रह जाते हैं। वे एक मछली की उपमा देकर बताते हैं कि जैसे मछली पानी में भी अपनी जान नहीं बचा सकती, वैसे ही लोग भी बिना सच्चे ज्ञान और समझ के अपने समय की व्यर्थता को नहीं देख पाते। कबीर का यह संदेश है कि जीवन के सच्चे उद्देश्य और मोक्ष की खोज में सतर्क रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.625Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-69b425c2-1f7b-4638-8167-58c086fbe606",
+  "name": "आंखि न देखे बावरा, शब्‍द सुनै नहिं कान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The foolish person neither sees with his eyes nor hears with his ears. Even though his hair has turned white, he remains utterly ignorant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आंखि न देखे बावरा, शब्‍द सुनै नहिं कान।\nसिर के केस उज्‍जल भये, अबहूं निपट अजान।।८७०।।",
+    "translation": "The foolish person neither sees with his eyes nor hears with his ears. Even though his hair has turned white, he remains utterly ignorant.",
+    "meaning": "मूर्ख व्यक्ति न अपनी आंखों से देखता है, न ही अपने कानों से सुनता है। उसके सिर के बाल सफेद हो गए हैं, फिर भी वह पूरी तरह से अज्ञानी है।",
+    "explanation": "इस दोहे में कबीर उन लोगों पर तंज कसते हैं जो ज्ञान और अनुभव की परवाह नहीं करते। भले ही वे उम्रदराज हो गए हों, ल���किन यदि उन्होंने जीवन का सच्चा ज्ञान नहीं पाया है, तो वे अज्ञानी ही रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.351Z"
+  }
+}

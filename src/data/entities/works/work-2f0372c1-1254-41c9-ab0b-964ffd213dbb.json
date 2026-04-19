@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2f0372c1-1254-41c9-ab0b-964ffd213dbb",
+  "name": "जहां न जाको गुन लहै, तहां न ताको ठांव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where one does not find any virtues, there is no place for them. What can the washerman do in the village of the naked ascetic?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां न जाको गुन लहै, तहां न ताको ठांव।\nधोबी बसके क्‍या करै, दिगम्‍बर के गांव।।९४२।।",
+    "translation": "Where one does not find any virtues, there is no place for them. What can the washerman do in the village of the naked ascetic?",
+    "meaning": "जहाँ कोई गुण नहीं मिलते, वहाँ कोई ठिकाना नहीं होता। धोबी क्या कर सकता है, दिगंबर के गांव में?",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि जहाँ गुण और सत्य की खोज नहीं होती, वहाँ किसी का ठिकाना नहीं होता। दिगंबर (नग्न साधू) के गाँव में धोबी (धोने वाला) की क्या स्थिति हो सकती है, यह बताकर कबीर यह सिखाते हैं कि हमारे कर्म और गुण ही हमें उचित स्थान और मान्यता दिलाते हैं। बिना गुण और अच्छे कर्म के, जीवन में कोई स्थायित्व नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.628Z"
+  }
+}

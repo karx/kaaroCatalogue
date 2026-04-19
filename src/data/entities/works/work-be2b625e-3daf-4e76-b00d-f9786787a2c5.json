@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-be2b625e-3daf-4e76-b00d-f9786787a2c5",
+  "name": "अपने उरझै उरझिया, दीखै सब संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who is entangled in their own confusion sees the entire world in confusion. The one who is clear within sees the true essence through the wisdom of the guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपने उरझै उरझिया, दीखै सब संसार।\nअपने सुरझै सुरझिया, यह गुरु ज्ञान विचार।।११२६।।",
+    "translation": "The one who is entangled in their own confusion sees the entire world in confusion. The one who is clear within sees the true essence through the wisdom of the guru.",
+    "meaning": "जो अपनी खुद की उलझनों में फंसा होता है, वह पूरे संसार को उलझा हुआ देखता है। जो अंदर से स्पष्ट होता है, वह गुरु के ज्ञान से सच्चे अर्थ को देखता है।",
+    "explanation": "इस दोहे में कबीर ने आत्म-संयम और अंतर्दृष्टि के महत्व को बताया है। जो व्यक्ति अपनी खुद की उलझनों में फंसा रहता है, वह पूरी दुनिया को उलझन में देखता है। लेकिन जो व्यक्ति अंदर से स्पष्ट और स्पष्ट होता है, वह गुरु के ज्ञान के माध्यम से सच्चाई को देखता है। यह ध्यान और गुरु के ज्ञान की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.704Z"
+  }
+}

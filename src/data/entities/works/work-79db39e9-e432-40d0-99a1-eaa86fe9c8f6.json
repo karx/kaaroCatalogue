@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79db39e9-e432-40d0-99a1-eaa86fe9c8f6",
+  "name": "मानुष केही अथाइया, मति कोइ पठे धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The human is deceitful, the intellect sends him astray. He roams in the same field, like a tiger among cows.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मानुष केही अथाइया, मति कोइ पठे धाय।\nएकहि खेत चरत है, बाघ गदहरा गाय।।१६३७।।",
+    "translation": "The human is deceitful, the intellect sends him astray. He roams in the same field, like a tiger among cows.",
+    "meaning": "मनुष्य धोखेबाज होता है, बुद्धि उसे भटकाती है। वह एक ही खेत में घूमता है, जैसे बाघ गायों के बीच।",
+    "explanation": "कबीर इस दोहे में मनुष्य की स्वाभाविक प्रवृत्तियों और बुद्धि के भ्रम का वर्णन करते हैं। उन्होंने कहा कि मनुष्य अक्सर भ्रमित रहता है और अपने आप को सुरक्षित नहीं रख पाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.509Z"
+  }
+}

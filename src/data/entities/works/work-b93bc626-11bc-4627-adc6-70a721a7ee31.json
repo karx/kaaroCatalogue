@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b93bc626-11bc-4627-adc6-70a721a7ee31",
+  "name": "कबीर या संसार की, झूठी माया मोह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, this world is full of false illusion and attachment. The house where one is celebrated is the same house where falsehood resides.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर या संसार की, झूठी माया मोह।\nजिहि घर जिता बधावना, तिहि घर तेता दोह।।११७१।।",
+    "translation": "Kabir says, this world is full of false illusion and attachment. The house where one is celebrated is the same house where falsehood resides.",
+    "meaning": "कबीर कहते हैं, यह संसार झूठी माया और मोह से भरा हुआ है। जिस घर में व्यक्ति की बधाई होती है, वही घर झूठ का घर है।",
+    "explanation": "इस दोहे में कबीर ने संसार की झूठी माया और मोह की आलोचना की है। वे बताते हैं कि जिस जगह पर किसी को बहुत प्रशंसा और बधाई मिलती है, वह स्थान वास्तव में झूठ और भ्रामकता से भरा हुआ है। यह बताता है कि बाहरी मान्यता और प्रशंसा केवल माया है और वास्तविकता इससे परे है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.971Z"
+  }
+}

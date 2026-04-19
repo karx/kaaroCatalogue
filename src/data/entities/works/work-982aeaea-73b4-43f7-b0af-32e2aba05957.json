@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-982aeaea-73b4-43f7-b0af-32e2aba05957",
+  "name": "गान्ठि होय सो हाथ कर, हाथ होय सो देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whatever you have in hand, take it as your body. Ahead, there is no market or merchant, take what you can now.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गान्ठि होय सो हाथ कर, हाथ होय सो देह।\nआगे हाट न बानिया, लेना है सो लेह।।९८४।।",
+    "translation": "Whatever you have in hand, take it as your body. Ahead, there is no market or merchant, take what you can now.",
+    "meaning": "जो कुछ भी तुम्हारे हाथ में है, उसे अपने शरीर के रूप में स्वीकार करो। आगे कोई बाजार या व्यापारी नहीं है, जो भी तुम ले सकते हो, अभी ले लो।",
+    "explanation": "इस दोहे में कबीर दास जी जीवन के अस्थायीपन और अवसरों की महत्ता पर जोर देते हैं। वह कहते हैं कि जो कुछ भी हमारे पास अभी है, उसे अपने शरीर के रूप में मान लो, क्योंकि आगे जीवन में कोई बाजार या व्यापारी नहीं होगा जो हमें कुछ दे सके। इस दोहे के माध्यम से हमें यह सिखाया जाता है कि हमें वर्तमान समय और अवसरों का सदुपयोग करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.895Z"
+  }
+}

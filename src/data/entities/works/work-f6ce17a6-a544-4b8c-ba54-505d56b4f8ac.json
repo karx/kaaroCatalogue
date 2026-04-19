@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f6ce17a6-a544-4b8c-ba54-505d56b4f8ac",
+  "name": "जागो लोगो मत सुवो, ना कुरु नींद से प्‍यार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wake up people, do not love sleep. This world is like a dream of the night.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जागो लोगो मत सुवो, ना कुरु नींद से प्‍यार।\nजैसा सपना रैन का, ऐसा यह संसार।।८६०।।",
+    "translation": "Wake up people, do not love sleep. This world is like a dream of the night.",
+    "meaning": "लोगों जागो, नींद से प्रेम मत करो। यह संसार रात के सपने जैसा है।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि हमें अपनी आध्यात्मिक नींद से जागना चाहिए। इस संसार को वे एक भ्रम या सपना मानते हैं, जिससे जागना जरूरी है। यह हमें हमारे असली उद्देश्य की ओर ले जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.350Z"
+  }
+}

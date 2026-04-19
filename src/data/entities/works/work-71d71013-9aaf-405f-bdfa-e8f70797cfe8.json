@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-71d71013-9aaf-405f-bdfa-e8f70797cfe8",
+  "name": "Tukaram Gatha",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-tukaram"
+  },
+  "inLanguage": "Marathi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Tukaram_Gatha",
+    "retrievedAt": "2026-01-04T18:38:59.156Z"
+  }
+}

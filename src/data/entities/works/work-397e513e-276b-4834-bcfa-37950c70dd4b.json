@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-397e513e-276b-4834-bcfa-37950c70dd4b",
+  "name": "दया धर्म का मूल है, पाप मूल संताप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Compassion is the root of righteousness, while sin leads to suffering. Where there is forgiveness, there is virtue; where there is compassion, there is God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया धर्म का मूल है, पाप मूल संताप।\nजहां क्षमा तहां धर्म है, जहां दया तहां आप।।१३९५।।",
+    "translation": "Compassion is the root of righteousness, while sin leads to suffering. Where there is forgiveness, there is virtue; where there is compassion, there is God.",
+    "meaning": "दया धर्म का मूल है, पाप का मूल संताप है। जहां क्षमा है, वहां धर्म है; जहां दया है, वहां ईश्वर है।",
+    "explanation": "कबीर इस दोहे में धर्म और पाप के मूल कारणों की चर्चा करते हैं। वे कहते हैं कि दया से धर्म का जन्म होता है, जबकि पाप से दुख का। जहां क्षमा होती है, वहां धर्म होता है, और जहां दया होती है, वहां ईश्वर का वास होता है। यह दोहा हमें दया और क्षमा के महत्व को समझने के लिए प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.092Z"
+  }
+}

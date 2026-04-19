@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-842db4c0-c28b-4cf3-9aea-a839b84922e1",
+  "name": "लगा रहै सतज्ञान सो, सबही बन्‍धन तोड़",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who is absorbed in true knowledge breaks all bonds. Kabir says, such a person is a true servant and remains safe from the clutches of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लगा रहै सतज्ञान सो, सबही बन्‍धन तोड़।\nकहैं कबीर वा दास सो, काल रहै हथ जोड़।।६८६।।",
+    "translation": "One who is absorbed in true knowledge breaks all bonds. Kabir says, such a person is a true servant and remains safe from the clutches of time.",
+    "meaning": "जो व्यक्ति सत्य ज्ञान में लीन रहता है, वह सभी बंधनों को तोड़ देता है। कबीर कहते हैं, ऐसा व्यक्ति सच्चा सेवक होता है और समय की पकड़ से सुरक्षित रहता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो व्यक्ति सत्य ज्ञान में पूरी तरह से लीन होता है, वह सभी प्रकार के बंधनों को तोड़ देता है। ऐसा व्यक्ति समय की जकड़ से मुक्त रहता है और सच्चे अर्थों में सेवक होता है। यह ज्ञान और आत्म-मुक्ति के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a5b33af3-6651-48ef-9f95-6e494e397db7",
+  "name": "माया जग सापिनि भई, विष ले बैठी आथि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion has become a snake in the world, sitting with poison. The whole world is caught in its trap, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया जग सापिनि भई, विष ले बैठी आथि।\nसब जग फंदे फन्दिया, चले कबीरू काछि।।१६४०।।",
+    "translation": "Illusion has become a snake in the world, sitting with poison. The whole world is caught in its trap, says Kabir.",
+    "meaning": "माया दुनिया में एक सांप बन गई है, विष के साथ बैठी हुई है। पूरी दुनिया इसके जाल में फंसी हुई है, कबीर कहते हैं।",
+    "explanation": "कबीर इस दोहे में माया या भ्रम की शक्तियों को सांप की तरह दिखाते हैं, जो विष से भरा हुआ है और पूरी दुनिया को अपने जाल में फंसा रहा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.510Z"
+  }
+}

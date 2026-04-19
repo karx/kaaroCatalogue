@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0d6e013d-f7ef-40ee-b73e-e73b7bb7e039",
+  "name": "रक्‍त छाड़‍ि पय को गहै, ज्‍यौरे गऊ का बच्‍छ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint should leave aside the blood (sacrifices) and accept milk (nourishment) like a calf. He should abandon vices and embrace virtues.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रक्‍त छाड़‍ि पय को गहै, ज्‍यौरे गऊ का बच्‍छ।\nऔगुण छांड़ै गुण गहै, ऐसा साधु लच्‍छ।।६११।।",
+    "translation": "A saint should leave aside the blood (sacrifices) and accept milk (nourishment) like a calf. He should abandon vices and embrace virtues.",
+    "meaning": "संत को रक्त (बलिदान) को त्यागकर दूध (पोषण) को अपनाना चाहिए, जैसे बछड़ा करता है। वह दोषों को छोड़कर गुणों को अपनाता है।",
+    "explanation": "संतों को हिंसा और बलिदानों से दूर रहना चाहिए और शाकाहारी और सौम्य जीवन अपनाना चाहिए। वे अपनी प्रकृति में गुणों को ही अपनाते हैं और दोषों को त्यागते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.000Z"
+  }
+}

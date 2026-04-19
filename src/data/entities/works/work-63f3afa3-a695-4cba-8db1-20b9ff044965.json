@@ -1,0 +1,32 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-63f3afa3-a695-4cba-8db1-20b9ff044965",
+  "name": "Gulon Mein Rang Bhare",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "abstract": "One of Faiz's most famous ghazals, popularized by Mehdi Hassan. A beautiful blend of romantic imagery and political longing.",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/gulon-mein-rang-bhare-baad-e-naubahaar-chale-faiz-ahmed-faiz-ghazals",
+    "retrievedAt: ": "2026-01-04T19:31:07.327Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/gulon-mein-rang-bhare-baad-e-naubahaar-chale-faiz-ahmed-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:46:36.343Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb2ba628-18f2-42e7-8bbd-b57f5fb21db3",
+  "name": "रहनी के मैदान में, कथनी आवै जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the field of living, words come and go. Words are like grinding, while living involves practical action.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रहनी के मैदान में, कथनी आवै जाय।\nकथनी पीसै पीसना, रहनी अमल कमाय।।१३२१।।",
+    "translation": "In the field of living, words come and go. Words are like grinding, while living involves practical action.",
+    "meaning": "जीवन के क्षेत्र में, शब्द आते और जाते रहते हैं। शब्द पीसने के समान होते हैं, जबकि जीवन में व्यावहारिक कर्म होते हैं।",
+    "explanation": "कबीर जी के अनुसार, शब्दों की महत्वता कम होती है क्योंकि वे केवल एक स्थान पर आते और जाते रहते हैं। असली जीवन में वे कर्म महत्वपूर्ण होते हैं जो व्यवहारिक रूप से किए जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.812Z"
+  }
+}

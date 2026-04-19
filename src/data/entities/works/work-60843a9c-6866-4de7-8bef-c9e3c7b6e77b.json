@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60843a9c-6866-4de7-8bef-c9e3c7b6e77b",
+  "name": "सुमिरण मारग सहज का, सतगुरु दिया बताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path of remembrance is simple; the True Guru has shown it. Remain in constant remembrance, and one day you will achieve your goal.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरण मारग सहज का, सतगुरु दिया बताय।\nसांस सांस सुमिरण करुं, इक दिन मिलसी आय।।७२७।।",
+    "translation": "The path of remembrance is simple; the True Guru has shown it. Remain in constant remembrance, and one day you will achieve your goal.",
+    "meaning": "स्मरण का मार्ग सरल है; सतगुरु ने इसे बताया है। निरंतर स्मरण में रहो, एक दिन तुम अपने लक्ष्य को प्राप्त करोगे।",
+    "explanation": "इस दोहे में कबीर ने स्मरण के मार्ग को सरल बताया है। उन्होंने कहा है कि सतगुरु ने इसे बताया है और अगर हम निरंतर स्मरण में रहते हैं, तो एक दिन हमें अपने लक्ष्य को प्राप्त कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.543Z"
+  }
+}

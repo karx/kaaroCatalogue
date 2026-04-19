@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fbd912b8-906b-49bf-a6d0-491d4943b3ba",
+  "name": "कबीर गाफिल क्‍यौं फिरै, क्‍या सोता घनघोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why is Kabir heedless? What, is he asleep in deep darkness? Death stands by your pillow like a thief in the dark.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर गाफिल क्‍यौं फिरै, क्‍या सोता घनघोर।\nतेरे सिराने जम खड़ा, ज्‍यूं अंधियारे चोर।।१०६४।।",
+    "translation": "Why is Kabir heedless? What, is he asleep in deep darkness? Death stands by your pillow like a thief in the dark.",
+    "meaning": "कबीर लापरवाह क्यों घूम रहे हैं? क्या वे गहरी अंधेरी नींद में हैं? मृत्यु तुम्हारे सिरहाने खड़ी है, जैसे अंधेरे में चोर होता है।",
+    "explanation": "इस दोहे में कबीर चेतावनी देते हैं कि व्यक्ति को अपने जीवन की वास्तविकता को समझना चाहिए। वे पूछते हैं कि कबीर क्यों लापरवाह हैं जबकि मृत्यु उनके सिरहाने खड़ी है, जैसे अंधेरे में चोर छुपा होता है। यह मृत्यु की निकटता और जीवन के प्रति जागरूकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.426Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bd428811-433e-49f5-a961-169e1a0ea233",
+  "name": "कामंणि मीनीं षांणि की, जे छेड़ौं तौ खाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The desire for wealth is like a poisonous fish; if provoked, it will bite. Those who are devoted to the feet of Hari, remain untouched by such desires.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामंणि मीनीं षांणि की, जे छेड़ौं तौ खाइ।\nजे हरि चरणां राचियां, तिनके निकट न जाइ।।२०३८।।",
+    "translation": "The desire for wealth is like a poisonous fish; if provoked, it will bite. Those who are devoted to the feet of Hari, remain untouched by such desires.",
+    "meaning": "धन की इच्छा विषाक्त मछली की तरह है; अगर इसे उत्तेजित किया जाए, तो यह डंस लेगी। जो लोग हरि के चरणों में समर्पित होते हैं, वे ऐसी इच्छाओं से अछूते रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने धन की इच्छा को एक विषाक्त मछली के रूप में दर्शाया है, जो उत्तेजित होने पर काट लेती है। हरि के चरणों में समर्पित व्यक्ति इन इच्छाओं से प्रभावित नहीं होते हैं। यह भक्ति और इच्छाओं की स्थिति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.811Z"
+  }
+}

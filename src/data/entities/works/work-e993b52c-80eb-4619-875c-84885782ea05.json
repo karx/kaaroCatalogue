@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e993b52c-80eb-4619-875c-84885782ea05",
+  "name": "Abhijñānaśākuntalam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Abhijñānaśākuntalam",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-71c89159-47c1-4f76-a17c-8700d85c9ba2",
+  "name": "पैठा है घर भीतरे, बैठा है सचेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Inside the house, the truth resides, sitting alert. Whatever pace you need, it grants you that wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पैठा है घर भीतरे, बैठा है सचेत।\nजब जैसी गति चाहिए, तब तैसी मति देत।।१५९७।।",
+    "translation": "Inside the house, the truth resides, sitting alert. Whatever pace you need, it grants you that wisdom.",
+    "meaning": "घर के भीतर, सत्य निवास करता है, सतर्क बैठा है। जिस गति की आपको आवश्यकता है, वही ज्ञान वह देता है।",
+    "explanation": "कबीर इस दोहे में आंतरिक सत्य और ज्ञान की बात करते हैं। उन्होंने कहा कि सत्य घर के भीतर, यानी आत्मा के अंदर निवास करता है और जो भी गति या दिशा आप चाहते हैं, वह आपको वही प्रदान करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.213Z"
+  }
+}

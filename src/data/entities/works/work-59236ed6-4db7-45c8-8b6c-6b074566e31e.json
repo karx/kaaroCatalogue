@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-59236ed6-4db7-45c8-8b6c-6b074566e31e",
+  "name": "कबीर सार शब्‍द निज जानि के, जिन कीन्‍ही परतीति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, those who realize the essence of the word and have faith, leave the crow's mentality and become swans, crossing the ocean of life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सार शब्‍द निज जानि के, जिन कीन्‍ही परतीति।\nकाग कुमत तजि हंस ह्वै, चले सु भौजल जीति।।१०२३।।",
+    "translation": "Kabir says, those who realize the essence of the word and have faith, leave the crow's mentality and become swans, crossing the ocean of life.",
+    "meaning": "कबीर कहते हैं, जिन्होंने सार शब्द को जान लिया और उस पर विश्वास किया, वे कौवे की मानसिकता छोड़कर हंस बन जाते हैं और जीवन के सागर को पार कर जाते हैं।",
+    "explanation": "इस दोहे में कबीर समझाते हैं कि जो व्यक्ति सार शब्द को पहचान कर उस पर विश्वास करता है, वह अपनी नकारात्मक मानसिकता (काग) छोड़कर हंस (सकारात्मकता) की तरह जीवन के कठिनाइयों को पार कर जाता है। यह सच्चे ज्ञान और विश्वास के माध्यम से ही संभव होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.162Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-da721379-83de-4c37-a27c-1ca612054d53",
+  "name": "भर्म भरा तिहुँ लोक में, भर्म बसे सब ठाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The three worlds are filled with illusion; illusion resides everywhere. Kabir asks, how can one escape when illusion is everywhere?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भर्म भरा तिहुँ लोक में, भर्म बसे सब ठाम।\nकहहिं कबीर कैसे बाचिहौ, जब बसे भर्म के ग्राम।।१६२७।।",
+    "translation": "The three worlds are filled with illusion; illusion resides everywhere. Kabir asks, how can one escape when illusion is everywhere?",
+    "meaning": "तीनों लोक भ्रम से भरे हुए हैं; भ्रम हर जगह बसा हुआ है। कबीर पूछते हैं, जब भ्रम हर जगह है, तो कोई कैसे बच सकता है?",
+    "explanation": "कबीर इस दोहे में भ्रम और वास्तविकता की समस्या को दर्शाते हैं। उन्होंने कहा कि जब सभी जगह भ्रम ही भ्रम है, तब उस भ्रम से मुक्त होना मुश्किल है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.507Z"
+  }
+}

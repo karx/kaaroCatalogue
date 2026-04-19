@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a7bfa20a-c346-4516-8fa7-66822a101ce2",
+  "name": "संसारी समय विचारी, कोई गिरही कोई जोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Contemplating worldly time, some are householders and some are yogis. Opportunities are lost, so be cautious, O ignorant ones.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संसारी समय विचारी, कोई गिरही कोई जोग।\nअवसर मारे जात है, ते चेतु बिराने लोग।१६८३।।",
+    "translation": "Contemplating worldly time, some are householders and some are yogis. Opportunities are lost, so be cautious, O ignorant ones.",
+    "meaning": "संसार के समय पर विचार करते हुए, कुछ गृहस्थ हैं और कुछ योगी। अवसर खो जाते हैं, इसलिए सावधान रहो, हे अज्ञानी लोग।",
+    "explanation": "कबीर इस दोहे में संसार के समय और अवसरों की बात करते हैं। उन्होंने कहा कि जीवन में अवसर खो जाते हैं, इसलिए ध्यान रखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.790Z"
+  }
+}

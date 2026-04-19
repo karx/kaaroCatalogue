@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-404318b6-f43c-4efb-a6d7-3f4da486929c",
+  "name": "ऊंचा महल चुनाइया, सुबरन कली ढुलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A tall palace was built, golden buds were laid. But these temples remain empty, while the soul wanders to the graveyard.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचा महल चुनाइया, सुबरन कली ढुलाय।\nवे मन्दिर खाली पड़े, रहै मसाना जाय।।८५७।।",
+    "translation": "A tall palace was built, golden buds were laid. But these temples remain empty, while the soul wanders to the graveyard.",
+    "meaning": "ऊंचे महल बनाए गए, सुबर्ण कलश लगाए गए। लेकिन वे मंदिर खाली पड़े हैं, आत्मा श्मशान की ओर जाती है।",
+    "explanation": "इस दोहे में कबीर ने उस घमंड और दिखावे पर प्रहार किया है जिसमें लोग बड़े-बड़े महल और मंदिर बनाते हैं लेकिन उनका वास्तविक उपयोग नहीं होता। कबीर समझाते हैं कि ये सब बाहरी दिखावे हैं, जबकि अंत में हमारी आत्मा को श्मशान में जाना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.349Z"
+  }
+}

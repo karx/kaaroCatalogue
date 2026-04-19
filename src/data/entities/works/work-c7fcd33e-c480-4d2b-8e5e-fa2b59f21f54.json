@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c7fcd33e-c480-4d2b-8e5e-fa2b59f21f54",
+  "name": "पूजा सेवा नेम व्रत, गुड़ि‍यन का सा खेल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Worship, rituals, and fasts are like the play of dolls, until you experience the touch of the Beloved, doubt remains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पूजा सेवा नेम व्रत, गुड़ि‍यन का सा खेल।\nजब लग पिव परसै नहीं, तब लग संसै मेल।।१३५७।।",
+    "translation": "Worship, rituals, and fasts are like the play of dolls, until you experience the touch of the Beloved, doubt remains.",
+    "meaning": "पूजा, सेवा, नियम और व्रत गुड़ियों के खेल के समान हैं, जब तक कि आपको प्रियतम (ईश्वर) का स्पर्श नहीं होता, तब तक संदेह बना रहता है।",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि पूजा-पाठ, व्रत और सेवा तब तक केवल बाहरी क्रियाएँ हैं जब तक कि व्यक्ति को ईश्वर की सच्ची अनुभूति नहीं होती। जब तक भक्त को अपने आराध्य का साक्षात्कार या अनुभव नहीं होता, तब तक इन सबका कोई वास्तविक महत्व नहीं है और केवल संदेह और भ्रम ही बना रहता है। ये क्रियाएँ तभी सार्थक होती हैं जब उनके पीछे सच्चा भाव और अनुभव हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.083Z"
+  }
+}

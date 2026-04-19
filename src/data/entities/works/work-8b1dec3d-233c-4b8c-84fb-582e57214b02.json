@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8b1dec3d-233c-4b8c-84fb-582e57214b02",
+  "name": "करे बुराई सुख चहै, कैसे पावै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one engages in wrongdoing and desires happiness, how can one attain it? Planting a babool tree, how can one expect mangoes?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करे बुराई सुख चहै, कैसे पावै कोय।\nरोपै पेड़ बबूल का, आम कहां ते होय।।१३४७।।",
+    "translation": "If one engages in wrongdoing and desires happiness, how can one attain it? Planting a babool tree, how can one expect mangoes?",
+    "meaning": "यदि कोई बुराई करता है और सुख की चाह करता है, तो वह कैसे प्राप्त होगा? बबूल के पेड़ को रोपने से आम कैसे मिल सकते हैं?",
+    "explanation": "कबीर जी के अनुसार, जो व्यक्ति गलत काम करता है, वह सुख कैसे प्राप्त कर सकता है? जैसे बबूल के पेड़ से आम नहीं मिल सकते, वैसे ही बुराई से सुख नहीं मिल सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.817Z"
+  }
+}

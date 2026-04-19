@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-18313677-d138-4d81-8ecb-b9dc8594a9d2",
+  "name": "नर नारी सब नरक है, जब लग देह सकाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Both men and women are in hell as long as they desire bodily pleasures. Kabir says that those who remember Ram with selflessness are free from this hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नर नारी सब नरक है, जब लग देह सकाम।\nकहै कबीर ते राम के, जे सुमिरै निहकाम।।२०४३।।",
+    "translation": "Both men and women are in hell as long as they desire bodily pleasures. Kabir says that those who remember Ram with selflessness are free from this hell.",
+    "meaning": "जब तक पुरुष और महिलाएं शारीरिक सुखों की इच्छा रखते हैं, वे नरक में हैं। कबीर कहते हैं कि जो लोग राम को निःस्वार्थ भाव से स्मरण करते हैं, वे इस नरक से मुक्त हो जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने यह बताया है कि जब तक लोग शारीरिक सुखों की इच्छा में रहते हैं, वे नरक में हैं। लेकिन जो लोग राम की निःस्वार्थ भक्ति करते हैं, वे इस नरक से मुक्त हो जाते हैं। यह भौतिक सुखों और आत्मिक मुक्ति के बीच के अंतर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.812Z"
+  }
+}

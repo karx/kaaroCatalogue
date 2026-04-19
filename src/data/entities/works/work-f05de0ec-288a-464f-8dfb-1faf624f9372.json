@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f05de0ec-288a-464f-8dfb-1faf624f9372",
+  "name": "अंषड‍ियां प्रेम कसाइयां, लोग जांणे दुखड़‍ियां",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The pure love of a lover is known to be painful; people recognize this suffering. But Sai, for His own reasons, causes me to cry endlessly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंषड‍ियां प्रेम कसाइयां, लोग जांणे दुखड़‍ियां।\nसांई अपणैं कारणैं, रोइ रोइ रतड़‍ियां।।१७६०।।",
+    "translation": "The pure love of a lover is known to be painful; people recognize this suffering. But Sai, for His own reasons, causes me to cry endlessly.",
+    "meaning": "प्रेमिका का सच्चा प्रेम दर्दनाक होता है; लोग इस दुख को पहचानते हैं। लेकिन साईं, अपनी वजह से, मुझे अनंत रूप से रोते रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने प्रेम और दुख के संबंध को उजागर किया है। सच्चे प्रेम का दर्द लोगों के लिए स्पष्ट होता है, लेकिन कबीर की नजर में साईं अपने कारणों से उसे अनंत दुख का अनुभव कराते हैं। यह भावनात्मक अवस्था कबीर की गहरी भक्ति और व्यक्तिगत संघर्ष को दर्शाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.346Z"
+  }
+}

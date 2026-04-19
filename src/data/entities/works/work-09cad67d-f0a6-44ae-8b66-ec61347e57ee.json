@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-09cad67d-f0a6-44ae-8b66-ec61347e57ee",
+  "name": "सतगुरु सांचा शूरमा, नख शिख मारा पूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true Guru is a real hero, whose entire being is filled with strength. While there may be no visible wounds, internally they are shattered.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु सांचा शूरमा, नख शिख मारा पूर।\nबाहिर घाव न दीखई, अन्‍तर चकनाचूर।।५०७।।",
+    "translation": "The true Guru is a real hero, whose entire being is filled with strength. While there may be no visible wounds, internally they are shattered.",
+    "meaning": "सतगुरु एक सच्चे योद्धा होते हैं, जिनका पूरा अस्तित्व शक्ति से भरा होता है। बाहरी तौर पर घाव न दिखें, पर आंतरिक रूप से वे टूटा हुआ महसूस कर सकते हैं।",
+    "explanation": "कबीर इस दोहे में सतगुरु के भीतर की शक्ति और उनकी संघर्ष की वास्तविकता को उजागर करते हैं। सतगुरु बाहरी दुनिया के लिए भले ही स्थिर और मजबूत दिखते हों, लेकिन आंतरिक रूप से उनकी चुनौतियाँ और संघर्ष हो सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

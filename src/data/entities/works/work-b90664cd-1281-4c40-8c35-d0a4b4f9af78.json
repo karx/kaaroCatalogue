@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b90664cd-1281-4c40-8c35-d0a4b4f9af78",
+  "name": "हरि-रस पीया जाणिये, जे कबहुँ न जाइ खुमार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who drinks the nectar of Hari never experiences intoxication. The ego continues to roam, while the body remains worthless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि-रस पीया जाणिये, जे कबहुँ न जाइ खुमार।\nमैमता घूमत रहै, नाहि तन की सार।।१७१।।",
+    "translation": "One who drinks the nectar of Hari never experiences intoxication. The ego continues to roam, while the body remains worthless.",
+    "meaning": "जो हरि के अमृत को पीता है, उसे कभी भी नशा नहीं होता। अहंकार घूमता रहता है, जबकि शरीर का कोई मूल्य नहीं रहता।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो व्यक्ति भगवान के दिव्य प्रेम का अनुभव करता है, वह कभी भी भौतिक नशे की अनुभूति नहीं करता। अहंकार और शरीर की यथार्थ स्थिति को स्वीकार कर लेने के बाद ही व्यक्ति का वास्तविक आध्यात्मिक अनुभव होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

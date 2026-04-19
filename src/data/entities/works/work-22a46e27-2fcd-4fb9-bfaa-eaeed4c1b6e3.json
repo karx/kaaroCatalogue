@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-22a46e27-2fcd-4fb9-bfaa-eaeed4c1b6e3",
+  "name": "राम जपत कुष्‍टी भला, चुइ चुइ पैर जु चाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chanting Ram is good even if it is done while wearing a thread. What use is a golden body if it does not speak of Ram?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम जपत कुष्‍टी भला, चुइ चुइ पैर जु चाम।\nकंचन देह किस काम की, जो मुख नाहिं राम।।७७५।।",
+    "translation": "Chanting Ram is good even if it is done while wearing a thread. What use is a golden body if it does not speak of Ram?",
+    "meaning": "राम का जप करना अच्छा है, चाहे वह धागा पहनकर किया जाए। सोने के शरीर का क्या उपयोग है, अगर वह राम का नाम नहीं लेता।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि भगवान राम का जप करना महत्वपूर्ण है, चाहे वह किसी भी प्रकार की बाहरी स्थिति में किया जाए। सोने का शरीर कोई मूल्य नहीं रखता अगर उसमें राम का स्मरण और भक्ति नहीं है। यह भक्ति और ध्यान की सच्ची भावना को महत्व देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

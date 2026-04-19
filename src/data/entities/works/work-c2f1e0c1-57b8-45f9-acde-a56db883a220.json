@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c2f1e0c1-57b8-45f9-acde-a56db883a220",
+  "name": "चंदन रोया रात भरि, मेरा हित्त न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chandan cried all night, but no one cared. The one who kept it in their stomach, then became an enemy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंदन रोया रात भरि, मेरा हित्त न कोय।\nजिसने राख्‍यो पेट में, सो फिर बैरी होय।।२१५२।।",
+    "translation": "Chandan cried all night, but no one cared. The one who kept it in their stomach, then became an enemy.",
+    "meaning": "चंदन रात भर रोया, लेकिन किसी ने परवाह नहीं की। जिसने उसे अपने पेट में रखा, वही बाद में दुश्मन बन गया।",
+    "explanation": "इस दोहे में कबीर ने चंदन की पीड़ा के माध्यम से एक महत्वपूर्ण सन्देश दिया है। चंदन का रात भर रोना और उसकी उपेक्षा करना दर्शाता है कि अच्छे गुण और मूल्यवान वस्तुएँ अक्सर लोगों द्वारा नजरअंदाज की जाती हैं। जब किसी ने चंदन को अपने पेट में रखा, तो उसने उसे दुश्मन बना दिया। यह दोहा हमें दिखाता है कि सही मूल्य और गुण की सराहना और संरक्षण महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.720Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ffca1ec4-9a2f-43f3-9baa-dc65c2423d5b",
+  "name": "मिसरी बिखरी रेत में, हस्‍ती चुनी न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as it is impossible to find sugar scattered in the sand, one must become a worm to search thoroughly and find the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मिसरी बिखरी रेत में, हस्‍ती चुनी न जाय।\nकीड़ी ह्वै करि सब चुनै, तब साहिब कूं पाय।।१४०७।।",
+    "translation": "Just as it is impossible to find sugar scattered in the sand, one must become a worm to search thoroughly and find the Lord.",
+    "meaning": "जैसे रेत में बिखरी मिसरी को ढूंढना असंभव होता है, वैसे ही भगवान को खोजने के लिए हमें पूरी तरह से समर्पित होना पड़ता है।",
+    "explanation": "कबीर इस दोहे में भगवान की खोज की कठिनाई को संकेतिक रूप से व्यक्त करते हैं। जैसे रेत में बिखरी मिसरी को खोजना बहुत कठिन है, वैसे ही भगवान को सच्चे दिल से खोजने के लिए पूरी तरह से समर्पित होना पड़ता है। यह दोहा हमें भगवान की खोज में अपनी पूरी लगन और मेहनत को समर्पित करने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.358Z"
+  }
+}

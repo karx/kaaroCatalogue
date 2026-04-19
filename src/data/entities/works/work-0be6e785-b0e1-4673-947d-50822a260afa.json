@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0be6e785-b0e1-4673-947d-50822a260afa",
+  "name": "अंदेसड़ा न भाजिसी, संदेसो कहियां",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The message does not come to you, where is the message? Some say Hari has gone away, while others say Hari is already here.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंदेसड़ा न भाजिसी, संदेसो कहियां।\nकै हरि आयां भाजिसी, कै हरि ही पासि गयां।।१७४४।।",
+    "translation": "The message does not come to you, where is the message? Some say Hari has gone away, while others say Hari is already here.",
+    "meaning": "संदेश तुम्हारे पास नहीं आता, संदेश कहाँ है? कुछ कहते हैं हरि चला गया है, जबकि अन्य कहते हैं हरि यहाँ पहले से ही है।",
+    "explanation": "कबीर इस दोहे में दिव्य उपस्थिति और अनुपस्थिति की बात करते हैं। उन्होंने कहा कि संदेश की वास्तविकता में भिन्नता हो सकती है, लेकिन हरि की उपस्थिति निश्चित है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.078Z"
+  }
+}

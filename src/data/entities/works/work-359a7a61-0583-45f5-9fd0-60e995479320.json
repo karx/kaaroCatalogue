@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-359a7a61-0583-45f5-9fd0-60e995479320",
+  "name": "मरुं मरुं सब कोइ कहै, मेरी मरै बलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone says 'I am dying, my death is inevitable.' If I had to die, I have already died; now who will die?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मरुं मरुं सब कोइ कहै, मेरी मरै बलाय।\nमरना था सो मरि चुका, अब को मरने जाय।।८५०।।",
+    "translation": "Everyone says 'I am dying, my death is inevitable.' If I had to die, I have already died; now who will die?",
+    "meaning": "सभी कहते हैं 'मैं मर रहा हूँ, मेरी मृत्यु अनिवार्य है।' अगर मुझे मरना था, तो मैं पहले ही मर चुका हूँ; अब कौन मरेगा?",
+    "explanation": "इस दोहे में कबीर ने मृत्यु के बारे में अपनी अनूठी दृष्टि को व्यक्त किया है। उन्होंने कहा है कि मृत्यु अनिवार्य है, और अगर किसी को मरना था, तो वह पहले ही मर चुका है। यह दोहा मृत्यु के स्वभाव और हमारे दृष्टिकोण को समझने की बात करता है, जो हमें मृत्यु के डर को पार करने में मदद कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.083Z"
+  }
+}

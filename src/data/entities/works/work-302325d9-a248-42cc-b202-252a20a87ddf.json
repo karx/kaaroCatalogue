@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-302325d9-a248-42cc-b202-252a20a87ddf",
+  "name": "gulon mein rang bhare baad-e-nau-bahaar chale",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/gulon-men-rang-bhare-baad-e-nau-bahaar-chale-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.202Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/gulon-men-rang-bhare-baad-e-nau-bahaar-chale-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nguloñ meñ rang bhare bād-e-nau-bahār chale\nchale bhī aao ki gulshan kā kārobār chale\nqafas udaas hai yaaro sabā se kuchh to kaho\nkahīñ to bahr-e-ḳhudā aaj zikr-e-yār chale\nkabhī to sub.h tire kunj-e-lab se ho āġhāz\nkabhī to shab sar-e-kākul se mushk-bār chale\nbaḌā hai dard kā rishta ye dil ġharīb sahī\ntumhāre naam pe ā.eñge ġham-gusār chale\njo ham pe guzrī so guzrī magar shab-e-hijrāñ\nhamāre ashk tirī āqibat sañvār chale\nhuzūr-e-yār huī daftar-e-junūñ kī talab\ngirah meñ le ke garebāñ kā taar taar chale\nmaqām 'faiz' koī raah meñ jachā hī nahīñ\njo kū-e-yār se nikle to sū-e-dār chale\ngulon mein rang bhare baad-e-nau-bahaar chale\nchale bhi aao ki gulshan ka karobar chale\nqafas udas hai yaro saba se kuchh to kaho\nkahin to bahr-e-KHuda aaj zikr-e-yar chale\nkabhi to subh tere kunj-e-lab se ho aaghaz\nkabhi to shab sar-e-kakul se mushk-bar chale\nbaDa hai dard ka rishta ye dil gharib sahi\ntumhaare nam pe aaenge gham-gusar chale\njo hum pe guzri so guzri magar shab-e-hijran\nhamare ashk teri aaqibat sanwar chale\nhuzur-e-yar hui daftar-e-junun ki talab\ngirah mein le ke gareban ka tar tar chale\nmaqam 'faiz' koi rah mein jacha hi nahin\njo ku-e-yar se nikle to su-e-dar chale",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nگلوں میں رنگ بھرے باد نوبہار چلے\nچلے بھی آؤ کہ گلشن کا کاروبار چلے\nقفس اداس ہے یارو صبا سے کچھ تو کہو\nکہیں تو بہر خدا آج ذکر یار چلے\nکبھی تو صبح ترے کنج لب سے ہو آغاز\nکبھی تو شب سر کاکل سے مشکبار چلے\nبڑا ہے درد کا رشتہ یہ دل غریب سہی\nتمہارے نام پہ آئیں گے غم گسار چلے\nجو ہم پہ گزری سو گزری مگر شب ہجراں\nہمارے اشک تری عاقبت سنوار چلے\nحضور یار ہوئی دفتر جنوں کی طلب\nگرہ میں لے کے گریباں کا تار تار چلے\nمقام فیضؔ کوئی راہ میں جچا ہی نہیں\nجو کوئے یار سے نکلے تو سوئے دار چلے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nगुलों में रंग भरे बाद-ए-नौ-बहार चले\nचले भी आओ कि गुलशन का कारोबार चले\nक़फ़स उदास है यारो सबा से कुछ तो कहो\nकहीं तो बहर-ए-ख़ुदा आज ज़िक्र-ए-यार चले\nकभी तो सुब्ह तिरे कुंज-ए-लब से हो आग़ाज़\nकभी तो शब सर-ए-काकुल से मुश्क-बार चले\nबड़ा है दर्द का रिश्ता ये दिल ग़रीब सही\nतुम्हारे नाम पे आएँगे ग़म-गुसार चले\nजो हम पे गुज़री सो गुज़री मगर शब-ए-हिज्राँ\nहमारे अश्क तिरी आक़िबत सँवार चले\nहुज़ूर-ए-यार हुई दफ़्तर-ए-जुनूँ की तलब\nगिरह में ले के गरेबाँ का तार तार चले\nमक़ाम 'फ़ैज़' कोई राह में जचा ही नहीं\nजो कू-ए-यार से निकले तो सू-ए-दार चले",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:32.181Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8cef8f58-4821-4005-b5dd-eea924580225",
+  "name": "सारा सूरा बहु मिलैं, घाइल मिले न कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Many are found with wine, but no one is found with wounds. Only the wounded find the way to Ram's devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सारा सूरा बहु मिलैं, घाइल मिले न कोइ।\nघाइल ही घाइल मिले, तब राम भगति दिढ़ होइ।।१९७३।।",
+    "translation": "Many are found with wine, but no one is found with wounds. Only the wounded find the way to Ram's devotion.",
+    "meaning": "बहुत से लोग शराब के साथ मिलते हैं, लेकिन कोई घायल नहीं मिलता। केवल घायल व्यक्ति ही राम की भक्ति को प्राप्त करता है।",
+    "explanation": "इस दोहे में कबीर ने भौतिक सुख और आत्मिक स्थिति के अंतर को दर्शाया है। शराब या भौतिक आनंद से केवल बाहरी सुख मिल सकता है, लेकिन असली भक्ति और आत्मज्ञान केवल तब ही प्राप्त होता है जब व्यक्ति भीतर से घायल और आत्मसाक्षात्कार के लिए तैयार होता है। यह दोहा आत्मिक दर्द और भक्ति की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.532Z"
+  }
+}

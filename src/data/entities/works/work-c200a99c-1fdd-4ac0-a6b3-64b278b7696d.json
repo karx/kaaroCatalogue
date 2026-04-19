@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c200a99c-1fdd-4ac0-a6b3-64b278b7696d",
+  "name": "सीतलता तब जाणियें, समिता रहै समाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One should recognize coolness when tranquility is maintained. Without the touch of warmth, the words will not reach you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सीतलता तब जाणियें, समिता रहै समाइ।\nपष छाँड़ै निरपष रहै, सबद न देष्या जाइ।।२४७।।",
+    "translation": "One should recognize coolness when tranquility is maintained. Without the touch of warmth, the words will not reach you.",
+    "meaning": "ठंडक तब समझी जाती है, जब शांति बनी रहती है। बिना गर्माहट के, शब्द आपको नहीं मिलेंगे।",
+    "explanation": "इस दोहे में कबीर ठंडक और शांति की स्थिति को समझाने की कोशिश करते हैं। वे कहते हैं कि शांति और ठंडक तभी अनुभव की जाती है जब सब कुछ स्थिर और शांतिपूर्ण हो। अगर गर्मी या तनाव हो, तो सही शब्द और भावनाएं पहुँच नहीं पातीं। यह दोहा आंतरिक शांति और संतुलन के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

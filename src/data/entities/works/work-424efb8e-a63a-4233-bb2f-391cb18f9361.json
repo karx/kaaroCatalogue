@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-424efb8e-a63a-4233-bb2f-391cb18f9361",
+  "name": "अस औरसर नहिं पाइहो, धरो राम कड़‍िहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no other way to cross, hold onto the Ram's name firmly. When you cross the ocean of worldly life, not even a moment will be wasted.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अस औरसर नहिं पाइहो, धरो राम कड़‍िहार।\nभौ सागर तरि जाव जब, पलक न लागे बार।।७८९।।",
+    "translation": "There is no other way to cross, hold onto the Ram's name firmly. When you cross the ocean of worldly life, not even a moment will be wasted.",
+    "meaning": "कोई अन्य तरीका नहीं है, राम के नाम को दृढ़ता से पकड़ो। जब आप संसार के सागर को पार करेंगे, तब एक पल भी व्यर्थ नहीं होगा।",
+    "explanation": "इस दोहे में कबीर ने राम के नाम को जीवन की यात्रा में सबसे महत्वपूर्ण उपाय बताया है। उन्होंने कहा है कि संसार के सागर को पार करने के लिए राम का नाम ही सबसे प्रभावी साधन है। जब इस नाम का स्मरण होता है, तो जीवन की यात्रा सरल और सफल होती है, बिना किसी समय की बर्बादी के।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3182f00c-ef5e-4eac-a599-e9b21d8148e8",
+  "name": "कबीर गुर बसै बनारसी, सिष समंदां तीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, 'The guru resides in Varanasi, and the disciple by the ocean's shore. The virtues of the guru never fade from the disciple's body.'",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर गुर बसै बनारसी, सिष समंदां तीर।\nबिसारया नहीं बीसरै, जै गुंण होई सरीर।।२२६७।।",
+    "translation": "Kabir says, 'The guru resides in Varanasi, and the disciple by the ocean's shore. The virtues of the guru never fade from the disciple's body.'",
+    "meaning": "कबीर कहते हैं, 'गुरु बनारस में रहते हैं, और शिष्य समुद्र के किनारे। गुरु के गुण शिष्य के शरीर से कभी नहीं मिटते।'",
+    "explanation": "इस दोहे में कबीर जी गुरु-शिष्य के संबंधों की महत्ता बताते हैं। भले ही गुरु और शिष्य भौतिक रूप से दूर हों, लेकिन गुरु के गुण और सिखावन शिष्य के मन-मस्तिष्क में स्थायी रूप से बने रहते हैं। यह दोहा गुरु के प्रति अटूट श्रद्धा और उनके दिए गए ज्ञान की महिमा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.349Z"
+  }
+}

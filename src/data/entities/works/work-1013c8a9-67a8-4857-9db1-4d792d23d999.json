@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1013c8a9-67a8-4857-9db1-4d792d23d999",
+  "name": "निबैंरी निहकामता, स्वामी सेती नेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Renunciation and selflessness, affection towards the Lord. Worldly desires remain separate, this is the belief of the saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निबैंरी निहकामता, स्वामी सेती नेह।\nविषया सो न्यारा रहे, साधुन का मत येह।।३४२।।",
+    "translation": "Renunciation and selflessness, affection towards the Lord. Worldly desires remain separate, this is the belief of the saint.",
+    "meaning": "निवृत्ति और आत्मlessness, स्वामी के प्रति प्रेम। सांसारिक इच्छाएँ अलग रहती हैं, यही साधुओं का मत है।।",
+    "explanation": "इस दोहे में कबीरदास ने साधु के जीवन के महत्वपूर्ण गुणों का वर्णन किया है। साधु की निश्कामता और स्वामी के प्रति प्रेम होता है, और सांसारिक इच्छाओं से वह अलग रहता है। यह दोहा साधु के जीवन में आत्मनिवेदन और परमात्मा के प्रति भक्ति की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

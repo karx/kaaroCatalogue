@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9e6b2727-7687-4452-a930-03a537d5865f",
+  "name": "कबीर माया मोहिनी, सब जग छाला छानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is enchanting and has deceived the whole world. Only a few saints have managed to break free from its clutches, rescuing their lineage.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया मोहिनी, सब जग छाला छानि।\nकोइ एक साधु ऊबरा, तोडी कुल की कानि।।११९८।।",
+    "translation": "Kabir says, illusion is enchanting and has deceived the whole world. Only a few saints have managed to break free from its clutches, rescuing their lineage.",
+    "meaning": "कबीर कहते हैं, माया मोहिनी है और पूरे जगत को धोखा देती है। केवल कुछ संत ही इसके प्रभाव से मुक्त हो पाते हैं और अपने कुल को बचाते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया के व्यापक प्रभाव और उसके धोखाधड़ी के गुणों को बताया है। माया ने पूरे जगत को धोखा दिया है, लेकिन कुछ संत ही इसके प्रभाव से बच पाते हैं और अपने कुल को मुक्त कर पाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.976Z"
+  }
+}

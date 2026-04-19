@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-93510836-be54-4346-a2a2-0c6c4601f45e",
+  "name": "साकट मन का जेवरा, भजै सो करराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wicked person’s mind is like iron, and their words are harsh. If they cannot utter even two words of the Guru’s teachings, they will suffer in the cycle of birth and death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साकट मन का जेवरा, भजै सो करराय।\nदो अच्छर गुरु बहिरा, बाधा जमपुर जाय।।३०३।।",
+    "translation": "The wicked person’s mind is like iron, and their words are harsh. If they cannot utter even two words of the Guru’s teachings, they will suffer in the cycle of birth and death.",
+    "meaning": "साकट व्यक्ति का मन लोहे जैसा होता है, और उनके शब्द कठोर होते हैं। यदि वे गुरु के दो शब्द भी नहीं बोल सकते, तो उन्हें जन्म और मरण के चक्र में कष्ट झेलना पड़ेगा।",
+    "explanation": "कबीर इस दोहे में गुरु के वचनों का महत्व बताते हैं। वे कहते हैं कि साकट व्यक्ति का मन कठोर और निष्ठुर होता है। यदि वे गुरु के उपदेश को समझने में असमर्थ हैं, तो वे संसार के दुखों से मुक्त नहीं हो सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

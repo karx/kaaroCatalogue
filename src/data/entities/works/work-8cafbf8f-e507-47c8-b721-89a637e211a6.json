@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8cafbf8f-e507-47c8-b721-89a637e211a6",
+  "name": "पानी मिलै न आप को, औरन बकसत छीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You do not get water, but others are given milk. Your own mind remains unsettled, while you remain steadfast in holding others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पानी मिलै न आप को, औरन बकसत छीर।\nआपन मन निहचल नहीं, और बंधावत धीर।।१३१४।।",
+    "translation": "You do not get water, but others are given milk. Your own mind remains unsettled, while you remain steadfast in holding others.",
+    "meaning": "आपको पानी भी नहीं मिलता, जबकि दूसरों को दूध मिलता है। आपका अपना मन अशांत रहता है, जबकि आप दूसरों को पकड़कर रखते हैं।",
+    "explanation": "कबीर जी इस दोहे में उन लोगों की स्थिति को दर्शाते हैं जिनके पास स्वयं आवश्यक चीजें नहीं होतीं, लेकिन दूसरों के लिए सब कुछ होता है। उनका अपना मन अशांत रहता है और वे दूसरों को नियंत्रित करने की कोशिश करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.811Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ebf57b92-4c15-4bc0-aa7d-2f3583930eec",
+  "name": "बांकी तेग कबीर की, अनी परै द्वै टूक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The remaining edge of Kabir's sword is sharp and cuts in two. It strikes like a mighty blow, an unerring blade.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बांकी तेग कबीर की, अनी परै द्वै टूक।\nमारे मीर महाबली, ऐसी मूठि अचूक।।२१३८।।",
+    "translation": "The remaining edge of Kabir's sword is sharp and cuts in two. It strikes like a mighty blow, an unerring blade.",
+    "meaning": "कबीर की तलवार की बची हुई धार तेज है और दो हिस्सों में काटती है। यह एक महाशक्ति की तरह प्रहार करती है, एक अचूक blade है।",
+    "explanation": "इस दोहे में कबीर ने अपनी शक्ति और प्रभाव को एक तेज धार वाली तलवार से तुलना की है। उनकी तलवार की धार इतनी तेज है कि यह बिना चूके दो हिस्सों में काटती है। यह दोहा कबीर की अपार शक्ति और उनकी सटीकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.370Z"
+  }
+}

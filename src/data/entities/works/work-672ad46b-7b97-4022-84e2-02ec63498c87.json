@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-672ad46b-7b97-4022-84e2-02ec63498c87",
+  "name": "आपनि आपनि शरी की, सभनि लीनो मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One's own body is taken as important by everyone, but no one understands the deep essence of Hari's words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आपनि आपनि शरी की, सभनि लीनो मान।\nहरि की बात दुरन्‍तरे, परी न काहू जान।।१४५१।।",
+    "translation": "One's own body is taken as important by everyone, but no one understands the deep essence of Hari's words.",
+    "meaning": "हर कोई अपने शरीर को महत्व देता है, लेकिन कोई भी हरि की बातों की गहराई को नहीं समझता।",
+    "explanation": "कबीर इस दोहे में आत्म-ज्ञान और वास्तविकता की बात करते हैं। वे बताते हैं कि लोग अपने शरीर को बहुत महत्व देते हैं, लेकिन हरि की गहरी बातें और सच्चाइयां किसी को समझ में नहीं आतीं। यह दोहा आत्म-ज्ञान और जीवन की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.652Z"
+  }
+}

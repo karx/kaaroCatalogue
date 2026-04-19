@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d854fa25-d300-4c43-be2c-bb7a6bbe6d4a",
+  "name": "दर्शन को तो साधु हैं, सुमिरन को गुरु नाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saints are for spiritual vision, the guru's name is for remembrance. Humility is the means to cross the ocean of life, while pride leads to drowning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दर्शन को तो साधु हैं, सुमिरन को गुरु नाम।\nतरने को आधीनता, डूबन को अभिमान।।१३९९।।",
+    "translation": "The saints are for spiritual vision, the guru's name is for remembrance. Humility is the means to cross the ocean of life, while pride leads to drowning.",
+    "meaning": "साधु दर्शन के लिए हैं, गुरु का नाम स्मरण के लिए। आधीनता (विनम्रता) से जीवन का समुद्र पार होता है, जबकि अभिमान से डूब जाते हैं।",
+    "explanation": "कबीर इस दोहे में साधु और गुरु के महत्व को दर्शाते हैं। साधु का संग आत्मदर्शन के लिए और गुरु का नाम स्मरण के लिए होता है। विनम्रता से ही जीवन के कठिन मार्ग को पार किया जा सकता है, जबकि अभिमान से हम अपने जीवन को संकट में डाल देते हैं। यह दोहा हमें साधु और गुरु की महत्ता के साथ-साथ विनम्रता का महत्व भी समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.092Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-107dcd8d-cdbf-4d5b-a599-eb440eb92bdd",
+  "name": "कबीर माया पापिनी, फंद ले बैठी हाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is sinful and has set up a trap in the marketplace. The whole world is caught in it, and Kabir has escaped.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया पापिनी, फंद ले बैठी हाट।\nसब जग तो फदै पड़ा, गया कबीरा काट।।११६६।।",
+    "translation": "Kabir says, illusion is sinful and has set up a trap in the marketplace. The whole world is caught in it, and Kabir has escaped.",
+    "meaning": "कबीर कहते हैं, माया पापिनी है और उसने बाजार में एक जाल बिछा रखा है। पूरा जगत इसमें फंसा हुआ है, और कबीर इससे बाहर हो गए हैं।",
+    "explanation": "इस दोहे में कबीर ने माया के दुष्प्रभाव और उसके द्वारा बिछाए गए जाल को स्पष्ट किया है। वे बताते हैं कि माया ने बाजार में एक जाल बिछा रखा है, जिसमें पूरी दुनिया फंसी हुई है। लेकिन कबीर स्वयं इस जाल से मुक्त हो गए हैं, और वे इस स्थिति से बाहर निकलने का मार्ग बताते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.970Z"
+  }
+}

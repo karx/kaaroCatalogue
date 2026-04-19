@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ac5e348-f795-46af-990b-821f6fb52881",
+  "name": "सुख देवै दुख को हरै, दूर करै अपराध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He who gives joy, removes sorrow, and eradicates sins, when will we find such a loving saint, as Kabir describes?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुख देवै दुख को हरै, दूर करै अपराध।\nकहैं कबीर वह कब मिलै, परम स्‍नेही साध।।५९७।।",
+    "translation": "He who gives joy, removes sorrow, and eradicates sins, when will we find such a loving saint, as Kabir describes?",
+    "meaning": "जो खुशी देता है, दुख दूर करता है, और अपराधों को मिटाता है, हम ऐसे प्रेमी साधु को कब पाएंगे, जैसे कबीर ने वर्णित किया है?",
+    "explanation": "संत की पहचान उसकी क्षमताओं से होती है जो लोगों को सुख प्रदान करती हैं और उनके दुख और अपराधों को दूर करती हैं। ऐसे संत का मिलना दुर्लभ होता है, और कबीर की बातों में उस संत की तलाश की जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

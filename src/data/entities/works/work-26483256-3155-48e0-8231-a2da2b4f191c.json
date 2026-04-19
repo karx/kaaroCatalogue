@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-26483256-3155-48e0-8231-a2da2b4f191c",
+  "name": "कबीर गुरु है घाट का, हाँटू बैठा चेल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the Guru is like a marketplace, and the disciple is a haggler. He shaves his head in the evening, but the Guru pushes him away in the morning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर गुरु है घाट का, हाँटू बैठा चेल।\nमूड़ मुड़ाया साँझ कूँ, गुरु सबेरे ठेल।।२७९।।",
+    "translation": "Kabir says, the Guru is like a marketplace, and the disciple is a haggler. He shaves his head in the evening, but the Guru pushes him away in the morning.",
+    "meaning": "कबीर कहते हैं, गुरु घाट की तरह है, और शिष्य मोल-भाव करने वाला। वह शाम को अपना सिर मुंडवा लेता है, लेकिन गुरु उसे सुबह ही दूर कर देता है।",
+    "explanation": "इस दोहे में कबीर एक ऐसे शिष्य का वर्णन करते हैं जो गुरु के साथ भी सौदेबाजी करता है। वह आडंबर और दिखावे में फंस जाता है और अपनी भक्ति को सच्चे दिल से नहीं निभाता। ऐसे शिष्य को गुरु भी अंत में अस्वीकार कर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

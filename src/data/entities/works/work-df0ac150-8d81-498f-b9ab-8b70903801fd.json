@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-df0ac150-8d81-498f-b9ab-8b70903801fd",
+  "name": "बड़ा तो गए बड़पने, रोम रोम हंकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One may boast of greatness, but without the recognition of the true Guru, they remain a lowly person among the four varnas.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बड़ा तो गए बड़पने, रोम रोम हंकार।\nसद्गुरु के परचे बिना, चारों वर्ण चमार।।१६०८।।",
+    "translation": "One may boast of greatness, but without the recognition of the true Guru, they remain a lowly person among the four varnas.",
+    "meaning": "कोई भी अपनी महानता की बात कर सकता है, लेकिन सच्चे गुरु की पहचान के बिना, वह चार वर्णों में एक नीच व्यक्ति ही रहता है।",
+    "explanation": "कबीर इस दोहे में महानता और विनम्रता के बीच अंतर को उजागर करते हैं। उन्होंने कहा कि व्यक्ति चाहे कितनी भी महानता का दावा करे, यदि उसने सच्चे गुरु को नहीं पहचाना, तो वह चार वर्णों में से एक निम्न व्यक्ति ही रहेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.503Z"
+  }
+}

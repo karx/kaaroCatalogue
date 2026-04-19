@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8a86fcf9-8a96-41ee-9b6e-9a342a43aedb",
+  "name": "रचनहार कूं चीन्हि लै, खौवे कूं कहा रोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Recognize the Creator; why cry over worldly losses? Enter the temple of the heart and realize the truth within.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रचनहार कूं चीन्हि लै, खौवे कूं कहा रोइ।\nदिल मंदिर मैं पैसि करि, तांणि पछेवड़ा सोइ।।१८७१।।",
+    "translation": "Recognize the Creator; why cry over worldly losses? Enter the temple of the heart and realize the truth within.",
+    "meaning": "रचनहार को पहचान ले; संसार के खोने पर क्यों रोना? दिल के मंदिर में प्रवेश कर सच्चाई को जान ले।",
+    "explanation": "इस दोहे में कबीरदास जी संसारिक दुखों और क्षति पर शोक करने के बजाय, सृजनहार यानी ईश्वर को पहचानने की सलाह देते हैं। वे कहते हैं कि जब हम ईश्वर को अपने दिल में पहचान लेते हैं, तो बाहर के दुख या हानि हमें प्रभावित नहीं कर सकते। ईश्वर का साक्षात्कार दिल के मंदिर में ही होता है, और वहां प्रवेश करने पर सभी संसारिक चिंताएं पीछे छूट जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.972Z"
+  }
+}

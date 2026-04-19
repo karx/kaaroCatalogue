@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a2566627-0a3a-40b9-ab2b-1b4e9854be35",
+  "name": "एक कनक अरु कां‍मनी, विष फल कीए उपाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One gold and one woman, both are like poison fruits. Just seeing them can cause harm, consuming them leads to death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक कनक अरु कां‍मनी, विष फल कीए उपाइ।\nदेखै ही थै विष चढ़ै, खांयै सूं मरि जाइ।।२०४६।।",
+    "translation": "One gold and one woman, both are like poison fruits. Just seeing them can cause harm, consuming them leads to death.",
+    "meaning": "एक सोना और एक स्त्री, दोनों विष फल के समान हैं। इन्हें देखते ही विष चढ़ जाता है, और खाने से मृत्यु हो जाती है।",
+    "explanation": "कबीर इस दोहे में समझा रहे हैं कि सोने और स्त्री का आकर्षण बहुत घातक होता है। इन्हें देखकर मन में बुरे विचार उत्पन्न हो सकते हैं और यदि इनकी आसक्ति में पड़कर कोई गलत कार्य करता है तो उसे मृत्यु समान गंभीर परिणाम भुगतने पड़ सकते हैं। इस प्रकार कबीर हमें इन दोनों से दूर रहने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.813Z"
+  }
+}

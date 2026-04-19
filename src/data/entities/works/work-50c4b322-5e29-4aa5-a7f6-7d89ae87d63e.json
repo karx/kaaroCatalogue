@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-50c4b322-5e29-4aa5-a7f6-7d89ae87d63e",
+  "name": "मन मोटा मन पातरा, मन पानी मन लाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is thick, the mind is a vessel, the mind is water and the mind is a vessel. Whatever the mind produces, that is how it becomes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मोटा मन पातरा, मन पानी मन लाय।\nमन के जैसी ऊपजै, तैसी ही ह्वै जाय।।११२९।।",
+    "translation": "The mind is thick, the mind is a vessel, the mind is water and the mind is a vessel. Whatever the mind produces, that is how it becomes.",
+    "meaning": "मन मोटा है, मन पात्र है, मन पानी है और मन पात्र है। मन जैसी चीजें उत्पन्न करता है, वैसी ही बन जाती है।",
+    "explanation": "इस दोहे में कबीर ने मन के विभिन्न गुणों और इसकी उत्पत्ति पर चर्चा की है। उन्होंने कहा है कि मन के अनुसार जो कुछ भी उत्पन्न होता है, वही उसके स्वभाव को निर्धारित करता है। यह मन की अनंत संभावनाओं और उसकी विविधता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.704Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-88d9784e-20d4-4f3d-a348-e6ef74fbf925",
+  "name": "आप स्‍वारथी मेदिनी, भक्ति स्‍वारथी दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You are self-interested earth, devotion is self-interested servant. Kabir's followers are selfless, abandoning attachment to the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आप स्‍वारथी मेदिनी, भक्ति स्‍वारथी दास।\nकबीर जन परमार्थी, डारी तन की आस।।१०९४।।",
+    "translation": "You are self-interested earth, devotion is self-interested servant. Kabir's followers are selfless, abandoning attachment to the body.",
+    "meaning": "तुम स्वार्थी पृथ्वी हो, भक्ति स्वार्थी दास है। कबीर के अनुयायी परमार्थी हैं, जो शरीर की आस छोड़ते हैं।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थी और परमार्थी स्वभाव की तुलना की है। उन्होंने पृथ्वी को स्वार्थी बताया है क्योंकि वह अपने आप में लगी रहती है, और भक्ति को स्वार्थी दास के रूप में चित्रित किया है। कबीर के अनुयायी सच्चे परमार्थी होते हैं, जो शरीर और भौतिक सुखों की आस को छोड़ देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.430Z"
+  }
+}

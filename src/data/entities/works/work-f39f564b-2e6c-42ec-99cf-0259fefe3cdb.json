@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f39f564b-2e6c-42ec-99cf-0259fefe3cdb",
+  "name": "साधु तो हीरा भया, न फूटै घन खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint is like a diamond, which does not break even if struck by a hammer. He neither perishes like a clay pot nor does he come and go.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु तो हीरा भया, न फूटै घन खाय।\nन वह बिनसै कुम्‍भ ज्‍यों, ना वह आवै जाय।।६२२।।",
+    "translation": "A saint is like a diamond, which does not break even if struck by a hammer. He neither perishes like a clay pot nor does he come and go.",
+    "meaning": "संत हीरे की तरह होता है, जो हथौड़े से मारने पर भी नहीं टूटता। वह मिट्टी के बर्तन की तरह नष्ट नहीं होता और न ही आता-जाता है।",
+    "explanation": "संत की स्थिरता और स्थायित्व ही उनकी महानता को दर्शाती है। वह किसी भी कठिनाई से प्रभावित नहीं होते और न ही उनके अस्तित्व में कोई कमी आती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

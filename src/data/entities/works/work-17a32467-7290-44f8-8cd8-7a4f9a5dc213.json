@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-17a32467-7290-44f8-8cd8-7a4f9a5dc213",
+  "name": "सिर साटें हरि सेवेये, छांड़ि जीव की बाणि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Serve Hari with your head bowed, leaving aside the words of the self. If you dedicate yourself to Hari, you will not experience any harm.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सिर साटें हरि सेवेये, छांड़ि जीव की बाणि।\nजे सिर दीया हरि मिलै, तब लगि हाणि न जाणि।।२३५।।",
+    "translation": "Serve Hari with your head bowed, leaving aside the words of the self. If you dedicate yourself to Hari, you will not experience any harm.",
+    "meaning": "सिर झुका कर हरि की सेवा करो, और स्वयं के वाक्यों को छोड़ दो। यदि तुम खुद को हरि को समर्पित कर दो, तो तुम्हें किसी भी हानि का अनुभव नहीं होगा।",
+    "explanation": "कबीर इस दोहे में सच्ची भक्ति की बात करते हैं। वे कहते हैं कि सिर झुका कर भगवान की सेवा करनी चाहिए और अपने अहंकार या व्यक्तिगत विचारों को छोड़ देना चाहिए। जब व्यक्ति पूरी तरह से भगवान के प्रति समर्पित हो जाता है, तो उसे किसी भी प्रकार की हानि का सामना नहीं करना पड़ता। यह भक्ति और समर्पण के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

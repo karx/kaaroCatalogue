@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d09c197a-621a-4ac3-a90f-53f82f44ea7b",
+  "name": "इक मरिवो इक मारिवो, येही विषमा सिद्धि‍",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who dies is praised, and one who kills is also praised; this is the way of the world. Those who are cowards will die, while those who are skilled with weapons will live.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इक मरिवो इक मारिवो, येही विषमा सिद्धि‍।\nता वे कायर मरैंगे, जो चाले तरकस बिद्धि।।२१२५।।",
+    "translation": "One who dies is praised, and one who kills is also praised; this is the way of the world. Those who are cowards will die, while those who are skilled with weapons will live.",
+    "meaning": "एक जो मरता है, उसकी सराहना होती है, और जो मारता है, उसकी भी सराहना होती है; यही दुनिया की चाल है। जो कायर होते हैं, वे मर जाते हैं, जबकि जो शस्त्र के साथ कुशल होते हैं, वे जीवित रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने इस दुनिया की निरर्थकता को स्पष्ट किया है जहाँ केवल शौर्य और शक्ति की सराहना होती है। जो लोग संघर्ष या युद्ध में भाग लेते हैं और शस्त्रों का उपयोग करते हैं, वे सम्मानित होते हैं। कायर और असफल लोग मर जाते हैं, जबकि वे लोग जो सक्षम होते हैं, वे जीवन में बने रहते हैं। यह दोहा संसार के अजीबोगरीब न्याय और मान्यता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.366Z"
+  }
+}

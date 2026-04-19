@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01d519d4-5db0-4f91-9558-63214933f497",
+  "name": "हंस बुगांके पावना, कोइक दिन का फेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan waits at the pond, a turn of a day. The crane, proud and boastful, sits with its feathers spread.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंस बुगांके पावना, कोइक दिन का फेर।\nबगुला कहा गरबिया, बैठा पंख बिखेर।।२१५६।।",
+    "translation": "The swan waits at the pond, a turn of a day. The crane, proud and boastful, sits with its feathers spread.",
+    "meaning": "हंस तालाब पर इंतजार करता है, एक दिन का फेर होता है। बगुला गर्वित ���ोकर बैठा है, पंख फैलाए हुए।",
+    "explanation": "इस दोहे में कबीर ने हंस और बगुला के स्वभाव की तुलना की है। हंस धैर्यपूर्वक अपने स्थान पर बैठा है, जबकि बगुला गर्वित और आत्मसंतुष्ट होकर अपने पंख फैलाए हुए है। यह दोहा धैर्य और गर्व के बीच के अंतर को दिखाता है और हमें यह सिखाता है कि वास्तविक शांति और संतोष धैर्य में निहित होते हैं, गर्व में नहीं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.721Z"
+  }
+}

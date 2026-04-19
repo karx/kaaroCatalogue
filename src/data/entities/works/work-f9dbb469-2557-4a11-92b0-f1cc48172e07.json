@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f9dbb469-2557-4a11-92b0-f1cc48172e07",
+  "name": "ए मरजीवा अमृत पीवा, क्‍यों धसि मरसि पताल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O living dead, you have drunk the nectar of immortality. Why then are you sinking into the underworld? Through the grace of the Guru and the company of saints, you can emerge from this door.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ए मरजीवा अमृत पीवा, क्‍यों धसि मरसि पताल।\nगुरु की दया साधु की संगति, निकरि आव एहि द्वार।।१४६५।।",
+    "translation": "O living dead, you have drunk the nectar of immortality. Why then are you sinking into the underworld? Through the grace of the Guru and the company of saints, you can emerge from this door.",
+    "meaning": "हे मरजीवा, तूने अमृत पी लिया है। फिर तू पाताल में क्यों धंस रहा है? गुरु की कृपा और साधु की संगति से तू इस द्वार से बाहर निकल सकता है।",
+    "explanation": "कबीर इस दोहे में उन लोगों को संबोधित करते हैं जो जीवन का अमृत यानी अध्यात्म का ज्ञान प्राप्त कर चुके हैं, लेकिन फिर भी वे अज्ञानता में डूबे रहते हैं। वह कहते हैं कि अगर आप गुरु की कृपा और साधुओं की संगति में रहेंगे, तो आप इस अज्ञानता से बाहर निकल सकते हैं। यह द्वार केवल साधु-संगति और गुरु की कृपा से ही खुलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.656Z"
+  }
+}

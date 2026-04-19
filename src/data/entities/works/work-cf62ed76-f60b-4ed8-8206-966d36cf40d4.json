@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cf62ed76-f60b-4ed8-8206-966d36cf40d4",
+  "name": "हद चले ते मानवा, बेहद चले सो साधु",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The limited man travels to the extent, the limitless goes beyond. Both limit and beyond are abandoned by the one with deep understanding.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हद चले ते मानवा, बेहद चले सो साधु।\nहद बेहद दोनों तजे, ताकी मती अगाधु।।१७१२।।",
+    "translation": "The limited man travels to the extent, the limitless goes beyond. Both limit and beyond are abandoned by the one with deep understanding.",
+    "meaning": "सीमित आदमी सीमा तक यात्रा करता है, असीमित उससे परे जाता है। गहरी समझ वाला व्यक्ति दोनों सीमाओं और असीमितता को छोड़ देता है।",
+    "explanation": "कबीर इस दोहे में सीमाओं और असीमितता की बात करते हैं। उन्होंने कहा कि सच्ची समझ उन सीमाओं को पार कर जाती है जो हमें पहले दिखती थीं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.070Z"
+  }
+}

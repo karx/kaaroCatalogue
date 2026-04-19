@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eb392365-c6a8-4f7d-909c-d88bd504d380",
+  "name": "भक्ति पदारथ तब मिले, जब गुरु होय सहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The essence of devotion is attained when the guru supports it. Devotion filled with love and affection brings about complete fulfillment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति पदारथ तब मिले, जब गुरु होय सहाय।\nप्रेम प्रीति की भक्ति जो, पूरण भाग मिलाय।।७०७।।",
+    "translation": "The essence of devotion is attained when the guru supports it. Devotion filled with love and affection brings about complete fulfillment.",
+    "meaning": "भक्ति की सार्थकता तब प्राप्त होती है जब गुरु सहायक होता है। प्रेम और प्रीति से भरी भक्ति पूर्णता प्रदान करती है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि सच्ची भक्ति तब मिलती है जब गुरु का सहयोग प्राप्त होता है। प्रेम और प्रीति से भरी भक्ति ही जीवन को पूर्णता प्रदान करती है। यह भक्ति तब ही सार्थक होती है जब गुरु की मदद से यह पाई जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.541Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4500a1b0-de86-477a-8a21-2f37f146b832",
+  "name": "साईं इतना दीजै, जा में कुटुंब समाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O Lord, give me just enough that my family is well-fed and no saint goes hungry from my door.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साईं इतना दीजै, जा में कुटुंब समाय।\nमैं भी भूखा न रहूँ, साधु न भूखा जाय।।४।।",
+    "translation": "O Lord, give me just enough that my family is well-fed and no saint goes hungry from my door.",
+    "meaning": "साईं इतना दीजिए कि जिसमें मेरा परिवार भी समा जाए और कोई साधु भी भूखा न जाए।",
+    "explanation": "यह दोहा संत कबीर की संतोष की भावना को दर्शाता है। वह भगवान से केवल इतनी ही संपत्ति मांगते हैं जिससे उनके परिवार की आवश्यकताएँ पूरी हो सकें और कोई साधु भी भूखा न रहे। यह हमें सिखाता है कि हमें अपनी जरूरतें सीमित रखनी चाहिए और दूसरों के प्रति संवेदनशील होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1c597e27-ec73-4c90-bbce-f8816f455fb0",
+  "name": "साहेब साहेब सब कहें, मोहि अंदेशा ओर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone calls the master 'master,' but I have doubts. There is no recognition from the master; one must find their own place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साहेब साहेब सब कहें, मोहि अंदेशा ओर।\nसाहेब से परचा नहीं, बैठहुगे कहि ठौर।।१७००।।",
+    "translation": "Everyone calls the master 'master,' but I have doubts. There is no recognition from the master; one must find their own place.",
+    "meaning": "हर कोई मालिक को 'मालिक' कहता है, लेकिन मुझे शक है। मालिक से पहचान नहीं होती; एक को अपना स्थान खुद ढूंढना होता है।",
+    "explanation": "कबीर इस दोहे में अधिकार और सत्य की बात करते हैं। उन्होंने कहा कि दूसरों की पहचान और सम्मान के बावजूद, आपको खुद अपना स्थान ढूंढना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.793Z"
+  }
+}

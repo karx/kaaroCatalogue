@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c1ac6338-91dd-4e4a-a1f8-a7eded46e5dc",
+  "name": "अपने-अपने साख की, सब ही लीनी जान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone has their own reputation; all are aware of it. The words of the Divine are profound; I cannot fully describe them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपने-अपने साख की, सब ही लीनी जान।\nहरि की बात दुरंतरा, पूरी न कहूँ पहचान।।९२।।",
+    "translation": "Everyone has their own reputation; all are aware of it. The words of the Divine are profound; I cannot fully describe them.",
+    "meaning": "हर कोई अपनी-अपनी पहचान जानता है; सब इसको जानते हैं। भगवान की बातें गहरी होती हैं; मैं उन्हें पूरी तरह से व्यक्त नहीं कर सकता।",
+    "explanation": "इस दोहे में कबीर यह व्यक्त करते हैं कि लोगों की अपनी-अपनी पहचान होती है और वे इसे जानते हैं। हालांकि, भगवान की बातें और उनके रहस्यमय गुण अत्यंत गहरे होते हैं और उन्हें पूरी तरह से व्यक्त या समझाया नहीं जा सकता। यह दर्शाता है कि दिव्यता और उसके गुणों की पूर्ण समझ और व्याख्या मानव के सामर्थ्य से परे होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9c254dae-caad-47f3-9059-a35cbb55ea2c",
+  "name": "या दुनिया में आय के, छांडि देय तू ऐंठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Having come into this world, abandon your arrogance. Take what you need, as the market is about to close.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "या दुनिया में आय के, छांडि देय तू ऐंठ।\nलेना है सो लेय ले, उठी जात है पैंठ।।९६१।।",
+    "translation": "Having come into this world, abandon your arrogance. Take what you need, as the market is about to close.",
+    "meaning": "इस दुनिया में आकर, अपने घमंड को छोड़ दो। जो लेना है वो ले लो, क्योंकि बाजार बंद होने वाला है।",
+    "explanation": "इस दोहे में कबीर दास जी जीवन के अस्थायित्व को उजागर कर रहे हैं। वह बताते हैं कि इस दुनिया में आकर हमें अपने अहंकार को छोड़ देना चाहिए। जो कुछ भी आवश्यक है, उसे ले लेना चाहिए, क्योंकि जीवन का बाजार जल्दी ही बंद होने वाला है। यहां 'बाजार' से तात्पर्य जीवन से है, जो क्षणभंगुर है और इसे व्यर्थ नहीं गँवाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.891Z"
+  }
+}

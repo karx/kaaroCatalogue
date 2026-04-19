@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b57954b9-db29-458e-b687-22b7f8b47356",
+  "name": "जीवत मिरतक होय रहै, तजै खलक की आस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Living as though dead, renouncing worldly desires, and trusting the true Guru as protector, the servant never suffers.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जीवत मिरतक होय रहै, तजै खलक की आस।\nरच्‍छक समरथ सद्गुरु, मति दुख पावै दास।।१०३२।।",
+    "translation": "Living as though dead, renouncing worldly desires, and trusting the true Guru as protector, the servant never suffers.",
+    "meaning": "जीवित रहते हुए भी मृतक के समान रहना, लोक-लाज और आसक्ति का त्याग करना, और सच्चे गुरु को रक्षक मानना, ऐसा दास कभी दुख नहीं पाता।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि जो व्यक्ति जीते-जी अपनी इच्छाओं और आसक्तियों को त्यागकर संसार से निर्लिप्त हो जाता है और सच्चे गुरु को अपना रक्षक मानता है, वह कभी भी दुखों का सामना नहीं करता। इस प्रकार का आत्मसमर्पण और विश्वास ही उसे सच्ची शांति और आनंद की प्राप्ति कराता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.163Z"
+  }
+}

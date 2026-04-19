@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e86cb855-3af5-4970-94b2-b6bafaafe965",
+  "name": "सांस सफल सो जानिये, जो सुमिरन में जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Consider the breath successful if it leads to remembrance. Otherwise, despite all efforts, if the breath goes on as usual, it is not successful.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांस सफल सो जानिये, जो सुमिरन में जाय।\nऔर सांस यौं ही गये, करि बहुत उपाय।।७३७।।",
+    "translation": "Consider the breath successful if it leads to remembrance. Otherwise, despite all efforts, if the breath goes on as usual, it is not successful.",
+    "meaning": "सांस को सफल मानिए यदि वह स्मरण में जाती है। अन्यथा, बहुत सारे उपाय करने के बावजूद यदि सांस सामान्य रूप से चलती रहती है, तो वह सफल नहीं होती।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि सांस तभी सफल मानी जाती है जब वह सुमिरण (ध्यान) में जाती है। यदि सांस के बावजूद किसी भी उपाय के बावजूद यदि सांस सामान्य रूप से चलती रहती है, तो वह सांस सफल नहीं मानी जाती। इसलिए, ध्यान और सुमिरण में सांस का समावेश आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.544Z"
+  }
+}

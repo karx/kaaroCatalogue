@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-683d1f4e-09bc-43fc-8ee3-75607fdbfa9c",
+  "name": "छाजन भोजन प्रीति सो, दीजै साधु बुलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Offer food and affection to the saint who is invited. Life is like a journey, and in the end, one attains the supreme state.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "छाजन भोजन प्रीति सो, दीजै साधु बुलाय।\nजीवन जस है जगन में, अन्त परम पद पाय।।३२२।।",
+    "translation": "Offer food and affection to the saint who is invited. Life is like a journey, and in the end, one attains the supreme state.",
+    "meaning": "साधु को भोजन और प्रेम दें, जो आमंत्रित किया गया हो। जीवन एक यात्रा की तरह है, और अंत में परम पद की प्राप्ति होती है।",
+    "explanation": "कबीर इस दोहे में यह सिखाते हैं कि साधु को उचित सम्मान और भोजन देना चाहिए। जीवन एक यात्रा है, और इस यात्रा के अंत में परम पद की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

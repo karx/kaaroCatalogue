@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2c584c70-2f1a-4c04-a6e3-0c52a4d709de",
+  "name": "विष के बिखहिं घर किये, रहा सर्प लपटाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the house filled with poison, the serpent remains coiled. Hence, the soul remains fearful, wandering the nights.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विष के बिखहिं घर किये, रहा सर्प लपटाय।\nतातें जियरहिं डर भया, जागत रैन विहाय।।१६१५।।",
+    "translation": "In the house filled with poison, the serpent remains coiled. Hence, the soul remains fearful, wandering the nights.",
+    "meaning": "जहर से भरे घर में, सर्प लपेटा रहता है। इसलिए, आत्मा डरती रहती है और रातों में भटकती रहती है।",
+    "explanation": "इस दोहे में कबीर ने भय और वास्तविकता की बात की है। उन्होंने कहा कि जहर से भरे घर में सर्प रहता है, जिससे आत्मा भयभीत रहती है और रातों में भटकती रहती है। यह जीवन के वास्तविक डर और भ्रम को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.504Z"
+  }
+}

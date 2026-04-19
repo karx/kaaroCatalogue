@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d6378bf-30e1-4b34-9bb7-8dff46762687",
+  "name": "मांगण मरण समान है, बिरला बंचै कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Asking is akin to death; few survive this. Kabir asks the Lord to never let him beg.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांगण मरण समान है, बिरला बंचै कोइ।\nकहै कबीर रघुनाथ सूं, मतिर मंगावै मोहि।।१८८२।।",
+    "translation": "Asking is akin to death; few survive this. Kabir asks the Lord to never let him beg.",
+    "meaning": "मांगना मृत्यु के समान है; कुछ ही इससे बच पाते हैं। कबीर भगवान से प्रार्थना करते हैं कि उन्हें कभी मांगने की नौबत न आए।",
+    "explanation": "कबीरदास जी इस दोहे में मांगने की तुलना मृत्यु से करते हैं। उनका मानना है कि किसी से कुछ मांगना आत्मसम्मान को चोट पहुंचाता है, और केवल कुछ ही लोग इस स्थिति से बच पाते हैं। वे भगवान से प्रार्थना करते हैं कि उन्हें ऐसी स्थिति में कभी न डालें जहां उन्हें मांगने की आवश्यकता हो। यह दोहा आत्मनिर्भरता और आत्मसम्मान का महत्व बताता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.975Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5e5fe1ae-41e5-4e90-ad9a-dfa1b82ed1f8",
+  "name": "क्या भरोसा देह का, बिनस जात छिन माँह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the trust in this body? It can perish in a moment. Remember God with every breath, there is no other effort needed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्या भरोसा देह का, बिनस जात छिन माँह।\nसांस-सांस सुमिरन करो, और यतन कुछ नाँह।।१६।।",
+    "translation": "What is the trust in this body? It can perish in a moment. Remember God with every breath, there is no other effort needed.",
+    "meaning": "इस शरीर का क्या भरोसा? यह एक पल में समाप्त हो सकता है। हर सांस के साथ भगवान का स्मरण करो, और कुछ करने की आवश्यकता नहीं है।",
+    "explanation": "इस दोहे में संत कबीर शरीर की नश्वरता को उजागर करते हैं। वह कहते हैं कि शरीर का कोई भरोसा नहीं है, यह पल भर में नष्ट हो सकता है। इसलिए, हमें हर पल भगवान का स्मरण करना चाहिए और किसी और प्रयास की आवश्यकता नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

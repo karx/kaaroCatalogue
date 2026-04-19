@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-84bddaef-9fc7-46a3-985f-4b3a0caba672",
+  "name": "राम भजो तो अब भजो, बहोरि भजोगे कब्‍ब",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Worship Ram now if you will worship; otherwise, you will regret later. The green trees have become firewood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम भजो तो अब भजो, बहोरि भजोगे कब्‍ब।\nहरिया हरिया रुखड़े, ईंधन हो गये सब्‍ब।।८३९।।",
+    "translation": "Worship Ram now if you will worship; otherwise, you will regret later. The green trees have become firewood.",
+    "meaning": "यदि आप राम की पूजा करना चाहते हैं, तो अभी कर लें; अन्यथा, बाद में पछताएंगे। हरे-भरे पेड़ अब ईंधन बन गए हैं।",
+    "explanation": "इस दोहे में कबीर ने समय की महत्वता को दर्शाया है। जो लोग अभी राम की पूजा नहीं करते, वे बाद में पछताएंगे जब उनके पास समय नहीं रहेगा। हरे-भरे पेड़ जब सूखकर ईंधन बन जाते हैं, तब उनकी उपयोगिता समाप्त हो जाती है। इसी तरह, जीवन की मौजूदा अवसरों को गंवाना भविष्य में पछतावे का कारण बन सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.081Z"
+  }
+}

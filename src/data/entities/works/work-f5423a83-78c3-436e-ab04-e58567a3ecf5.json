@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f5423a83-78c3-436e-ab04-e58567a3ecf5",
+  "name": "मरती बिरियां दान दे, जीवन बड़ा कठोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "At the time of death, people give charity, but life has been harsh. Kabir says, why should we praise a thief with a sword?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मरती बिरियां दान दे, जीवन बड़ा कठोर।\nकहैं कबीर क्‍यों पाइये, खांड़ा का व चोर।।१३७५।।",
+    "translation": "At the time of death, people give charity, but life has been harsh. Kabir says, why should we praise a thief with a sword?",
+    "meaning": "मरते समय लोग दान देते हैं, लेकिन जीवन बड़ा कठोर रहा है। कबीर कहते हैं, हम तलवार वाले चोर की प्रशंसा क्यों करें?",
+    "explanation": "कबीर इस दोहे में दिखावे और पाखंड पर प्रहार करते हैं। वे कहते हैं कि लोग जीवन भर कठोर और स्वार्थी रहते हैं, लेकिन मरते समय दान देकर पुण्य कमाने की कोशिश करते हैं। कबीर इसे दिखावा मानते हैं और कहते हैं कि ऐसे लोगों की प्रशंसा करना वैसा ही है जैसे किसी तलवार धारी चोर की तारीफ करना। यह दोहा हमें सिखाता है कि सच्चा पुण्य और दान वही है जो जीवन भर किया जाए, न कि केवल मृत्यु के समय।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.087Z"
+  }
+}

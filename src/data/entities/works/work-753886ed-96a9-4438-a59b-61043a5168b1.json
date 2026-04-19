@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-753886ed-96a9-4438-a59b-61043a5168b1",
+  "name": "गाया तिनि पाया नहीं, अणगांयां ते दूरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who sang without true devotion did not attain anything, and those who did not sing are even further away. But those who sang with deep faith found Lord Ram residing fully within them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गाया तिनि पाया नहीं, अणगांयां ते दूरि।\nजिनि गाया बिसवास सूं, तिन राम रह्या भरिपूरि।।१८८७।।",
+    "translation": "Those who sang without true devotion did not attain anything, and those who did not sing are even further away. But those who sang with deep faith found Lord Ram residing fully within them.",
+    "meaning": "जिन्होंने बिना सच्ची भक्ति के गाया, उन्हें कुछ नहीं मिला, और जिन्होंने नहीं गाया वे और भी दूर हैं। लेकिन जिन्होंने गहरे विश्वास के साथ गाया, उनमें भगवान राम पूर्ण रूप से विराजमान हो गए।",
+    "explanation": "यह दोहा सच्ची श्रद्धा और भक्ति की महत्ता को उजागर करता है। कबीरदास जी कहते हैं कि केवल औपचारिक रूप से भजन या कीर्तन करने से आध्यात्मिक लाभ नहीं मिलता, और जो लोग भक्ति में लीन नहीं होते, वे और भी दूर हो जाते हैं। लेकिन जो लोग गहरे विश्वास और समर्पण के साथ भगवान का नाम जपते हैं, उन्हें ईश्वर की उपस्थिति का अनुभव होता है। यह दोहा बताता है कि भक्ति में गुणवत्ता और निष्ठा का होना अत्यंत आवश्यक है, मात्र कर्मकांड पर्याप्त नहीं हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.976Z"
+  }
+}

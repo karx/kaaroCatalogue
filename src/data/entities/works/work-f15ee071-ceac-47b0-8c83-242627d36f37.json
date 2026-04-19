@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f15ee071-ceac-47b0-8c83-242627d36f37",
+  "name": "Silappadikaram",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-ilango-adigal"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Silappadikaram",
+    "retrievedAt": "2026-01-04T18:39:07.475Z"
+  }
+}

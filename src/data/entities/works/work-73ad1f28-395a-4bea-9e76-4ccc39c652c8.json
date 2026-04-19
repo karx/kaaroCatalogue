@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-73ad1f28-395a-4bea-9e76-4ccc39c652c8",
+  "name": "पाड़ोसी सू रूसणां, तिल तिल सुख को हांणि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Quarreling with neighbors, bit by bit, happiness is lost. Scholars have become hypocrites, drinking only filtered water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाड़ोसी सू रूसणां, तिल तिल सुख को हांणि।\nपंडित भए सरावगी, पांणी पीवें छांणि।।२०७२।।",
+    "translation": "Quarreling with neighbors, bit by bit, happiness is lost. Scholars have become hypocrites, drinking only filtered water.",
+    "meaning": "पड़ोसी से झगड़ा करने पर, धीरे-धीरे सुख का नाश होता है। पंडित ढोंगी बन गए हैं, जो केवल छना हुआ पानी पीते हैं।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि जो लोग अपने पड़ोसियों से झगड़ा करते हैं, वे अपने सुख को धीरे-धीरे खो देते हैं। वहीं दूसरी ओर, पंडित जो धार्मिकता का ढोंग करते हैं, वे केवल छना हुआ पानी पीते हैं, लेकिन उनके मन में सच्चाई नहीं होती। कबीर यहाँ सच्चे जीवन और ढोंग के बीच अंतर को दर्शाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.093Z"
+  }
+}

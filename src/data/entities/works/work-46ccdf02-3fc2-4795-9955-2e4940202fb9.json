@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-46ccdf02-3fc2-4795-9955-2e4940202fb9",
+  "name": "साधु बड़े परमारथी, धन ज्‍यों बरसे आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true saint is dedicated to the welfare of others, like rain that falls to nourish the earth. He can extinguish the heat and bring transformation just like the philosopher's stone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु बड़े परमारथी, धन ज्‍यों बरसे आय।\nतपन बुझावैं और की, अपनो पारस लाय।।५७७।।",
+    "translation": "The true saint is dedicated to the welfare of others, like rain that falls to nourish the earth. He can extinguish the heat and bring transformation just like the philosopher's stone.",
+    "meaning": "सच्चा साधु दूसरों की भलाई के लिए समर्पित होता है, जैसे बारिश धरती को सींचती है। वह गर्मी को बुझा सकता है और परिवर्तन ला सकता है, जैसे कि पारस पत्थर।",
+    "explanation": "साधु (संत) का मुख्य उद्देश्य लोगों की भलाई करना होता है। वह धन के समान होता है जो जीवन में महत्वपूर्ण रूप से आता है। जैसे बारिश खेतों को सींचती है, वैसे ही साधु भी समाज को उन्नति और शांति प्रदान करता है। साधु का कार्य तप और परिश्रम से लोगों के जीवन में सुधार लाना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

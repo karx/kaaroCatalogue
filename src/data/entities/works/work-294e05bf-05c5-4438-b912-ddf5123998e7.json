@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-294e05bf-05c5-4438-b912-ddf5123998e7",
+  "name": "कबीर सपनें रैन के, ऊधरी आये नैन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, in the dream of night, illusions come before the eyes. The soul is caught in worldly plunder, unaware of giving or taking.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सपनें रैन के, ऊधरी आये नैन।\nजीव परा बहू लूट में, जागूँ लेन न देन।।४२१।।",
+    "translation": "Kabir says, in the dream of night, illusions come before the eyes. The soul is caught in worldly plunder, unaware of giving or taking.",
+    "meaning": "कबीर कहते हैं, रात के सपनों में भ्रम आँखों के सामने आता है। जीव इस सांसारिक लूट में फँस जाता है, और उसे लेने और देने का होश नहीं रहता।",
+    "explanation": "इस दोहे में कबीर संसार की माया और आत्मा की स्थिति को दर्शाते हैं। वह कहते हैं कि जैसे रात के सपनों में आँखों के सामने भ्रम आता है, वैसे ही यह संसार भी एक भ्रम है जिसमें जीव फँस जाता है। सांसारिक मोह में फँसकर वह अपने वास्तविक कर्तव्यों और आध्यात्मिक जीवन को भूल जाता है। कबीर इस दोहे के माध्यम से हमें जगाने का प्रयास कर रहे हैं कि हमें सांसारिक मोह से ऊपर उठकर अपने आध्यात्मिक कर्तव्यों को समझना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

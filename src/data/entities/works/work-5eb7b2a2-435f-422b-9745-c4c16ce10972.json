@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5eb7b2a2-435f-422b-9745-c4c16ce10972",
+  "name": "कबीर पगरा दूर है, आय पहूंची सांझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir’s turban is far away, and the evening has arrived. The advice given to everyone remains unheeded, like a prostitute left barren.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर पगरा दूर है, आय पहूंची सांझ।\nजन जन को मत राखतां, वेश्‍या रहि गई बांझ।।१०७९।।",
+    "translation": "Kabir’s turban is far away, and the evening has arrived. The advice given to everyone remains unheeded, like a prostitute left barren.",
+    "meaning": "कबीर की पगड़ी दूर है, और संध्या आ गई है। सबको दी गई सलाह अनसुनी रह गई है, जैसे एक वेश्या बाँझ रह जाती है।",
+    "explanation": "इस दोहे में कबीर ने जीवन के अंत की ओर बढ़ने और सलाह के महत्व को व्यक्त किया है। समय बीत चुका है और दी गई सलाह अनसुनी रह गई है, जिसे एक वेश्या के बाँझ रहने से तुलना की गई है। यह जीवन की अस्थिरता और समय की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.428Z"
+  }
+}

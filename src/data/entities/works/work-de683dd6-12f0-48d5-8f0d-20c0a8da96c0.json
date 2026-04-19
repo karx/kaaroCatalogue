@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-de683dd6-12f0-48d5-8f0d-20c0a8da96c0",
+  "name": "हंसा सरवरि तजि चले, देही पारिगौ सून",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan leaves the lake and goes to the empty shore. Kabir says, listen, O saints, there are thirty-three doors at that threshold.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसा सरवरि तजि चले, देही पारिगौ सून।\nकहहिं कबीर सुनहु हौ सन्‍तो, ते दर तेई थून।।१७११।।",
+    "translation": "The swan leaves the lake and goes to the empty shore. Kabir says, listen, O saints, there are thirty-three doors at that threshold.",
+    "meaning": "हंस सरोवर को छोड़कर सूनी किनारे पर चला जाता है। कबीर कहते हैं, सुनो, हे संतों, उस दहलीज पर तैंतीस दरवाजे हैं।",
+    "explanation": "कबीर इस दोहे में यात्रा और सत्य की बात करते हैं। उन्होंने कहा कि सच्ची यात्रा और खोज में बहुत सारे द्वार होते हैं जो हमें खुले नजर आते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.069Z"
+  }
+}

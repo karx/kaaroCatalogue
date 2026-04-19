@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3508fdcb-fb64-4054-98a3-52398d9dfa9f",
+  "name": "जो घर रहे सर्प का, ता घर साधु न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A house where a serpent resides cannot be a place of the pious. All its wealth is taken away, and it is infested with poison.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो घर रहे सर्प का, ता घर साधु न होय।\nसकल संपदा ले गया, विषहर लागे सोय।।१५४०।।",
+    "translation": "A house where a serpent resides cannot be a place of the pious. All its wealth is taken away, and it is infested with poison.",
+    "meaning": "जिस घर में सांप रहता है, वह घर साधु का नहीं हो सकता। सभी संपत्ति ले ली जाती है, और वह विष से भरा होता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जिस घर या स्थान में नकारात्मक या विषैला तत्व होता है, वह स्थान संत या पवित्र नहीं हो सकता। सांप का उदाहरण देकर, वे यह समझाते हैं कि ऐसी जगहों पर संपत्ति और शांति नहीं रह सकती। साधु और धार्मिक स्थल उन जगहों पर होते हैं जहां शांति और अच्छाई होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.934Z"
+  }
+}

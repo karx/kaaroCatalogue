@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8d9d6a89-e461-45d6-82c7-7ba256e7bb2b",
+  "name": "Dnyaneshwari",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dnyaneshwar"
+  },
+  "inLanguage": "Marathi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Dnyaneshwari",
+    "retrievedAt": "2026-01-04T18:39:14.803Z"
+  }
+}

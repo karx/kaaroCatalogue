@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-58a8c65e-0b6a-4f6b-af18-fe0a946d6ce9",
+  "name": "कबिरा खांडहि छांडि कै, कांकर चुनि चुनि खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, leaving sugar and eating pebbles, has wasted the gem in the sand, and later regrets.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा खांडहि छांडि कै, कांकर चुनि चुनि खाय।\nरत्‍न गंवाया रेत में, फिर पाछै पछिताय।।२१७०।।",
+    "translation": "Kabir, leaving sugar and eating pebbles, has wasted the gem in the sand, and later regrets.",
+    "meaning": "कबीर ने गुड़ छोड़कर कंकड़ चुने और रत्न को रेत में खो दिया, बाद में पछताया।",
+    "explanation": "इस दोहे में कबीर ने एक महत्वपूर्ण सन्देश दिया है कि मूल्यवान वस्तुओं का सही उपयोग करना चाहिए। गुड़ (मिठास) को छोड़कर कंकड़ (निरर्थक वस्तु) खाना और रत्न को रेत में खो देना एक बेतुकी बात है। यह दर्शाता है कि अगर हम सही चीज़ों की कद्र नहीं करते और बेतुके चीज़ों का चयन करते हैं, तो हमें पछताना पड़ता है। इस प्रकार यह दोहा हमें सही और मूल्यवान चीज़ों की कद्र करने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.725Z"
+  }
+}

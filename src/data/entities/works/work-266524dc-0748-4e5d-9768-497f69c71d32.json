@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-266524dc-0748-4e5d-9768-497f69c71d32",
+  "name": "Panchali Sapatham",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-subramania-bharati"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Panchali_Sapatham",
+    "retrievedAt": "2026-01-04T18:39:24.867Z"
+  }
+}

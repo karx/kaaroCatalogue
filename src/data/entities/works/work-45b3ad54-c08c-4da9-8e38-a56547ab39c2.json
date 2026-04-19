@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-45b3ad54-c08c-4da9-8e38-a56547ab39c2",
+  "name": "अब तौ झूझयां ही वणौं, मूढ़‍ि चाल्‍यां घर दूरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Now I have fought enough, my foolish actions have taken me far from home. I have surrendered my head to the Lord, do not worry, O hero.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अब तौ झूझयां ही वणौं, मूढ़‍ि चाल्‍यां घर दूरि।\nसिर साहिब कौं सौंपता, सोच न कीजै सूरि।।१९१६।।",
+    "translation": "Now I have fought enough, my foolish actions have taken me far from home. I have surrendered my head to the Lord, do not worry, O hero.",
+    "meaning": "अब मैंने पर्याप्त संघर्ष किया है, मेरी मूर्खताएं मुझे घर से दूर ले आई हैं। मैंने अपना सिर भगवान को सौंप दिया है, ओ योद्धा, चिंता मत करो।",
+    "explanation": "इस दोहे में कबीरदास जी यह व्यक्त करते हैं कि उन्होंने बहुत संघर्ष किया है और उनकी मूर्खताएं उन्हें दूर कर चुकी हैं। अब वे भगवान को पूरी तरह से समर्पित हो चुके हैं और किसी चिंता की आवश्यकता नहीं है। यह दोहा आत्मसमर्पण और भगवान पर विश्वास की भावना को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.249Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6016b4de-ef35-4010-a95b-f8f0c94f40e3",
+  "name": "अकिल बिहूना आंधरा, गज फन्‍दे पड़ो आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The blind man without wisdom is like an elephant caught in a trap. Everyone is bound like this, how can I explain it to them?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अकिल बिहूना आंधरा, गज फन्‍दे पड़ो आय।\nऐसे सब लग बंधिया, काहि कहूं समझाय।।१३६२।।",
+    "translation": "The blind man without wisdom is like an elephant caught in a trap. Everyone is bound like this, how can I explain it to them?",
+    "meaning": "अक्ल के बिना अंधा व्यक्ति उस हाथी के समान है जो फंदे में फंस गया हो। सभी इसी प्रकार से बंधे हुए हैं, मैं उन्हें कैसे समझाऊं?",
+    "explanation": "कबीर इस दोहे में कहते हैं कि बुद्धिहीन और अज्ञानी व्यक्ति उसी प्रकार जाल में फंसे होते हैं जैसे हाथी को जाल में फंसाया जाता है। अज्ञानता के कारण व्यक्ति भ्रमित रहता है और सांसारिक जाल में उलझा रहता है। कबीर का संदेश है कि बिना विवेक और ज्ञान के व्यक्ति इस संसार में बंधन में जकड़ा हुआ रहता है और उसे समझाना भी कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.084Z"
+  }
+}

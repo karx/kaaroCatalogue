@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0ec2e9c3-38bd-48df-ac7a-6512c616ce96",
+  "name": "गुरु शरणागत छाड़‍ि के, करै भरोसा और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Leaving the refuge of the Guru and relying on others leads to abandoning happiness and wealth, and there is no place in hell for such a person.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु शरणागत छाड़‍ि के, करै भरोसा और।\nसुख सम्‍पति को कह चली, नहीं नरक में ठौर।।४७९।।",
+    "translation": "Leaving the refuge of the Guru and relying on others leads to abandoning happiness and wealth, and there is no place in hell for such a person.",
+    "meaning": "गुरु की शरण छोड़कर औरों पर भरोसा करने से सुख और संपत्ति को छोड़ना पड़ता है, और ऐसा व्यक्ति नरक में ठौर नहीं पाता।",
+    "explanation": "इस दोहे में कबीर ने गुरु की शरण छोड़कर दूसरों पर भरोसा करने के परिणामों को बताया है। उन्होंने कहा है कि ऐसा व्यक्ति सुख और संपत्ति को खो देता है और नरक में भी उसकी जगह नहीं होती। यह दोहा गुरु के प्रति शरणागत भाव रखने की महत्वता को दर्शाता है और बताता है कि गुरु की शरण में रहना ही सही मार्ग है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

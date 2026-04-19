@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-de36050b-6403-4100-93be-14d6484bf337",
+  "name": "माला तिलक तो भेष है, राम भक्ति कछु और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Garlands and tilaks are mere attire, while devotion to Ram is something else entirely. Kabir says, those who wear it, keep all five places sacred.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला तिलक तो भेष है, राम भक्ति कछु और।\nकहैं कबीर जिन पहिरिया, पांचों राखै ठौर।।६४२।।",
+    "translation": "Garlands and tilaks are mere attire, while devotion to Ram is something else entirely. Kabir says, those who wear it, keep all five places sacred.",
+    "meaning": "माला और तिलक सिर्फ बाहरी आभूषण हैं, जबकि राम की भक्ति कुछ और होती है। कबीर कहते हैं, जो इसे पहनते हैं, वे सभी पांच स्थानों को पवित्र रखते हैं।",
+    "explanation": "सच्ची भक्ति बाहरी दिखावे से नहीं आती। वास्तविक भक्ति उन लोगों में होती है जो हर जगह और हर समय भक्ति को बनाए रखते हैं, न कि केवल बाहरी आडंबर से।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.003Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1ce75ab-68b2-485b-84ed-5fc4ac8d74fd",
+  "name": "जारि बारि मिस्‍सी करै, मिस्‍सी करिहै छार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The coal burns repeatedly, turning to ash. Kabir says, if one acts like coal, they will face the consequences in the end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जारि बारि मिस्‍सी करै, मिस्‍सी करिहै छार।\nकहैं कबीर कोइला करै, फिर दे दै औतार।।१०७३।।",
+    "translation": "The coal burns repeatedly, turning to ash. Kabir says, if one acts like coal, they will face the consequences in the end.",
+    "meaning": "कोयला बार-बार जलता है, और राख बन जाता है। कबीर कहते हैं, यदि कोई कोयले की तरह कार्य करता है, तो अंत में उसे परिणाम भुगतने पड़ते हैं।",
+    "explanation": "इस दोहे में कबीर ने कार्यों के परिणामों पर ध्यान केंद्रित किया है। कोयला बार-बार जलकर राख में बदल जाता है, इसी प्रकार, किसी के कर्मों का परिणाम अंततः सामने आता है। यह विचारशीलता और सही आचरण की आवश्यकता को दर्शाता है, ताकि अंत में सही परिणाम प्राप्त हों।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5868bead-28e6-482d-bc4c-7d72545adba5",
+  "name": "अकथ कथा या मनहि की, कहैं कबीर समुझाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The story of the unspoken is told by Kabir. Those who understand it are not consumed by time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अकथ कथा या मनहि की, कहैं कबीर समुझाय।\nजो याको समझा परै, ताको काल न खाय।।११२१।।",
+    "translation": "The story of the unspoken is told by Kabir. Those who understand it are not consumed by time.",
+    "meaning": "अकथ कथा का वर्णन कबीर ने किया है। जो लोग इसे समझते हैं, वे काल से प्रभावित नहीं होते।",
+    "explanation": "इस दोहे में कबीर ने 'अकथ कथा' (अकथनीय सत्य) की बात की है और कहा है कि जो इसे समझते हैं, वे समय के प्रभाव से मुक्त होते हैं। इसका मतलब है कि गहरे आत्मज्ञान और समझ से व्यक्ति काल और परिस्थितियों से परे हो जाता है। यह ज्ञान और आत्म-ज्ञान की अत्यधिक महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.703Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7d38065-5743-4165-9002-f539313cb710",
+  "name": "Kannada Meghadoota",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dr-bendre"
+  },
+  "inLanguage": "Kannada",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Kannada_Meghadoota",
+    "retrievedAt": "2026-01-04T18:39:31.482Z"
+  }
+}

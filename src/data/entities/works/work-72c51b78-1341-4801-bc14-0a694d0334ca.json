@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-72c51b78-1341-4801-bc14-0a694d0334ca",
+  "name": "कूकस कूटै कण बिना, बिन करनी का ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A critic is like a drum without a stick; it makes noise but lacks knowledge. Similarly, a gun without bullets does not fire.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कूकस कूटै कण बिना, बिन करनी का ज्ञान।\nज्‍यौं बन्‍दूक गोली बिना, भड़क न मारै आन।।१३०२।।",
+    "translation": "A critic is like a drum without a stick; it makes noise but lacks knowledge. Similarly, a gun without bullets does not fire.",
+    "meaning": "निंदा करने वाला व्यक्ति ऐसे है जैसे बिना डंडे के ढोल, जो शोर मचाता है लेकिन ज्ञान से रहित होता है। इसी तरह, गोली बिना बंदूक नहीं चलती।",
+    "explanation": "कबीर जी ने इस दोहे में बताया है कि निंदा करने वाला व्यक्ति ज्ञानहीन होता है, जैसे बिना डंडे के ढोल शोर मचाता है। यही स्थिति बंदूक की भी है जो बिना गोली के निष्फल होती है। इसका मतलब है कि बिना सही ज्ञान और उद्देश्य के केवल शोर करने से कुछ भी नहीं मिलता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.808Z"
+  }
+}

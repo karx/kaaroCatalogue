@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b49e0bef-f829-4291-abd6-836cbe67b8e0",
+  "name": "बैल गढन्‍ता नर गढ़ा, चूका सींग रु पूंछ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bull may dig the ground, its horn and tail are misplaced. Without the name of the single guru, shame upon the beard and mustache.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बैल गढन्‍ता नर गढ़ा, चूका सींग रु पूंछ।\nएकहि गुरु के नाम बिनु, धिक दाढ़ी धिक मूंछ।।९०७।।",
+    "translation": "The bull may dig the ground, its horn and tail are misplaced. Without the name of the single guru, shame upon the beard and mustache.",
+    "meaning": "बैल धरती खोदता है, उसकी सींग और पूंछ गलत जगह हैं। एक ही गुरु के नाम के बिना, दाढ़ी और मूंछ पर शर्म है।",
+    "explanation": "इस दोहे में कबीर गुरु के नाम के महत्व को स्पष्ट करते हैं। वे उदाहरण देते हैं कि कैसे एक बैल अपने काम को सही तरीके से नहीं कर पाता अगर उसकी सींग और पूंछ ठीक जगह पर नहीं हैं। इसी तरह, गुरु के नाम के बिना जीवन की दिशा और उद्देश्य सही नहीं होते। दाढ़ी और मूंछ की उपमा देकर, कबीर बताते हैं कि गुरु के बिना धार्मिक और आध्यात्मिक पहचान भी व्यर्थ है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.623Z"
+  }
+}

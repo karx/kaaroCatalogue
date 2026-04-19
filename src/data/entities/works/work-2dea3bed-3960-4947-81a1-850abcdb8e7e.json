@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2dea3bed-3960-4947-81a1-850abcdb8e7e",
+  "name": "दया और धरम का ध्वजा, धीरजवान प्रमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The flag of compassion and righteousness is flown by the patient. The contented and wise servant is the giver of happiness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया और धरम का ध्वजा, धीरजवान प्रमान।\nसन्तोषी सुख दायका, सेवक परम सुजान।।४०९।।",
+    "translation": "The flag of compassion and righteousness is flown by the patient. The contented and wise servant is the giver of happiness.",
+    "meaning": "दयालु और धर्मनिष्ठ व्यक्ति धैर्यवान होता है। संतोषी और ज्ञानी सेवक सुख का दाता होता है।",
+    "explanation": "यह दोहा दया, धर्म, धैर्य, और संतोष के महत्त्व को दर्शाता है। जो व्यक्ति दयालु और धर्म का पालन करने वाला होता है, वह धैर्यवान होता है। इसी प्रकार संतोषी और ज्ञानवान सेवक दूसरों के लिए सुख और समृद्धि का कारण बनता है। कबीर बताते हैं कि ये गुण व्यक्ति को श्रेष्ठ बनाते हैं और समाज में शांति और समृद्धि का विस्तार करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

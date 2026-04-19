@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6191b55c-5ca4-43e5-a40f-2087ed9c201b",
+  "name": "साधु साधु सब बड़े हैं, जस पस्‍ते का खेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All saints are great, like fields of crops. Some are wise and pure, and some are full of virtues.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु साधु सब बड़े हैं, जस पस्‍ते का खेत।\nकोई विवेकी लाल हैं, और सेत का सेत।।५९९।।",
+    "translation": "All saints are great, like fields of crops. Some are wise and pure, and some are full of virtues.",
+    "meaning": "सभी साधु महान होते हैं, जैसे खेत के फसल होते हैं। कुछ विवेकी और शुद्ध होते हैं, और कुछ गुणों से परिपूर्ण होते हैं।",
+    "explanation": "साधु समाज में विभिन्न प्रकार के होते हैं, जैसे खेत में विभिन्न फसलें होती हैं। कुछ साधु ज्ञान और विवेक से भरे होते हैं, जबकि अन्य अच्छे गुणों से संपन्न होते हैं। सभी का उद्देश्य समाज की भलाई करना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

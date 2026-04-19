@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-511a9184-b2ec-43e0-8aa2-ccd1a199163b",
+  "name": "लच्छ कोष जो गुरु बसै, दीजै सुरति पठाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If the Guru resides in the treasury, offer your focus. The words of the Guru are fleeting, coming and going in moments.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लच्छ कोष जो गुरु बसै, दीजै सुरति पठाय।\nशब्द तुरी बसवार है, छिन आवै छिन जाय।।२५४।।",
+    "translation": "If the Guru resides in the treasury, offer your focus. The words of the Guru are fleeting, coming and going in moments.",
+    "meaning": "यदि गुरु कोष में निवास करते हैं, तो अपनी तवज्जो अर्पित करें। गुरु के शब्द क्षणिक होते हैं, पल-पल आते और जाते हैं।",
+    "explanation": "कबीर इस दोहे में गुरु के प्रति ध्यान और समर्पण की बात करते हैं। वे कहते हैं कि अगर गुरु धन के भंडार में निवास करते हैं, तो हमें अपनी पूरी तवज्जो अर्पित करनी चाहिए। गुरु के शब्द क्षणिक होते हैं, जो पल-पल बदलते हैं। यह दोहा गुरु की उपस्थिति और शिक्षाओं की तात्कालिकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.127Z"
+  }
+}

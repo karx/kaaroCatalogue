@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15154995-e16f-4c83-8d49-f40ffc6b1c9b",
+  "name": "तू तू करूं तो निकट है, दुर-दुर करू हो जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When I say 'You, you,' it seems close, but when I say 'far, far,' it seems distant. Only what the guru preserves remains, and what is given by others is consumed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तू तू करूं तो निकट है, दुर-दुर करू हो जाय।\nजों गुरु राखै त्यों रहै, जो देवै सो खाय।।४०४।।",
+    "translation": "When I say 'You, you,' it seems close, but when I say 'far, far,' it seems distant. Only what the guru preserves remains, and what is given by others is consumed.",
+    "meaning": "जब मैं 'तू, तू' कहता हूँ तो वह नजदीक लगता है, लेकिन जब मैं 'दूर, दूर' कहता हूँ तो वह दूर लगता है। केवल वही रहता है जिसे गुरु सुरक्षित रखता है, और जो दूसरों द्वारा दिया जाता है, वह समाप्त हो जाता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने गुरु की भूमिका और उसकी महत्वता को दर्शाया है। वे बताते हैं कि जब व्यक्ति केवल अपनी इच्छा और स्वभाव के अनुसार कार्य करता है, तो चीजें नजदीक और दूर लगती हैं। लेकिन केवल वही चीजें स्थायी रहती हैं, जिन्हें गुरु द्वारा संरक्षित किया गया है। दूसरों द्वारा दी गई चीजें समाप्त हो जाती हैं। यह दोहा सिखाता है कि गुरु के मार्गदर्शन और संरक्षण से ही जीवन में स्थिरता और सच्चाई प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.921Z"
+  }
+}

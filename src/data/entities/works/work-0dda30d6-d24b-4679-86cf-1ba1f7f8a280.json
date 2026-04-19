@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0dda30d6-d24b-4679-86cf-1ba1f7f8a280",
+  "name": "गुरु सेवा जन बन्‍दगी, हरि सुमिरन वैराग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Service to the Guru, remembrance of Hari, and renunciation. When these four are achieved, one’s destiny is fulfilled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु सेवा जन बन्‍दगी, हरि सुमिरन वैराग।\nये चारों तबही मिले, पूरन होवे भाग।।४९५।।",
+    "translation": "Service to the Guru, remembrance of Hari, and renunciation. When these four are achieved, one’s destiny is fulfilled.",
+    "meaning": "गुरु की सेवा, हरि की याद, और वैराग्य। जब ये चारों प्राप्त होते हैं, तब व्यक्ति का भाग्य पूरा होता है।",
+    "explanation": "इस दोहे में कबीर ने जीवन की पूर्णता के लिए चार महत्वपूर्ण तत्वों की बात की है। गुरु की सेवा, हरि का स्मरण, और वैराग्य (त्याग) जब इन चारों को अपनाया जाता है, तब जीवन का भाग्य पूरा होता है। ये तत्व आत्मा के उन्नयन और सच्ची पूर्णता की दिशा में मार्गदर्शक होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.198Z"
+  }
+}

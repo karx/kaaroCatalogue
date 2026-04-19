@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6d208046-a41a-4d8e-8033-9742061d46b1",
+  "name": "धर सों शीश उतारिके, डारि देह ज्‍यों ढेल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "By placing the head on the ground and discarding the body like a stone, One who is brave and honorable, for them returning home is a game.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धर सों शीश उतारिके, डारि देह ज्‍यों ढेल।\nकोई शूर को सोहसी, घर जाने का खेल।।२१००।।",
+    "translation": "By placing the head on the ground and discarding the body like a stone, One who is brave and honorable, for them returning home is a game.",
+    "meaning": "सिर को जमीन पर रखकर और शरीर को पत्थर की तरह छोड़कर, जो वीर और सम्मानित होता है, उनके लिए घर लौटना एक खेल होता है।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि सच्चे वीर और सम्मानित व्यक्ति अपनी पहचान और आत्मा को त्यागकर भी अपने कर्तव्यों को निभाते हैं। वे सिर झुका कर और शरीर को एक वस्तु की तरह छोड़कर भी, अपने सम्मान और साहस को बनाए रखते हैं। उनके लिए घर लौटना और अपने कर्तव्यों को निभाना एक साधारण कार्य होता है। यह दोहा वीरता और सम्मान की सच्चाई को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.100Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bd97e6bc-b51f-40df-ac62-bcbccca7125b",
+  "name": "यह बिरियां तो फिर‍ि नहिं, मन में देख विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "These worldly pleasures do not last, think and consider in your mind. Gains have come for a reason; life is like a gamble where the mind loses.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह बिरियां तो फिर‍ि नहिं, मन में देख विचार।\nआया लाभहि कारनै, जनम जुआ मति हार।।९२८।।",
+    "translation": "These worldly pleasures do not last, think and consider in your mind. Gains have come for a reason; life is like a gamble where the mind loses.",
+    "meaning": "ये सांसारिक सुख स्थायी नहीं होते, इसे अपने मन में सोचकर समझें। लाभ किसी कारणवश होता है; जीवन एक जुआ है जिसमें मन हार जाता है।",
+    "explanation": "कबीर इस दोहे में जीवन के अस्थायी सुखों और उनकी क्षणिकता को दर्शाते हैं। वे बताते हैं कि सांसारिक सुख और लाभ अस्थायी होते हैं और वास्तविकता को समझने के लिए हमें अपने मन में विचार करना चाहिए। जीवन को एक जुए के समान मानते हुए, कबीर कहते हैं कि हम केवल भौतिक लाभ के पीछे न भागें, क्योंकि अंततः यह सब अस्थायी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.626Z"
+  }
+}

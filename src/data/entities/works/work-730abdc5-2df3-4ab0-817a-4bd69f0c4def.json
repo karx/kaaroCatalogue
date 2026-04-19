@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-730abdc5-2df3-4ab0-817a-4bd69f0c4def",
+  "name": "तन संशय मन सुनहा, काल अहेरी नीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Body is uncertain, mind is weak, and time is a constant hunter. The creation does not exist beyond, this is what Kabir says.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन संशय मन सुनहा, काल अहेरी नीत।\nउतपति परले नहिं होता, तब की कही कबीर।।१५५४।।",
+    "translation": "Body is uncertain, mind is weak, and time is a constant hunter. The creation does not exist beyond, this is what Kabir says.",
+    "meaning": "शरीर अस्थिर है, मन कमजोर है, और समय एक निरंतर शिकारी है। सृजन इसके पार नहीं है, यही कबीर कहते हैं।",
+    "explanation": "कबीर इस दोहे में बताने का प्रयास कर रहे हैं कि शरीर की स्थिति अनिश्चित होती है, मन कमजोर रहता है, और समय हमेशा पीछा करता है। इसलिए, सृजन और जीवन का वास्तविक अर्थ इस भौतिक अस्तित्व से परे है। कबीर का यह सन्देश है कि सच्चाई को समझने के लिए हमें इस भौतिकता से बाहर निकलना होगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.205Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cc9cbd2b-3394-492a-b50e-20a83f3f689a",
+  "name": "जो जल बाढ़े नाव में, घर में बाढ़ै दाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If water floods the boat, and money floods the home, Use both hands to bail out the water; this is the wise course of action.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो जल बाढ़े नाव में, घर में बाढ़ै दाम।\nदोनों हाथ उलीचिये, यही सयानों का काम।।९४०।।",
+    "translation": "If water floods the boat, and money floods the home, Use both hands to bail out the water; this is the wise course of action.",
+    "meaning": "यदि पानी नाव में बाढ़ जाए और घर में धन बाढ़ जाए, तो दोनों हाथों से पानी को निकालें; यही समझदारी है।",
+    "explanation": "कबीर इस दोहे में व्यावहारिक बुद्धिमत्ता की बात करते हैं। उन्होंने कहा कि जब नाव में पानी भर जाता है या घर में धन का overflow होता है, तो दोनों हाथों का उपयोग करके पानी को बाहर निकालना चाहिए। यह दोहा हमें जीवन की कठिन परिस्थितियों का सामना करने के लिए व्यावहारिक दृष्टिकोण अपनाने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.628Z"
+  }
+}

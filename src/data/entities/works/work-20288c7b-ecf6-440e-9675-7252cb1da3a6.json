@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-20288c7b-ecf6-440e-9675-7252cb1da3a6",
+  "name": "लाई लावनहार की, जाकी लाई पर जरे",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who brings spices burns the house where the spice is used. How great is the one who brings the spice, even if the roof of the house is burned.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लाई लावनहार की, जाकी लाई पर जरे।\nबलिहारी लावनहार की, छप्‍पर वाचे घर जरे।।१६६८।।",
+    "translation": "One who brings spices burns the house where the spice is used. How great is the one who brings the spice, even if the roof of the house is burned.",
+    "meaning": "जो मसाला लाता है, वही घर को जलाता है जहां मसाला इस्तेमाल होता है। मसाला लाने वाला कितना बड़ा है, भले ही घर की छत जल जाए।",
+    "explanation": "कबीर इस दोहे में इच्छाओं और ज्ञान की बात करते हैं। उन्होंने कहा कि जो इच्छाएं लाते हैं, वे अक्सर नुकसान भी करती हैं, फिर भी ऐसे लोगों की महानता का गुणगान किया।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.787Z"
+  }
+}

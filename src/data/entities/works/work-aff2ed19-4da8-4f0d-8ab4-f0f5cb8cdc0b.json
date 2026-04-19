@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aff2ed19-4da8-4f0d-8ab4-f0f5cb8cdc0b",
+  "name": "देह धरे का गुन यही, देह देह कछु देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the virtue of holding the body; the body is just the body. You won’t get this body again; it’s a rare body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "देह धरे का गुन यही, देह देह कछु देह।\nबहुरि न देही पाइये, अकी देह सुदेह।।४५०।।",
+    "translation": "This is the virtue of holding the body; the body is just the body. You won’t get this body again; it’s a rare body.",
+    "meaning": "शरीर को धारण करने का यही गुण है; शरीर बस शरीर ही होता है। यह शरीर फिर नहीं मिलेगा; यह एक दुर्लभ शरीर है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि शरीर को बनाए रखना केवल एक विशेषता है, और यह शरीर बस शरीर ही होता है। जब यह शरीर समाप्त हो जाएगा, तो ऐसा शरीर फिर नहीं मिलेगा। यह दोहा शरीर की दुर्लभता और उसकी अस्थिरता पर ध्यान केंद्रित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.924Z"
+  }
+}

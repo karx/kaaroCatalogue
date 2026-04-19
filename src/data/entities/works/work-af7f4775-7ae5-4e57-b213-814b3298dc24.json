@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-af7f4775-7ae5-4e57-b213-814b3298dc24",
+  "name": "हाड़ बड़ा हरि भजन करि, द्रव्‍य बड़ा कछु देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Use your body to chant Hari's name, use wealth to give. Use your intellect to do good deeds; this is the fruit of life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हाड़ बड़ा हरि भजन करि, द्रव्‍य बड़ा कछु देह।\nअकल बड़ी उपकार करि, जीवन का फल येहि।।९८८।।",
+    "translation": "Use your body to chant Hari's name, use wealth to give. Use your intellect to do good deeds; this is the fruit of life.",
+    "meaning": "अपने शरीर का उपयोग हरि भजन के लिए करो, धन का उपयोग दान के लिए करो। अपनी बुद्धि का उपयोग अच्छे कर्म करने के लिए करो; यही जीवन का फल है।",
+    "explanation": "इस दोहे में कबीर दास जी जीवन के सही उपयोग की बात करते हैं। वह कहते हैं कि हमें अपने शरीर का उपयोग हरि भजन के लिए करना चाहिए, धन का उपयोग दान के लिए और बुद्धि का उपयोग अच्छे कर्मों के लिए करना चाहिए। यह सब करने से ही जीवन का सच्चा फल प्राप्त होता है। यह दोहा हमें जीवन की सच्ची दिशा की ओर प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.895Z"
+  }
+}

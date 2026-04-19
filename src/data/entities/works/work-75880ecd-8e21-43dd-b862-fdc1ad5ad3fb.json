@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75880ecd-8e21-43dd-b862-fdc1ad5ad3fb",
+  "name": "भाजि कहांलौं जाइये, भय भारी घर दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wherever one flees, fear remains and the home is far away. Kabir says, return to the battlefield, the army has come fully prepared.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भाजि कहांलौं जाइये, भय भारी घर दूर।\nबहुरि कबीरा खेतरह, दल आया भरपूर।।२१२४।।",
+    "translation": "Wherever one flees, fear remains and the home is far away. Kabir says, return to the battlefield, the army has come fully prepared.",
+    "meaning": "जहाँ भी भागो, डर बना रहता है और घर दूर होता है। कबीर कहते हैं, युद्धभूमि पर लौट आओ, सेना पूरी तरह से तैयार है।",
+    "explanation": "इस दोहे में कबीर ने भागने और डर की अवधारणा को प्रस्तुत किया है। व्यक्ति कहीं भी भागे, डर हमेशा बना रहता है और घर हमेशा दूर लगता है। कबीर ने यह भी कहा है कि युद्धभूमि पर लौट आओ क्योंकि सेना पूरी तरह से तैयार है। यह दोहा संघर्ष की वास्तविकता और तैयारी के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.365Z"
+  }
+}

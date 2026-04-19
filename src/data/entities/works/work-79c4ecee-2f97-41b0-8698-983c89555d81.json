@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79c4ecee-2f97-41b0-8698-983c89555d81",
+  "name": "कबिरा संगति साधु की, जो करि जाने कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the company of saints, anyone who understands it becomes like sandalwood trees, but bamboo does not become sandalwood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा संगति साधु की, जो करि जाने कोय।\nसकल बिरछ चन्दन भये, बांस न चन्दन होय।।३७९।।",
+    "translation": "In the company of saints, anyone who understands it becomes like sandalwood trees, but bamboo does not become sandalwood.",
+    "meaning": "संतों की संगति में, जो भी इसे समझता है, वह सभी वृक्षों की तरह चंदन बन जाता है, लेकिन बांस चंदन नहीं बनता।",
+    "explanation": "इस दोहे में कबीर दास जी संतों की संगति के प्रभाव को समझाते हैं। वे कहते हैं कि संतों की संगति में जो भी व्यक्ति इसे सही तरीके से समझता है, वह चंदन के वृक्ष की तरह पवित्र और सुगंधित बन जाता है। लेकिन बांस, जो अपने स्वभाव से चंदन नहीं बन सकता, वह चंदन नहीं बनता। इसका तात्पर्य यह है कि कुछ लोग संतों की संगति से लाभ उठाते हैं और उनका चरित्र बदल जाता है, जबकि कुछ नहीं बदलते। यह दोहा हमें यह सिखाता है कि संतों की संगति का सही लाभ उठाने के लिए समझ और गहराई की आवश्यकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

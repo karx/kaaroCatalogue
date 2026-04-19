@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8bab6905-3897-4973-ba27-a9b734149fe1",
+  "name": "बुगली नीर बिटालिया, सायर चढ़या कलंक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The frog's water has evaporated, the lark is covered with stains. The other birds have drunk, but the swan remains unruffled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बुगली नीर बिटालिया, सायर चढ़या कलंक।\nऔर पखेरू पी गये, हंस न बौवे चंच।।१७६।।",
+    "translation": "The frog's water has evaporated, the lark is covered with stains. The other birds have drunk, but the swan remains unruffled.",
+    "meaning": "मेंढ़क का पानी सूख गया है, और सारस पर दाग लग गए हैं। अन्य पक्षी पी गए हैं, लेकिन हंस शांत और अप्रभावित है।",
+    "explanation": "इस दोहे में कबीर ने आत्मिक शांति और स्थिरता को दर्शाया है। मेंढ़क का पानी सूख गया और सारस पर दाग लग गए, जो उसकी स्थिति की कमजोरियों को दर्शाता है। जबकि हंस, जो आध्यात्मिक और शांति का प्रतीक है, सभी बाहरी प्रभावों से अछूता रहता है। इसका तात्पर्य यह है कि सच्ची आत्मिक शांति केवल बाहरी प्रभावों से अप्रभावित रहने में ही है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

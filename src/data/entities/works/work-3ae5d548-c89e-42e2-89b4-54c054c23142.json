@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3ae5d548-c89e-42e2-89b4-54c054c23142",
+  "name": "काला मुंह करुं करम का, आदर लावूं आग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Actions done with a dark intent bring respect, but only when the desire for praise is abandoned and one embraces the guru's guidance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काला मुंह करुं करम का, आदर लावूं आग।\nलोभ बड़ाई छांड़‍ि के, रांचू गुरु के राग।।१३३३।।",
+    "translation": "Actions done with a dark intent bring respect, but only when the desire for praise is abandoned and one embraces the guru's guidance.",
+    "meaning": "काले इरादों से किए गए कर्म सम्मान लाते हैं, लेकिन जब प्रशंसा की इच्छा छोड़ दी जाती है और गुरु की सलाह को अपनाया जाता है।",
+    "explanation": "कबीर जी के अनुसार, कर्मों का वास्तविक महत्व तब प्रकट होता है जब हम प्रशंसा की इच्छा छोड़कर गुरु की शिक्षाओं को अपनाते हैं। केवल बुरे इरादों से किए गए कर्म भी अंततः सही मार्ग पर ले जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.814Z"
+  }
+}

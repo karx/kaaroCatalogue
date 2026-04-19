@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2de7887a-6c16-4ebd-91f5-3c253b5ab8af",
+  "name": "स्‍वारथ सूका लाकड़ा, छांह बिहूना सूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Self-interest is like a dry stick, without shade or comfort. Worship the Peepal tree of selflessness, which is the source of the ocean of happiness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्‍वारथ सूका लाकड़ा, छांह बिहूना सूल।\nपीपल परमारथ भजो, सुख सागर को मूल।।१०९९।।",
+    "translation": "Self-interest is like a dry stick, without shade or comfort. Worship the Peepal tree of selflessness, which is the source of the ocean of happiness.",
+    "meaning": "स्वार्थ सूखे लकड़ी की तरह होता है, जिसमें कोई छाया या आराम नहीं होता। परमार्थ की पीपल की पूजा करो, जो सुख के सागर का मूल है।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थ और परमार्थ की तुलना की है। स्वार्थ को सूखे लकड़ी के रूप में चित्रित किया है, जिसमें कोई छाया या आराम नहीं मिलता। इसके विपरीत, परमार्थ को पीपल के पेड़ के रूप में दिखाया गया है, जो सुख और शांति का स्रोत है। इसका तात्पर्य है कि सच्चा सुख और शांति केवल परमार्थ की पूजा और पालन से प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.431Z"
+  }
+}

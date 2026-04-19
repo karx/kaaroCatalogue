@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e4ef56c-aa33-4b83-9cc6-83dc16c3d741",
+  "name": "कबीर संगी साधु का, दल आया भरपूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, when the company of saints arrives in full force, Only then are the senses controlled, and the body turned to ashes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर संगी साधु का, दल आया भरपूर।\nइन्द्रिन को तब बांधिया, या तन कीया घूर।।९७६।।",
+    "translation": "Kabir says, when the company of saints arrives in full force, Only then are the senses controlled, and the body turned to ashes.",
+    "meaning": "कबीर कहते हैं, जब साधुओं का संग पूरा होता है, तभी इंद्रियों को बांधा जाता है, और शरीर राख में बदल जाता है।",
+    "explanation": "इस दोहे में कबीर दास जी साधुसंगति और इंद्रिय-निग्रह की बात कर रहे हैं। वह कहते हैं कि जब हमारे जीवन में सच्चे साधुओं का संग आता है, तभी हम अपनी इंद्रियों पर नियंत्रण पा सकते हैं और इस शरीर की नश्वरता को समझ सकते हैं। यह दोहा हमें सिखाता है कि सच्ची साधुसंगति ही हमें आत्म-संयम और आध्यात्मिक ज्ञान की ओर ले जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.893Z"
+  }
+}

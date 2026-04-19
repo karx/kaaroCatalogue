@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4f4068a1-cbf7-490e-9ae2-b1e6eacd2135",
+  "name": "दौड़त दौड़त दाडिया, जेती मन की दौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The more the mind runs, the more it gets exhausted. When it stops running, it finds its true resting place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दौड़त दौड़त दाडिया, जेती मन की दौर।\nदौड़‍ि थके मन थिर भया, वस्‍तु ठौर की ठौर।।११५८।।",
+    "translation": "The more the mind runs, the more it gets exhausted. When it stops running, it finds its true resting place.",
+    "meaning": "जितना अधिक मन दौड़ता है, उतना ही थक जाता है। जब मन दौड़ना बंद करता है, तब वह अपनी वास्तविक ठौर पाता है।",
+    "explanation": "यह दोहा बताता है कि मन की निरंतर दौड़ और भागदौड़ से वह थक जाता है और सुकून की तलाश करता है। जब मन स्थिर होता है, तब वह अपने वास्तविक ठौर यानी शांति और संतुलन को प्राप्त करता है। इसका आशय यह है कि मानसिक शांति और स्थिरता ही असली सुख है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.968Z"
+  }
+}

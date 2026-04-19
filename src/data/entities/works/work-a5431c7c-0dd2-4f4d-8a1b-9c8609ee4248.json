@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a5431c7c-0dd2-4f4d-8a1b-9c8609ee4248",
+  "name": "दुर्लभ मानुष जन्म है, देह न बारंबार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The human birth is rare and does not come again and again. Just as a leaf falls from the tree and does not reattach, so too, once life is lost, it cannot be regained.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुर्लभ मानुष जन्म है, देह न बारंबार।\nतरुवर ज्यों पत्ती झड़े, बहुरि न लागे डार।।१२।।",
+    "translation": "The human birth is rare and does not come again and again. Just as a leaf falls from the tree and does not reattach, so too, once life is lost, it cannot be regained.",
+    "meaning": "मानव जन्म दुर्लभ है और बार-बार नहीं मिलता। जैसे पेड़ से पत्ता गिरकर वापस नहीं लगता, वैसे ही जीवन एक बार खोने पर दोबारा नहीं मिलता।",
+    "explanation": "इस दोहे में संत कबीर मानव जीवन की दुर्लभता और अमूल्यता को उजागर करते हैं। वह बताते हैं कि यह जीवन बार-बार नहीं मिलता, इसलिए हमें इसे व्यर्थ नहीं गँवाना चाहिए। जैसे पेड़ से गिरे पत्ते दोबारा शाखा पर नहीं लग सकते, वैसे ही खोया हुआ जीवन वापस नहीं मिलता। यह हमें अपने जीवन का सदुपयोग करने और इसे अर्थपूर्ण बनाने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

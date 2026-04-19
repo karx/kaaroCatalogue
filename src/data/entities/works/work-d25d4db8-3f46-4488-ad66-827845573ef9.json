@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d25d4db8-3f46-4488-ad66-827845573ef9",
+  "name": "The Descendants",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kamala-das"
+  },
+  "inLanguage": "English",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/The_Descendants",
+    "retrievedAt": "2026-01-04T18:39:37.927Z"
+  }
+}

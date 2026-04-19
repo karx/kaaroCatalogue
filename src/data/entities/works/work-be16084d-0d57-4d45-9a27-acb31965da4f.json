@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-be16084d-0d57-4d45-9a27-acb31965da4f",
+  "name": "पाँच पहर धंधे गया, तीन पहर गया सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Five hours were spent in worldly affairs, three hours in sleep. How can one attain salvation if not even one hour is spent in chanting the name of God?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाँच पहर धंधे गया, तीन पहर गया सोय।\nएक पहर हरि नाम बिन, मुक्ति कैसे होय।।७।।",
+    "translation": "Five hours were spent in worldly affairs, three hours in sleep. How can one attain salvation if not even one hour is spent in chanting the name of God?",
+    "meaning": "पाँच पहर धन्धों में गए, तीन पहर सोने में। हरि नाम के बिना एक पहर भी न बिताया, तो मुक्ति कैसे मिलेगी?",
+    "explanation": "यह दोहा हमें समय के महत्व और ईश्वर की भक्ति की आवश्यकता का बोध कराता है। संत कबीर कहते हैं कि अगर हम पूरा समय सांसारिक कार्यों और निद्रा में व्यतीत कर देंगे और ईश्वर का नाम लेने के लिए समय नहीं निकालेंगे, तो मुक्ति कैसे संभव है? यह हमें अपने समय का उचित उपयोग करने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

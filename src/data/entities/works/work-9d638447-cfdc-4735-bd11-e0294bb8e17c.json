@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9d638447-cfdc-4735-bd11-e0294bb8e17c",
+  "name": "जाके मुनिवर तप करे, वेद थके गुण गाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sages have performed penances, and the Vedas have sung their praises. But even the teachings of the gods are doubted; no one believes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाके मुनिवर तप करे, वेद थके गुण गाय।\nसोई देव सिखापनो, कोई नहीं पतियाय।।१५२०।।",
+    "translation": "The sages have performed penances, and the Vedas have sung their praises. But even the teachings of the gods are doubted; no one believes.",
+    "meaning": "मुनियों ने तप किया है, और वेदों ने उनकी स्तुति की है। लेकिन देवताओं की शिक्षा को भी संदेह की दृष्टि से देखा जाता है; कोई उस पर विश्वास नहीं करता।",
+    "explanation": "इस दोहे में कबीर उस अविश्वास और संदेह पर विचार करते हैं जो सत्य के मार्गदर्शकों और धार्मिक शिक्षाओं के प्रति होता है। भले ही महान मुनियों ने तप किया हो और वेदों ने उनकी स्तुति की हो, लोग फिर भी सत्य पर विश्वास करने में संकोच करते हैं। यह दोहा हमें सत्य और धर्म में विश्वास रखने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.930Z"
+  }
+}

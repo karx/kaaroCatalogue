@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-97d8ae00-6f55-4225-977a-9463f0471ead",
+  "name": "लम्‍बा मारग दूर घर, बिकट पंथ बहु मार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path is long and distant from home, and the way is fraught with many difficulties. Saint, how can one attain the rare sight of the Guru?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लम्‍बा मारग दूर घर, बिकट पंथ बहु मार।\nकहो सन्‍त क्‍यों पाइये, दुर्लभ गुरु दीदार।।७३२।।",
+    "translation": "The path is long and distant from home, and the way is fraught with many difficulties. Saint, how can one attain the rare sight of the Guru?",
+    "meaning": "मार्ग लंबा और घर से दूर है, और रास्ता कई कठिनाइयों से भरा है। संत, गुरु के दुर्लभ दर्शन को कैसे प्राप्त किया जा सकता है?",
+    "explanation": "इस दोहे में कबीर इस बात को उजागर करते हैं कि आध्यात्मिक पथ लंबा और कठिन होता है। गुरु की प्राप्ति एक दुर्लभ और कठिन प्रक्रिया है। वे संतों से पूछते हैं कि इस कठिन यात्रा में गुरु के दर्शन कैसे संभव हो सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.544Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a44c04d-d81d-467f-8ad7-212f623a4b3e",
+  "name": "जो तू सांचा बानिया, सांची हाट लगाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you are a true merchant, set up a true market. Clean the inside with a broom, and let the falsehood go away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो तू सांचा बानिया, सांची हाट लगाव।\nअन्‍दर झारू देइ के, कूरा दूरि बहाव।।१५४४।।",
+    "translation": "If you are a true merchant, set up a true market. Clean the inside with a broom, and let the falsehood go away.",
+    "meaning": "यदि तुम सच्चे व्यापारी हो, तो सच्ची दुकान सजाओ। अंदर की गंदगी को झाड़ू से साफ करो और झूठ को दूर बहाओ।",
+    "explanation": "कबीर इस दोहे में यह सिखाते हैं कि सच्चे व्यक्ति को अपनी आत्मा और आचरण को सत्य के अनुरूप बनाना चाहिए। जैसे एक सच्चे व्यापारी को अपनी दुकान को सही तरीके से सजाना चाहिए और अंदर की गंदगी को साफ करना चाहिए, वैसे ही व्यक्ति को अपनी आत्मा को पवित्र और सत्य के अनुसार रखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.935Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e043109-cb7f-4889-8a30-7ab6a090e3b7",
+  "name": "Kuyil Pattu",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-subramania-bharati"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Kuyil_Pattu",
+    "retrievedAt": "2026-01-04T18:39:24.867Z"
+  }
+}

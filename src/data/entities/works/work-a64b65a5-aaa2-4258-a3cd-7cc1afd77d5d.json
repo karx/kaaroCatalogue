@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a64b65a5-aaa2-4258-a3cd-7cc1afd77d5d",
+  "name": "ऊंचा देखि न राचिये, ऊंचा पेड़ खजूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not admire height; the date palm tree is tall. Birds do not sit in its shade, and its fruits are far away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचा देखि न राचिये, ऊंचा पेड़ खजूर।\nपंखि न बैठे छांयड़े, फल लागा पै दूर।।१२७१।।",
+    "translation": "Do not admire height; the date palm tree is tall. Birds do not sit in its shade, and its fruits are far away.",
+    "meaning": "ऊंचाई की प्रशंसा न करें; खजूर का पेड़ ऊंचा होता है। पक्षी उसकी छांव में नहीं बैठते, और इसके फल भी दूर होते हैं।",
+    "explanation": "कबीर जी ने इस दोहे में ऊंचाई की प्रशंसा करने के बजाय उसकी वास्तविकता को दिखाया है। खजूर का पेड़ ऊंचा होता है, लेकिन न तो पक्षी उसकी छांव में बैठते हैं और न ही इसके फल आसानी से मिलते हैं। यह दिखाता है कि केवल ऊंचाई और बड़ेपन से कुछ नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.544Z"
+  }
+}

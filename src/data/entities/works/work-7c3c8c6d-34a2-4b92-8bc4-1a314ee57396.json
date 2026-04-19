@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c3c8c6d-34a2-4b92-8bc4-1a314ee57396",
+  "name": "जब लगि डोला तब लगि बोला, तब लगि धन व्‍यवहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as the pitcher was intact, there was speech and trade. But when it broke and the water spilled, no one looks at the door.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लगि डोला तब लगि बोला, तब लगि धन व्‍यवहार।\nड़ाला फूटा बाला गया, कोई न झांके द्वार।।१५११।।",
+    "translation": "As long as the pitcher was intact, there was speech and trade. But when it broke and the water spilled, no one looks at the door.",
+    "meaning": "जब तक घड़ा सही सलामत था, तब तक बोलचाल और व्यापार चलता रहा। लेकिन जब घड़ा फूटा और पानी निकल गया, तब कोई दरवाजे पर झांकने भी नहीं आया।",
+    "explanation": "कबीर इस दोहे में जीवन की नश्वरता और धन-दौलत की अस्थिरता का वर्णन करते हैं। जब तक शरीर और संपत्ति ठीक रहते हैं, तब तक लोग आपसे व्यवहार करते हैं, लेकिन जैसे ही ये चीजें नष्ट हो जाती हैं, लोग आपको भूल जाते हैं। यह दोहा हमें जीवन के सच्चे मूल्यों पर ध्यान देने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.929Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f744ae09-9a11-499a-866d-ad9c6b688904",
+  "name": "जीव जनि मारह बापुरा, सबका एकहि प्राण",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not kill the innocent, for all share the same life force. Murder is never forgiven, even if you hear a million scriptures.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जीव जनि मारह बापुरा, सबका एकहि प्राण।\nहत्‍या कबहूं न छुटि है, कोटिक सुनउ पुराण।।१५३०।।",
+    "translation": "Do not kill the innocent, for all share the same life force. Murder is never forgiven, even if you hear a million scriptures.",
+    "meaning": "निर्दोष जीवों को मत मारो, क्योंकि सभी में एक ही प्राण है। हत्या कभी माफ नहीं होती, चाहे तुम करोड़ों पुराण सुन लो।",
+    "explanation": "कबीर इस दोहे में जीव हत्या को सबसे बड़ा पाप मानते हैं। वे कहते हैं कि सभी प्राणियों में एक ही जीवन शक्ति है और किसी की हत्या करना सबसे बड़ा अपराध है, जिसे कभी माफ नहीं किया जा सकता। धार्मिक ग्रंथों का अध्ययन भी इस पाप को नहीं मिटा सकता। इसलिए हमें हर जीव के जीवन का सम्मान करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.932Z"
+  }
+}

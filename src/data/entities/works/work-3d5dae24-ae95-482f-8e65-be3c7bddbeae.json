@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d5dae24-ae95-482f-8e65-be3c7bddbeae",
+  "name": "आशा तजि माया तजै, मोह तजै अरु मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint abandons hope, illusion, attachment, and pride. He renounces joy, sorrow, and criticism. This is what Kabir describes as a true saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आशा तजि माया तजै, मोह तजै अरु मान।\nहरष शोक निंदा तजै, कहैं कबीर संत जान।।६०५।।",
+    "translation": "A saint abandons hope, illusion, attachment, and pride. He renounces joy, sorrow, and criticism. This is what Kabir describes as a true saint.",
+    "meaning": "संत आशा, माया, मोह, और मान को त्याग देता है। वह खुशी, दुख, और निंदा को भी छोड़ देता है। यही कबीर ने सच्चे संत का वर्णन किया है।",
+    "explanation": "सच्चे संत सभी सांसारिक भावनाओं और इच्छाओं से परे होते हैं। वे किसी भी प्रकार की आशा, माया, मोह, या आत्म-सम्मान की परवाह नहीं करते। संत की पहचान उसकी आत्मा की शांति और निर्विकारता से होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.000Z"
+  }
+}

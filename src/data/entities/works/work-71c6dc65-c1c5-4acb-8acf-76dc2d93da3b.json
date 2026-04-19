@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-71c6dc65-c1c5-4acb-8acf-76dc2d93da3b",
+  "name": "मान अभिमान न कीजिये, कहैं कबीर पुकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not be proud, Kabir proclaims loudly. If the head does not bow to the saint, it should be cut off.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मान अभिमान न कीजिये, कहैं कबीर पुकार।\nजो सिर साधु न नमैं, तो सिर काटि उतार।।९६२।।",
+    "translation": "Do not be proud, Kabir proclaims loudly. If the head does not bow to the saint, it should be cut off.",
+    "meaning": "अभिमान मत करो, कबीर जोर से कहते हैं। अगर सिर संत के सामने नहीं झुकता, तो उसे काट देना चाहिए।",
+    "explanation": "कबीर दास जी इस दोहे में विनम्रता और गुरु के प्रति सम्मान का महत्व बता रहे हैं। वह कहते हैं कि हमें कभी भी घमंड नहीं करना चाहिए। अगर हमारा सिर संत या गुरु के सामने नहीं झुकता, तो वह सिर व्यर्थ है। इसका अर्थ है कि गुरु के प्रति आदर और भक्ति होना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

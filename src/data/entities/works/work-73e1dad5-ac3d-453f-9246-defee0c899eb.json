@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-73e1dad5-ac3d-453f-9246-defee0c899eb",
+  "name": "कबीर दुनिया देहुरै, सीस नवांवण जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that worshipping in the external world is futile. The Lord resides within the heart, so seek Him there.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर दुनिया देहुरै, सीस नवांवण जाइ।\nहिरदा भीतर हरि बसै, तूं ताही सौं ल्‍यौं लाइ।।२०३०।।",
+    "translation": "Kabir says that worshipping in the external world is futile. The Lord resides within the heart, so seek Him there.",
+    "meaning": "कबीर कहते हैं कि बाहरी दुनिया में पूजा करना व्यर्थ है। भगवान हृदय में निवास करते हैं, इसलिए उन्हें वहीं खोजो।",
+    "explanation": "इस दोहे में कबीर ने बाहरी पूजा की व्यर्थता को उजागर किया है और बताया है कि भगवान हृदय के भीतर निवास करते हैं। इसलिए सच्ची भक्ति और खोज हृदय के भीतर होनी चाहिए। यह सच्ची भक्ति और आत्मा के अंतर्निहित ज्ञान की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.807Z"
+  }
+}

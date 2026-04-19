@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a2b8b861-16c8-4c9e-8567-10f6b1cde36e",
+  "name": "करहु छोड़ कुल लाज, जो सतगुरु उपदेश है",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Abandon your family pride if it conflicts with the true Guru's teachings. This will fulfill all life's goals, so have faith with certainty.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करहु छोड़ कुल लाज, जो सतगुरु उपदेश है।\nहोये सब जिव काज, निश्चय करि परतीत करू।।२७५।।",
+    "translation": "Abandon your family pride if it conflicts with the true Guru's teachings. This will fulfill all life's goals, so have faith with certainty.",
+    "meaning": "अपनी पारिवारिक प्रतिष्ठा को छोड़ दो यदि यह सच्चे गुरु के उपदेशों के विपरीत है। इससे जीवन के सभी कार्य सिद्ध हो जाएंगे, इसलिए विश्वास के साथ निश्चितता रखो।",
+    "explanation": "यह दोहा समझाता है कि यदि सच्चे गुरु के उपदेशों का पालन करने में पारिवारिक प्रतिष्ठा आड़े आती है, तो उसे त्याग देना चाहिए। सच्चे गुरु के उपदेशों पर विश्वास और अडिगता के साथ चलने से ही जीवन के सभी कार्य सफल होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7bea64f-9e6a-402e-b9fa-e2d2c1b37000",
+  "name": "भेदी लीया साथ करि, दीन्‍हा वस्‍तु लखाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who has taken the path of truth, sees the divine in all things. The path that took countless lifetimes to traverse can be covered in a moment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भेदी लीया साथ करि, दीन्‍हा वस्‍तु लखाय।\nकोटि जनम का पंथ था, पल में पहुंचा जाय।।५२१।।",
+    "translation": "One who has taken the path of truth, sees the divine in all things. The path that took countless lifetimes to traverse can be covered in a moment.",
+    "meaning": "जो सत्य के मार्ग पर चला, सब वस्तुओं में दिव्य दृष्टि प्राप्त करता है। जो मार्ग अनगिनत जन्मों में तय होता है, वह पल में पूरा हो सकता है।",
+    "explanation": "इस दोहे में कबीर ने सत्य के मार्ग पर चलने के महत्व को बताया है। उन्होंने कहा कि जिस मार्ग को तय करने में अनगिनत जन्म लग जाते हैं, वह मार्ग अगर सत्य पर आधारित हो, तो उसे एक पल में पार किया जा सकता है। यह दोहा यह भी दिखाता है कि सच्चे मार्ग पर चलकर हम सभी वस्तुओं में दिव्यता देख सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

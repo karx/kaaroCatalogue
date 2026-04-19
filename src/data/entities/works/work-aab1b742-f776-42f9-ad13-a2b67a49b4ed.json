@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aab1b742-f776-42f9-ad13-a2b67a49b4ed",
+  "name": "तन को जोगी सब करे, मन को बिरला कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Many practice yoga for the body, but few do so for the mind. The true essence is easily attained if the mind is focused on yoga.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन को जोगी सब करे, मन को बिरला कोय।\nसहजै सब विधि पाइये, जो मन जोगी होय।।१२७।।",
+    "translation": "Many practice yoga for the body, but few do so for the mind. The true essence is easily attained if the mind is focused on yoga.",
+    "meaning": "बहुत से लोग शरीर के लिए योग का अभ्यास करते हैं, लेकिन मन के लिए योग का अभ्यास बहुत ही कम होता है। यदि मन योगी हो, तो सहज ही सभी विधियाँ प्राप्त हो जाती हैं।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि शारीरिक योग का अभ्यास तो बहुत लोग करते हैं, लेकिन मानसिक योग का अभ्यास कम ही लोग करते हैं। वास्तव में, अगर मन योगी हो, तो जीवन की सभी विधियाँ और साधन सहज ही प्राप्त हो जाते हैं। मानसिक योग ही सबसे महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

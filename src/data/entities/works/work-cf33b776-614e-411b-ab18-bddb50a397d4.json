@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cf33b776-614e-411b-ab18-bddb50a397d4",
+  "name": "चिति पाई मन थिर भया, सतगुर करी सहाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Upon gaining knowledge, the mind becomes stable. With the help of the True Guru, one practices the teachings, becoming the ruler of the three worlds within the heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चिति पाई मन थिर भया, सतगुर करी सहाइ।\nअनिन कथा तनि आचरी, हिरदै त्रिभुवन राइ।।१८०८।।",
+    "translation": "Upon gaining knowledge, the mind becomes stable. With the help of the True Guru, one practices the teachings, becoming the ruler of the three worlds within the heart.",
+    "meaning": "ज्ञान प्राप्त करने पर मन स्थिर हो जाता है। सच्चे गुरु की सहायता से व्यक्ति उपदेशों का अभ्यास करता है और अपने हृदय में तीनों लोकों का राजा बन जाता है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि सच्चे गुरु की सहायता से प्राप्त ज्ञान से मन को स्थिरता मिलती है। जब व्यक्ति गुरु के उपदेशों का अनुसरण करता है, तो वह अपने हृदय में तीनों लोकों (स्वर्ग, पृथ्वी, और पाताल) का स्वामी बन जाता है। यह आध्यात्मिक उन्नति और शांति की प्राप्ति की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.623Z"
+  }
+}

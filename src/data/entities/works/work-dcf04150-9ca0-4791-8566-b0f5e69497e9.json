@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dcf04150-9ca0-4791-8566-b0f5e69497e9",
+  "name": "कहंता तो बहु मिला, गहंता मिला न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There are many who preach, but few who truly grasp. Let go of the one who speaks but does not understand.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहंता तो बहु मिला, गहंता मिला न कोय।\nसो कहंता बहि जान दे, जो न गहंता होय।।१४७७।।",
+    "translation": "There are many who preach, but few who truly grasp. Let go of the one who speaks but does not understand.",
+    "meaning": "कहने वाले तो बहुत मिलते हैं, लेकिन समझने वाले कोई नहीं मिलता। उस कहने वाले को छोड़ दो, जो समझने वाला न हो।",
+    "explanation": "इस दोहे में कबीर बताना चाहते हैं कि बोलने वाले बहुत होते हैं, लेकिन समझने वाले कम होते हैं। केवल बोलना ही पर्याप्त नहीं है, ज्ञान को समझना और आत्मसात करना जरूरी है। इसलिए, यदि कोई सिर्फ बोलता है लेकिन उसे खुद ज्ञान नहीं है, तो ऐसे व्यक्ति से दूर रहना चाहिए। यह दोहा वास्तविक ज्ञान की महत्ता पर जोर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.658Z"
+  }
+}

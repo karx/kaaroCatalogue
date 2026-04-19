@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d8fff725-8c28-4407-b0f3-50ef782548de",
+  "name": "आजु काल दिन कइक में, स्थिर नाहिं शरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In these times, the body is not stable even for a day. Kabir questions, how can you preserve delicate clothes?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आजु काल दिन कइक में, स्थिर नाहिं शरीर।\nकहहिं कबीर कस रखिहो, कांचे बासन नीर।।१४४९।।",
+    "translation": "In these times, the body is not stable even for a day. Kabir questions, how can you preserve delicate clothes?",
+    "meaning": "इन दिनों, शरीर एक दिन भी स्थिर नहीं रहता। कबीर पूछते हैं, कैसे तुम नाजुक कपड़े को सहेज सकते हो?",
+    "explanation": "कबीर इस दोहे में जीवन की अस्थिरता और उसकी अनिश्चितता की बात करते हैं। वे बताते हैं कि आजकल शरीर भी एक दिन के लिए स्थिर नहीं रहता, फिर नाजुक कपड़े को कैसे संभाला जा सकता है। यह दोहा जीवन की अस्थिरता और भौतिक वस्तुओं की क्षणिकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.371Z"
+  }
+}

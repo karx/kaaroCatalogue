@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-876732ef-9a35-438f-8953-278fbc0db436",
+  "name": "चकवी बिछुटी रैणि की, आइ मि‍ली परभाति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The nightingale, separated from its mate, finds the morning. Those who are separated from Ram, neither find happiness in sunlight nor shade.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चकवी बिछुटी रैणि की, आइ मि‍ली परभाति।\nजे जन बिछुटे राम सूं, नां सुख धूप न छांह।।१७३८।।",
+    "translation": "The nightingale, separated from its mate, finds the morning. Those who are separated from Ram, neither find happiness in sunlight nor shade.",
+    "meaning": "कोयल, जो अपने साथी से बिछड़ी है, सुबह को पाती है। जो लोग राम से बिछड़े हैं, उन्हें न तो धूप में सुख मिलता है और न ही छांव में।",
+    "explanation": "कबीर इस दोहे में दिव्य से बिछड़ने की पीड़ा को व्यक्त करते हैं। उन्होंने कहा कि जो राम से बिछड़े हैं, उन्हें किसी भी स्थिति में सुख नहीं मिलता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.076Z"
+  }
+}

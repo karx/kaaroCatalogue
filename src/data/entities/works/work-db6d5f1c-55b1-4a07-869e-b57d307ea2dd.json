@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db6d5f1c-55b1-4a07-869e-b57d307ea2dd",
+  "name": "रतन लराइन रेत में, कंकर चुनि चुनि खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Jewels are scattered in the sand, picking stones to eat. Kabir says, after calling, one would regret again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रतन लराइन रेत में, कंकर चुनि चुनि खाय।\nकहहिं कबीर पुकारिके, बहुरि चले पछिताय।।१६६२।।",
+    "translation": "Jewels are scattered in the sand, picking stones to eat. Kabir says, after calling, one would regret again.",
+    "meaning": "रत्न रेत में बिखरे हुए हैं, पत्थर चुन-चुनकर खा रहे हैं। कबीर कहते हैं, पुकारने के बाद भी एक बार फिर पछताना पड़ेगा।",
+    "explanation": "कबीर इस दोहे में जीवन के भ्रम और पछतावे को दर्शाते हैं। उन्होंने कहा कि जिन चीजों की खोज हम करते हैं, वे हमें केवल पछतावा देती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.786Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e5a7e077-a01e-4c10-9014-b6761b5d92ad",
+  "name": "मलयागिरि के बास महं, बेधो ढ़ाक पलास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the residence of Malaya Mountain, there are trees like Dhak and Palash. The Veena (a musical instrument) has always resided there, enduring through ages.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मलयागिरि के बास महं, बेधो ढ़ाक पलास।\nवेणा कबहन बेधिया, जुगजुग रहते पास।।१६५७।।",
+    "translation": "In the residence of Malaya Mountain, there are trees like Dhak and Palash. The Veena (a musical instrument) has always resided there, enduring through ages.",
+    "meaning": "मलयागिरि के निवास में, ढाक और पलास जैसे पेड़ हैं। वीणा वहां हमेशा से है, युगों से वहाँ विद्यमान है।",
+    "explanation": "कबीर इस दोहे में प्रकृति और शाश्वत सत्य की बात करते हैं। उन्होंने कहा कि मलयागिरि में ढाक और पलास जैसे पेड़ हैं, और वीणा वहाँ हमेशा से रही है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.785Z"
+  }
+}

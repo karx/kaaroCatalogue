@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e075397-ae63-4c3a-92ea-b69df9b0adf0",
+  "name": "सायर बुद्धि बनाय के, बाए बिचक्षण चौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "With sharp intellect and wisdom, the clever thief roams around. The entire world is lost, and no place seems stable.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सायर बुद्धि बनाय के, बाए बिचक्षण चौर।\nसारी दुनिया जहड़े गया, कोइ न लागा ठौर।।१६९६।।",
+    "translation": "With sharp intellect and wisdom, the clever thief roams around. The entire world is lost, and no place seems stable.",
+    "meaning": "तेज बुद्धि और समझ के साथ, चतुर चोर घूमता है। पूरी दुनिया खोई हुई है, और कोई भी जगह स्थिर नहीं लगती।",
+    "explanation": "कबीर इस दोहे में बुद्धि और वास्तविकता की बात करते हैं। उन्होंने कहा कि बुद्धि और समझ के बावजूद, दुनिया अस्थिर और भ्रमित है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.792Z"
+  }
+}

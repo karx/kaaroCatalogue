@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3cc0676-d060-4919-bb61-031830b67eb2",
+  "name": "बेहद्द अगाधी पीव है, ये सब हदके जीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The infinite nectar is beyond limits, yet these creatures live within bounds. Those who are confined by limits can never taste this nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बेहद्द अगाधी पीव है, ये सब हदके जीव।\nजे नर राते हद्दसो, ते कदी न पावै पीव।।२२२१।।",
+    "translation": "The infinite nectar is beyond limits, yet these creatures live within bounds. Those who are confined by limits can never taste this nectar.",
+    "meaning": "असीम अमृत सीमाओं से परे है, लेकिन ये जीव सीमाओं में रहते हैं। जो सीमाओं से बंधे हैं, वे कभी इस अमृत का स्वाद नहीं ले सकते।",
+    "explanation": "इस दोहे में कबीर जी यह दिखाते हैं कि असीम अमृत या दिव्यता सीमाओं से परे होती है। जो लोग सीमाओं के भीतर रहते हैं, वे इस दिव्य अमृत को कभी नहीं प्राप्त कर सकते। यह दोहा यह समझाता है कि आध्यात्मिक अनुभव और वास्तविकता का आनंद सीमाओं को पार करने और व्यापक दृष्टिकोण अपनाने से मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.083Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e523b0df-c9cb-4b0e-86ce-a31804affe38",
+  "name": "कोयला भी हो ऊजला, जरि बरि है जो सेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even coal can become bright if it is burned in the fire. But a fool remains dark, like a field of black soil.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोयला भी हो ऊजला, जरि बरि है जो सेव।\nमूरख होय न ऊजला, ज्यों कालर का खेत।।३८६।।",
+    "translation": "Even coal can become bright if it is burned in the fire. But a fool remains dark, like a field of black soil.",
+    "meaning": "कोयला भी उज्जवल हो सकता है अगर उसे आग में जलाया जाए। लेकिन मूर्ख हमेशा अंधकारमय रहता है, जैसे काले मिट्टी का खेत।",
+    "explanation": "इस दोहे में कबीर दास जी ने यह व्यक्त किया है कि कोयला भी अगर आग में तपाया जाए, तो वह उज्जवल और चमकदार हो जाता है। लेकिन मूर्ख व्यक्ति कभी भी उज्जवल नहीं हो सकता, चाहे उसे कितनी भी शिक्षा दी जाए, वह हमेशा अंधकारमय रहता है। इसका तात्पर्य है कि ज्ञान और समझ के बिना, व्यक्ति का चरित्र और स्वभाव नहीं बदलता। यह दोहा हमें समझाता है कि केवल बाहरी परिवर्तन से ही व्यक्ति की गुणवत्ता नहीं बदलती, बल्कि आंतरिक जागरूकता और समझ आवश्यक होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

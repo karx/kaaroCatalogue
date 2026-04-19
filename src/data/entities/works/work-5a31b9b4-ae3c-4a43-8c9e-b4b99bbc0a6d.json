@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5a31b9b4-ae3c-4a43-8c9e-b4b99bbc0a6d",
+  "name": "कैसो कहा बिगाड़िया, जो मुंडै सौ बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What harm is there in shaving the head a hundred times? Why not shave the mind that is full of severe defects?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कैसो कहा बिगाड़िया, जो मुंडै सौ बार।\nमन को काहे न मूंडिये, जामे विषम-विकार।।२१८।।",
+    "translation": "What harm is there in shaving the head a hundred times? Why not shave the mind that is full of severe defects?",
+    "meaning": "सिर को सौ बार मुंडाने में क्या बुरा है? मन को क्यों नहीं मुंडाते, जिसमें भयंकर दोष भरे हैं?",
+    "explanation": "इस दोहे में कबीर आंतरिक शुद्धि पर जोर देते हैं। सिर के बाल बार-बार मुंडाने से कुछ लाभ नहीं है, बल्कि अपने मन की बुराइयों और दोषों को दूर करना चाहिए। असली साधना वही है जिसमें मन की विकृतियों का नाश हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

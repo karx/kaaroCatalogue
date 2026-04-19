@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-11187be4-9ccb-4a90-971f-77c231265f7d",
+  "name": "विष्‍ठा का चौका दिया, हांडी सीझै हाड",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "They cook in a place filled with excrement, and bones boil in the pot. The residue of buttermilk remains untainted, even such people have a guru who is a rogue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विष्‍ठा का चौका दिया, हांडी सीझै हाड।\nछूति बचवै चास की, तिनहूं का गुरु राड।।२२४७।।",
+    "translation": "They cook in a place filled with excrement, and bones boil in the pot. The residue of buttermilk remains untainted, even such people have a guru who is a rogue.",
+    "meaning": "वह लोग मल-मूत्र से भरी जगह में खाना पकाते हैं, और हांडियों में हड्डियाँ उबालते हैं। मट्ठा (छाछ) का अवशेष बिना छुए रहता है, फिर भी उन लोगों का गुरु एक धोखेबाज है।",
+    "explanation": "इस दोहे में कबीर जी बताते हैं कि कुछ लोग ऐसी गंदी जगह में खाना पकाते हैं, जहाँ मल-मूत्र पड़ा होता है, और हांडियों में हड्डियाँ उबालते हैं। लेकिन छाछ का अवशेष उनसे बचा रहता है। यह उन लोगों की विडम्बना है कि ऐसे गंदे कार्य करने के बाद भी उनके गुरु होते हैं, जो उन्हें सच्चाई से दूर ले जाते हैं और गलत मार्ग पर चलने के लिए प्रेरित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.091Z"
+  }
+}

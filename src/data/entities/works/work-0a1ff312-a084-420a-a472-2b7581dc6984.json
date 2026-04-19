@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a1ff312-a084-420a-a472-2b7581dc6984",
+  "name": "तीरथ गए ते बहि मुए, जूड़े पाणि नहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who go to pilgrimage die outside, they do not bathe in the holy water. Kabir says, those who lament are demons.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीरथ गए ते बहि मुए, जूड़े पाणि नहाय।\nकहहिं कबीर पुकारि के, राक्षस होय पछताय।।१५६१।।",
+    "translation": "Those who go to pilgrimage die outside, they do not bathe in the holy water. Kabir says, those who lament are demons.",
+    "meaning": "जो तीर्थ यात्रा पर जाते हैं, वे बाहर मर जाते हैं और पवित्र जल में स्नान नहीं करते हैं। कबीर कहते हैं कि जो पछताते हैं, वे राक्षस हैं।",
+    "explanation": "कबीर इस दोहे में तीर्थ यात्रा की सच्चाई को दर्शाते हैं। उन्होंने कहा कि तीर्थ यात्रा पर जाने वाले लोग केवल बाहरी रूप से यात्रा करते हैं और पवित्र जल में स्नान नहीं करते। जो लोग पछताते हैं और केवल बाहरी क्रियाएँ करते हैं, वे राक्षसों की तरह होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.206Z"
+  }
+}

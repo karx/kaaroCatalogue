@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a442033-8499-4785-b9e5-762d4f76edec",
+  "name": "कबीर चेरा संत का, दासनि का परदास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir is the servant of the saint and the handmaid's messenger. Kabir seeks protection as the grass grows under the foot.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर चेरा संत का, दासनि का परदास।\nकबीर ऐसैं होइ रक्षा, ज्यूँ पाऊँ तलि घास।।२४०।।",
+    "translation": "Kabir is the servant of the saint and the handmaid's messenger. Kabir seeks protection as the grass grows under the foot.",
+    "meaning": "कबीर संत का सेवक और दासी का संदेशवाहक हैं। कबीर उसी तरह से सुरक्षा चाहते हैं, जैसे घास पाँव के नीचे बढ़ती है।",
+    "explanation": "इस दोहे में कबीर अपनी विनम्रता और सेवा भाव को व्यक्त करते हैं। वे कहते हैं कि वे संत के सेवक हैं और दासी के संदेशवाहक हैं। वे सुरक्षा की कामना करते हैं, जैसे घास पाँव के नीचे स्वतः उग जाती है। यह उनकी साधना और आत्म-समर्पण की भावना को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cbc9121d-a232-4a74-aa3b-ae0456d8bb70",
+  "name": "साहिब के दरबार में, कमी काहु की नाहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the Lord's court, there is no lack of anything. But the servant does not experience joy due to neglecting their duties.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साहिब के दरबार में, कमी काहु की नाहि।\nबन्‍दा मौज न पावहीं, चूक चाकरी माहिं।।६६८।।",
+    "translation": "In the Lord's court, there is no lack of anything. But the servant does not experience joy due to neglecting their duties.",
+    "meaning": "साहिब के दरबार में किसी चीज की कमी नहीं होती, लेकिन सेवक अपनी चूक के कारण आनंद से वंचित रह जाता है।",
+    "explanation": "इस दोहे में कबीर साहिब के दरबार में किसी भी वस्तु की कमी न होने की बात करते हैं। लेकिन व्यक्ति अपनी गलतियों और कर्तव्यों की अवहेलना के कारण उस आनंद का अनुभव नहीं कर पाता जो उसे मिलना चाहिए। यह दोहा सत्कर्म और भक्ति पर जोर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

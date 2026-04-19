@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7ce3fae7-860f-4877-841c-db64dd46e461",
+  "name": "केला तबहि न चेतिया, जब ढिग लागा बेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You did not realize when the thorn bush was nearby, and now what is the use of realization after being surrounded by thorns?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "केला तबहि न चेतिया, जब ढिग लागा बेर।\nअब के चेते क्‍या भया, जब कांटेनि लिन्‍हा घेर।।१४८६।।",
+    "translation": "You did not realize when the thorn bush was nearby, and now what is the use of realization after being surrounded by thorns?",
+    "meaning": "जब बेर का झाड़ पास था, तब चेत नहीं हुआ। अब चेतने का क्या फायदा, जब कांटों ने घेर लिया है?",
+    "explanation": "कबीर इस दोहे में जीवन की अनिवार्य समस्याओं के प्रति समय पर सजग होने की शिक्षा देते हैं। जब समय पर सतर्कता नहीं बरती जाती, तो बाद में पछताने का कोई फायदा नहीं होता। वे यह समझाने की कोशिश कर रहे हैं कि मुश्किलों का सामना करने के लिए हमें पहले से तैयार रहना चाहिए, क्योंकि एक बार जब वे हमारे चारों ओर आ जाती हैं, तो बचने का रास्ता कठिन हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.660Z"
+  }
+}

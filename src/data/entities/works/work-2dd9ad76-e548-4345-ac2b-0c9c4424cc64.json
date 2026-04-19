@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2dd9ad76-e548-4345-ac2b-0c9c4424cc64",
+  "name": "निर्मल गुरु के ज्ञान सो, निरमल साधु भाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The pure knowledge of the guru makes the saint pure. But coal cannot become white, even with a hundred loads of soap.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निर्मल गुरु के ज्ञान सो, निरमल साधु भाय।\nकोइला होय न ऊजला, सौ मन साबुन लाय।।१३८१।।",
+    "translation": "The pure knowledge of the guru makes the saint pure. But coal cannot become white, even with a hundred loads of soap.",
+    "meaning": "निर्मल गुरु के ज्ञान से साधु निर्मल बनता है। लेकिन कोयला सौ मन साबुन लाने पर भी उजला नहीं हो सकता।",
+    "explanation": "कबीर इस दोहे में ज्ञान की शक्ति और आंतरिक शुद्धता पर जोर देते हैं। वे कहते हैं कि गुरु के ज्ञान से ही साधु निर्मल बनता है, लेकिन कुछ चीजें, जैसे कोयला, कभी भी अपने मूल स्वभाव को नहीं बदल सकतीं, चाहे जितना भी प्रयास कर लिया जाए। यह दोहा हमें सिखाता है कि सच्ची शुद्धता और ज्ञान आंतरिक गुणों से आती है, न कि बाहरी प्रयासों से।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.088Z"
+  }
+}

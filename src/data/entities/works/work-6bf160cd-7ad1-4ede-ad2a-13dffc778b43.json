@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6bf160cd-7ad1-4ede-ad2a-13dffc778b43",
+  "name": "कबीर माया मोहिनी, मोहै जान सुजान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is enchanting and deceives even the wise. Even if one tries to escape, it does not let go and continually strikes with its arrows.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया मोहिनी, मोहै जान सुजान।\nभागै हू छूटे नहीं, भरि भरि मारै बान।।१२०३।।",
+    "translation": "Kabir says, illusion is enchanting and deceives even the wise. Even if one tries to escape, it does not let go and continually strikes with its arrows.",
+    "meaning": "कबीर कहते हैं, माया मोहिनी है और यह ज्ञानी लोगों को भी धोखा देती है। भागने की कोशिश करने पर भी यह नहीं छोड़ती और लगातार बाणों से वार करती है।",
+    "explanation": "इस दोहे में कबीर ने माया के मोहक और धोखाधड़ी स्वभाव को उजागर किया है। माया इतनी प्रभावशाली है कि ज्ञानी भी इसके प्रभाव से नहीं बच पाते। माया से भागने पर भी यह पीछा करती रहती है और बार-बार हानि पहुंचाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.266Z"
+  }
+}

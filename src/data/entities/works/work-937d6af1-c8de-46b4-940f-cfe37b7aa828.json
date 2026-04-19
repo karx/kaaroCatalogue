@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-937d6af1-c8de-46b4-940f-cfe37b7aa828",
+  "name": "माला सांस उसांस की, फेरै कोई निज दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rosary is like the breath and exhalation; it is only used by a devoted servant. In the cycle of 84 lakh births, it does not cut the threads of karma.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला सांस उसांस की, फेरै कोई निज दास।\nचौरासी भरमै नहीं, कटै करम की फांस।।७३४।।",
+    "translation": "The rosary is like the breath and exhalation; it is only used by a devoted servant. In the cycle of 84 lakh births, it does not cut the threads of karma.",
+    "meaning": "माला सांस और श्वास की तरह है; इसका उपयोग केवल एक भक्त servant द्वारा होता है। चौरासी लाख जन्मों के चक्र में, यह कर्मों की फांस को नहीं काटता।",
+    "explanation": "इस दोहे में कबीर माला और सांस के उपयोग को तुलना करते हैं और यह बताते हैं कि माला का जप केवल एक सच्चे भक्त द्वारा ही किया जाता है। हालांकि, यह माला चौरासी लाख जन्मों के चक्र को समाप्त नहीं कर सकती। यह कर्मों को काटने का उपाय नहीं है, बल्कि भक्ति और ध्यान के माध्यम से ही कर्मों का बंधन समाप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.544Z"
+  }
+}

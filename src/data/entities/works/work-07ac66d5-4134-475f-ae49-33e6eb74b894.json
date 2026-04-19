@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-07ac66d5-4134-475f-ae49-33e6eb74b894",
+  "name": "सब जग डरपैं काल सों, ब्रह्मा विश्‍नु महेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The whole world fears time, including Brahma, Vishnu, and Mahesh. Gods, humans, sages, and all beings, all are subject to time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब जग डरपैं काल सों, ब्रह्मा विश्‍नु महेस।\nसुर नर मुनि औ लोक सब, सात रसातल सेस।।१०७०।।",
+    "translation": "The whole world fears time, including Brahma, Vishnu, and Mahesh. Gods, humans, sages, and all beings, all are subject to time.",
+    "meaning": "सारा संसार काल से डरता है, ब्रह्मा, विष्णु और महेश भी। देवता, मनुष्य, ऋषि और सभी प्राणी, सभी काल के अधीन हैं।",
+    "explanation": "इस दोहे में कबीर सभी जीवों की काल के प्रति भय और उसकी अनिवार्यता को दिखाते हैं। चाहे देवता हों या मनुष्य, सभी काल के प्रभाव से बच नहीं सकते। यह जीवन के एकमात्र अटल सत्य और काल की शक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

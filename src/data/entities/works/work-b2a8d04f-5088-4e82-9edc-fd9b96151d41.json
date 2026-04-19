@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b2a8d04f-5088-4e82-9edc-fd9b96151d41",
+  "name": "यह सब लच्‍छन चित्त धरे, अपलच्‍छन सब त्‍याग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Hold onto these qualities in your mind and discard all that is undesirable. True attention is focused on the Guru's feet.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह सब लच्‍छन चित्त धरे, अपलच्‍छन सब त्‍याग।\nसावधन सम ध्‍यान है, गुरु चरनन में लाग।।६८३।।",
+    "translation": "Hold onto these qualities in your mind and discard all that is undesirable. True attention is focused on the Guru's feet.",
+    "meaning": "इन गुणों को अपने मन में पकड़ो और अपचयन योग्य सभी चीजों को त्याग दो। सच्चा ध्यान गुरु के चरणों में केंद्रित होता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि व्यक्ति को अच्छे गुणों को अपने मन में धारण करना चाहिए और अवांछनीय चीजों को त्याग देना चाहिए। सच्चा ध्यान और साधना गुरु के चरणों में ध्यान केंद्रित करती है। यह दोहा ध्यान और आत्म-संवर्धन के महत्व को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

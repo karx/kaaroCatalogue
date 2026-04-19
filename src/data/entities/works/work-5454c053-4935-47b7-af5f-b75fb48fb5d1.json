@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5454c053-4935-47b7-af5f-b75fb48fb5d1",
+  "name": "ढिग बूडे उछले नहीं, इहै अंदेसा मोहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wooden log does not float even when it is old; this is the feeling in me. In the current of the stream of illusion, how can you be indifferent?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ढिग बूडे उछले नहीं, इहै अंदेसा मोहिं।\nसलिल मोह की धार में, का निंदिआई तोहिं।।१५५३।।",
+    "translation": "The wooden log does not float even when it is old; this is the feeling in me. In the current of the stream of illusion, how can you be indifferent?",
+    "meaning": "पुराना लकड़ी का टुकड़ा भी तैरता नहीं है; यह मेरे भीतर की भावना है। मोह की धारा में, आप कैसे अनदेखा कर सकते हैं?",
+    "explanation": "इस दोहे में कबीर ने यह समझाया है कि जैसे पुराना लकड़ी का टुकड़ा पानी में तैर नहीं सकता, वैसे ही मोह की धारा में व्यक्ति खुद को अप्रभावित नहीं रख सकता। मोह और भ्रम की धारा हमें अपने आप को समझने और आत्मा की सच्चाई को पहचानने में बाधित करती है। इसलिए, हमें इसे पार करने की कोशिश करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.205Z"
+  }
+}

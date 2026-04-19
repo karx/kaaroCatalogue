@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b3ede1f8-66bb-4c90-896d-648e69c3ddd3",
+  "name": "क्या काशी क्या ऊसर मगहर, राम हृदय बस मोरा",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whether it is Kashi or barren Maghar, my heart resides in Ram. Kabir says, if one leaves Kashi, who will seek Ram?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्या काशी क्या ऊसर मगहर, राम हृदय बस मोरा।\nजो कासी तन तजै कबीरा, रामे कौन निहोरा।।२०२।।",
+    "translation": "Whether it is Kashi or barren Maghar, my heart resides in Ram. Kabir says, if one leaves Kashi, who will seek Ram?",
+    "meaning": "काशी हो या वीरान मगहर, मेरा हृदय राम में बसता है। कबीर कहते हैं, यदि कोई काशी छोड़ देता है, तो राम की तलाश कौन करेगा?",
+    "explanation": "इस दोहे में कबीर ने धार्मिक स्थानों की तुलना की है और बताया है कि सच्ची भक्ति और सच्चा प्रेम राम में होता है, न कि किसी भौतिक स्थल पर। उन्होंने काशी और मगहर जैसे धार्मिक स्थलों को भी आत्मिक दृष्टिकोण से देखा है और बताया है कि वास्तविकता में राम के प्रति प्रेम और भक्ति ही सबसे महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

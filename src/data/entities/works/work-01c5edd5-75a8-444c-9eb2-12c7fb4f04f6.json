@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01c5edd5-75a8-444c-9eb2-12c7fb4f04f6",
+  "name": "बाद बके दमजात है, सरति निरति लै बोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "After the crow's call, the silence is heard, speaking with the flow. Every day the jewel of words, opens for the seeker.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाद बके दमजात है, सरति निरति लै बोल।\nनित प्रति हीरा शब्‍द का, गाहक आगै खोल।।२१६३।।",
+    "translation": "After the crow's call, the silence is heard, speaking with the flow. Every day the jewel of words, opens for the seeker.",
+    "meaning": "कौवे की आवाज़ के बाद, शांति सुनाई देती है, प्रवाह में बोलते हैं। हर दिन शब्दों का हीरा, खोजने वाले के लिए खुलता है।",
+    "explanation": "इस दोहे में कबीर ने शब्दों के महत्व और उनकी खोज पर ध्यान केंद्रित किया है। कौवे की आवाज़ के बाद शांति का अनुभव होता है, और प्रवाह में बात की जाती है, जो यह दर्शाता है कि जब हम ध्यान और शांति प्राप्त करते हैं, तो शब्दों की वास्तविक गहराई को समझ सकते हैं। शब्दों का हीरा हर दिन खोजने वाले के लिए खुलता है, जो यह दिखाता है कि सच्चे ज्ञान और समझ की खोज निरंतर चलती रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.723Z"
+  }
+}

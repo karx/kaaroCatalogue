@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-749b088d-45e4-476e-ba48-ad760edb5f9f",
+  "name": "ऐसा कोई ना मिले, हम कौं दे उपदेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one is found to give us advice. While we are drowning in the ocean of worldly existence, who will grasp our hair and pull us out?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई ना मिले, हम कौं दे उपदेस।\nभौसागर मैं डूबता, कर गहि काढ़े केस।।१९६४।।",
+    "translation": "No one is found to give us advice. While we are drowning in the ocean of worldly existence, who will grasp our hair and pull us out?",
+    "meaning": "कोई ऐसा नहीं मिलता जो हमें सही उपदेश दे सके। जब हम सांसारिक समुद्र में डूब रहे होते हैं, तो कौन हमारी जुल्फें पकड़कर हमें बाहर निकालता है?",
+    "explanation": "इस दोहे में कबीर ने सांसारिक जीवन की कठिनाइयों और मोह की स्थिति को दर्शाया है। उन्होंने इसे एक समुद्र के रूप में चित्रित किया है जिसमें लोग डूब रहे हैं। कबीर ने इस बात पर चिंता जताई है कि कोई ऐसा व्यक्ति नहीं मिलता जो हमें इस स्थिति से बाहर निकाल सके और सही मार्ग दिखा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.530Z"
+  }
+}

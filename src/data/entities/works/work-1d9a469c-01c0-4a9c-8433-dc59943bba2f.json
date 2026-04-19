@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1d9a469c-01c0-4a9c-8433-dc59943bba2f",
+  "name": "सदा रहे सन्तोष में, धरम आप दृढ़ धार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Always remain in contentment, with steadfast adherence to righteousness. Hope lies in the guru, and the mind should be focused on contemplation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सदा रहे सन्तोष में, धरम आप दृढ़ धार।\nआश एक गुरुदेव की, और चित्त विचार।।३३९।।",
+    "translation": "Always remain in contentment, with steadfast adherence to righteousness. Hope lies in the guru, and the mind should be focused on contemplation.",
+    "meaning": "सदा संतोष में रहें, धर्म की दृढ़ धार को अपनाएं। आशा गुरु में है, और चित्त को विचार में लगाएं।।",
+    "explanation": "इस दोहे में कबीरदास ने संतोष और धर्म के प्रति सच्ची निष्ठा रखने की बात की है। उन्होंने बताया है कि गुरु में आशा रखनी चाहिए और मन को विचार में लगाए रखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

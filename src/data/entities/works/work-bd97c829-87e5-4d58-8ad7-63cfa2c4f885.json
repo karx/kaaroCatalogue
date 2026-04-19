@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bd97c829-87e5-4d58-8ad7-63cfa2c4f885",
+  "name": "कहा भरोसा देह का, बिनसि जाय छिन मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where is the trust in the body, which perishes in an instant? Instead, remember each breath and do not rely on worldly efforts.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहा भरोसा देह का, बिनसि जाय छिन मांहि।\nसांस सांस सुमिरन करो, और जतन कछु नांंहि।।७४०।।",
+    "translation": "Where is the trust in the body, which perishes in an instant? Instead, remember each breath and do not rely on worldly efforts.",
+    "meaning": "शरीर पर भरोसा कहां है, जो एक क्षण में नष्ट हो जाता है? इसके बजाय, हर सांस को याद करें और सांसारिक प्रयासों पर निर्भर न रहें।",
+    "explanation": "इस दोहे में कबीर शरीर की क्षणभंगुरता को दर्शाते हैं और यह सिखाते हैं कि हमें शरीर पर भरोसा नहीं करना चाहिए। जीवन की अस्थिरता के चलते, हमें अपने सांसों का सुमिरण करना चाहिए और सांसारिक प्रयासों से परे रहना चाहिए, क्योंकि शरीर क्षणभंगुर है और स्थायी नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

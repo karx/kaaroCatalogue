@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e3b319df-9cf7-4ff8-ac04-1371abc8a6bf",
+  "name": "कामीं कदे न हरि भजै, जपै न कैसौ जाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The lustful never worship Hari, nor do they chant any prayer. Saying 'Ram' burns them alive, such is their sinful nature.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामीं कदे न हरि भजै, जपै न कैसौ जाप।\nरांम कहे से जलि मरै, कोई पूरिबला पाप।।२०५६।।",
+    "translation": "The lustful never worship Hari, nor do they chant any prayer. Saying 'Ram' burns them alive, such is their sinful nature.",
+    "meaning": "कामुक व्यक्ति कभी भी हरि की भक्ति नहीं करता और न ही कोई जाप करता है। राम का नाम लेने से वह जलकर मर जाता है, ऐसा उसका पाप है।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि जो व्यक्ति कामुक प्रवृत्ति का होता है, वह कभी भगवान की भक्ति नहीं कर सकता। वह किसी भी प्रकार का जाप नहीं करता, और यदि वह भगवान का नाम लेने का प्रयास करता है, तो उसका पाप उसे इस प्रकार से जलाता है जैसे कि वह जीवित ही जल गया हो। यहाँ कबीर समझाते हैं कि पापी व्यक्ति भगवान की भक्ति के योग्य नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.087Z"
+  }
+}

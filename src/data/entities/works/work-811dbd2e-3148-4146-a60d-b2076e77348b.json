@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-811dbd2e-3148-4146-a60d-b2076e77348b",
+  "name": "sabhi kuchh hai tera diya hua sabhi rahaten sabhi kulfaten",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/sabhii-kuchh-hai-teraa-diyaa-huaa-sabhii-raahaten-sabhii-kulfaten-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.212Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/sabhii-kuchh-hai-teraa-diyaa-huaa-sabhii-raahaten-sabhii-kulfaten-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nsabhī kuchh hai terā diyā huā sabhī rāhateñ sabhī kulfateñ\nkabhī sohbateñ kabhī furqateñ kabhī dūriyāñ kabhī qurbateñ\nye suḳhan jo ham ne raqam kiye ye haiñ sab varaq tirī yaad ke\nkoī lamha sub.h-e-visāl kā koī shām-e-hijr kī muddateñ\njo tumhārī maan leñ nāsehā to rahegā dāman-e-dil meñ kyā\nna kisī adū kī adāvateñ na kisī sanam kī muravvateñ\nchalo aao tum ko dikhā.eñ ham jo bachā hai maqtal-e-shahr meñ\nye mazār ahl-e-safā ke haiñ ye haiñ ahl-e-sidq kī turbateñ\nmirī jaan aaj kā ġham na kar ki na jaane kātib-e-vaqt ne\nkisī apne kal meñ bhī bhuul kar kahīñ likh rakhī hoñ masarrateñ\nsabhi kuchh hai tera diya hua sabhi rahaten sabhi kulfaten\nkabhi sohbaten kabhi furqaten kabhi duriyan kabhi qurbaten\nye suKHan jo hum ne raqam kiye ye hain sab waraq teri yaad ke\nkoi lamha subh-e-visal ka koi sham-e-hijr ki muddaten\njo tumhaari man len naseha to rahega daman-e-dil mein kya\nna kisi adu ki adawaten na kisi sanam ki murawwaten\nchalo aao tum ko dikhaen hum jo bacha hai maqtal-e-shahr mein\nye mazar ahl-e-safa ke hain ye hain ahl-e-sidq ki turbaten\nmeri jaan aaj ka gham na kar ki na jaane katib-e-waqt ne\nkisi apne kal mein bhi bhul kar kahin likh rakhi hon masarraten",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nسبھی کچھ ہے تیرا دیا ہوا سبھی راحتیں سبھی کلفتیں\nکبھی صحبتیں کبھی فرقتیں کبھی دوریاں کبھی قربتیں\nیہ سخن جو ہم نے رقم کیے یہ ہیں سب ورق تری یاد کے\nکوئی لمحہ صبح وصال کا کوئی شام ہجر کی مدتیں\nجو تمہاری مان لیں ناصحا تو رہے گا دامن دل میں کیا\nنہ کسی عدو کی عداوتیں نہ کسی صنم کی مروتیں\nچلو آؤ تم کو دکھائیں ہم جو بچا ہے مقتل شہر میں\nیہ مزار اہل صفا کے ہیں یہ ہیں اہل صدق کی تربتیں\nم��ی جان آج کا غم نہ کر کہ نہ جانے کاتب وقت نے\nکسی اپنے کل میں بھی بھول کر کہیں لکھ رکھی ہوں مسرتیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nसभी कुछ है तेरा दिया हुआ सभी राहतें सभी कुल्फ़तें\nकभी सोहबतें कभी फ़ुर्क़तें कभी दूरियाँ कभी क़ुर्बतें\nये सुख़न जो हम ने रक़म किए ये हैं सब वरक़ तिरी याद के\nकोई लम्हा सुब्ह-ए-विसाल का कोई शाम-ए-हिज्र की मुद्दतें\nजो तुम्हारी मान लें नासेहा तो रहेगा दामन-ए-दिल में क्या\nन किसी अदू की अदावतें न किसी सनम की मुरव्वतें\nचलो आओ तुम को दिखाएँ हम जो बचा है मक़्तल-ए-शहर में\nये मज़ार अहल-ए-सफ़ा के हैं ये हैं अहल-ए-सिद्क़ की तुर्बतें\nमिरी जान आज का ग़म न कर कि न जाने कातिब-ए-वक़्त ने\nकिसी अपने कल में भी भूल कर कहीं लिख रखी हों मसर्रतें",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:05.466Z"
+  }
+}

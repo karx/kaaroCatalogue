@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-85a11e2d-8dbf-461d-99ff-91c7dfd0a329",
+  "name": "साधु शब्‍द समुद्र है, जामें रतन भराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The words of the saint are like an ocean filled with jewels. A fortunate person may receive a handful of those jewels, while the unfortunate may only touch pebbles.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु शब्‍द समुद्र है, जामें रतन भराय।\nमन्‍द भाग मुट्ठी भरै, कंकर हाथ लगाय।।५७२।।",
+    "translation": "The words of the saint are like an ocean filled with jewels. A fortunate person may receive a handful of those jewels, while the unfortunate may only touch pebbles.",
+    "meaning": "साधु के शब्द समुद्र की तरह होते हैं, जिनमें रत्न भरे हुए होते हैं। भाग्यशाली व्यक्ति को उन रत्नों में से एक मुट्ठी भर मिलती है, जबकि दुर्भाग्यशाली व्यक्ति केवल कंकड़ ही छू पाता है।",
+    "explanation": "इस दोहे के माध्यम से कबीरदास जी ने बताया है कि साधु के शब्दों में अपार ज्ञान और मूल्य होते हैं। कुछ लोगों को इस ज्ञान का एक हिस्सा मिलता है, जबकि कुछ लोग केवल सतही बातों तक ही सीमित रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

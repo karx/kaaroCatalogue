@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-692620ba-ccb4-4b83-a672-0ce64904b595",
+  "name": "काया खेत किसान मन, पाप पुन्न दो बीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is like a field and the mind like a farmer. The actions of sins and virtues are like seeds sown; the consequences affect the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काया खेत किसान मन, पाप पुन्न दो बीव।\nबोया लूनै आपना, काया कसकै जीव।।१३३२।।",
+    "translation": "The body is like a field and the mind like a farmer. The actions of sins and virtues are like seeds sown; the consequences affect the body.",
+    "meaning": "शरीर एक खेत की तरह है और मन एक किसान की तरह है। पाप और पुण्य के कर्म बीज की तरह होते हैं; उनके परिणाम शरीर पर प्रभाव डालते हैं।",
+    "explanation": "कबीर जी के अनुसार, शरीर और मन की तरह पाप और पुण्य कर्म जैसे बीज होते हैं जो शरीर पर प्रभाव डालते हैं। अच्छे और बुरे कर्मों के अनुसार परिणाम मिलते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.814Z"
+  }
+}

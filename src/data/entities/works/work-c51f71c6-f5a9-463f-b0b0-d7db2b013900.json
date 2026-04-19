@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c51f71c6-f5a9-463f-b0b0-d7db2b013900",
+  "name": "मुल्‍ला तझै करीम का, कब आया फरमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Mulla, when did you receive the command from Karim (God)? You go from house to house breaking vessels, claiming it as a sign from God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मुल्‍ला तझै करीम का, कब आया फरमान।\nघट फोरा घर घर किया, साहब का नीसान।।२२५६।।",
+    "translation": "Mulla, when did you receive the command from Karim (God)? You go from house to house breaking vessels, claiming it as a sign from God.",
+    "meaning": "मुल्ला, तुम्हें करीम (ईश्वर) का आदेश कब मिला? तुम घर-घर जाकर बर्तन तोड़ते हो, इसे साहब (ईश्वर) का निशान बताकर।",
+    "explanation": "इस दोहे में कबीर जी मुल्लाओं को संबोधित करते हुए पूछते हैं कि क्या उन्हें सच में ईश्वर का आदेश मिला है? वह यह भी कहते हैं कि मुल्ला घर-घर जाकर बर्तन तोड़ते हैं और इसे ईश्वर का संकेत बताते हैं। यह दोहा दिखावा और ढोंग के खिलाफ है, जहाँ लोग धर्म के नाम पर अंधविश्वास फैलाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.346Z"
+  }
+}

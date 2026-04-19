@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bf378f0d-ff1f-453b-8439-dfb669508663",
+  "name": "पाख पाख नहिं करि सकै, मास-मास करु जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you cannot do it seasonally, then do it monthly. Do not delay in this; Kabir advises to understand this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाख पाख नहिं करि सकै, मास-मास करु जाय।\nयामें देर न लाइये, कहैं कबीर समुझाय।।५६८।।",
+    "translation": "If you cannot do it seasonally, then do it monthly. Do not delay in this; Kabir advises to understand this.",
+    "meaning": "अगर मौसम के अनुसार नहीं कर सकते, तो महीने के अनुसार करें। इसमें देरी न करें; कबीर इसे समझाने की सलाह देते हैं।",
+    "explanation": "यह दोहा यह सिखाता है कि अगर किसी काम को मौसम के अनुसार नहीं किया जा सकता, तो इसे महीने के अनुसार करना चाहिए। कबीर यह सलाह देते हैं कि इसमें देरी नहीं करनी चाहिए, अन्यथा समय निकल जाएगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

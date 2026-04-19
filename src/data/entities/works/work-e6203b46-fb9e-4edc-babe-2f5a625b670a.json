@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e6203b46-fb9e-4edc-babe-2f5a625b670a",
+  "name": "सोई आशिष सोई बैयन, जन जू जू बांचवंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Blessings and curses are the same, those who understand realize their essence. When combined with wisdom, even poison turns into nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोई आशिष सोई बैयन, जन जू जू बांचवंत।\nकोई एक मेलै लवणि, अमी रसाइण हुंत।।१८६९।।",
+    "translation": "Blessings and curses are the same, those who understand realize their essence. When combined with wisdom, even poison turns into nectar.",
+    "meaning": "आशीर्वाद और श्राप समान होते हैं, जो समझदार होते हैं वे इनके सार को समझते हैं। जब ज्ञान से जोड़ा जाए, तो विष भी अमृत में बदल जाता है।",
+    "explanation": "इस दोहे में कबीरदास जी कहते हैं कि आशीर्वाद और श्राप दोनों का महत्व समझदारी पर निर्भर करता है। जो व्यक्ति इन दोनों के सार को समझता है, वह जानता है कि किस तरह से विष को भी अमृत में बदला जा सकता है। यह ज्ञान और समझ की शक्ति को दर्शाता है, जो व्यक्ति को हर परिस्थिति में लाभान्वित कर सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.971Z"
+  }
+}

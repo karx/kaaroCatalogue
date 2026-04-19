@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6ce707d1-0e83-40e1-8642-100268ccaa43",
+  "name": "Ramcharitmanas",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-tulsidas"
+  },
+  "inLanguage": "Awadhi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+    "retrievedAt": "2026-01-04T18:39:10.939Z"
+  }
+}

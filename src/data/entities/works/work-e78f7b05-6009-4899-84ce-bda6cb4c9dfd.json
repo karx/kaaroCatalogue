@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e78f7b05-6009-4899-84ce-bda6cb4c9dfd",
+  "name": "कबीर माया मोहिनी, मांगी मिलै न हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is enchanting but cannot be grasped by hand. If you rid the mind of false desires, illusion will no longer follow you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया मोहिनी, मांगी मिलै न हाथ।\nमना उतारी जूठ करु, लागी डोलै साथ।।११९४।।",
+    "translation": "Kabir says, illusion is enchanting but cannot be grasped by hand. If you rid the mind of false desires, illusion will no longer follow you.",
+    "meaning": "कबीर कहते हैं, माया मोहिनी है लेकिन इसे हाथ से पकड़ा नहीं जा सकता। अगर आप मन से झूठी इच्छाओं को हटा दें, तो माया आपका पीछा नहीं करेगी।",
+    "explanation": "इस दोहे में कबीर ने माया के मोहक स्वभाव को व्यक्त किया है, लेकिन यह वस्तु साक्षात पकड़ने योग्य नहीं है। मन को झूठी इच्छाओं से मुक्त करने पर माया का प्रभाव समाप्त हो जाता है और यह व्यक्ति का पीछा नहीं करती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.975Z"
+  }
+}

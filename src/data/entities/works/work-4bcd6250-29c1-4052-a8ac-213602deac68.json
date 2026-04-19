@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4bcd6250-29c1-4052-a8ac-213602deac68",
+  "name": "साहिब तेरी साहिबी, सब घट रही समाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O Lord, your presence pervades all hearts. Just like the redness in the leaves of henna cannot be separated.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साहिब तेरी साहिबी, सब घट रही समाय।\nज्यों मेहँदी के पात में, लाली रखी न जाय।।१४२।।",
+    "translation": "O Lord, your presence pervades all hearts. Just like the redness in the leaves of henna cannot be separated.",
+    "meaning": "हे साहिब, तेरी उपस्थिति सबके दिलों में समाई हुई है। जैसे मेहंदी के पत्तों में लाली को अलग नहीं किया जा सकता।",
+    "explanation": "इस दोहे में कबीर साहिब की सर्वव्यापकता की बात कर रहे हैं। वे कहते हैं कि जैसे मेहंदी के पत्तों में लाली को अलग नहीं किया जा सकता, उसी तरह साहिब यानी ईश्वर की उपस्थिति को भी हर जीव के हृदय से अलग नहीं किया जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

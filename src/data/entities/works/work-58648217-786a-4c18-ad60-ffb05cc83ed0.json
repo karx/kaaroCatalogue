@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-58648217-786a-4c18-ad60-ffb05cc83ed0",
+  "name": "विषै कर्म की कंचुली, पहरि हुआ नर नाग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing the skin of worldly deeds, the man became a serpent. Even after smashing his head, he sees no way out, his misfortune prevails.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विषै कर्म की कंचुली, पहरि हुआ नर नाग।\nसिर फोड सूझै नहीं, को आगिला अभाग।।२०५५।।",
+    "translation": "Wearing the skin of worldly deeds, the man became a serpent. Even after smashing his head, he sees no way out, his misfortune prevails.",
+    "meaning": "विषै कर्म की कंचुली पहनकर मनुष्य नाग बन गया। सिर फोड़ने के बाद भी, उसे कोई रास्ता नहीं सूझता, उसका दुर्भाग्य कायम रहता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जब मनुष्य सांसारिक कर्मों में लिप्त होता है, तो वह नाग (दुष्ट) के समान बन जाता है। इस स्थिति में, वह कितना भी प्रयास कर ले, उसे सही मार्ग नहीं सूझता और उसका दुर्भाग्य बना रहता है। कबीर यहाँ यह संदेश दे रहे हैं कि हमें सांसारिक कर्मों के मोह से दूर रहकर सही मार्ग पर चलना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.087Z"
+  }
+}

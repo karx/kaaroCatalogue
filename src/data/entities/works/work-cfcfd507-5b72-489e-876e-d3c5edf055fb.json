@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cfcfd507-5b72-489e-876e-d3c5edf055fb",
+  "name": "भागा भला न होयगी, मुंह मोस घर दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fortune will not improve; the mouth may be distant from home. Before the Lord, bow down your head; do not think of being brave.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भागा भला न होयगी, मुंह मोस घर दूर।\nसांई आगै शीसदै, सोच न कीजै शूर।।२१०५।।",
+    "translation": "Fortune will not improve; the mouth may be distant from home. Before the Lord, bow down your head; do not think of being brave.",
+    "meaning": "किस्मत में सुधार नहीं होगा; मुंह दूर हो सकता है। सांई के सामने सिर झुका दो; बहादुरी के बारे में मत सोचो।",
+    "explanation": "इस दोहे में कबीर ने यह स्पष्ट किया है कि बाहरी परिस्थितियों के बावजूद, जैसे कि किस्मत का सुधार या घर से दूरी, आंतरिक समर्पण और भक्ति अधिक महत्वपूर्ण हैं। भगवान के सामने सिर झुका कर, सच्चे समर्पण की ओर ध्यान देना चाहिए, और बहादुरी के दिखावे से बचना चाहिए। यह दोहा आंतरिक भक्ति और समर्पण की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.361Z"
+  }
+}

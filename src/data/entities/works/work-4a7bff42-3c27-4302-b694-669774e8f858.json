@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a7bff42-3c27-4302-b694-669774e8f858",
+  "name": "जालौं इहै बड़पणां, सरलै पेड़‍ि खजूरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the arrogance of the date palm tree. The bird does not sit in its shade, the fruit is far away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जालौं इहै बड़पणां, सरलै पेड़‍ि खजूरि।\nपंखी छांह न बीसवै, फल लागे ते दूरि।।१७२९।।",
+    "translation": "This is the arrogance of the date palm tree. The bird does not sit in its shade, the fruit is far away.",
+    "meaning": "यह खजूर के पेड़ की अहंकार है। पंछी उसकी छांव में नहीं बैठते, फल दूर रहता है।",
+    "explanation": "कबीर इस दोहे में अहंकार और सरलता की बात करते हैं। उन्होंने कहा कि अहंकारी वस्तुएं या लोग वास्तव में उपयोगी नहीं होते, और फल को दूर रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.074Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-093d7db9-e288-4841-bd91-8f94c3b965d2",
+  "name": "कबीर तास मिलाइ, जास हियाली तू बसै",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that meeting such a person where the heart is at peace, does not require hasty actions or enduring hardships.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर तास मिलाइ, जास हियाली तू बसै।\nनहिं तर बेगि उठाइ, नित को गंजन को सहै।।२०१७।।",
+    "translation": "Kabir says that meeting such a person where the heart is at peace, does not require hasty actions or enduring hardships.",
+    "meaning": "कबीर कहते हैं कि उस व्यक्ति से मिलने पर जहाँ हृदय शांति में होता है, तुरंत उठने की या कठिनाइयों को सहने की आवश्यकता नहीं होती।",
+    "explanation": "इस दोहे में कबीर ने उस व्यक्ति की महिमा का वर्णन किया है जहाँ हृदय शांति में होता है। उन्होंने कहा है कि ऐसे व्यक्ति से मिलने पर जीवन की दौड़-धूप और कठिनाइयाँ स्वतः समाप्त हो जाती हैं। यहाँ तत्काल निर्णय लेने की या कष्ट सहने की आवश्यकता नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.804Z"
+  }
+}

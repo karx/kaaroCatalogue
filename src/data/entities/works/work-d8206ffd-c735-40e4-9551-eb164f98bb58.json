@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d8206ffd-c735-40e4-9551-eb164f98bb58",
+  "name": "कोटि करम कटि पलक में, रंचन आवै राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Countless actions are cut away in a moment if Ram is attained. Even if countless eons of merit are accumulated, nothing is attained without Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोटि करम कटि पलक में, रंचन आवै राम।\nजुग अनेक जो पुन्‍य करु, नहिं राम बिनु ठाम।।७९१।।",
+    "translation": "Countless actions are cut away in a moment if Ram is attained. Even if countless eons of merit are accumulated, nothing is attained without Ram.",
+    "meaning": "यदि राम प्राप्त होता है, तो अनगिनत कर्म एक पल में कट जाते हैं। भले ही अनगिनत युगों तक पुण्य अर्जित किया जाए, राम के बिना कुछ भी प्राप्त नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने राम के नाम की शक्ति को बताया है। उन्होंने कहा है कि अगर राम प्राप्त होता है, तो बहुत सारे कर्म और पाप एक क्षण में समाप्त हो जाते हैं। अनगिनत वर्षों तक किए गए पुण्य कर्म भी राम के बिना कोई मूल्य नहीं रखते। यह दिखाता है कि राम की प्राप्ति से व्यक्ति की आध्यात्मिक उन्नति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

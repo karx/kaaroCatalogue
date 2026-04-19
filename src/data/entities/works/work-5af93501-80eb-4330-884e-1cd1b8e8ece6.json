@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5af93501-80eb-4330-884e-1cd1b8e8ece6",
+  "name": "मेरा मन मकरन्‍द था, करता बहुत बिगार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "My mind was like honey, causing much disturbance. When it became pure, I found the path, and I seek refuge at the feet of the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मेरा मन मकरन्‍द था, करता बहुत बिगार।\nसूधा होय मारग चला, हरि आगे हम लार।।१११६।।",
+    "translation": "My mind was like honey, causing much disturbance. When it became pure, I found the path, and I seek refuge at the feet of the Lord.",
+    "meaning": "मेरा मन मकरंद के समान था, जो बहुत असंतुलन पैदा करता था। जब यह शुद्ध हुआ, तो मैंने मार्ग को पाया और भगवान के चरणों में शरण ली।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिति और उसकी शुद्धता के महत्व को बताया है। उन्होंने कहा है कि पहले उनका मन मकरंद (शहद) के जैसा था, जो भ्रम और अशांति पैदा करता था। लेकिन जब मन शुद्ध हुआ, तो उन्होंने सही मार्ग को पाया और भगवान के चरणों में शरण ली। यह शुद्धता और आत्म-ज्ञान के माध्यम से सही मार्ग प्राप्त करने का संकेत है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

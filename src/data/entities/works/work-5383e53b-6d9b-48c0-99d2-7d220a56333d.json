@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5383e53b-6d9b-48c0-99d2-7d220a56333d",
+  "name": "औगुन किया तो बहु किया, करत न मानी हारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If faults are committed, many are committed. One does not accept defeat. Either the person is forgiven, or their neck is struck down.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "औगुन किया तो बहु किया, करत न मानी हारि।\nभावै बंदा बखशियो, भावै गरदन मारि।।२१८९।।",
+    "translation": "If faults are committed, many are committed. One does not accept defeat. Either the person is forgiven, or their neck is struck down.",
+    "meaning": "अगर दोष किए जाते हैं, तो बहुत किए जाते हैं। व्यक्ति हार मानने को तैयार नहीं होता। या तो उसे माफ किया जाए, या उसका सिर काटा जाए।",
+    "explanation": "इस दोहे में कबीर ने दोष और सजा की चर्चा की है। वे बताते हैं कि जब किसी से गलती होती है, तो कई दोष होते हैं, और व्यक्ति हार मानने के लिए तैयार नहीं होता। इसका मतलब है कि या तो उसे माफ किया जाए, या फिर कठोर सजा दी जाए। यह दोहा न्याय और क्षमा के बीच संतुलन को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.732Z"
+  }
+}

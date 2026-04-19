@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d25d3d67-7540-40be-a11f-2915d7bddc64",
+  "name": "तोहि पीर जो प्रेम की, पाका सेती खेल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you play with the true love of the guru, it is like pressing raw mustard seeds; it will not turn into oil.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तोहि पीर जो प्रेम की, पाका सेती खेल।\nकाची सरसों पेरिकै, खरी भया न तेल।।३८४।।",
+    "translation": "If you play with the true love of the guru, it is like pressing raw mustard seeds; it will not turn into oil.",
+    "meaning": "अगर आप गुरु के सच्चे प्रेम के साथ खेलते हैं, तो यह कच्ची सरसों को दबाने के समान है; इससे तेल नहीं बनेगा।",
+    "explanation": "इस दोहे में कबीर दास जी ने सच्चे प्रेम और भक्ति की महत्ता को समझाया है। वे कहते हैं कि सच्चे प्रेम के साथ खेलना कच्ची सरसों को दबाने के समान है, जिससे तेल नहीं निकलेगा। इसका तात्पर्य है कि सच्चे प्रेम और भक्ति में कच्ची, अस्थिर भावनाओं के बजाय, स्थिर और परिपक्व प्रेम होना चाहिए, जो सच्चे फल (भक्ति) को प्राप्त कर सके। यह दोहा हमें सिखाता है कि वास्तविक प्रेम और भक्ति में गंभीरता और स्थिरता आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

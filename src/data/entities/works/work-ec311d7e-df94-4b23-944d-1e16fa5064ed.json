@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ec311d7e-df94-4b23-944d-1e16fa5064ed",
+  "name": "लिखा मिटै नहीं करम का, गुरु कर भज हरिनाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Actions are not erased by writing; worship the divine name with devotion. Always walk on the straight path, and let compassion and righteousness guide you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लिखा मिटै नहीं करम का, गुरु कर भज हरिनाम।\nसीधे मारग नित चलै, दया धर्म बिसराम।।१३४१।।",
+    "translation": "Actions are not erased by writing; worship the divine name with devotion. Always walk on the straight path, and let compassion and righteousness guide you.",
+    "meaning": "कर्म को लिखने से मिटाया नहीं जा सकता; ईश्वर का नाम भक्ति से जपना चाहिए। हमेशा सीधे मार्ग पर चलो, और दया तथा धर्म तुम्हारा मार्गदर्शक हो।",
+    "explanation": "कबीर जी के अनुसार, कर्मों को केवल लिखने से नहीं मिटाया जा सकता। ईश्वर की भक्ति और सच्चे मार्ग पर चलना ही सच्चे मार्ग को प्रशस्त करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.816Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5155a9a4-499b-48c7-9530-acdac69a9061",
+  "name": "साखी शब्द बहुतक सुना, मिटा न मन क मोह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One may hear many words of wisdom, but if the mind's attachment is not removed, it is like iron that has not reached the touchstone; it remains as iron.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साखी शब्द बहुतक सुना, मिटा न मन क मोह।\nपारस तक पहुँचा नहीं, रहा लोह का लोह।।३८८।।",
+    "translation": "One may hear many words of wisdom, but if the mind's attachment is not removed, it is like iron that has not reached the touchstone; it remains as iron.",
+    "meaning": "कई शब्दों की सिखाई सुनी जा सकती है, लेकिन यदि मन का मोह न मिटे, तो यह लौह के पारस तक नहीं पहुंचने के समान है; यह लौह ही रहता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने शब्दों और ज्ञान के सीमित प्रभाव को व्यक्त किया है। वे कहते हैं कि भले ही व्यक्ति बहुत सारे ज्ञान के शब्द सुन ले, लेकिन अगर उसके मन में मोह और attachments नहीं मिटते, तो इसका कोई लाभ नहीं है। यह लौह और पारस के उदाहरण से स्पष्ट किया गया है, जिसमें लौह को पारस के संपर्क में आने से ही उसका स्वरूप बदलता है। इसी तरह, बिना वास्तविक आंतरिक परिवर्तन के, सुने गए शब्द और ज्ञान किसी काम के नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

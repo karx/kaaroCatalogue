@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e98d159f-8109-497a-a842-3fb324da2f65",
+  "name": "हृदय भीतर आरसी, मुख देखा नहिं जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mirror is within the heart, the face cannot be seen. The face is seen only when the heart's dilemma is resolved.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हृदय भीतर आरसी, मुख देखा नहिं जाय।\nमुख तो तब ही देखिए, जब दिल की दुविधा जाय।।१७१९।।",
+    "translation": "The mirror is within the heart, the face cannot be seen. The face is seen only when the heart's dilemma is resolved.",
+    "meaning": "दिल के भीतर ही आरसी है, चेहरा नहीं देखा जा सकता। चेहरा तभी देखा जाता है जब दिल की दुविधा हल होती है।",
+    "explanation": "कबीर इस दोहे में हृदय और दृष्टिकोण की बात करते हैं। उन्होंने कहा कि सच्ची समझ और स्पष्टता तभी मिलती है जब दिल की उलझनें समाप्त होती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.071Z"
+  }
+}

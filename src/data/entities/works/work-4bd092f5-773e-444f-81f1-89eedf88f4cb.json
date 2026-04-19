@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4bd092f5-773e-444f-81f1-89eedf88f4cb",
+  "name": "दीन गरीबी दीन को, दंदुर को अभिमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Humility belongs to the humble, pride belongs to the arrogant. Arrogance is filled with poison, understand the value of humility.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीन गरीबी दीन को, दंदुर को अभिमान।\nदुंदुर तो विष से भरा, दीन गरीबी जान।।१३९७।।",
+    "translation": "Humility belongs to the humble, pride belongs to the arrogant. Arrogance is filled with poison, understand the value of humility.",
+    "meaning": "दीनता (विनम्रता) विनम्र व्यक्ति की पहचान है, जबकि अभिमान घमंडी की। अभिमान विष से भरा होता है, दीनता का महत्व समझो।",
+    "explanation": "कबीर इस दोहे में विनम्रता और घमंड के बीच के अंतर को स्पष्ट करते हैं। वे बताते हैं कि विनम्रता सच्चे साधु का गुण है, जबकि अभिमान विषाक्त होता है। यह दोहा हमें सिखाता है कि सच्ची विनम्रता ही हमें सही मार्ग पर ले जा सकती है, जबकि अभिमान हमें पथभ्रष्ट कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.092Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd6efa6d-c8df-4e0d-a5fc-3ca2806eb249",
+  "name": "प्रेमभाव एक चाहिए, भेष अनेक बजाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One should have a single feeling of love, despite various appearances. Whether living at home or wandering in the forest, the feeling of love remains the same.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेमभाव एक चाहिए, भेष अनेक बजाय।\nचाहे घर में बास कर, चाहे बन मे जाय।।१३२।।",
+    "translation": "One should have a single feeling of love, despite various appearances. Whether living at home or wandering in the forest, the feeling of love remains the same.",
+    "meaning": "एक प्रेमभाव होना चाहिए, चाहे भेष कितने भी बदलें। चाहे घर में रहो या वन में, प्रेमभाव वही रहता है।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि प्रेमभाव एक ऐसा गुण है जो भेष बदलने से प्रभावित नहीं होता। चाहे व्यक्ति घर में रहे या वन में, प्रेमभाव हमेशा एक जैसा रहता है। यह दोहा प्रेम की स्थिरता और सच्चाई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

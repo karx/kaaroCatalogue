@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2b5ce780-3cbe-463c-9707-1b4a68349edf",
+  "name": "yun saja chand ki jhalka tere andaz ka rang",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/yuun-sajaa-chaand-ki-jhalkaa-tire-andaaz-kaa-rang-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.210Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/yuun-sajaa-chaand-ki-jhalkaa-tire-andaaz-kaa-rang-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nyuuñ sajā chāñd ki jhalkā tire andāz kā rañg\nyuuñ fazā mahkī ki badlā mire hamrāz kā rañg\nsāya-e-chashm meñ hairāñ ruḳh-e-raushan kā jamāl\nsurḳhī-e-lab meñ pareshāñ tirī āvāz kā rañg\nbe-piye huuñ ki agar lutf karo āḳhir-e-shab\nshīsha-e-mai meñ Dhale sub.h ke āġhāz kā rañg\nchañg o nai rañg pe the apne lahū ke dam se\ndil ne lai badlī to maddham huā har saaz kā rañg\nik suḳhan aur ki phir rañg-e-takallum terā\nharf-e-sāda ko ināyat kare e.ajāz kā rañg\nyun saja chand ki jhalka tere andaz ka rang\nyun faza mahki ki badla mere hamraaz ka rang\nsaya-e-chashm mein hairan ruKH-e-raushan ka jamal\nsurKHi-e-lab mein pareshan teri aawaz ka rang\nbe-piye hun ki agar lutf karo aaKHir-e-shab\nshisha-e-mai mein Dhale subh ke aaghaz ka rang\nchang o nai rang pe the apne lahu ke dam se\ndil ne lai badli to maddham hua har saz ka rang\nek suKHan aur ki phir rang-e-takallum tera\nharf-e-sada ko inayat kare eajaz ka rang",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nیوں سجا چاند کہ جھلکا ترے انداز کا رنگ\nیوں فضا مہکی کہ بدلا مرے ہم راز کا رنگ\nسایۂ چشم میں حیراں رخ روشن کا جمال\nسرخیٔ لب میں پریشاں تری آواز کا رنگ\nبے پیے ہوں کہ اگر لطف کرو آخر شب\nشیشۂ مے میں ڈھلے صبح کے آغاز کا رنگ\nچنگ و نے رنگ پہ تھے اپنے لہو کے دم سے\nدل نے لے بدلی تو مدھم ہوا ہر ساز کا رنگ\nاک سخن اور کہ پھر رنگ تکلم تیرا\nحرف سادہ کو عنایت کرے اعجاز کا رنگ",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nयूँ सजा चाँद कि झलका तिरे अंदाज़ का रंग\nयूँ फ़ज़ा महकी कि बदला मिरे हमराज़ का रंग\nसाया-ए-चश्म में हैराँ रुख़-ए-रौशन का जमाल\nसुर्ख़ी-ए-लब में परेशाँ तिरी आवाज़ का रंग\nबे-पिए हूँ कि अगर लुत्फ़ करो आख़िर-ए-शब\nशीशा-ए-मय में ढले सुब्ह के आग़ाज़ का रंग\nचंग ओ नय रंग पे थे अपने लहू के दम से\nदिल ने लय बदली तो मद्धम हुआ हर साज़ का रंग\nइक सुख़न और कि फिर रंग-ए-तकल्लुम तेरा\nहर्फ़-ए-सादा को इनायत करे ए'जाज़ का रंग",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:29.946Z"
+  }
+}

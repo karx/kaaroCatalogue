@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-722eadc3-e6f6-47dd-a66d-804b27488e41",
+  "name": "आज काल दिन पांच में, बरस पांच जुग पंच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In this era of five days, five years, and five ages, saints will continue to save and transcend all deceptions.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आज काल दिन पांच में, बरस पांच जुग पंच।\nजब तब साधु तारसी, और सकल परपंच।।५९५।।",
+    "translation": "In this era of five days, five years, and five ages, saints will continue to save and transcend all deceptions.",
+    "meaning": "इस पांच दिन, पांच साल और पांच युग के काल में, संत सभी धोखों को पार करेंगे और सबको उबारेंगे।",
+    "explanation": "संतों का कार्य समय की सीमा से परे होता है। वे सभी युगों और कालों में लोगों की मदद करते हैं और समाज की बुराइयों और धोखाधड़ी से मुक्ति दिलाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

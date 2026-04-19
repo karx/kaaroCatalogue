@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e6f8d1f-4c2a-4830-857f-a7e891162663",
+  "name": "aap ki yaad aati rahi raat bhar",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/aap-kii-yaad-aatii-rahii-raat-bhar-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.204Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/aap-kii-yaad-aatii-rahii-raat-bhar-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\n''aap kī yaad aatī rahī raat bhar''\nchāñdnī dil dukhātī rahī raat bhar\ngaah jaltī huī gaah bujhtī huī\nsham-e-ġham jhilmilātī rahī raat bhar\nkoī ḳhushbū badaltī rahī pairahan\nkoī tasvīr gaatī rahī raat bhar\nphir sabā sāya-e-shāḳh-e-gul ke tale\nkoī qissa sunātī rahī raat bhar\njo na aayā use koī zanjīr-e-dar\nhar sadā par bulātī rahī raat bhar\nek ummīd se dil bahaltā rahā\nik tamannā satātī rahī raat bhar\naap ki yaad aati rahi raat bhar\nchandni dil dukhati rahi raat bhar\ngah jalti hui gah bujhti hui\nsham-e-gham jhilmilati rahi raat bhar\nkoi KHushbu badalti rahi pairahan\nkoi taswir gati rahi raat bhar\nphir saba saya-e-shaKH-e-gul ke tale\nkoi qissa sunati rahi raat bhar\njo na aaya use koi zanjir-e-dar\nhar sada par bulati rahi raat bhar\nek ummid se dil bahalta raha\nek tamanna satati rahi raat bhar",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\n''آپ کی یاد آتی رہی رات بھر''\nچاندنی دل دکھاتی رہی رات بھر\nگاہ جلتی ہوئی گاہ بجھتی ہوئی\nشمع غم جھلملاتی رہی رات بھر\nکوئی خوشبو بدلتی رہی پیرہن\nکوئی تصویر گاتی رہی رات بھر\nپھر صبا سایۂ شاخ گل کے تلے\nکوئی قصہ سناتی رہی رات بھر\nجو نہ آیا اسے کوئی زنجیر در\nہر صدا پر بلاتی رہی رات بھر\nایک امید سے دل بہلتا رہا\nاک تمنا ستاتی رہی رات بھر",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\n''आप की याद आती रही रात भर''\nचाँदनी दिल दुखाती रही रात भर\nगाह जलती हुई गाह बुझती हुई\nशम-ए-ग़म झिलमिलाती रही रात भर\nकोई ख़ुशबू बदलती रही पैरहन\nकोई तस्वीर गाती रही रात भर\nफिर सबा साया-ए-शाख़-ए-गुल के तले\nकोई क़िस्सा सुनाती रही रात भर\nजो न आया उसे कोई ज़ंजीर-ए-दर\nहर सदा पर बुलाती रही रात भर\nएक उम्मीद से दिल बहलता रहा\nइक तमन्ना सताती रही रात भर",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:43.216Z"
+  }
+}

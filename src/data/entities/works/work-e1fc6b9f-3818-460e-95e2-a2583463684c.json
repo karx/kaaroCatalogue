@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1fc6b9f-3818-460e-95e2-a2583463684c",
+  "name": "कबीर मन्दिर आपने, नित उठि करता आल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's own temple is always attended, yet he fears the cremation ground and lights a broad lamp.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन्दिर आपने, नित उठि करता आल।\nमरघट देखी डरपता, चौड़े दीया डाल।।१०७१।।",
+    "translation": "Kabir's own temple is always attended, yet he fears the cremation ground and lights a broad lamp.",
+    "meaning": "कबीर का अपना मंदिर हमेशा सजग रहता है, फिर भी वे शवागार को देखकर डरते हैं और चौड़ा दीपक जलाते हैं।",
+    "explanation": "इस दोहे में कबीर अपने मंदिर की नियमित पूजा और शवागार की उपस्थिति का उल्लेख करते हैं। वे शवागार को देखकर डरते हैं, जो जीवन के अंत की चेतावनी देता है। यह जीवन और मृत्यु के बीच के संबंध को दर्शाता है और ध्यान और सतर्कता की आवश्यकता को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

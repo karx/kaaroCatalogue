@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7d129bc5-dc8f-446f-b1a4-abc480688896",
+  "name": "पांणी ही तै हिम भया, हिम ह्वे गया बिलाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Water has turned into ice, and the ice has melted away. What was there has become the same; now nothing can be said.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पांणी ही तै हिम भया, हिम ह्वे गया बिलाइ।\nजो कुछ था सोई भया, अब कछू कह्या न जाइ।।१७९६।।",
+    "translation": "Water has turned into ice, and the ice has melted away. What was there has become the same; now nothing can be said.",
+    "meaning": "पानी बर्फ में बदल गया है, और बर्फ पिघल गई है। जो कुछ था, वही हो गया; अब कुछ भी नहीं कहा जा सकता।",
+    "explanation": "इस दोहे में कबीर ने वस्तुओं के परिवर्तन और अस्थिरता की बात की है। जैसे पानी बर्फ में बदल जाता है और फिर बर्फ पिघल जाती है, वैसे ही जो कुछ भी था, वह अब वैसा ही हो गया है। कबीर यहाँ पर स्थायित्व की अवधारणा को चुनौती देते हैं और परिवर्तनशीलता को स्वीकार करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.356Z"
+  }
+}

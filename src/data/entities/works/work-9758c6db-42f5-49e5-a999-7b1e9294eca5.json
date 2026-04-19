@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9758c6db-42f5-49e5-a999-7b1e9294eca5",
+  "name": "बार-बार तोसों कहा, सुन रे मनवा नीच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have told you repeatedly, listen, oh lowly mind. Like the merchant's bull, you tread the same path endlessly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बार-बार तोसों कहा, सुन रे मनवा नीच।\nबनजारे का बैल ज्‍यूं, पैंडा माहीं मीच।।९८१।।",
+    "translation": "I have told you repeatedly, listen, oh lowly mind. Like the merchant's bull, you tread the same path endlessly.",
+    "meaning": "मैंने तुम्हें बार-बार कहा, सुनो, हे नीच मन। तुम व्यापारी के बैल की तरह हो, जो एक ही रास्ते पर चलता रहता है।",
+    "explanation": "इस दोहे में कबीर दास जी मन की अस्थिरता और भटकाव को दर्शाते हैं। वह कहते हैं कि उन्होंने बार-बार अपने मन को सही रास्ते पर चलने की सलाह दी है, लेकिन मन एक व्यापारी के बैल की तरह है, जो बिना समझे एक ही रास्ते पर चलता रहता है। यह दोहा हमें अपने मन की चंचलता पर नियंत्रण पाने और सही दिशा में चलने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.894Z"
+  }
+}

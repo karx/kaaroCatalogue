@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-34db4b74-8b7a-43b1-944e-740d5d7ee9e7",
+  "name": "भक्ति भक्ति सब कोइ कहै, भक्ति न जाने मेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone talks about devotion, but few truly understand its essence. Complete devotion is attained only through the grace of the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति भक्ति सब कोइ कहै, भक्ति न जाने मेव।\nपूरण भक्ति जब मिलै, कृपा करे गुरुदेव।।४२०।।",
+    "translation": "Everyone talks about devotion, but few truly understand its essence. Complete devotion is attained only through the grace of the Guru.",
+    "meaning": "सभी भक्ति की बात करते हैं, लेकिन इसकी सच्ची मर्म को बहुत कम लोग समझते हैं। पूर्ण भक्ति तब ही प्राप्त होती है जब गुरुदेव की कृपा होती है।",
+    "explanation": "इस दोहे में कबीर भक्ति के सच्चे अर्थ और गुरुकृपा के महत्व को समझाते हैं। वह कहते हैं कि हर कोई भक्ति के बारे में बात करता है, लेकिन इसकी सच्ची मर्म को बहुत कम लोग समझ पाते हैं। पूर्ण भक्ति की प्राप्ति तभी होती है जब गुरुदेव की कृपा होती है। यह दोहा हमें यह सिखाता है कि सच्ची भक्ति के लिए गुरु का मार्गदर्शन और उनकी कृपा अनिवार्य है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

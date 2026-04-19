@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b20ba123-3774-4ee9-a549-af7df7823f24",
+  "name": "शब्द विचारे पथ चलै, ज्ञान गली दे पाँव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who ponders over words walks the path of knowledge, but whether they wander or sit, whether they are in the home or under a canopy, is inconsequential.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्द विचारे पथ चलै, ज्ञान गली दे पाँव।\nक्या रमता क्या बैठता, क्या गृह कंदला छाँव।।३६५।।",
+    "translation": "One who ponders over words walks the path of knowledge, but whether they wander or sit, whether they are in the home or under a canopy, is inconsequential.",
+    "meaning": "जो व्यक्ति शब्दों पर विचार करता है, वह ज्ञान के मार्ग पर चलता है, लेकिन वह कहीं भी घूमे या बैठे, घर में हो या छांव के नीचे, यह महत्वहीन है।।",
+    "explanation": "इस दोहे में कबीरदास ने ज्ञान की प्राप्ति और शब्दों पर विचार करने के महत्व को बताया है। एक व्यक्ति जो शब्दों और ज्ञान पर ध्यान देता है, वह सही मार्ग पर चलता है। हालांकि, उसका भौतिक स्थान या स्थिति—चाहे वह घर में हो या बाहर, महत्वपूर्ण नहीं है। असली मायने में, ज्ञान का मार्ग और उसकी प्राप्ति आंतरिक समझ और चिंतन से होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

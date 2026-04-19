@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16f0f8eb-45be-4484-9b6e-2643ef4def10",
+  "name": "मरेंगे मरि जायंगे, कोय न लेगा नाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "People will die and pass away, and no one will remember their name. Settlements will be deserted, and the village of spring will be abandoned.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मरेंगे मरि जायंगे, कोय न लेगा नाम।\nऊजड़ जाय बसाहिंगे, छोड़‍ि बसन्‍ता गाम।।८६८।।",
+    "translation": "People will die and pass away, and no one will remember their name. Settlements will be deserted, and the village of spring will be abandoned.",
+    "meaning": "लोग मरेंगे और चले जाएंगे, और कोई उनका नाम नहीं लेगा। बसाहटें उजड़ जाएंगी, और बसंत का गाँव छोड़ दिया जाएगा।",
+    "explanation": "कबीर इस दोहे में जीवन की नश्वरता और अस्थायित्व पर प्रकाश डालते हैं। वे बताते हैं कि मृत्यु के बाद कोई व्यक्ति को याद नहीं रखेगा और यहाँ तक कि समृद्ध जगहें भी समय के साथ वीरान हो जाएंगी।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.351Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a18e5838-a7fc-4211-b35e-4cddbc9c8984",
+  "name": "Prabhatiyas",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-narsinh-mehta"
+  },
+  "inLanguage": "Gujarati",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Prabhatiyas",
+    "retrievedAt": "2026-01-04T18:39:15.877Z"
+  }
+}

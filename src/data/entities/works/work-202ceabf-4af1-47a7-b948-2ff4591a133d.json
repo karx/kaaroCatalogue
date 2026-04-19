@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-202ceabf-4af1-47a7-b948-2ff4591a133d",
+  "name": "कबीर भर्म न भाजिया, बहुविधि धरिया भेष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, despite wearing many disguises, my illusions did not leave. Without the Lord's realization, the inner self remains divided.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर भर्म न भाजिया, बहुविधि धरिया भेष।\nसाई के परच बिना, अन्‍तर रहा न लेख।।१४७२।।",
+    "translation": "Kabir says, despite wearing many disguises, my illusions did not leave. Without the Lord's realization, the inner self remains divided.",
+    "meaning": "कबीर कहते हैं, कई प्रकार के भेष धारण करने के बाद भी भ्रम नहीं छूटा। बिना साईं के साक्षात्कार के, आंतरिक विभाजन बना रहता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि बाहरी आडंबर और भेष बदलने से आत्मज्ञान प्राप्त नहीं होता। जब तक ईश्वर का सच्चा साक्षात्कार नहीं होता, तब तक मनुष्य का आंतरिक द्वंद्व बना रहता है। भले ही कोई विभिन्न तरीकों से साधना करे, लेकिन सच्चा आत्मज्ञान केवल ईश्वर की कृपा से ही संभव है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.657Z"
+  }
+}

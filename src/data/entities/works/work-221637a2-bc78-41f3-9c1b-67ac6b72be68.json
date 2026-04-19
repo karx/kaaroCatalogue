@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-221637a2-bc78-41f3-9c1b-67ac6b72be68",
+  "name": "साधु सती औ सिंह को, ज्‍यों लंघन त्‍यों शोभ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints, virtuous ones, and lions shine as they cross boundaries. A lion does not harm a mosquito, and a saint is not swayed by greed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सती औ सिंह को, ज्‍यों लंघन त्‍यों शोभ।\nसिंह न मारै मींडका, साधु न बांधे लोभ।।२०९४।।",
+    "translation": "Saints, virtuous ones, and lions shine as they cross boundaries. A lion does not harm a mosquito, and a saint is not swayed by greed.",
+    "meaning": "साधु, सती और शेर तब चमकते हैं जब वे सीमाओं को पार करते हैं। शेर मच्छर को नहीं मारता, और साधु लोभ से प्रभावित नहीं होते।",
+    "explanation": "इस दोहे में कबीर साधु, सती और शेर की तुलना करते हैं। शेर की तरह, ये लोग भी अपने लक्ष्य की ओर बढ़ते हैं और नकारात्मकता को नजरअंदाज करते हैं। साधु और सती भी लोभ और अन्य इच्छाओं से प्रभावित नहीं होते। यह दोहा दिखाता है कि सच्चे साधु और सती वे हैं जो अपनी आंतरिक शक्ति और नैतिकता को बनाए रखते हैं, चाहे परिस्थितियाँ कैसी भी हों।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.099Z"
+  }
+}

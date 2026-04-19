@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d72e091b-bf8d-4716-8a9f-60ef5dc0e8fe",
+  "name": "पद गाये लैलीन ह्व, कटी न संसै पास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Merely singing hymns with superficial devotion does not eliminate doubts. While most remain attached to household life, true renunciation can exist even within a householder.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पद गाये लैलीन ह्व, कटी न संसै पास।\nसबै पिछीड़े ग्रिह मैं, इक गृही मैं बैराग।।१८८६।।",
+    "translation": "Merely singing hymns with superficial devotion does not eliminate doubts. While most remain attached to household life, true renunciation can exist even within a householder.",
+    "meaning": "केवल सतही भक्ति से पद गाने पर संदेह दूर नहीं होते। जबकि अधिकांश लोग गृहस्थ जीवन में बंधे रहते हैं, एक गृहस्थ के भीतर भी सच्चा वैराग्य हो सकता है।",
+    "explanation": "इस दोहे में कबीरदास जी सच्ची भक्ति और वैराग्य का महत्व बताते हैं। वे कहते हैं कि सिर्फ बाहरी रूप से भजन गाने या पूजा करने से मन के संदेह समाप्त नहीं होते। वास्तविक भक्ति और आंतरिक समर्पण से ही आत्मज्ञान प्राप्त होता है। साथ ही, वे बताते हैं कि गृहस्थ जीवन में रहते हुए भी व्यक्ति सच्चा वैराग्य धारण कर सकता है यदि उसका मन संसारिक मोह से मुक्त और भगवान में लीन हो। यह दोहा दिखाता है कि भक्ति का सार हृदय की शुद्धता और आंतरिक समर्पण में निहित है, न कि केवल बाहरी आडंबर में।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.976Z"
+  }
+}

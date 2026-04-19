@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0ecd8347-9484-4a37-ae5c-2c14b8fd3d10",
+  "name": "नष्‍टा का राज है, नफरत का वरते तेज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rule of loss is in place, and the force of hatred prevails. The essence of the word is in discerning the wisdom in the heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नष्‍टा का राज है, नफरत का वरते तेज।\nसार शब्‍द टकसार है, हृदये मांहि विवेक।।१५७६।।",
+    "translation": "The rule of loss is in place, and the force of hatred prevails. The essence of the word is in discerning the wisdom in the heart.",
+    "meaning": "नष्ट का नियम लागू है और नफरत की ताकत बढ़ रही है। शब्द का सार हृदय में विवेक को समझने में है।",
+    "explanation": "इस दोहे में कबीर ने नष्ट होने की प्रक्रिया और नफरत की शक्ति को बताया है। उन्होंने कहा है कि शब्द का असली सार तब समझ में आता है जब हृदय में विवेक होता है। यह ध्यान देने की बात है कि प्रेम और ज्ञान ही इस नष्ट और नफरत की ताकत को पार कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.209Z"
+  }
+}

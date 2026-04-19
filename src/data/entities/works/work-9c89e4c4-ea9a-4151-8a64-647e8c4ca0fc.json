@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9c89e4c4-ea9a-4151-8a64-647e8c4ca0fc",
+  "name": "himmat-e-iltija nahin baqi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/himmat-e-iltijaa-nahiin-baaqii-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.210Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/himmat-e-iltijaa-nahiin-baaqii-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nhimmat-e-iltijā nahīñ baaqī\nzabt kā hausla nahīñ baaqī\nik tirī diid chhin ga.ī mujh se\nvarna duniyā meñ kyā nahīñ baaqī\napnī mashq-e-sitam se haath na khīñch\nmaiñ nahīñ yā vafā nahīñ baaqī\nterī chashm-e-alam-navāz kī ḳhair\ndil meñ koī gilā nahīñ baaqī\nho chukā ḳhatm ahd-e-hijr-o-visāl\nzindagī meñ mazā nahīñ baaqī\nhimmat-e-iltija nahin baqi\nzabt ka hausla nahin baqi\nek teri did chhin gai mujh se\nwarna duniya mein kya nahin baqi\napni mashq-e-sitam se hath na khinch\nmain nahin ya wafa nahin baqi\nteri chashm-e-alam-nawaz ki KHair\ndil mein koi gila nahin baqi\nho chuka KHatm ahd-e-hijr-o-visal\nzindagi mein maza nahin baqi",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nہمت التجا نہیں باقی\nضبط کا حوصلہ نہیں باقی\nاک تری دید چھن گئی مجھ سے\nورنہ دنیا میں کیا نہیں باقی\nاپنی مشق ستم سے ہاتھ نہ کھینچ\nمیں نہیں یا وفا نہیں باقی\nتیری چشم الم نواز کی خیر\nدل میں کوئی گلا نہیں باقی\nہو چکا ختم عہد ہجر و وصال\nزندگی میں مزا نہیں باقی",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nहिम्मत-ए-इल्तिजा नहीं बाक़ी\nज़ब्त का हौसला नहीं बाक़ी\nइक तिरी दीद छिन गई मुझ से\nवर्ना दुनिया में क्या नहीं बाक़ी\nअपनी मश्क़-ए-सितम से हाथ न खींच\nमैं नहीं या वफ़ा नहीं बाक़ी\nतेरी चश्म-ए-अलम-नवाज़ की ख़ैर\nदिल में कोई गिला नहीं बाक़ी\nहो चुका ख़त्म अहद-ए-हिज्र-ओ-विसाल\nज़िंदगी में मज़ा नहीं बाक़ी",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:18.480Z"
+  }
+}

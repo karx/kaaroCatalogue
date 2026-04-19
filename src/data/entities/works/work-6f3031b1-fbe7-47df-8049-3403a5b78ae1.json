@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6f3031b1-fbe7-47df-8049-3403a5b78ae1",
+  "name": "जैसी मुख ते नीकसे, तैसी चालै नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One's actions should match their words; otherwise, they are not human but like dogs, bound by the noose of fate.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसी मुख ते नीकसे, तैसी चालै नाहिं।\nमानुष नहीं वे श्‍वान गति, बांधे जमपुर जांहि।।१३२०।।",
+    "translation": "One's actions should match their words; otherwise, they are not human but like dogs, bound by the noose of fate.",
+    "meaning": "कर्म शब्दों से मेल खाना चाहिए; अन्यथा वे मानव नहीं बल्कि कुत्तों जैसे हैं, जिनकी किस्मत की बेड़ी बंधी होती है।",
+    "explanation": "कबीर जी के अनुसार, यदि व्यक्ति के कर्म और शब्दों में कोई मेल नहीं है, तो वे मानवता से दूर होते हैं और किस्मत की बेड़ी में बंधे होते हैं। उनके कर्म उनकी बातों से मेल नहीं खाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.812Z"
+  }
+}

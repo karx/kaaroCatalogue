@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b001a004-c8fa-4bee-8736-af55d53b82c3",
+  "name": "काया सों कारज करें, सकल काज की री‍त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Use your body for noble deeds, following the right path. Erase all illusions and attachments, and devote yourself to the love of God's name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काया सों कारज करें, सकल काज की री‍त।\nकर्म भर्म सब मेट के, राम नाम सौं प्रीत।।९६७।।",
+    "translation": "Use your body for noble deeds, following the right path. Erase all illusions and attachments, and devote yourself to the love of God's name.",
+    "meaning": "अपने शरीर का उपयोग नेक कार्यों के लिए करें, सही रास्ते पर चलते हुए। सभी भ्रम और कर्म को मिटा दें, और भगवान के नाम के प्रेम में समर्पित हो जाएं।",
+    "explanation": "इस दोहे में कबीर दास जी शरीर के सही उपयोग और ईश्वर के प्रति प्रेम की बात कर रहे हैं। वह कहते हैं कि हमें अपने शरीर का उपयोग सही कार्यों के लिए करना चाहिए और सभी भ्रम और अनावश्यक कर्मों को त्यागकर भगवान के नाम से प्रेम करना चाहिए। यह प्रेम हमें जीवन की सच्ची सफलता की ओर ले जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

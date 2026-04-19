@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-605b3841-9dfb-4e8e-9121-ab88e1749c2f",
+  "name": "कबीर मन पंषो भया, जहाँ मन वहाँ उड़ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind becomes what it associates with; it flies wherever it is drawn. One reaps the fruit of their associations.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन पंषो भया, जहाँ मन वहाँ उड़ि जाय।\nजो जैसी संगति करै, सो तैसे फल खाइ।।१९२।।",
+    "translation": "The mind becomes what it associates with; it flies wherever it is drawn. One reaps the fruit of their associations.",
+    "meaning": "मन वही बन जाता है, जिसके साथ वह जुड़ता है; वह जहाँ भी आकर्षित होता है, उधर उड़ जाता है। व्यक्ति अपनी संगत के अनुसार फल पाता है।",
+    "explanation": "इस दोहे में कबीर ने मन की प्रवृत्ति और संगति के महत्व पर ध्यान केंद्रित किया है। कबीर के अनुसार, मन हमेशा उसी दिशा में जाता है जहाँ उसकी संगति होती है, और व्यक्ति के कर्म उसी के अनुसार फलित होते हैं। यह दोहा यह समझाता है कि सही संगति और अच्छे विचारों का चयन करना जीवन में सकारात्मक बदलाव ला सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

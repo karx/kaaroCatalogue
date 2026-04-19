@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc903e4e-12f6-4cea-82a5-47ffa7987e83",
+  "name": "मूरख शब्‍द न मानई, धर्न न सुनै विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fool does not heed wise words, nor does he listen to reason. He does not seek the truth, and thus he walks toward the gates of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूरख शब्‍द न मानई, धर्न न सुनै विचार।\nसत्‍य शब्‍द नहिं खोजई, जावैं जम के द्वार।।८७३।।",
+    "translation": "The fool does not heed wise words, nor does he listen to reason. He does not seek the truth, and thus he walks toward the gates of death.",
+    "meaning": "मूर्ख समझदार शब्दों को नहीं मानता, न ही वह तर्क सुनता है। वह सत्य की खोज नहीं करता, और इसीलिए वह मृत्यु के द्वार की ओर जाता है।",
+    "explanation": "इस दोहे में कबीर उन लोगों की बात करते हैं जो जीवन में सही मार्गदर्शन को नहीं सुनते और सत्य की खोज नहीं करते। ऐसे लोग अंततः मृत्यु और दुख के रास्ते पर चल पड़ते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.352Z"
+  }
+}

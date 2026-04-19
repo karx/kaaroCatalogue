@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e3d91843-d22b-4697-955a-78b6579fe892",
+  "name": "काइर हुंवां न छूटिये, कछु सूरातन साहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fool will not be freed, despite all attempts. Dispel doubts and remember the Lord's name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काइर हुंवां न छूटिये, कछु सूरातन साहि।\nभरम भलका दूरि करि, सुमिरण सेल संवाहि।।१९०७।।",
+    "translation": "The fool will not be freed, despite all attempts. Dispel doubts and remember the Lord's name.",
+    "meaning": "मूर्ख को मुक्ति नहीं मिलती, चाहे कितनी भी कोशिश कर ली जाए। भ्रांतियों को दूर करो और भगवान के नाम का स्मरण करो।",
+    "explanation": "इस दोहे में कबीरदास जी यह सिखाते हैं कि जो व्यक्ति अज्ञानी या मूर्ख है, उसे मुक्ति नहीं मिलती, चाहे वह कितनी भी कोशिश कर ले। सच्ची मुक्ति और शांति पाने के लिए आवश्यक है कि संदेह और भ्रांतियों को दूर किया जाए और भगवान के नाम का सच्चे मन से स्मरण किया जाए। यह दोहा ध्यान और भक्ति की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.246Z"
+  }
+}

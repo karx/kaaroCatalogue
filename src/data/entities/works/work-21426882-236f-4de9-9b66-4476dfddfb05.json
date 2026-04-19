@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-21426882-236f-4de9-9b66-4476dfddfb05",
+  "name": "सहकामी दीपक दसा, सीखे तेल निवास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A lamp that shares its oil and light is learned in the ways of oil. Kabir says that a true saint shines effortlessly like a gem.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सहकामी दीपक दसा, सीखे तेल निवास।\nकबीर हीरा सन्‍त जन, सहजै सदा प्रकाश।।१२२२।।",
+    "translation": "A lamp that shares its oil and light is learned in the ways of oil. Kabir says that a true saint shines effortlessly like a gem.",
+    "meaning": "जो दीपक तेल बांटता है और अपनी रोशनी फैलाता है, वह तेल के गुणों को जानता है। कबीर कहते हैं कि एक सच्चा संत हीरा की तरह सहज रूप से प्रकाशमान होता है।",
+    "explanation": "इस दोहे में कबीर ने सच्चे संत की विशेषताओं को दर्शाया है। जैसे दीपक अपने तेल को बांटता है, एक सच्चा संत भी सहजता से प्रकाश फैलाता है और दूसरों को शिक्षित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.270Z"
+  }
+}

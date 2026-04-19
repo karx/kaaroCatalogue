@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-77e75ba7-96dd-492e-b41c-e453325cf5d2",
+  "name": "कहे कबीर देय तू, जब तक तेरी देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, give away all you can while your body is still here. When the body is gone, who will speak of it?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहे कबीर देय तू, जब तक तेरी देह।\nदेह खेह हो जाएगी, कौन कहेगा देह।।११२।।",
+    "translation": "Kabir says, give away all you can while your body is still here. When the body is gone, who will speak of it?",
+    "meaning": "कबीर कहते हैं, जब तक तुम्हारा शरीर यहाँ है, सब कुछ दान कर दो। जब शरीर चला जाएगा, तो कौन इसके बारे में बात करेगा?",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि हमें अपनी सामग्री और धन का दान करना चाहिए जब तक हमारा शरीर और जीवन यथावत है। शरीर की मृत्यु के बाद, कोई भी हमारे भौतिक संपत्तियों के बारे में बात नहीं करेगा। यह दर्शाता है कि जीवन की सीमित अवधि में अच्छे कार्य करना और दूसरों की मदद करना अधिक महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

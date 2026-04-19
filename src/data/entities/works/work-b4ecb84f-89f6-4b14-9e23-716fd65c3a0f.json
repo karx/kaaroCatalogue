@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b4ecb84f-89f6-4b14-9e23-716fd65c3a0f",
+  "name": "राम रहीमा एक है, नाम धराया दोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ram and Rahim are one, though names are different. Kabir says that hearing two names leads to confusion and misperception.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम रहीमा एक है, नाम धराया दोय।\nकहै कबीर दो नाम सुनि, भरमि परौ मति कोय।।२२०५।।",
+    "translation": "Ram and Rahim are one, though names are different. Kabir says that hearing two names leads to confusion and misperception.",
+    "meaning": "राम और रहीम एक हैं, हालांकि नाम भिन्न हैं। कबीर कहते हैं कि दो नाम सुनने से भ्रम और गलतफहमी उत्पन्न होती है।",
+    "explanation": "इस दोहे में संत कबीर जी यह दर्शाते हैं कि राम और रहीम, जो कि विभिन्न नाम हैं, वास्तव में एक ही दिव्य शक्ति का प्रतीक हैं। वे यह भी बताते हैं कि इन दो नामों के कारण भ्रम और गलतफहमी उत्पन्न हो सकती है। कबीर जी एकता की सच्चाई को उजागर करने का प्रयास करते हैं और यह समझाते हैं कि नाम भिन्न हो सकते हैं, लेकिन परमात्मा एक ही है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.078Z"
+  }
+}

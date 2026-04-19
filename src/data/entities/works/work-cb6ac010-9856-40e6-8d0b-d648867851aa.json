@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb6ac010-9856-40e6-8d0b-d648867851aa",
+  "name": "मन फाटा वाइक बुरै, मिटी सगाई साक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "An evil-torn mind destroys all relationships and connections. Just as a drop of poison spoils an entire pot of milk.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन फाटा वाइक बुरै, मिटी सगाई साक।\nजौ परि दूध तिवास का, ऊकटि हूवा आक।।१८८८।।",
+    "translation": "An evil-torn mind destroys all relationships and connections. Just as a drop of poison spoils an entire pot of milk.",
+    "meaning": "बुराई से फटा हुआ मन सभी संबंधों और नातों को नष्ट कर देता है। जैसे जरा सा विष दूध के पूरे घड़े को खराब कर देता है।",
+    "explanation": "इस दोहे में कबीरदास जी मन की शुद्धता और उसके प्रभाव पर प्रकाश डालते हैं। वे कहते हैं कि यदि मन बुरे विचारों और नकारात्मकता से भर जाता है, तो यह हमारे सभी रिश्तों और सामाजिक बंधनों को प्रभावित करता है और उन्हें नष्ट कर देता है। यह उसी तरह है जैसे थोड़ी सी ज़हर की बूंद पूरे दूध को विषैला बना देती है। इसलिए, मन को शुद्ध और सकारात्मक विचारों से भरना चाहिए ताकि हमारे संबंध और जीवन स्वस्थ और सुखमय बने रहें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.976Z"
+  }
+}

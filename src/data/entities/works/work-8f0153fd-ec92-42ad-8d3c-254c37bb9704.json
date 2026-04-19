@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8f0153fd-ec92-42ad-8d3c-254c37bb9704",
+  "name": "चंदन गया विदेसड, सब कोई कहै पलास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Sandalwood went abroad, and everyone called it a Palash. The more it is seen in the kitchen, the more it emits fragrance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंदन गया विदेसड, सब कोई कहै पलास।\nज्‍यों ज्‍यों चूल्‍हे झांकिया, त्‍यों त्‍यों अधिकी बास।।२१५१।।",
+    "translation": "Sandalwood went abroad, and everyone called it a Palash. The more it is seen in the kitchen, the more it emits fragrance.",
+    "meaning": "चंदन विदेश चला गया, और सब उसे पलाश कहने लगे। जैसे-जैसे वह चूल्हे में झांकता है, वैसे-वैसे उसकी सुगंध बढ़ती जाती है।",
+    "explanation": "इस दोहे में कबीर ने चंदन और पलाश के माध्यम से एक गहरे संदेश को व्यक्त किया है। चंदन की विदेश यात्रा और पलाश से तुलना करके उन्होंने यह बताया है कि वास्तविक मूल्य और गुण तब प्रकट होते हैं जब किसी को करीबी संपर्क में लाया जाता है। जैसे चंदन का गुण चूल्हे में रहने पर और भी अधिक प्रकट होता है, वैसे ही व्यक्ति का असली मूल्य और गुण परखने से सामने आता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.720Z"
+  }
+}

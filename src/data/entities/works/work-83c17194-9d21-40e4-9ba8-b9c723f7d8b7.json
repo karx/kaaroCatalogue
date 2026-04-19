@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-83c17194-9d21-40e4-9ba8-b9c723f7d8b7",
+  "name": "हरिजन सेती रुसणा, संसारी सूँ हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Anger towards the devotees and affection towards worldly people never leads to fulfillment, just like a barren field.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरिजन सेती रुसणा, संसारी सूँ हेत।\nते णर कदे न नीपजौ, ज्यूँ कालर का खेत।।१९६।।",
+    "translation": "Anger towards the devotees and affection towards worldly people never leads to fulfillment, just like a barren field.",
+    "meaning": "भक्तों के प्रति क्रोध और संसारिक लोगों के प्रति स्नेह कभी भी संतोषजनक परिणाम नहीं देते, जैसे कि एक बंजर खेत।",
+    "explanation": "इस दोहे में कबीर ने संसारिक और आध्यात्मिक संबंधों के महत्व को दर्शाया है। उन्होंने बताया है कि यदि किसी के भीतर भक्तों के प्रति क्रोध और संसारिक लोगों के प्रति स्नेह हो, तो वह कभी भी पूर्णता प्राप्त नहीं कर सकता। यह स्थिति एक बंजर खेत की तरह होती है, जो कभी भी उपज नहीं देता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.601Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1669a91f-da9d-472a-bd3c-252cb467cc98",
+  "name": "माँगन मरण समान है, मति माँगो कोई भीख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Begging is akin to death; do not ask for alms. Better to die than to beg, such is the teaching of the true Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माँगन मरण समान है, मति माँगो कोई भीख।\nमाँगन से तो मरना भला, यह सतगुरु की सीख।।१४।।",
+    "translation": "Begging is akin to death; do not ask for alms. Better to die than to beg, such is the teaching of the true Guru.",
+    "meaning": "माँगना मरने क�� समान है, कभी भी भीख मत माँगो। माँगने से मर जाना बेहतर है, यही सतगुरु की सीख है।",
+    "explanation": "यह दोहा आत्मनिर्भरता और स्वाभिमान का संदेश देता है। संत कबीर समझाते हैं कि माँगना या भीख माँगना मरने के समान है। हमें स्वाभिमान के साथ जीना चाहिए और किसी पर निर्भर नहीं होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

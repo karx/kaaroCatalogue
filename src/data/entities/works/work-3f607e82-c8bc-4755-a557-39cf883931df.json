@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3f607e82-c8bc-4755-a557-39cf883931df",
+  "name": "बेलि कुढंगी फल निफरो, फुलवा कुबुधि गंधाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The creeper produces no fruit; the flower has a bad smell. In this manner, the tender plant withers; the pond dries up.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बेलि कुढंगी फल निफरो, फुलवा कुबुधि गंधाय।\nओर विनष्‍टी तुंबिका, सरो पात करुवाय।।१६१९।।",
+    "translation": "The creeper produces no fruit; the flower has a bad smell. In this manner, the tender plant withers; the pond dries up.",
+    "meaning": "लता कोई फल नहीं देती; फूल की गंध भी बुरी होती है। इसी प्रकार, नाजुक पौधा मुरझा जाता है; तालाब सूख जाता है।",
+    "explanation": "कबीर इस दोहे में अनावश्यकता और बर्बादी की स्थिति का वर्णन करते हैं। उन्होंने कहा कि जो चीजें किसी काम की नहीं हैं और बेकार हो जाती हैं, जैसे फलहीन लता या बदबूदार फूल, वही अंत में बर्बाद हो जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.505Z"
+  }
+}

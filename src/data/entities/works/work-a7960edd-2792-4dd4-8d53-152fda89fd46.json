@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a7960edd-2792-4dd4-8d53-152fda89fd46",
+  "name": "आगि जु लागि समुद्र में, धुंआ प्रगट न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When fire is burning in the ocean, smoke does not appear. Only the one who is burned understands the nature of its cause.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगि जु लागि समुद्र में, धुंआ प्रगट न होय।\nसो जाने जो जरि मुआ, जाकी लाई होय।।१४४५।।",
+    "translation": "When fire is burning in the ocean, smoke does not appear. Only the one who is burned understands the nature of its cause.",
+    "meaning": "जब समुद्र में आग लगती है, तो धुंआ नहीं निकलता। केवल वही व्यक्ति जो जलता है, उसे कारण की प्रकृति समझ में आती है।",
+    "explanation": "कबीर इस दोहे में वास्तविकता की समझ और अनुभव की बात करते हैं। वे बताते हैं कि जब आग समुद्र में लगती है, तब धुंआ नहीं निकलता; इसका अर्थ है कि केवल अनुभव करने वाला ही कारण की प्रकृति को समझ सकता है। यह दोहा अनुभव और समझ की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.369Z"
+  }
+}

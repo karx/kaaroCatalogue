@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9e668546-a171-431a-94d2-279529e03632",
+  "name": "कबीरा सोता क्या करे, जागो जपो मुरार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of sleeping, Kabir says? Wake up and chant the name of the Divine. Sleeping is for a single day, while the journey is long.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा सोता क्या करे, जागो जपो मुरार।\nएक दिना है सोवना, लांबे पाँव पसार।।११३।।",
+    "translation": "What is the use of sleeping, Kabir says? Wake up and chant the name of the Divine. Sleeping is for a single day, while the journey is long.",
+    "meaning": "कबीर कहते हैं कि सोने का क्या लाभ है? जागो और मुरार (भगवान) का नाम जपो। सोना एक दिन के लिए है, जबकि यात्रा लंबी है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि सोने का कोई विशेष लाभ नहीं है, जबकि जीवन की यात्रा लंबी होती है। हमें जागरूक रहना चाहिए और भगवान के नाम का जाप करना चाहिए। यह संदेश देता है कि आध्यात्मिक साधना और ध्यान अधिक महत्वपूर्ण हैं, जबकि सोना केवल तात्कालिक विश्राम प्रदान करता है। जीवन के उद्देश्य को समझना और आत्म-साक्षात्कार की ओर बढ़ना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a9f6b36d-ec86-419f-af1c-5584685dad57",
+  "name": "शूरा तौं सांच मतै, सहै जो सन्‍तुख धार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The brave accept the truth, bearing the burden of joy. Cowards who cause pain, are endlessly tormented from behind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शूरा तौं सांच मतै, सहै जो सन्‍तुख धार।\nकायर अनी चुभाय के, पीछै झखै अपार।।२१२३।।",
+    "translation": "The brave accept the truth, bearing the burden of joy. Cowards who cause pain, are endlessly tormented from behind.",
+    "meaning": "वीर सच्चाई को स्वीकार करते हैं, खुशी का बोझ सहते हैं। कायर जो दर्द फैलाते हैं, उन्हें पीछे से अनंत कष्ट मिलते हैं।",
+    "explanation": "इस दोहे में कबीर ने सच्चाई और वीरता की अवधारणा को स्पष्ट किया है। वीर व्यक्ति सच्चाई को स्वीकार करते हैं और खुशी के बोझ को सहन करते हैं। इसके विपरीत, जो कायर होते हैं और दूसरों को दर्द पहुँचाते हैं, उन्हें अनंत पीड़ा का सामना करना पड़ता है। यह दोहा वीरता और कायरता के परिणामों को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.365Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-89ce7535-b243-4a93-a762-b7ad36aed8a7",
+  "name": "सपने सोवा मानवा, खोलि जो देखे नैन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Dreams are mere illusions for the mind, only visible through the eyes. The soul is caught in many illusions, having nothing to give or take.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सपने सोवा मानवा, खोलि जो देखे नैन।\nजीव परा बहुलूट में, ना कुछ लेन न देन।।१६८७।।",
+    "translation": "Dreams are mere illusions for the mind, only visible through the eyes. The soul is caught in many illusions, having nothing to give or take.",
+    "meaning": "सपने मन के लिए मात्र भ्रांतियाँ हैं, जो केवल आंखों से देखी जाती हैं। आत्मा अनेक भ्रांतियों में फंसी रहती है, जिसका ना कुछ लेना होता है ना देना।",
+    "explanation": "कबीर इस दोहे में सपनों और वास्तविकता की बात करते हैं। उन्होंने कहा कि सपने केवल भ्रांतियाँ होती हैं और आत्मा भ्रम में रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.791Z"
+  }
+}

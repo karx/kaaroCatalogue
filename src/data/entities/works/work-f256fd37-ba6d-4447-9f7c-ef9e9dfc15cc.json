@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f256fd37-ba6d-4447-9f7c-ef9e9dfc15cc",
+  "name": "नारी नसाबैं नीति सुख, जा नर पासैं होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The virtue and happiness that come from a woman are temporary. True devotion and liberation come from one’s own knowledge and cannot be attained through others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नारी नसाबैं नीति सुख, जा नर पासैं होइ।\nभगति मुकति निज ग्‍यान मैं, पैसि न सकई कोइ।।२०४५।।",
+    "translation": "The virtue and happiness that come from a woman are temporary. True devotion and liberation come from one’s own knowledge and cannot be attained through others.",
+    "meaning": "महिला से मिलने वाला पुण्य और सुख अस्थायी होते हैं। सच्ची भक्ति और मुक्ति अपने ज्ञान से प्राप्त होती है और इसे दूसरों के माध्यम से प्राप्त नहीं किया जा सकता।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि महिला से प्राप्त पुण्य और सुख अस्थायी होते हैं। सच्ची भक्ति और मुक्ति केवल अपने ज्ञान से प्राप्त की जा सकती है, और यह दूसरों से प्राप्त नहीं होती। यह व्यक्तिगत ज्ञान और आत्मिक मुक्ति की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.813Z"
+  }
+}

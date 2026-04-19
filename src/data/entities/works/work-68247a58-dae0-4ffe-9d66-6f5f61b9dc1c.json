@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-68247a58-dae0-4ffe-9d66-6f5f61b9dc1c",
+  "name": "dil mein ab yun tere bhule hue gham aate hain",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/dil-men-ab-yuun-tire-bhuule-hue-gam-aate-hain-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.207Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/dil-men-ab-yuun-tire-bhuule-hue-gam-aate-hain-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ndil meñ ab yuuñ tire bhūle hue ġham aate haiñ\njaise bichhḌe hue kaabe meñ sanam aate haiñ\nek ik kar ke hue jaate haiñ taare raushan\nmerī manzil kī taraf tere qadam aate haiñ\nraqs-e-mai tez karo saaz kī lai tez karo\nsū-e-mai-ḳhāna safīrān-e-haram aate haiñ\nkuchh hamīñ ko nahīñ ehsān uThāne kā dimāġh\nvo to jab aate haiñ mā.il-ba-karam aate haiñ\naur kuchh der na guzre shab-e-furqat se kaho\ndil bhī kam dukhtā hai vo yaad bhī kam aate haiñ\ndil mein ab yun tere bhule hue gham aate hain\njaise bichhDe hue kabe mein sanam aate hain\nek ek kar ke hue jate hain tare raushan\nmeri manzil ki taraf tere qadam aate hain\nraqs-e-mai tez karo saz ki lai tez karo\nsu-e-mai-KHana safiran-e-haram aate hain\nkuchh hamin ko nahin ehsan uThane ka dimagh\nwo to jab aate hain mail-ba-karam aate hain\naur kuchh der na guzre shab-e-furqat se kaho\ndil bhi kam dukhta hai wo yaad bhi kam aate hain",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nدل میں اب یوں ترے بھولے ہوئے غم آتے ہیں\nجیسے بچھڑے ہوئے کعبہ میں صنم آتے ہیں\nایک اک کر کے ہوئے جاتے ہیں تارے روشن\nمیری منزل کی طرف تیرے قدم آتے ہیں\nرقص مے تیز کرو ساز کی لے تیز کرو\nسوئے مے خانہ سفیران حرم آتے ہیں\nکچھ ہمیں کو نہیں احسان اٹھانے کا دماغ\nوہ تو جب آتے ہیں مائل بہ کرم آتے ہیں\nاور کچھ دیر نہ گزرے شب فرقت سے کہو\nدل بھی کم دکھتا ہے وہ یاد بھی کم آتے ہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nदिल में अब यूँ तिरे भूले हुए ग़म आते हैं\nजैसे बिछड़े हुए काबे में सनम आते हैं\nएक इक कर के हुए जाते हैं तारे रौशन\nमेरी मंज़िल की तरफ़ तेरे क़दम आते हैं\nरक़्स-ए-मय तेज़ करो साज़ की लय तेज़ करो\nसू-ए-मय-ख़ाना सफ़ीरान-ए-हरम आते हैं\nकुछ हमीं को नहीं एहसान उठाने का दिमाग़\nवो तो जब आते हैं माइल-ब-करम आते हैं\nऔर कुछ देर न गुज़रे शब-ए-फ़ुर्क़त से कहो\nदिल भी कम दुखता है वो याद भी कम आते हैं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:21.075Z"
+  }
+}

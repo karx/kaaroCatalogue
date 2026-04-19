@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ba721b74-6473-40b1-b374-0ada0119e238",
+  "name": "झल बांयें झल दांहिनैं, झलहि मांहि ब्‍यौहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is ensnared to the left, to the right, and in every action. Yet, the Creator sustains all, protecting them in the front and back.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झल बांयें झल दांहिनैं, झलहि मांहि ब्‍यौहार।\nआगैं पीछे झलमई, राखै सिरजनहार।।१९०१।।",
+    "translation": "The world is ensnared to the left, to the right, and in every action. Yet, the Creator sustains all, protecting them in the front and back.",
+    "meaning": "दुनिया बाईं, दाईं ओर और हर क्रिया में फंसी हुई है। फिर भी, सृष्टिकर्ता सभी को बनाए रखता है, उन्हें आगे और पीछे से बचाता है।",
+    "explanation": "इस दोहे में कबीरदास जी इस संसार की उलझनों का वर्णन करते हैं। वे कहते हैं कि व्यक्ति हर दिशा में, हर कार्य में उलझा हुआ है। लेकिन भगवान सभी की रक्षा करते हैं और उन्हें जीवन में सुरक्षित रखते हैं। यह दोहा हमें इस बात का एहसास कराता है कि चाहे जीवन में कितनी भी उलझनें क्यों न हों, सृष्टिकर्ता हमेशा हमारी रक्षा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.244Z"
+  }
+}

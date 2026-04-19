@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01d735bc-2775-4653-bd1c-7a2ad20f1108",
+  "name": "रतन का जतन करि, माटी का सिंगार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Care for jewels and decorate with earth. Kabir came and went, this world is false.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रतन का जतन करि, माटी का सिंगार।\nआया कबीरा फिरि गया, झूठा है संसार।।१६६१।।",
+    "translation": "Care for jewels and decorate with earth. Kabir came and went, this world is false.",
+    "meaning": "रत्नों की देखभाल करो और मिट्टी से सजाओ। कबीर आया और चला गया, यह संसार झूठा है।",
+    "explanation": "कबीर इस दोहे में संसार की झूठी सुंदरता और वास्तविकता को दर्शाते हैं। उन्होंने कहा कि संसार की सजावट और आभूषण केवल एक भ्रम हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.785Z"
+  }
+}

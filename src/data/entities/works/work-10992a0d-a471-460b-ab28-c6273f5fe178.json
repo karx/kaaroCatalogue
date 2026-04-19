@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-10992a0d-a471-460b-ab28-c6273f5fe178",
+  "name": "परदे पाणी दाधिया, संतो करह विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Behind the veil, water and curd, reflect on the saints. The cloth of the worldly, having been burnt, does not withstand the wear of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "परदे पाणी दाधिया, संतो करह विचार।\nसरमा सरमी पचि मुवा, काल घसीट निहार।।१५८५।।",
+    "translation": "Behind the veil, water and curd, reflect on the saints. The cloth of the worldly, having been burnt, does not withstand the wear of time.",
+    "meaning": "परदे के पीछे, पानी और दही, संतों पर विचार करें। सांसारिक कपड़ा जलकर, समय के पहनावे को सहन नहीं करता।",
+    "explanation": "कबीर इस दोहे में सांसारिक वस्तुओं और संतों के विचार पर ध्यान केंद्रित कर रहे हैं। उन्होंने कहा कि जो सांसारिक वस्त्र (पारंपरिक सोच) जलकर समाप्त हो जाते हैं, वे समय के साथ टिक नहीं सकते। परदे के पीछे पानी और दही की बात करते हुए, उन्होंने संतों की सत्यता और स्थिरता को दर्शाया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.211Z"
+  }
+}

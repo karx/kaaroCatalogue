@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-65b6f942-de46-4e43-a528-1a619d3b7e18",
+  "name": "चित चेतन ताजी करै, लौ की करैं लगाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind becomes alert when the reins of desire are tightened. By following the words of the Guru, a wise saint reaches the ultimate goal.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चित चेतन ताजी करै, लौ की करैं लगाम।\nशब्‍द गुरु का ताजना, पहुंचै संत सुजान।।२०८६।।",
+    "translation": "The mind becomes alert when the reins of desire are tightened. By following the words of the Guru, a wise saint reaches the ultimate goal.",
+    "meaning": "मन चेतन हो जाता है जब इच्छाओं की लगाम कसी जाती है। गुरु के वचनों का अनुसरण करके, एक ज्ञानी संत अंतिम लक्ष्य तक पहुंचता है।",
+    "explanation": "इस दोहे में कबीर मन की चंचलता और इच्छाओं पर नियंत्रण की बात करते हैं। वह कहते हैं कि जब हम अपनी इच्छाओं की लगाम कसते हैं, तो मन जागरूक और सतर्क हो जाता है। गुरु के शब्दों का पालन करने से, संत या ज्ञानी व्यक्ति आत्मज्ञान और मोक्ष की प्राप्ति कर सकता है। यह दोहा साधना और गुरु की महिमा पर बल देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.096Z"
+  }
+}

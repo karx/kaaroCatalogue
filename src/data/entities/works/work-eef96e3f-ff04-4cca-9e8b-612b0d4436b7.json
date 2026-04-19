@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eef96e3f-ff04-4cca-9e8b-612b0d4436b7",
+  "name": "शूरा सोइ सराहिये, अंग न पहरे लोह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One should praise the true brave, who do not need armor. They open all their barriers and shed their attachment to the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शूरा सोइ सराहिये, अंग न पहरे लोह।\nजूझै सब बंद खोलि कै, छांडे तनको मोह।।२१३५।।",
+    "translation": "One should praise the true brave, who do not need armor. They open all their barriers and shed their attachment to the body.",
+    "meaning": "सच्चे वीर की सराहना करनी चाहिए, जिसे कवच की आवश्यकता नहीं होती। वे अपनी सभी बाधाओं को खोल देते हैं और शरीर के मोह को छोड़ देते हैं।",
+    "explanation": "इस दोहे में कबीर ने सच्ची वीरता का वर्णन किया है। सच्चे वीर को किसी भी बाहरी सुरक्षा की आवश्यकता नहीं होती। वह अपने सारे अवरोधों को हटा देते हैं और शरीर के मोह को त्याग देते हैं। यह दोहा सच्चे वीर की आंतरिक शक्ति और निर्भीकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.369Z"
+  }
+}

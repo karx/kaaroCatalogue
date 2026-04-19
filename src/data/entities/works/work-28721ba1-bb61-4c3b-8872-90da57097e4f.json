@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-28721ba1-bb61-4c3b-8872-90da57097e4f",
+  "name": "अपने अपने सिर पर, सबहिन लीन्‍हा मानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone considers their own head as the most valuable. The teachings of Hari are rare, yet no one understands their significance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपने अपने सिर पर, सबहिन लीन्‍हा मानि।\nहरि की बात दुर्लभ अहै, काह परी न जानि।।२१७७।।",
+    "translation": "Everyone considers their own head as the most valuable. The teachings of Hari are rare, yet no one understands their significance.",
+    "meaning": "हर कोई अपने सिर को सबसे महत्वपूर्ण मानता है। हरि की बातें दुर्लभ होती हैं, लेकिन कोई भी उनकी महत्वता को नहीं समझता।",
+    "explanation": "इस दोहे में कबीर ने लोगों की स्वार्थपरता और सच्चे ज्ञान की कमी को दर्शाया है। लोग अपनी व्यक्तिगत महत्वता को अत्यधिक मानते हैं, जबकि हरि (ईश्वर) की बातों को समझना और अपनाना दुर्लभ है। इसका अर्थ है कि आध्यात्मिक ज्ञान की सच्चाई को पहचानना और समझना कठिन होता है, और लोग अक्सर व्यक्तिगत स्वार्थों में उलझे रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.728Z"
+  }
+}

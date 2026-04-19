@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8cfae870-96db-45dd-b4f9-96cf61dd88ef",
+  "name": "करक पड़ा मैदान में, कुकुर मिले लख कोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A person lay in the field, surrounded by thousands of dogs. They fought claiming victory, but in the end, they left everything behind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करक पड़ा मैदान में, कुकुर मिले लख कोट।\nदावा कर लड़‍ि मुए, अन्‍त चले सब छोड़।।११८२।।",
+    "translation": "A person lay in the field, surrounded by thousands of dogs. They fought claiming victory, but in the end, they left everything behind.",
+    "meaning": "एक व्यक्ति मैदान में पड़ा था, चारों ओर हजारों कुत्ते थे। उन्होंने विजय का दावा किया और लड़े, लेकिन अंत में सब कुछ छोड़ दिया।",
+    "explanation": "इस दोहे में कबीर ने संसार के अस्थिर और अनिश्चित स्वरूप को दर्शाया है। व्यक्ति अपने जीवन के अंत में सब कुछ छोड़ देता है, भले ही वह कितनी भी बड़ी लड़ाई लड़ ले या कितनी भी बड़ी दावे करें। सब कुछ अंततः अधूरा रह जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.973Z"
+  }
+}

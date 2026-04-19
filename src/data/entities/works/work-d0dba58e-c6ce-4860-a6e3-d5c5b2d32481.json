@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d0dba58e-c6ce-4860-a6e3-d5c5b2d32481",
+  "name": "जैसा ढूंढत में फिरुं, तैसा मिला न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What I sought, I did not find. The seeker remains absorbed in the formless, without traits.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसा ढूंढत में फिरुं, तैसा मिला न कोय।\nततवेता तिरंगुन रहित, निरगुन सों रत होय।।५३६।।",
+    "translation": "What I sought, I did not find. The seeker remains absorbed in the formless, without traits.",
+    "meaning": "मैंने जो ढूंढा, वह मुझे नहीं मिला। सच्चा साधक निर्गुण में रत रहता है, जिसमें कोई गुण नहीं होते।",
+    "explanation": "इस दोहे में कबीर जी यह व्यक्त करते हैं कि जो वे ढूंढ रहे थे, वह उन्हें नहीं मिला। एक सच्चा साधक निरगुण और गुण रहित तत्व में ध्यान लगाता है, जो किसी भी गुण से परे होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

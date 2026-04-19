@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-af69119c-dd7d-4af6-858f-022c1ae10bcd",
+  "name": "जिहि सरि मारी काल्हि, सो सर मेरे मन बस्‍या",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The river which I crossed yesterday, has settled in my mind. Even today, I am crossing the river, and without the river, I cannot find the truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिहि सरि मारी काल्हि, सो सर मेरे मन बस्‍या।\nतिहि सरि अजहूं मारि, सर बिन सच पाऊं नहीं।।१७५२।।",
+    "translation": "The river which I crossed yesterday, has settled in my mind. Even today, I am crossing the river, and without the river, I cannot find the truth.",
+    "meaning": "जिस नदी को मैंने कल पार किया, वही मेरे मन में बस गई है। आज भी मैं उसी नदी को पार कर रहा हूँ, और बिना नदी के सत्य नहीं पा सकता।",
+    "explanation": "कबीर इस दोहे में आंतरिक संघर्ष और सच्चाई की खोज की बात करते हैं। उन्होंने कहा कि आंतरिक नदी की पारगमन के बिना सत्य प्राप्त करना संभव नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.343Z"
+  }
+}

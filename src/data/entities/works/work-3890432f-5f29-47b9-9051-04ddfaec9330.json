@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3890432f-5f29-47b9-9051-04ddfaec9330",
+  "name": "अपना तो कोई नहीं, देखा ठोकि बजाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no true ownership; observe how things are struck and played. What can one do with 'own'? It is illusion and delusion that entangles us.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपना तो कोई नहीं, देखा ठोकि बजाय।\nअपना अपना क्‍या करै, मोह भरम लपटाय।।१२११।।",
+    "translation": "There is no true ownership; observe how things are struck and played. What can one do with 'own'? It is illusion and delusion that entangles us.",
+    "meaning": "सच्चा स्वामित्व कोई नहीं है; देखो कैसे चीजें ठोकी जाती हैं और बजाई जाती हैं। 'अपना' से क्या किया जा सकता है? यह माया और भ्रांति ही है जो हमें उलझा देती है।",
+    "explanation": "इस दोहे में कबीर ने ‘अपना’ की अवधारणा की असत्यता को उजागर किया है। असल में कोई भी स्वामित्व नहीं होता, और यह भ्रांति और माया है जो हमें भ्रमित और उलझा देती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.268Z"
+  }
+}

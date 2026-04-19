@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-524a6b42-2197-475d-963d-038886c73d42",
+  "name": "झिलमिलि‍ झगरा झूलते, वाकी छुटी न काहु",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The twinkling quarrel swings, and nothing remains the same. Even Gorakh is trapped by time; who can say otherwise?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झिलमिलि‍ झगरा झूलते, वाकी छुटी न काहु।\nगोरख अटके कालपर, कौन कहावे साहु।।१५५०।।",
+    "translation": "The twinkling quarrel swings, and nothing remains the same. Even Gorakh is trapped by time; who can say otherwise?",
+    "meaning": "झिलमिलाते झगड़े झूलते हैं और कुछ भी स्थिर नहीं रहता। गोरख भी समय के जाल में फंसे हुए हैं; कौन इसके विपरीत कह सकता है?",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जीवन में सब कुछ अस्थिर और बदलता रहता है। यहां तक कि महान योगी गोरख भी समय के प्रभाव से बच नहीं सकते। इस प्रकार, जो भी स्थिरता या स्थायित्व हम देखना चाहते हैं, वह केवल भ्रम है। हमें समझना चाहिए कि समय के प्रभाव से कोई भी अछूता नहीं रह सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.936Z"
+  }
+}

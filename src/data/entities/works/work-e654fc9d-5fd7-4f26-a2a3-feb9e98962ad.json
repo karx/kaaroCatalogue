@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e654fc9d-5fd7-4f26-a2a3-feb9e98962ad",
+  "name": "अहिरन की चोरी करै, करे सुई का दान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He steals from the poor but donates a needle. He climbs high to see how far the airplane is.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अहिरन की चोरी करै, करे सुई का दान।\nऊंचा चढ़‍ि कर देखता, केतिक दूर विमान।।८७१।।",
+    "translation": "He steals from the poor but donates a needle. He climbs high to see how far the airplane is.",
+    "meaning": "वह गरीबों से चोरी करता है, लेकिन सुई का दान करता है। वह ऊंचा चढ़कर देखता है कि विमान कितना दूर है।",
+    "explanation": "इस दोहे में कबीर उन लोगों की निंदा करते हैं जो दिखावे के लिए छोटे-मोटे दान करते हैं लेकिन असल में गरीबों का शोषण करते हैं। वे ऐसे लोगों को व्यर्थ दिखावे की तरफ इशारा करते हैं, जो ऊंचाई पर चढ़कर भी सचाई को नहीं देख पाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.351Z"
+  }
+}

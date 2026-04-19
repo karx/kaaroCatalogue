@@ -17,7 +17,7 @@
  */
 
 import {
-  readFileSync, writeFileSync, renameSync, readdirSync, existsSync,
+  readFileSync, writeFileSync, renameSync, readdirSync, existsSync, mkdirSync,
 } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -107,6 +107,29 @@ function patchVideoActorRefs(comedianMapping) {
   return patched;
 }
 
+function patchWorkAuthorRefs(poetMapping) {
+  const worksDir = join(ENTITIES, 'works');
+  if (!existsSync(worksDir)) return 0;
+  const files = readdirSync(worksDir).filter(f => f.endsWith('.json'));
+  let patched = 0;
+
+  for (const file of files) {
+    const path = join(worksDir, file);
+    const data = readJson(path);
+    const oldAuthorId = data.author?.['@id'];
+    if (!oldAuthorId) continue;
+
+    const newAuthorId = poetMapping.get(oldAuthorId);
+    if (!newAuthorId || newAuthorId === oldAuthorId) continue;
+
+    if (!DRY_RUN) {
+      writeJson(path, { ...data, author: { ...data.author, '@id': newAuthorId } });
+    }
+    patched++;
+  }
+  return patched;
+}
+
 function rebuildSameAsIndex(poetEntries, comedyEntries, videoEntries) {
   const index = {};
   const allEntities = [...poetEntries, ...comedyEntries, ...videoEntries];
@@ -146,6 +169,10 @@ async function main() {
   console.log(`\n🎬 Patching video actor.@id cross-references...`);
   const videoPatched = patchVideoActorRefs(comedianMap);
   console.log(`  ${videoPatched} video files updated`);
+
+  console.log(`\n📜 Patching work author.@id cross-references...`);
+  const worksPatched = patchWorkAuthorRefs(poetMap);
+  console.log(`  ${worksPatched} work files updated`);
 
   if (!DRY_RUN) {
     // Reload entries from disk (files have been renamed)

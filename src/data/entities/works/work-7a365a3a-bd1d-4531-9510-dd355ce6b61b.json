@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a365a3a-bd1d-4531-9510-dd355ce6b61b",
+  "name": "कुल करनी के कारनै, हंसा गया बिगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Due to the actions of the family, the swan has become flawed. Then what is the shame for the family, if it affects the four-legged?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुल करनी के कारनै, हंसा गया बिगाय।\nतब कुल काको लाजि है, चारि पांव का होय।।९१५।।",
+    "translation": "Due to the actions of the family, the swan has become flawed. Then what is the shame for the family, if it affects the four-legged?",
+    "meaning": "परिवार की करनी के कारण, हंस भी बिगड़ गया। फिर चार-पांव वाले के लिए कुल की शर्म क्या होगी?",
+    "explanation": "कबीर इस दोहे में परिवार की जिम्मेदारी और समाज में उसकी प्रतिष्ठा की बात करते हैं। वे कहते हैं कि अगर परिवार की वजह से सम्मान और आचरण में गिरावट आती है, तो परिवार की शर्म और प्रतिष्ठा का कोई महत्व नहीं रह जाता। हंस की उपमा देकर, कबीर यह समझाते हैं कि अगर परिवार का आचरण खराब हो जाता है, तो उसकी सामाजिक प्रतिष्ठा प्रभावित होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.624Z"
+  }
+}

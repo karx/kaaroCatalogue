@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4c4b60a4-eec0-411a-b5cb-a218a598e91a",
+  "name": "मीठा खांण मधुकरीं, भांति भांति को नाज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Sweet is the taste of alms, with a variety of foods. But nothing belongs to anyone; without earning, even a kingdom is meaningless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मीठा खांण मधुकरीं, भांति भांति को नाज।\nदावा किसही का नहीं, बिन बिलाइति बड़ राज।।१८८०।।",
+    "translation": "Sweet is the taste of alms, with a variety of foods. But nothing belongs to anyone; without earning, even a kingdom is meaningless.",
+    "meaning": "भीख से प्राप्त मिठाई और विभिन्न प्रकार के भोजन का स्वाद मीठा होता है। लेकिन किसी का भी दावा नहीं होता; बिना मेहनत के, यहां तक कि एक बड़ा राज्य भी अर्थहीन होता है।",
+    "explanation": "इस दोहे में कबीरदास जी बताते हैं कि भिक्षा में प्राप्त अन्न का स्वाद अनोखा होता है, लेकिन कोई भी चीज स्थायी नहीं होती। अगर किसी ने इसे कमाया नहीं है, तो वह बड़ा राज्य भी अर्थहीन है। यह दोहा सादगी, संतोष और ईमानदारी से अर्जित चीजों की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.974Z"
+  }
+}

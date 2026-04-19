@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2f65d7cc-9e2d-496c-a6af-495a766121ab",
+  "name": "हंसा मोती चुन लिया, कंचन थार भराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan strings pearls, but the crow fills its beak with trash. What can be done with someone who does not know the right path?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसा मोती चुन लिया, कंचन थार भराय।\nजो जन मारग न जाने, सो तिस कहा कराय।।३३।।",
+    "translation": "The swan strings pearls, but the crow fills its beak with trash. What can be done with someone who does not know the right path?",
+    "meaning": "हंस मोती पिरोता है, लेकिन कौआ अपनी चोंच में कचरा भरता है। जो व्यक्ति सही मार्ग नहीं जानता, उसके लिए क्या किया जा सकता है?",
+    "explanation": "यह दोहा उन लोगों की तुलना करता है जो ज्ञान और सत्य के मार्ग पर चलते हैं और उन लोगों से जो अज्ञानता और भ्रम के साथ रहते हैं। संत कबीर कहते हैं कि जो लोग सही मार्ग नहीं जानते, उनके लिए कुछ भी करना बेकार है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

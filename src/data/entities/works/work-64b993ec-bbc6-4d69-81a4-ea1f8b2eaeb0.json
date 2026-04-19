@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-64b993ec-bbc6-4d69-81a4-ea1f8b2eaeb0",
+  "name": "माया माथे सींगड़ा, लम्‍बे नौ नौ हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion has horns on its head, nine hands long. It strikes with its horns in front and kicks from behind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया माथे सींगड़ा, लम्‍बे नौ नौ हाथ।\nआगे मारै सींगड़ा, पाछै मारै लात।।११९०।।",
+    "translation": "Illusion has horns on its head, nine hands long. It strikes with its horns in front and kicks from behind.",
+    "meaning": "माया के सिर पर सींग हैं, जो नौ हाथ लंबे होते हैं। यह सामने से सींग से मारती है और पीछे से लात मारती है।",
+    "explanation": "इस दोहे में कबीर ने माया की भयानक और घातक प्रकृति को दर्शाया है। माया जैसे लंबे सींग और कई हाथों के साथ होती है, जो सामने से मारती है और पीछे से भी हानि पहुंचाती है। यह माया की चातुर्यता और उसके विविध तरीकों को प्रकट करता है, जिससे बचना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.974Z"
+  }
+}

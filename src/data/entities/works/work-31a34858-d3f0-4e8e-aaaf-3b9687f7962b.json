@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31a34858-d3f0-4e8e-aaaf-3b9687f7962b",
+  "name": "कामीं अमीं न भावई, विषइ कौं ले सोधि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For the lustful, nectar holds no charm, they seek only poison. Evil thoughts don’t leave the mind, they only find pleasure in delusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामीं अमीं न भावई, विषइ कौं ले सोधि।\nकुबधि न जाई जोव की, भावै स्‍वयं रहो प्रमोधि।।२०५३।।",
+    "translation": "For the lustful, nectar holds no charm, they seek only poison. Evil thoughts don’t leave the mind, they only find pleasure in delusion.",
+    "meaning": "कामियों के लिए अमृत का कोई आकर्षण नहीं होता, वे केवल विष की खोज करते हैं। बुरे विचार मन से नहीं जाते, और वे केवल मोह में आनंद पाते हैं।",
+    "explanation": "कबीर इस दोहे में कामियों के मनोवृत्ति का वर्णन करते हैं। वे कहते हैं कि कामी व्यक्ति को अमृत (सत्य, धर्म) का कोई आकर्षण नहीं होता, वह हमेशा विष (विकार, मोह) की तलाश में रहता है। उसके बुरे विचार मन से नहीं जाते और वह स्वयं के भ्रम में ही आनंदित रहता है। कबीर हमें सचेत करते हैं कि हम इस प्रकार की वृत्ति से बचें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.086Z"
+  }
+}

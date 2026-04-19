@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bb9a86c2-e952-4253-8f6e-325c35e867cb",
+  "name": "wafa-e-wada nahin wada-e-digar bhi nahin",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/vafaa-e-vaada-nahiin-vaada-e-digar-bhii-nahiin-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.209Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/vafaa-e-vaada-nahiin-vaada-e-digar-bhii-nahiin-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nvafā-e-vāda nahīñ vāda-e-digar bhī nahīñ\nvo mujh se rūThe to the lekin is qadar bhī nahīñ\nbaras rahī hai harīm-e-havas meñ daulat-e-husn\ngadā-e-ishq ke kaase meñ ik nazar bhī nahīñ\nna jaane kis liye ummīd-vār baiThā huuñ\nik aisī raah pe jo terī rahguzar bhī nahīñ\nnigāh-e-shauq sar-e-bazm be-hijāb na ho\nvo be-ḳhabar hī sahī itne be-ḳhabar bhī nahīñ\nye ahd-e-tark-e-mohabbat hai kis liye āḳhir\nsukūn-e-qalb udhar bhī nahīñ idhar bhī nahīñ\nwafa-e-wada nahin wada-e-digar bhi nahin\nwo mujh se ruThe to the lekin is qadar bhi nahin\nbaras rahi hai harim-e-hawas mein daulat-e-husn\ngada-e-ishq ke kase mein ek nazar bhi nahin\nna jaane kis liye ummid-war baiTha hun\nek aisi rah pe jo teri rahguzar bhi nahin\nnigah-e-shauq sar-e-bazm be-hijab na ho\nwo be-KHabar hi sahi itne be-KHabar bhi nahin\nye ahd-e-tark-e-mohabbat hai kis liye aaKHir\nsukun-e-qalb udhar bhi nahin idhar bhi nahin",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nوفائے وعدہ نہیں وعدۂ دگر بھی نہیں\nوہ مجھ سے روٹھے تو تھے لیکن اس قدر بھی نہیں\nبرس رہی ہے حریم ہوس میں دولت حسن\nگدائے عشق کے کاسے میں اک نظر بھی نہیں\nنہ جانے کس لیے امیدوار بیٹھا ہوں\nاک ایسی راہ پہ جو تیری رہ گزر بھی نہیں\nنگاہ شوق سر بزم بے حجاب نہ ہو\nوہ بے خبر ہی سہی اتنے بے خبر بھی نہیں\nیہ عہد ترک محبت ہے کس لیے آخر\nسکون قلب ادھر بھی نہیں ادھر بھی نہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nवफ़ा-ए-वादा नहीं वादा-ए-दिगर भी नहीं\nवो मुझ से रूठे तो थे लेकिन इस क़दर भी नहीं\nबरस रही है हरीम-ए-हवस में दौलत-ए-हुस्न\nगदा-ए-इश्क़ के कासे में इक नज़र भी नहीं\nन जाने किस लिए उम्मीद-वार बैठा हूँ\nइक ऐसी राह पे जो तेरी रहगुज़र भी नहीं\nनिगाह-ए-शौक़ सर-ए-बज़्म बे-हिजाब न हो\nवो बे-ख़बर ही सही इतने बे-ख़बर भी नहीं\nये अहद-ए-तर्क-ए-मोहब्बत है किस लिए आख़िर\nसुकून-ए-क़ल्ब उधर भी नहीं इधर भी नहीं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:14.033Z"
+  }
+}

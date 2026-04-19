@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-936a8857-bc40-463e-ae0b-daf99f125820",
+  "name": "संत मिले जनि बीछरो, बिछरो यह मम प्रान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If a saint is separated, it feels like my life is in separation. If I do not find a lover of words, it is like bringing my soul into the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संत मिले जनि बीछरो, बिछरो यह मम प्रान।\nशब्‍द सनेही ना मिले, प्राण देह में आन।।५८७।।",
+    "translation": "If a saint is separated, it feels like my life is in separation. If I do not find a lover of words, it is like bringing my soul into the body.",
+    "meaning": "अगर संत से अलग होना पड़े, तो ऐसा लगता है जैसे मेरी जान बिछड़ रही है। अगर शब्दों के प्रेमी नहीं मिलते, तो यह मेरी आत्मा को शरीर में लाना जैसा है।",
+    "explanation": "संतों की अनुपस्थिति से जीवन में एक गहरी कमी महसूस होती है। संतों का मिलना और उनके उपदेशों का सुनना आत्मा की पूर्ति के लिए अत्यंत महत्वपूर्ण होता है। यदि इस प्रकार के प्रेमी शब्द नहीं मिलते, तो आत्मा को शरीर में संलग्न करना कठिन हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

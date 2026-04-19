@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b5cdcc99-a435-4208-9248-9d4894821f2a",
+  "name": "सतगुरु मिले जु सब मिले, न तो मिला न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When you find a true Guru, you find everything; without a Guru, you find nothing. Parents, children, and relatives are found in every household.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु मिले जु सब मिले, न तो मिला न कोय।\nमाता-पिता सुत बांधवा, ये तो घर घर होय।।५१३।।",
+    "translation": "When you find a true Guru, you find everything; without a Guru, you find nothing. Parents, children, and relatives are found in every household.",
+    "meaning": "जब सच्चा गुरु मिल जाता है, तो सब कुछ मिल जाता है; और अगर गुरु नहीं मिला, तो कुछ नहीं मिला। माता-पिता, संतान, और रिश्तेदार तो हर घर में होते हैं, लेकिन सच्चा गुरु केवल भाग्यशाली लोगों को ही प्राप्त होता है।",
+    "explanation": "इस दोहे में संत कबीर जी गुरु की महिमा का वर्णन कर रहे हैं। वह कहते हैं कि यदि सच्चा गुरु मिल जाए, तो जीवन में सब कुछ प्राप्त हो जाता है, क्योंकि गुरु हमें जीवन की सच्चाई से अवगत कराता है और मोक्ष का मार्ग दिखाता है। दूसरी ओर, अगर गुरु नहीं मिला, तो जीवन अधूरा रह जाता है। माता-पिता, संतान, और रिश्तेदार तो हर किसी के पास होते हैं, लेकिन सच्चा गुरु केवल भाग्यशाली लोगों को ही प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

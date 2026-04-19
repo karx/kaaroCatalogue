@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-623d95ed-4b26-46ef-98e6-8dc546008464",
+  "name": "माया मिले महोबंती, कूड़े आखे बैन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Maya (illusion) gives great pleasure, but it is like the sound of trash. No healer or savior is found to cure the wounded, only the blind and helpless ones.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया मिले महोबंती, कूड़े आखे बैन।\nकोई घायल बेध्‍या ना मिलै, साई हंदा सैण।।१९७२।।",
+    "translation": "Maya (illusion) gives great pleasure, but it is like the sound of trash. No healer or savior is found to cure the wounded, only the blind and helpless ones.",
+    "meaning": "माया (भ्रम) महान आनंद देती है, लेकिन यह कूड़े की आवाज़ की तरह है। कोई घायलों को ठीक करने वाला या उद्धारक नहीं मिलता, केवल अंधे और असहाय लोग मिलते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया और भ्रम की प्रकृति को उजागर किया है। माया एक प्रकार का भ्रामक सुख प्रदान करती है, जो बाहरी रूप से आनंददायक हो सकती है लेकिन उसकी वास्तविकता में केवल विकृति होती है। यहाँ 'घायल' और 'अंधे' का संकेत है कि सही मार्गदर्शक और वास्तविक उद्धारक का अभाव है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.532Z"
+  }
+}

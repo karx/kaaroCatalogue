@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a55e77d5-79f1-427b-a68c-98e936ecfb88",
+  "name": "अंबर कुंजा करलियां, गरजि भर सब ताल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sky roars with thunder, filling all the valleys. For those separated from Govind, who can offer solace?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंबर कुंजा करलियां, गरजि भर सब ताल।\nजिनि थैं गोबिंद बीछुटे, तिनके कौण हवाल।।१७३७।।",
+    "translation": "The sky roars with thunder, filling all the valleys. For those separated from Govind, who can offer solace?",
+    "meaning": "आसमान में गरजते बादल हैं, जो सब घाटियों को भर देते हैं। जो गोविंद से बिछड़े हैं, उनके लिए कौन राहत दे सकता है?",
+    "explanation": "कबीर इस दोहे में दिव्य से बिछड़ने के दर्द को व्यक्त करते हैं। उन्होंने कहा कि बिछड़े लोगों के लिए कोई भी राहत नहीं दे सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.076Z"
+  }
+}

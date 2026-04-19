@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe78a846-cf51-4d22-b5de-f6450fc31d10",
+  "name": "सिंहों के लेहँड नहीं, हंसों की नहीं पाँत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Lions don't walk in herds, swans don't form flocks. Rubies aren't found in sacks, and saints don't move in crowds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सिंहों के लेहँड नहीं, हंसों की नहीं पाँत।\nलालों की नहि बोरियाँ, साध न चलै जमात।।२२४।।",
+    "translation": "Lions don't walk in herds, swans don't form flocks. Rubies aren't found in sacks, and saints don't move in crowds.",
+    "meaning": "सिंह झुंड में नहीं चलते, हंस पंक्तियों में नहीं होते। लालों (मूल्यवान रत्न) की बोरियां नहीं होतीं, साधु भी भीड़ में नहीं चलते।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि असली साधु या ज्ञानी भीड़ का हिस्सा नहीं होते। जैसे शेर अकेले चलते हैं, हंस पंक्तियों में नहीं होते और बहुमूल्य रत्न थोक में नहीं मिलते, वैसे ही सच्चे साधु भी भीड़ से अलग होते हैं। उनकी साधना और ज्ञान अद्वितीय और बहुमूल्य होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

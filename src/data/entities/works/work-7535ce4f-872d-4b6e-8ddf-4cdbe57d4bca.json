@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7535ce4f-872d-4b6e-8ddf-4cdbe57d4bca",
+  "name": "Kiratarjuniya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-bharavi"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Kiratarjuniya",
+    "retrievedAt": "2026-01-04T18:39:03.845Z"
+  }
+}

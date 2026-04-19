@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ac230a37-76e4-484c-beb7-a1213a986374",
+  "name": "Gangotri",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-umashankar-joshi"
+  },
+  "inLanguage": "Gujarati",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Gangotri",
+    "retrievedAt": "2026-01-04T18:39:36.030Z"
+  }
+}

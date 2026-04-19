@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b29b4904-7b2d-4bb0-a120-641a2f731898",
+  "name": "नौ मण सूत अलूझिया, कबीर घर घर बारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Nine tons of thread are tangled, and the whole household is in turmoil. Only those who understand the devotion to the Lord can untangle it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नौ मण सूत अलूझिया, कबीर घर घर बारि।\nतिनि सुलझाया बापुड़े, जिनि जाणीं भगति मुरारि।।१८६७।।",
+    "translation": "Nine tons of thread are tangled, and the whole household is in turmoil. Only those who understand the devotion to the Lord can untangle it.",
+    "meaning": "नौ मण सूत उलझा हुआ है, और पूरा घर-घराना उथल-पुथल में है। केवल वे लोग इसे सुलझा सकते हैं जो भगवान की भक्ति को समझते हैं।",
+    "explanation": "कबीरदास जी इस दोहे में जीवन के जटिलताओं और समस्याओं की तुलना उलझे हुए धागे से करते हैं। वे कहते हैं कि जीवन की कठिनाइयों को हल करना तब तक मुश्किल है जब तक कि मनुष्य भगवान की भक्ति के मार्ग को नहीं अपनाता। भक्त की श्रद्धा और विश्वास ही जीवन के सभी उलझनों को सुलझाने में सक्षम होते हैं। यह दोहा भक्ति की शक्ति और उसके महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.971Z"
+  }
+}

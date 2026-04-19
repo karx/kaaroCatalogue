@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bfdc8a45-b6ec-4e52-8636-654a84aaac38",
+  "name": "साकट का मुख बिंब है, निकसत बचन भुवंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The face of the wicked is like a snake, whose words are poisonous. The remedy for such a person is silence, as poison does not spread if the body is not exposed to it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साकट का मुख बिंब है, निकसत बचन भुवंग।\nताकी औषधि मौन है, विष नहिं व्‍यापै अंग।।५४९।।",
+    "translation": "The face of the wicked is like a snake, whose words are poisonous. The remedy for such a person is silence, as poison does not spread if the body is not exposed to it.",
+    "meaning": "दुष्ट व्यक्ति का मुख साँप की तरह होता है, जिसकी बातें विषैली होती हैं। ऐसे व्यक्ति के लिए मौन ही एक औषधि है, क्योंकि विष तब नहीं फैलता जब शरीर पर उसका प्रभाव न हो।",
+    "explanation": "यह दोहा बताता है कि दुष्ट लोगों की बातें विष की तरह होती हैं, जिनसे बचने के लिए सबसे अच्छा उपाय मौन रहना है। जब तक हम उन लोगों की बातों का प्रतिरोध नहीं करते, तब तक उनका विष हमें प्रभावित करता है। मौन रहकर हम उनकी विषैली बातों से बच सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.468Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-47182a5a-b13c-42d6-819c-67c173416e83",
+  "name": "कथा कीर्तन कुल विशे, भव सागर की नाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Stories and hymns are the essence of the family, the boat across the ocean of existence. Kabir says, this world has no other remedy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कथा कीर्तन कुल विशे, भव सागर की नाव।\nकहत कबीरा या जगत, नाहीं और उपाय।।११७।।",
+    "translation": "Stories and hymns are the essence of the family, the boat across the ocean of existence. Kabir says, this world has no other remedy.",
+    "meaning": "कथा और कीर्तन परिवार का सार हैं, और यह भव सागर को पार करने की नाव है। कबीर कहते हैं कि इस जगत में कोई और उपाय नहीं है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि धार्मिक कथा और कीर्तन ही जीवन के सबसे महत्वपूर्ण पहलू हैं, जो हमें संसार के भव सागर से पार लगाते हैं। यह सिखाता है कि आध्यात्मिक ज्ञान और साधना के बिना अन्य कोई उपाय नहीं है, जो हमें सच्चे सुख और मुक्ति की ओर ले जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

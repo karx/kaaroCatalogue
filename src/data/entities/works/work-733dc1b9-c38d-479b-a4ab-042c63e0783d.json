@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-733dc1b9-c38d-479b-a4ab-042c63e0783d",
+  "name": "दीपक पाव आंणिया, तेल भी आण्‍या संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The lamp requires oil and wick. When all three come together, the flame rises and the kite flies high.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीपक पाव आंणिया, तेल भी आण्‍या संग।\nतीन्‍यूं मिलि करि जोइया, उड़‍ि उड़‍ि पड़ पतंग।।१९४१।।",
+    "translation": "The lamp requires oil and wick. When all three come together, the flame rises and the kite flies high.",
+    "meaning": "दीपक को तेल और बाती की आवश्यकता होती है। जब ये तीनों मिल जाते हैं, तो लौ जलती है और पतंग उड़ती है।",
+    "explanation": "इस दोहे में कबीरदास जी ने यह स्पष्ट किया है कि दीपक जलाने के लिए तेल और बाती आवश्यक हैं। जब ये तीनों चीजें एक साथ होती हैं, तब दीपक जलता है और पतंग ऊँचाई पर उड़ती है। इसका मतलब है कि जीवन की विभिन्न स्थितियाँ एक साथ मिलकर पूर्णता प्राप्त करती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.255Z"
+  }
+}

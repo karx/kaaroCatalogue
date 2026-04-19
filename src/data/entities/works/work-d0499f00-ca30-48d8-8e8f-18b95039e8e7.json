@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d0499f00-ca30-48d8-8e8f-18b95039e8e7",
+  "name": "पाँच सात सुमता भरी, गुरु सेवा चित लाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "After filling oneself with virtues of humility, and dedicating oneself to the service of the guru, one may then receive the guru's command and go to foreign lands.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाँच सात सुमता भरी, गुरु सेवा चित लाय।\nतब गुरु आज्ञा लेय के, रहे देशान्तर जाय।।३६७।।",
+    "translation": "After filling oneself with virtues of humility, and dedicating oneself to the service of the guru, one may then receive the guru's command and go to foreign lands.",
+    "meaning": "जब कोई व्यक्ति विनम्रता और गुणों से भर जाता है और गुरु की सेवा में अपने मन को लगाता है, तभी गुरु की आज्ञा प्राप्त कर सकता है और देशांतर जा सकता है।।",
+    "explanation": "इस दोहे में कबीरदास ने गुरु की सेवा और विनम्रता के महत्व को दर्शाया है। जब कोई व्यक्ति अपने जीवन में गुणों और विनम्रता को भरता है और गुरु की सेवा में समर्पित रहता है, तभी वह गुरु की आज्ञा प्राप्त कर सकता है और विदेश यात्रा पर जा सकता है। यह दोहा यह भी बताता है कि गुरु की सेवा और आदर्श जीवन जीने से व्यक्ति को आध्यात्मिक दिशा और आशीर्वाद प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

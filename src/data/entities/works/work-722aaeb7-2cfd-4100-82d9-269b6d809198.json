@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-722aaeb7-2cfd-4100-82d9-269b6d809198",
+  "name": "मेरा मुझ में कुछ नहीं, जो कुछ है सो तेरा",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is nothing of mine in me; whatever is there is yours. I surrender to you all that is yours, what do I have of my own?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मेरा मुझ में कुछ नहीं, जो कुछ है सो तेरा।\nतेरा तुझकौं सौंपता, क्‍या लागै है मेरा।।१८३०।।",
+    "translation": "There is nothing of mine in me; whatever is there is yours. I surrender to you all that is yours, what do I have of my own?",
+    "meaning": "मेरे में कुछ भी मेरा नहीं है; जो कुछ भी है, वह तेरा है। मैं तुम्हें सौंपी देता हूँ, जो भी तेरा है, मेरे पास क्या है जो मेरा है?",
+    "explanation": "इस दोहे में कबीर ने आत्मसमर्पण और निःस्वार्थता की बात की है। वे कहते हैं कि उनके भीतर कुछ भी उनका नहीं है, बल्कि सब कुछ भगवान का है। उन्होंने भगवान को समर्पण किया है और अपने 'मेरा' को त्याग दिया है। यह दोहा आत्मा के परम आत्मसमर्पण और वास्तविकता के स्वीकार को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.629Z"
+  }
+}

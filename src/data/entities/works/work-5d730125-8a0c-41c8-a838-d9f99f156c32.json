@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5d730125-8a0c-41c8-a838-d9f99f156c32",
+  "name": "जब लगि तारा जगमगे, तब लगि उगे न सूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as the stars shine, the sun does not rise. Similarly, as long as the soul is entangled in worldly desires, true knowledge does not dawn.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लगि तारा जगमगे, तब लगि उगे न सूर।\nजब लगि जीव कम बस डोले, तब लगि ज्ञान न पूर।।१५१२।।",
+    "translation": "As long as the stars shine, the sun does not rise. Similarly, as long as the soul is entangled in worldly desires, true knowledge does not dawn.",
+    "meaning": "जब तक तारे चमकते रहते हैं, तब तक सूरज नहीं उगता। इसी प्रकार, जब तक जीव सांसारिक इच्छाओं में उलझा रहता है, तब तक सच्चा ज्ञान प्राप्त नहीं होता।",
+    "explanation": "इस दोहे में कबीर जीवन के अज्ञान और मोह को तारों के रूप में और सच्चे ज्ञान को सूर्य के रूप में प्रतीकात्मक रूप से प्रस्तुत करते हैं। जब तक मनुष्य सांसारिक इच्छाओं और भ्रम में उलझा रहता है, तब तक आत्मज्ञान का प्रकाश नहीं मिल सकता। यह दोहा हमें आंतरिक शांति और सच्चे ज्ञान की खोज करने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.929Z"
+  }
+}

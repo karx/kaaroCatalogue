@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-be4ecca1-6d88-4478-9acd-c6dd92ce9860",
+  "name": "काल फिरै सिर ऊपरै, जीवहि नजरि न आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Death hovers above, unseen by the living. Kabir says, hold on to the guru's word, it saves the soul from death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल फिरै सिर ऊपरै, जीवहि नजरि न आय।\nकहैं कबीर गुरु शब्‍द गहि, जम से जीव बचाय।।१००२।।",
+    "translation": "Death hovers above, unseen by the living. Kabir says, hold on to the guru's word, it saves the soul from death.",
+    "meaning": "मृत्यु सिर पर मंडराती है, लेकिन जीव इसे देख नहीं पाता। कबीर कहते हैं, गुरु के शब्द को पकड़ कर रखो, यह जीव को मृत्यु से बचाता है।",
+    "explanation": "इस दोहे में कबीर दास जी मृत्यु के निकट होने और गुरु के शब्द की महत्ता को बताते हैं। वह कहते हैं कि मृत्यु हमेशा सिर पर मंडराती रहती है, लेकिन जीव इसे देख नहीं पाता। इसलिए कबीर कहते हैं कि हमें गुरु के शब्द को पकड़ कर रखना चाहिए, क्योंकि वही हमें मृत्यु से बचा सकता है। यह दोहा हमें गुरु भक्ति और उनके उपदेशों के प्रति आस्था रखने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4049ecbf-16bf-40cd-80c0-d4e7cb17b2dd",
+  "name": "कबिरा मनहि गयन्द है, आकुंश दै-दै राखि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is intoxicated and keeps grasping at attachment. It remains entangled in the poisonous vine while it tastes the fruit of immortality.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा मनहि गयन्द है, आकुंश दै-दै राखि।\nविष की बेली परि रहै, अम्रत को फल चाखि।।११४।।",
+    "translation": "The mind is intoxicated and keeps grasping at attachment. It remains entangled in the poisonous vine while it tastes the fruit of immortality.",
+    "meaning": "मन नशे में है और लगाव को पकड़ता रहता है। यह विष की बेल में फंसा रहता है जबकि अमरता का फल चखता है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि मन कई बार अधम और विषाक्त इच्छाओं में फंस जाता है, जबकि इसे अमरता या सच्ची खुशी की प्राप्ति का प्रयास करना चाहिए। यह संदेश देता है कि हमें अपने मन की प्रवृत्तियों पर नियंत्रण पाना चाहिए और अपनी आध्यात्मिक यात्रा पर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

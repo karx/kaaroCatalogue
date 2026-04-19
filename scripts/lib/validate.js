@@ -128,6 +128,47 @@ export function checkDuplicateSameAs(entity, filePath, registryMap, seenInBatch)
 }
 
 // ---------------------------------------------------------------------------
+// Poetry work validators
+// ---------------------------------------------------------------------------
+
+/**
+ * Validates required fields on a poetry work entity.
+ * Returns an array of error strings.
+ */
+export function validateWorkEntity(entity, filePath, validPoetIds) {
+  const errors = [];
+  const id = entity.workId;
+  const file = filePath;
+
+  if (!id) {
+    errors.push(`${file}: missing workId`);
+    return errors;
+  }
+
+  const expectedFilename = `${id}.json`;
+  if (basename(file) !== expectedFilename) {
+    errors.push(
+      `${file}: workId "${id}" does not match filename — expected ${expectedFilename}`
+    );
+  }
+
+  if (!entity.name) {
+    errors.push(`${file}: missing name`);
+  }
+
+  const authorId = entity.author?.['@id'];
+  if (!authorId) {
+    errors.push(`${file}: missing author.@id`);
+  } else if (validPoetIds && !validPoetIds.has(authorId)) {
+    errors.push(
+      `${file}: author.@id "${authorId}" does not match any poet entity`
+    );
+  }
+
+  return errors;
+}
+
+// ---------------------------------------------------------------------------
 // Fuzzy name collision detection
 // ---------------------------------------------------------------------------
 

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e27b9c78-f4e3-463b-8fd7-06499423a7fb",
+  "name": "मुख आवै सोई कहै, बोलै नहीं विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One speaks whatever comes to their mouth, without thinking. They hurt others' souls as if their tongue were a sword.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मुख आवै सोई कहै, बोलै नहीं विचार।\nहते पराई आतमा, जीभ बांधि तलवार।।१०१९।।",
+    "translation": "One speaks whatever comes to their mouth, without thinking. They hurt others' souls as if their tongue were a sword.",
+    "meaning": "जो भी मुख से आता है, बिना सोचे समझे कह देते हैं। वे अपनी जीभ को तलवार की तरह इस्तेमाल करके दूसरों की आत्मा को चोट पहुँचाते हैं।",
+    "explanation": "इस दोहे में कबीर बिना सोच-विचार के बोलने के दुष्परिणामों की ओर ध्यान आकर्षित करते हैं। वे कहते हैं कि जो भी बात मन में आती है, बिना सोचे बोल देने से वह वाणी तलवार की तरह घातक हो जाती है और दूसरों को आघात पहुँचाती है। इसलिए, वाणी पर संयम रखना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.162Z"
+  }
+}

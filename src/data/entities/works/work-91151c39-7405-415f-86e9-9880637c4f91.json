@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-91151c39-7405-415f-86e9-9880637c4f91",
+  "name": "मूरति धरि धंधा रचा, पाहन को जगदीस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "By setting up an idol, people have created a business, turning stone into God. Though they bought it, it doesn't speak, and it's worth less than a counterfeit coin.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूरति धरि धंधा रचा, पाहन को जगदीस।\nमोल लिया बोलै नहीं, खोटा बिसवा बीस।।१३८५।।",
+    "translation": "By setting up an idol, people have created a business, turning stone into God. Though they bought it, it doesn't speak, and it's worth less than a counterfeit coin.",
+    "meaning": "मूर्ति स्थापित करके लोगों ने एक धंधा रचा, पत्थर को भगवान बना दिया। उन्होंने इसे खरीदा, लेकिन यह बोलता नहीं, और इसकी कीमत एक खोटे बीस पैसे के सिक्के से भी कम है।",
+    "explanation": "कबीर इस दोहे में मूर्तिपूजा की आलोचना करते हुए कहते हैं कि लोगों ने पत्थर की मूर्तियों को भगवान बना दिया है और इससे एक व्यापार की शुरुआत कर दी है। लेकिन ये मूर्तियाँ न तो बोल सकती हैं और न ही इनमें कोई वास्तविक मूल्य है। यह दोहा हमें वास्तविक ईश्वर और भक्ति की ओर प्रेरित करता है, जो आंतरिक और सच्ची होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.089Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-32eb9df2-7f0d-4e5c-913d-5c1bea44a73a",
+  "name": "आपा भेटियाँ हरि मिलै, हरि मेट् या सब जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When one meets the self, they find Hari, and all other desires vanish. The indescribable story of love, no one can truly understand.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आपा भेटियाँ हरि मिलै, हरि मेट् या सब जाइ।\nअकथ कहाणी प्रेम की, कह्या न कोउ पत्याइ।।२३७।।",
+    "translation": "When one meets the self, they find Hari, and all other desires vanish. The indescribable story of love, no one can truly understand.",
+    "meaning": "जब कोई अपने आप से मिल जाता है, तो उसे हरि मिल जाते हैं और बाकी सभी इच्छाएँ समाप्त हो जाती हैं। प्रेम की अकथ कहानी को कोई भी सही से नहीं समझ सकता।",
+    "explanation": "इस दोहे में कबीर आत्मा की खोज और प्रेम के अनुभव को व्यक्त करते हैं। वे कहते हैं कि जब व्यक्ति आत्मा (स्वयं) को पहचान लेता है, तो उसे भगवान हरि का दर्शन होता है और अन्य सभी सांसारिक इच्छाएँ समाप्त हो जाती हैं। प्रेम की यह असीम कहानी है जिसे कोई भी पूरी तरह से नहीं समझ सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9510718c-0b0f-4316-bc5e-950541f00662",
+  "name": "एक ते जान अनंत, अन्य एक होय आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "From the One comes the Infinite; the other forms come later. Understanding the One reveals everything, as all originates from the One.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक ते जान अनंत, अन्य एक होय आय।\nएक सों परचे भया, एक मांहि समाय।।९९।।",
+    "translation": "From the One comes the Infinite; the other forms come later. Understanding the One reveals everything, as all originates from the One.",
+    "meaning": "एक से अनंत उत्पन्न होता है; अन्य रूप बाद में आते हैं। एक को समझने से सब कुछ प्रकट होता है, क्योंकि सब कुछ एक से ही उत्पन्न होता है।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि परम एकता से ही अनंतता उत्पन्न होती है, और सभी अन्य रूप और रूपक इसके बाद आते हैं। जब हम एकता को समझते हैं, तो सभी विविधताएँ स्पष्ट हो जाती हैं क्योंकि वे सभी एक ही स्रोत से आती हैं। यह समझ जीवन के मूल सत्य और दिव्यता की प्राप्ति के लिए महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

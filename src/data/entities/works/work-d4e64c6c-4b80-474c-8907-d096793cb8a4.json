@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d4e64c6c-4b80-474c-8907-d096793cb8a4",
+  "name": "प्रथम एक जो हीं किया, भया सो बारह बान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What was done first as one became twelve arrows. It could not withstand the test; the yellow metal became the solution.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रथम एक जो हीं किया, भया सो बारह बान।\nकसत कसौटी ना टिका, पीतर भया निदान।।१६००।।",
+    "translation": "What was done first as one became twelve arrows. It could not withstand the test; the yellow metal became the solution.",
+    "meaning": "जो पहले एक किया गया था, वह बारह बाण हो गया। वह कसौटी पर खरा नहीं उतर सका; पीतल समाधान बन गया।",
+    "explanation": "इस दोहे में कबीर ने परीक्षण और सत्य के संबंध को दर्शाया है। उन्होंने कहा कि जो पहले एक था, वह बारह बाण बन गया, और परीक्षण में असफल हो गया। पीतल एक समाधान बन गया, यह उन परीक्षणों के लिए एक आदर्श धातु है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.214Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0c4f47b2-41e8-4bd3-99d6-926b9209f95f",
+  "name": "यह तन विष की बेलरी, गुरु अमृत की खान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This body is a vessel of poison, while the Guru is a mine of nectar. Even if one offers their head for the Guru, it is still considered cheap.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह तन विष की बेलरी, गुरु अमृत की खान।\nसीस दिये जो गुरु मिलै, तो भी सस्ता जान।।१५३।।",
+    "translation": "This body is a vessel of poison, while the Guru is a mine of nectar. Even if one offers their head for the Guru, it is still considered cheap.",
+    "meaning": "यह शरीर विष की पात्र है, जबकि गुरु अमृत का खान है। यदि कोई अपने सिर को गुरु के लिए अर्पित करे, तो भी यह सस्ता माना जाता है।",
+    "explanation": "कबीर इस दोहे में गुरु की महत्वता को बताते हैं। वे कहते हैं कि हमारे शरीर में विष है, जबकि गुरु अमृत के समान हैं। गुरु की प्राप्ति से जीवन को अमृत मिल सकता है। गुरु को अर्पित करना, चाहे अपने सिर को ही क्यों न हो, वह भी बहुत सस्ता है, क्योंकि गुरु का महत्व अनमोल है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

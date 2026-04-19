@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-919abedd-fbcd-4569-9c57-6c04d09ba1e8",
+  "name": "Ruposhi Bangla",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-jibanananda-das"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Ruposhi_Bangla",
+    "retrievedAt": "2026-01-04T18:39:23.763Z"
+  }
+}

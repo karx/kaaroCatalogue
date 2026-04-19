@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-265f4ddd-9be8-452c-a32c-46bd9e4e263e",
+  "name": "झल ऊठा झाोली जली, खपरा फूटिम फूटि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The burning flame has risen, the pot is shattered. The yogi who was there has gone, and the seat remains covered in ashes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झल ऊठा झाोली जली, खपरा फूटिम फूटि।\nजोगी था सो रमि गया, आसणि रही बिभूति।।१९४४।।",
+    "translation": "The burning flame has risen, the pot is shattered. The yogi who was there has gone, and the seat remains covered in ashes.",
+    "meaning": "जलती हुई अग्नि ने ऊँचाई पकड़ी, बर्तन टूट गया। जो योगी वहाँ था वह चला गया, और आसन पर केवल राख बची है।",
+    "explanation": "इस दोहे में कबीरदास जी ने बताया है कि जलती हुई अग्नि ने ऊँचाई पकड़ी और बर्तन टूट गया, जो योगी वहाँ था वह चला गया और आसन पर सिर्फ राख रह गई। यह दोहा यह बताता है कि योगी की उपस्थिति का स्थायित्व नहीं होता, और बाहरी दिखावा समाप्त हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.256Z"
+  }
+}

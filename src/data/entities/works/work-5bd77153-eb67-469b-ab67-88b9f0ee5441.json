@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5bd77153-eb67-469b-ab67-88b9f0ee5441",
+  "name": "ऊजड़ खेड़े टेकरी, घड़‍ि घड़‍ि गये कुम्‍हार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The deserted place and the potter have gone repeatedly. Like Ravana, who went to Lanka as a leader.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊजड़ खेड़े टेकरी, घड़‍ि घड़‍ि गये कुम्‍हार।\nरावन जैसा चलि गया, लंका को सरदार।।९३४।।",
+    "translation": "The deserted place and the potter have gone repeatedly. Like Ravana, who went to Lanka as a leader.",
+    "meaning": "उजड़े हुए स्थान और कुम्हार बार-बार चले गए हैं। रावण की तरह, जो लंका में नेता के रूप में गया।",
+    "explanation": "कबीर इस दोहे में सत्ता और प्रभाव की अस्थिरता को दर्शाते हैं। वे कहते हैं कि जैसे कुम्हार बार-बार अपने काम पर जाता है और रावण जैसे बड़े नेता भी अंततः चले जाते हैं, वैसे ही शक्ति और प्रभाव भी अस्थिर होते हैं। यह दोहा इस बात को दर्शाता है कि सत्ता और प्रभाव स्थायी नहीं होते और वे अंततः समाप्त हो जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

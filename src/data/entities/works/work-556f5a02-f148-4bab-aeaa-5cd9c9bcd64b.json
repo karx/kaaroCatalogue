@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-556f5a02-f148-4bab-aeaa-5cd9c9bcd64b",
+  "name": "जो कोई निन्‍दै साधु को, संकट आवै सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who criticizes the saint will face hardships. Such a person will go to hell, and liberation will never be attained.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो कोई निन्‍दै साधु को, संकट आवै सोय।\nनरक जाये जन्‍मै मरै, मुक्ति कबहुं नहिं होय।।१२८७।।",
+    "translation": "One who criticizes the saint will face hardships. Such a person will go to hell, and liberation will never be attained.",
+    "meaning": "जो कोई साधू की निंदा करता है, उसे संकटों का सामना करना पड़ता है। ऐसा व्यक्ति नरक में जाएगा और मुक्ति कभी प्राप्त नहीं होगी।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि साधू की निंदा करने वाले को कई प्रकार की कठिनाइयों का सामना करना पड़ता है। ऐसे व्यक्ति के लिए नरक की राह खुल जाती है और मुक्ति का कोई मार्ग नहीं बचता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.547Z"
+  }
+}

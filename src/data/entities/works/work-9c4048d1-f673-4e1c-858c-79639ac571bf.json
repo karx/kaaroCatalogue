@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9c4048d1-f673-4e1c-858c-79639ac571bf",
+  "name": "पतिव्रता मैली, काली, कुचैल, कुरूप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A devoted wife may be dirty, dark, and ugly, but I would sacrifice millions of beauties for her virtue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पतिव्रता मैली, काली, कुचैल, कुरूप।\nपतिव्रता के रूप पर, वारो कोटि सरूप।।२६।।",
+    "translation": "A devoted wife may be dirty, dark, and ugly, but I would sacrifice millions of beauties for her virtue.",
+    "meaning": "एक पतिव्रता स्त्री चाहे मैली, काली, और कुरूप हो, लेकिन उसकी निष्ठा के लिए मैं करोड़ों सुंदरियों को त्याग दूंगा।",
+    "explanation": "यह दोहा निष्ठा और सच्ची भक्ति का महत्व बताता है। संत कबीर कहते हैं कि बाहरी सुंदरता कोई मायने नहीं रखती, सच्ची सुंदरता व्यक्ति के आचरण और उसकी निष्ठा में है। यह हमें आंतरिक गुणों को महत्व देने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

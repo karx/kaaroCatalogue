@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-023c0bed-2e11-4338-9827-33d00f3a7621",
+  "name": "घन गरजै दामिनि दमकै, बूँदैं बरसैं झर लाग गए",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The clouds thunder, lightning flashes, and the rain pours down. Lotuses bloom in every pond, and the sun shines brightly there.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घन गरजै दामिनि दमकै, बूँदैं बरसैं झर लाग गए।\nहर तलाब में कमल खिले, तहाँ भानु परगट भये।।२०१।।",
+    "translation": "The clouds thunder, lightning flashes, and the rain pours down. Lotuses bloom in every pond, and the sun shines brightly there.",
+    "meaning": "बादल गरजते हैं, बिजली चमकती है, और बारिश की बूंदें गिरती हैं। हर तालाब में कमल खिलते हैं, और वहाँ सूर्य का प्रकाश प्रकट होता है।",
+    "explanation": "इस दोहे में कबीर ने प्राकृतिक दृश्य का चित्रण किया है और इसके माध्यम से आध्यात्मिक ज्ञान की ओर संकेत किया है। उन्होंने कहा कि जैसे बादलों की गरज, बिजली और बारिश प्राकृतिक संसार का हिस्सा हैं, वैसे ही हर स्थान पर दिव्यता प्रकट होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-49bd2bbe-eefb-4c3a-a9f1-ff9f9b37cdd3",
+  "name": "संगत कीजै साधु की, कभी न निष्फल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Association with saints is never futile. Just as iron turns to gold when touched by the philosopher's stone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संगत कीजै साधु की, कभी न निष्फल होय।\nलोहा पारस परस ते, सो भी कंचन होय।।३५१।।",
+    "translation": "Association with saints is never futile. Just as iron turns to gold when touched by the philosopher's stone.",
+    "meaning": "संतों की संगति कभी निष्फल नहीं होती। जैसे लोहा पारस की छाया से सोना बन जाता है।।",
+    "explanation": "इस दोहे में कबीरदास ने संतों की संगति की अनमोलता और उसके प्रभाव को वर्णित किया है। जैसे पारस की छाया से लोहा सोना बन जाता है, वैसे ही संतों की संगति से व्यक्ति के जीवन में गुण और सत्य का विकास होता है। संतों की संगति से कभी भी बुरा परिणाम नहीं होता, बल्कि यह हमेशा सकारात्मक बदलाव लाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

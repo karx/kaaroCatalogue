@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db99d176-e1b5-438f-a3ab-a4c4d2406f38",
+  "name": "रे मन भाग्‍यहि भूल मत, जो आया मन भाग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O mind, do not forget destiny; what has come to you will not change. Renounce doubts and accept what is.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रे मन भाग्‍यहि भूल मत, जो आया मन भाग।\nसो तेरा टलता नहीं, निश्‍चय संसै त्‍याग।।१३४०।।",
+    "translation": "O mind, do not forget destiny; what has come to you will not change. Renounce doubts and accept what is.",
+    "meaning": "हे मन, भाग्य को मत भूलो; जो कुछ तुम्हारे पास आया है, वह नहीं बदलेगा। संदेह को छोड़ दो और जो है उसे स्वीकार करो।",
+    "explanation": "कबीर जी के अनुसार, भाग्य को भूलना नहीं चाहिए। जो कुछ भी हमारे भाग्य में है, वह नहीं बदल सकता। इसलिए संदेह को छोड़कर स्वीकार करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.816Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eaf61745-afa4-4e13-b405-a9d661053f39",
+  "name": "सतगुरु बड़े दयाल हैं, संतन के आधार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true Guru is very compassionate, the support of the saints. He helps them cross the unfathomable ocean of existence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु बड़े दयाल हैं, संतन के आधार।\nभवसागर अथाह सों, खेइ उतारै पार।।२२०३।।",
+    "translation": "The true Guru is very compassionate, the support of the saints. He helps them cross the unfathomable ocean of existence.",
+    "meaning": "सतगुरु बहुत दयालु हैं, संतों का आधार हैं। वे उन्हें अथाह भवसागर से पार उतारते हैं।",
+    "explanation": "इस दोहे में संत कबीर जी सतगुरु की दया और कृपा की प्रशंसा करते हैं। वे कहते हैं कि सतगुरु संतों का सहारा हैं और वे ही उन्हें इस कठिन जीवन सागर से पार कराते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.077Z"
+  }
+}

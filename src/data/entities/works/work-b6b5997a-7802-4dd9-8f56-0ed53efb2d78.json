@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b6b5997a-7802-4dd9-8f56-0ed53efb2d78",
+  "name": "सांई मेरा बांणियां, सहजि करै ब्‍यौपार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "My Lord is a true merchant, conducting His business effortlessly. Without any scales or balance, He measures the entire world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांई मेरा बांणियां, सहजि करै ब्‍यौपार।\nबिन डांडी बिन पालड, तोलै सब संसार।।१९०२।।",
+    "translation": "My Lord is a true merchant, conducting His business effortlessly. Without any scales or balance, He measures the entire world.",
+    "meaning": "मेरा प्रभु सच्चा व्यापारी है, जो अपने व्यापार को सहजता से करता है। बिना किसी तराजू या बाट के, वह पूरे संसार को तौलता है।",
+    "explanation": "इस दोहे में कबीरदास जी भगवान को एक सच्चे व्यापारी के रूप में वर्णित करते हैं। वे कहते हैं कि भगवान बिना किसी साधन के ही पूरे संसार को तौलते हैं, यानी वे हर चीज का आकलन और न्याय करते हैं। यह दोहा भगवान की सर्वज्ञता और उनके न्यायपूर्ण स्वभाव को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.244Z"
+  }
+}

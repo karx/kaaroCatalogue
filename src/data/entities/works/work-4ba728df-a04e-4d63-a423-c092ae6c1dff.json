@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ba728df-a04e-4d63-a423-c092ae6c1dff",
+  "name": "सुमि��न की सुबिझ करो, ज्यों गागर पनिहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as a water-bearer carefully handles a pitcher, keep your mind gently focused on remembrance. Kabir speaks of this understanding.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन की सुबिझ करो, ज्यों गागर पनिहार।\nहोले-होले सुरत में, कहैं कबीर विचार।।७३।।",
+    "translation": "Just as a water-bearer carefully handles a pitcher, keep your mind gently focused on remembrance. Kabir speaks of this understanding.",
+    "meaning": "जैसे एक पानी भरने वाला गागर को सावधानीपूर्वक संभालता है, वैसे ही अपने मन को धीरे-धीरे स्मरण में लगाए रखें। कबीर इस समझ की बात करते हैं।",
+    "explanation": "इस दोहे में कबीर ध्यान और स्मरण के महत्व को समझाते हैं। जैसे एक पानी भरने वाला अपनी गागर को सावधानी से संभालता है ताकि पानी गिर न जाए, वैसे ही हमें अपने मन को धीरे-धीरे और सावधानीपूर्वक ध्यान में लगाना चाहिए। यह स्मरण निरंतरता और ईमानदारी से किया जाना चाहिए ताकि सच्ची समझ और ध्यान प्राप्त किया जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

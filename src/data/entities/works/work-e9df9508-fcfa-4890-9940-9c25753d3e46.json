@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e9df9508-fcfa-4890-9940-9c25753d3e46",
+  "name": "सन्त मिले सुख ऊपजै, दुष्ट मिले दुख होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Meeting saints brings happiness, while meeting the wicked causes sorrow. Serve the saints, and your life will be fulfilled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्त मिले सुख ऊपजै, दुष्ट मिले दुख होय।\nसेवा कीजै साधु की, जन्म कृतारथ होय।।३५०।।",
+    "translation": "Meeting saints brings happiness, while meeting the wicked causes sorrow. Serve the saints, and your life will be fulfilled.",
+    "meaning": "संतों से मिलने पर सुख मिलता है, जबकि दुष्टों से मिलने पर दुख होता है। साधुओं की सेवा करें, और आपका जन्म सफल होगा।।",
+    "explanation": "इस दोहे में कबीरदास ने संतों और दुष्टों से मिलने के प्रभावों की तुलना की है। संतों से मिलने पर सुख प्राप्त होता है, जबकि दुष्टों से मिलने पर दुख होता है। साधुओं की सेवा करने से जीवन सफल और सार्थक होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.393Z"
+  }
+}

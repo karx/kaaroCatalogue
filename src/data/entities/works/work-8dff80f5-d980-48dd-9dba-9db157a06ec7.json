@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8dff80f5-d980-48dd-9dba-9db157a06ec7",
+  "name": "सन्त समागम परम सुख, जान अल्प सुख और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The meeting of saints brings supreme happiness, which is known to be greater than all other pleasures. The swan resides in the lake of honor, while the heron dwells in its own place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्त समागम परम सुख, जान अल्प सुख और।\nमान सरोवर हंस है, बगुला ठौरे ठौर।।३४९।।",
+    "translation": "The meeting of saints brings supreme happiness, which is known to be greater than all other pleasures. The swan resides in the lake of honor, while the heron dwells in its own place.",
+    "meaning": "संतों की संगति परम सुख देती है, जो अन्य सभी सुखों से अधिक है। मान सरोवर में हंस निवास करता है, जबकि बगुला अपनी जगह पर रहता है।।",
+    "explanation": "इस दोहे में कबीरदास ने संतों की संगति की उच्चता और महत्वपूर्णता को दर्शाया है। संतों की संगति से प्राप्त सुख अन्य सभी सुखों से अधिक होता है। मान सरोवर में हंस और बगुला की तुलना से यह समझाया गया है कि सम्मान और स्थान का महत्व अलग-अलग होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.393Z"
+  }
+}

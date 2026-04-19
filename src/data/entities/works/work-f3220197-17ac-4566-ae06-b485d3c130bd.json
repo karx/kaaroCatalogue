@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3220197-17ac-4566-ae06-b485d3c130bd",
+  "name": "कबिरा खालिक जागिया, और न जागे कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the Creator is awake, but no one else is. Only the one who is full of worldly poison and devotion can truly awaken.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा खालिक जागिया, और न जागे कोय।\nजाके विषय विष भरा, दास बंदगी होय।।७१।।",
+    "translation": "Kabir says that the Creator is awake, but no one else is. Only the one who is full of worldly poison and devotion can truly awaken.",
+    "meaning": "कबीर कहते हैं कि सृष्टिकर्ता जागरूक है, लेकिन कोई और नहीं। केवल वही जो सांसारिक विष और भक्ति से भरा होता है, वही सच में जागृत हो सकता है।",
+    "explanation": "इस दोहे में कबीर यह बताना चाहते हैं कि ईश्वर या सृष्टिकर्ता हमेशा जागरूक और सक्रिय रहता है, लेकिन सामान्य लोग इसके महत्व को नहीं समझ पाते। जो व्यक्ति सांसारिक इच्छाओं और विषाद से भरा हुआ होता है, वही सच्ची भक्ति और समझ प्राप्त कर सकता है। इस प्रकार, सच्ची जागरूकता और भक्ति का मतलब केवल दिखावे से नहीं बल्कि आंतरिक परिवर्तन से है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

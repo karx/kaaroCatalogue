@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b664c9c6-9040-4ec5-87e1-de9c2b83e4f9",
+  "name": "धर्म किये धन ना घट, नदी न घटै नीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Righteous deeds do not diminish wealth, just as the river's water does not decrease. See it with your own eyes, thus says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धर्म किये धन ना घट, नदी न घटै नीर।\nअपने आंखो देखि ले, यों कथि कहहिं कबीर।।९७८।।",
+    "translation": "Righteous deeds do not diminish wealth, just as the river's water does not decrease. See it with your own eyes, thus says Kabir.",
+    "meaning": "धर्म करने से धन कम नहीं होता, जैसे नदी का पानी नहीं घटता। इसे अपनी आंखों से देखो, ऐसा कबीर कहते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी धर्म और दान के महत्व को बताते हैं। वह कहते हैं कि धर्म के कार्य करने से कभी भी धन की कमी नहीं होती, ठीक वैसे ही जैसे नदी से पानी निकालने पर वह कम नहीं होता। यह बात आप खुद अनुभव कर सकते हैं। यह दोहा हमें सिखाता है कि हमें धर्म और दान में कभी भी संकोच नहीं करना चाहिए, क्योंकि यह हमारे जीवन में सच्चा सुख और संतोष लाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.894Z"
+  }
+}

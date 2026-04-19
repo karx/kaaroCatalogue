@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc81c4a8-c68b-4a20-84f0-8a2725653892",
+  "name": "जौन चाल संसार की, तौन साधु को नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whatever is the trend of the world, a saint does not follow it. Do not call someone a saint who practices hypocrisy and deceit.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जौन चाल संसार की, तौन साधु को नाहिं।\nडिंभ चाल करनी करै, साधु कहो मत ताहि।।६०८।।",
+    "translation": "Whatever is the trend of the world, a saint does not follow it. Do not call someone a saint who practices hypocrisy and deceit.",
+    "meaning": "जो भी संसार की प्रवृत्ति हो, संत उसका अनुसरण नहीं करते। उस व्यक्ति को संत मत कहिए जो कपट और धोखा करता है।",
+    "explanation": "संतों का मार्ग और आचरण दुनिया की सामान्य प्रवृत्तियों से भिन्न होता है। वे पाखंड और झूठे आचरण से दूर रहते हैं और सच्चाई और ईमानदारी का पालन करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.000Z"
+  }
+}

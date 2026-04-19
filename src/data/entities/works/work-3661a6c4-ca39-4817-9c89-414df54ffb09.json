@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3661a6c4-ca39-4817-9c89-414df54ffb09",
+  "name": "बनते भागा बिहुड़े परा, करहा अपने बाने",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fortune and misfortune are created, but their actions are different. One might speak of pain, but who knows whose actions are whose?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बनते भागा बिहुड़े परा, करहा अपने बाने।\nकरहा बेदन कासों कहे, को करहा को जाने।।१६०४।।",
+    "translation": "Fortune and misfortune are created, but their actions are different. One might speak of pain, but who knows whose actions are whose?",
+    "meaning": "भाग्य और दुर्भाग्य बनते हैं, लेकिन उनके कर्म अलग होते हैं। कोई दर्द की बात कर सकता है, लेकिन कौन जानता है कि कौन सा कर्म किसका है?",
+    "explanation": "कबीर इस दोहे में भाग्य और कर्म की चर्चा करते हैं। उन्होंने कहा कि भाग्य और दुर्भाग्य बनते हैं, लेकिन उनके कर्म भिन्न होते हैं। यह बताता है कि जो दर्द की बात करते हैं, वे नहीं जानते कि कौन से कर्म किसके हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.502Z"
+  }
+}

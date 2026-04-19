@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f08b048b-ae0e-487b-ba04-2540a51f3c7f",
+  "name": "चंदन सर्प लपेटिया, चंदन काह कराया",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sandalwood tree is entwined by a snake, rendering its fragrance useless. Even the name of Ram is tainted with poison, how can nectar remain?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंदन सर्प लपेटिया, चंदन काह कराया।\nराम-राम विष भीनिया, अमृत कहां समाय।।१५०२।।",
+    "translation": "The sandalwood tree is entwined by a snake, rendering its fragrance useless. Even the name of Ram is tainted with poison, how can nectar remain?",
+    "meaning": "चंदन के पेड़ को सर्प ने लपेट लिया, जिससे उसकी सुगंध व्यर्थ हो गई। राम-राम का नाम भी विष से भर गया, फिर अमृत कैसे बचेगा?",
+    "explanation": "इस दोहे में कबीर यह बता रहे हैं कि जब बुराई (सर्प) अच्छाई (चंदन) को अपने प्रभाव में ले लेती है, तो अच्छाई का महत्व समाप्त हो जाता है। इसी प्रकार जब आध्यात्मिकता और धर्म पर बुराई का प्रभाव पड़ता है, तो पवित्रता और अच्छाई नष्ट हो जाती है। इसलिए व्यक्ति को बुराई से बचते हुए सच्चाई और पवित्रता की ओर अग्रसर होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.927Z"
+  }
+}

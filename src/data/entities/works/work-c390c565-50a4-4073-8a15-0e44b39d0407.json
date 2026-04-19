@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c390c565-50a4-4073-8a15-0e44b39d0407",
+  "name": "कवि तो कोटिक कोटि हैं, सिर के मूड़े कोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There are countless poets with countless heads. Examine the depth of the mind; find solace in those who have profound wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कवि तो कोटिक कोटि हैं, सिर के मूड़े कोट।\nमन के मूड़े देखि करि, ता संग लीजै ओट।।६३७।।",
+    "translation": "There are countless poets with countless heads. Examine the depth of the mind; find solace in those who have profound wisdom.",
+    "meaning": "सैकड़ों कवि हैं, जिनकी गिनती असंख्य है। मन की गहराई को देखो; उन लोगों में शांति पाओ जिनके पास गहरा ज्ञान है।",
+    "explanation": "संत कहते हैं कि बाहरी पहचान और संख्या से अधिक महत्वपूर्ण है आंतरिक ज्ञान और गहराई। सच्चा मूल्य उसी में है जो गहराई और अंतर्दृष्टि रखता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.003Z"
+  }
+}

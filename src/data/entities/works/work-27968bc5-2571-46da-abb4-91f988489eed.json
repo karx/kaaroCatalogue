@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-27968bc5-2571-46da-abb4-91f988489eed",
+  "name": "भज दीना कहूँ और ही, तन साधुन के संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Worship the poor and be in the company of saints. Kabir says, how can the color of a blacksmith be perceived?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भज दीना कहूँ और ही, तन साधुन के संग।\nकहैं कबीर कारी गजी, कैसे लागे रंग।।१३६।।",
+    "translation": "Worship the poor and be in the company of saints. Kabir says, how can the color of a blacksmith be perceived?",
+    "meaning": "गरीबों की पूजा करो और संतों के संग रहो। कबीर कहते हैं, कारीगर का रंग कैसे दिखेगा?",
+    "explanation": "इस दोहे में कबीर हमें समझाते हैं कि साधु-संतों के संग रहना और गरीबों की सेवा करना आत्मिक उन्नति के लिए आवश्यक है। कारीगर के रंग के उदाहरण से, वह बताना चाहते हैं कि बाहरी रूप रंग की परवाह किए बिना, असली महत्व आंतरिक गुण और सेवा में है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

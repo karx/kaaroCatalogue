@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8c1b7675-6bd0-4513-876f-7b1359dbbd14",
+  "name": "जिहि घट प्रीति न प्रेम रस, पुनि रसना नहीं राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the body where there is no love or the essence of love, the tongue cannot taste the Divine. Those who lack this love in this world, become useless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिहि घट प्रीति न प्रेम रस, पुनि रसना नहीं राम।\nते नर इस संसार में, उपजि भए बेकाम।।४६४।।",
+    "translation": "In the body where there is no love or the essence of love, the tongue cannot taste the Divine. Those who lack this love in this world, become useless.",
+    "meaning": "जिस शरीर में प्रेम रस नहीं है, वहाँ जुबान भी राम का स्वाद नहीं ले सकती। इस संसार में जो प्रेम की कमी रखते हैं, वे व्यर्थ हो जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने प्रेम और दिव्य अनुभूति के महत्व को स्पष्ट किया है। उन्होंने कहा कि जिस व्यक्ति के शरीर में प्रेम का रस नहीं होता, उसकी जुबान भी भगवान का स्वाद नहीं ले सकती। प्रेम के बिना, जीवन निरर्थक हो जाता है। यह दोहा प्रेम की अनिवार्यता और उसकी दिव्यता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

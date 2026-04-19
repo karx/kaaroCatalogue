@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-74b63491-2b89-4dd4-9514-93799634c0b7",
+  "name": "सुमिरन सों मन जब लगै, ज्ञानाकुस दे सीस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the mind is engaged in remembrance, it wears the crown of wisdom. Kabir says, it does not waver; it certainly remains steadfast.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन सों मन जब लगै, ज्ञानाकुस दे सीस।\nकहैं कबीर डोलै नहीं, निश्‍चै बिस्‍वा बीस।।७६२।।",
+    "translation": "When the mind is engaged in remembrance, it wears the crown of wisdom. Kabir says, it does not waver; it certainly remains steadfast.",
+    "meaning": "जब मन स्मरण में लगे, तो ज्ञान का मुकुट पहनता है। कबीर कहते हैं, यह नहीं डोलता; यह निश्चित रूप से स्थिर रहता है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि जब मन पूर्ण रूप से भगवान के स्मरण में लगा रहता है, तो व्यक्ति ज्ञान का अनुभव करता है। इस ज्ञान की वजह से मन स्थिर और दृढ़ रहता है, और किसी भी परिस्थिति में विचलित नहीं होता। इस स्थिरता के साथ, व्यक्ति जीवन में संतुलन और शांति अनुभव करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

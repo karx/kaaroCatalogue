@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0664aeb0-03eb-437b-9523-96fae4863c9f",
+  "name": "गुरु सिकलीगर कीजिए, मनहि मसकला देइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Make the Guru a blacksmith, who polishes the mind. Let him sharpen your words, and turn your heart into a mirror.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु सिकलीगर कीजिए, मनहि मसकला देइ।\nशब्‍द छोलना छोलिके, चित्त दर्पण कर‍ि लेइ।।१४९५।।",
+    "translation": "Make the Guru a blacksmith, who polishes the mind. Let him sharpen your words, and turn your heart into a mirror.",
+    "meaning": "गुरु को लोहार बनाइए, जो मन को तराश दे। अपनी वाणी को चमका दीजिए, और अपने हृदय को दर्पण बना लीजिए।",
+    "explanation": "कबीर इस दोहे में गुरु की उपमा लोहार से देते हैं, जो अपने शिष्य के मन को तराश कर उसे सही रूप देता है। गुरु की शिक्षा से शिष्य की वाणी और हृदय निर्मल और शुद्ध हो जाते हैं। जब मन और हृदय शुद्ध हो जाते हैं, तो व्यक्ति सत्य को साफ-साफ देख सकता है, जैसे दर्पण में सब कुछ साफ दिखाई देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.661Z"
+  }
+}

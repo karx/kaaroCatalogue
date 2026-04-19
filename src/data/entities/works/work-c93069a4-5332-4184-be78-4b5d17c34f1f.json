@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c93069a4-5332-4184-be78-4b5d17c34f1f",
+  "name": "काजल केरी कोठरी, मसि के कर्म कपाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The room of kajal (kohl) is the place of actions with ink. The cloth is the first to be worn, and the scholar shows the way.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजल केरी कोठरी, मसि के कर्म कपाट।\nपाहनि बोई पृथमी, पंडित पाड़ी बाट।।२०२२।।",
+    "translation": "The room of kajal (kohl) is the place of actions with ink. The cloth is the first to be worn, and the scholar shows the way.",
+    "meaning": "काजल की कोठरी इंक के कर्मों का स्थान है। कपड़ा पहले पहना जाता है, और पंडित रास्ता दिखाता है।",
+    "explanation": "इस दोहे में कबीर ने काजल के उपयोग और उसके कर्मों का वर्णन किया है। उन्होंने बताया है कि कैसे काजल के कर्म और कार्य उस व्यक्ति की वास्तविकता को दर्शाते हैं। पंडित का मार्गदर्शन और कपड़े का महत्व इस संदर्भ में बताया गया है, जो जीवन की दिशा और मूल्य को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.805Z"
+  }
+}

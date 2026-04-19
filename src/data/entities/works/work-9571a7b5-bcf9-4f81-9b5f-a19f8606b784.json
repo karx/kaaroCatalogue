@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9571a7b5-bcf9-4f81-9b5f-a19f8606b784",
+  "name": "तरवर तास बिलांबिए, बारह मास फलंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The tree takes its time, and bears fruit for twelve months. The cool shade remains, while the birds continue their play.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तरवर तास बिलांबिए, बारह मास फलंत।\nसीतल छाया गहर फल, पंषी केलि करंत।।१९६२।।",
+    "translation": "The tree takes its time, and bears fruit for twelve months. The cool shade remains, while the birds continue their play.",
+    "meaning": "वृक्ष धीरे-धीरे फलता है और बारह महीने फल देता है। ठंडी छाया बनी रहती है, जबकि पक्षी अपनी खेल-कूद में व्यस्त रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने वृक्ष की उपमा का उपयोग करते हुए स्थिरता और धैर्य की बात की है। जैसे वृक्ष धीरे-धीरे फल देता है और अपनी छाया प्रदान करता है, उसी तरह, साधक को भी धैर्य और समय के साथ अपने प्रयासों का फल मिलता है। यह दोहा हमें यह सिखाता है कि आत्मिक शांति और संतोष धैर्य और समर्पण से ही प्राप्त होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.530Z"
+  }
+}

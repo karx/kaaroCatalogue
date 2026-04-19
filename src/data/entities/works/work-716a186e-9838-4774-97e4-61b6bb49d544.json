@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-716a186e-9838-4774-97e4-61b6bb49d544",
+  "name": "साधु बड़े परमारथी, शीतल जिनके अंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints are great benefactors, whose bodies are cool and calm. They extinguish the heat of worldly desires and give their own hue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु बड़े परमारथी, शीतल जिनके अंग।\nतपन बुझावै ओर की, देदे अपनो रंग।।३२०।।",
+    "translation": "Saints are great benefactors, whose bodies are cool and calm. They extinguish the heat of worldly desires and give their own hue.",
+    "meaning": "साधु महान परमार्थी होते हैं, जिनके अंग ठंडे और शीतल होते हैं। वे सांसारिक इच्छाओं की तपन को बुझा देते हैं और अपने स्वयं के रंग का अहसास कराते हैं।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि साधु अपने शीतल स्वभाव और परमार्थी गुणों के कारण संसार की तपन को ठंडा करते हैं। वे दूसरों को अपने आदर्श और गुणों से प्रेरित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

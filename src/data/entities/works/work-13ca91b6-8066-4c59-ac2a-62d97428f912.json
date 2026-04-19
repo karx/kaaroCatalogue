@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-13ca91b6-8066-4c59-ac2a-62d97428f912",
+  "name": "मैं अपराधी जनम का, नख शिख भरो बिकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I am a sinner by birth, filled with flaws from head to toe. You are the giver and the destroyer of sorrow; please take care of me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं अपराधी जनम का, नख शिख भरो बिकार।\nतुम दाता दुख भंजना, मेरी करो संभार।।२१९४।।",
+    "translation": "I am a sinner by birth, filled with flaws from head to toe. You are the giver and the destroyer of sorrow; please take care of me.",
+    "meaning": "मैं जन्म से ही पापी हूं, सिर से पांव तक दोषों से भरा हुआ हूं। आप ही दुखों के नाशक और दाता हैं; कृपया मेरी देखभाल करें।",
+    "explanation": "इस दोहे में संत कबीर जी भगवान से प्रार्थना कर रहे हैं कि वे उनके दोषों को क्षमा करें और उनकी देखभाल करें। वे स्वीकार करते हैं कि वे जन्म से ही दोषपूर्ण हैं और भगवान ही उनके दुखों का नाश कर सकते हैं। यह दोहा भगवान की कृपा और उनके संरक्षण की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.733Z"
+  }
+}

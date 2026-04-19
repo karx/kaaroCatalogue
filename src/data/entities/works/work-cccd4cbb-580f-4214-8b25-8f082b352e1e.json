@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cccd4cbb-580f-4214-8b25-8f082b352e1e",
+  "name": "परबति परबति मैं फिरया, नैंन गंवाये रोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I wandered from mountain to mountain, weeping and losing my eyes. I cannot find that herb, which would make my life complete.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "परबति परबति मैं फिरया, नैंन गंवाये रोइ।\nसो बूटी पाऊं नहीं, जातैं जीवनि होइ।।१७७५।।",
+    "translation": "I wandered from mountain to mountain, weeping and losing my eyes. I cannot find that herb, which would make my life complete.",
+    "meaning": "मैं पर्वत से पर्वत की ओर घूमता रहा, आँसू बहाते हुए और अपनी आँखें खोते हुए। वह औषधि नहीं मिलती, जो मेरे जीवन को पूरा कर सके।",
+    "explanation": "इस दोहे में कबीर ने जीवन की खोज और उसकी अधूरापन को व्यक्त किया है। पर्वतों की ओर भटकते हुए और आंसू बहाते हुए, वे उस औषधि की तलाश करते हैं जो उनके जीवन को पूरा कर सके। यह दोहा जीवन की पूर्णता की खोज और उसकी कमी को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.350Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ebf7c161-0938-4ca7-865e-f5fe32eb1353",
+  "name": "darbar mein ab satwat-e-shahi ki alamat",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/darbaar-men-ab-satvat-e-shaahii-kii-alaamat-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.214Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/darbaar-men-ab-satvat-e-shaahii-kii-alaamat-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ndarbār meñ ab satvat-e-shāhī kī alāmat\ndarbāñ kā asā hai ki musannif kā qalam hai\nāvāra hai phir koh-e-nidā par jo bashārat\ntamhīd-e-masarrat hai ki tūl-e-shab-e-ġham hai\njis dhajjī ko galiyoñ meñ liye phirte haiñ tiflāñ\nye merā garebāñ hai ki lashkar kā alam hai\njis nuur se hai shahr kī dīvār daraḳhshāñ\nye ḳhūn-e-shahīdāñ hai ki zar-ḳhāna-e-jam hai\nhalqa kiye baiThe raho ik sham.a ko yaaro\nkuchh raushnī baaqī to hai har-chand ki kam hai\ndarbar mein ab satwat-e-shahi ki alamat\ndarban ka asa hai ki musannif ka qalam hai\naawara hai phir koh-e-nida par jo bashaarat\ntamhid-e-masarrat hai ki tul-e-shab-e-gham hai\njis dhajji ko galiyon mein liye phirte hain tiflan\nye mera gareban hai ki lashkar ka alam hai\njis nur se hai shahr ki diwar daraKHshan\nye KHun-e-shahidan hai ki zar-KHana-e-jam hai\nhalqa kiye baiThe raho ek shama ko yaro\nkuchh raushni baqi to hai har-chand ki kam hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nدربار میں اب سطوت شاہی کی علامت\nدرباں کا عصا ہے کہ مصنف کا قلم ہے\nآوارہ ہے پھر کوہ ندا پر جو بشارت\nتمہید مسرت ہے کہ طول شب غم ہے\nجس دھجی کو گلیوں میں لیے پھرتے ہیں طفلاں\nیہ میرا گریباں ہے کہ لشکر کا علم ہے\nجس نور سے ہے شہر کی دیوار درخشاں\nیہ خون شہیداں ہے کہ زر خانۂ جم ہے\nحلقہ کیے بیٹھے رہو اک شمع کو یارو\nکچھ روشنی باقی تو ہے ہر چند کہ کم ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nदरबार में अब सतवत-ए-शाही की अलामत\nदरबाँ का असा है कि मुसन्निफ़ का क़लम है\nआवारा है फिर कोह-ए-निदा पर जो बशारत\nतम्हीद-ए-मसर्रत है कि तूल-ए-शब-ए-ग़म है\nजिस धज्जी को गलियों में लिए फिरते हैं तिफ़्लाँ\nये मेरा गरेबाँ है कि लश्कर का अलम है\nजिस नूर से है शहर की दीवार दरख़्शाँ\nये ख़ून-ए-शहीदाँ है कि ज़र-ख़ाना-ए-जम है\nहल्क़ा किए बैठे रहो इक शम्अ को यारो\nकुछ रौशनी बाक़ी तो है हर-चंद कि कम है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:50.061Z"
+  }
+}

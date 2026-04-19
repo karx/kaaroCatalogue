@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0b669724-5591-4820-8429-48e5849101b2",
+  "name": "मान बड़ाई कूकरी, सन्‍तन खेदी जान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The pride of honor is false; wise people understand this. The Pandavas made the world sacred, while the wicked remain away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मान बड़ाई कूकरी, सन्‍तन खेदी जान।\nपांडव जग पावन भया, सुपच बिराजै आन।।१२५६।।",
+    "translation": "The pride of honor is false; wise people understand this. The Pandavas made the world sacred, while the wicked remain away.",
+    "meaning": "मान की बड़ाई केवल दिखावा है; सच्चे लोग इसे समझते हैं। पांडवों ने दुनिया को पावन बना दिया, जबकि दुष्ट दूर रहते हैं।",
+    "explanation": "इस दोहे में कबीर जी ने बताया है कि मान-सम्मान की बड़ाई केवल एक भ्रम है और इसे समझने वाले ही सच्चे ज्ञानी होते हैं। पांडवों ने अपने कर्मों से दुनिया को पावन बना दिया, जबकि जो लोग बुरे होते हैं, वे इससे दूर रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.542Z"
+  }
+}

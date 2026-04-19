@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-af592a8d-f33e-43a3-9f78-415a5a48a23b",
+  "name": "कबीर सूता क्‍या करै, गुण सतगुरु का गाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What does a sleeping person achieve? Sing the virtues of the true Guru. Yama (Death) stands on your head, what will you spend on?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सूता क्‍या करै, गुण सतगुरु का गाय।\nतेरे शिर पर जम खड़ा, खरच कदे का खाय।।७६४।।",
+    "translation": "What does a sleeping person achieve? Sing the virtues of the true Guru. Yama (Death) stands on your head, what will you spend on?",
+    "meaning": "सोते हुए व्यक्ति को क्या प्राप्त होता है? सतगुरु की गुणगान करो। तेरे सिर पर यम खड़ा है, तुम क्या खर्च करोगे?",
+    "explanation": "इस दोहे में कबीर ने सोते हुए व्यक्ति की स्थिति को दर्शाया है और सतगुरु की स्तुति करने की आवश्यकता को बताया है। वे बताते हैं कि मृत्यु हमारे सिर पर खड़ी है और हम अपनी समय और ऊर्जा को व्यर्थ की चीजों में खर्च कर रहे हैं। सतगुरु के गुणों का गायन और उनकी भक्ति ही वास्तविक समर्पण है, जो हमें जीवन के महत्वपूर्ण लक्ष्य की ओर ले जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

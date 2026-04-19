@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4356f252-5027-44a9-9db4-6633029c82d5",
+  "name": "कबीर माया पापिनी, लोभ भ्‍ज्ञुलाया लोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is sinful, and greed has misled people. No one has fully enjoyed it; this is its problem.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया पापिनी, लोभ भ्‍ज्ञुलाया लोग।\nपूरी किनहुं न भोगिया, इसका यही बिजोग।।११६५।।",
+    "translation": "Kabir says, illusion is sinful, and greed has misled people. No one has fully enjoyed it; this is its problem.",
+    "meaning": "कबीर कहते हैं, माया पापिनी है और लोभ ने लोगों को भ्रमित किया है। किसी ने भी इसे पूरी तरह से नहीं भोगा; यही इसका संकट है।",
+    "explanation": "इस दोहे में कबीर ने माया के पाप और लोभ के प्रभाव को उजागर किया है। वे बताते हैं कि माया और लोभ ने लोगों को भ्रमित किया है और कोई भी इसे पूरी तरह से आनंदित नहीं कर पाया। इसका कारण यही है कि माया और लोभ केवल असंतोष और समस्या उत्पन्न करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.970Z"
+  }
+}

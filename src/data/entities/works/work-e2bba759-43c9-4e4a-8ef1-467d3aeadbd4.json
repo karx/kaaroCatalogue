@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e2bba759-43c9-4e4a-8ef1-467d3aeadbd4",
+  "name": "एक राम को जानि करि, दूजा देह बहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "By knowing the one Ram, discard the second (body). Pilgrimages, vows, chants, and penance are not needed; merge with the feet of the true Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक राम को जानि करि, दूजा देह बहाय।\nतीरथ व्रत जप तप नहीं, सतगुरु चरण समाय।।७६८।।",
+    "translation": "By knowing the one Ram, discard the second (body). Pilgrimages, vows, chants, and penance are not needed; merge with the feet of the true Guru.",
+    "meaning": "एक राम को जानकर, दूसरे (देह) को त्याग दो। तीर्थ, व्रत, जप और तप की आवश्यकता नहीं; सच्चे गुरु के चरणों में समा जाओ।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि सच्चे राम (ईश्वर) को जानने से शरीर और अन्य बाहरी साधन त्यागे जा सकते हैं। धार्मिक यात्रा, व्रत, जप और तप की आवश्यकता नहीं है। सबसे महत्वपूर्ण बात यह है कि व्यक्ति सच्चे गुरु के चरणों में आत्म-संयम और समर्पण करें। इससे परमात्मा की प्राप्ति होती है और वास्तविक मोक्ष मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

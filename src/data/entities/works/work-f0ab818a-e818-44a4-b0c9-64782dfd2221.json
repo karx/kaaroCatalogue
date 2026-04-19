@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f0ab818a-e818-44a4-b0c9-64782dfd2221",
+  "name": "सेवै सालिगराम को, माया सेती हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One worships the Shaligram out of attachment to material wealth. He wears a black blanket but pretends to have a pure white name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सेवै सालिगराम को, माया सेती हेत।\nपहिरै काली कामली, नाम धरावै सेत।।१३८३।।",
+    "translation": "One worships the Shaligram out of attachment to material wealth. He wears a black blanket but pretends to have a pure white name.",
+    "meaning": "कोई शालिग्राम की पूजा करता है, लेकिन माया से प्रेम करता है। वह काली चादर पहनता है, लेकिन अपने आप को पवित्र सफेद नाम से पुकारता है।",
+    "explanation": "कबीर इस दोहे में धार्मिक पाखंड की ओर इशारा करते हैं। वे कहते हैं कि जो व्यक्ति शालिग्राम की पूजा करता है लेकिन माया (सांसारिक धन) से प्रेम करता है, वह बाहरी रूप से पवित्र दिखने का प्रयास करता है, जबकि अंदर से वह अपवित्र है। यह दोहा हमें सिखाता है कि असली भक्ति वही है जो आंतरिक और बाहरी दोनों रूपों से सच्ची हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.089Z"
+  }
+}

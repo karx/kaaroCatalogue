@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ac3a9158-3ffa-4545-a33e-8d2653351798",
+  "name": "माया मुई न मन मुआ, मरि मरि गया शरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion does not die, nor does the mind die. The body may perish repeatedly, but desires and cravings do not die. Thus says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया मुई न मन मुआ, मरि मरि गया शरीर।\nआशा तृष्‍णा ना मुई, यौं कथि कहैं कबीर।।१२०७।।",
+    "translation": "Illusion does not die, nor does the mind die. The body may perish repeatedly, but desires and cravings do not die. Thus says Kabir.",
+    "meaning": "माया नहीं मरती, न ही मन मरता है। शरीर बार-बार मर सकता है, लेकिन आशा और तृष्णा नहीं मरतीं। कबीर यही कहते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया और मन की अमरता को दर्शाया है। शरीर भले ही बार-बार मरता है, लेकिन माया, आशा, और तृष्णा हमेशा जीवित रहती हैं। इनका प्रभाव जीवन के अंत तक बना रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.267Z"
+  }
+}

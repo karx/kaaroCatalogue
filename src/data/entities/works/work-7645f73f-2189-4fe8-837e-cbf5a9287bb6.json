@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7645f73f-2189-4fe8-837e-cbf5a9287bb6",
+  "name": "जूझैंगे तब कहैंगे, अब क्‍या कहैं बनाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When they fight, they will say, 'What can we say now?' Fear makes the heart smile, and the fight ends in fleeing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जूझैंगे तब कहैंगे, अब क्‍या कहैं बनाय।\nभीर परै मन मसकरा, लडे किधौं भगिजाय।।२१३१।।",
+    "translation": "When they fight, they will say, 'What can we say now?' Fear makes the heart smile, and the fight ends in fleeing.",
+    "meaning": "जब वे लड़ेंगे, तो वे कहेंगे, 'अब हम क्या कहें?' भय दिल को मुस्कराता है, और लड़ाई भाग जाने से समाप्त होती है।",
+    "explanation": "इस दोहे में कबीर ने युद्ध और भय के प्रभाव को व्यक्त किया है। जब लोग लड़ाई करते हैं, तो वे अक्सर यह सवाल उठाते हैं कि अब क्या किया जाए। डर दिल को मुस्कराने पर मजबूर करता है, और अंततः लड़ाई भागने से समाप्त हो जाती है। यह दोहा भय और असली संघर्ष की स्थिति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.368Z"
+  }
+}

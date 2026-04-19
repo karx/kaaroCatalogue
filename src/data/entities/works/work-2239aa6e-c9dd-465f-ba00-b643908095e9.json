@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2239aa6e-c9dd-465f-ba00-b643908095e9",
+  "name": "अपनी कहे मेरी सुने, सुनि मिल‍ि एके होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When one says 'mine' and the other listens and merges, they become one. In my view, the world moves, but such unity is rare.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपनी कहे मेरी सुने, सुनि मिल‍ि एके होय।\nहमरे देखत जग जात है, ऐसा मिला न कोय।।१४४०।।",
+    "translation": "When one says 'mine' and the other listens and merges, they become one. In my view, the world moves, but such unity is rare.",
+    "meaning": "जब एक व्यक्ति 'मेरे' कहता है और दूसरा सुनता है और मिल जाता है, तब वे एक हो जाते हैं। मेरे दृष्टिकोण में, संसार चलता है, लेकिन ऐसी एकता दुर्लभ है।",
+    "explanation": "कबीर इस दोहे में एकता और समझ की बात करते हैं। वे बताते हैं कि जब एक व्यक्ति अपनी बात कहता है और दूसरा सुनता है और एकता प्राप्त करता है, तब वे एक हो जाते हैं। यह दोहा इस एकता की दुर्लभता और इसके महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.366Z"
+  }
+}

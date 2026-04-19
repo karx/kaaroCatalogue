@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75954c9b-1160-424d-8344-f6e87e540a0b",
+  "name": "na ab raqib na naseh na gham-gusar koi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/na-ab-raqiib-na-naaseh-na-gam-gusaar-koii-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.211Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/na-ab-raqiib-na-naaseh-na-gam-gusaar-koii-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nna ab raqīb na nāseh na ġham-gusār koī\ntum āshnā the to thiiñ āshnā.iyāñ kyā kyā\njudā the ham to mayassar thiiñ qurbateñ kitnī\nbaham hue to paḌī haiñ judā.iyāñ kyā kyā\npahuñch ke dar pe tire kitne mo'tabar Thahre\nagarche rah meñ huiiñ jag-hañsā.iyāñ kyā kyā\nham aise sāda-diloñ kī niyāz-mandī se\nbutoñ ne kī haiñ jahāñ meñ ḳhudā.iyāñ kyā kyā\nsitam pe ḳhush kabhī lutf-o-karam se ranjīda\nsikhā.īñ tum ne hameñ kaj-adā.iyāñ kyā kyā\nna ab raqib na naseh na gham-gusar koi\ntum aashna the to thin aashnaiyan kya kya\njuda the hum to mayassar thin qurbaten kitni\nbaham hue to paDi hain judaiyan kya kya\npahunch ke dar pe tere kitne mo'tabar Thahre\nagarche rah mein huin jag-hansaiyan kya kya\nhum aise sada-dilon ki niyaz-mandi se\nbuton ne ki hain jahan mein KHudaiyan kya kya\nsitam pe KHush kabhi lutf-o-karam se ranjida\nsikhain tum ne hamein kaj-adaiyan kya kya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nنہ اب رقیب نہ ناصح نہ غم گسار کوئی\nتم آشنا تھے تو تھیں آشنائیاں کیا کیا\nجدا تھے ہم تو میسر تھیں قربتیں کتنی\nبہم ہوئے تو پڑی ہیں جدائیاں کیا کیا\nپہنچ کے در پہ ترے کتنے معتبر ٹھہرے\nاگرچہ رہ میں ہوئیں جگ ہنسائیاں کیا کیا\nہم ایسے سادہ دلوں کی نیاز مندی سے\nبتوں نے کی ہیں جہاں میں خدائیاں کیا کیا\nستم پہ خوش کبھی لطف و کرم سے رنجیدہ\nسکھائیں تم نے ہمیں کج ادائیاں کیا کیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nन अब रक़ीब न नासेह न ग़म-गुसार कोई\nतुम आश्ना थे तो थीं आश्नाइयाँ क्या क्या\nजुदा थे हम तो मयस्सर थीं क़ुर्बतें कितनी\nबहम हुए तो पड़ी हैं जुदाइयाँ क्या क्या\nपहुँच के दर पे तिरे कितने मो'तबर ठहरे\nअगरचे रह में हुईं जग-हँसाइयाँ क्या क्या\nहम ऐसे सादा-दिलों की नियाज़-मंदी से\nबुतों ने की हैं जहाँ में ख़ुदाइयाँ क्या क्या\nसितम पे ख़ुश कभी लुत्फ़-ओ-करम से रंजीदा\nसिखाईं तुम ने हमें कज-अदाइयाँ क्या क्या",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:50.612Z"
+  }
+}

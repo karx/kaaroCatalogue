@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9adf0d4d-d3f6-41e4-aaaf-e21b540ada17",
+  "name": "गिरिये परबत सिखर ते, परिये धरनि मंझार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if you fall from the peak of a mountain or the middle of the earth, do not befriend a foolish person; you will be lost in the dark current.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गिरिये परबत सिखर ते, परिये धरनि मंझार।\nमूरख मित्र न कीजिये, बूड़ो काली धार।।६५५।।",
+    "translation": "Even if you fall from the peak of a mountain or the middle of the earth, do not befriend a foolish person; you will be lost in the dark current.",
+    "meaning": "चाहे आप पर्वत की चोटी से गिरें या धरती के बीच से, मूर्ख मित्र से मत मिलिए; आप काले धार में खो जाएंगे।",
+    "explanation": "संत कबीर का कहना है कि मूर्खों से दोस्ती करने से जीवन में बहुत बड़ी हानि हो सकती है, चाहे आप कितनी भी ऊँचाई से गिरें या कितनी भी गहराई में हों।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.268Z"
+  }
+}

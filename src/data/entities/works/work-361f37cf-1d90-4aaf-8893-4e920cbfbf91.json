@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-361f37cf-1d90-4aaf-8893-4e920cbfbf91",
+  "name": "कहता तो बहूँना मिले, गहना मिला न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who says he has everything does not possess any ornaments. He who speaks of having nothing truly possesses nothing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहता तो बहूँना मिले, गहना मिला न कोय।\nसो कहता वह जान दे, जो नहीं गहना कोय।।१०९।।",
+    "translation": "One who says he has everything does not possess any ornaments. He who speaks of having nothing truly possesses nothing.",
+    "meaning": "जो कहता है कि उसके पास सब कुछ है, उसके पास कोई गहना नहीं होता। जो कहता है कि उसके पास कुछ नहीं है, वह सचमुच कुछ भी नहीं रखता।",
+    "explanation": "इस दोहे में कबीर यह दिखाते हैं कि बाहरी दिखावे और शब्दों से ज्यादा महत्वपूर्ण है वास्तविकता। जो व्यक्ति यह दावा करता है कि उसके पास सब कुछ है, वह वास्तव में कुछ भी नहीं रखता। इसके विपरीत, जो व्यक्ति अपने पास कुछ भी नहीं होने की बात करता है, वह वास्तव में बहुत कुछ खो चुका होता है। यह दिखाता है कि सत्य और वास्तविकता से समझौता न करना अधिक महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

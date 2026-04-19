@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c939c939-97a0-44f7-89a4-47e87843bb06",
+  "name": "सतगुरु शरण न आवहीं, फिर‍ि फिरि होय अकाज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without seeking refuge in the True Guru, one repeatedly fails in their endeavors. The soul will be lost and everyone will face the reign of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु शरण न आवहीं, फिर‍ि फिरि होय अकाज।\nजीव खोय सब जायेंगे, काल तिहूं पुर राज।।५०३।।",
+    "translation": "Without seeking refuge in the True Guru, one repeatedly fails in their endeavors. The soul will be lost and everyone will face the reign of time.",
+    "meaning": "सतगुरु की शरण में आए बिना, व्यक्ति बार-बार असफल होता है। आत्मा खो जाती है और सभी को समय के शासन का सामना करना पड़ता है।",
+    "explanation": "इस दोहे में कबीर दास ने सतगुरु की शरण लेने की महत्वपूर्णता को बताया है। अगर व्यक्ति सतगुरु की शरण में नहीं आता, तो उसे बार-बार असफलता का सामना करना पड़ता है और आत्मा खो जाती है। समय का शासन सबको प्रभावित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.463Z"
+  }
+}

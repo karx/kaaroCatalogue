@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d7e40c6c-95d2-41fa-8d2f-c76b8b56fef9",
+  "name": "आपा तजे हरि भजे, नखसिख तजे विकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who renounces their ego and worships Hari, discards all impurities. Such a person lives a life free from all faults; this is the essence of saintliness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आपा तजे हरि भजे, नखसिख तजे विकार।\nसब जीवन से निबरहे, साधुमता है सार।।१४५२।।",
+    "translation": "One who renounces their ego and worships Hari, discards all impurities. Such a person lives a life free from all faults; this is the essence of saintliness.",
+    "meaning": "जो व्यक्ति अपने अहंकार को त्यागकर हरि की पूजा करता है, वह सभी दोषों से मुक्त हो जाता है। ऐसा व्यक्ति सभी दोषों से मुक्त जीवन जीता है; यही साधुमता का सार है।",
+    "explanation": "कबीर इस दोहे में साधना और आत्म-शुद्धता की बात करते हैं। वे बताते हैं कि जो व्यक्ति अपने अहंकार को छोड़कर हरि की पूजा करता है, वह सभी विकारों से मुक्त हो जाता है और एक दोषमुक्त जीवन जीता है। यह दोहा साधुता और उसके सार की वास्तविकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.652Z"
+  }
+}

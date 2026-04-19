@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bed4b1e1-6f0a-4e31-a2c2-b2cd2a132fb3",
+  "name": "तन सराय मन पाहरु, मनसा उतरी आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is an inn, the mind is a guest. The mind has come down from its desires. Nothing belongs to anyone; it is all merely observed and abandoned.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन सराय मन पाहरु, मनसा उतरी आय।\nको काहू का है नहीं, देखा ठोंकि बजाय।।८५२।।",
+    "translation": "The body is an inn, the mind is a guest. The mind has come down from its desires. Nothing belongs to anyone; it is all merely observed and abandoned.",
+    "meaning": "तन एक सराय है, मन एक यात्री। मन अपनी इच्छाओं से उतर आया है। कुछ भी किसी का नहीं है; सब कुछ केवल देखा और छोड़ दिया गया।",
+    "explanation": "इस दोहे में कबीर ने शरीर और मन की अस्थिरता को दर्शाया है। शरीर को सराय और मन को यात्री के रूप में देखा गया है, जो अपनी इच्छाओं से दूर हो गया है। कबीर ने इस बात की ओर इशारा किया है कि इस जीवन में कुछ भी स्थायी नहीं है और सब कुछ केवल देखने और छोड़ने के लिए है। यह दोहा हमें माया और भौतिक वस्तुओं से ऊपर उठने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.349Z"
+  }
+}

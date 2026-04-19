@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6c59b163-ffc3-4dfc-b18f-06e1df9f64bf",
+  "name": "शीलवन्‍त सुर ज्ञान मत, अति उदार चित्त होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A person of good character possesses deep knowledge, a generous heart, humility, and a pure, gentle nature.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शीलवन्‍त सुर ज्ञान मत, अति उदार चित्त होय।\nलज्‍जावान अति निछलता, कोमल हिरदा सोय।।६६९।।",
+    "translation": "A person of good character possesses deep knowledge, a generous heart, humility, and a pure, gentle nature.",
+    "meaning": "अच्छे चरित्र का व्यक्ति गहन ज्ञान, उदार हृदय, नम्रता और शुद्ध एवं कोमल स्वभाव रखता है।",
+    "explanation": "कबीर इस दोहे में अच्छे चरित्र के गुणों का वर्णन करते हैं। वह बताते हैं कि जो व्यक्ति शीलवान होता है, उसके पास ज्ञान, उदारता, लज्जा और कोमलता के गुण होते हैं। ऐसा व्यक्ति सभी के साथ अच्छा व्यवहार करता है और हमेशा सच्चाई के मार्ग पर चलता है। उसका हृदय शुद्ध और दूसरों के प्रति दयालु होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

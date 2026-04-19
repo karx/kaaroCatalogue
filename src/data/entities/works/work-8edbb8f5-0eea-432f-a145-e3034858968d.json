@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8edbb8f5-0eea-432f-a145-e3034858968d",
+  "name": "हत्‍या सोही हन्‍नसी, भावै जानि बिजान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Murderers will continue to kill, whether knowingly or unknowingly. They will be dragged by their hair before the Lord's court.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हत्‍या सोही हन्‍नसी, भावै जानि बिजान।\nकर गहि चोटी तानसी, साहब के दीवान।।२२५०।।",
+    "translation": "Murderers will continue to kill, whether knowingly or unknowingly. They will be dragged by their hair before the Lord's court.",
+    "meaning": "हत्या करने वाले, चाहे वे जानबूझकर करें या अज्ञान में, हत्या करते रहेंगे। उन्हें उनके बालों से पकड़कर साहब (ईश्वर) के दरबार में खींचा जाएगा।",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि जो लोग हत्या करने की प्रवृत्ति रखते हैं, वे इसे चाहे जानबूझकर करें या अनजाने में, उनके लिए इसका परिणाम एक ही होगा। उन्हें उनके कर्मों के लिए जवाबदेह ठहराया जाएगा और उन्हें ईश्वर के न्यायालय में उनके पापों के लिए सजा दी जाएगी। यह दोहा चेतावनी देता है कि हिंसा और हत्या का मार्ग चुनने वालों को अंततः दंड भुगतना पड़ेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.092Z"
+  }
+}

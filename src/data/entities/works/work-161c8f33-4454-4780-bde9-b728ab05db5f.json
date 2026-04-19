@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-161c8f33-4454-4780-bde9-b728ab05db5f",
+  "name": "रन धसिया ते उॅबरा, आया गरह निंवास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The brave rise from the battlefield and return to their home. Celebrations at home and the hope of life continue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रन धसिया ते उॅबरा, आया गरह निंवास।\nघरूं बधावा बाजिया, औ जोवन की आस।।२१२०।।",
+    "translation": "The brave rise from the battlefield and return to their home. Celebrations at home and the hope of life continue.",
+    "meaning": "वीर युद्धभूमि से लौटकर अपने घर आते हैं। घर में उत्सव मनाते हैं और जीवन की आशा बनाए रखते हैं।",
+    "explanation": "इस दोहे में कबीर ने युद्ध और घर की स्थिति को व्यक्त किया है। वीर लोग युद्ध से लौटने के बाद अपने घर में उत्सव मनाते हैं और जीवन की उम्मीद बनाए रखते हैं। यह दोहा युद्ध की समाप्ति और घर की शांति की ओर इशारा करता है, जहां जीवन के नए अवसर और आशाएं प्रकट होती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.364Z"
+  }
+}

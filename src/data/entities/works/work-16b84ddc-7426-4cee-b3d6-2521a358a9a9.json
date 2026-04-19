@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16b84ddc-7426-4cee-b3d6-2521a358a9a9",
+  "name": "दाता दाता चलि गये, रहि गये मक्‍खी चूस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The generous givers have left, leaving behind the miserly who suck even the last drop. They understand neither charity nor honor, but are strong in conflict.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दाता दाता चलि गये, रहि गये मक्‍खी चूस।\nदान मान समुझे नहीं, लड़ने को मजबूत।।१३८७।।",
+    "translation": "The generous givers have left, leaving behind the miserly who suck even the last drop. They understand neither charity nor honor, but are strong in conflict.",
+    "meaning": "उदार दाता चले गए, अब केवल मक्खी चूसने वाले रह गए हैं। वे न दान का मतलब समझते हैं और न ही सम्मान का, लेकिन लड़ने में वे मजबूत हैं।",
+    "explanation": "कबीर इस दोहे में समाज के पतन की ओर इशारा करते हैं, जहां सच्चे दानी लोग चले गए हैं और उनके स्थान पर केवल स्वार्थी और संकीर्ण मानसिकता वाले लोग रह गए हैं। वे दान और सम्मान की सच्ची भावना को नहीं समझते, लेकिन लड़ाई-झगड़े में वे माहिर होते हैं। यह दोहा हमें समाज में बढ़ती हुई लालच और संघर्ष की प्रवृत्ति पर सोचने के लिए मजबूर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.089Z"
+  }
+}

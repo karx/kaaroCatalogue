@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-492c1ecb-95d9-4592-862b-6ae95cbaea18",
+  "name": "मैं खोटा सांई खरा, मैं गाधा मैं गार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I am flawed, but the Lord is perfect; I am impure and foolish. I am a sinful soul; O Lord, save me by your grace.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं खोटा सांई खरा, मैं गाधा मैं गार।\nमैं अपराधी आतमा, सांई शरन उबार।।२१९३।।",
+    "translation": "I am flawed, but the Lord is perfect; I am impure and foolish. I am a sinful soul; O Lord, save me by your grace.",
+    "meaning": "मैं दोषपूर्ण हूं, लेकिन भगवान निर्दोष हैं; मैं अशुद्ध और मूर्ख हूं। मैं एक पापी आत्मा हूं; हे भगवान, मुझे अपनी कृपा से उबारो।",
+    "explanation": "इस दोहे में संत कबीर जी अपने दोषों को स्वीकारते हुए भगवान की शरण में जाने की बात करते हैं। वे कहते हैं कि भगवान पूर्ण और निर्दोष हैं, जबकि वे खुद अशुद्ध और पापी हैं। इस दोहे में कबीर जी भगवान की कृपा और दया की आवश्यकता पर जोर दे रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.733Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-33be022f-df3a-4318-89d6-23c13283e51f",
+  "name": "नान्हा कातौ चित्त दे, महँगे मोल बिलाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even a small thread, if given attention, can fetch a high price. The buyer is King Ram, and no one else can come close.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नान्हा कातौ चित्त दे, महँगे मोल बिलाइ।\nगाहक राजा राम है, और न नेडा आइ।।२१२।।",
+    "translation": "Even a small thread, if given attention, can fetch a high price. The buyer is King Ram, and no one else can come close.",
+    "meaning": "यदि छोटे धागे को ध्यान से काता जाए, तो उसकी ऊँची कीमत मिल सकती है। राजा राम ही ग्राहक हैं, और कोई उनके निकट नहीं आ सकता।",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक साधना के महत्व को बतलाते हैं। जैसे धागे को ध्यान से कातने पर उसकी कीमत बढ़ जाती है, वैसे ही राम के नाम का जाप ध्यान से करने पर उसका मूल्य बढ़ जाता है। यहाँ राजा राम ईश्वर के प्रतीक हैं, जो हमारे सभी प्रयासों के असली क्रेता हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

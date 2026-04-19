@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-76d73472-53c4-4e6c-8b2b-96881f677042",
+  "name": "आगि कह्यां दाझै नहीं, जे नहीं चंपै पाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fire won't burn just by saying 'fire' if it's not touched. Similarly, just saying 'Ram' is useless until you understand its essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगि कह्यां दाझै नहीं, जे नहीं चंपै पाइ।\nजब लग भेद न जांणिये, राम कह्या तौ काइ।।१८६४।।",
+    "translation": "Fire won't burn just by saying 'fire' if it's not touched. Similarly, just saying 'Ram' is useless until you understand its essence.",
+    "meaning": "अगर आग को सिर्फ कहने से जलता नहीं है, जब तक उसे छुआ न जाए। वैसे ही 'राम' का नाम लेना बेकार है, जब तक उसके सार को समझा न जाए।",
+    "explanation": "कबीरदास जी इस दोहे में एक महत्वपूर्ण सत्य बताते हैं। वे कहते हैं कि जैसे आग को सिर्फ 'आग' कहने से वह जलती नहीं है, वैसे ही 'राम' का नाम लेना बेकार है अगर हम उसके वास्तविक अर्थ को नहीं समझते। भगवान का नाम सिर्फ शब्दों से नहीं, बल्कि उसकी गहराई को समझकर ही लिया जाना चाहिए, तभी वह प्रभावी होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.970Z"
+  }
+}

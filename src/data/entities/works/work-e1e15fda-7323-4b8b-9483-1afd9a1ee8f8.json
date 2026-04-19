@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1e15fda-7323-4b8b-9483-1afd9a1ee8f8",
+  "name": "नित खरसान, लोह घुन छुटे",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Daily, the iron rusts away. Daily gatherings break the attachment and illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नित खरसान, लोह घुन छुटे।\nनित की गोष्टि, माया मोह टूटे।।१५७३।।",
+    "translation": "Daily, the iron rusts away. Daily gatherings break the attachment and illusion.",
+    "meaning": "हर दिन, लोहे का जंग हटता है। रोज़ की बैठकें मोह और माया को तोड़ती हैं।",
+    "explanation": "इस दोहे में कबीर ने ध्यान और सत्संग की महत्ता को बताया है। हर दिन जैसे लोहे का जंग हटता है, वैसे ही रोज़ की बैठकें और सत्संग हमारे मोह और माया को समाप्त करते हैं। यह आत्मिक विकास और मानसिक शुद्धता की दिशा में एक संकेत है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.209Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e433fa48-6810-4caf-8dc7-07f9e8c6838c",
+  "name": "नैना अंतरि आव तूं, निस दिन निरषौं तोहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The eyes are filled with your presence, and day and night I yearn for you. When will that day come when I will see Hari's vision?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नैना अंतरि आव तूं, निस दिन निरषौं तोहि।\nकब हरि दरसन देहुगे, सो दिन आवै मोहि।।१७६८।।",
+    "translation": "The eyes are filled with your presence, and day and night I yearn for you. When will that day come when I will see Hari's vision?",
+    "meaning": "आंखें तुम्हारी उपस्थिति से भर गई हैं, और दिन-रात मैं तुम्हारी याद करता हूँ। वह दिन कब आएगा जब मैं हरि के दर्शन करूंगा?",
+    "explanation": "इस दोहे में कबीर ने भगवान के दर्शन की गहरी तड़प और इंतजार को व्यक्त किया है। उनकी आंखों में भगवान की उपस्थिति से भरे होने के बावजूद, वह हर दिन और रात भगवान की प्रतीक्षा करते हैं। कबीर की यह भावना उनके आध्यात्मिक संकल्प और भगवान के दर्शन की गहरी लालसा को दर्शाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.348Z"
+  }
+}

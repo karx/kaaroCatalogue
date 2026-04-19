@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ce4562d8-24e1-426a-8379-be48c2d11f0a",
+  "name": "माता मुये एक फल, पिता मुये फल चार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mother who dies yields one fruit, the father who dies yields four fruits. The death of a brother is a loss, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माता मुये एक फल, पिता मुये फल चार।\nभाई मूये हानि है, कहैं कबीर बिचार।।२१४९।।",
+    "translation": "The mother who dies yields one fruit, the father who dies yields four fruits. The death of a brother is a loss, says Kabir.",
+    "meaning": "माँ की मृत्यु पर एक फल मिलता है, पिता की मृत्यु पर चार फल मिलते हैं। भाई की मृत्यु एक हानि है, ऐसा कबीर कहते हैं।",
+    "explanation": "कबीर इस दोहे में परिवार के सदस्यों की मृत्यु के बाद होने वाले भावनात्मक और सामाजिक प्रभाव को दर्शाते हैं। माँ की मृत्यु पर एक फल मिलने की बात, पिता की मृत्यु पर चार फल मिलने की बात, और भाई की मृत्यु को हानि बताना, इस बात को दर्शाता है कि परिवार के प्रत्येक सदस्य की मृत्यु का सामाजिक और व्यक्तिगत महत्व होता है। यह दोहा यह सिखाता है कि रिश्तों की गहराई और उनके खोने का दर्द अनमोल होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.373Z"
+  }
+}

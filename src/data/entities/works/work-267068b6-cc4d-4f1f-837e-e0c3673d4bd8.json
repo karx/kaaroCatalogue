@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-267068b6-cc4d-4f1f-837e-e0c3673d4bd8",
+  "name": "अंग अठोत्तरसौ कहा, परम पुरुष उपदेश",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The 48th verse speaks of divine instructions. Kabir says, when you meet Hari (God), it should be taken as a direct message.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंग अठोत्तरसौ कहा, परम पुरुष उपदेश।\nकहै कबीर अब हरि मिलै, मानौं साख संदेश।।२२३४।।",
+    "translation": "The 48th verse speaks of divine instructions. Kabir says, when you meet Hari (God), it should be taken as a direct message.",
+    "meaning": "अठ्ठारहवें अंग में परम पुरुष के उपदेश का वर्णन है। कबीर कहते हैं, जब तुम हरि (ईश्वर) से मिलोगे, तो इसे सीधे संदेश के रूप में मानो।",
+    "explanation": "इस दोहे में कबीर जी यह बताते हैं कि 48वें अंग में परम पुरुष के उपदेश का उल्लेख है। जब व्यक्ति हरि से मिलता है, तो इसे सीधे और महत्वपूर्ण संदेश के रूप में मानना चाहिए। यह दर्शाता है कि दिव्य मिलन और अनुभव को एक सच्चे संदेश के रूप में समझना और अपनाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.087Z"
+  }
+}

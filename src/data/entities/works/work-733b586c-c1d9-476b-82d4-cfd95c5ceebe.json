@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-733b586c-c1d9-476b-82d4-cfd95c5ceebe",
+  "name": "कहा कियो हम आय कर, कहा करेंगे पाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where have we come and what will we achieve? They have not achieved anything; they lost the essence of their journey.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहा कियो हम आय कर, कहा करेंगे पाय।\nइनके भये न उतके, चाले मूल गवाय।।१०७।।",
+    "translation": "Where have we come and what will we achieve? They have not achieved anything; they lost the essence of their journey.",
+    "meaning": "हम कहाँ आए हैं और क्या प्राप्त करेंगे? उन्होंने कुछ भी प्राप्त नहीं किया; उन्होंने अपनी यात्रा का सार खो दिया।",
+    "explanation": "इस दोहे में कबीर यह प्रश्न करते हैं कि हमारे जीवन की दिशा और उद्देश्य क्या हैं। जो लोग अपनी यात्रा का सार और लक्ष्य समझने में विफल रहते हैं, वे अंततः कुछ भी प्राप्त नहीं कर पाते। यह दोहा जीवन के वास्तविक उद्देश्य और सही मार्ग पर ध्यान देने की आवश्यकता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

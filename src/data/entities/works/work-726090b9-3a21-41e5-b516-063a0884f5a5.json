@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-726090b9-3a21-41e5-b516-063a0884f5a5",
+  "name": "जा तोको काटा बोवै, ताहि बोवै तू फूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To the one who sows thorns for you, sow flowers in return. You will receive flowers, while they will receive thorns.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा तोको काटा बोवै, ताहि बोवै तू फूल।\nतुझको फूल का फूल है, वाको है तिरशूल।।९८६।।",
+    "translation": "To the one who sows thorns for you, sow flowers in return. You will receive flowers, while they will receive thorns.",
+    "meaning": "जो तुम्हारे लिए कांटे बोता है, उसे तुम फूल बो। तुम्हें फूल मिलेंगे, जबकि उसे कांटे मिलेंगे।",
+    "explanation": "इस दोहे में कबीर दास जी अहिंसा और प्रेम की महत्ता को बताते हैं। वह कहते हैं कि जो लोग आपके लिए बुराई और कठिनाइयाँ उत्पन्न करते हैं, उनके प्रति भी प्रेम और सद्भावना रखो। अगर तुम उनके लिए फूल बोओगे, तो तुम्हें भी फूल मिलेंगे, जबकि उन्हें उनके कर्मों का फल मिलेगा। यह दोहा हमें अहिंसा, प्रेम, और अच्छे कर्म करने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.895Z"
+  }
+}

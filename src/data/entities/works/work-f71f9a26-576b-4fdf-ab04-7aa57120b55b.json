@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f71f9a26-576b-4fdf-ab04-7aa57120b55b",
+  "name": "कबीर सब जग हंडिया, मांदल कंधि चढ़ाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the whole world is like a clay pot carried on a shoulder. Without Hari, no one is truly ours, no matter how hard we try.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सब जग हंडिया, मांदल कंधि चढ़ाइ।\nहरि बिन अपना कोउ नहीं, देखे ठोकि बनाइ।।२३१।।",
+    "translation": "Kabir says, the whole world is like a clay pot carried on a shoulder. Without Hari, no one is truly ours, no matter how hard we try.",
+    "meaning": "कबीर कहते हैं, यह पूरी दुनिया कंधे पर रखी एक मिट्टी की हांडी के समान है। हरि के बिना, कोई भी वास्तव में हमारा नहीं है, चाहे हम कितनी भी कोशिश करें।",
+    "explanation": "कबीर इस दोहे में संसार की अस्थिरता और नश्वरता की बात करते हैं। वे कहते हैं कि यह पूरी दुनिया एक मिट्टी के बर्तन की तरह है, जिसे हम कंधे पर लेकर चलते हैं। लेकिन इस दुनिया में बिना भगवान हरि के, कोई भी स्थायी या सच में हमारा नहीं है। हम कितनी भी कोशिश कर लें, अंत में हमें यही समझना होगा कि सच्चा संबंध केवल भगवान से ही है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

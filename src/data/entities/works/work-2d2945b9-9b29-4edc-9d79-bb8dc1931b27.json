@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d2945b9-9b29-4edc-9d79-bb8dc1931b27",
+  "name": "बगुला हंस मनाइलै, नीरां रूकां बहोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The crane lures the swan, and the pure water remains stagnant. You sit bright, yet the love is not yours.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बगुला हंस मनाइलै, नीरां रूकां बहोर।\nया बैठा तू ऊजला, तासों प्रीति न तोर।।२१५७।।",
+    "translation": "The crane lures the swan, and the pure water remains stagnant. You sit bright, yet the love is not yours.",
+    "meaning": "बगुला हंस को बहलाता है, और स्वच्छ पानी स्थिर हो जाता है। तुम चमकदार होकर भी बैठे हो, फिर भी प्रेम तुम्हारा नहीं है।",
+    "explanation": "कबीर इस दोहे में बगुला और हंस के माध्यम से जीवन की कुछ कठिन सच्चाइयों को उजागर करते हैं। बगुला हंस को धोखा देता है, और शुद्ध पानी स्थिर हो जाता है, जो प्रतीकात्मक रूप से बताता है कि एक ओर प्रलोभन और दूसरी ओर स्थिरता का असर पड़ता है। चमकदार दिखना या बाहरी रूप से अच्छा होना, प्रेम और सच्चे संबंध को सुनिश्चित नहीं करता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.721Z"
+  }
+}

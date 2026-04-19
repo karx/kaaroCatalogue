@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5d270f5a-4ef0-4bab-9fb6-3a296bfbc049",
+  "name": "श्रोता तो घरहीं नहीं, वक्‍ता बकै सो बाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The listener is not even present at home; the speaker speaks only later. When the listener and speaker are in the same house, then only the essence of words is understood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "श्रोता तो घरहीं नहीं, वक्‍ता बकै सो बाद।\nश्रोता वक्‍ता एक घर, तब कथनी का स्‍वाद।।१३१८।।",
+    "translation": "The listener is not even present at home; the speaker speaks only later. When the listener and speaker are in the same house, then only the essence of words is understood.",
+    "meaning": "श्रोता घर पर भी नहीं होता; वक्ता केवल बाद में बोलते हैं। जब श्रोता और वक्ता एक ही घर में होते हैं, तभी शब्दों का सही अर्थ समझा जाता है।",
+    "explanation": "कबीर जी के अनुसार, जब वक्ता और श्रोता दोनों एक ही जगह होते हैं, तो ही शब्दों का वास्तविक अर्थ समझ में आता है। यदि दोनों अलग-अलग हैं, तो शब्दों का प्रभाव और समझ अधूरी रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.811Z"
+  }
+}

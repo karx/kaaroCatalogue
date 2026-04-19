@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f09c9bb1-bd80-4081-92a2-7afe57f9616f",
+  "name": "कबीर हरि-रस बरसिया, गिरि परवत बनराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the nectar of God's name rains down on mountains, forests, and wilderness, but it only collects where there is a suitable place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरि-रस बरसिया, गिरि परवत बनराय।\nनीर निवानु ठाहरै, ना वह छापर डाय।।५४७।।",
+    "translation": "Kabir says, the nectar of God's name rains down on mountains, forests, and wilderness, but it only collects where there is a suitable place.",
+    "meaning": "कबीर कहते हैं, भगवान के नाम का अमृत पर्वतों, जंगलों और वीरानों पर बरसता है, लेकिन वह केवल वहीं ठहरता है जहां उपयुक्त स्थान होता है।",
+    "explanation": "इस दोहे में संत कबीर जी भगवान के नाम और उसकी महिमा के बारे में बता रहे हैं। वे कहते हैं कि भगवान का नाम और उसकी कृपा सभी जगहों पर बरसती है, लेकिन वह केवल वहीं ठहरती है जहां उसे स्वीकार करने की क्षमता और पात्रता हो। यह दोहा हमें भगवान की कृपा के प्रति संवेदनशील और ग्रहणशील बनने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.468Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ea7b372f-c0da-472f-be0c-233fe833873c",
+  "name": "मूरख को समुझावते, ज्ञान गांठ का जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who tries to explain to a fool, knowledge gets tied up. Coal does not get cleaned; new soap is needed for the mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूरख को समुझावते, ज्ञान गांठ का जाइ।\nकोयला होइ न ऊजरो, नव मन साबुन लाइ।।१६४४।।",
+    "translation": "One who tries to explain to a fool, knowledge gets tied up. Coal does not get cleaned; new soap is needed for the mind.",
+    "meaning": "मूर्ख को समझाने की कोशिश करने पर, ज्ञान गाँठ में फंस जाता है। कोयला साफ नहीं होता; नए साबुन की जरूरत होती है मन को।",
+    "explanation": "कबीर इस दोहे में मूर्ख को ज्ञान समझाने की व्यर्थता को दर्शाते हैं। उन्होंने कहा कि जैसे कोयला साफ नहीं होता, वैसे ही मूर्ख को समझाना भी बेकार है और नई सोच की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.510Z"
+  }
+}

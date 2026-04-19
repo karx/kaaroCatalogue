@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2c3d784f-a5ff-4e46-82ad-5fb549f98f94",
+  "name": "पीर सबन को एकसी, मूरख जानैं नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint is the same for all, but the ignorant do not understand. They cut their own throats, yet why don't they go to heaven?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पीर सबन को एकसी, मूरख जानैं नाहिं।\nअपना गला कटायक, भिश्‍त बसै क्‍यों नाहिं।।२२५८।।",
+    "translation": "The saint is the same for all, but the ignorant do not understand. They cut their own throats, yet why don't they go to heaven?",
+    "meaning": "पीर सभी के लिए एक समान है, लेकिन मूर्ख इसे नहीं समझते। वे अपना गला काटते हैं, फिर भी वे स्वर्ग क्यों नहीं जाते?",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि सच्चे संत सभी के लिए एक समान होते हैं, लेकिन मूर्ख लोग इसे नहीं समझते। वे अपने कर्मों से खुद को ही नुकसान पहुंचाते हैं, परंतु फिर भी उन्हें स्वर्ग नहीं मिलता। यह दोहा लोगों को धर्म के वास्तविक मर्म को समझने की प्रेरणा देता है, बजाय इसके कि वे अंधविश्वास और गलतफहमियों में पड़कर अपने जीवन को कष्ट में डालें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.346Z"
+  }
+}

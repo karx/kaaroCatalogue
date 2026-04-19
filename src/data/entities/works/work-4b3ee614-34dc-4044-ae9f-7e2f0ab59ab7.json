@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4b3ee614-34dc-4044-ae9f-7e2f0ab59ab7",
+  "name": "तन में शीतल शब्द है, बोले वचन रसाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Within the body, there are soothing words and the speech is pleasant. Kabir says, such a saint cannot be touched by time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन में शीतल शब्द है, बोले वचन रसाल।\nकहैं कबीर ता साधु को, गंजि सकै न काल।।३४५।।",
+    "translation": "Within the body, there are soothing words and the speech is pleasant. Kabir says, such a saint cannot be touched by time.",
+    "meaning": "शरीर में शीतल शब्द होते हैं, और वचन रसयुक्त होते हैं। कबीर कहते हैं, ऐसा साधु काल द्वारा छुआ नहीं जा सकता।।",
+    "explanation": "इस दोहे में कबीरदास ने ऐसे साधु का वर्णन किया है जिनकी बातें शीतल और रसपूर्ण होती हैं। इस प्रकार का साधु समय के प्रभाव से अछूता रहता है। इसका मतलब है कि एक सच्चा साधु अपने आंतरिक शीतलता और ज्ञान से काल के प्रभाव से परे होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.393Z"
+  }
+}

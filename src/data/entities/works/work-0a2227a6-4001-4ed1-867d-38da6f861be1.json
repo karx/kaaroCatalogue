@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a2227a6-4001-4ed1-867d-38da6f861be1",
+  "name": "पंच तत्त्‍व को पूतरा, जुक्ति रची मैं कीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body made of five elements, I have composed the logic. I ask you, scholars, which is greater, the word or the life?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंच तत्त्‍व को पूतरा, जुक्ति रची मैं कीव।\nमैं तोहिं पूछौ पंडिता, शब्‍द बड़ा की जीव।।१५८३।।",
+    "translation": "The body made of five elements, I have composed the logic. I ask you, scholars, which is greater, the word or the life?",
+    "meaning": "पंच तत्वों से बना शरीर, मैंने तर्क को सहेजा है। मैं आपसे पूछता हूँ, विद्वानों, शब्द बड़ा है या जीवन?",
+    "explanation": "कबीर इस दोहे में जीवन और शब्द के बीच अंतर और उनके महत्व की चर्चा कर रहे हैं। उन्होंने कहा कि पंच तत्वों से बने शरीर के तर्क को उन्होंने समझा है। वे विद्वानों से पूछते हैं कि क्या शब्द बड़ा है या जीवन। यह सवाल जीवन के वास्तविक मूल्य को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.211Z"
+  }
+}

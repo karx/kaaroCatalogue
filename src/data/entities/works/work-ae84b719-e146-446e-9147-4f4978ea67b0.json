@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ae84b719-e146-446e-9147-4f4978ea67b0",
+  "name": "प्राणी तो जिभ्‍या डिगो, क्षण क्षण बोले कुबोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The creature's tongue is restless, speaking nonsense every moment. The mind wanders aimlessly, and time gives it a push.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्राणी तो जिभ्‍या डिगो, क्षण क्षण बोले कुबोल।\nमन घाले भरमत फिरे, कालहिं देत हिंडोल।।१६०१।।",
+    "translation": "The creature's tongue is restless, speaking nonsense every moment. The mind wanders aimlessly, and time gives it a push.",
+    "meaning": "जीव की जीभ असंतुलित है, हर क्षण बेतुकी बातें करती है। मन अनिश्चित रूप से भटकता है, और समय उसे धक्का देता है।",
+    "explanation": "कबीर इस दोहे में मानव की अस्थिरता और समय के प्रभाव की बात करते हैं। जीव की जीभ स्थिर नहीं होती और निरंतर बेतुकी बातें करती है, जबकि मन भी अनिश्चितता में भटकता रहता है और समय उसे आगे धकेलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.501Z"
+  }
+}

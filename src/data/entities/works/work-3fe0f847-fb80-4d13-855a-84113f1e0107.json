@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3fe0f847-fb80-4d13-855a-84113f1e0107",
+  "name": "जो है जाका भावता, जदि तदि म‍िलसी आइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whatever one desires, it will come to them. Whoever you dedicate your body and mind to, they will never leave you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो है जाका भावता, जदि तदि म‍िलसी आइ।\nजाकौं तन मन सौंपिया, सो कबहूं छाड़ी न जाइ।।२२६८।।",
+    "translation": "Whatever one desires, it will come to them. Whoever you dedicate your body and mind to, they will never leave you.",
+    "meaning": "जो भी किसी को प्रिय होता है, वह उसे मिल जाता है। जिसे आपने अपने तन-मन से समर्पित किया है, वह आपको कभी नहीं छोड़ेगा।",
+    "explanation": "इस दोहे में कबीर जी इस सत्य को बताते हैं कि जिस व्यक्ति को आप अपने दिल से चाहते हैं, वह किसी न किसी तरह आपके जीवन में आता है। जब आप किसी को पूरे दिल से समर्पित हो जाते हैं, तो वह व्यक्ति या वह भावना आपको कभी नहीं छोड़ती। यह दोहा सच्ची भक्ति और समर्पण की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.350Z"
+  }
+}

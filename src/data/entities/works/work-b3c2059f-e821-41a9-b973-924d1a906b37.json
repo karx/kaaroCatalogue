@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b3c2059f-e821-41a9-b973-924d1a906b37",
+  "name": "कथा कीरतन करन की, जाके निसदिन रीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who engages daily in reciting and singing hymns, Kabir says, make love with such a devotee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कथा कीरतन करन की, जाके निसदिन रीत।\nकहैं कबीर ता दास सों, निश्‍च कीजै प्रीत।।९७२।।",
+    "translation": "One who engages daily in reciting and singing hymns, Kabir says, make love with such a devotee.",
+    "meaning": "जो व्यक्ति प्रतिदिन कथा और कीर्तन में लगा रहता है, कबीर कहते हैं, ऐसे भक्त के साथ प्रेम करो।",
+    "explanation": "इस दोहे में कबीर दास जी सत्संग और भक्तिभाव की बात कर रहे हैं। वह कहते हैं कि जो व्यक्ति नियमित रूप से भगवान की कथा और कीर्तन में संलग्न रहता है, वह सच्चा भक्त है। ऐसे भक्त के साथ प्रेम और स्नेह रखना चाहिए, क्योंकि वह ईश्वर के प्रति समर्पित होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.893Z"
+  }
+}

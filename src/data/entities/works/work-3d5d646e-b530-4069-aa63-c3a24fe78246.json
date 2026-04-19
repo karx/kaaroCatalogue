@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d5d646e-b530-4069-aa63-c3a24fe78246",
+  "name": "फूटी आँख विवेक की, लखे न संत-असंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "With the eye of wisdom gone blind, one cannot distinguish between the saint and the non-saint. The one who is surrounded by ten or twenty followers is considered a great soul.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "फूटी आँख विवेक की, लखे न संत-असंत।\nजाके संग दस-बीस हैं, ताको नाम महंत।।५२।।",
+    "translation": "With the eye of wisdom gone blind, one cannot distinguish between the saint and the non-saint. The one who is surrounded by ten or twenty followers is considered a great soul.",
+    "meaning": "जब विवेक की दृष्टि बंद हो जाती है, तब संत और असंत में फर्क करना मुश्किल होता है। जिस व्यक्ति के साथ दस-बीस लोग होते हैं, उसे महंत माना जाता है।",
+    "explanation": "इस दोहे में संत कबीर ने सच्चे संत और दिखावे के संत के बीच भेद को उजागर किया है। उन्होंने कहा कि जब विवेक की आंखें अंधी होती हैं, तब हम सच्चे संत और असंत में फर्क नहीं कर सकते, और लोग केवल संख्या देखकर किसी को महान मान लेते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

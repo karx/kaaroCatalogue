@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c2415ef8-9fda-4dbf-a02b-da01043134e2",
+  "name": "aaj yun mauj-dar-mauj gham tham gaya is tarah gham-zadon ko qarar aa gaya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/aaj-yuun-mauj-dar-mauj-gam-tham-gayaa-is-tarah-gam-zadon-ko-qaraar-aa-gayaa-faiz-ahmad-faiz-ghazals-1",
+    "retrievedAt": "2026-01-04T19:46:19.209Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/aaj-yuun-mauj-dar-mauj-gam-tham-gayaa-is-tarah-gam-zadon-ko-qaraar-aa-gayaa-faiz-ahmad-faiz-ghazals-1"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\naaj yuuñ mauj-dar-mauj ġham tham gayā is tarah ġham-zadoñ ko qarār aa gayā\njaise ḳhush-bū-e-zulf-e-bahār aa ga.ī jaise paiġhām-e-dīdār-e-yār aa gayā\njis kī dīd-o-talab vahm samjhe the ham rū-ba-rū phir sar-e-rahguzār aa gayā\nsub.h-e-fardā ko phir dil tarasne lagā umr-e-rafta tirā e'tibār aa gayā\nrut badalne lagī rañg-e-dil dekhnā rañg-e-gulshan se ab haal khultā nahīñ\nzaḳhm chhalkā koī yā koī gul khilā ashk umDe ki abr-e-bahār aa gayā\nḳhūn-e-ushshāq se jaam bharne lage dil sulagne lage daaġh jalne lage\nmahfil-e-dard phir rañg par aa ga.ī phir shab-e-ārzū par nikhār aa gayā\nsarfaroshī ke andāz badle ga.e dāvat-e-qatl par maqtal-e-shahr meñ\nDaal kar koī gardan meñ tauq aa gayā laad kar koī kāñdhe pe daar aa gayā\n'faiz' kyā jāniye yaar kis aas par muntazir haiñ ki lā.egā koī ḳhabar\nmai-kashoñ par huā mohtasib mehrbāñ dil-figāroñ pe qātil ko pyaar aa gayā\naaj yun mauj-dar-mauj gham tham gaya is tarah gham-zadon ko qarar aa gaya\njaise KHush-bu-e-zulf-e-bahaar aa gai jaise paigham-e-didar-e-yar aa gaya\njis ki did-o-talab wahm samjhe the hum ru-ba-ru phir sar-e-rahguzar aa gaya\nsubh-e-farda ko phir dil tarasne laga umr-e-rafta tera e'tibar aa gaya\nrut badalne lagi rang-e-dil dekhna rang-e-gulshan se ab haal khulta nahin\nzaKHm chhalka koi ya koi gul khila ashk umDe ki abr-e-bahaar aa gaya\nKHun-e-ushshaq se jam bharne lage dil sulagne lage dagh jalne lage\nmahfil-e-dard phir rang par aa gai phir shab-e-arzu par nikhaar aa gaya\nsarfaroshi ke andaz badle gae dawat-e-qatl par maqtal-e-shahr mein\nDal kar koi gardan mein tauq aa gaya lad kar koi kandhe pe dar aa gaya\n'faiz' kya jaaniye yar kis aas par muntazir hain ki laega koi KHabar\nmai-kashon par hua mohtasib mehrban dil-figaron pe qatil ko pyar aa gaya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nآج یوں موج در موج غم تھم گیا اس طرح غم زدوں کو قرار آ گیا\nجیسے خوشبوئے زلف بہار آ گئی جیسے پیغام دیدار یار آ گیا\nجس کی دید و طلب وہم سمجھے تھے ہم رو بہ رو پھر سر رہ گزار آ گیا\nصبح فردا کو پھر دل ترسنے لگا عمر رفتہ ترا اعتبار آ گیا\nرت بدلنے لگی رنگ دل دیکھنا رنگ گلشن سے اب حال کھلتا نہیں\nزخم چھلکا کوئی یا کوئی گل کھلا اشک امڈے کہ ابر بہار آ گیا\nخون عشاق سے جام بھرنے لگے دل سلگنے لگے داغ جلنے لگے\nمحفل درد پھر رنگ پر آ گئی پھر شب آرزو پر نکھار آ گیا\nسرفروشی کے انداز بدلے گئے دعوت قتل پر مقتل شہر میں\nڈال کر کوئی گردن میں طوق آ گیا لاد کر کوئی کاندھے پہ دار آ گیا\nفیضؔ کیا جانیے یار کس آس پر منتظر ہیں کہ لائے گا کوئی خبر\nمے کشوں پر ہوا محتسب مہرباں دل فگاروں پہ قاتل کو پیار آ گیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nआज यूँ मौज-दर-मौज ग़म थम गया इस तरह ग़म-ज़दों को क़रार आ गया\nजैसे ख़ुश-बू-ए-ज़ुल्फ़-ए-बहार आ गई जैसे पैग़ाम-ए-दीदार-ए-यार आ गया\nजिस की दीद-ओ-तलब वहम समझे थे हम रू-ब-रू फिर सर-ए-रहगुज़ार आ गया\nसुब्ह-ए-फ़र्दा को फिर दिल तरसने लगा उम्र-ए-रफ़्ता तिरा ए'तिबार आ गया\nरुत बदलने लगी रंग-ए-दिल देखना रंग-ए-गुलशन से अब हाल खुलता नहीं\nज़ख़्म छलका कोई या कोई गुल खिला अश्क उमडे कि अब्र-ए-बहार आ गया\nख़ून-ए-उश्शाक़ से जाम भरने लगे दिल सुलगने लगे दाग़ जलने लगे\nमहफ़िल-ए-दर्द फिर रंग पर आ गई फिर शब-ए-आरज़ू पर निखार आ गया\nसरफ़रोशी के अंदाज़ बदले गए दावत-ए-क़त्ल पर मक़्तल-ए-शहर में\nडाल कर कोई गर्दन में तौक़ आ गया लाद कर कोई काँधे पे दार आ गया\n'फ़ैज़' क्या जानिए यार किस आस पर मुंतज़िर हैं कि लाएगा कोई ख़बर\nमय-कशों पर हुआ मोहतसिब मेहरबाँ दिल-फ़िगारों पे क़ातिल को प्यार आ गया",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:01.071Z"
+  }
+}

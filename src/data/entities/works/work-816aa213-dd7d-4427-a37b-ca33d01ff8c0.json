@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-816aa213-dd7d-4427-a37b-ca33d01ff8c0",
+  "name": "सब काहू का लीजिये, सांचा शब्‍द निहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Take the essence from all; do not focus on superficial words. Do not show partiality, Kabir advises.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब काहू का लीजिये, सांचा शब्‍द निहार।\nपक्षपात ना कीजिये, कहै कबीर बिचार।।२२०९।।",
+    "translation": "Take the essence from all; do not focus on superficial words. Do not show partiality, Kabir advises.",
+    "meaning": "सभी से सार लें; superficial शब्दों पर ध्यान न दें। पक्षपात न करें, कबीर की सलाह है।",
+    "explanation": "इस दोहे में संत कबीर जी सभी से सार तत्व को लेने की सलाह देते हैं, बजाय इसके कि हम सतही शब्दों पर ध्यान दें। वे पक्षपात करने से मना करते हैं और सच्चाई की खोज में निष्पक्षता को प्रोत्साहित करते हैं। यह दोहा सच्चाई को समझने में निष्पक्षता और गहराई की आवश्यकता की बात करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.079Z"
+  }
+}

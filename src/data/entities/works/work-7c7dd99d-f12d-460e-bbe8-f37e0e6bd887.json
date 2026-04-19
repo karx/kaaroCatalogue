@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c7dd99d-f12d-460e-bbe8-f37e0e6bd887",
+  "name": "हदिया सेतो हद रहो, बेहदिया बेहद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The limited person remains within limits, while the infinite person remains infinite. Just as the medicine is suited to the disease, so is the spiritual solution to the condition.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हदिया सेतो हद रहो, बेहदिया बेहद।\nजो जैसा तहा रोगिया, तहा तैसी औषद।।२२२९।।",
+    "translation": "The limited person remains within limits, while the infinite person remains infinite. Just as the medicine is suited to the disease, so is the spiritual solution to the condition.",
+    "meaning": "सीमित व्यक्ति सीमाओं में ही रहता है, जबकि अनंत व्यक्ति अनंत में रहता है। जैसे औषधि रोग के अनुसार होती है, वैसे ही आध्यात्मिक समाधान स्थिति के अनुसार होता है।",
+    "explanation": "इस दोहे में कबीर जी यह सिखाते हैं कि सीमित व्यक्ति सीमाओं में ही बंधा रहता है, जबकि अनंत व्यक्ति अनंतता में रहता है। यह भी दर्शाते हैं कि जैसे औषधि रोग के अनुसार होती है, वैसे ही आध्यात्मिक समाधान भी व्यक्ति की स्थिति के अनुसार होता है। यह बताता है कि हर स्थिति और व्यक्ति के लिए आध्यात्मिक मार्ग और समाधान अलग हो सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.085Z"
+  }
+}

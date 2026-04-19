@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-97f050dd-6f51-488b-a3c3-d60dac0ddb43",
+  "name": "निरन्‍तर बासी निरमला, शून स्‍थूल सो निनार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The constant, pure essence is beyond form, like the river Ganga flowing from east to west, bringing immense light.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निरन्‍तर बासी निरमला, शून स्‍थूल सो निनार।\nपूरब गंगा पश्चिम बहावै, पेखे बहु उजियार।।२२२०।।",
+    "translation": "The constant, pure essence is beyond form, like the river Ganga flowing from east to west, bringing immense light.",
+    "meaning": "अविरल, निर्मल तत्व रूप से परे है, जैसे गंगा नदी पूरब से पश्चिम की ओर बहती है, बहुत अधिक प्रकाश लाती है।",
+    "explanation": "इस दोहे में कबीर जी यह बताते हैं कि वास्तविक, शुद्ध तत्व रूप से परे होता है, जैसे गंगा नदी का बहाव जो एक दिशा से दूसरी दिशा की ओर जाता है और बहुत अधिक प्रकाश लाता है। यह बताता है कि दिव्यता और शुद्धता का अनुभव वास्तविकता से परे है और यह लगातार अवलोकन और ध्यान की स्थिति में समझा जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.082Z"
+  }
+}

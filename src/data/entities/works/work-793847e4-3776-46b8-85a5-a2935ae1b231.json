@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-793847e4-3776-46b8-85a5-a2935ae1b231",
+  "name": "दान दिए धन ना घटे, नदी न घटे नीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Giving away wealth does not decrease it, just as water does not decrease in a river. See this with your own eyes, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दान दिए धन ना घटे, नदी न घटे नीर।\nअपनी आँखों देख लो, यूँ क्या कहे कबीर।।१८।।",
+    "translation": "Giving away wealth does not decrease it, just as water does not decrease in a river. See this with your own eyes, says Kabir.",
+    "meaning": "दान देने से धन घटता नहीं है, जैसे नदी में जल कम नहीं होता। इसे अपनी आँखों से देख लो, ऐसा कबीर कहते हैं।",
+    "explanation": "इस दोहे में संत कबीर उदारता और दान की महिमा बताते हैं। वह कहते हैं कि दान करने से धन की कमी नहीं होती, जैसे नदी का जल देने से कम नहीं होता। यह हमें उदार बनने और बिना किसी भय के दान करने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d4afeb94-a5b2-48eb-a893-c52fe3b12f17",
+  "name": "सुमिरण की सुधि यौं करो, ज्‍यौं गागर पनिहारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Rememberance should be done like a water-carrier with a pitcher. The mind should constantly remain in that remembrance, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरण की सुधि यौं करो, ज्‍यौं गागर पनिहारि।\nहालै डोलै सुरति में, कहैं कबीर विचारि।।७८१।।",
+    "translation": "Rememberance should be done like a water-carrier with a pitcher. The mind should constantly remain in that remembrance, says Kabir.",
+    "meaning": "स्मरण ऐसा करना चाहिए जैसे पानी भरने वाला गागर को ध्यान से ले जाता है। मन को हमेशा उसी स्मरण में स्थिर रखना चाहिए, कबीर कहते हैं।",
+    "explanation": "इस दोहे में कबीर ने पानी भरने वाले की तरह ध्यान और स्मरण की बात की है। जैसे पानी भरने वाला गागर को ध्यान से ले जाता है, वैसे ही मन को सच्चे स्मरण में स्थिर रखना चाहिए। यह दोहा ���त्मा की निरंतरता और स्थिरता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.817Z"
+  }
+}

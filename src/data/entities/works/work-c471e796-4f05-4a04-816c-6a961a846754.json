@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c471e796-4f05-4a04-816c-6a961a846754",
+  "name": "उड़गण और सुधाकरा, बसत नीर के संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The moon and the nectar reside with the water. Similarly, a saint lives in the world but is not caught in its traps.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उड़गण और सुधाकरा, बसत नीर के संग।\nयों साधु संसार में, कबीर पड़त न फंद।।६१३।।",
+    "translation": "The moon and the nectar reside with the water. Similarly, a saint lives in the world but is not caught in its traps.",
+    "meaning": "चाँद और अमृत पानी के साथ रहते हैं। इसी प्रकार, संत संसार में रहते हैं, लेकिन इसके फंदों में नहीं फंसते।",
+    "explanation": "संतों की स्थिति ऐसी होती है कि वे संसार में रहते हुए भी उसकी बुराइयों और समस्याओं से अछूते रहते हैं। जैसे चाँद और अमृत पानी में रहते हैं, लेकिन स्वयं स्वच्छ और अद्वितीय होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

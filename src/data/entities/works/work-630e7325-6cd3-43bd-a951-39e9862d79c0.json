@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-630e7325-6cd3-43bd-a951-39e9862d79c0",
+  "name": "सोइ-सोइ नाच नचाइये, जेहि निबहे गुरु प्रेम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Dance with the same devotion that the Guru instills. Kabir says that without love for the Guru, no place is secure or well-off.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोइ-सोइ नाच नचाइये, जेहि निबहे गुरु प्रेम।\nकहै कबीर गुरु प्रेम बिन, कतहुँ कुशल नहि क्षेम।।२५८।।",
+    "translation": "Dance with the same devotion that the Guru instills. Kabir says that without love for the Guru, no place is secure or well-off.",
+    "meaning": "वैसे ही नाचिए जैसे गुरु प्रेम को जाग्रत करते हैं। कबीर कहते हैं कि गुरु के प्रेम के बिना कोई भी जगह सुरक्षित या सुखी नहीं है।",
+    "explanation": "कबीर इस दोहे में गुरु के प्रति प्रेम और समर्पण की महत्वता को बताते हैं। वे कहते हैं कि जैसा गुरु का प्रेम होता है, वैसे ही प्रेम से नाचना चाहिए। गुरु के प्रेम के बिना कोई भी स्थान सुरक्षित या सुखी नहीं होता। यह दोहा गुरु के प्रेम और उसकी आवश्यकता को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

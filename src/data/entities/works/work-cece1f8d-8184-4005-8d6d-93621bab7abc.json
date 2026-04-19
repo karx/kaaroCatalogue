@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cece1f8d-8184-4005-8d6d-93621bab7abc",
+  "name": "सबै रसायन हम पिया, प्रेम समान न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All elixirs are consumed by us, but none are equal to love. Even the insignificant body becomes golden when love resides in it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सबै रसायन हम पिया, प्रेम समान न कोय।\nरंचक तन में संचरै, सब तन कंचन होय।।८१२।।",
+    "translation": "All elixirs are consumed by us, but none are equal to love. Even the insignificant body becomes golden when love resides in it.",
+    "meaning": "हमने सभी रसायन पी लिए हैं, लेकिन प्रेम के समान कोई नहीं है। जब प्रेम तन में समा जाता है, तब शरीर भी कंचन (सोने) के समान हो जाता है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की अत्यधिक मूल्यवानता को बताया है। उन्होंने कहा कि सभी औषधियां और रसायन प्रेम के बराबर नहीं हैं। प्रेम से भरपूर शरीर सोने के समान हो जाता है, इसका अर्थ है कि प्रेम के माध्यम से शरीर और आत्मा को पूर्णता और अमृत प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.078Z"
+  }
+}

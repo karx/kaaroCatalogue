@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e965add4-29f5-4daa-9acc-8805bc2ffe0b",
+  "name": "कासी काठैं घर करैं, पीवैं निर्मल नीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Building a home in Kashi, drinking pure water. But liberation is not possible without God's name, so says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कासी काठैं घर करैं, पीवैं निर्मल नीर।\nमुकति नहीं हरि नांव बिन, यौं कहै दास कबीर।।२०७८।।",
+    "translation": "Building a home in Kashi, drinking pure water. But liberation is not possible without God's name, so says Kabir.",
+    "meaning": "काशी में घर बनाकर, निर्मल जल पीते हैं। लेकिन भगवान के नाम के बिना मुक्ति संभव नहीं, कबीर ऐसा कहते हैं।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि केवल काशी जैसे पवित्र स्थान पर घर बनाने और शुद्ध जल पीने से मुक्ति नहीं मिलती। भगवान के नाम का सच्चे मन से जाप ही मुक्ति का मार्ग है। कबीर इस दोहे में आडंबर और कर्मकांड से दूर रहने और भगवान के सच्चे स्मरण का संदेश देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.094Z"
+  }
+}

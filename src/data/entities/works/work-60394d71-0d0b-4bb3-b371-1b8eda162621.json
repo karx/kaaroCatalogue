@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60394d71-0d0b-4bb3-b371-1b8eda162621",
+  "name": "अधिक सनेही माछरी, दूजा अलप सनेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fish with more love is more attached, while the other has less affection. When it is burning in water, it abandons the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अधिक सनेही माछरी, दूजा अलप सनेह।\nजबही जलते बीछुरै, तबही त्‍यागै देह।।७९७।।",
+    "translation": "The fish with more love is more attached, while the other has less affection. When it is burning in water, it abandons the body.",
+    "meaning": "जो मछली अधिक प्रेम करती है, वह अधिक लगाव में रहती है, जबकि दूसरी मछली कम प्रेम करती है। जब यह जलती है, तो इसे शरीर का त्याग करना पड़ता है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की गहराई और उसका शरीर पर प्रभाव दर्शाया है। उन्होंने उदाहरण के रूप में मछली का उपयोग किया है, जो अधिक प्रेम में होने पर शरीर का त्याग करती है जब उसे जलन होती है। यह दर्शाता है कि प्रेम की तीव्रता व्यक्ति के जीवन के अंतिम क्षणों में भी प्रभावित करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.819Z"
+  }
+}

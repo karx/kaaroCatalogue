@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d11fcef9-1f95-46f2-8482-155db35f7d14",
+  "name": "जल ज्यों प्यारा माहरी, लोभी प्यारा दाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Water is dear to the fish, wealth is dear to the greedy, the child is dear to the mother, and devotion is dear to the devotee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जल ज्यों प्यारा माहरी, लोभी प्यारा दाम।\nमाता प्यारे बारका, भगति प्यारा नाम।।४९।।",
+    "translation": "Water is dear to the fish, wealth is dear to the greedy, the child is dear to the mother, and devotion is dear to the devotee.",
+    "meaning": "पानी मछली के लिए प्रिय होता है, धन लालची के लिए प्रिय होता है, बच्चा माँ के लिए प्रिय होता है, और भक्ति भक्त के लिए प्रिय होती है।",
+    "explanation": "इस दोहे में संत कबीर ने विभिन्न चीजों की प्रियता को दर्शाया है। जैसे मछली के लिए पानी आवश्यक है, धन लालचियों के लिए महत्वपूर्ण है, और माँ के लिए उसका बच्चा प्रिय होता है, वैसे ही भक्ति भी भक्त के लिए अत्यंत प्रिय और महत्वपूर्ण होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

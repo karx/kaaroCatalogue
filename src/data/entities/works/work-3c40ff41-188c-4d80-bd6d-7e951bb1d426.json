@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3c40ff41-188c-4d80-bd6d-7e951bb1d426",
+  "name": "सत गंठी कोपीन है, साध न मानै संक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A true ascetic wears a simple loincloth and does not indulge in doubts. Even Indra, the king of gods, seems like a pauper in comparison to one who is intoxicated with the divine name of Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सत गंठी कोपीन है, साध न मानै संक।\nराम अमलि माता रहै, ते गिणं इंद्र कौ रंक।।१८९४।।",
+    "translation": "A true ascetic wears a simple loincloth and does not indulge in doubts. Even Indra, the king of gods, seems like a pauper in comparison to one who is intoxicated with the divine name of Ram.",
+    "meaning": "सच्चा साधु सिर्फ एक लंगोटी पहनता है और संदेह में नहीं पड़ता। भगवान राम के नाम में लीन व्यक्ति के सामने इंद्र भी गरीब लगते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी सच्चे साधु के गुणों का वर्णन करते हैं। वे कहते हैं कि सच्चा साधु वह है जो सांसारिक मोह-माया से दूर रहता है और केवल परमात्मा में लीन रहता है। उसका बाहरी आडंबर या वस्त्र साधारण होता है, लेकिन उसकी आंतरिक स्थिति इतनी उच्च होती है कि इंद्र जैसे देवता भी उसके सामने तुच्छ लगते हैं। यह दोहा सच्ची साधुता और आंतरिक समृद्धि का महत्व दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.977Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0edb764-2ad7-485a-b2d4-4c3812d724fc",
+  "name": "अति हठ मत कर बावरे, हठ से बात न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not be excessively stubborn, for stubbornness does not help. As the cloth gets wet, it becomes heavier.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अति हठ मत कर बावरे, हठ से बात न होय।\nज्‍यूं ज्‍यूं भीजे कामरी, त्‍यूं त्‍यूं भारी होय।।९४८।।",
+    "translation": "Do not be excessively stubborn, for stubbornness does not help. As the cloth gets wet, it becomes heavier.",
+    "meaning": "अधिक जिद मत करो, जिद से बात नहीं बनती। जैसे कपड़ा गीला होता जाता है, वैसे ही उसका वजन बढ़ता है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि अत्यधिक जिद और हठ करने से कोई फायदा नहीं होता। यह केवल स्थिति को और कठिन बनाता है, जैसे गीला कपड़ा भारी हो जाता है। कबीर की यह सलाह है कि हमें जिद करने की बजाय लचीलापन और समझदारी से काम लेना चाहिए, ताकि समस्याओं को हल किया जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.629Z"
+  }
+}

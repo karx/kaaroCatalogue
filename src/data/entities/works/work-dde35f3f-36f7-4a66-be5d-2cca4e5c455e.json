@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dde35f3f-36f7-4a66-be5d-2cca4e5c455e",
+  "name": "माली आवत देखि के, कलियां करें पुकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing the gardener arrive, the buds call out. Picking the blooming flowers, time is our chance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माली आवत देखि के, कलियां करें पुकार।\nफूली फूली चुनि लई, कल हमारी बार।।१०७६।।",
+    "translation": "Seeing the gardener arrive, the buds call out. Picking the blooming flowers, time is our chance.",
+    "meaning": "माली को आते देख, कलियां पुकार उठती हैं। खिलते फूलों को चुनते हुए, समय हमारा अवसर होता है।",
+    "explanation": "इस दोहे में कबीर ने जीवन और समय के महत्व पर ध्यान केंद्रित किया है। जैसे ही माली आता है, कलियां खिल उठती हैं, और समय का सही उपयोग करने पर ध्यान देना आवश्यक होता है। यह समय की महत्वता और सही मौके का लाभ उठाने की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1a790fc9-eb9c-4153-88d2-ed93dde1701d",
+  "name": "Jana Gana Mana",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Jana_Gana_Mana",
+    "retrievedAt": "2026-01-04T18:38:55.927Z"
+  }
+}

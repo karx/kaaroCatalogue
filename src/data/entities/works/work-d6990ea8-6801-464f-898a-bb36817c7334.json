@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d6990ea8-6801-464f-898a-bb36817c7334",
+  "name": "भगति बिगाड़ी कांमियां, इंद्री के रे स्‍वादि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion ruined by desires, for the taste of senses. The diamond was lost from the hand, the life wasted in vain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भगति बिगाड़ी कांमियां, इंद्री के रे स्‍वादि।\nहीरा खोया हाथ से, जनम गंवाया बादि।।२०५२।।",
+    "translation": "Devotion ruined by desires, for the taste of senses. The diamond was lost from the hand, the life wasted in vain.",
+    "meaning": "इंद्रियों के स्वाद के लिए, कामनाओं ने भक्ति को बिगाड़ दिया। हीरा हाथ से खो गया, और जीवन व्यर्थ चला गया।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि इंद्रियों के सुखों के पीछे भागते हुए, मनुष्य अपनी भक्ति को नष्ट कर देता है। यह जीवन हीरे के समान अनमोल है, लेकिन कामनाओं की पूर्ति के चक्कर में हम इसे व्यर्थ कर देते हैं। यहाँ कबीर हमें इंद्रियों के वशीभूत न होकर जीवन को सही दिशा में लगाने की सीख देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.086Z"
+  }
+}

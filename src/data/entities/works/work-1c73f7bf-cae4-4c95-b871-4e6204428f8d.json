@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1c73f7bf-cae4-4c95-b871-4e6204428f8d",
+  "name": "परारब्‍ध पहिले बना, पीछे बना सरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Destiny is formed first, and then the body is created. Kabir finds it astonishing that the mind does not remain steadfast.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "परारब्‍ध पहिले बना, पीछे बना सरीर।\nकबीर अचम्‍भा है यही, मन नहिं बांधे धीर।।१३३९।।",
+    "translation": "Destiny is formed first, and then the body is created. Kabir finds it astonishing that the mind does not remain steadfast.",
+    "meaning": "किस्मत पहले बनती है, और फिर शरीर का निर्माण होता है। कबीर को आश्चर्य है कि मन स्थिर नहीं रहता।",
+    "explanation": "कबीर जी के अनुसार, भाग्य पहले निर्धारित होता है और शरीर उसके बाद बनता है। यह आश्चर्यजनक है कि मन इन सभी घटनाओं के बावजूद स्थिर नहीं रहता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.815Z"
+  }
+}

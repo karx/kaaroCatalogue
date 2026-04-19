@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c25e649-922c-45d8-bfb9-ea4078920802",
+  "name": "जो गुरु बसै बनारसी, सीष समुन्दर तीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If the Guru resides in Varanasi, the disciple's head is like the shore of the ocean. He does not forget even for a moment the qualities of the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो गुरु बसै बनारसी, सीष समुन्दर तीर।\nएक पलक बिसरे नहीं, जो गुण होय शरीर।।२५२।।",
+    "translation": "If the Guru resides in Varanasi, the disciple's head is like the shore of the ocean. He does not forget even for a moment the qualities of the Guru.",
+    "meaning": "यदि गुरु वाराणसी में निवास करते हैं, तो शिष्य का सिर समुद्र के तट की तरह है। वह गुरु के गुणों को एक पल के लिए भी नहीं भूलता।",
+    "explanation": "इस दोहे में कबीर गुरु के प्रति श्रद्धा और ध्यान की बात करते हैं। वे कहते हैं कि अगर गुरु वाराणसी में निवास करते हैं, तो शिष्य के सिर का महत्व समुद्र के तट के समान होता है। शिष्य गुरु के गुणों को कभी नहीं भूलता। यह दोहा गुरु के प्रति अडिग श्रद्धा और ध्यान को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.127Z"
+  }
+}

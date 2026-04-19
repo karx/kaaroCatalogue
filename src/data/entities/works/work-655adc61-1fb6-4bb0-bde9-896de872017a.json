@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-655adc61-1fb6-4bb0-bde9-896de872017a",
+  "name": "अंमृत बरिसै हीरा निपजै, घंटा पड टकसाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Nectar rains down and diamonds are forged, the bell rings in the mint. Kabir became a torchbearer, transcending the mundane.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंमृत बरिसै हीरा निपजै, घंटा पड टकसाल।\nकबीर जलाहा भया पारषू, अनभै उतरया पार।।१८२६।।",
+    "translation": "Nectar rains down and diamonds are forged, the bell rings in the mint. Kabir became a torchbearer, transcending the mundane.",
+    "meaning": "अमृत बरसता है और हीरे निखरते हैं, घंटा टकसाल में बजता है। कबीर एक जलाहा बन गए, जो संसार के पार उतर गया।",
+    "explanation": "इस दोहे में कबीर ने दिव्य परिवर्तन और आत्मिक उन्नति की बात की है। अमृत और हीरे का प्रतीक शुद्धता और मूल्य की ओर इशारा करता है, जबकि घंटा टकसाल में बजने का संकेत साधना के माध्यम से दिव्यता की प्राप्ति है। कबीर ने सांसारिक बंधनों से ऊपर उठकर आत्मिक ज्ञान प्राप्त किया।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.628Z"
+  }
+}

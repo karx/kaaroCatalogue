@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-03b60102-8716-4cb3-bd70-182001cd28e2",
+  "name": "तबही गुरु प्रिय बैन कहि, शीष बढ़ी चित प्रीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Then say that the Guru is beloved; the mind and heart are uplifted. Always remain in the presence of the Guru; never turn your back on them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तबही गुरु प्रिय बैन कहि, शीष बढ़ी चित प्रीत।\nते रहियें गुरु सनमुखाँ, कबहूँ न दीजै पीठ।।२६०।।",
+    "translation": "Then say that the Guru is beloved; the mind and heart are uplifted. Always remain in the presence of the Guru; never turn your back on them.",
+    "meaning": "तब कहो कि गुरु प्रिय हैं; मन और दिल ऊँचा होता है। हमेशा गुरु की उपस्थिति में रहें; कभी भी उनका पीठ न दिखाएँ।",
+    "explanation": "इस दोहे में कबीर गुरु की उपस्थिति के महत्व और उनके प्रति श्रद्धा की बात करते हैं। वे बताते हैं कि गुरु प्रिय हैं, और उनके सामने रहना मन और दिल को ऊँचा करता है। गुरु के सामने हमेशा रहना चाहिए और उन्हें कभी भी पीठ नहीं दिखानी चाहिए। यह दोहा गुरु के प्रति अटूट श्रद्धा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

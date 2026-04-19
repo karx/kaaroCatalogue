@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d63f0c5d-d738-410b-b2f9-7ffc6bcdcd36",
+  "name": "कबीर तष्‍टा टोगणीं, लीए फिरै सुभाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the spinning top (of desires) is carried everywhere by nature. They do not recognize the name of Ram, only desire for brass.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर तष्‍टा टोगणीं, लीए फिरै सुभाइ।\nराम नांम चीन्‍हैं नहीं, पीतलि ही कै चाइ।।२०६६।।",
+    "translation": "Kabir says, the spinning top (of desires) is carried everywhere by nature. They do not recognize the name of Ram, only desire for brass.",
+    "meaning": "कबीर कहते हैं, इच्छाओं की नाचती हुई गेंद को व्यक्ति अपनी प्रकृति से हर जगह ले जाता है। वे राम के नाम को नहीं पहचानते, उन्हें केवल पीतल की चाह होती है।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि मनुष्य अपनी इच्छाओं के कारण हमेशा भटकता रहता है। वह अपने जीवन में भगवान राम के नाम की महत्ता को नहीं समझ पाता, क्योंकि उसकी पूरी ऊर्जा सांसारिक वस्तुओं, जैसे पीतल (धन) की चाह में ही खर्च हो जाती है। कबीर यहाँ संसार की मोह-माया से ऊपर उठने और सच्चे राम नाम को पहचानने की प्रेरणा देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.091Z"
+  }
+}

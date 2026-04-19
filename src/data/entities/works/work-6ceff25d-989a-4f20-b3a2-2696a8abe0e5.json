@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6ceff25d-989a-4f20-b3a2-2696a8abe0e5",
+  "name": "कहा कियौ हम आइ करि, कहा कहैंगे जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What did we do upon coming here, and what will we say upon leaving? We neither belonged here nor there, and we lost our way.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहा कियौ हम आइ करि, कहा कहैंगे जाइ।\nइत के भये न उत के, चलित भूल गँवाइ।।२०९।।",
+    "translation": "What did we do upon coming here, and what will we say upon leaving? We neither belonged here nor there, and we lost our way.",
+    "meaning": "यहां आकर हमने क्या किया और यहां से जाने के बाद हम क्या कहेंगे? हम न इधर के रहे न उधर के, और अपना रास्ता खो दिया।",
+    "explanation": "इस दोहे में कबीर जी जीवन के उद्देश्य और मानव के भ्रमित होने की स्थिति का वर्णन करते हैं। वे कहते हैं कि हम इस संसार में आकर उलझ जाते हैं और जीवन का वास्तविक मार्ग भूल जाते हैं। न हम सांसारिक सुखों में संतुष्ट होते हैं और न ही आध्यात्मिक उन्नति प्राप्त कर पाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

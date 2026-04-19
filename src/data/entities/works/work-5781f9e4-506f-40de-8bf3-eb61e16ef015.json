@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5781f9e4-506f-40de-8bf3-eb61e16ef015",
+  "name": "जाता है सो जांण दे, तेरी दसा जाई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Let go of what is leaving; your situation will change. Just like a boatman who finds many new passengers, you too will encounter many new opportunities.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाता है सो जांण दे, तेरी दसा जाई।\nखेवटिया की नाव ज्‍यूं, घणों मिलेंगे आई।।१८९२।।",
+    "translation": "Let go of what is leaving; your situation will change. Just like a boatman who finds many new passengers, you too will encounter many new opportunities.",
+    "meaning": "जो जा रहा है उसे जाने दो; तुम्हारी स्थिति बदल जाएगी। जैसे एक नाविक को कई नए यात्री मिलते हैं, वैसे ही तुम्हें भी कई नए अवसर मिलेंगे।",
+    "explanation": "इस दोहे में कबीरदास जी हमें सिखाते हैं कि हमें उन चीजों को जाने देना चाहिए जो हमारे जीवन से जा रही हैं, क्योंकि समय के साथ हमारी स्थिति भी बदल जाएगी। जिस प्रकार नाविक को हर बार नए यात्री मिलते हैं, वैसे ही जीवन में हमें भी नए अवसर मिलते हैं। यह दोहा जीवन के बदलावों को सहजता से स्वीकार करने और अतीत से चिपके न रहने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.977Z"
+  }
+}

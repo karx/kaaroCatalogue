@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d773d1e7-82de-4973-a71e-53643eebd2fa",
+  "name": "मन फाटै बायक बुरै, मिटै सगाई साक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind's flaws are removed through good company, and unity is established. Just as milk turns into curd, so does unity come from the mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन फाटै बायक बुरै, मिटै सगाई साक।\nजैसे दूध तिवास को, उलटि हुआ जो आक।।११४६।।",
+    "translation": "The mind's flaws are removed through good company, and unity is established. Just as milk turns into curd, so does unity come from the mind.",
+    "meaning": "मन की खामियां अच्छी संगत से दूर होती हैं और एकता स्थापित होती है। जैसे दूध दही में बदल जाता है, वैसे ही एकता मन से आती है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि मन की खामियों को अच्छी संगत से दूर किया जा सकता है और एकता प्राप्त की जा सकती है। उन्होंने इसे दूध के दही में बदलने के उदाहरण से समझाया है, जो दर्शाता है कि मन की स्थिति भी इसी तरह बदल सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.707Z"
+  }
+}

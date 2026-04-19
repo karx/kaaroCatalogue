@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d57ba128-f343-4ff4-a11b-1871ceecc486",
+  "name": "पकी हुई खेती देखि के, गरब किया किसान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing the ripe harvest, the farmer feels proud. Only when the bag is full will he understand.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पकी हुई खेती देखि के, गरब किया किसान।\nअजहुँ झोला बहुत है, घर आवै तब जान।।४२७।।",
+    "translation": "Seeing the ripe harvest, the farmer feels proud. Only when the bag is full will he understand.",
+    "meaning": "पकी हुई फसल देखकर किसान गर्वित हो जाता है। जब झोला भर जाएगा, तब उसे समझ में आएगा।",
+    "explanation": "कबीर इस दोहे में गर्व और आत्ममूल्य के बारे में बात करते हैं। किसान को फसल की पकी हुई अवस्था देखकर गर्व होता है, लेकिन जब फसल पूरी तरह से एकत्रित होती है और झोला भर जाता है, तब वास्तविकता का एहसास होता है। यह दोहा हमें सिखाता है कि आत्ममूल्यता और गर्व केवल पूर्णता के बाद ही समझी जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

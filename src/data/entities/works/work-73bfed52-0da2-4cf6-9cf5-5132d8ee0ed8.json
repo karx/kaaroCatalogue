@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-73bfed52-0da2-4cf6-9cf5-5132d8ee0ed8",
+  "name": "ज्ञान कामना लौ गुनां, तन तरकस मन तीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Knowledge is the fire of desire, the body is the quiver and the mind is the arrow. True value flows from this, says Kabir, aiming at the target.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञान कामना लौ गुनां, तन तरकस मन तीर।\nभलका बहै है सारका, मारै हदफ कबीर।।२१३६।।",
+    "translation": "Knowledge is the fire of desire, the body is the quiver and the mind is the arrow. True value flows from this, says Kabir, aiming at the target.",
+    "meaning": "ज्ञान कामना की आग है, शरीर तरकस है और मन तीर है। सच्ची कीमत इसी से बहती है, कहता है कबीर, लक्ष्य को साधते हुए।",
+    "explanation": "इस दोहे में कबीर ने ज्ञान और उसकी शक्ति का वर्णन किया है। ज्ञान की तुलना एक आग से की गई है, जिसमें कामना को जलाया जाता है। शरीर को तरकस और मन को तीर की तरह मानते हुए, कबीर बताते हैं कि सच्ची कीमत तब होती है जब हम इस शक्ति को सही दिशा में लगाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.369Z"
+  }
+}

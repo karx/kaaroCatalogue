@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-96cc7d5e-a63f-40ff-bcf9-50bea1a0d1a3",
+  "name": "कर बंदगी विवेक की, भेष धरे सब कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Worship with wisdom, for everyone can wear a disguise. True devotion fades away where there is no wisdom in words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कर बंदगी विवेक की, भेष धरे सब कोय।\nसो बन्‍दगी बहि जान दे, जहां शब्‍द विवेक न होय।।१४७३।।",
+    "translation": "Worship with wisdom, for everyone can wear a disguise. True devotion fades away where there is no wisdom in words.",
+    "meaning": "विवेक के साथ बंदगी करो, क्योंकि भेष तो सभी धारण कर सकते हैं। जहां शब्दों में विवेक नहीं होता, वहां सच्ची भक्ति व्यर्थ हो जाती है।",
+    "explanation": "कबीर इस दोहे में सच्ची भक्ति का महत्व समझा रहे हैं। उनका कहना है कि भक्ति विवेक के साथ होनी चाहिए। केवल बाहरी भेष बदलने से कुछ नहीं होता। अगर भक्ति में विवेक नहीं है, तो वह केवल दिखावा बनकर रह जाती है। सच्ची भक्ति वह है जो ज्ञान और समझ के साथ की जाए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.657Z"
+  }
+}

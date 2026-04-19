@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c366a3bc-b0f6-472c-acf6-70f386792ccb",
+  "name": "अहं अगनि हिरदै जरै, गुरु सों चाहै मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fire of ego burns in the heart. Those who desire respect from the guru are invited by death as guests.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अहं अगनि हिरदै जरै, गुरु सों चाहै मान।\nतिनका जम न्‍यौता दिया, हो हमरे मिहमान।।१२४९।।",
+    "translation": "The fire of ego burns in the heart. Those who desire respect from the guru are invited by death as guests.",
+    "meaning": "अहंकार की आग दिल में जलती है। जो गुरु से मान चाहते हैं, उन्हें मृत्यु अतिथि की तरह आमंत्रित करती है।",
+    "explanation": "इस दोहे में कबीर ने अहंकार के दुष्परिणामों को दर्शाया है। अहंकार दिल में जलता रहता है और जो लोग गुरु से मान की चाह रखते हैं, वे मृत्यु के मेहमान बन जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.276Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-981010f3-cb59-4364-ab83-013269bb7afe",
+  "name": "दुख लेने जावै नहीं, आवै आचा बूच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One does not need to seek sorrow; it comes naturally. When happiness prevails, sorrow will leave.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुख लेने जावै नहीं, आवै आचा बूच।\nसुख का पहरा होगया, दुख करेगा कूच।।१३३६।।",
+    "translation": "One does not need to seek sorrow; it comes naturally. When happiness prevails, sorrow will leave.",
+    "meaning": "दुख को ढूंढने की आवश्यकता नहीं है; वह स्वाभाविक रूप से आता है। जब सुख प्रबल होता है, तो दुख चला जाता है।",
+    "explanation": "कबीर जी के अनुसार, दुख को खोजने की आवश्यकता नहीं है क्योंकि यह स्वाभाविक रूप से आता है। जब सुख प्रबल होता है, तो दुख अपने आप दूर हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.815Z"
+  }
+}

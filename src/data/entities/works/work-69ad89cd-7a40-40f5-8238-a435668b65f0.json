@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-69ad89cd-7a40-40f5-8238-a435668b65f0",
+  "name": "Lal Vakhs",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-lal-ded"
+  },
+  "inLanguage": "Kashmiri",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Lal_Vakhs",
+    "retrievedAt": "2026-01-04T18:39:20.395Z"
+  }
+}

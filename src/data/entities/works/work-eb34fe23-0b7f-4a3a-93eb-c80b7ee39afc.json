@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eb34fe23-0b7f-4a3a-93eb-c80b7ee39afc",
+  "name": "तिमिर गया रवि देखते, कुमति गयी गुरु ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When darkness departs, the sun is visible; similarly, ignorance leaves with the knowledge of the guru. Goodness fades with excessive greed, and devotion is lost with pride.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तिमिर गया रवि देखते, कुमति गयी गुरु ज्ञान।\nसुमति गयी अति लोभते, भक्ति गयी अभिमान।।७००।।",
+    "translation": "When darkness departs, the sun is visible; similarly, ignorance leaves with the knowledge of the guru. Goodness fades with excessive greed, and devotion is lost with pride.",
+    "meaning": "जब अंधकार समाप्त हो जाता है, तब सूर्य दिखाई देता है; इसी प्रकार, गुरु के ज्ञान से अज्ञान समाप्त हो जाता है। अत्यधिक लोभ से सच्ची सुमति भी चली जाती है, और अभिमान से भक्ति समाप्त हो जाती है।",
+    "explanation": "इस दोहे में कबीर ने भक्ति और मानसिकता के संबंध को स्पष्ट किया है। वे बताते हैं कि जैसे अंधकार हटने पर सूर्य की रोशनी दिखती है, वैसे ही गुरु के ज्ञान से अज्ञान समाप्त होता है। अत्यधिक लोभ और अभिमान जैसे दोष भक्ति के मार्ग में रुकावट डालते हैं। सच्ची भक्ति तभी संभव है जब इन दोषों को दूर किया जाए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

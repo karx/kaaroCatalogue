@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-abf4c834-cc3f-47ab-bf99-7885ae8584d7",
+  "name": "मा मारी धी घर करै, गऊ सो बच्‍छा खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mother dies, and the daughter-in-law manages the house, the cow eats the calf. If the Brahmin kills the drunkard, he goes to heaven.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मा मारी धी घर करै, गऊ सो बच्‍छा खाय।\nब्राह्मन मारै मदपिये, तो स्‍वर्गापुर जाय।।२१४८।।",
+    "translation": "The mother dies, and the daughter-in-law manages the house, the cow eats the calf. If the Brahmin kills the drunkard, he goes to heaven.",
+    "meaning": "माँ की मृत्यु होती है और बहू घर संभालती है, गाय बछड़े को खाती है। यदि ब्राह्मण मदपान करने वाले को मार दे, तो वह स्वर्ग में चला जाता है।",
+    "explanation": "इस दोहे में कबीर ने सामाजिक और धार्मिक परंपराओं की आलोचना की है। माँ की मृत्यु के बाद बहू घर की जिम्मेदारी संभालती है, और गाय अपने बछड़े को खा जाती है, जो एक विरोधाभास को दर्शाता है। ब्राह्मण द्वारा मदपान करने वाले को मारने का उल्लेख एक प्रकार की व्यंग्यात्मक टिप्पणी है, जो धार्मिक कर्मकांडों की वास्तविकता को उजागर करता है। यह दोहा सामाजिक और धार्मिक मान्यताओं पर सवाल उठाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.372Z"
+  }
+}

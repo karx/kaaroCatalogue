@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c23cca6a-514e-443b-93e2-c1a50aecc53c",
+  "name": "देश देशान्‍तर मैं फिरुं, मानुष बड़ा सुकाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Traveling from country to country, humanity finds great ease. Wherever there is happiness, there is also suffering.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "देश देशान्‍तर मैं फिरुं, मानुष बड़ा सुकाल।\nजा देख सुख उपजे, वाका पड़ा दुकाल।।५३८।।",
+    "translation": "Traveling from country to country, humanity finds great ease. Wherever there is happiness, there is also suffering.",
+    "meaning": "देश-देशांतर की यात्रा करने पर मनुष्य को बड़ा सुख मिलता है। जहाँ सुख देखने को मिलता है, वहीं दुख भी प्राप्त होता है।",
+    "explanation": "इस दोहे में कबीर जी यह व्यक्त करते हैं कि चाहे हम कितने भी देशों की यात्रा कर लें, अंततः मनुष्य को सुख और दुख दोनों का सामना करना पड़ता है। सुख की हर स्थिति के साथ दुख भी जुड़ा होता है, और यात्रा करने से जीवन के इस सत्य का अनुभव होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

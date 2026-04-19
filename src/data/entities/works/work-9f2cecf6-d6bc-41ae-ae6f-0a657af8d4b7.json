@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9f2cecf6-d6bc-41ae-ae6f-0a657af8d4b7",
+  "name": "भारी कहौं तो बहुडरौं, हलका कहूं तौ झूठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If I say it is heavy, then it becomes burdensome; if I say it is light, it seems false. I do not know the essence of Ram; I have never seen Him.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भारी कहौं तो बहुडरौं, हलका कहूं तौ झूठ।\nमैं का जाणी राम कूं, नैनूं कबहूं न दीठ।।१६३।।",
+    "translation": "If I say it is heavy, then it becomes burdensome; if I say it is light, it seems false. I do not know the essence of Ram; I have never seen Him.",
+    "meaning": "यदि मैं इसे भारी कहूं, तो यह बोझिल लगने लगता है; यदि हल्का कहूं, तो यह झूठा प्रतीत होता है। मैं राम की वास्तविकता को नहीं जानता; मैंने कभी उन्हें नहीं देखा।",
+    "explanation": "इस दोहे में कबीर सत्य और वास्तविकता की जटिलता को व्यक्त कर रहे हैं। वे बताते हैं कि सत्य को व्यक्त करना कठिन है क्योंकि यह या तो भारी या हल्का लग सकता है, और किसी को उसकी सच्चाई का पूरा ज्ञान नहीं होता। राम की वास्तविकता को जानने और समझने में उन्हें कठिनाई होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}
