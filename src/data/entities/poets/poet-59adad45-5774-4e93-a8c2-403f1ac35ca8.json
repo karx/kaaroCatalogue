@@ -1,0 +1,46 @@
+{
+  "@type": "Person",
+  "entityId": "poet-59adad45-5774-4e93-a8c2-403f1ac35ca8",
+  "name": "Javed Akhtar",
+  "additionalType": "Kavi",
+  "birthDate": "17 January 1945",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Mumbai, India"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Lyricist, Screenwriter"
+  },
+  "award": [
+    "Padma Shri (1999)",
+    "Padma Bhushan (2007)",
+    "Sahitya Akademi Award (2013)",
+    "National Film Awards"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Javed_Akhtar",
+    "https://www.rekhta.org/poets/javed-akhtar"
+  ],
+  "keywords": [
+    "Progressive Writers",
+    "Atheism",
+    "Screenwriter",
+    "Social Commentary"
+  ],
+  "era": "Modern",
+  "century": "20th-21st Century",
+  "literaryMovement": "Progressive Writers Movement",
+  "abstract": "A renowned poet, lyricist, and screenwriter. Coming from a lineage of poets, his work carries the legacy of the Progressive Writers Movement, blending social commentary with lyrical beauty.",
+  "majorWorks": [
+    "Tarkash",
+    "Lava",
+    "In Other Words"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/poets/javed-akhtar/profile",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

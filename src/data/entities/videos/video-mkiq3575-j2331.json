@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-j2331",
+  "name": "Buying fish is not for beginners",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT1M1S",
+  "embedUrl": "https://www.youtube.com/embed/bwSLDwnGOh8",
+  "contentUrl": "https://www.youtube.com/watch?v=bwSLDwnGOh8",
+  "uploadDate": "2024-04-18",
+  "thumbnailUrl": "https://i.ytimg.com/vi/bwSLDwnGOh8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "#shorts #standupcomedy #kerala",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

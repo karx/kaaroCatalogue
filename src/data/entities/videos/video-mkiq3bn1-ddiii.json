@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn1-ddiii",
+  "name": "Heat wave in London? #standupcomedy #sapanverma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT49S",
+  "embedUrl": "https://www.youtube.com/embed/WdFw9kq0HqY",
+  "contentUrl": "https://www.youtube.com/watch?v=WdFw9kq0HqY",
+  "uploadDate": "2025-05-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/WdFw9kq0HqY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

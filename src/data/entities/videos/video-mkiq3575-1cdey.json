@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-1cdey",
+  "name": "Same Shirt Shyam - Comedy Music Video",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT1M18S",
+  "embedUrl": "https://www.youtube.com/embed/yeYFjjmJkaI",
+  "contentUrl": "https://www.youtube.com/watch?v=yeYFjjmJkaI",
+  "uploadDate": "2020-11-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/yeYFjjmJkaI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Visit Reddy's Ready Made Shirt Shop for great offers and discounts.\n\n\n\nFollow @naveen.richard on Instagram\n\n#comedy #music #funny #comedymusic",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

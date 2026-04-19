@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn1-ldbwt",
+  "name": "Boman Irani on Chill Sesh | Full video out now #sapanverma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT50S",
+  "embedUrl": "https://www.youtube.com/embed/VFZRDqX6VA8",
+  "contentUrl": "https://www.youtube.com/watch?v=VFZRDqX6VA8",
+  "uploadDate": "2025-02-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/VFZRDqX6VA8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

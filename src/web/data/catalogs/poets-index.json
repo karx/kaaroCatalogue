@@ -17,6 +17,146 @@
   },
   "entities": [
     {
+      "@type": "Person",
+      "entityId": "poet-169823d3-d4f0-463c-8ca7-421f5eebf486",
+      "name": "Parveen Shakir",
+      "additionalType": "Kavi",
+      "birthDate": "24 November 1952",
+      "deathDate": "26 December 1994",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Islamabad, Pakistan"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Civil Servant"
+      },
+      "award": [
+        "Pride of Performance (1990)",
+        "Adamjee Literary Award (1976)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Parveen_Shakir",
+        "https://www.rekhta.org/poets/parveen-shakir"
+      ],
+      "keywords": [
+        "Feminism",
+        "Romance",
+        "Love",
+        "Separation",
+        "Khushbu"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Post-modernism",
+      "abstract": "A distinctive feminine voice in Urdu literature. She is best known for her poems that explore the female experience, romance, and the nuances of human relationships with great sensitivity.",
+      "majorWorks": [
+        "Khushbu",
+        "Sad Barg",
+        "Khud Kalami",
+        "Inkaar",
+        "Maah-e-Tamaam"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/poets/parveen-shakir/profile",
+        "retrievedAt": "2025-05-22T10:00:00.000Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-218835d1-ff1d-4979-9376-1093d466898e",
+      "name": "Bashir Badr",
+      "additionalType": "Kavi",
+      "birthDate": "15 February 1935",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Bhopal, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Academic"
+      },
+      "award": [
+        "Sahitya Akademi Award",
+        "Padma Shri"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Bashir_Badr",
+        "https://www.rekhta.org/poets/bashir-badr"
+      ],
+      "keywords": [
+        "Simple Diction",
+        "Love",
+        "Romance",
+        "Mushaira"
+      ],
+      "era": "Modern",
+      "century": "20th-21st Century",
+      "literaryMovement": "Modern Ghazal",
+      "abstract": "A popular poet known for his simple yet profound ghazals that resonate with the common man. His poetry often deals with themes of love, loss, and the human condition in a very accessible language.",
+      "majorWorks": [
+        "Ujaale Apani Yaadon Ke",
+        "Aas",
+        "Ikai",
+        "Image",
+        "Aahat"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/poets/bashir-badr/profile",
+        "retrievedAt": "2025-05-22T10:00:00.000Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-59adad45-5774-4e93-a8c2-403f1ac35ca8",
+      "name": "Javed Akhtar",
+      "additionalType": "Kavi",
+      "birthDate": "17 January 1945",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Lyricist, Screenwriter"
+      },
+      "award": [
+        "Padma Shri (1999)",
+        "Padma Bhushan (2007)",
+        "Sahitya Akademi Award (2013)",
+        "National Film Awards"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Javed_Akhtar",
+        "https://www.rekhta.org/poets/javed-akhtar"
+      ],
+      "keywords": [
+        "Progressive Writers",
+        "Atheism",
+        "Screenwriter",
+        "Social Commentary"
+      ],
+      "era": "Modern",
+      "century": "20th-21st Century",
+      "literaryMovement": "Progressive Writers Movement",
+      "abstract": "A renowned poet, lyricist, and screenwriter. Coming from a lineage of poets, his work carries the legacy of the Progressive Writers Movement, blending social commentary with lyrical beauty.",
+      "majorWorks": [
+        "Tarkash",
+        "Lava",
+        "In Other Words"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/poets/javed-akhtar/profile",
+        "retrievedAt": "2025-05-22T10:00:00.000Z"
+      }
+    },
+    {
       "entityId": "poet-ak-ramanujan",
       "name": "A.K. Ramanujan",
       "@type": "Person",
@@ -111,6 +251,53 @@
       }
     },
     {
+      "@type": "Person",
+      "entityId": "poet-amrita-pritam",
+      "name": "Amrita Pritam",
+      "additionalType": "Kavi",
+      "birthDate": "1919-08-31",
+      "deathDate": "2005-10-31",
+      "knowsLanguage": "Punjabi, Hindi",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Delhi, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Novelist, Essayist"
+      },
+      "award": [
+        "Sahitya Akademi Award (1956)",
+        "Jnanpith Award (1981)",
+        "Padma Vibhushan (2004)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Amrita_Pritam",
+        "https://www.rekhta.org/poets/amrita-pritam/profile"
+      ],
+      "keywords": [
+        "Progressive Writers",
+        "Partition",
+        "Feminism",
+        "Punjabi Literature"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Progressive Writers Movement",
+      "abstract": "Amrita Pritam was an Indian novelist, essayist and poet, who wrote in Punjabi and Hindi. She is considered the first prominent woman Punjabi poet, novelist, essayist and the leading 20th-century poet of the Punjabi language.",
+      "majorWorks": [
+        "Ajj Aakhaan Waris Shah Nu",
+        "Pinjar",
+        "Sunehade",
+        "Rasidi Ticket"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/poets/amrita-pritam/profile",
+        "retrievedAt": "2026-01-17T19:52:28.417Z"
+      }
+    },
+    {
       "entityId": "poet-andal",
       "name": "Andal",
       "@type": "Person",
@@ -139,6 +326,53 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Andal",
         "retrievedAt": "2026-01-04T18:42:04.063Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-b90af278-c831-40f8-8ff9-028ec1fc28ea",
+      "name": "Jaun Elia",
+      "additionalType": "Kavi",
+      "birthDate": "14 December 1931",
+      "deathDate": "8 November 2002",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Karachi, Pakistan"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Philosopher, Scholar"
+      },
+      "award": [
+        "Pride of Performance (2000)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Jaun_Elia",
+        "https://www.rekhta.org/poets/jaun-eliya"
+      ],
+      "keywords": [
+        "Nihilism",
+        "Skepticism",
+        "Love",
+        "Philosophy",
+        "Mushaira"
+      ],
+      "era": "Modern",
+      "century": "20th Century",
+      "literaryMovement": "Modern Urdu Poetry",
+      "abstract": "A Marxist poet and philosopher known for his unconventional ways and deep skepticism. His poetry often reflects nihilism, the pain of separation, and a critique of societal norms.",
+      "majorWorks": [
+        "Shayad",
+        "Yani",
+        "Lekin",
+        "Gumman",
+        "Goya"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/poets/jaun-eliya/profile",
+        "retrievedAt": "2025-05-22T10:00:00.000Z"
       }
     },
     {
@@ -263,6 +497,56 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Bulleh_Shah",
         "retrievedAt": "2026-01-04T18:42:04.063Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-dfb1579c-e3b3-4679-97bd-84c7ffa76ef1",
+      "name": "Gulzar",
+      "additionalType": "Kavi",
+      "birthDate": "18 August 1934",
+      "knowsLanguage": "Urdu",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Mumbai, India"
+      },
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet, Lyricist, Filmmaker"
+      },
+      "award": [
+        "Sahitya Akademi Award (2002)",
+        "Padma Bhushan (2004)",
+        "Dadasaheb Phalke Award (2013)",
+        "Jnanpith Award (2024)",
+        "Oscar (2009)",
+        "Grammy (2010)"
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Gulzar",
+        "https://www.rekhta.org/poets/gulzar"
+      ],
+      "keywords": [
+        "Triveni",
+        "Lyricist",
+        "Filmmaker",
+        "Imagery",
+        "Nostalgia"
+      ],
+      "era": "Modern",
+      "century": "20th-21st Century",
+      "literaryMovement": "Contemporary Urdu Poetry",
+      "abstract": "One of the most celebrated poets and lyricists of India. Known for his unique imagery, the invention of the 'Triveni' form, and his ability to bridge the gap between literary poetry and film lyrics.",
+      "majorWorks": [
+        "Triveni",
+        "Kuchh Aur Nazmein",
+        "Pukhraj",
+        "Raat Pashmine Ki"
+      ],
+      "source": {
+        "name": "Rekhta",
+        "url": "https://www.rekhta.org/poets/gulzar/profile",
+        "retrievedAt": "2025-05-22T10:00:00.000Z"
       }
     },
     {
@@ -1158,6 +1442,29 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
         "retrievedAt": "2026-01-04T18:42:04.063Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "poet-sarojini-naidu-ml9v5ufc",
+      "name": "Sarojini Naidu",
+      "additionalType": "Kavi",
+      "knowsLanguage": "Bengali",
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Poet"
+      },
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sarojini_Naidu"
+      ],
+      "abstract": "Sarojini Naidu (née Chattopadhyay) (Bengali pronunciation: [ʃɔrod͡ʒini]; 13 February 1879 – 2 March 1949) was an Indian political activist and poet who served as the first Governor of United Provinces, after India's independence. She played an important role in the Indian independence movement against the British Raj. She was the first Indian woman to be president of the Indian National Congress and appointed governor of a state.\nBorn in a Bengali family in Hyderabad, Naidu was educated in Madra",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+      "extractedAt": "2026-02-05T19:42:55.561Z",
+      "confidence": 0.6,
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+        "retrievedAt": "2026-02-05T19:42:55.572Z"
       }
     },
     {

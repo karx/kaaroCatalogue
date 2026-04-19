@@ -1,0 +1,27 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8a7e4390-1184-4292-a21a-26afcfa2f7f9",
+  "name": "Ajj Aakhaan Waris Shah Nu",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-amrita-pritam"
+  },
+  "inLanguage": "Punjabi",
+  "genre": "Nazm",
+  "dateCreated": "1947",
+  "abstract": "An elegy to the 18th-century Punjabi poet Waris Shah, expressing the anguish of the Partition of 1947.",
+  "content": {
+    "original": "Ajj aakhaan Waris Shah nu, kiton kabraan vichon bol,\nTe ajj kitab-e-ishq da koi agla varka phol.",
+    "translation": "Today, I call Waris Shah, “Speak from your grave,”\nAnd turn, today, the book of love’s next affectionate page."
+  },
+  "keywords": [
+    "Partition",
+    "Elegy",
+    "Waris Shah"
+  ],
+  "source": {
+    "name": "Academy of the Punjab in North America",
+    "url": "https://apnaorg.com/poetry/amrita/amrita1.html",
+    "retrievedAt": "2026-01-17T19:52:28.417Z"
+  }
+}

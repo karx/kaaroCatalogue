@@ -1,0 +1,50 @@
+{
+  "@type": "Person",
+  "entityId": "poet-dfb1579c-e3b3-4679-97bd-84c7ffa76ef1",
+  "name": "Gulzar",
+  "additionalType": "Kavi",
+  "birthDate": "18 August 1934",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Mumbai, India"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Lyricist, Filmmaker"
+  },
+  "award": [
+    "Sahitya Akademi Award (2002)",
+    "Padma Bhushan (2004)",
+    "Dadasaheb Phalke Award (2013)",
+    "Jnanpith Award (2024)",
+    "Oscar (2009)",
+    "Grammy (2010)"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Gulzar",
+    "https://www.rekhta.org/poets/gulzar"
+  ],
+  "keywords": [
+    "Triveni",
+    "Lyricist",
+    "Filmmaker",
+    "Imagery",
+    "Nostalgia"
+  ],
+  "era": "Modern",
+  "century": "20th-21st Century",
+  "literaryMovement": "Contemporary Urdu Poetry",
+  "abstract": "One of the most celebrated poets and lyricists of India. Known for his unique imagery, the invention of the 'Triveni' form, and his ability to bridge the gap between literary poetry and film lyrics.",
+  "majorWorks": [
+    "Triveni",
+    "Kuchh Aur Nazmein",
+    "Pukhraj",
+    "Raat Pashmine Ki"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/poets/gulzar/profile",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

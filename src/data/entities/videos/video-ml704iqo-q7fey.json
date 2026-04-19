@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-q7fey",
+  "name": "Palak Chips| Stand Up Comedy by Aditi Mittal (watch the full video on Amazon Mini TV)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT16S",
+  "embedUrl": "https://www.youtube.com/embed/QCrsyEvhvoQ",
+  "contentUrl": "https://www.youtube.com/watch?v=QCrsyEvhvoQ",
+  "uploadDate": "2022-01-09",
+  "thumbnailUrl": "https://i.ytimg.com/vi/QCrsyEvhvoQ/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

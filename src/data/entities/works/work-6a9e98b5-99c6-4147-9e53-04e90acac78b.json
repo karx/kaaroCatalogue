@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6a9e98b5-99c6-4147-9e53-04e90acac78b",
+  "name": "Chokher Bali",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Novel about relationships and society.",
+  "keywords": [],
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "retrievedAt": "2026-02-05T19:43:59.142Z"
+  }
+}

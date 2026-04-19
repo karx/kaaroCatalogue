@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704c2v-5dzdn",
+  "name": "Australia as an Indian #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT36S",
+  "embedUrl": "https://www.youtube.com/embed/6-8Sc-sLZFE",
+  "contentUrl": "https://www.youtube.com/watch?v=6-8Sc-sLZFE",
+  "uploadDate": "2025-09-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/6-8Sc-sLZFE/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

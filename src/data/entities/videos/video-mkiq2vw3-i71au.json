@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-i71au",
+  "name": "Atul Khatri on his trip to UK",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT3M34S",
+  "embedUrl": "https://www.youtube.com/embed/sjghO6IQQ18",
+  "contentUrl": "https://www.youtube.com/watch?v=sjghO6IQQ18",
+  "uploadDate": "2019-03-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/sjghO6IQQ18/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Atul Khatri talks about his trip to UK - from his NETFLIX special \"The Happiest Ending\" which is part of the \"Comedians Of The World\" series featuring 47 comedians from 13 countries around the world.\n\nFollow him on:\nTwitter: @one_by_two\nInstagram:@one_by_two\nFacebook.com/atulkhatricomedian",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

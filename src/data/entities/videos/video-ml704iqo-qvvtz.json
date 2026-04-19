@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-qvvtz",
+  "name": "Chipkali | Stand Up Comedy By Aditi Mittal",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT11M49S",
+  "embedUrl": "https://www.youtube.com/embed/VDXMvecgEGQ",
+  "contentUrl": "https://www.youtube.com/watch?v=VDXMvecgEGQ",
+  "uploadDate": "2022-02-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/VDXMvecgEGQ/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "A chipkali is watching you as you watch this video.\nThis video originally premiered on Amazon Mini TV on November 4th, 2020",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

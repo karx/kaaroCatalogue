@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-gayd5",
+  "name": "When Papa CJ told Vijay Mallya a Kingfisher joke",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT1M48S",
+  "embedUrl": "https://www.youtube.com/embed/FGwlE1_WZcM",
+  "contentUrl": "https://www.youtube.com/watch?v=FGwlE1_WZcM",
+  "uploadDate": "2016-08-02",
+  "thumbnailUrl": "https://i.ytimg.com/vi/FGwlE1_WZcM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Subscribe to YouTube channel (YOUTUBE.COM/PAPACJ)",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

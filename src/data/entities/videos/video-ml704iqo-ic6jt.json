@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-ic6jt",
+  "name": "Wompowerment | Stand Up Comedy By Aditi Mittal",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT11M",
+  "embedUrl": "https://www.youtube.com/embed/6vegt8eTCu0",
+  "contentUrl": "https://www.youtube.com/watch?v=6vegt8eTCu0",
+  "uploadDate": "2024-04-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/6vegt8eTCu0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "I won an award, but at what cost? \n\n\n#standupcomedy\n#aditimittal \n#Indianstandupcomedy",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

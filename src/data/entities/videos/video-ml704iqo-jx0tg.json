@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-jx0tg",
+  "name": "Aditi Mittal | Why women have a sense of humor| Stand Up Comedy| Girl Meets Mic| Netflix",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT5M32S",
+  "embedUrl": "https://www.youtube.com/embed/PXSA0ZQr_c4",
+  "contentUrl": "https://www.youtube.com/watch?v=PXSA0ZQr_c4",
+  "uploadDate": "2019-03-27",
+  "thumbnailUrl": "https://i.ytimg.com/vi/PXSA0ZQr_c4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "An extract from Aditi Mittal's second Netflix special \"Girl Meets Mic\" from the \"Comedians of the World\" series on Netflix. It's episode 2 of the \"India\" segment. In it Mittal talks about how she came to have a career in spite of the fact that women are said to have no sense of humor. (I know, she's",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

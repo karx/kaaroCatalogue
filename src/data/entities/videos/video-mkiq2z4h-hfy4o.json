@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-hfy4o",
+  "name": "Every Indian Must Watch - Papa CJ",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT5M48S",
+  "embedUrl": "https://www.youtube.com/embed/GCZtGK2xvGw",
+  "contentUrl": "https://www.youtube.com/watch?v=GCZtGK2xvGw",
+  "uploadDate": "2010-02-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/GCZtGK2xvGw/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "One of Papa CJ's first ever shows. http://www.PAPACJ.com",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-4rdq0",
+  "name": "SON IN LAW |Stand up comedy by Gaurav Gupta",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT12M3S",
+  "embedUrl": "https://www.youtube.com/embed/vABWkDVfhwc",
+  "contentUrl": "https://www.youtube.com/watch?v=vABWkDVfhwc",
+  "uploadDate": "2023-12-12",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vABWkDVfhwc/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

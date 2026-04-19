@@ -1,0 +1,23 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-65c6c425-85e3-4690-a6d5-6aac786e5aed",
+  "name": "Khushbu",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-169823d3-d4f0-463c-8ca7-421f5eebf486"
+  },
+  "inLanguage": "Urdu",
+  "dateCreated": "1976",
+  "genre": "Poetry Collection",
+  "abstract": "Parveen Shakir's first volume of poetry, which won the Adamjee Literary Award. It is celebrated for its fresh feminine perspective on love and romance.",
+  "keywords": [
+    "Ghazal",
+    "Free Verse",
+    "Romance"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ebooks/khushbu-parveen-shakir-ebooks",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

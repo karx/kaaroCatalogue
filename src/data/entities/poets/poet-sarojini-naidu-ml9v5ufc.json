@@ -1,0 +1,23 @@
+{
+  "@type": "Person",
+  "entityId": "poet-sarojini-naidu-ml9v5ufc",
+  "name": "Sarojini Naidu",
+  "additionalType": "Kavi",
+  "knowsLanguage": "Bengali",
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet"
+  },
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Sarojini_Naidu"
+  ],
+  "abstract": "Sarojini Naidu (née Chattopadhyay) (Bengali pronunciation: [ʃɔrod͡ʒini]; 13 February 1879 – 2 March 1949) was an Indian political activist and poet who served as the first Governor of United Provinces, after India's independence. She played an important role in the Indian independence movement against the British Raj. She was the first Indian woman to be president of the Indian National Congress and appointed governor of a state.\nBorn in a Bengali family in Hyderabad, Naidu was educated in Madra",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+  "extractedAt": "2026-02-05T19:42:55.561Z",
+  "confidence": 0.6,
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+    "retrievedAt": "2026-02-05T19:42:55.572Z"
+  }
+}

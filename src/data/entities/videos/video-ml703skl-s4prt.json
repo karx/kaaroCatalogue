@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703skl-s4prt",
+  "name": "TATOO ARTIST...",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT2M17S",
+  "embedUrl": "https://www.youtube.com/embed/fSapyYYOxzY",
+  "contentUrl": "https://www.youtube.com/watch?v=fSapyYYOxzY",
+  "uploadDate": "2025-04-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/fSapyYYOxzY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

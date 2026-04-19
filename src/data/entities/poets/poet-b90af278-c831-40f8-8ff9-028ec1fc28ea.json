@@ -1,0 +1,47 @@
+{
+  "@type": "Person",
+  "entityId": "poet-b90af278-c831-40f8-8ff9-028ec1fc28ea",
+  "name": "Jaun Elia",
+  "additionalType": "Kavi",
+  "birthDate": "14 December 1931",
+  "deathDate": "8 November 2002",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Karachi, Pakistan"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Philosopher, Scholar"
+  },
+  "award": [
+    "Pride of Performance (2000)"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Jaun_Elia",
+    "https://www.rekhta.org/poets/jaun-eliya"
+  ],
+  "keywords": [
+    "Nihilism",
+    "Skepticism",
+    "Love",
+    "Philosophy",
+    "Mushaira"
+  ],
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Modern Urdu Poetry",
+  "abstract": "A Marxist poet and philosopher known for his unconventional ways and deep skepticism. His poetry often reflects nihilism, the pain of separation, and a critique of societal norms.",
+  "majorWorks": [
+    "Shayad",
+    "Yani",
+    "Lekin",
+    "Gumman",
+    "Goya"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/poets/jaun-eliya/profile",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

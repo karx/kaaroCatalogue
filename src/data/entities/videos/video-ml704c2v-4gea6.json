@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704c2v-4gea6",
+  "name": "Zepto Blinkit Instamart need to stop #standupcomedy #sapanverma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT53S",
+  "embedUrl": "https://www.youtube.com/embed/lk-ytvzqmH0",
+  "contentUrl": "https://www.youtube.com/watch?v=lk-ytvzqmH0",
+  "uploadDate": "2025-05-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/lk-ytvzqmH0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

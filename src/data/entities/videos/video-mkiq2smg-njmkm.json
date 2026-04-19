@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-njmkm",
+  "name": "PAKISTANI AUDIENCE ...",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT1M49S",
+  "embedUrl": "https://www.youtube.com/embed/uZCCQG-WCMU",
+  "contentUrl": "https://www.youtube.com/watch?v=uZCCQG-WCMU",
+  "uploadDate": "2025-05-31",
+  "thumbnailUrl": "https://i.ytimg.com/vi/uZCCQG-WCMU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

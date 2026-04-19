@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-833a670f-48a3-4efa-ba6f-c68a3ab65895",
+  "name": "Mere To Giridhar Gopal",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-meera-bai"
+  },
+  "inLanguage": "Hindi",
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Devotional song dedicated to Krishna, rejecting all other relations.",
+  "keywords": [],
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Meera",
+    "retrievedAt": "2026-02-05T19:43:59.811Z"
+  }
+}

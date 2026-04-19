@@ -203,6 +203,37 @@
     },
     {
       "@type": "Person",
+      "entityId": "comedian-atul-khatri",
+      "name": "Atul Khatri",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Atul_Khatri",
+        "https://www.youtube.com/channel/UCoAkOJtcToS0piLQMO-W4uw"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Atul_Khatri",
+        "retrievedAt": "2026-01-17T19:50:50.448Z"
+      }
+    },
+    {
+      "@type": "Person",
       "entityId": "comedian-biswa-kalyan-rath",
       "name": "Biswa Kalyan Rath",
       "alternateName": [],
@@ -230,6 +261,37 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Biswa_Kalyan_Rath",
         "retrievedAt": "2026-01-04T21:11:03.490Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-gaurav-gupta",
+      "name": "Gaurav Gupta",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Gaurav_Gupta",
+        "https://www.youtube.com/channel/UCkv2ml-PB1ZKPGfR7XowRSA"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gaurav_Gupta",
+        "retrievedAt": "2026-01-17T19:50:46.131Z"
       }
     },
     {
@@ -395,6 +457,37 @@
     },
     {
       "@type": "Person",
+      "entityId": "comedian-karunesh-talwar",
+      "name": "Karunesh Talwar",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Karunesh_Talwar",
+        "https://www.youtube.com/channel/UCNJUhkpXnF1GcItcztJM-Ww"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karunesh_Talwar",
+        "retrievedAt": "2026-01-17T19:50:42.075Z"
+      }
+    },
+    {
+      "@type": "Person",
       "entityId": "comedian-kenny-sebastian",
       "name": "Kenny Sebastian",
       "alternateName": [],
@@ -483,6 +576,130 @@
         "name": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Manik_Mahna",
         "retrievedAt": "2026-01-04T21:14:30.900Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-ml704dnc-3bc2e",
+      "name": "Kapil Sharma",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)",
+        "https://www.youtube.com/channel/UC2RUMb_7GBCpTMV7JRbpc1w"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)",
+        "retrievedAt": "2026-02-03T19:38:26.713Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-ml704h1b-1ytkm",
+      "name": "Aditi Mittal",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Aditi_Mittal",
+        "https://www.youtube.com/channel/UCvdnX4xRyt3oTW4et446_Ow"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aditi_Mittal",
+        "retrievedAt": "2026-02-03T19:38:31.104Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-naveen-richard",
+      "name": "Naveen Richard",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Naveen_Richard",
+        "https://www.youtube.com/channel/UCbeVZIxcp11xpNuay_KCePg"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naveen_Richard",
+        "retrievedAt": "2026-01-17T19:51:02.757Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-papa-cj",
+      "name": "Papa CJ",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Papa_CJ",
+        "https://www.youtube.com/channel/UCkDOyxovpnojERnMVm9EKGg"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Papa_CJ",
+        "retrievedAt": "2026-01-17T19:50:54.683Z"
       }
     },
     {
@@ -673,6 +890,37 @@
     },
     {
       "@type": "Person",
+      "entityId": "comedian-sapan-verma",
+      "name": "Sapan Verma",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "en",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Sapan_Verma",
+        "https://www.youtube.com/channel/UCOu4kfKyeuZ5IibuVByvhgQ"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sapan_Verma",
+        "retrievedAt": "2026-01-17T19:51:10.936Z"
+      }
+    },
+    {
+      "@type": "Person",
       "entityId": "comedian-sorabh-pant",
       "name": "Sorabh Pant",
       "alternateName": [],
@@ -792,6 +1040,37 @@
         "name": "YouTube",
         "url": "https://www.youtube.com/@TaylorTomlinson",
         "retrievedAt": "2026-01-04T20:30:00.000Z"
+      }
+    },
+    {
+      "@type": "Person",
+      "entityId": "comedian-varun-grover",
+      "name": "Varun Grover",
+      "alternateName": [],
+      "additionalType": "Comedian",
+      "birthDate": "",
+      "knowsLanguage": "hi",
+      "homeLocation": null,
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Stand-up Comedian"
+      },
+      "award": [],
+      "genre": [],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Varun_Grover_(writer)",
+        "https://www.youtube.com/channel/UCDE7MoDdJwleaIAd3qFJF1A"
+      ],
+      "keywords": [],
+      "verified": false,
+      "abstract": "",
+      "nationality": "",
+      "yearsActive": "",
+      "socialMedia": {},
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Varun_Grover_(writer)",
+        "retrievedAt": "2026-01-17T19:49:46.439Z"
       }
     },
     {

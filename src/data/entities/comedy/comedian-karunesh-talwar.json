@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-karunesh-talwar",
+  "name": "Karunesh Talwar",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Karunesh_Talwar",
+    "https://www.youtube.com/channel/UCNJUhkpXnF1GcItcztJM-Ww"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Karunesh_Talwar",
+    "retrievedAt": "2026-01-17T19:50:42.075Z"
+  }
+}

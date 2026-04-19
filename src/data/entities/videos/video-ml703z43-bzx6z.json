@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703z43-bzx6z",
+  "name": "Mental Math - Papa CJ on Campus",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT1M18S",
+  "embedUrl": "https://www.youtube.com/embed/Ft0VcdK9SPg",
+  "contentUrl": "https://www.youtube.com/watch?v=Ft0VcdK9SPg",
+  "uploadDate": "2018-12-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Ft0VcdK9SPg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

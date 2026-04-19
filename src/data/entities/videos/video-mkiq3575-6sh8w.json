@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-6sh8w",
+  "name": "Crow Propaganda",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT45S",
+  "embedUrl": "https://www.youtube.com/embed/-2C4d3GnBeU",
+  "contentUrl": "https://www.youtube.com/watch?v=-2C4d3GnBeU",
+  "uploadDate": "2024-05-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/-2C4d3GnBeU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "#shorts #standupcomedy",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

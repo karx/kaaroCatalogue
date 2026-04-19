@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703z43-7lobb",
+  "name": "Comedian Papa CJ inspires the youth with a very humorous Q&A",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT44M49S",
+  "embedUrl": "https://www.youtube.com/embed/C5ZhRfbcUwQ",
+  "contentUrl": "https://www.youtube.com/watch?v=C5ZhRfbcUwQ",
+  "uploadDate": "2014-06-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/C5ZhRfbcUwQ/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Papa CJ speaks at Josh Talks 2014 (this talk is 95% interactive)\nTheme: Get inspired - Question Limits - Dream\n\nI was honoured to be invited to speak at an event to inspire the youth. I made my 'speech' a completely interactive session. If you do manage to get through such a long clip and enjoy it, ",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

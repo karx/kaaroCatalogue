@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-i4h9a",
+  "name": "KITCHEN ALAG  | CROWD WORK COMEDY BY GAURAV GUPTA",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT5M49S",
+  "embedUrl": "https://www.youtube.com/embed/fTWMWlA88eg",
+  "contentUrl": "https://www.youtube.com/watch?v=fTWMWlA88eg",
+  "uploadDate": "2025-04-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/fTWMWlA88eg/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

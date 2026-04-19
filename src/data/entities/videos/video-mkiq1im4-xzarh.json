@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq1im4-xzarh",
+  "name": "Official Trailer || Varun Grover's Screenwriting Course || FrontRow",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-varun-grover"
+  },
+  "duration": "PT1M50S",
+  "embedUrl": "https://www.youtube.com/embed/LucnkeA3VIk",
+  "contentUrl": "https://www.youtube.com/watch?v=LucnkeA3VIk",
+  "uploadDate": "2021-11-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/LucnkeA3VIk/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The screenwriting course I designed for FrontRow is LIVE now. Very excited to see how many of these fundas (some time tested and a lot many experimental) help writers.\n\nCourse Link: https://link.frontrow.co.in/e/Varun_YouTube \n\n#GetFrontRow #LearnScreenwriting #DoWhatYouLove",
+  "channelTitle": "Varun Grover",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Person",
+  "entityId": "poet-218835d1-ff1d-4979-9376-1093d466898e",
+  "name": "Bashir Badr",
+  "additionalType": "Kavi",
+  "birthDate": "15 February 1935",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Bhopal, India"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Academic"
+  },
+  "award": [
+    "Sahitya Akademi Award",
+    "Padma Shri"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Bashir_Badr",
+    "https://www.rekhta.org/poets/bashir-badr"
+  ],
+  "keywords": [
+    "Simple Diction",
+    "Love",
+    "Romance",
+    "Mushaira"
+  ],
+  "era": "Modern",
+  "century": "20th-21st Century",
+  "literaryMovement": "Modern Ghazal",
+  "abstract": "A popular poet known for his simple yet profound ghazals that resonate with the common man. His poetry often deals with themes of love, loss, and the human condition in a very accessible language.",
+  "majorWorks": [
+    "Ujaale Apani Yaadon Ke",
+    "Aas",
+    "Ikai",
+    "Image",
+    "Aahat"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/poets/bashir-badr/profile",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

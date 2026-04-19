@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-nsm9d",
+  "name": "Rohan Joshi Live Stream",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT29S",
+  "embedUrl": "https://www.youtube.com/embed/hs3soti-Mwo",
+  "contentUrl": "https://www.youtube.com/watch?v=hs3soti-Mwo",
+  "uploadDate": "2021-11-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/hs3soti-Mwo/hqdefault.jpg",
+  "genre": "Live Performance",
+  "description": "",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

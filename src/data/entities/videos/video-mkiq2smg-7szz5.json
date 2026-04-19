@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-7szz5",
+  "name": "construction equipments",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT1M25S",
+  "embedUrl": "https://www.youtube.com/embed/vzfEyYkfV_I",
+  "contentUrl": "https://www.youtube.com/watch?v=vzfEyYkfV_I",
+  "uploadDate": "2025-09-15",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vzfEyYkfV_I/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

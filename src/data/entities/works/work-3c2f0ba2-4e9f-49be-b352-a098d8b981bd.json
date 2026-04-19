@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3c2f0ba2-4e9f-49be-b352-a098d8b981bd",
+  "name": "jarahat-tohfa almas-armughan dagh-e-jigar hadiya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mirza-ghalib"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/jaraahat-tohfa-almaas-armugaan-daag-e-jigar-hadiya-mirza-ghalib-ghazals?sort=year-asc",
+    "retrievedAt": "2026-01-04T20:24:32.348Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/jaraahat-tohfa-almaas-armugaan-daag-e-jigar-hadiya-mirza-ghalib-ghazals?sort=year-asc"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\njarāhat-tohfa almās-armuġhāñ dāġh-e-jigar hadiya\nmubārakbād 'asad' ġham-ḳhvār-e-jān-e-dardmand aayā\njunūñ garm intizār o naala betābī kamand aayā\nsuvaidā tā ba-lab zanjīrī-e-dūd-e-sipand aayā\nmah-e-aḳhtar-fashāñ kī bahr istiqbāl āñkhoñ se\ntamāshā kishvar-e-ā.īna meñ ā.īna-band aayā\ntaġhāful bad-gumānī balki merī saḳht-jānī se\nnigāh-e-be-hijāb-e-nāz ko bīm-e-gazand aayā\nfazā-e-ḳhanda-e-gul tang o zauq-e-aish be-parvā\nfarāġhat-gāh-e-āġhosh-e-vidā-e-dil-pasand aayā\nadam hai ḳhair-ḳhvāh-e-jalva ko zindān-e-betābi\nḳhirām-e-nāz barq-e-ḳhirman-e-sa.ī-e-sipand aayā\njarahat-tohfa almas-armughan dagh-e-jigar hadiya\nmubarakbaad 'asad' gham-KHwar-e-jaan-e-dardmand aaya\njunun garm intizar o nala betabi kamand aaya\nsuwaida ta ba-lab zanjiri-e-dud-e-sipand aaya\nmah-e-aKHtar-fashan ki bahr istiqbaal aankhon se\ntamasha kishwar-e-aina mein aaina-band aaya\ntaghaful bad-gumani balki meri saKHt-jaani se\nnigah-e-be-hijab-e-naz ko bim-e-gazand aaya\nfaza-e-KHanda-e-gul tang o zauq-e-aish be-parwa\nfaraghat-gah-e-aghosh-e-wida-e-dil-pasand aaya\nadam hai KHair-KHwah-e-jalwa ko zindan-e-betabi\nKHiram-e-naz barq-e-KHirman-e-sai-e-sipand aaya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\njarāhat-tohfa almās-armuġhāñ dāġh-e-jigar hadiya\nmubārakbād 'asad' ġham-ḳhvār-e-jān-e-dardmand aayā\njunūñ garm intizār o naala betābī kamand aayā\nsuvaidā tā ba-lab zanjīrī-e-dūd-e-sipand aayā\nmah-e-aḳhtar-fashāñ kī bahr istiqbāl āñkhoñ se\ntamāshā kishvar-e-ā.īna meñ ā.īna-band aayā\ntaġhāful bad-gumānī balki merī saḳht-jānī se\nnigāh-e-be-hijāb-e-nāz ko bīm-e-gazand aayā\nfazā-e-ḳhanda-e-gul tang o zauq-e-aish be-parvā\nfarāġhat-gāh-e-āġhosh-e-vidā-e-dil-pasand aayā\nadam hai ḳhair-ḳhvāh-e-jalva ko zindān-e-betābi\nḳhirām-e-nāz barq-e-ḳhirman-e-sa.ī-e-sipand aayā\njarahat-tohfa almas-armughan dagh-e-jigar hadiya\nmubarakbaad 'asad' gham-KHwar-e-jaan-e-dardmand aaya\njunun garm intizar o nala betabi kamand aaya\nsuwaida ta ba-lab zanjiri-e-dud-e-sipand aaya\nmah-e-aKHtar-fashan ki bahr istiqbaal aankhon se\ntamasha kishwar-e-aina mein aaina-band aaya\ntaghaful bad-gumani balki meri saKHt-jaani se\nnigah-e-be-hijab-e-naz ko bim-e-gazand aaya\nfaza-e-KHanda-e-gul tang o zauq-e-aish be-parwa\nfaraghat-gah-e-aghosh-e-wida-e-dil-pasand aaya\nadam hai KHair-KHwah-e-jalwa ko zindan-e-betabi\nKHiram-e-naz barq-e-KHirman-e-sai-e-sipand aaya",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\njarāhat-tohfa almās-armuġhāñ dāġh-e-jigar hadiya\nmubārakbād 'asad' ġham-ḳhvār-e-jān-e-dardmand aayā\njunūñ garm intizār o naala betābī kamand aayā\nsuvaidā tā ba-lab zanjīrī-e-dūd-e-sipand aayā\nmah-e-aḳhtar-fashāñ kī bahr istiqbāl āñkhoñ se\ntamāshā kishvar-e-ā.īna meñ ā.īna-band aayā\ntaġhāful bad-gumānī balki merī saḳht-jānī se\nnigāh-e-be-hijāb-e-nāz ko bīm-e-gazand aayā\nfazā-e-ḳhanda-e-gul tang o zauq-e-aish be-parvā\nfarāġhat-gāh-e-āġhosh-e-vidā-e-dil-pasand aayā\nadam hai ḳhair-ḳhvāh-e-jalva ko zindān-e-betābi\nḳhirām-e-nāz barq-e-ḳhirman-e-sa.ī-e-sipand aayā\njarahat-tohfa almas-armughan dagh-e-jigar hadiya\nmubarakbaad 'asad' gham-KHwar-e-jaan-e-dardmand aaya\njunun garm intizar o nala betabi kamand aaya\nsuwaida ta ba-lab zanjiri-e-dud-e-sipand aaya\nmah-e-aKHtar-fashan ki bahr istiqbaal aankhon se\ntamasha kishwar-e-aina mein aaina-band aaya\ntaghaful bad-gumani balki meri saKHt-jaani se\nnigah-e-be-hijab-e-naz ko bim-e-gazand aaya\nfaza-e-KHanda-e-gul tang o zauq-e-aish be-parwa\nfaraghat-gah-e-aghosh-e-wida-e-dil-pasand aaya\nadam hai KHair-KHwah-e-jalwa ko zindan-e-betabi\nKHiram-e-naz barq-e-KHirman-e-sai-e-sipand aaya",
+    "lastUpdated": "2026-01-04T20:25:22.710Z"
+  }
+}

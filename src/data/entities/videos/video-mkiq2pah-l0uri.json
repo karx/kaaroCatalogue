@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2pah-l0uri",
+  "name": "Parents | Stand-up Comedy by Karunesh Talwar",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-karunesh-talwar"
+  },
+  "duration": "PT4M50S",
+  "embedUrl": "https://www.youtube.com/embed/AwNMTsZCaKI",
+  "contentUrl": "https://www.youtube.com/watch?v=AwNMTsZCaKI",
+  "uploadDate": "2016-11-15",
+  "thumbnailUrl": "https://i.ytimg.com/vi/AwNMTsZCaKI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "These are my jokes about my parents. Thanks for watching!\n\n\nFollow me on Instagram - https://www.instagram.com/karuneshtalwar/\nFacebook - https://www.facebook.com/KaruneshCTalwar/\nTwitter - https://twitter.com/karuneshtalwar\n\nFor bookings write to contact@karuneshtalwar.com or savinay@misfitsinc.net",
+  "channelTitle": "Karunesh Talwar",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-h58yl",
+  "name": "The MUSAMBI JUICE SONG  | With Lyrics For Kids and Adults",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT1M43S",
+  "embedUrl": "https://www.youtube.com/embed/QlwP5lqbbTU",
+  "contentUrl": "https://www.youtube.com/watch?v=QlwP5lqbbTU",
+  "uploadDate": "2021-06-18",
+  "thumbnailUrl": "https://i.ytimg.com/vi/QlwP5lqbbTU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Dedicated to the lovers of the humble Musambi juice. \n\nShare with other citrus lovers.",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

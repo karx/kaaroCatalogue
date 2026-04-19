@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703vsl-m73ew",
+  "name": "ATM in the bedroom",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT59S",
+  "embedUrl": "https://www.youtube.com/embed/rsugYIWW5DY",
+  "contentUrl": "https://www.youtube.com/watch?v=rsugYIWW5DY",
+  "uploadDate": "2023-02-25",
+  "thumbnailUrl": "https://i.ytimg.com/vi/rsugYIWW5DY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

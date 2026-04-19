@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn1-to49j",
+  "name": "Laziest Food Delivery | Stand Up Comedy by Sapan Verma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT1M",
+  "embedUrl": "https://www.youtube.com/embed/afBsvAfvD7Y",
+  "contentUrl": "https://www.youtube.com/watch?v=afBsvAfvD7Y",
+  "uploadDate": "2024-02-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/afBsvAfvD7Y/hqdefault.jpg",
+  "genre": "Live Performance",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

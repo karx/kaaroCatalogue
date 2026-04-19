@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-a644c",
+  "name": "LIFE COACH#standupcomedy #fitness #therapy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT2M",
+  "embedUrl": "https://www.youtube.com/embed/Bxn-k3Q7jNo",
+  "contentUrl": "https://www.youtube.com/watch?v=Bxn-k3Q7jNo",
+  "uploadDate": "2025-08-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Bxn-k3Q7jNo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

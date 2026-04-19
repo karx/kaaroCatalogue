@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-lbapd",
+  "name": "The Batman Trailer Discussion",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT1H17M40S",
+  "embedUrl": "https://www.youtube.com/embed/QY__voC9mGs",
+  "contentUrl": "https://www.youtube.com/watch?v=QY__voC9mGs",
+  "uploadDate": "2020-08-25",
+  "thumbnailUrl": "https://i.ytimg.com/vi/QY__voC9mGs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Tejas Menon, Sahil Shah, Ashish Shakya and I chat about all things Batman, and of course, that new trailer",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

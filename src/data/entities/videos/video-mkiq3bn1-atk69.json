@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn1-atk69",
+  "name": "\"Bro did NOT hesitate\" #standupcomedy #sapanverma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/FCql1YAIuoE",
+  "contentUrl": "https://www.youtube.com/watch?v=FCql1YAIuoE",
+  "uploadDate": "2025-03-04",
+  "thumbnailUrl": "https://i.ytimg.com/vi/FCql1YAIuoE/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

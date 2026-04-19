@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-o4q7m",
+  "name": "Women Safety Tips",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT1M16S",
+  "embedUrl": "https://www.youtube.com/embed/gLGMTIaa07s",
+  "contentUrl": "https://www.youtube.com/watch?v=gLGMTIaa07s",
+  "uploadDate": "2025-04-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/gLGMTIaa07s/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

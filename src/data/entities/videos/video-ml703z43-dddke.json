@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703z43-dddke",
+  "name": "Papa CJ jump starts the Open Mic Circuit in India",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT10M35S",
+  "embedUrl": "https://www.youtube.com/embed/o-KqkaGm0WY",
+  "contentUrl": "https://www.youtube.com/watch?v=o-KqkaGm0WY",
+  "uploadDate": "2010-04-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/o-KqkaGm0WY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Having been back in India for a year, Papa CJ has jump started the Open Mic circuit in the country. He has been encouraging fresh talent and the movement is growing. If you'd like to perform, get in touch through www.PAPACJ.com",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

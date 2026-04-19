@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn1-w377y",
+  "name": "Did all boys do this in school?",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT1M29S",
+  "embedUrl": "https://www.youtube.com/embed/Obi80mRgjz0",
+  "contentUrl": "https://www.youtube.com/watch?v=Obi80mRgjz0",
+  "uploadDate": "2025-10-29",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Obi80mRgjz0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

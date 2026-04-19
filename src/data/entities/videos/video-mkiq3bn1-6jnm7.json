@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn1-6jnm7",
+  "name": "Full video out now ♥️",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT2M26S",
+  "embedUrl": "https://www.youtube.com/embed/ZE7fIFiS53M",
+  "contentUrl": "https://www.youtube.com/watch?v=ZE7fIFiS53M",
+  "uploadDate": "2025-08-01",
+  "thumbnailUrl": "https://i.ytimg.com/vi/ZE7fIFiS53M/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

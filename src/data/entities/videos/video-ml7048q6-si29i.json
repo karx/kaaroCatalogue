@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-si29i",
+  "name": "Crossword stream tonight! 10 PM! This channel. Set a reminder and all ok",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT14S",
+  "embedUrl": "https://www.youtube.com/embed/of7WT_HNKdk",
+  "contentUrl": "https://www.youtube.com/watch?v=of7WT_HNKdk",
+  "uploadDate": "2022-01-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/of7WT_HNKdk/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

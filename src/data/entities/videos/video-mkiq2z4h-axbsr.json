@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-axbsr",
+  "name": "Last Comic Standing by Papa CJ   #comedy #standupcomedy #standup #papacj #comedycentral #funny",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT50S",
+  "embedUrl": "https://www.youtube.com/embed/pq6RnqwBN80",
+  "contentUrl": "https://www.youtube.com/watch?v=pq6RnqwBN80",
+  "uploadDate": "2024-05-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/pq6RnqwBN80/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

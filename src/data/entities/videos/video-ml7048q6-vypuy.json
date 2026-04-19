@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-vypuy",
+  "name": "🔴 50 Questions Episode 1 (with Ashish Shakya and Tanmay Bhat)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT1H17M59S",
+  "embedUrl": "https://www.youtube.com/embed/awTKpA-qeig",
+  "contentUrl": "https://www.youtube.com/watch?v=awTKpA-qeig",
+  "uploadDate": "2020-10-22",
+  "thumbnailUrl": "https://i.ytimg.com/vi/awTKpA-qeig/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Ashish Shakya and I hang out. The rules are simple. We can't leave until we answer 50 questions. Oh, also, Tanmay drops in!",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

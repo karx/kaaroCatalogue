@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-9s48r",
+  "name": "Papa CJ represents India on Last Comic Standing in Las Vegas",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT3M19S",
+  "embedUrl": "https://www.youtube.com/embed/nMC5wX4Pluk",
+  "contentUrl": "https://www.youtube.com/watch?v=nMC5wX4Pluk",
+  "uploadDate": "2008-12-27",
+  "thumbnailUrl": "https://i.ytimg.com/vi/nMC5wX4Pluk/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "For more about Papa CJ go to www.PAPACJ.com",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

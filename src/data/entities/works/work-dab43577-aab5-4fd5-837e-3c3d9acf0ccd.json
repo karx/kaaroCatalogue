@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dab43577-aab5-4fd5-837e-3c3d9acf0ccd",
+  "name": "The Gardener",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Lyrics of love and life.",
+  "keywords": [],
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "retrievedAt": "2026-02-05T19:43:58.136Z"
+  }
+}

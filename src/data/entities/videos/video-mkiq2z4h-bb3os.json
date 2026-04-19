@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-bb3os",
+  "name": "Evidence My Lord - Papa CJ on Campus",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT1M34S",
+  "embedUrl": "https://www.youtube.com/embed/PZ46yafr5Zs",
+  "contentUrl": "https://www.youtube.com/watch?v=PZ46yafr5Zs",
+  "uploadDate": "2018-12-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/PZ46yafr5Zs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

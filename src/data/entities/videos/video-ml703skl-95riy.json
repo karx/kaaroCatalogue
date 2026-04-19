@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703skl-95riy",
+  "name": "CHILD PSYCHOLOGY |Stand up comedy by Gaurav Gupta",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT9M40S",
+  "embedUrl": "https://www.youtube.com/embed/8F1RzLEnVB0",
+  "contentUrl": "https://www.youtube.com/watch?v=8F1RzLEnVB0",
+  "uploadDate": "2023-05-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/8F1RzLEnVB0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "USA TOUR IN JUNE\nTICKETS LINK HERE\n\nhttps://linktr.ee/gauravcomic?utm_source=linktree_admin_share",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

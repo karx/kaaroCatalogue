@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-gv5l4",
+  "name": "Papa CJ in India - called up from audience at show in Delhi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT4M15S",
+  "embedUrl": "https://www.youtube.com/embed/EChyC8HOtzY",
+  "contentUrl": "https://www.youtube.com/watch?v=EChyC8HOtzY",
+  "uploadDate": "2010-12-29",
+  "thumbnailUrl": "https://i.ytimg.com/vi/EChyC8HOtzY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "I was in my chappals in the audience when randomly called onto stage to perform!",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

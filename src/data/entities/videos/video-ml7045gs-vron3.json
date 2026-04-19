@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7045gs-vron3",
+  "name": "what did you do when you finished your exam too early?",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT40S",
+  "embedUrl": "https://www.youtube.com/embed/TX4W5-B1G14",
+  "contentUrl": "https://www.youtube.com/watch?v=TX4W5-B1G14",
+  "uploadDate": "2024-06-06",
+  "thumbnailUrl": "https://i.ytimg.com/vi/TX4W5-B1G14/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

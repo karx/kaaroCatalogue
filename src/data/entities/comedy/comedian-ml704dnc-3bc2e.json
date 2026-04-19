@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-ml704dnc-3bc2e",
+  "name": "Kapil Sharma",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "hi",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)",
+    "https://www.youtube.com/channel/UC2RUMb_7GBCpTMV7JRbpc1w"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)",
+    "retrievedAt": "2026-02-03T19:38:26.713Z"
+  }
+}

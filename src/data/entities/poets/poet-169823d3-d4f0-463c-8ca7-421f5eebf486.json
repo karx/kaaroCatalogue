@@ -1,0 +1,48 @@
+{
+  "@type": "Person",
+  "entityId": "poet-169823d3-d4f0-463c-8ca7-421f5eebf486",
+  "name": "Parveen Shakir",
+  "additionalType": "Kavi",
+  "birthDate": "24 November 1952",
+  "deathDate": "26 December 1994",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Islamabad, Pakistan"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Civil Servant"
+  },
+  "award": [
+    "Pride of Performance (1990)",
+    "Adamjee Literary Award (1976)"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Parveen_Shakir",
+    "https://www.rekhta.org/poets/parveen-shakir"
+  ],
+  "keywords": [
+    "Feminism",
+    "Romance",
+    "Love",
+    "Separation",
+    "Khushbu"
+  ],
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Post-modernism",
+  "abstract": "A distinctive feminine voice in Urdu literature. She is best known for her poems that explore the female experience, romance, and the nuances of human relationships with great sensitivity.",
+  "majorWorks": [
+    "Khushbu",
+    "Sad Barg",
+    "Khud Kalami",
+    "Inkaar",
+    "Maah-e-Tamaam"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/poets/parveen-shakir/profile",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}
