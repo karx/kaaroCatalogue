@@ -1,0 +1,32 @@
+{
+  "entityId": "poet-viswanatha-satyanarayana",
+  "name": "Viswanatha Satyanarayana",
+  "@type": "Person",
+  "knowsLanguage": "Telugu",
+  "era": "Modern",
+  "century": "20th Century",
+  "titles": [
+    "Kavi Samrat"
+  ],
+  "award": [
+    "Jnanpith Award (1970)"
+  ],
+  "keywords": [
+    "Ramayana Kalpavrukshamu",
+    "Tradition",
+    "Neo-Classical"
+  ],
+  "abstract": "A stalwart of tradition (Kavi Samrat). His Ramayana Kalpavrukshamu is a complex, neo-classical retelling. Veyipadagalu defends indigenous culture against Westernization.",
+  "majorWorks": [
+    "Ramayana Kalpavrukshamu",
+    "Veyipadagalu"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

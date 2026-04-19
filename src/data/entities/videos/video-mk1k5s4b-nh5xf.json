@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5s4b-nh5xf",
+  "name": "Classmates | Stand Up Comedy by Manik Mahna",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-manik-mahna"
+  },
+  "duration": "PT10M58S",
+  "embedUrl": "https://www.youtube.com/embed/vccwHvCIuW8",
+  "contentUrl": "https://www.youtube.com/watch?v=vccwHvCIuW8",
+  "uploadDate": "2018-03-15",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vccwHvCIuW8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "These are just some stories about classmates that obviously don't mean anything else.\n\nDirected by Sahir Raza\n\nFollow:\nFacebook, Twitter, Instagram\n@manikmahna\n\nMusic Credits:\n\"Ganda Hai\" - Company | T-Series",
+  "channelTitle": "Manik Mahna",
+  "aggregatorChannel": null
+}

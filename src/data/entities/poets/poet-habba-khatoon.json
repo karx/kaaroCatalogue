@@ -1,0 +1,29 @@
+{
+  "entityId": "poet-habba-khatoon",
+  "name": "Habba Khatoon",
+  "@type": "Person",
+  "knowsLanguage": "Kashmiri",
+  "era": "Medieval",
+  "century": "16th Century",
+  "titles": [
+    "Nightingale of Kashmir"
+  ],
+  "keywords": [
+    "Lol",
+    "Lyric",
+    "Separation",
+    "Royal"
+  ],
+  "abstract": "The 'Nightingale of Kashmir.' A peasant girl who became Queen, she introduced the Lol (lyric) form. Her songs express sorrow of separation from her husband, exiled by Akbar.",
+  "majorWorks": [
+    "Habba Khatoon Lyrics"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Habba_Khatun"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Habba_Khatun",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

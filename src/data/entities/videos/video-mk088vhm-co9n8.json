@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088vhm-co9n8",
+  "name": "This Triggered Tanmay Bhat! 😩",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-tanmay-bhat"
+  },
+  "duration": "PT1M1S",
+  "embedUrl": "https://www.youtube.com/embed/6JmHMbWwG8Y",
+  "contentUrl": "https://www.youtube.com/watch?v=6JmHMbWwG8Y",
+  "uploadDate": "2025-01-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/6JmHMbWwG8Y/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Tanmay Bhat",
+  "aggregatorChannel": null
+}

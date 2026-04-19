@@ -1,0 +1,29 @@
+{
+  "entityId": "poet-kamban",
+  "name": "Kamban",
+  "@type": "Person",
+  "knowsLanguage": "Tamil",
+  "era": "Medieval",
+  "century": "12th Century",
+  "titles": [
+    "Kavichakravarthi",
+    "Emperor of Poets"
+  ],
+  "keywords": [
+    "Kamba Ramayanam",
+    "Epic",
+    "Ravana"
+  ],
+  "abstract": "The 'Emperor of Poets.' His Iramavataram (Kamba Ramayanam) is considered the greatest Tamil literary work, where Ravana is a tragic, magnificent anti-hero. Noted for rhythm and musicality.",
+  "majorWorks": [
+    "Kamba Ramayanam"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kambar_(poet)"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kambar_(poet)",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

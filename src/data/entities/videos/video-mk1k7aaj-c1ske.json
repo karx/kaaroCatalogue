@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7aaj-c1ske",
+  "name": "Neend Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-appurv-gupta"
+  },
+  "duration": "PT4M35S",
+  "embedUrl": "https://www.youtube.com/embed/Pt3D9kZshVU",
+  "contentUrl": "https://www.youtube.com/watch?v=Pt3D9kZshVU",
+  "uploadDate": "2018-11-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Pt3D9kZshVU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "DISCLAIMER \n\nThis is stand-up comedy and this video is meant for entertainment purpose only. The views, ideas, comments, opinions and statements expressed in this video are meant for entertainment purpose only, nothing personal against anyone. Let's try not to be judgemental and not to take offence.",
+  "channelTitle": "Appurv Gupta",
+  "aggregatorChannel": null
+}

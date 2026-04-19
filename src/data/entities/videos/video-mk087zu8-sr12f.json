@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk087zu8-sr12f",
+  "name": "What does Vijay do?",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT1M27S",
+  "embedUrl": "https://www.youtube.com/embed/BHKT6DtCcU0",
+  "contentUrl": "https://www.youtube.com/watch?v=BHKT6DtCcU0",
+  "uploadDate": "2025-07-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/BHKT6DtCcU0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "An in-depth video about my favourite brand name in India",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

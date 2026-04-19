@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089b2i-6v7pd",
+  "name": "Random Daftar - The Sarcastic Boss #SketchComedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rahul-subramanian"
+  },
+  "duration": "PT5M26S",
+  "embedUrl": "https://www.youtube.com/embed/3i7rndCcGAM",
+  "contentUrl": "https://www.youtube.com/watch?v=3i7rndCcGAM",
+  "uploadDate": "2016-05-17",
+  "thumbnailUrl": "https://i.ytimg.com/vi/3i7rndCcGAM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The Sarcastic Boss! You know exactly what we are talking about. In this episode of Random Daftar the focus is on one of the most stereotypical bosses in the Indian corporate world, the sarcastic boss. Only difference with this boss is that  he is surrounded by people who don't get his sarcasm ....at",
+  "channelTitle": "Random Chikibum",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-qkjzv",
+  "name": "Stand Up Comedy - Crowd Work  | Kenny Sebastian - Best & Worst Memories : Deep Sea Diving",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT15M26S",
+  "embedUrl": "https://www.youtube.com/embed/l2dDbs0qpd8",
+  "contentUrl": "https://www.youtube.com/watch?v=l2dDbs0qpd8",
+  "uploadDate": "2021-08-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/l2dDbs0qpd8/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "A new show format where I ask the audience their best and worst memories and we laugh our way through our trauma together!\n\nWebsite: https://www.knowkenny.com/\nInstagram: https://www.instagram.com/kennethseb/\n\nSpecial Thanks to The Habitat :  https://www.instagram.com/indiehabitat\n\nThe Habitat Audio",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

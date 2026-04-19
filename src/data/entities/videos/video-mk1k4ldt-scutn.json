@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-scutn",
+  "name": "Why Situationships beat Marriages! #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT3M1S",
+  "embedUrl": "https://www.youtube.com/embed/idqiVWmjDq0",
+  "contentUrl": "https://www.youtube.com/watch?v=idqiVWmjDq0",
+  "uploadDate": "2025-06-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/idqiVWmjDq0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

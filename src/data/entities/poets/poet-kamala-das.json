@@ -1,0 +1,30 @@
+{
+  "entityId": "poet-kamala-das",
+  "name": "Kamala Das",
+  "@type": "Person",
+  "knowsLanguage": "English",
+  "era": "Modern",
+  "century": "20th Century",
+  "titles": [
+    "Madhavikutty"
+  ],
+  "keywords": [
+    "Confessional Poetry",
+    "Sexuality",
+    "Female Voice",
+    "Love"
+  ],
+  "abstract": "Famous for confessional poetry. Summer in Calcutta and The Descendants explore female sexuality and domestic life with startling honesty. 'I speak three languages, write in two, dream in one.'",
+  "majorWorks": [
+    "Summer in Calcutta",
+    "The Descendants"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kamala_Das"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kamala_Das",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

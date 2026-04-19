@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089b2i-w98uc",
+  "name": "World War 2 | Stand up Comedy by Rahul Subramanian",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rahul-subramanian"
+  },
+  "duration": "PT5M26S",
+  "embedUrl": "https://www.youtube.com/embed/zHqd6kerLSo",
+  "contentUrl": "https://www.youtube.com/watch?v=zHqd6kerLSo",
+  "uploadDate": "2019-10-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/zHqd6kerLSo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "What if World War 2 had a presentation ceremony hosted by Ravi Shashtri? In this stand up comedy video, comedian Rahul Subramanian hilariously explains this. \n\nFollow Random Chikibum for all things funny and drop us a comment and tell us which part of the video you found the funniest! \n\nFollow me on",
+  "channelTitle": "Random Chikibum",
+  "aggregatorChannel": null
+}

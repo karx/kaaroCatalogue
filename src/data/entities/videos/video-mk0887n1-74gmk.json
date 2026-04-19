@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-74gmk",
+  "name": "Rudraksh - Bloopers and Deleted Scenes",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT3M5S",
+  "embedUrl": "https://www.youtube.com/embed/mcutrjiE6jM",
+  "contentUrl": "https://www.youtube.com/watch?v=mcutrjiE6jM",
+  "uploadDate": "2014-10-27",
+  "thumbnailUrl": "https://i.ytimg.com/vi/mcutrjiE6jM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Deleted scenes and bloopers from the Rudraksh movie review. It would be remiss of us to not upload this video.",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-dx6ui",
+  "name": "Small Town Kids #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT26S",
+  "embedUrl": "https://www.youtube.com/embed/nwAv1bZ_Uhg",
+  "contentUrl": "https://www.youtube.com/watch?v=nwAv1bZ_Uhg",
+  "uploadDate": "2024-10-22",
+  "thumbnailUrl": "https://i.ytimg.com/vi/nwAv1bZ_Uhg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

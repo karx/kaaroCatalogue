@@ -6,14 +6,21 @@
   "main": "src/mcp-tools/index.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run build:catalog && vite build",
     "preview": "vite preview",
-    "validate": "node src/mcp-tools/validate-schema.js",
+    "migrate:entities": "node scripts/migrate-to-entities.js",
+    "build:catalog": "node scripts/build-catalog.js",
+    "build:catalog:poets": "node scripts/build-catalog.js --catalog poets",
+    "build:catalog:comedy": "node scripts/build-catalog.js --catalog comedy",
+    "validate:entities": "node scripts/validate-entities.js",
+    "validate": "npm run validate:entities && node src/mcp-tools/validate-schema.js",
     "validate:poetry": "node src/mcp-tools/validate-schema.js src/data/catalogs/poets-index.json",
     "validate:comedy": "node src/mcp-tools/validate-comedy-data.js",
     "enrich:poetry": "node src/mcp-tools/enrich-catalogue.js",
     "enrich:comedy": "node src/mcp-tools/enrich-comedy-catalogue.js",
-    "list:poets": "node src/mcp-tools/list-poets.js"
+    "list:poets": "node src/mcp-tools/list-poets.js",
+    "test": "node --test scripts/__tests__/*.test.js",
+    "re-slug": "node scripts/re-slug-entities.js"
   },
   "keywords": [
     "catalog",

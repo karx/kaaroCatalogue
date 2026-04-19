@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-iagni",
+  "name": "Sabka katega ✌️ #funnyvideo #standupcomedy #life",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT42S",
+  "embedUrl": "https://www.youtube.com/embed/ac-0yZbNz7A",
+  "contentUrl": "https://www.youtube.com/watch?v=ac-0yZbNz7A",
+  "uploadDate": "2022-12-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/ac-0yZbNz7A/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,27 @@
+{
+  "entityId": "poet-ak-ramanujan",
+  "name": "A.K. Ramanujan",
+  "@type": "Person",
+  "knowsLanguage": "English",
+  "era": "Modern",
+  "century": "20th Century",
+  "keywords": [
+    "The Striders",
+    "Relations",
+    "Diaspora",
+    "Translation"
+  ],
+  "abstract": "A bilingual poet (English/Kannada) and translator. His collections seamlessly connect the diaspora experience with deep Indian cultural memory and family history.",
+  "majorWorks": [
+    "The Striders",
+    "Relations"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/A._K._Ramanujan"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/A._K._Ramanujan",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "@type": "Person",
+  "entityId": "poet-rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "additionalType": "Kavi",
+  "birthDate": "1861",
+  "deathDate": "1941",
+  "knowsLanguage": "Bengali",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Kolkata, Bengal"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Polymath"
+  },
+  "award": [
+    "Nobel Prize in Literature (1913)",
+    "Knighthood (returned)"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+  ],
+  "keywords": [
+    "Gitanjali",
+    "Nobel Prize",
+    "National Anthems",
+    "Renaissance"
+  ],
+  "era": "Modern",
+  "century": "19th-20th Century",
+  "titles": [
+    "Gurudev",
+    "Nobel Laureate (1913)"
+  ],
+  "abstract": "A colossal figure who reshaped Bengali consciousness. Won the Nobel Prize in 1913 for Gitanjali. Penned national anthems of India and Bangladesh.",
+  "majorWorks": [
+    "Gitanjali",
+    "Sonar Tari",
+    "Balaka",
+    "Jana Gana Mana"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-cxnyo",
+  "name": "Apologies to gangaroo #australiadiaries #australia #tamil #mother",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT20S",
+  "embedUrl": "https://www.youtube.com/embed/M79X38uKT_w",
+  "contentUrl": "https://www.youtube.com/watch?v=M79X38uKT_w",
+  "uploadDate": "2025-04-15",
+  "thumbnailUrl": "https://i.ytimg.com/vi/M79X38uKT_w/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

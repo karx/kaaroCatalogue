@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7dhf-je2r8",
+  "name": "Save chicken",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-samay-raina"
+  },
+  "duration": "PT38S",
+  "embedUrl": "https://www.youtube.com/embed/OeeNTAA3Wug",
+  "contentUrl": "https://www.youtube.com/watch?v=OeeNTAA3Wug",
+  "uploadDate": "2024-12-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/OeeNTAA3Wug/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Samay Raina",
+  "aggregatorChannel": null
+}

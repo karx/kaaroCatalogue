@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088jsl-avu38",
+  "name": "Geoguessing with Smrutika - Biswa Kalyan Rath",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT55M16S",
+  "embedUrl": "https://www.youtube.com/embed/igi1KI5TLGU",
+  "contentUrl": "https://www.youtube.com/watch?v=igi1KI5TLGU",
+  "uploadDate": "2021-05-09",
+  "thumbnailUrl": "https://i.ytimg.com/vi/igi1KI5TLGU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Trying to play this game. ",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

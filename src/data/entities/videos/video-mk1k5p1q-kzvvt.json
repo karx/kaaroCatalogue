@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5p1q-kzvvt",
+  "name": "English speaking",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-aakash-gupta"
+  },
+  "duration": "PT58S",
+  "embedUrl": "https://www.youtube.com/embed/FBsk_L66u88",
+  "contentUrl": "https://www.youtube.com/watch?v=FBsk_L66u88",
+  "uploadDate": "2025-01-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/FBsk_L66u88/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Aakash Gupta",
+  "aggregatorChannel": null
+}

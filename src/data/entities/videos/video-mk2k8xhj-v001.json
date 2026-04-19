@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk2k8xhj-v001",
+  "name": "Your favourite movie lied to you: Stand-up by Rohan Joshi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT3M34S",
+  "embedUrl": "https://www.youtube.com/embed/XroIVJzNr58",
+  "contentUrl": "https://www.youtube.com/watch?v=XroIVJzNr58",
+  "uploadDate": "2025-07-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/XroIVJzNr58/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "I’m sorry your favourite movie lied to you.",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

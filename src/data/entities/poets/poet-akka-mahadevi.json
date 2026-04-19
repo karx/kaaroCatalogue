@@ -1,0 +1,29 @@
+{
+  "entityId": "poet-akka-mahadevi",
+  "name": "Akka Mahadevi",
+  "@type": "Person",
+  "knowsLanguage": "Kannada",
+  "era": "Bhakti",
+  "century": "12th Century",
+  "literaryMovement": "Virashaiva",
+  "titles": [
+    "Akka"
+  ],
+  "keywords": [
+    "Vachana",
+    "Feminine Mysticism",
+    "Radical Rejection"
+  ],
+  "abstract": "A radical female mystic who wandered naked, covered only by her hair. Her Vachanas address Shiva as Chennamallikarjuna, expressing fierce rejection of patriarchal society.",
+  "majorWorks": [
+    "Vachana Sahitya"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Akka_Mahadevi"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

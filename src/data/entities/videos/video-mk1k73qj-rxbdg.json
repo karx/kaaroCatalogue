@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-rxbdg",
+  "name": "Do’s and Don’ts of #Ramp Walk! Come, learn with me😂",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT1M30S",
+  "embedUrl": "https://www.youtube.com/embed/YwgvlSnk85w",
+  "contentUrl": "https://www.youtube.com/watch?v=YwgvlSnk85w",
+  "uploadDate": "2025-01-16",
+  "thumbnailUrl": "https://i.ytimg.com/vi/YwgvlSnk85w/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

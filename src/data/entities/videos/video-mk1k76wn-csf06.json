@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k76wn-csf06",
+  "name": "Boomerangs #kaneezsurka #standupcomedy #comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kaneez-surka"
+  },
+  "duration": "PT1M3S",
+  "embedUrl": "https://www.youtube.com/embed/Jd7z5ozapmE",
+  "contentUrl": "https://www.youtube.com/watch?v=Jd7z5ozapmE",
+  "uploadDate": "2025-09-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Jd7z5ozapmE/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kaneez Surka",
+  "aggregatorChannel": null
+}

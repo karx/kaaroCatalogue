@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k76wn-uzwxa",
+  "name": "Here’s what I wore to my first White American Wedding! #weddings #kaneezsurka #dress #fashion",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kaneez-surka"
+  },
+  "duration": "PT7S",
+  "embedUrl": "https://www.youtube.com/embed/SwIrwOMyySY",
+  "contentUrl": "https://www.youtube.com/watch?v=SwIrwOMyySY",
+  "uploadDate": "2025-06-06",
+  "thumbnailUrl": "https://i.ytimg.com/vi/SwIrwOMyySY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kaneez Surka",
+  "aggregatorChannel": null
+}

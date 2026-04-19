@@ -1,0 +1,34 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-zakir-khan",
+  "name": "Zakir Khan",
+  "alternateName": [
+    "Sakht Launda"
+  ],
+  "knowsLanguage": "hi",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Indore, India"
+  },
+  "genre": [
+    "observational",
+    "storytelling",
+    "hinglish"
+  ],
+  "sameAs": [
+    "https://www.youtube.com/@ZakirKhan",
+    "https://en.wikipedia.org/wiki/Zakir_Khan_(comedian)"
+  ],
+  "award": [],
+  "keywords": [
+    "Amazon Prime",
+    "Haq Se Single",
+    "Indian"
+  ],
+  "verified": true,
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zakir_Khan_(comedian)",
+    "retrievedAt": "2026-01-04T20:30:00.000Z"
+  }
+}

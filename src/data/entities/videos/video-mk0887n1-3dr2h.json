@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-3dr2h",
+  "name": "This is what we do. 4 Friendship.",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT34S",
+  "embedUrl": "https://www.youtube.com/embed/4BnXAXuTID4",
+  "contentUrl": "https://www.youtube.com/watch?v=4BnXAXuTID4",
+  "uploadDate": "2014-11-13",
+  "thumbnailUrl": "https://i.ytimg.com/vi/4BnXAXuTID4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

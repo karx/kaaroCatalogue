@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088vhm-xgdyz",
+  "name": "Happy birthday to Bhopal’s favourite son ​⁠​😘",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-tanmay-bhat"
+  },
+  "duration": "PT2M1S",
+  "embedUrl": "https://www.youtube.com/embed/4vBVbf8mrtg",
+  "contentUrl": "https://www.youtube.com/watch?v=4vBVbf8mrtg",
+  "uploadDate": "2025-07-22",
+  "thumbnailUrl": "https://i.ytimg.com/vi/4vBVbf8mrtg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Tanmay Bhat",
+  "aggregatorChannel": null
+}

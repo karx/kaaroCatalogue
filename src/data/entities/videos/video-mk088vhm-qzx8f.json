@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088vhm-qzx8f",
+  "name": "Tanmay Bhat Fitness Secret 🔥",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-tanmay-bhat"
+  },
+  "duration": "PT50S",
+  "embedUrl": "https://www.youtube.com/embed/WiqO0DfjGsM",
+  "contentUrl": "https://www.youtube.com/watch?v=WiqO0DfjGsM",
+  "uploadDate": "2025-02-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/WiqO0DfjGsM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Tanmay Bhat",
+  "aggregatorChannel": null
+}

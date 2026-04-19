@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-25593",
+  "name": "Music Can Make Anything Sexy - Stand Up Comedy by Kenny Sebastian",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT4M30S",
+  "embedUrl": "https://www.youtube.com/embed/WbCxxb5fQHg",
+  "contentUrl": "https://www.youtube.com/watch?v=WbCxxb5fQHg",
+  "uploadDate": "2020-06-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/WbCxxb5fQHg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Right now, If you want to make it to the top 10 in Music, You gotta be super positive or be super sexual. \nIn an excerpt from my #Netflix Original #Comedy #Special \"The Most Interesting Person in The Room\" , I talk about how it's not a good idea to have such a limited idea of what music should be! I",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

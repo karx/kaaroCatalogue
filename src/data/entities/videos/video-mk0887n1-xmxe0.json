@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-xmxe0",
+  "name": "Dudes #5 : Intervention",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT38S",
+  "embedUrl": "https://www.youtube.com/embed/koFKvnthr9I",
+  "contentUrl": "https://www.youtube.com/watch?v=koFKvnthr9I",
+  "uploadDate": "2014-07-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/koFKvnthr9I/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The dudes intervene.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

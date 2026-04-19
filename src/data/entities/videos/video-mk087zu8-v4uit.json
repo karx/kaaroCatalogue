@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk087zu8-v4uit",
+  "name": "PT Teacher | Stand Up Comedy | Biswa Kalyan Rath | Mood Kharaab",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT4M7S",
+  "embedUrl": "https://www.youtube.com/embed/LveE-ZQA5WE",
+  "contentUrl": "https://www.youtube.com/watch?v=LveE-ZQA5WE",
+  "uploadDate": "2023-05-13",
+  "thumbnailUrl": "https://i.ytimg.com/vi/LveE-ZQA5WE/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "New special Mood Kharaab out on Prime Video, watch now!",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

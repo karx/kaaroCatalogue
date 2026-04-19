@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7dhf-qgzwn",
+  "name": "Justice for Daadi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-samay-raina"
+  },
+  "duration": "PT53S",
+  "embedUrl": "https://www.youtube.com/embed/soJrh1UMbhc",
+  "contentUrl": "https://www.youtube.com/watch?v=soJrh1UMbhc",
+  "uploadDate": "2025-01-31",
+  "thumbnailUrl": "https://i.ytimg.com/vi/soJrh1UMbhc/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Samay Raina",
+  "aggregatorChannel": null
+}

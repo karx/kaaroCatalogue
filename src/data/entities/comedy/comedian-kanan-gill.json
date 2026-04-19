@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-kanan-gill",
+  "name": "Kanan Gill",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kanan_Gill",
+    "https://www.youtube.com/channel/UC5W8kZaY_u59fwgtjnLrBXA"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kanan_Gill",
+    "retrievedAt": "2026-01-04T21:11:14.254Z"
+  }
+}

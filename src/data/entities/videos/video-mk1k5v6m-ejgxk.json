@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5v6m-ejgxk",
+  "name": "Khichdi Recipe - Abhishek Upmanyu",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-abhishek-upmanyu"
+  },
+  "duration": "PT3M22S",
+  "embedUrl": "https://www.youtube.com/embed/xLpZZScqgKo",
+  "contentUrl": "https://www.youtube.com/watch?v=xLpZZScqgKo",
+  "uploadDate": "2020-06-22",
+  "thumbnailUrl": "https://i.ytimg.com/vi/xLpZZScqgKo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "This was posted on Instagram a few weeks ago toh socha yahin bhi post kar de in case someone missed it.",
+  "channelTitle": "Abhishek Upmanyu",
+  "aggregatorChannel": null
+}

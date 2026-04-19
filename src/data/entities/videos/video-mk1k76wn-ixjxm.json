@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k76wn-ixjxm",
+  "name": "DISNEY songs for Immigrants. Full Special Out Now!",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kaneez-surka"
+  },
+  "duration": "PT1M22S",
+  "embedUrl": "https://www.youtube.com/embed/e3zyMJFk2HA",
+  "contentUrl": "https://www.youtube.com/watch?v=e3zyMJFk2HA",
+  "uploadDate": "2025-08-09",
+  "thumbnailUrl": "https://i.ytimg.com/vi/e3zyMJFk2HA/hqdefault.jpg",
+  "genre": "Stand-Up Special",
+  "description": "",
+  "channelTitle": "Kaneez Surka",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,26 @@
+{
+  "entityId": "poet-shah-latif-bhittai",
+  "name": "Shah Abdul Latif Bhittai",
+  "@type": "Person",
+  "knowsLanguage": "Sindhi",
+  "era": "Medieval",
+  "century": "18th Century",
+  "literaryMovement": "Sufi",
+  "keywords": [
+    "Shah Jo Risalo",
+    "Folk Tales",
+    "Musical Modes"
+  ],
+  "abstract": "His Shah Jo Risalo is the magnum opus of Sindhi literature. It organizes Sufi poetry based on musical modes (Sur) of local folk tales. Heroines serve as allegories for the seeking soul.",
+  "majorWorks": [
+    "Shah Jo Risalo"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Shah_Abdul_Latif_Bhittai"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shah_Abdul_Latif_Bhittai",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

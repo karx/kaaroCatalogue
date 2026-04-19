@@ -1,0 +1,47 @@
+{
+  "@type": "Person",
+  "entityId": "poet-kalidasa",
+  "name": "Kalidasa",
+  "additionalType": "Kavi",
+  "birthDate": "4th Century CE",
+  "deathDate": "5th Century CE",
+  "knowsLanguage": "Sanskrit",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Gupta Empire"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Court Poet"
+  },
+  "award": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kalidasa"
+  ],
+  "keywords": [
+    "Mahakavya",
+    "Nataka",
+    "Khandakavya",
+    "Golden Age",
+    "Gupta Empire"
+  ],
+  "era": "Classical",
+  "century": "4th-5th Century CE",
+  "titles": [
+    "Kavikula Guru",
+    "The Shakespeare of India"
+  ],
+  "abstract": "Universally acknowledged as the greatest Sanskrit poet. His works are characterized by Vaidarbhi Riti (lucid, sweet style), profound empathy with nature, and mastery of Upama (simile).",
+  "majorWorks": [
+    "Raghuvamsha",
+    "Kumarasambhava",
+    "Meghaduta",
+    "Abhijnanashakuntala",
+    "Ritusamhara"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kalidasa",
+    "retrievedAt": "2026-01-04T18:42:04.062Z"
+  }
+}

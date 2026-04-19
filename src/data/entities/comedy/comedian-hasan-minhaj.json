@@ -1,0 +1,34 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-hasan-minhaj",
+  "name": "Hasan Minhaj",
+  "alternateName": [],
+  "knowsLanguage": "en",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "California, USA"
+  },
+  "genre": [
+    "political",
+    "observational",
+    "storytelling"
+  ],
+  "sameAs": [
+    "https://www.youtube.com/@HasanMinhaj",
+    "https://en.wikipedia.org/wiki/Hasan_Minhaj"
+  ],
+  "award": [
+    "Peabody Award"
+  ],
+  "keywords": [
+    "Patriot Act",
+    "Indian-American",
+    "Netflix"
+  ],
+  "verified": true,
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hasan_Minhaj",
+    "retrievedAt": "2026-01-04T20:30:00.000Z"
+  }
+}

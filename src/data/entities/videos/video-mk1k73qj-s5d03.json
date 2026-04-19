@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-s5d03",
+  "name": "Trying my best to beat #mondayblues",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT11S",
+  "embedUrl": "https://www.youtube.com/embed/kbW2j2G0Hog",
+  "contentUrl": "https://www.youtube.com/watch?v=kbW2j2G0Hog",
+  "uploadDate": "2024-11-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/kbW2j2G0Hog/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

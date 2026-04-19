@@ -1,0 +1,27 @@
+{
+  "entityId": "poet-waris-shah",
+  "name": "Waris Shah",
+  "@type": "Person",
+  "knowsLanguage": "Punjabi",
+  "era": "Medieval",
+  "century": "18th Century",
+  "literaryMovement": "Sufi Qissa",
+  "keywords": [
+    "Heer Ranjha",
+    "Qissa",
+    "Tragic Romance",
+    "Punjab"
+  ],
+  "abstract": "Author of Heer Ranjha, the defining text of Punjabi identity. It narrates doomed love while critiquing the clergy and social order. Often called 'the Quran of Punjab.'",
+  "majorWorks": [
+    "Heer Ranjha"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Waris_Shah"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Waris_Shah",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

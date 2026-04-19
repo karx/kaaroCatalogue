@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089f2p-v7qoc",
+  "name": "Startup- Stand up Comedy Ft Anubhav Singh Bassi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-anubhav-singh-bassi"
+  },
+  "duration": "PT7M42S",
+  "embedUrl": "https://www.youtube.com/embed/0guSWBSO8lo",
+  "contentUrl": "https://www.youtube.com/watch?v=0guSWBSO8lo",
+  "uploadDate": "2023-02-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/0guSWBSO8lo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Startup is a bit from my Stand Up Special,  \"Bas Kar Bassi\" which is now live on Amazon Prime Videos, please go and watch the whole show, bahut maza aayega sab ko, cheers to life.\n- Bassi",
+  "channelTitle": "Anubhav Singh Bassi",
+  "aggregatorChannel": null
+}

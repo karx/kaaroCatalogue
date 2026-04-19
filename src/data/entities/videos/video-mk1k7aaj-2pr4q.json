@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7aaj-2pr4q",
+  "name": "Apple Ecosystem - Stand Up Comedy by Appurv Gupta aka GuptaJi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-appurv-gupta"
+  },
+  "duration": "PT6M13S",
+  "embedUrl": "https://www.youtube.com/embed/hIbfHMJtimI",
+  "contentUrl": "https://www.youtube.com/watch?v=hIbfHMJtimI",
+  "uploadDate": "2025-02-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/hIbfHMJtimI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Book Appurv Gupta's Live Show Tickets : https://linktr.ee/appurvgupta\n\nNew Video by Appurv Gupta aka GuptaJi on iPhone Vs Android Phone is Live.\nEnjoy this video where GuptaJi shares the major difference on the feature Apple Vs Android Phone.\n\nIf you have experienced something similar hen do share w",
+  "channelTitle": "Appurv Gupta",
+  "aggregatorChannel": null
+}

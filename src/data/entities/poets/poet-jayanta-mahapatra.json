@@ -1,0 +1,29 @@
+{
+  "entityId": "poet-jayanta-mahapatra",
+  "name": "Jayanta Mahapatra",
+  "@type": "Person",
+  "knowsLanguage": "English",
+  "era": "Modern",
+  "century": "20th Century",
+  "award": [
+    "Sahitya Akademi Award"
+  ],
+  "keywords": [
+    "Odisha",
+    "Landscape",
+    "History",
+    "Famine"
+  ],
+  "abstract": "The first Indian English poet to win the Sahitya Akademi Award. His poetry is deeply rooted in the landscape of Odisha (Cuttack, Puri) and its history of war and famine.",
+  "majorWorks": [
+    "Relationship"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Jayanta_Mahapatra"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jayanta_Mahapatra",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

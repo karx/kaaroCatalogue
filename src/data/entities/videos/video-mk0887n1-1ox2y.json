@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-1ox2y",
+  "name": "Dudes #2 : Tragedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT1M30S",
+  "embedUrl": "https://www.youtube.com/embed/HH0UQ3YuqRI",
+  "contentUrl": "https://www.youtube.com/watch?v=HH0UQ3YuqRI",
+  "uploadDate": "2014-07-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HH0UQ3YuqRI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The dudes face tragedies.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

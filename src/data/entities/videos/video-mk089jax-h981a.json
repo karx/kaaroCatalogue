@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-h981a",
+  "name": "Sasta Vicky Kaushal | CROWD WORK | Harsh Gujral | Standup Comedy 2021",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT13M11S",
+  "embedUrl": "https://www.youtube.com/embed/8KFi3ag9bEs",
+  "contentUrl": "https://www.youtube.com/watch?v=8KFi3ag9bEs",
+  "uploadDate": "2020-12-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/8KFi3ag9bEs/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "Releasing my 5th Video crowd-work(Standup Comedy) video from the show that I did in New Delhi my first show after Lockdown. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. Let me know how you liked the video and share it with yo",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

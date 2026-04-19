@@ -1,0 +1,30 @@
+{
+  "entityId": "poet-narsinh-mehta",
+  "name": "Narsinh Mehta",
+  "@type": "Person",
+  "knowsLanguage": "Gujarati",
+  "era": "Bhakti",
+  "century": "15th Century",
+  "titles": [
+    "Adi Kavi of Gujarati"
+  ],
+  "keywords": [
+    "Prabhatiyas",
+    "Vaishnav Jan To",
+    "Gandhi"
+  ],
+  "abstract": "The Adi Kavi of Gujarati. His Prabhatiyas and 'Vaishnav Jan To' defined the ideal devotee for Mahatma Gandhi. Central to Gujarati culture.",
+  "majorWorks": [
+    "Prabhatiyas",
+    "Vaishnav Jan To",
+    "Mameru"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Narsinh_Mehta"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

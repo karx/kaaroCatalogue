@@ -1,0 +1,33 @@
+{
+  "entityId": "poet-mahadevi-varma",
+  "name": "Mahadevi Varma",
+  "@type": "Person",
+  "knowsLanguage": "Hindi",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Chhayavaad",
+  "titles": [
+    "Modern Meera"
+  ],
+  "award": [
+    "Jnanpith Award (1982)"
+  ],
+  "keywords": [
+    "Yama",
+    "Mystical Longing",
+    "Feminine Poetry"
+  ],
+  "abstract": "The 'Modern Meera.' Her collection Yama and Deepshikha explore the pain of existence and mystical longing. A Jnanpith laureate.",
+  "majorWorks": [
+    "Yama",
+    "Deepshikha"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Mahadevi_Varma"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mahadevi_Varma",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

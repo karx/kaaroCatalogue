@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-pvlbr",
+  "name": "When you want to smell good!",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT2M41S",
+  "embedUrl": "https://www.youtube.com/embed/aaLj4tIr5GQ",
+  "contentUrl": "https://www.youtube.com/watch?v=aaLj4tIr5GQ",
+  "uploadDate": "2025-10-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/aaLj4tIr5GQ/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Get yours on KennySebastian.com",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

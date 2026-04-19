@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-uxdu2",
+  "name": "BAN SWIMSUITS #comedy #tamil #funny",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT13S",
+  "embedUrl": "https://www.youtube.com/embed/vSxcvtZIc_w",
+  "contentUrl": "https://www.youtube.com/watch?v=vSxcvtZIc_w",
+  "uploadDate": "2024-06-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vSxcvtZIc_w/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

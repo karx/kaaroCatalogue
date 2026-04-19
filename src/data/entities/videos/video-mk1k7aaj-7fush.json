@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7aaj-7fush",
+  "name": "Flight Vs Train Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-appurv-gupta"
+  },
+  "duration": "PT7M45S",
+  "embedUrl": "https://www.youtube.com/embed/hN8PB-ZQH7Y",
+  "contentUrl": "https://www.youtube.com/watch?v=hN8PB-ZQH7Y",
+  "uploadDate": "2017-11-12",
+  "thumbnailUrl": "https://i.ytimg.com/vi/hN8PB-ZQH7Y/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Disclaimer: This is Stand Up Comedy and this video is meant for entertainment purpose only. The views, ideas, comments, opinions and statements expressed in this video are meant for entertainment purpose only, nothing personal against anyone. Please watch this video in light humor only. Offend hone ",
+  "channelTitle": "Appurv Gupta",
+  "aggregatorChannel": null
+}

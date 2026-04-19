@@ -1,0 +1,40 @@
+{
+  "@type": "Person",
+  "entityId": "poet-thiruvalluvar",
+  "name": "Thiruvalluvar",
+  "additionalType": "Kavi",
+  "birthDate": "Unknown (Sangam Era)",
+  "knowsLanguage": "Tamil",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Tamil Nadu"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet, Philosopher"
+  },
+  "award": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Thiruvalluvar"
+  ],
+  "keywords": [
+    "Tirukkural",
+    "Ethics",
+    "Didactic Poetry",
+    "Secular Philosophy"
+  ],
+  "era": "Sangam",
+  "century": "1st Century BCE",
+  "titles": [
+    "Poet of the Kural"
+  ],
+  "abstract": "Author of Tirukkural, 1330 couplets on Aram (Virtue), Porul (Wealth), and Inbam (Love). Celebrated for its secular, universal ethics applicable across religions and cultures.",
+  "majorWorks": [
+    "Tirukkural"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

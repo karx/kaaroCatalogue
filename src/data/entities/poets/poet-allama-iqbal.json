@@ -1,0 +1,38 @@
+{
+  "@type": "Person",
+  "entityId": "poet-allama-iqbal",
+  "name": "Allama Iqbal",
+  "additionalType": "Kavi",
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet"
+  },
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Muhammad_Iqbal"
+  ],
+  "confidence": 0.5,
+  "knowsLanguage": "Urdu",
+  "era": "Modern",
+  "century": "19th-20th Century",
+  "titles": [
+    "Poet of the East",
+    "Shair-e-Mashriq"
+  ],
+  "keywords": [
+    "Khudi",
+    "Selfhood",
+    "Pan-Islamic",
+    "Sare Jahan Se Achha"
+  ],
+  "abstract": "The philosopher-poet who moved from Indian nationalism (Sare Jahan Se Achha) to pan-Islamic thought. Explored the concept of Khudi (Selfhood) and the destiny of the East.",
+  "majorWorks": [
+    "Bang-e-Dra",
+    "Bal-e-Jibril",
+    "Zarb-e-Kalim"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+    "retrievedAt": "2026-01-04T17:36:30.803Z"
+  }
+}

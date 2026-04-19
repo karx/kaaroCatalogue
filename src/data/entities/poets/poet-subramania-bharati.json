@@ -1,0 +1,31 @@
+{
+  "entityId": "poet-subramania-bharati",
+  "name": "Subramania Bharati",
+  "@type": "Person",
+  "knowsLanguage": "Tamil",
+  "era": "Modern",
+  "century": "19th-20th Century",
+  "titles": [
+    "Mahakavi"
+  ],
+  "keywords": [
+    "Freedom Fighter",
+    "Women's Rights",
+    "Nationalism",
+    "Krishna"
+  ],
+  "abstract": "The Mahakavi who initiated Tamil's modern era. Used Draupadi's humiliation as allegory for India under British rule. Advocated for women's freedom (Pudhumai Penn).",
+  "majorWorks": [
+    "Panchali Sapatham",
+    "Kuyil Pattu",
+    "Kannan Pattu"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Subramania_Bharati"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Subramania_Bharati",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

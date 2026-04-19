@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-q5ceb",
+  "name": "Taare Zameen Par | Standup comedy by Harsh Gujral ft Aamir khan",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT18M16S",
+  "embedUrl": "https://www.youtube.com/embed/JnJY-Jsez5E",
+  "contentUrl": "https://www.youtube.com/watch?v=JnJY-Jsez5E",
+  "uploadDate": "2025-06-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/JnJY-Jsez5E/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "This is a heartfelt tribute from my side to the brilliant cast of Taare Zameen Par, featuring Aamir Khan sir and the incredible team behind the film.I’ve revisited some of my favorite scenes and reimagined them in my own style — a humble attempt to honor a masterpiece that was truly ahead of its tim",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

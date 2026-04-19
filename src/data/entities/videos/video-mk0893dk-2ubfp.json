@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0893dk-2ubfp",
+  "name": "Modi v/s Rahul - as per my mom #standupcomedy #narendramodi #rahulgandhi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sorabh-pant"
+  },
+  "duration": "PT1M",
+  "embedUrl": "https://www.youtube.com/embed/5dvdfS3S0wg",
+  "contentUrl": "https://www.youtube.com/watch?v=5dvdfS3S0wg",
+  "uploadDate": "2024-06-18",
+  "thumbnailUrl": "https://i.ytimg.com/vi/5dvdfS3S0wg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sorabh Pant",
+  "aggregatorChannel": null
+}

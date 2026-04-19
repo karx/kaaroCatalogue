@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk08bnif-q9cj3",
+  "name": "Biswa Kalyan Rath | Mood Kharaab | New Stand Up Special | @PrimeVideoIN",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT1M13S",
+  "embedUrl": "https://www.youtube.com/embed/V_c-oLhaR_4",
+  "contentUrl": "https://www.youtube.com/watch?v=V_c-oLhaR_4",
+  "uploadDate": "2023-05-04",
+  "thumbnailUrl": "https://i.ytimg.com/vi/V_c-oLhaR_4/hqdefault.jpg",
+  "genre": "Stand-Up Special",
+  "description": "#MoodKharaabOnPrime, May 5",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

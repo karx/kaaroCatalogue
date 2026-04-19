@@ -1,0 +1,28 @@
+{
+  "entityId": "poet-bharavi",
+  "name": "Bharavi",
+  "@type": "Person",
+  "knowsLanguage": "Sanskrit",
+  "era": "Classical",
+  "century": "6th Century CE",
+  "titles": [
+    "Brihattrayi Poet"
+  ],
+  "keywords": [
+    "Mahakavya",
+    "Artha-gauravam",
+    "Mahabharata"
+  ],
+  "abstract": "One of the Brihattrayi (Great Trio) of Sanskrit poets, famous for Artha-gauravam (depth of meaning). His Kiratarjuniya includes verses that read the same backwards and forwards.",
+  "majorWorks": [
+    "Kiratarjuniya"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Bharavi"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bharavi",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089b2i-tws8u",
+  "name": "Bangalore | Stand up Comedy by Rahul Subramanian",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rahul-subramanian"
+  },
+  "duration": "PT9M13S",
+  "embedUrl": "https://www.youtube.com/embed/PVrtI6YOe6Y",
+  "contentUrl": "https://www.youtube.com/watch?v=PVrtI6YOe6Y",
+  "uploadDate": "2019-04-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/PVrtI6YOe6Y/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Rahul Subramanian loves Bangalore. Watch his take on his favourite city - he talks about everything from the airport to traffic to autowaalas to the startup culture in his city\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his s",
+  "channelTitle": "Random Chikibum",
+  "aggregatorChannel": null
+}

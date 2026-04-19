@@ -1,0 +1,42 @@
+{
+  "@type": "Person",
+  "entityId": "poet-tukaram",
+  "name": "Tukaram",
+  "additionalType": "Kavi",
+  "birthDate": "1608",
+  "deathDate": "1649",
+  "knowsLanguage": "Marathi",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Dehu, Maharashtra"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet-Saint, Grocer"
+  },
+  "award": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Tukaram"
+  ],
+  "keywords": [
+    "Abhanga",
+    "Vitthala",
+    "Autobiography",
+    "Shudra Saint"
+  ],
+  "era": "Bhakti",
+  "century": "17th Century",
+  "literaryMovement": "Varkari",
+  "titles": [
+    "Sant Tukaram"
+  ],
+  "abstract": "A Shudra grocer whose Abhangas are the crowning glory of Varkari poetry. His poems are autobiographical, documenting struggle from worldly failure to spiritual realization.",
+  "majorWorks": [
+    "Tukaram Gatha"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tukaram",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

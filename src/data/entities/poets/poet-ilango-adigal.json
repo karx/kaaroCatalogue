@@ -1,0 +1,26 @@
+{
+  "entityId": "poet-ilango-adigal",
+  "name": "Ilango Adigal",
+  "@type": "Person",
+  "knowsLanguage": "Tamil",
+  "era": "Sangam",
+  "century": "2nd Century CE",
+  "keywords": [
+    "Silappadikaram",
+    "Epic",
+    "Jain Monk",
+    "Kannagi"
+  ],
+  "abstract": "Jain monk-prince who wrote Silappadikaram (Tale of the Anklet), a masterpiece blending the three Tamil kingdoms and three religions. The climax, where Kannagi burns Madurai, defines Tamil culture.",
+  "majorWorks": [
+    "Silappadikaram"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Silappatikaram"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Silappatikaram",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

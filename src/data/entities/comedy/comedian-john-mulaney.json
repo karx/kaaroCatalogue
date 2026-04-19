@@ -1,0 +1,34 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-john-mulaney",
+  "name": "John Mulaney",
+  "alternateName": [],
+  "knowsLanguage": "en",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "New York, USA"
+  },
+  "genre": [
+    "observational",
+    "storytelling"
+  ],
+  "sameAs": [
+    "https://www.youtube.com/@JohnMulaney",
+    "https://en.wikipedia.org/wiki/John_Mulaney"
+  ],
+  "award": [
+    "Emmy Award",
+    "WGA Award"
+  ],
+  "keywords": [
+    "SNL",
+    "Kid Gorgeous",
+    "Netflix"
+  ],
+  "verified": true,
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Mulaney",
+    "retrievedAt": "2026-01-04T20:30:00.000Z"
+  }
+}

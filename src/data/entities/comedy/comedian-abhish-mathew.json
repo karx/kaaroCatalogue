@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-abhish-mathew",
+  "name": "Abhish Mathew",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Abish_Mathew",
+    "https://www.youtube.com/channel/UCtWoDeegvTPfuuNm_ilJntg"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Abish_Mathew",
+    "retrievedAt": "2026-01-04T21:11:49.958Z"
+  }
+}

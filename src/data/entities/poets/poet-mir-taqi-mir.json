@@ -1,0 +1,42 @@
+{
+  "@type": "Person",
+  "entityId": "poet-mir-taqi-mir",
+  "name": "Mir Taqi Mir",
+  "additionalType": "Kavi",
+  "birthDate": "February 1723",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Agra, Agra Subah, [[Mughal Empire"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Poet"
+  },
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Mir_Taqi_Mir"
+  ],
+  "keywords": [
+    "Ghazal",
+    "Pathos",
+    "Delhi",
+    "Tragedy"
+  ],
+  "abstract": "Known as Khuda-e-Sukhan (God of Poetry). His ghazals are marked by pathos (soz) and simplicity. Witnessing Delhi's devastation, his poetry reflects both personal and civilizational tragedy.",
+  "confidence": 0.7,
+  "era": "Medieval",
+  "century": "18th Century",
+  "titles": [
+    "Khuda-e-Sukhan",
+    "God of Poetry"
+  ],
+  "majorWorks": [
+    "Kulliyat-e-Mir",
+    "Zikr-e-Mir"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mir_Taqi_Mir",
+    "retrievedAt": "2026-01-04T17:36:26.927Z"
+  }
+}

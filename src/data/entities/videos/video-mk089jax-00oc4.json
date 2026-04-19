@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-00oc4",
+  "name": "Jai Hind - A Stand up Salute by Harsh Gujral",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT11M20S",
+  "embedUrl": "https://www.youtube.com/embed/ipM59QeEioI",
+  "contentUrl": "https://www.youtube.com/watch?v=ipM59QeEioI",
+  "uploadDate": "2025-05-18",
+  "thumbnailUrl": "https://i.ytimg.com/vi/ipM59QeEioI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "We Indians extend our deepest appreciation to the dedicated Army civilians whose unwavering commitment supports and sustains our nation’s defense every day. Your service, though often behind the scenes, is vital to the strength and success of our military mission.The strength of our country lies not",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

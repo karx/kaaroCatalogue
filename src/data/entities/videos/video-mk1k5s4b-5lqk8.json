@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5s4b-5lqk8",
+  "name": "Are you a buffalo? |  Stand up comedy by Manik Mahna",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-manik-mahna"
+  },
+  "duration": "PT16M27S",
+  "embedUrl": "https://www.youtube.com/embed/gWQzdnDBmSA",
+  "contentUrl": "https://www.youtube.com/watch?v=gWQzdnDBmSA",
+  "uploadDate": "2024-11-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/gWQzdnDBmSA/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "comedy",
+  "channelTitle": "Manik Mahna",
+  "aggregatorChannel": null
+}

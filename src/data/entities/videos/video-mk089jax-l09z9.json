@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-l09z9",
+  "name": "My name is Harsh Gujral - Standup Comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT14M55S",
+  "embedUrl": "https://www.youtube.com/embed/8f3e6rXB8Cw",
+  "contentUrl": "https://www.youtube.com/watch?v=8f3e6rXB8Cw",
+  "uploadDate": "2021-04-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/8f3e6rXB8Cw/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "MY SIXTH STANDUP COMEDY VIDEO IS HERE!\n\nDO SHARE YOUR EXPERIENCES IF YOUR ARE ALSO A \"BROTHER BORN AFTER SISTERS\".\nJoin my email list for all the early updates for live shows, new videos etc., register karlo yaha pe: https://forms.gle/koxVuf5brSgqdxw96\n\nFollow me on my Social Media Profiles:\nSubscri",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

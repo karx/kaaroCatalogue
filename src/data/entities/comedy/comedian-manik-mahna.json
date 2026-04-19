@@ -1,0 +1,30 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-manik-mahna",
+  "name": "Manik Mahna",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "hi",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Manik_Mahna"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Manik_Mahna",
+    "retrievedAt": "2026-01-04T21:14:30.900Z"
+  }
+}

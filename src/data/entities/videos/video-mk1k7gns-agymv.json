@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-agymv",
+  "name": "Full video on my YouTube channel #funnyvideo #engineering #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT45S",
+  "embedUrl": "https://www.youtube.com/embed/0XNHWFhwfQk",
+  "contentUrl": "https://www.youtube.com/watch?v=0XNHWFhwfQk",
+  "uploadDate": "2022-12-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/0XNHWFhwfQk/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

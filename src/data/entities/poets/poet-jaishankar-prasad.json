@@ -1,0 +1,26 @@
+{
+  "entityId": "poet-jaishankar-prasad",
+  "name": "Jaishankar Prasad",
+  "@type": "Person",
+  "knowsLanguage": "Hindi",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Chhayavaad",
+  "keywords": [
+    "Kamayani",
+    "Romanticism",
+    "Psychological Allegory"
+  ],
+  "abstract": "A key figure of Chhayavaad. His epic Kamayani (1936) is a psychological allegory based on the Vedic flood myth of Manu, exploring Id, Ego, and Super-Ego.",
+  "majorWorks": [
+    "Kamayani"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Jaishankar_Prasad"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jaishankar_Prasad",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

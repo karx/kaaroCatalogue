@@ -1,0 +1,32 @@
+{
+  "entityId": "poet-tulsidas",
+  "name": "Tulsidas",
+  "@type": "Person",
+  "knowsLanguage": "Awadhi",
+  "era": "Bhakti",
+  "century": "16th Century",
+  "literaryMovement": "Saguna Bhakti",
+  "titles": [
+    "Goswami"
+  ],
+  "keywords": [
+    "Ramcharitmanas",
+    "Rama",
+    "Devotion",
+    "Epic"
+  ],
+  "abstract": "His Ramcharitmanas, written in Awadhi, made the story of Rama accessible to the common man, replacing Valmiki's Sanskrit text in popular consciousness. A work of immense Bhakti.",
+  "majorWorks": [
+    "Ramcharitmanas",
+    "Vinaya Patrika",
+    "Kavitavali"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Tulsidas"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tulsidas",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

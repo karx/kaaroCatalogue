@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5s4b-r1mwc",
+  "name": "Kaufman's Cow | Stand Up Comedy by Manik Mahna",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-manik-mahna"
+  },
+  "duration": "PT4M",
+  "embedUrl": "https://www.youtube.com/embed/fUbqXgGcBLw",
+  "contentUrl": "https://www.youtube.com/watch?v=fUbqXgGcBLw",
+  "uploadDate": "2018-04-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/fUbqXgGcBLw/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "This means nothing.\n\nFollow\nFacebook, Twitter, Instagram\n@manikmahna\n\nProduced by - A Little Anarky Films\nwww.youtube.com/alittleanarky\n\nSound Mixing & Mastering - Sohaill Gandhi\n\nLocation - Canvas Laugh Club, Gurugram\n\nCANVAS TEAM\nRohit Gaur\nRohan Daniel\nVishal Singh",
+  "channelTitle": "Manik Mahna",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-p5gbp",
+  "name": "Coming to Frankfurt, Amsterdam, London, Paris, Berlin and Zurich with my new show this May",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT2M16S",
+  "embedUrl": "https://www.youtube.com/embed/isM9GqAGpj8",
+  "contentUrl": "https://www.youtube.com/watch?v=isM9GqAGpj8",
+  "uploadDate": "2025-05-17",
+  "thumbnailUrl": "https://i.ytimg.com/vi/isM9GqAGpj8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

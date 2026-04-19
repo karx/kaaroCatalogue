@@ -1,0 +1,28 @@
+{
+  "entityId": "poet-jibanananda-das",
+  "name": "Jibanananda Das",
+  "@type": "Person",
+  "knowsLanguage": "Bengali",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Modernism",
+  "keywords": [
+    "Ruposhi Bangla",
+    "Banalata Sen",
+    "Surrealism",
+    "Rural Bengal"
+  ],
+  "abstract": "The poet of Ruposhi Bangla (Beautiful Bengal). Introduced modernism, surrealism, and deep engagement with rural landscape. Banalata Sen is one of the most famous Bengali poems.",
+  "majorWorks": [
+    "Ruposhi Bangla",
+    "Banalata Sen"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Jibanananda_Das"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jibanananda_Das",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

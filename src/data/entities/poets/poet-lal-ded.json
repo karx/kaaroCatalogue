@@ -1,0 +1,30 @@
+{
+  "entityId": "poet-lal-ded",
+  "name": "Lal Ded",
+  "@type": "Person",
+  "knowsLanguage": "Kashmiri",
+  "era": "Medieval",
+  "century": "14th Century",
+  "literaryMovement": "Kashmir Shaivism-Sufi",
+  "titles": [
+    "Lalla",
+    "Lalleshwari"
+  ],
+  "keywords": [
+    "Vakh",
+    "Shaivism",
+    "Mysticism"
+  ],
+  "abstract": "Her Vakhs (four-line sayings) synthesize Kashmir Shaivism and Sufism. She wandered naked, rejecting societal norms, preaching the oneness of Self and Shiva.",
+  "majorWorks": [
+    "Lal Vakhs"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Lal_Ded"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lal_Ded",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

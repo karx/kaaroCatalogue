@@ -1,0 +1,18 @@
+{
+  "catalogId": "comedy-index-001",
+  "catalogType": "comedy",
+  "name": "Global Stand-Up Comedy Index",
+  "description": "A comprehensive catalog of stand-up comedians worldwide, sourced from YouTube and verified aggregators.",
+  "createdAt": "2026-01-04T20:30:00+05:30",
+  "metadata": {
+    "sources": [
+      "YouTube",
+      "Comedy Central",
+      "Netflix is a Joke",
+      "Dry Bar Comedy"
+    ],
+    "totalEntities": 26,
+    "lastSync": "2026-01-04T20:30:00+05:30",
+    "totalVideos": 364
+  }
+}

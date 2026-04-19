@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-prashasti-singh",
+  "name": "Prashasti Singh",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Prashasti_Singh",
+    "https://www.youtube.com/channel/UCo10yRzepDzIt7B7w2wnM1Q"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prashasti_Singh",
+    "retrievedAt": "2026-01-05T19:34:21.426Z"
+  }
+}

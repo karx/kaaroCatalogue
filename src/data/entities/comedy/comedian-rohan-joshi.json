@@ -1,0 +1,42 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-rohan-joshi",
+  "name": "Rohan Joshi",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "1983",
+  "knowsLanguage": "en, hi",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Mumbai, India"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [
+    "Observational",
+    "Satire",
+    "Sketch Comedy"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Rohan_Joshi",
+    "https://www.youtube.com/@rohanjoshi8016"
+  ],
+  "keywords": [
+    "AIB",
+    "Wake And Bake",
+    "All India Bakchod"
+  ],
+  "verified": false,
+  "abstract": "Rohan Joshi is an Indian stand-up comedian, writer, and YouTuber. He was one of the founding members of the creative agency All India Bakchod (AIB).",
+  "nationality": "Indian",
+  "yearsActive": "2010-Present",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rohan_Joshi",
+    "retrievedAt": "2026-01-06T19:32:39.508Z"
+  }
+}

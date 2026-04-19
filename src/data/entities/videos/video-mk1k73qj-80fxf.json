@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-80fxf",
+  "name": "I HATE FRENCH FRIES #funny #travel #australia #melbourne",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT1M6S",
+  "embedUrl": "https://www.youtube.com/embed/Fg2E3jzSgec",
+  "contentUrl": "https://www.youtube.com/watch?v=Fg2E3jzSgec",
+  "uploadDate": "2025-04-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Fg2E3jzSgec/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

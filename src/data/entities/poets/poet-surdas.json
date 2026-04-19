@@ -1,0 +1,30 @@
+{
+  "entityId": "poet-surdas",
+  "name": "Surdas",
+  "@type": "Person",
+  "knowsLanguage": "Braj Bhasha",
+  "era": "Bhakti",
+  "century": "16th Century",
+  "literaryMovement": "Saguna Bhakti",
+  "titles": [
+    "The Blind Poet"
+  ],
+  "keywords": [
+    "Sur Sagar",
+    "Krishna",
+    "Vatsalya Rasa",
+    "Childhood"
+  ],
+  "abstract": "The blind poet of the Pushtimarg sect. His Sur Sagar contains thousands of songs focusing on Krishna's childhood. His depiction of Vatsalya Rasa (parental love) is unparalleled.",
+  "majorWorks": [
+    "Sur Sagar"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Surdas"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Surdas",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

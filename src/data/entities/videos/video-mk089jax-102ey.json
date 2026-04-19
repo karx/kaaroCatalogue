@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-102ey",
+  "name": "Train -The Unforgettable Journey | Stand up Comedy By Harsh Gujral",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT16M41S",
+  "embedUrl": "https://www.youtube.com/embed/xf-O1pnT5Hs",
+  "contentUrl": "https://www.youtube.com/watch?v=xf-O1pnT5Hs",
+  "uploadDate": "2025-03-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/xf-O1pnT5Hs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "This video is a satirical take on incidents that even Men have to go through in our day to day lives. I have tried to convey a simple message that Men's Safety is never been talked about in this country but deserves equal attention and solutions. Train The Unforgettable Journey has all my experience",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,32 @@
+{
+  "entityId": "poet-dr-bendre",
+  "name": "D.R. Bendre",
+  "@type": "Person",
+  "knowsLanguage": "Kannada",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Navodaya",
+  "titles": [
+    "Varakavi"
+  ],
+  "award": [
+    "Jnanpith Award (1973)"
+  ],
+  "keywords": [
+    "Nakutanti",
+    "Four Strings",
+    "Lyricism"
+  ],
+  "abstract": "A lyrical genius of the Navodaya period. His collection Nakutanti (Four Strings) explores the four levels of speech and won the Jnanpith Award.",
+  "majorWorks": [
+    "Nakutanti"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/D._R._Bendre"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/D._R._Bendre",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}
