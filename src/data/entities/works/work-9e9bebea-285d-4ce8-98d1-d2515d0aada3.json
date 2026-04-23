@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9e9bebea-285d-4ce8-98d1-d2515d0aada3",
+  "name": "काल खड़ा सिर ऊपरै, जागि विराने मीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Death stands above your head, and yet you sleep peacefully, unaware. How can one sleep soundly when their house is on fire?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल खड़ा सिर ऊपरै, जागि विराने मीत।\nजाका घर है गेल में, सो कस सोवे निर्चीत।।१४८०।।",
+    "translation": "Death stands above your head, and yet you sleep peacefully, unaware. How can one sleep soundly when their house is on fire?",
+    "meaning": "मृत्यु सिर पर खड़ी है, फिर भी तुम जागरूक नहीं हो और शांति से सो रहे हो। जब किसी का घर आग में जल रहा हो, तो वह कैसे निश्चिंत होकर सो सकता है?",
+    "explanation": "कबीर इस दोहे में मनुष्य को उसकी मृत्यु की अनिवार्यता के प्रति जागरूक कर रहे हैं। वे कहते हैं कि मृत्यु सिर पर खड़ी है, लेकिन फिर भी मनुष्य इसे नजरअंदाज करके अपने जीवन को अज्ञानता में बिता रहा है। जब किसी का घर जल रहा हो, तो वह निश्चिंत होकर नहीं सो सकता। यह दोहा जीवन के नश्वरता का बोध कराता है और आत्मचिंतन के महत्व पर जोर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.659Z"
+  }
+}

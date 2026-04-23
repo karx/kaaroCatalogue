@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-199e8753-4092-4883-b959-e8d31c218705",
+  "name": "कबीर देख्‍या एक अंग, महिमा कही न जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir saw a single limb, whose glory cannot be described. The radiance of the touchstone master pervades the eyes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर देख्‍या एक अंग, महिमा कही न जाइ।\nतेज पुंज पारस धणीं, नैनूं रहा समाइ।।१८१७।।",
+    "translation": "Kabir saw a single limb, whose glory cannot be described. The radiance of the touchstone master pervades the eyes.",
+    "meaning": "कबीर ने एक अंग देखा, जिसकी महिमा को शब्दों में व्यक्त नहीं किया जा सकता। पारस पत्थर के तेज की तरह, उसकी चमक आंखों में समाई हुई है।",
+    "explanation": "इस दोहे में कबीर ने एक दिव्य अंग के दर्शन की बात की है, जिसकी महिमा को शब्दों में नहीं कहा जा सकता। पारस पत्थर की तरह उसकी चमक और प्रभाव हर आंख में व्याप्त हो जाता है। यह भगवान या गुरु की दिव्यता और उनकी अद्वितीयता का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.625Z"
+  }
+}

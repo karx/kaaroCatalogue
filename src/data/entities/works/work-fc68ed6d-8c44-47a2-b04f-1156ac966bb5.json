@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fc68ed6d-8c44-47a2-b04f-1156ac966bb5",
+  "name": "गुरु शरणागति छाड़ि के, करै भरौसा और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Leaving the refuge of the Guru, one places trust elsewhere. The promises of comfort and wealth are transient; this place is not reliable.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु शरणागति छाड़ि के, करै भरौसा और।\nसुख सम्पति की कह चली, नहीं परक ये ठौर।।२५६।।",
+    "translation": "Leaving the refuge of the Guru, one places trust elsewhere. The promises of comfort and wealth are transient; this place is not reliable.",
+    "meaning": "गुरु की शरण छोड़कर, कोई और पर भरोसा करता है। सुख और संपत्ति की बातें केवल क्षणिक हैं; यह स्थान स्थिर नहीं है।",
+    "explanation": "इस दोहे में कबीर गुरु की शरण को छोड़कर अन्य स्थानों पर भरोसा रखने के बारे में बात करते हैं। वे बताते हैं कि सुख और संपत्ति की बातें अस्थायी होती हैं और इस संसार में स्थिरता नहीं होती। गुरु की शरण ही स्थायी और विश्वसनीय है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.127Z"
+  }
+}

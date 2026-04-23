@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-53hfj",
+  "name": "RTPCR TEST - Stand up Comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT49S",
+  "embedUrl": "https://www.youtube.com/embed/nxGtwdzWx3A",
+  "contentUrl": "https://www.youtube.com/watch?v=nxGtwdzWx3A",
+  "uploadDate": "2023-01-26",
+  "thumbnailUrl": "https://i.ytimg.com/vi/nxGtwdzWx3A/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Stand Up Comedy about everyone's first RTPCR test.\nFollow Naveen on instagram @naveen.richard !\n\n#comedy #standupcomedy #indianstandupcomedy #funny #naveenrichard",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

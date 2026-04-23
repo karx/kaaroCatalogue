@@ -1,0 +1,32 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75f15e73-19f1-4f8f-9516-f938ec1cc3a6",
+  "name": "Dasht-e-Tanhai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Nazm",
+  "abstract": "The Desert of Solitude. A hauntingly beautiful poem about memory and separation.",
+  "keywords": [
+    "Nazm",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/nazms/yaad-dasht-e-tanhaai-mein-ai-jaan-e-jahaan-larzaan-hain-faiz-ahmed-faiz-nazms",
+    "retrievedAt: ": "2026-01-04T19:31:07.327Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/nazms/yaad-dasht-e-tanhaai-mein-ai-jaan-e-jahaan-larzaan-hain-faiz-ahmed-faiz-nazms"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:46:57.662Z"
+  }
+}

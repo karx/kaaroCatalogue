@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-sorabh-pant",
+  "name": "Sorabh Pant",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Sorabh_Pant",
+    "https://www.youtube.com/channel/UCG-DtDzk64PaJHM0Wanj8NA"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sorabh_Pant",
+    "retrievedAt": "2026-01-04T21:11:55.149Z"
+  }
+}

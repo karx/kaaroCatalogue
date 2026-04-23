@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-35541968-d158-4684-b9e8-5893dbfb739b",
+  "name": "साधु मिले यह सब टलै, काल-हाल जम चोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All troubles are alleviated when one meets a saint. Time, circumstances, and death are but minor inconveniences. When one bows to a saint, the burden of sins is lifted.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु मिले यह सब टलै, काल-हाल जम चोट।\nशीश नवावत ढहि परै, अघ्‍ज्ञ पापन के पोट।।५७३।।",
+    "translation": "All troubles are alleviated when one meets a saint. Time, circumstances, and death are but minor inconveniences. When one bows to a saint, the burden of sins is lifted.",
+    "meaning": "जब किसी साधु से मिलता है, तो सभी परेशानियाँ दूर हो जाती हैं। काल, परिस्थिति और मृत्यु केवल मामूली बाधाएँ होती हैं। जब कोई साधु के सामने सिर झुकाता है, तो पापों का बोझ उतर जाता है।",
+    "explanation": "इस दोहे में कबीरदास जी ने साधु के महत्व को उजागर किया है। साधु के साथ संगति से सभी संकट समाप्त हो जाते हैं और पापों का बोझ हल्का हो जाता है। साधु के सामने श्रद्धा से सिर झुका देने से जीवन की सारी समस्याएँ समाप्त हो जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9147f061-7574-4e91-adca-c911c4ac6fe6",
+  "name": "एक छाड़ि पय को गहैं, ज्यों रे गऊ का बच्छ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Leaving one thing, he holds onto another, like a calf holding onto its mother's milk. A saint renounces faults and embraces virtues.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक छाड़ि पय को गहैं, ज्यों रे गऊ का बच्छ।\nअवगुण छाड़ै गुण गहै, ऐसा साधु लच्छ।।३४४।।",
+    "translation": "Leaving one thing, he holds onto another, like a calf holding onto its mother's milk. A saint renounces faults and embraces virtues.",
+    "meaning": "एक को छोड़कर दूसरा पकड़ता है, जैसे बछड़ा माँ का दूध पकड़ता है। साधु दोषों को छोड़कर गुणों को अपनाता है।।",
+    "explanation": "इस दोहे में कबीरदास ने साधु की विशेषताओं का वर्णन किया है। साधु दोषों को छोड़कर गुणों को अपनाता है, जैसे बछड़ा माँ के दूध को पकड़ता है। यह दोहा यह दर्शाता है कि एक सच्चा साधु अपने जीवन से दोषों को हटाकर गुणों को ग्रहण करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

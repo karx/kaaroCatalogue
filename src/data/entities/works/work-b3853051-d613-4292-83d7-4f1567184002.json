@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b3853051-d613-4292-83d7-4f1567184002",
+  "name": "Ulti Ho Gayi Sab Tadbeerein",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "abstract": "All remedies went in vain, no medicine worked\nSee how this ailment of the heart finally finished me...",
+  "content": {
+    "original": "الٹی ہو گئیں سب تدبیریں کچھ نہ دوا نے کام کیا\nدیکھا اس بیماری دل نے آخر کام تمام کیا",
+    "transliteration": "Ulti ho gayin sab tadbeerein kuch na dawa ne kaam kiya\nDekha is beemaari-e-dil ne aakhir kaam tamaam kiya",
+    "translation": "All remedies went in vain, no medicine worked\nSee how this ailment of the heart finally finished me"
+  },
+  "keywords": [
+    "Ghazal",
+    "Urdu"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.010Z"
+  }
+}

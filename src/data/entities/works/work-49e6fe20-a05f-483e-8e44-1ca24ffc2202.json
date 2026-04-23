@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-49e6fe20-a05f-483e-8e44-1ca24ffc2202",
+  "name": "कबीर अपने जीवते, ये दो बांता धोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says while living, these two things should be avoided: pride and greatness, for they never diminish one's true essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर अपने जीवते, ये दो बांता धोय।\nमान बड़ाई कारनै, अछता मूल न खोय।।१२६१।।",
+    "translation": "Kabir says while living, these two things should be avoided: pride and greatness, for they never diminish one's true essence.",
+    "meaning": "कबीर जी कहते हैं कि जीवित रहते हुए इन दो चीजों से बचना चाहिए: गर्व और बड़ाई, क्योंकि ये कभी भी किसी की असली शख्सियत को कम नहीं करतीं।",
+    "explanation": "इस दोहे में कबीर जी ने कहा है कि व्यक्ति को अपने जीवन में गर्व और बड़ाई से दूर रहना चाहिए। ये चीजें किसी के असली गुणों को प्रभावित नहीं करतीं। सच्ची महानता तो तब होती है जब व्यक्ति इन बाहरी दिखावे से दूर रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.543Z"
+  }
+}

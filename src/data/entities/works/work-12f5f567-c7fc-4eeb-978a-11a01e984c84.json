@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-12f5f567-c7fc-4eeb-978a-11a01e984c84",
+  "name": "गगन दमामा बाजिया, हनहनिया के कान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The war drums sound in the sky, alarming the ears. Brave ones rejoice in the call to battle, while cowards flee and lose their lives.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गगन दमामा बाजिया, हनहनिया के कान।\nशूरां घिरां बधावना, कायर तजिहैं प्रान।।२०८२।।",
+    "translation": "The war drums sound in the sky, alarming the ears. Brave ones rejoice in the call to battle, while cowards flee and lose their lives.",
+    "meaning": "आकाश में युद्ध के नगाड़े बजते हैं, जो कानों को चेतावनी देते हैं। वीर लोग इस युद्ध के आह्वान पर प्रसन्न होते हैं, जबकि कायर डरकर प्राण त्याग देते हैं।",
+    "explanation": "इस दोहे में कबीर युद्ध के आह्वान का वर्णन करते हैं। जब युद्ध की घड़ी आती है, वीर पुरुष उसका स्वागत करते हैं और अपने साहस का प्रदर्शन करते हैं। वहीं, कायर लोग भयभीत होकर अपनी जान की परवाह करते हैं और युद्ध से भागते हैं। यह दोहा वीरता, साहस और कायरता के बीच अंतर को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.095Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0db496b8-bcb0-497d-b881-ab1fabd38c22",
+  "name": "तिनका कबहूं न निन्दिये, पांव तले जो होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not criticize even a small straw that is under your feet. It may fly up and fall on your eyes, causing great pain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तिनका कबहूं न निन्दिये, पांव तले जो होय।\nकबहूं उड़‍ि आंखो परै, पीर घनेरी होय।।१२९८।।",
+    "translation": "Do not criticize even a small straw that is under your feet. It may fly up and fall on your eyes, causing great pain.",
+    "meaning": "पांव के नीचे पड़ी एक छोटी सी घास की भी निंदा न करें। वह उड़कर आपकी आंखों में गिर सकती है और गहरा दर्द दे सकती है।",
+    "explanation": "कबीर जी के अनुसार, हमें छोटी-छोटी चीजों की भी निंदा नहीं करनी चाहिए क्योंकि वे भविष्य में बड़ी समस्याएं पैदा कर सकती हैं। छोटी चीजों की अनदेखी करने से कभी-कभी वे ही बड़ी परेशानियों का कारण बनती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.550Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aca78434-2286-4e50-9a6a-d041eb830305",
+  "name": "प्रेम पंथ में पग धरै, देत न शीश डराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who walks the path of love does not fear or bow his head. He is not affected by illusions or dreams, and his birth is not wasted.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम पंथ में पग धरै, देत न शीश डराय।\nसपने मोह व्‍यापे नहिं, ताको जन्‍म नशाय।।८२९।।",
+    "translation": "One who walks the path of love does not fear or bow his head. He is not affected by illusions or dreams, and his birth is not wasted.",
+    "meaning": "जो प्रेम के मार्ग पर चलता है, वह सिर झुकाने या डरने के बजाय आत्मविश्वास से चलता है। वह मोह या स्वप्नों से प्रभावित नहीं होता और उसका जन्म व्यर्थ नहीं जाता।",
+    "explanation": "इस दोहे में कबीर ने प्रेम के मार्ग पर चलने की आत्म-समर्पण की बात की है। जो व्यक्ति सच्चे प्रेम के मार्ग पर चलता है, वह न तो डरता है और न ही सिर झुकाता है। वह मोह और स्वप्नों से प्रभावित नहीं होता और उसके जीवन का उद्देश्य सार्थक होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.080Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-394f70ef-703d-4fab-b9ba-2ad0b1785a8f",
+  "name": "फाड़‍ि फुटोला बज करौं, कामलड़ी पहिराउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I wear the torn clothes of a beggar, and dress in a tattered robe. I adopt whatever guise I can to meet Hari.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "फाड़‍ि फुटोला बज करौं, कामलड़ी पहिराउं।\nजिहि जिहि भेषां हरि मिलै, सोइ सोइ भेष कराउं।।१७७६।।",
+    "translation": "I wear the torn clothes of a beggar, and dress in a tattered robe. I adopt whatever guise I can to meet Hari.",
+    "meaning": "मैं भिखारी के फटे कपड़े पहनता हूँ और चिथड़े वस्त्र पहनता हूँ। हरि से मिलने के लिए मैं किसी भी भेष को अपनाता हूँ।",
+    "explanation": "इस दोहे में कबीर ने भक्तिभाव और अपनी पहचान के त्याग को व्यक्त किया है। वे फटे कपड़े पहनकर और चिथड़े वस्त्र धारण करके हरि से मिलने की कोशिश करते हैं। कबीर का यह दोहा यह दर्शाता है कि सच्चे भक्त अपने बाहरी रूप और भेष से परे जाकर भगवान से मिलने के लिए किसी भी तरह की सादगी और त्याग को अपनाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.350Z"
+  }
+}

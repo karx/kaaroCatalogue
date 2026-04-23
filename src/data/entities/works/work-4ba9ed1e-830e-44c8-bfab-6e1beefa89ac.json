@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ba9ed1e-830e-44c8-bfab-6e1beefa89ac",
+  "name": "भक्ति पंथ बहु कठिन है, रती न चालै खोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path of devotion is very difficult; it does not tolerate falsehood. It is a play of the unsupported, a blow to the unsteady.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति पंथ बहु कठिन है, रती न चालै खोट।\nनिराधार का खेल है, अधर थार की चोट।।७२०।।",
+    "translation": "The path of devotion is very difficult; it does not tolerate falsehood. It is a play of the unsupported, a blow to the unsteady.",
+    "meaning": "भक्ति का मार्ग बहुत कठिन है; इसमें झूठ को सहन नहीं किया जाता। यह असहाय का खेल है, अस्थिरता पर चोट करता है।",
+    "explanation": "इस दोहे में कबीर ने भक्ति के मार्ग की कठिनाइयों को स्पष्ट किया है। उन्होंने कहा है कि भक्ति का मार्ग बहुत कठिन है और इसमें झूठ या गलतियों को स्थान नहीं मिलता। यह असहाय और अस्थिर लोगों के लिए चुनौतीपूर्ण होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.543Z"
+  }
+}

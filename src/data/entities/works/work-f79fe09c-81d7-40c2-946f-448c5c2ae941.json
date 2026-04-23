@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f79fe09c-81d7-40c2-946f-448c5c2ae941",
+  "name": "आवत गारी एक है, उलटन होय अनेक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "An insult may come in one form, but its effects are numerous. Kabir says, do not get distressed; it is all the same.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आवत गारी एक है, उलटन होय अनेक।\nकहै कबीर न उलटिए, वही एक की एक।।९४।।",
+    "translation": "An insult may come in one form, but its effects are numerous. Kabir says, do not get distressed; it is all the same.",
+    "meaning": "गाली एक रूप में आती है, लेकिन इसके प्रभाव अनेक होते हैं। कबीर कहते हैं, परेशान मत हो; सब एक ही है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि किसी भी प्रकार की गाली या निंदा का प्रभाव कई रूपों में दिखाई दे सकता है। हालांकि, इस पर चिंतित होना बेकार है, क्योंकि सभी अनुभव अंततः समान होते हैं। यह सिखाता है कि बाहरी अपमान और निंदा से परेशान होने की बजाय, हमें अपनी आंतरिक स्थिति और दृष्टिकोण को स्थिर रखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

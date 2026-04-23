@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-20bfc882-af04-44e1-9acf-354e5dd2e0b0",
+  "name": "मूरख सों का कहिए, सठ सों कहा बसाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What can be said to a fool, and what can be done to a scoundrel? Hitting a stone does not remove the arrow's mark.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूरख सों का कहिए, सठ सों कहा बसाय।\nपाहन में का मारिये, चोखे तीर नसाय।।१६४५।।",
+    "translation": "What can be said to a fool, and what can be done to a scoundrel? Hitting a stone does not remove the arrow's mark.",
+    "meaning": "मूर्ख को क्या कहें, और सठ से क्या बसायें। पत्थर पर तीर मारने से निशान नहीं हटता।",
+    "explanation": "कबीर इस दोहे में मूर्ख और दुष्ट लोगों की तुलना पत्थर पर तीर मारने से करते हैं। उन्होंने कहा कि इन लोगों को समझाना और उन्हें सुधारना बहुत मुश्किल है, जैसे पत्थर पर तीर से निशान नहीं हटता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.511Z"
+  }
+}

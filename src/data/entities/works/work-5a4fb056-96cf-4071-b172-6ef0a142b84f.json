@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5a4fb056-96cf-4071-b172-6ef0a142b84f",
+  "name": "घी के तो दर्शन भले, खाना भला न तेल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing ghee (clarified butter) is good, but eating it is better than oil. Even a grain can be better than a foe; what is the use of being foolish?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घी के तो दर्शन भले, खाना भला न तेल।\nदाना तो दुश्मन भला, मूरख का क्या मेल।।१२०।।",
+    "translation": "Seeing ghee (clarified butter) is good, but eating it is better than oil. Even a grain can be better than a foe; what is the use of being foolish?",
+    "meaning": "घी को देखना अच्छा है, लेकिन खाना तेल से बेहतर है। एक दाना भी दुश्मन से अच्छा हो सकता है; मूर्खता का क्या लाभ है?",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि बाहरी दिखावे और चमक से ज्यादा महत्वपूर्ण है वास्तविकता और उपयोगिता। घी का दर्शन अच्छा है, लेकिन उसका सेवन तेल से बेहतर है। इसी प्रकार, एक दाना भी किसी दुश्मन से बेहतर हो सकता है। यह संदेश देता है कि मूर्खता और दिखावे पर ध्यान देने के बजाय, हमें वास्तविक उपयोगिता और सच्चाई पर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

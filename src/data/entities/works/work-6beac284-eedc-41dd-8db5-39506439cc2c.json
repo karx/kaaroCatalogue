@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6beac284-eedc-41dd-8db5-39506439cc2c",
+  "name": "[[Kamayani",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-jaishankar-prasad"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/[[Kamayani",
+    "retrievedAt": "2026-01-04T18:39:25.718Z"
+  }
+}

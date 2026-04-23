@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1858bb53-2688-45ff-b088-0d7e6a58cb9c",
+  "name": "प्रेम भाव इक चाहिए, भेष अनेक बनाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One needs only the essence of love, though many disguises are created. Love resides in the heart, but it also manifests in the forest (or natural state).",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम भाव इक चाहिए, भेष अनेक बनाय।\nभावै घर में वास कर, भावै बन में जाय।।८१६।।",
+    "translation": "One needs only the essence of love, though many disguises are created. Love resides in the heart, but it also manifests in the forest (or natural state).",
+    "meaning": "प्रेम की भावना केवल एक ही चाहिए, लेकिन कई भेष बनाए जाते हैं। प्रेम भावना घर में निवास करती है, और वह जंगल में भी प्रकट होती है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की मूल भावना को महत्वपूर्ण बताया है। प्रेम की सच्ची भावना एक ही होनी चाहिए, चाहे भेष कितने भी बनाए जाएं। प्रेम की यह भावना व्यक्ति के दिल में निवास करती है और हर स्थिति में प्रकट होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

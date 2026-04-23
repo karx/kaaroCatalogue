@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7d0cfecd-5a46-4ad3-9830-97e4ff90f825",
+  "name": "तीर तुबक सों जो लड, सो तो शूरा नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who fights with arrows and guns is not truly brave. The true brave are those who are praised, sharing their wealth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीर तुबक सों जो लड, सो तो शूरा नाहिं।\nशूरा सोइ सराहिये, बांटि बांटि धन खाहिं।।२१३३।।",
+    "translation": "One who fights with arrows and guns is not truly brave. The true brave are those who are praised, sharing their wealth.",
+    "meaning": "जो तीर और तोप से लड़े, वह वास्तव में वीर नहीं है। सच्चे वीर वे हैं जिन्हें सराहा जाता है, जो अपने धन को बांटते हैं।",
+    "explanation": "इस दोहे में कबीर ने सच्ची वीरता की परिभाषा प्रस्तुत की है। जो लोग केवल हथियारों के साथ लड़ते हैं, वे वास्तव में वीर नहीं होते। सच्चे वीर वे हैं जो सम्मानित होते हैं और अपने धन को बांटते हैं। यह दोहा सच्ची वीरता और उदारता के बीच के अंतर को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.368Z"
+  }
+}

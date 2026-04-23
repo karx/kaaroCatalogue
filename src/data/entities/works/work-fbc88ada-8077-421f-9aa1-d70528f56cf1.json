@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fbc88ada-8077-421f-9aa1-d70528f56cf1",
+  "name": "कबीर सालिगराम का, मोहिं भरोसा नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says he doesn't trust the idol of Shaligram, as it can be destroyed in an instant by the stroke of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सालिगराम का, मोहिं भरोसा नाहिं।\nकाल कहर की चोट में, बिनसि जाय छिन माहिं।।१३५६।।",
+    "translation": "Kabir says he doesn't trust the idol of Shaligram, as it can be destroyed in an instant by the stroke of time.",
+    "meaning": "कबीर कहते हैं कि उन्हें सालिग्राम (भगवान विष्णु का प्रतीक) की मूर्ति पर भरोसा नहीं है, क्योंकि समय के कहर में यह पल भर में नष्ट हो सकती है।",
+    "explanation": "इस दोहे में कबीर जी मूर्ति पूजा के प्रति अपने अविश्वास को प्रकट कर रहे हैं। वे बताते हैं कि जिन मूर्तियों को हम पूजते हैं, वे भी समय की मार से सुरक्षित नहीं हैं। अगर किसी चीज़ का अस्तित्व केवल समय के आगे नहीं टिक सकता, तो उस पर कैसे भरोसा किया जा सकता है? कबीर यहां भगवान की उस भक्ति की ओर संकेत कर रहे हैं जो मूर्तियों से परे है और जिसे समय भी नहीं मिटा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.083Z"
+  }
+}

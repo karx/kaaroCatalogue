@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-47b364a6-5d6b-4263-b8bb-9177ca11548a",
+  "name": "राम नाम चीन्हा नहीं, कीना पिंजर बास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One does not recognize the name of Rama, though one lives in a cage (body). Sleep does not come to the eyes, and there is no distinct vision.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम चीन्हा नहीं, कीना पिंजर बास।\nनैन न आवे नीदरौं, अलग न आवे भास।।१३९।।",
+    "translation": "One does not recognize the name of Rama, though one lives in a cage (body). Sleep does not come to the eyes, and there is no distinct vision.",
+    "meaning": "राम नाम को पहचानता नहीं, लेकिन पिंजर (शरीर) में रहता है। आँखों में नींद नहीं आती, और स्पष्ट दृष्टि भी नहीं मिलती।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जो व्यक्ति राम के नाम को नहीं पहचानता, वह शरीर के पिंजर में बंधा रहता है। ऐसी स्थिति में, उसकी आत्मा को सच्ची शांति और संतोष नहीं मिल पाता। उसकी आँखों में नींद नहीं आती, और वह स्पष्ट दृष्टि प्राप्त नहीं कर पाता। इसलिए, आत्मा को शांति और सच्चे ज्ञान की प्राप्ति के लिए राम नाम का ज्ञान और आस्था अत्यंत आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

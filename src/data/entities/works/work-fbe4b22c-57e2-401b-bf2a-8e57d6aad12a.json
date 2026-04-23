@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fbe4b22c-57e2-401b-bf2a-8e57d6aad12a",
+  "name": "hum musafir yunhi masruf-e-safar jaenge",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ham-musaafir-yuunhii-masruuf-e-safar-jaaenge-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.210Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ham-musaafir-yuunhii-masruuf-e-safar-jaaenge-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nham musāfir yūñhī masrūf-e-safar jā.eñge\nbe-nishāñ ho ga.e jab shahr to ghar jā.eñge\nkis qadar hogā yahāñ mehr-o-vafā kā mātam\nham tirī yaad se jis roz utar jā.eñge\njauharī band kiye jaate haiñ bāzār-e-suḳhan\nham kise bechne almās-o-guhar jā.eñge\nnemat-e-zīst kā ye qarz chukegā kaise\nlaakh ghabrā ke ye kahte raheñ mar jā.eñge\nshāyad apnā bhī koī bait hudī-ḳhvāñ ban kar\nsaath jā.egā mire yaar jidhar jā.eñge\n'faiz' aate haiñ rah-e-ishq meñ jo saḳht maqām\naane vāloñ se kaho ham to guzar jā.eñge\nhum musafir yunhi masruf-e-safar jaenge\nbe-nishan ho gae jab shahr to ghar jaenge\nkis qadar hoga yahan mehr-o-wafa ka matam\nhum teri yaad se jis roz utar jaenge\njauhari band kiye jate hain bazar-e-suKHan\nhum kise bechne almas-o-guhar jaenge\nnemat-e-zist ka ye qarz chukega kaise\nlakh ghabra ke ye kahte rahen mar jaenge\nshayad apna bhi koi bait hudi-KHwan ban kar\nsath jaega mere yar jidhar jaenge\n'faiz' aate hain rah-e-ishq mein jo saKHt maqam\naane walon se kaho hum to guzar jaenge",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nہم مسافر یوں ہی مصروف سفر جائیں گے\nبے نشاں ہو گئے جب شہر تو گھر جائیں گے\nکس قدر ہوگا یہاں مہر و وفا کا ماتم\nہم تری یاد سے جس روز اتر جائیں گے\nجوہری بند کئے جاتے ہیں بازار سخن\nہم کسے بیچنے الماس و گہر جائیں گے\nنعمت زیست کا یہ قرض چکے گا کیسے\nلاکھ گھبرا کے یہ کہتے رہیں مر جائیں گے\nشاید اپنا بھی کوئی بیت حدی خواں بن کر\nساتھ جائے گا مرے یار جدھر جائیں گے\nفیضؔ آتے ہیں رہ عشق میں جو سخت مقام\nآنے والوں سے کہو ہم تو گزر جائیں گے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nहम मुसाफ़िर यूँही मसरूफ़-ए-सफ़र जाएँगे\nबे-निशाँ हो गए जब शहर तो घर जाएँगे\nकिस क़दर होगा यहाँ मेहर-ओ-वफ़ा का मातम\nहम तिरी याद से जिस रोज़ उतर जाएँगे\nजौहरी बंद किए जाते हैं बाज़ार-ए-सुख़न\nहम किसे बेचने अलमास-ओ-गुहर जाएँगे\nनेमत-ए-ज़ीस्त का ये क़र्ज़ चुकेगा कैसे\nलाख घबरा के ये कहते रहें मर जाएँगे\nशायद अपना भी कोई बैत हुदी-ख़्वाँ बन कर\nसाथ जाएगा मिरे यार जिधर जाएँगे\n'फ़ैज़' आते हैं रह-ए-इश्क़ में जो सख़्त मक़ाम\nआने वालों से कहो हम तो गुज़र जाएँगे",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:22.288Z"
+  }
+}

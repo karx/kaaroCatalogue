@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e6c9df5-db9a-4b81-bf40-220acb8fd118",
+  "name": "हीरा सोई सराहिये, सहे जो धन का चोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The diamond is praised for enduring the blow of wealth. The deceitful human, when examined, reveals flaws.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हीरा सोई सराहिये, सहे जो धन का चोट।\nकपट कुरंगी मानवा, परखत निकला खोट।।१७१८।।",
+    "translation": "The diamond is praised for enduring the blow of wealth. The deceitful human, when examined, reveals flaws.",
+    "meaning": "हीरा को धन के आघात को सहन करने के लिए सराहा जाता है। कपटी मनुष्य, जब परखा जाता है, तो दोष प्रकट होते हैं।",
+    "explanation": "कबीर इस दोहे में सच्चे मूल्य और धोखाधड़ी की बात करते हैं। उन्होंने कहा कि असली मूल्य केवल तब ही दिखता है जब वास्तविक परीक्षण होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.071Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f0274a34-3cce-4339-a6db-c49ddc8438db",
+  "name": "अबकी जो सांई मिलै, सब दुख आंखो रोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If I meet my Lord this time, I will weep away all my sorrows. I will place my head at His feet and say whatever is in my heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अबकी जो सांई मिलै, सब दुख आंखो रोइ।\nचरणों ऊपर शिर धरों, कहूं जो कहना होइ।।२१९९।।",
+    "translation": "If I meet my Lord this time, I will weep away all my sorrows. I will place my head at His feet and say whatever is in my heart.",
+    "meaning": "अगर इस बार मैं अपने सांई से मिलूं, तो अपने सभी दुखों को रो दूंगा। मैं उनके चरणों पर अपना सिर रखूंगा और जो भी मेरे दिल में है, वह कहूंगा।",
+    "explanation": "इस दोहे में संत कबीर जी भगवान से मिलने की तीव्र इच्छा व्यक्त कर रहे हैं। वे कहते हैं कि अगर इस बार वे भगवान से मिलते हैं, तो वे अपने सभी दुखों को आंसुओं में बहा देंगे और भगवान के चरणों में अपना सिर रखकर दिल की सारी बातें कहेंगे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.735Z"
+  }
+}

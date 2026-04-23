@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bdc0dde2-8e47-47e4-b49c-1afce55107a4",
+  "name": "मैं सोचों हित जानिके, कठिन भयो है काठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I realize that the wood is hard; the path becomes difficult when one takes the lowly company, like a river that has lost its course.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं सोचों हित जानिके, कठिन भयो है काठ।\nओछी संगत नीच की, सरि पर पाड़ी बाट।।३९७।।",
+    "translation": "I realize that the wood is hard; the path becomes difficult when one takes the lowly company, like a river that has lost its course.",
+    "meaning": "मुझे समझ में आता है कि लकड़ी कठिन है; नीच संगति के कारण मार्ग कठिन हो जाता है, जैसे कि एक नदी जो अपना मार्ग खो चुकी है।",
+    "explanation": "इस दोहे में कबीर दास जी ने नीच संगति के प्रभाव को स्पष्ट किया है। वे कहते हैं कि जैसे कठिन लकड़ी को समझना कठिन होता है, वैसे ही नीच लोगों की संगति के कारण जीवन का मार्ग कठिन हो जाता है। यह स्थिति एक नदी के मार्ग बदलने के समान होती है, जिसमें सही दिशा की कमी हो जाती है। यह दोहा हमें यह सिखाता है कि नीच संगति से जीवन की राह में बाधाएँ उत्पन्न होती हैं और हमें अच्छे लोगों की संगति करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

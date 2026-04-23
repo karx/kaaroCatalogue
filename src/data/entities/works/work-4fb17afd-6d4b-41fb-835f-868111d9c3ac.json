@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4fb17afd-6d4b-41fb-835f-868111d9c3ac",
+  "name": "गाँठि न थामहिं बाँध ही, नहिं नारी सो नेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who does not hold onto the knot, does not have true affection. Kabir says, the wise are devoted to the feet of the Divine.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गाँठि न थामहिं बाँध ही, नहिं नारी सो नेह।\nकह कबीर वा साधु की, हम चरनन की खेह।।११८।।",
+    "translation": "One who does not hold onto the knot, does not have true affection. Kabir says, the wise are devoted to the feet of the Divine.",
+    "meaning": "जो गाँठ को नहीं थामता, वह सच्चे प्रेम का अधिकारी नहीं है। कबीर कहते हैं कि ज्ञानी व्यक्ति ईश्वर के चरणों में समर्पित होते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि सच्चे प्रेम और समर्पण के बिना कोई भी नहीं समझ सकता। जो लोग आध्यात्मिक मार्ग पर चलकर ईश्वर के चरणों में समर्पित रहते हैं, वही सच्चे प्रेम और समर्पण के अधिकारी होते हैं। यह सिखाता है कि हमें अपनी आध्यात्मिक यात्रा पर पूरी तरह से ध्यान केंद्रित करना चाहिए और ईश्वर के चरणों में समर्पित रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

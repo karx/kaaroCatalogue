@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc4cca7c-7311-4563-b625-efa2fe6cc804",
+  "name": "ई जग तो जहड़े गया, भया जोग नहिं भोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This world has turned into a wilderness, where there is no joy or comfort. Kabir says, after removing the sesame seeds, people are still searching for them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ई जग तो जहड़े गया, भया जोग नहिं भोग।\nतील झाारि कबिरा लिया, तिलठी झारे लोग।।१४५५।।",
+    "translation": "This world has turned into a wilderness, where there is no joy or comfort. Kabir says, after removing the sesame seeds, people are still searching for them.",
+    "meaning": "यह दुनिया एक वन में बदल गई है, जहां कोई आनंद या सुख नहीं है। कबीर कहते हैं, तिल निकालने के बाद भी लोग तिल खोज रहे हैं।",
+    "explanation": "कबीर इस दोहे में सांसारिक असंतोष और भ्रांति की बात करते हैं। वे बताते हैं कि इस दुनिया में आनंद और सुख की कोई बात नहीं है, और लोग तिल निकालने के बाद भी उसे खोजते रहते हैं। यह दोहा सांसारिक वस्तुओं के प्रति मोह और असंतोष को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.654Z"
+  }
+}

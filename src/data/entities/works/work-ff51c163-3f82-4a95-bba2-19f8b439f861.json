@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ff51c163-3f82-4a95-bba2-19f8b439f861",
+  "name": "जा घर गुरु की भक्ति नहीं, संत नहीं मिहमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In a home where there is no devotion to the guru and no saintly guest, the house becomes a dwelling place for death, and life becomes a graveyard.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा घर गुरु की भक्ति नहीं, संत नहीं मिहमान।\nता घर जम डेरा दिया, जीवत भये मसान।।६५४।।",
+    "translation": "In a home where there is no devotion to the guru and no saintly guest, the house becomes a dwelling place for death, and life becomes a graveyard.",
+    "meaning": "जहाँ घर में गुरु की भक्ति नहीं है और संत का आगमन नहीं है, वहाँ घर यम का डेरा बन जाता है, और जीवन एक श्मशान सा हो जाता है।",
+    "explanation": "जब घर में गुरु की भक्ति और संतों का आगमन नहीं होता, तो वह घर नकारात्मकता और अशांति का स्थान बन जाता है। जीवन में सद्गुणों की उपस्थिति आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.268Z"
+  }
+}

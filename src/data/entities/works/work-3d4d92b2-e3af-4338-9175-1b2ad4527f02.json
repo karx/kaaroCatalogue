@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d4d92b2-e3af-4338-9175-1b2ad4527f02",
+  "name": "मन मनसा जब जायगी, तब आवैगी और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the mind is tamed and becomes stable, then peace will come. Only when it becomes steady, will it find its place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मनसा जब जायगी, तब आवैगी और।\nजबही निहचल होगया, तब पावैगा ठौर।।११२०।।",
+    "translation": "When the mind is tamed and becomes stable, then peace will come. Only when it becomes steady, will it find its place.",
+    "meaning": "जब मन को वश में किया जाएगा और स्थिर हो जाएगा, तब शांति आएगी। केवल तब ही जब यह स्थिर होगा, यह अपना स्थान पाएगा।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिरता और शांति की प्राप्ति की बात की है। उन्होंने कहा है कि जब मन को शांत और स्थिर किया जाता है, तभी शांति प्राप्त होती है। मन की स्थिरता ही शांति और संतोष की ओर ले जाती है। यह ध्यान और आत्म-नियंत्रण की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.703Z"
+  }
+}

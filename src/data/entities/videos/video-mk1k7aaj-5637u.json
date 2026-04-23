@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7aaj-5637u",
+  "name": "Maggi Wala Experience | Stand-Up Comedy by Appurv Gupta Aka GuptaJi",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-appurv-gupta"
+  },
+  "duration": "PT5M2S",
+  "embedUrl": "https://www.youtube.com/embed/K-WoNgXq_kg",
+  "contentUrl": "https://www.youtube.com/watch?v=K-WoNgXq_kg",
+  "uploadDate": "2018-05-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/K-WoNgXq_kg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Disclaimer: This is Stand Up Comedy and this video is meant for entertainment purpose only. The views, ideas, comments, opinions and statements expressed in this video are meant for entertainment purpose only, nothing personal against anyone. Please watch this video in light humor only. Offend hone ",
+  "channelTitle": "Appurv Gupta",
+  "aggregatorChannel": null
+}

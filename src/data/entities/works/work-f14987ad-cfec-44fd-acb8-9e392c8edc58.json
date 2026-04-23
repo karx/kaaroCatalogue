@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f14987ad-cfec-44fd-acb8-9e392c8edc58",
+  "name": "साधु सोई जानिये, चलै साधु की चाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One should recognize a saint by his actions. A saint continues to do good and speaks words that are full of nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सोई जानिये, चलै साधु की चाल।\nपरमारथ करता रहै, बोलै बचन रसाल।।५९८।।",
+    "translation": "One should recognize a saint by his actions. A saint continues to do good and speaks words that are full of nectar.",
+    "meaning": "संत को उसके कार्यों से पहचानना चाहिए। संत हमेशा परमार्थ करते हैं और उनके शब्द अमृत से भरे होते हैं।",
+    "explanation": "संत की पहचान उसके कार्य और वाणी से होती है। वे हमेशा दूसरों की भलाई के लिए काम करते हैं और उनके शब्द मधुर और ज्ञानपूर्ण होते हैं। संत का आचरण और उनका संदेश समाज में सकारात्मक बदलाव लाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

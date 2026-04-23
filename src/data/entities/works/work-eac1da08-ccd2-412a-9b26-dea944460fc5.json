@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eac1da08-ccd2-412a-9b26-dea944460fc5",
+  "name": "आधी साखी सिर खंड़ी, जो निरुवारी जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Half of the verse is cut off at the head, which is of no use. What are the books of scholars if they are lost day and night?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आधी साखी सिर खंड़ी, जो निरुवारी जाय।\nक्‍या पंडित की पोथियां, राति दिवस मिलि गाय।।१४५०।।",
+    "translation": "Half of the verse is cut off at the head, which is of no use. What are the books of scholars if they are lost day and night?",
+    "meaning": "आधी साखी सिर से कट जाती है, जो निरर्थक है। पंडितों की पुस्तकें रात और दिन खो जाती हैं, क्या महत्व है?",
+    "explanation": "कबीर इस दोहे में ज्ञान और पुस्तकों की महत्वता की बात करते हैं। वे बताते हैं कि आधा ज्ञान या साखी जो अधूरी होती है, उसका कोई मूल्य नहीं है। पंडितों की पुस्तकें भी यदि खो जाती हैं, तो उनका क्या महत्व रह जाता है। यह दोहा सच्चे ज्ञान और उसकी स्थायिता की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.372Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-84562b57-0519-47a1-92d5-b31f3388642e",
+  "name": "सेवैं सालिगराम कूं, माया सेती हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Serving the Saligram is for the sake of illusion. They wear black cloth and take the name for show.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सेवैं सालिगराम कूं, माया सेती हेत।\nओढ़ें काला कापड़ा, नांव धरावैं सेत।।२०२७।।",
+    "translation": "Serving the Saligram is for the sake of illusion. They wear black cloth and take the name for show.",
+    "meaning": "सालिग्राम की सेवा माया के लिए है। वे काले कपड़े पहनते हैं और नाम का दिखावा करते हैं।",
+    "explanation": "इस दोहे में कबीर ने सालिग्राम की सेवा की वास्तविकता को उजागर किया है। उन्होंने बताया है कि यह सेवा केवल माया के लिए होती है और लोग काले कपड़े पहनकर और नाम का दिखावा करके इसे दिखाते हैं। यह सच्ची भक्ति की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.806Z"
+  }
+}

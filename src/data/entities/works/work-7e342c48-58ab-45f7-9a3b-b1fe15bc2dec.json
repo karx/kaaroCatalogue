@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e342c48-58ab-45f7-9a3b-b1fe15bc2dec",
+  "name": "ज्यों तिल मांहि तेल है, ज्यों चकमक में आग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as oil is in sesame seeds and fire is in flint, your Lord resides within you. Wake up if you can.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्यों तिल मांहि तेल है, ज्यों चकमक में आग।\nतेरा सांई तुझ में है, बस जाग सके तो जाग।।४५।।",
+    "translation": "Just as oil is in sesame seeds and fire is in flint, your Lord resides within you. Wake up if you can.",
+    "meaning": "जैसे तिल में तेल होता है और चकमक पत्थर में आग होती है, वैसे ही आपका भगवान आपके अंदर निवास करता है। यदि आप जाग सकते हैं, तो जाग जाइए।",
+    "explanation": "इस दोहे में संत कबीर भगवान की उपस्थिति को स्पष्ट करते हैं। वे बताते हैं कि भगवान हमारे अंदर ही हैं, जैसे तिल में तेल और चकमक पत्थर में आग होती है। हमें केवल अपनी अंतरात्मा को जागृत करने की आवश्यकता है ताकि हम भगवान की उपस्थिति को पहचान सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

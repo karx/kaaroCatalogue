@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ba5e5af1-0f42-4ab8-911c-e7df1fb03d60",
+  "name": "ढोल दमामा दुरबरी, सहनाई संग भेरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The drums and trumpets sound, accompanied by the shehnai and horn. When the time passes, can anyone bring it back?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ढोल दमामा दुरबरी, सहनाई संग भेरि।\nऔसर चले बजाय के, है कोई रखै फेरि।।४२२।।",
+    "translation": "The drums and trumpets sound, accompanied by the shehnai and horn. When the time passes, can anyone bring it back?",
+    "meaning": "ढोल और दमामा बजते हैं, साथ में सहनाई और भेरी भी। जब समय बीत जाता है, तो क्या कोई उसे वापस ला सकता है?",
+    "explanation": "कबीर इस दोहे में जीवन के समय की अनमोलता को उजागर करते हैं। वह कहते हैं कि जैसे संगीत और शोर के साथ समय बीत जाता है, वैसे ही जीवन भी समय के साथ गुजरता है। और जब समय एक बार बीत जाता है, तो उसे कोई वापस नहीं ला सकता। यह दोहा हमें यह सीख देता है कि हमें अपने जीवन के समय का सही तरीके से उपयोग करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a25acc1-ed8d-429c-9190-932c9dc5f58e",
+  "name": "दीठा है तो कस कहूं, कह्मा न को पतियाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you see Him, what can I say? No one can hold Him. Stay as He is; sing His virtues with joy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीठा है तो कस कहूं, कह्मा न को पतियाइ।\nहरि जैसा है तैसा रहो, तू हरिष-हरिष गुण गाइ।।१६२।।",
+    "translation": "If you see Him, what can I say? No one can hold Him. Stay as He is; sing His virtues with joy.",
+    "meaning": "यदि आप उसे देखते हैं, तो मैं क्या कह सकता हूँ? कोई भी उसे पकड़ नहीं सकता। जैसे वह है, वैसे ही रहो; उसकी गुणों को खुशी से गाओ।",
+    "explanation": "कबीर इस दोहे में ईश्वर की अनंतता और उसकी सर्वव्यापकता को दर्शाते हैं। यदि किसी को ईश्वर का दर्शन हो जाए, तो उसे समझना कठिन होता है क्योंकि कोई भी ईश्वर को पूरी तरह से पकड़ नहीं सकता। इसलिए, जैसे वह हैं, वैसे ही रहने और उनके गुणों की स्तुति करने की सलाह दी जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a814091-7e22-4509-94b8-4cde605ea0ef",
+  "name": "खूब खांड है खीचड़ी, माहि ष्डयाँ टुक कून",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sweet pudding is abundant, yet within it are six grains. Seeing another's meal makes one greedy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खूब खांड है खीचड़ी, माहि ष्डयाँ टुक कून।\nदेख पराई चूपड़ी, जी ललचावे कौन।।१८६।।",
+    "translation": "The sweet pudding is abundant, yet within it are six grains. Seeing another's meal makes one greedy.",
+    "meaning": "खूब सारी मिठाई है, लेकिन उसमें छह दाने ही हैं। दूसरों का भोजन देखकर ही लालच बढ़ जाता है।",
+    "explanation": "इस दोहे में कबीर ने लालच और संतोष की मनोवृत्ति पर प्रकाश डाला है। वे बताते हैं कि हमारे पास जो भी समृद्धि है, वह पूरी तरह से संतोषजनक होनी चाहिए। दूसरों के संसाधनों या स्थिति को देखकर लालच का पैदा होना केवल हमारे मन की कमजोरी को दर्शाता है। संतोष और आत्मनिर्भरता ही जीवन में सच्ची खुशी लाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-13a6e4bd-577a-4324-968f-90d9044d00ba",
+  "name": "हद चाले सो मानव, बेहद चले सो साध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A person who follows the rules is human; one who transcends them is a sage. The one who forsakes both boundaries and boundlessness is immersed in divine love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हद चाले सो मानव, बेहद चले सो साध।\nहद-बेहद दोनों तजे, ताको भाव अगाध।।२८।।",
+    "translation": "A person who follows the rules is human; one who transcends them is a sage. The one who forsakes both boundaries and boundlessness is immersed in divine love.",
+    "meaning": "जो नियमों का पालन करता है वह मानव है; जो उन्हें पार कर जाता है वह साधु है। जो हद और बेहद दोनों को त्याग देता है, वह अगाध प्रेम में डूब जाता है।",
+    "explanation": "संत कबीर इस दोहे में कहते हैं कि जो व्यक्ति सीमाओं और असीमितता दोनों को त्याग देता है, वह वास्तविक प्रेम की गहराई में प्रवेश करता है। यह प्रेम साधारण प्रेम नहीं है, बल्कि वह प्रेम है जो केवल उन लोगों के लिए है जो सांसारिक बंधनों से मुक्त हो चुके हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

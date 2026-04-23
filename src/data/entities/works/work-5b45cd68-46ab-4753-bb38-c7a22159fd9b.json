@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5b45cd68-46ab-4753-bb38-c7a22159fd9b",
+  "name": "काह भरोसा देह का, बिनस जात छिन मारहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why rely on the body, which perishes every moment? Remember the Divine with every breath and make no other effort.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काह भरोसा देह का, बिनस जात छिन मारहिं।\nसाँस-साँस सुमिरन करो, और यतन कछु नाहिं।।१०५।।",
+    "translation": "Why rely on the body, which perishes every moment? Remember the Divine with every breath and make no other effort.",
+    "meaning": "देह पर भरोसा क्यों करें, जो हर पल नष्ट होती जाती है? हर सांस के साथ दिव्य को याद करें और किसी अन्य प्रयास की आवश्यकता नहीं है।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि शारीरिक शरीर पर विश्वास रखना व्यर्थ है क्योंकि यह हर पल नष्ट होता रहता है। इसके बजाय, हमें हर सांस के साथ दिव्य की याद में रहना चाहिए और आध्यात्मिक प्रथा पर ध्यान केंद्रित करना चाहिए। यह संदेश है कि जीवन की सच्ची सुरक्षा और शांति बाहरी भौतिकता से नहीं, बल्कि आध्यात्मिकता और दिव्य स्मरण से प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

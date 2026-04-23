@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1d834d93-0a70-431e-b3ad-e5e9f2ce42d2",
+  "name": "शिष्‍य पूजै गुरु आपना, गुरु पूजे सब साध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The disciple worships his own guru, and the guru is worshipped by all saints. Says Kabir, the guru is beyond comprehension and profound.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शिष्‍य पूजै गुरु आपना, गुरु पूजे सब साध।\nकहैं कबीर गुरु शीष को, मत है अगम अगाध।।५३७।।",
+    "translation": "The disciple worships his own guru, and the guru is worshipped by all saints. Says Kabir, the guru is beyond comprehension and profound.",
+    "meaning": "शिष्य अपने गुरु की पूजा करता है, और गुरु सभी साधुओं द्वारा पूजा जाता है। कबीर कहते हैं कि गुरु अपार और अज्ञेय हैं।",
+    "explanation": "इस दोहे में कबीर जी गुरु की महानता को बताते हैं। शिष्य अपने गुरु की पूजा करता है, जबकि गुरु सभी साधुओं द्वारा पूजा जाता है। गुरु की वास्तविकता अज्ञेय और गहन होती है, जिसे पूरी तरह से समझना मुश्किल है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

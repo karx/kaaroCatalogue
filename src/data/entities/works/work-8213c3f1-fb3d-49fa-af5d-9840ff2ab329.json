@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8213c3f1-fb3d-49fa-af5d-9840ff2ab329",
+  "name": "शब्‍द हमारा तूं शब्‍द का, सुनि मति जाह सरक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The word is ours and also the word of others; listen and let the mind discern. If you wish to understand the truth, examine it through the word.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द हमारा तूं शब्‍द का, सुनि मति जाह सरक।\nजो चाहहु निज तत्त्‍व को, शब्‍दह लेह परख।।१६७९।।",
+    "translation": "The word is ours and also the word of others; listen and let the mind discern. If you wish to understand the truth, examine it through the word.",
+    "meaning": "शब्द हमारा भी है और दूसरों का भी; सुनो और मन को जांचने दो। यदि आप सच्चाई समझना चाहते हैं, तो शब्द के माध्यम से परखें।",
+    "explanation": "कबीर इस दोहे में शब्द और सत्य की बात करते हैं। उन्होंने कहा कि सत्य को समझने के लिए शब्दों का सही परख आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.789Z"
+  }
+}

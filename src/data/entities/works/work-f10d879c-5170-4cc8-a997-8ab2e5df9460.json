@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f10d879c-5170-4cc8-a997-8ab2e5df9460",
+  "name": "ज्‍यूं मन मेरा तुझ सौं, यौं जे तेरा होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If your mind merges with mine as mine does with yours, it will be like two pieces of iron welded together, with no visible seam.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्‍यूं मन मेरा तुझ सौं, यौं जे तेरा होइ।\nताता लोहा यौं मिलै, संधि न लखई कोइ।।१८६२।।",
+    "translation": "If your mind merges with mine as mine does with yours, it will be like two pieces of iron welded together, with no visible seam.",
+    "meaning": "यदि तुम्हारा मन मेरे साथ वैसे ही मिल जाए जैसे मेरा मन तुम्हारे साथ मिलता है, तो यह दो लोहे के टुकड़ों के जुड़ने जैसा होगा, जिसमें कोई जोड़ दिखाई नहीं देगा।",
+    "explanation": "इस दोहे में कबीरदास जी यह बता रहे हैं कि जब प्रेम सच्चा होता है, तो उसमें कोई अंतर नहीं रह जाता। जैसे दो लोहे के टुकड़े जब जोड़ दिए जाते हैं, तो उनमें कोई फर्क दिखाई नहीं देता, वैसे ही जब दो लोगों के मन आपस में मिल जाते हैं, तो उनमें कोई भेदभाव या दूरी नहीं रह जाती। सच्चे प्रेम और एकता की यही पहचान है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.969Z"
+  }
+}

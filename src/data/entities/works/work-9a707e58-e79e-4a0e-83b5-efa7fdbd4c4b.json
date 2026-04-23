@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9a707e58-e79e-4a0e-83b5-efa7fdbd4c4b",
+  "name": "साधु-ऐसा चाहिए, जाका पूरा मंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint should be one who fulfills all requests and does not abandon even in adversity. Such a saint's presence enriches and multiplies.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु-ऐसा चाहिए, जाका पूरा मंग।\nविपत्ति पड़े छाड़ै नहीं, चढ़े चौगुना रंग।।३६०।।",
+    "translation": "A saint should be one who fulfills all requests and does not abandon even in adversity. Such a saint's presence enriches and multiplies.",
+    "meaning": "संत ऐसा होना चाहिए, जो सभी मांगों को पूरा करे और विपत्ति में भी न छोड़े। ऐसा संत की उपस्थिति अमीर और चौगुना रंग बढ़ा देती है।।",
+    "explanation": "इस दोहे में कबीरदास ने सच्चे संत की विशेषताओं का वर्णन किया है। एक सच्चा संत वह होता है जो किसी भी मांग को पूरा करता है और विपत्ति के समय भी किसी को नहीं छोड़ता। उसकी उपस्थिति से व्यक्ति की स्थिति में गुणात्मक और गुणात्मक वृद्धि होती है। यह दोहा यह भी बताता है कि संत की सच्ची सेवा का प्रभाव बहुत बड़ा और गुणकारी होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

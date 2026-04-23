@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fc85ec70-c7fa-4215-8715-7333fc8674f0",
+  "name": "माया दासी सन्‍त की, साकट की शिर ताज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion is a maidservant to saints, but it crowns the miser. Illusion, in times of crisis, is honored as a friend, but among saints, it is a source of shame.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया दासी सन्‍त की, साकट की शिर ताज।\nसांकट की सिर मानिनी, सन्‍तों सहेली लाज।।११९२।।",
+    "translation": "Illusion is a maidservant to saints, but it crowns the miser. Illusion, in times of crisis, is honored as a friend, but among saints, it is a source of shame.",
+    "meaning": "माया संतों की दासी होती है, लेकिन यह कंजूस के सिर पर ताज पहनाती है। संकट के समय माया को सम्मानित मित्र माना जाता है, लेकिन संतों के बीच यह लज्जा का कारण होती है।",
+    "explanation": "इस दोहे में कबीर ने माया की दोहरी भूमिका को व्यक्त किया है। माया संतों के लिए एक दासी की तरह होती है, जबकि कंजूसों के लिए यह एक ताज की तरह होती है। संकट के समय माया को एक मित्र की तरह सम्मानित किया जाता है, लेकिन संतों के बीच यह लज्जा का कारण बनती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.975Z"
+  }
+}

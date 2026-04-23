@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-807603dc-83f0-4f6a-ae55-700e17d64ea0",
+  "name": "गु अंधियारी जानिये, रु कहिये परकास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ignorance is darkness, knowledge is light. The removal of ignorance through knowledge is achieved through the name of the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गु अंधियारी जानिये, रु कहिये परकास।\nमिटे अज्ञान तम ज्ञान ते, गुरु नाम है तास।।५१८।।",
+    "translation": "Ignorance is darkness, knowledge is light. The removal of ignorance through knowledge is achieved through the name of the Guru.",
+    "meaning": "अज्ञान अंधकार है, ज्ञान प्रकाश है। अज्ञान को मिटाने के लिए गुरु का नाम आवश्यक है।",
+    "explanation": "इस दोहे में संत कबीर जी ज्ञान और अज्ञान के बीच के अंतर को समझा रहे हैं। वह कहते हैं कि अज्ञान अंधकार के समान है, जबकि ज्ञान प्रकाश के समान है। गुरु का नाम और उनकी शिक्षा ही हमें अज्ञान के अंधकार से निकाल कर ज्ञान के प्रकाश की ओर ले जा सकती है। इस प्रकार गुरु जीवन में प्रकाश का स्त्रोत हैं और अज्ञान को मिटाने वाले हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

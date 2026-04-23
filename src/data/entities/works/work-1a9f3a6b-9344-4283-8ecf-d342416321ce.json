@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1a9f3a6b-9344-4283-8ecf-d342416321ce",
+  "name": "मन मते माया तजी, यूं करि निकस बहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Renounce illusion from the mind and exit from it. Without realizing it, one remains lost and bewildered.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मते माया तजी, यूं करि निकस बहार।\nलागि रहि जानी नहीं, भटकी भयो खुवार।।११६३।।",
+    "translation": "Renounce illusion from the mind and exit from it. Without realizing it, one remains lost and bewildered.",
+    "meaning": "मन से माया को छोड़ दो और इससे बाहर निकलो। बिना समझे ही, व्यक्ति भ्रमित और भटका हुआ रहता है।",
+    "explanation": "इस दोहे में कबीर ने माया और भ्रम से छुटकारा पाने की बात की है। वे बताते हैं कि यदि आप मन से माया का परित्याग कर देते हैं और इसे छोड़ देते हैं, तो भी अगर आपको इसका सही ज्ञान नहीं है, तो आप भ्रमित और भटके हुए रह सकते हैं। आत्मिक जागरूकता और सही समझ की आवश्यकता है ताकि आप सही मार्ग पर चल सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.969Z"
+  }
+}

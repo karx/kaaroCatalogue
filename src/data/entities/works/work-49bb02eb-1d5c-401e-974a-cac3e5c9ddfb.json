@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-49bb02eb-1d5c-401e-974a-cac3e5c9ddfb",
+  "name": "मन चलतां तन भी चलै, ताते मन को घेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the mind is restless, the body also becomes restless. When both the mind and body are under control, one can attain the heights of Mount Sumeru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन चलतां तन भी चलै, ताते मन को घेर।\nतन मन दोऊ बसि करै, होय राइ सुमेर।।११०४।।",
+    "translation": "When the mind is restless, the body also becomes restless. When both the mind and body are under control, one can attain the heights of Mount Sumeru.",
+    "meaning": "जब मन अस्थिर होता है, तब शरीर भी अस्थिर हो जाता है। जब मन और शरीर दोनों पर नियंत्रण हो जाता है, तब व्यक्ति सुमेरु पर्वत की ऊचाइयों को प्राप्त कर सकता है।",
+    "explanation": "इस दोहे में कबीर ने मन और शरीर के आपसी संबंध को बताया है। अगर मन अशांत और अस्थिर होता है, तो इसका असर शरीर पर भी पड़ता है और शरीर भी अस्थिर हो जाता है। परंतु, जब मन और शरीर दोनों को नियंत्रण में रखा जाता है, तब व्यक्ति उच्चतम स्थिति, जैसे सुमेरु पर्वत, तक पहुँच सकता है। इसका तात्पर्य है कि मानसिक और शारीरिक संतुलन एक व्यक्ति को उच्च स्थिति और शांति प्राप्त करने में मदद करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.700Z"
+  }
+}

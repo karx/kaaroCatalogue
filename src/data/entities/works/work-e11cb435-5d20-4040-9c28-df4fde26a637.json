@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e11cb435-5d20-4040-9c28-df4fde26a637",
+  "name": "Night of the Scorpion",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-nissim-ezekiel"
+  },
+  "inLanguage": "English",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Night_of_the_Scorpion",
+    "retrievedAt": "2026-01-04T18:39:37.094Z"
+  }
+}

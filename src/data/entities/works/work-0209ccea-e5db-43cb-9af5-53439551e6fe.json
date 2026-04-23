@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0209ccea-e5db-43cb-9af5-53439551e6fe",
+  "name": "मच्‍छ बिकाने सब गये, धीमर के दरबार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone went to the fish market, to the fisherman’s court. Your eyes are like precious jewels; why then do you wear the net?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मच्‍छ बिकाने सब गये, धीमर के दरबार।\nअंखियां तेरी रतनारी, तुम क्‍यों पैन्‍हीं जाल।।१६२८।।",
+    "translation": "Everyone went to the fish market, to the fisherman’s court. Your eyes are like precious jewels; why then do you wear the net?",
+    "meaning": "सभी लोग मछली बाजार में गए, मछुआरे के दरबार में। तुम्हारी आंखें रत्न जैसी हैं; फिर तुम जाल क्यों पहनते हो?",
+    "explanation": "कबीर इस दोहे में दिखाते हैं कि विश्वसनीय चीज़ों को अनावश्यक चीज़ों से बदलना कितना मूर्खतापूर्ण है। उन्होंने कहा कि हमारे पास मूल्यवान चीज़ें हैं, फिर भी हम उन चीज़ों को अपनाने की कोशिश करते हैं जो हमें नुकसान पहुंचा सकती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.507Z"
+  }
+}

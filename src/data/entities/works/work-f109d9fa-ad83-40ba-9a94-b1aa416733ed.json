@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f109d9fa-ad83-40ba-9a94-b1aa416733ed",
+  "name": "अटकी भाल सरीर में, तीर भया है टूट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The arrow is stuck in the body, and it cannot be removed without a magnet. Millions of recitations will not remove it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अटकी भाल सरीर में, तीर भया है टूट।\nचुम्बक बिन निकसे नहीं, कोटि पढ़न को फूट।।९१।।",
+    "translation": "The arrow is stuck in the body, and it cannot be removed without a magnet. Millions of recitations will not remove it.",
+    "meaning": "बाण शरीर में फंसा हुआ है, और इसे चुम्बक के बिना निकाला नहीं जा सकता। लाखों पाठ भी इसे नहीं निकाल सकते।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि कुछ समस्याएं इतनी जटिल होती हैं कि उन्हें केवल बाहरी प्रयासों से नहीं सुलझाया जा सकता। बाण के शरीर में फंसे रहने की स्थिति को उदाहरण के रूप में लिया गया है, जो बिना सही साधन (जैसे चुम्बक) के नहीं निकाला जा सकता। लाखों बार पढ़ना या प्रयास करना समस्या का समाधान नहीं कर सकता, सही साधन और दृष्टिकोण की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

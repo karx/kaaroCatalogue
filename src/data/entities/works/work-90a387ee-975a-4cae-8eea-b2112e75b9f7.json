@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-90a387ee-975a-4cae-8eea-b2112e75b9f7",
+  "name": "बहुबंधन के बंधिया, एक विचारा जीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Bound by many ties, the soul ponders. Some may free themselves, while others need help from the beloved to be liberated.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बहुबंधन के बंधिया, एक विचारा जीव।\nके छूटे बल आपने, के छुड़ावे पीव।।१६१०।।",
+    "translation": "Bound by many ties, the soul ponders. Some may free themselves, while others need help from the beloved to be liberated.",
+    "meaning": "कई बंधनों में बंधा हुआ जीव विचार करता है। कुछ खुद को मुक्त कर लेते हैं, जबकि दूसरों को प्रिय की मदद की आवश्यकता होती है।",
+    "explanation": "कबीर इस दोहे में बंधनों और मुक्ति की बात करते हैं। उन्होंने कहा कि जीव अनेक बंधनों में बंधा होता है, कुछ अपने बल पर मुक्त हो जाते हैं, जबकि अन्य को मुक्ति के लिए प्रिय की सहायता की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.503Z"
+  }
+}

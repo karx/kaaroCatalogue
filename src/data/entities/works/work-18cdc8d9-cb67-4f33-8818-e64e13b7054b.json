@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-18cdc8d9-cb67-4f33-8818-e64e13b7054b",
+  "name": "आप राखि परमोधिये, सुनै ज्ञान अकराथि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Preserve yourself with wisdom, for those who speak knowledge but act otherwise gain nothing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आप राखि परमोधिये, सुनै ज्ञान अकराथि।\nतुस कूटै कन बाहिरी, कछू न आवै हाथि।।१३०३।।",
+    "translation": "Preserve yourself with wisdom, for those who speak knowledge but act otherwise gain nothing.",
+    "meaning": "अपने को ज्ञान से संजोएं, क्योंकि जो लोग ज्ञान की बातें करते हैं लेकिन क्रिया विपरीत होती है, उन्हें कुछ भी प्राप्त नहीं होता।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि हमें ज्ञान को सहेजना चाहिए और अपने आचरण को सही रखना चाहिए। जो लोग ज्ञान का प्रचार करते हैं लेकिन खुद उसके विपरीत काम करते हैं, वे वास्तव में कुछ भी प्राप्त नहीं करते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.809Z"
+  }
+}

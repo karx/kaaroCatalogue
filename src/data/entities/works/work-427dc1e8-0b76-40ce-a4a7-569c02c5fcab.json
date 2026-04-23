@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-427dc1e8-0b76-40ce-a4a7-569c02c5fcab",
+  "name": "कबीर हम गुरु रसि पिया, बाकी रही न छाक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says we have drunk the nectar of the Guru; no trace of doubt remains. The earthen pitcher of the potter is baked; it will not be placed back on the wheel.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हम गुरु रसि पिया, बाकी रही न छाक।\nपाका कलश कुम्‍हार का, बहुरि न चढ़सी चाक।।८०७।।",
+    "translation": "Kabir says we have drunk the nectar of the Guru; no trace of doubt remains. The earthen pitcher of the potter is baked; it will not be placed back on the wheel.",
+    "meaning": "कबीर कहते हैं कि हमने गुरु के रस को पी लिया है; अब कोई संदेह बाकी नहीं है। कुम्हार का पक्का कलश है, इसे फिर से चाक पर नहीं रखा जाएगा।",
+    "explanation": "इस दोहे में कबीर ने गुरु के अमृत की महत्वता और अंतिमता को दर्शाया है। गुरु के अमृत को पीकर संदेह समाप्त हो जाते हैं। पक्के कलश का उदाहरण देते हुए कबीर ने बताया कि एक बार पूर्णता प्राप्त करने के बाद, उसे दोबारा बदलाव की आवश्यकता नहीं होती। यह ज्ञान और आत्मा की पूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.077Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-096122b2-b3cb-40cd-94ee-16d8c3b3792f",
+  "name": "चंदन वास निवारहु, मूये सबै निपातिया",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fragrance of sandalwood disappears after death, but do not harm a living being, for all perish after death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंदन वास निवारहु, मूये सबै निपातिया।\nजिवत जीव जनि मारेहु, मूये सबै निपातिया।।१५०१।।",
+    "translation": "The fragrance of sandalwood disappears after death, but do not harm a living being, for all perish after death.",
+    "meaning": "चंदन की सुगंध मृत्यु के बाद समाप्त हो जाती है, परंतु जीवित प्राणी को मत मारो, क्योंकि मृत्यु के बाद सभी का अंत हो जाता है।",
+    "explanation": "कबीर इस दोहे में जीवन और मृत्यु के सत्य को उजागर कर रहे हैं। वे कहते हैं कि जैसे चंदन की सुगंध मृत्यु के बाद नहीं रहती, वैसे ही जीवन के बाद सभी का अंत हो जाता है। इसलिए हमें जीवित प्राणियों को कष्ट नहीं पहुंचाना चाहिए, क्योंकि अंततः सभी को मृत्यु का सामना करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.927Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-qlx7s",
+  "name": "Dudes #4: Headphones",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT1M20S",
+  "embedUrl": "https://www.youtube.com/embed/wU7k1hxuMV8",
+  "contentUrl": "https://www.youtube.com/watch?v=wU7k1hxuMV8",
+  "uploadDate": "2014-07-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/wU7k1hxuMV8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The dudes have headphones.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

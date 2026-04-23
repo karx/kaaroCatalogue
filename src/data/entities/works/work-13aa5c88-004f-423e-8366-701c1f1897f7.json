@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-13aa5c88-004f-423e-8366-701c1f1897f7",
+  "name": "माया देाय प्रकार की, जो जानै सो खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion comes in two forms: one that leads to God and one that takes you to hell. The wise understand and choose the right path.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया देाय प्रकार की, जो जानै सो खाय।\nएक मिलावै राम को, एक नरक ले जाय।।११८३।।",
+    "translation": "Illusion comes in two forms: one that leads to God and one that takes you to hell. The wise understand and choose the right path.",
+    "meaning": "माया दो प्रकार की होती है: एक जो भगवान तक ले जाती है और एक जो नरक में ले जाती है। जो समझदार होते हैं, वे सही मार्ग का चयन करते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया की दोहरी प्रकृति को दर्शाया है। एक प्रकार की माया व्यक्ति को भगवान के पास ले जा सकती है, जबकि दूसरी प्रकार की माया उसे नरक की ओर ले जाती है। सही समझ और ज्ञान के माध्यम से व्यक्ति को सही मार्ग चुनना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.973Z"
+  }
+}

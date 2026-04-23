@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a6bf426b-7628-47ae-8fc3-7b652f29f3d0",
+  "name": "भक्ति-भक्ति सब कोई कहै, भक्ति न जाने भेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone speaks of devotion, but few understand its essence. When true devotion is found, it is blessed by the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति-भक्ति सब कोई कहै, भक्ति न जाने भेव।\nपरण भक्ति जब मिलै, कृपा करै गुरुदेव।।७२५।।",
+    "translation": "Everyone speaks of devotion, but few understand its essence. When true devotion is found, it is blessed by the Guru.",
+    "meaning": "हर कोई भक्ति की बात करता है, लेकिन बहुत ही कम लोग इसके सार को समझते हैं। जब सच्ची भक्ति मिलती है, तो गुरु कृपा प्रदान करते हैं।",
+    "explanation": "इस दोहे में कबीर ने भक्ति के वास्तविक अर्थ को समझने की बात की है। उन्होंने कहा है कि बहुत लोग भक्ति की बात करते हैं, लेकिन इसके गहरे अर्थ को समझना मुश्किल होता है। जब सच्ची भक्ति प्राप्त होती है, तो गुरु की कृपा से यह सम्भव होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.543Z"
+  }
+}

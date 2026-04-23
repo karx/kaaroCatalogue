@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-735478b0-1046-49b6-99ea-754dd14f9238",
+  "name": "सांई से सब होत हैं, बंदे से कछु नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everything happens through the Lord, nothing through the individual. A mustard seed can turn into a mountain, and a mountain into a mustard seed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांई से सब होत हैं, बंदे से कछु नाहिं।\nराई से परबत करे, परबत राई मांहि।।१९०६।।",
+    "translation": "Everything happens through the Lord, nothing through the individual. A mustard seed can turn into a mountain, and a mountain into a mustard seed.",
+    "meaning": "सब कुछ भगवान की कृपा से होता है, व्यक्ति से कुछ भी नहीं। एक सरसों का दाना पर्वत बना सकता है, और पर्वत को सरसों का दाना भी बना सकता है।",
+    "explanation": "इस दोहे में कबीरदास जी यह स्पष्ट करते हैं कि सब कुछ भगवान की कृपा से होता है और व्यक्ति के प्रयासों से नहीं। वे उदाहरण देते हैं कि एक छोटे से सरसों के दाने से भी पर्वत बन सकता है, और बड़े पर्वत को भी छोटा किया जा सकता है। यह दोहा भगवान की शक्ति और कृपा की महिमा को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.246Z"
+  }
+}

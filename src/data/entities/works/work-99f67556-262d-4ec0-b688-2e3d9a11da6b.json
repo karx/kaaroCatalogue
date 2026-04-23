@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-99f67556-262d-4ec0-b688-2e3d9a11da6b",
+  "name": "कबीर जात पुकरिया, चढ़‍ि चंदन की डार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the fragrance of sandalwood spreads on its own. If the path is already fragrant, what more can I add?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर जात पुकरिया, चढ़‍ि चंदन की डार।\nबाट लगाए ना लगे, फिर का लेत हमार।।१४७१।।",
+    "translation": "Kabir says, the fragrance of sandalwood spreads on its own. If the path is already fragrant, what more can I add?",
+    "meaning": "कबीर कहते हैं, चंदन की शाखा पर चढ़ने के बाद उसकी सुगंध अपने आप फैल जाती है। अगर रास्ता पहले से ही सुगंधित है, तो मैं और क्या जोड़ सकता हूँ?",
+    "explanation": "कबीर इस दोहे में आत्मज्ञान और आध्यात्मिकता की स्वाभाविकता की बात कर रहे हैं। जैसे चंदन का पेड़ अपनी सुगंध अपने आप फैलाता है, वैसे ही जब व्यक्ति आत्मज्ञान प्राप्त करता है, तो उसके आसपास की दुनिया भी प्रभावित होती है। किसी और के द्वारा उस पथ को और सुगंधित करने की आवश्यकता नहीं है। यह ज्ञान का प्रतीक है, जिसे किसी बाहरी सहायता की आवश्यकता नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.657Z"
+  }
+}

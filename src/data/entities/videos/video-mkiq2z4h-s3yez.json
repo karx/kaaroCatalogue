@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-s3yez",
+  "name": "Indian Comedian Papa CJ at St Xavier's College Calcutta - Part 2",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT2M37S",
+  "embedUrl": "https://www.youtube.com/embed/x59GTryMiXA",
+  "contentUrl": "https://www.youtube.com/watch?v=x59GTryMiXA",
+  "uploadDate": "2014-03-04",
+  "thumbnailUrl": "https://i.ytimg.com/vi/x59GTryMiXA/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "www.PAPACJ.com",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

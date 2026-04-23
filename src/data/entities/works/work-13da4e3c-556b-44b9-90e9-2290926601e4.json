@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-13da4e3c-556b-44b9-90e9-2290926601e4",
+  "name": "गुरु-गुरु में भेद है, गुरु-गुरु में भाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is a difference between Gurus, and a distinction in their feelings. Only the Guru who reveals the secret of the Word should be respected daily.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु-गुरु में भेद है, गुरु-गुरु में भाव।\nसोइ गुरु नित बन्दिये, शब्द बतावे दाव।।२८०।।",
+    "translation": "There is a difference between Gurus, and a distinction in their feelings. Only the Guru who reveals the secret of the Word should be respected daily.",
+    "meaning": "गुरुओं में भेद होता है, और उनके भावों में अंतर। केवल उसी गुरु का नित्य बंदन करो, जो शब्द के रहस्य को प्रकट करता है।",
+    "explanation": "इस दोहे में कबीर गुरु के महत्व को स्पष्ट करते हैं। सभी गुरु समान नहीं होते; सच्चा गुरु वही है जो व्यक्ति को परमात्मा के शब्द का वास्तविक अर्थ समझाता है। ऐसे गुरु की नित्य पूजा और सम्मान करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-39f8f3fe-0f03-4f16-a3a0-bd0a0f0588e9",
+  "name": "साधू संगत परिहरै, करै विषय का संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who leaves the company of saints and indulges in worldly pleasures is like someone who forsakes the Ganges for the water of a pit.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधू संगत परिहरै, करै विषय का संग।\nकूप खनी जल बावरे, त्याग दिया जल गंग।।३९९।।",
+    "translation": "One who leaves the company of saints and indulges in worldly pleasures is like someone who forsakes the Ganges for the water of a pit.",
+    "meaning": "जो साधुओं की संगति छोड़ता है और विषयों में लिप्त होता है, वह वैसे ही है जैसे गंगा के जल को छोड़कर कुएँ के पानी को अपनाता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने सच्ची संगति के महत्व को स्पष्ट किया है। वे बताते हैं कि जो व्यक्ति साधुओं की संगति को छोड़कर सांसारिक विषयों में लिप्त होता है, वह गंगा के पवित्र जल को छोड़कर कुएँ के साधारण पानी को अपनाने जैसा है। इसका तात्पर्य है कि सांसारिक विषयों में लिप्त होकर व्यक्ति अपने जीवन की अमूल्यता को खो देता है। यह दोहा हमें सिखाता है कि हमें सच्चे और पवित्र लोगों की संगति करनी चाहिए, ताकि हम जीवन की सही दिशा में बढ़ सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

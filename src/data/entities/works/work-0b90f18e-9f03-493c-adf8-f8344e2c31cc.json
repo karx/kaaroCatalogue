@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0b90f18e-9f03-493c-adf8-f8344e2c31cc",
+  "name": "भूला सो भूला, बहुरि के चेतना",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who forgets is forgotten, and again comes to consciousness. With the knife of wonder, the sand of doubt is cut away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भूला सो भूला, बहुरि के चेतना।\nविस्‍मय को छुरी से, संशय को रेतना।।१५५१।।",
+    "translation": "The one who forgets is forgotten, and again comes to consciousness. With the knife of wonder, the sand of doubt is cut away.",
+    "meaning": "जो भूल जाता है, वही भुलाया जाता है, और फिर चेतना में आता है। आश्चर्य की छुरी से, संदेह की रेत काटी जाती है।",
+    "explanation": "इस दोहे में कबीर ने यह व्यक्त किया है कि जो व्यक्ति भूल जाता है, वह फिर से चेतना में आता है। जब व्यक्ति को आश्चर्य और अविश्वास का सामना करना पड़ता है, तो इन संदेहों को दूर करने के लिए उसे गहरे आत्म-निरीक्षण की आवश्यकता होती है। इस प्रकार, वास्तविकता की समझ पाने के लिए हमें अपने संदेह और भ्रम को पार करना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.205Z"
+  }
+}

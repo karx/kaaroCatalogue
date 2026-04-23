@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4bbca24d-8cf0-42d7-968c-578963efb92a",
+  "name": "कबीर संगत साधु की, ज्‍यों गन्‍धी की बास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The company of saints is like the fragrance of perfume, even if the perfume is not applied, the fragrance spreads.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर संगत साधु की, ज्‍यों गन्‍धी की बास।\nजो कुछ गन्‍धी दे नहीं, तो भी वास सुवास।।६६७।।",
+    "translation": "The company of saints is like the fragrance of perfume, even if the perfume is not applied, the fragrance spreads.",
+    "meaning": "साधु संगति का प्रभाव इत्र की खुशबू की तरह होता है, भले ही इत्र न लगाया जाए, फिर भी उसकी महक फैलती है।",
+    "explanation": "कबीर इस दोहे में साधु संगति को इत्र की खुशबू से तुलना करते हैं। जैसे इत्र न लगाने पर भी उसकी महक फैलती है, वैसे ही साधु संगति से व्यक्ति पर सकारात्मक प्रभाव पड़ता है, भले ही वह खुद उस रास्ते पर न हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.269Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-083c7467-c9d5-4067-b50c-b237d177db49",
+  "name": "Mameru",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-narsinh-mehta"
+  },
+  "inLanguage": "Gujarati",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Mameru",
+    "retrievedAt": "2026-01-04T18:39:15.877Z"
+  }
+}

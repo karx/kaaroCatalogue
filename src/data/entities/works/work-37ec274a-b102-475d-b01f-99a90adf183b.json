@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-37ec274a-b102-475d-b01f-99a90adf183b",
+  "name": "हंसि हंसि कंत न पाइए, जिनि पाया तिनि रोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One cannot attain the beloved through laughter alone; those who have attained the beloved are those who have wept. If one finds Hari through laughter, there is no bride in the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसि हंसि कंत न पाइए, जिनि पाया तिनि रोइ।\nजो हांसें ही हरि मिलै, तौ नहीं दुहागनि कोइ।।१७६४।।",
+    "translation": "One cannot attain the beloved through laughter alone; those who have attained the beloved are those who have wept. If one finds Hari through laughter, there is no bride in the world.",
+    "meaning": "केवल हंसने से प्रिय को प्राप्त नहीं किया जा सकता; जो प्रिय को प्राप्त करते हैं वे वे हैं जिन्होंने रोया है। यदि कोई हंसते हुए हरि को प्राप्त करता है, तो दुनिया में कोई भी दुल्हन नहीं होगी।",
+    "explanation": "इस दोहे में कबीर ने आध्यात्मिक प्रेम और प्राप्ति की प्रक्रिया को स्पष्ट किया है। उन्होंने कहा है कि केवल हंसने से प्रिय को प्राप्त नहीं किया जा सकता; जो प्रिय को सच्चे रूप से प्राप्त करते हैं वे वे हैं जिन्होंने वास्तविक भावनाएं और आंसू बहाए हैं। यह दोहा यह दर्शाता है कि सच्चे आध्यात्मिक अनुभव के लिए आंसू और गहरी भावनाओं का अनुभव आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.347Z"
+  }
+}

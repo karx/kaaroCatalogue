@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-30c4b32c-9d46-44f8-911c-341e1472ac9d",
+  "name": "मन प्रतीति न प्रेम रस, नां इस तन मैं ढंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind does not grasp the essence of love, nor is there a method in this body. How can we know the true color of the beloved?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन प्रतीति न प्रेम रस, नां इस तन मैं ढंग।\nक्‍या जाणौं उस पीव सूं, कैसे रहसी रंग।।१८४३।।",
+    "translation": "The mind does not grasp the essence of love, nor is there a method in this body. How can we know the true color of the beloved?",
+    "meaning": "मन प्रेम के रस को नहीं समझ पाता, और इस शरीर में कोई विधि नहीं है। हम प्रिय के सच्चे रंग को कैसे जान सकते हैं?",
+    "explanation": "इस दोहे में कबीर ने प्रेम और उसकी समझ की सीमा को व्यक्त किया है। वे कहते हैं कि मन प्रेम के गहरे अर्थ को नहीं समझ सकता और शरीर में प्रेम की कोई निश्चित विधि नहीं है। इस प्रकार, प्रिय के सच्चे स्वरूप या रंग को जानना कठिन है। यह दोहा प्रेम की जटिलता और उसकी अनुभूति की कठिनाई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.633Z"
+  }
+}

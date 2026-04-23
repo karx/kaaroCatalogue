@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1d0a7269-8e76-43a8-8b0c-2544f690613a",
+  "name": "बैद मुआ, रोगी मुआ, मुआ सकल संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The physician dies, the patient dies, and the entire world dies. Only Kabir, who has the support of God, does not die.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बैद मुआ, रोगी मुआ, मुआ सकल संसार।\nएक कबीरा ना मुआ, जेहि के राम अधार।।२७।।",
+    "translation": "The physician dies, the patient dies, and the entire world dies. Only Kabir, who has the support of God, does not die.",
+    "meaning": "वैद्य मरा, रोगी मरा, मरा सारा संसार। केवल वही नहीं मरा, जिसने भगवान राम को अपना आधार बनाया।",
+    "explanation": "यह दोहा जीवन की नश्वरता और परमात्मा पर विश्वास की अमरता का प्रतीक है। संत कबीर कहते हैं कि इस दुनिया में हर कोई मर जाएगा, चाहे वह डॉक्टर हो, मरीज हो, या कोई और। लेकिन वह व्यक्ति जो भगवान के नाम में विश्वास रखता है, वह मरता नहीं है, क्योंकि उसका अस्तित्व भगवान के साथ जुड़ा हुआ है। यह दोहा हमें यह संदेश देता है कि हमें इस नश्वर दुनिया में अपनी आस्था और विश्वास भगवान में रखना चाहिए, क्योंकि वही हमें मोक्ष दिला सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

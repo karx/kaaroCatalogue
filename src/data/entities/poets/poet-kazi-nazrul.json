@@ -1,0 +1,32 @@
+{
+  "entityId": "poet-kazi-nazrul",
+  "name": "Kazi Nazrul Islam",
+  "@type": "Person",
+  "knowsLanguage": "Bengali",
+  "era": "Modern",
+  "century": "20th Century",
+  "titles": [
+    "Bidrohi Kabi",
+    "Rebel Poet",
+    "National Poet of Bangladesh"
+  ],
+  "keywords": [
+    "Bidrohi",
+    "Rebellion",
+    "Anti-Colonial",
+    "Islamic Poetry"
+  ],
+  "abstract": "The 'Rebel Poet' whose poem Bidrohi challenged both the British Raj and religious dogmatism with thunderous imagery. Reinvigorated Bengali poetry with Arabic and Persian vocabulary.",
+  "majorWorks": [
+    "Bidrohi",
+    "Agni-Veena"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

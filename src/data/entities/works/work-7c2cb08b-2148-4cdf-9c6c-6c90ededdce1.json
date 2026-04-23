@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c2cb08b-2148-4cdf-9c6c-6c90ededdce1",
+  "name": "कबीर यह संसार है, जैसा सेंमल का फूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, this world is like a cotton flower. In ten days, its false colors do not last.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह संसार है, जैसा सेंमल का फूल।\nदिन दस के व्‍यवहार में, झूठे रंग न फूल।।८३८।।",
+    "translation": "Kabir says, this world is like a cotton flower. In ten days, its false colors do not last.",
+    "meaning": "कबीर कहते हैं, यह संसार सेंमल के फूल जैसा है। दस दिन में इसके झूठे रंग नहीं टिकते।",
+    "explanation": "इस दोहे में कबीर ने संसार की नश्वरता और भौतिक वस्तुओं की क्षणिकता को व्यक्त किया है। सेंमल का फूल सुंदर और आकर्षक लगता है, लेकिन बहुत जल्दी उसका रंग फीका पड़ जाता है। इसी तरह, संसार की भव्यता और रंगीनता भी तात्कालिक और अस्थायी है। यह दोहा हमें संसार की सतही चकाचौंध से दूर रहकर उसकी वास्तविकता को समझने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.081Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d26879b2-3017-4183-aac7-44f7c834892e",
+  "name": "कबिरा तोरा मान गढ, मारा पांच गनीम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's honor is a fortress, defeated by five foes. The head bowed to the wealthy, the earth is humbled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा तोरा मान गढ, मारा पांच गनीम।\nसीस नंवाया धनी को, साधी बड़ी महीम।।२१४१।।",
+    "translation": "Kabir's honor is a fortress, defeated by five foes. The head bowed to the wealthy, the earth is humbled.",
+    "meaning": "कबीर का मान एक किले की तरह है, जिसे पांच दुश्मनों ने हराया है। धनी को सिर झुका दिया, और पृथ्वी को नीचा दिखाया।",
+    "explanation": "इस दोहे में कबीर ने मान की तुलना एक किले से की है, जिसे कई शत्रुओं ने हराया है। यह दिखाता है कि कबीर के मान और सम्मान की पराजय भी होती है और जब धन की बात आती है तो लोग सिर झुका देते हैं। यह दोहा सामाजिक और व्यक्तिगत मान-सम्मान की जटिलताओं को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.371Z"
+  }
+}

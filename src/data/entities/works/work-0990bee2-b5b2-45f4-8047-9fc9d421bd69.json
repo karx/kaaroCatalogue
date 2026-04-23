@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0990bee2-b5b2-45f4-8047-9fc9d421bd69",
+  "name": "Svapnavasavadattam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-bhasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Svapnavasavadattam",
+    "retrievedAt": "2026-01-04T18:39:06.642Z"
+  }
+}

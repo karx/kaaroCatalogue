@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-51fa768b-158a-4f43-9ae1-4b0542e8fd78",
+  "name": "मांस अहारी मानवा, प्रत्‍यक्ष राक्षस जानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A person who consumes meat is known to be a visible demon. Associating with such a person harms one's devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांस अहारी मानवा, प्रत्‍यक्ष राक्षस जानि।\nताकी संगति मति करै, होइ भक्ति में हानि।।२२३६।।",
+    "translation": "A person who consumes meat is known to be a visible demon. Associating with such a person harms one's devotion.",
+    "meaning": "जो व्यक्ति मांस खाता है, वह प्रत्यक्ष राक्षस के समान होता है। ऐसी संगति करने से भक्ति में हानि होती है।",
+    "explanation": "इस दोहे में कबीर जी यह बताते हैं कि मांस खाने वाला व्यक्ति जैसे एक राक्षस के समान होता है। उनकी संगति करने से भक्ति की हानि होती है। यह दर्शाता है कि आहार और संगति का व्यक्ति की धार्मिक और आध्यात्मिक स्थिति पर महत्वपूर्ण प्रभाव पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.088Z"
+  }
+}

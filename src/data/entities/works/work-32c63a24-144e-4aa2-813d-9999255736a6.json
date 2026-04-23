@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-32c63a24-144e-4aa2-813d-9999255736a6",
+  "name": "पियासों परिचय नहीं, दादा रहि गा दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The thirsty do not recognize, the elder remains distant. The one in need remains, the little one always present.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पियासों परिचय नहीं, दादा रहि गा दूर।\nलल्‍ला लौ लागी रहै, नन्‍ना सदा हजूर।।२१६९।।",
+    "translation": "The thirsty do not recognize, the elder remains distant. The one in need remains, the little one always present.",
+    "meaning": "प्यासे पहचान नहीं पाते, बडे़ दूर रहते हैं। जो जरूरतमंद है, वह रहता है, और छोटा हमेशा उपस्थित रहता है।",
+    "explanation": "इस दोहे में कबीर ने प्यासे और उनकी पहचान को लेकर एक महत्वपूर्ण सन्देश दिया है। जो प्यासे होते हैं, वे सही मायने में पहचान नहीं पाते, और बड़े लोग अक्सर दूर रहते हैं। जरूरतमंद व्यक्ति और छोटा हमेशा उपस्थित रहता है, जो सच्ची सेवा और मदद का प्रतीक है। यह दोहा हमें यह सिखाता है कि सही पहचान और मदद को समझना आवश्यक है, और जो हमेशा हमारे पास रहते हैं उनकी कद्र करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.725Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "entityId": "poet-dinkar",
+  "name": "Ramdhari Singh 'Dinkar'",
+  "@type": "Person",
+  "knowsLanguage": "Hindi",
+  "era": "Modern",
+  "century": "20th Century",
+  "titles": [
+    "Rashtrakavi",
+    "National Poet"
+  ],
+  "award": [
+    "Jnanpith Award (1972)"
+  ],
+  "keywords": [
+    "Rashmirathi",
+    "Urvashi",
+    "Karna",
+    "Nationalism"
+  ],
+  "abstract": "The Rashtrakavi (National Poet). His Rashmirathi centers on Karna from the Mahabharata, questioning caste and celebrating merit. Urvashi is a philosophical exploration of love.",
+  "majorWorks": [
+    "Rashmirathi",
+    "Urvashi",
+    "Kurukshetra"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

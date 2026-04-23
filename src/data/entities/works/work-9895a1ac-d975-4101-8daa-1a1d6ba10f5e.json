@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9895a1ac-d975-4101-8daa-1a1d6ba10f5e",
+  "name": "हरिजन की लातां भलीं, बुरि साकट की बात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The kick of a Harijan is better, than the praise of a miser. Happiness arises from kicks, while respect comes from words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरिजन की लातां भलीं, बुरि साकट की बात।\nलातों में सुख ऊपजे, बाते इज्‍जत जात।।५५६।।",
+    "translation": "The kick of a Harijan is better, than the praise of a miser. Happiness arises from kicks, while respect comes from words.",
+    "meaning": "हरिजन की लातें बेहतर हैं, बजाए कंजूस की बातों के। लातों में सुख मिलता है, और बातों में इज्जत।",
+    "explanation": "कबीर जी इस दोहे में कहते हैं कि हरिजन की लातें भी कंजूस की प्रशंसा से बेहतर हैं। वे यह भी कहते हैं कि असली सुख लातों में मिलता है, जबकि इज्जत केवल बातों से मिलती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

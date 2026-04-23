@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c62079fa-ec69-481a-93fc-e46ba31f9d0e",
+  "name": "ab jo koi puchhe bhi to us se kya sharh-e-haalat karen",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ab-jo-koii-puuchhe-bhii-to-us-se-kyaa-sharh-e-haalaat-karen-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.211Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ab-jo-koii-puuchhe-bhii-to-us-se-kyaa-sharh-e-haalaat-karen-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nab jo koī pūchhe bhī to us se kyā sharh-e-hālāt kareñ\ndil Thahre to dard sunā.eñ dard thame to baat kareñ\nshaam huī phir josh-e-qadah ne bazm-e-harīfāñ raushan kī\nghar ko aag lagā.eñ ham bhī raushan apnī raat kareñ\nqatl-e-dil-o-jāñ apne sar hai apnā lahū apnī gardan pe\nmohr-ba-lab baiThe haiñ kis kā shikva kis ke saath kareñ\nhijr meñ shab bhar dard-o-talab ke chāñd sitāre saath rahe\nsub.h kī vīrānī meñ yaaro kaise basar auqāt kareñ\nab jo koi puchhe bhi to us se kya sharh-e-haalat karen\ndil Thahre to dard sunaen dard thame to baat karen\nsham hui phir josh-e-qadah ne bazm-e-harifan raushan ki\nghar ko aag lagaen hum bhi raushan apni raat karen\nqatl-e-dil-o-jaan apne sar hai apna lahu apni gardan pe\nmohr-ba-lab baiThe hain kis ka shikwa kis ke sath karen\nhijr mein shab bhar dard-o-talab ke chand sitare sath rahe\nsubh ki virani mein yaro kaise basar auqat karen",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nاب جو کوئی پوچھے بھی تو اس سے کیا شرح حالات کریں\nدل ٹھہرے تو درد سنائیں درد تھمے تو بات کریں\nشام ہوئی پھر جوش قدح نے بزم حریفاں روشن کی\nگھر کو آگ لگائیں ہم بھی روشن اپنی رات کریں\nقتل دل و جاں اپنے سر ہے اپنا لہو اپنی گردن پہ\nمہر بہ لب بیٹھے ہیں کس کا شکوہ کس کے ساتھ کریں\nہجر میں شب بھر درد و طلب کے چاند ستارے ساتھ رہے\nصبح کی ویرانی میں یارو کیسے بسر اوقات کریں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nअब जो कोई पूछे भी तो उस से क्या शरह-ए-हालात करें\nदिल ठहरे तो दर्द सुनाएँ दर्द थमे तो बात करें\nशाम हुई फिर जोश-ए-क़दह ने बज़्म-ए-हरीफ़ाँ रौशन की\nघर को आग लगाएँ हम भी रौशन अपनी रात करें\nक़त्ल-ए-दिल-ओ-जाँ अपने सर है अपना लहू अपनी गर्दन पे\nमोहर-ब-लब बैठे हैं किस का शिकवा किस के साथ करें\nहिज्र में शब भर दर्द-ओ-तलब के चाँद सितारे साथ रहे\nसुब्ह की वीरानी में यारो कैसे बसर औक़ात करें",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:41.799Z"
+  }
+}

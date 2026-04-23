@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-585b5645-6945-405c-8ec2-d8f74035df3e",
+  "name": "छव दर्शन में जो प्रमाणा, तासु नाम बनवारी",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He who sees proof in the six philosophies is known as Banwari. Kabir says, the world is wise, but I remain a simpleton among them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "छव दर्शन में जो प्रमाणा, तासु नाम बनवारी।\nकहहिं कबीर ई खलक सयाना, इनमें हमहिं अनारी।।१५०९।।",
+    "translation": "He who sees proof in the six philosophies is known as Banwari. Kabir says, the world is wise, but I remain a simpleton among them.",
+    "meaning": "जो व्यक्ति छह दर्शन में प्रमाण देखता है, उसका नाम बनवारी है। कबीर कहते हैं, यह संसार बुद्धिमान है, लेकिन मैं उनके बीच एक अनाड़ी बना हुआ हूं।",
+    "explanation": "कबीर इस दोहे में ज्ञान और आस्था के संबंध को समझाने की कोशिश कर रहे हैं। छह दर्शन से तात्पर्य है शास्त्रों के विभिन्न मार्ग, जो सत्य की खोज में अलग-अलग दृष्टिकोण प्रस्तुत करते हैं। बनवारी वह है जिसने सत्य को पहचाना, लेकिन कबीर कहते हैं कि संसार की चतुराई के बीच वह अपनी सरलता बनाए रखते हैं। इसका तात्पर्य यह है कि वास्तविक ज्ञान सादगी में है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.928Z"
+  }
+}

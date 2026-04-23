@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15d0f8ed-30ca-478f-8c70-f5efcaf8dece",
+  "name": "बहुत दिनन की जोवती, बाट तुम्‍हारी राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For many days the journey is long, the path is yours, Ram. The soul yearns to meet you, the heart finds no rest.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बहुत दिनन की जोवती, बाट तुम्‍हारी राम।\nजिव तरसै तुझ मिलन कूं, मनि नाहीं विश्राम।।१७४१।।",
+    "translation": "For many days the journey is long, the path is yours, Ram. The soul yearns to meet you, the heart finds no rest.",
+    "meaning": "बहुत दिनों से यात्रा लंबी है, मार्ग तुम्हारा है, राम। आत्मा तुम्हारे मिलने की इच्छाशक्ति रखती है, दिल को विश्राम नहीं मिलता।",
+    "explanation": "कबीर इस दोहे में भक्ति और लंबी यात्रा की बात करते हैं। उन्होंने कहा कि आत्मा की भक्ति और मिलन की इच्छा से दिल को शांति नहीं मिलती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.077Z"
+  }
+}

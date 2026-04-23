@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c00030ed-4e52-4f44-b391-14719c170695",
+  "name": "निहचिन्‍त होय के गुरु भजै, मन में राखै सांच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When one worships the guru with a carefree heart and keeps the truth in the mind, controlling the five senses becomes possible, and there is no burning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निहचिन्‍त होय के गुरु भजै, मन में राखै सांच।\nइन पांचौं को बसि करै, ताहि न आवै आंच।।११४९।।",
+    "translation": "When one worships the guru with a carefree heart and keeps the truth in the mind, controlling the five senses becomes possible, and there is no burning.",
+    "meaning": "जब कोई गुरु की भक्ति बिना चिंता के करता है और मन में सत्य को रखता है, तब पांचों इंद्रियों को नियंत्रित करना संभव हो जाता है और कोई जलन नहीं होती।",
+    "explanation": "इस दोहे में कबीर ने गुरु की भक्ति और सत्य के महत्व को बताया है। जब व्यक्ति गुरु की भक्ति पूरी निष्ठा से करता है और सत्य को अपने मन में बनाए रखता है, तब इंद्रियों पर नियंत्रण रखना आसान हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.707Z"
+  }
+}

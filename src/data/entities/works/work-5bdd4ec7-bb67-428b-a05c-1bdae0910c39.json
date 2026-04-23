@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5bdd4ec7-bb67-428b-a05c-1bdae0910c39",
+  "name": "जब लगि भगति सकाम है, तब लग निष्फल सेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as devotion is selfish, the service is fruitless. Kabir says, why should that devotee be honored who leaves selfless devotion?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लगि भगति सकाम है, तब लग निष्फल सेव।\nकहै कबीर, वह क्यों मिले, निष्कामी तजि देव।।५१।।",
+    "translation": "As long as devotion is selfish, the service is fruitless. Kabir says, why should that devotee be honored who leaves selfless devotion?",
+    "meaning": "जब तक भक्ति स्वार्थपूर्ण होती है, सेवा निष्फल रहती है। कबीर कहते हैं, ऐसे भक्त की सराहना क्यों की जाए जो निष्काम भक्ति को छोड़ देता है?",
+    "explanation": "इस दोहे में संत कबीर ने भक्ति की स्वार्थपूर्ण और निष्काम प्रकृति के बीच अंतर को स्पष्ट किया है। उन्होंने कहा कि स्वार्थपूर्ण भक्ति का कोई लाभ नहीं होता; सच्ची भक्ति वह है जिसमें कोई स्वार्थ न हो और जिसे भगवान से निस्वार्थ प्रेम किया जाए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

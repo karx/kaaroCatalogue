@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-se71y",
+  "name": "AIR INDIA KI LOVE STORY | CROWD WORK BY GAURAV GUPTA",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT6M25S",
+  "embedUrl": "https://www.youtube.com/embed/7OE4v5AHxkc",
+  "contentUrl": "https://www.youtube.com/watch?v=7OE4v5AHxkc",
+  "uploadDate": "2025-10-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/7OE4v5AHxkc/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

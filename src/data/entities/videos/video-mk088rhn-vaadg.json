@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088rhn-vaadg",
+  "name": "Dudes #3 : Bag",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT32S",
+  "embedUrl": "https://www.youtube.com/embed/kTsloPlojzc",
+  "contentUrl": "https://www.youtube.com/watch?v=kTsloPlojzc",
+  "uploadDate": "2014-07-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/kTsloPlojzc/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The dudes have a bag.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

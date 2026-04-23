@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dfbea46f-5502-418a-9832-9f48afcab2c5",
+  "name": "गुरु बिन ज्ञान न उपजै, गुरु बिन मिलै न मोष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without the Guru, knowledge does not arise; without the Guru, liberation is not attained. Without the Guru, truth is not realized, and without the Guru, faults are not removed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु बिन ज्ञान न उपजै, गुरु बिन मिलै न मोष।\nगुरु बिन लखै न सत्य को, गुरु बिन मिटे न दोष।।२५५।।",
+    "translation": "Without the Guru, knowledge does not arise; without the Guru, liberation is not attained. Without the Guru, truth is not realized, and without the Guru, faults are not removed.",
+    "meaning": "गुरु के बिना ज्ञान उत्पन्न नहीं होता; गुरु के बिना मोक्ष प्राप्त नहीं होता। गुरु के बिना सत्य की पहचान नहीं होती और गुरु के बिना दोष मिटते नहीं हैं।",
+    "explanation": "इस दोहे में कबीर गुरु के महत्व को बताते हैं। वे कहते हैं कि गुरु के बिना ज्ञान उत्पन्न नहीं होता और मोक्ष की प्राप्ति संभव नहीं है। सत्य की पहचान और दोषों का निवारण भी गुरु के बिना संभव नहीं है। यह दोहा गुरु की अपरिहार्यता और उनकी भूमिका को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.127Z"
+  }
+}

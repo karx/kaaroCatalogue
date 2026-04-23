@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-44dc7385-eec3-48c7-a4da-c6d9267d7503",
+  "name": "साधो रण में मिट रहा, टूटन दे हंकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saints are destroyed in battle, relinquishing their pride. Why die the worldly death, a hundred times a day?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधो रण में मिट रहा, टूटन दे हंकार।\nजग की मरनी क्यों मरें, दिन में सौसौ बार।।४५६।।",
+    "translation": "The saints are destroyed in battle, relinquishing their pride. Why die the worldly death, a hundred times a day?",
+    "meaning": "साधू लोग युद्ध में मिट जाते हैं, अपने अहंकार को छोड़ देते हैं। दुनियावी मृत्यु का क्या उपयोग, दिन में सौ-सौ बार?",
+    "explanation": "इस दोहे में कबीर ने बताया है कि साधू लोग अपने अहंकार को छोड़कर जीवन की कठिनाइयों का सामना करते हैं। इसलिए, सांसारिक मृत्यु का कोई महत्व नहीं है क्योंकि यह बार-बार होती रहती है। असली मृत्यु का अर्थ है अहंकार का परित्याग और आत्मिक शुद्धता। यह दोहा साधुओं के त्याग और जीवन की वास्तविक मृत्यु पर प्रकाश डालता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.194Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-ersa8",
+  "name": "Harsh-O-Anand | Crowd Work | Stand Up Comedy By Harsh Gujral",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT11M37S",
+  "embedUrl": "https://www.youtube.com/embed/Cmb1FEqUkSs",
+  "contentUrl": "https://www.youtube.com/watch?v=Cmb1FEqUkSs",
+  "uploadDate": "2023-09-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Cmb1FEqUkSs/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "Roast of a Roaster \nThis video is from a show I did in Amsterdam and never did I know that I would be at the receiving end of a funny roast. Anand Bhai just killed it with his witty responses and one-liners. For the first time, I had no answers and was happy. \nDo Watch and Share \nWith Love \nHarsh Gu",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

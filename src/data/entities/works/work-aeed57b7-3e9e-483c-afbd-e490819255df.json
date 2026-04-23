@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aeed57b7-3e9e-483c-afbd-e490819255df",
+  "name": "कहा चुनावै मेड़‍िया, चूना माटी लाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where is the media election, bringing clay and dust? The sinner will hear, running to fetch the truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहा चुनावै मेड़‍िया, चूना माटी लाय।\nमीच सुनैगां पापिनी, दौरि कि लेगी आय।।८९८।।",
+    "translation": "Where is the media election, bringing clay and dust? The sinner will hear, running to fetch the truth.",
+    "meaning": "मीडिया का चुनाव कहां है, जो मिट्टी और धूल लाती है? पापिनी सुनेंगी और सच पाने के लिए दौड़ेंगी।",
+    "explanation": "कबीर इस दोहे में मीडिया और झूठी सूचनाओं की आलोचना करते हैं। वे मीडिया द्वारा फैलाए गए झूठ और विकृत तथ्यों का मजाक उड़ाते हैं, और बताते हैं कि कैसे लोग सच्चाई पाने के लिए भागते हैं, जबकि मीडिया केवल असत्य प्रस्तुत करता है। यह दोहा मीडिया की वास्तविकता को उजागर करता है और सच्चाई की खोज की आवश्यकता पर जोर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.355Z"
+  }
+}

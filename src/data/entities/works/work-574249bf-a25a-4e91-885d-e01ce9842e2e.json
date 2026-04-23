@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-574249bf-a25a-4e91-885d-e01ce9842e2e",
+  "name": "बोली ठोली मसखरी, हंसी खेल हराम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Chatter, mockery, laughter, and play are forbidden. The intoxication of illusion and women’s allure have no place in the work of saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बोली ठोली मसखरी, हंसी खेल हराम।\nमद माया और इस्‍तरी, नहिं सन्‍तन के काम।।६३९।।",
+    "translation": "Chatter, mockery, laughter, and play are forbidden. The intoxication of illusion and women’s allure have no place in the work of saints.",
+    "meaning": "बातचीत, मजाक, हंसी-मजाक और खेल हराम है। माया और स्त्री की लुभावनता संतों के काम में कोई स्थान नहीं रखती।",
+    "explanation": "संतों के लिए माया, मस्ती, और भौतिक सुखों का कोई स्थान नहीं होता। उनका जीवन शांति और ध्यान में व्यस्त रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.003Z"
+  }
+}

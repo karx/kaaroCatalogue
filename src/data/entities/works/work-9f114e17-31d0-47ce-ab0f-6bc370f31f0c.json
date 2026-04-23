@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9f114e17-31d0-47ce-ab0f-6bc370f31f0c",
+  "name": "थोड़ा सुमिरन बहुत सुख, जो करि जानै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A little remembrance brings great happiness if one truly understands. Turmeric alone is not enough; it is the purity that determines the color.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "थोड़ा सुमिरन बहुत सुख, जो करि जानै कोय।\nहरदी लग न फिटकरी, चोखा ही रंग होय।।७९४।।",
+    "translation": "A little remembrance brings great happiness if one truly understands. Turmeric alone is not enough; it is the purity that determines the color.",
+    "meaning": "थोड़ा सा स्मरण बहुत सुख लाता है, अगर कोई वास्तव में समझे। हल्दी अकेले पर्याप्त नहीं है; रंग की शुद्धता ही महत्वपूर्ण है।",
+    "explanation": "इस दोहे में कबीर ने स्मरण और ध्यान के महत्व को दर्शाया है। उन्होंने कहा है कि थोड़ी सी भी सच्ची भक्ति और स्मरण बहुत बड़ा सुख लाती है, बशर्ते कि समझ और विश्वास सच्चा हो। हल्दी का उदाहरण देकर उन्होंने बताया कि सिर्फ बाहरी औजार या साधन पर्याप्त नहीं हैं, वास्तविक रंग और प्रभाव तब ही आते हैं जब शुद्धता हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

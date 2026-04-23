@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-677efd4e-11a2-4363-b2ac-024675bdf1f7",
+  "name": "काला मुख कर मान का, आदर लावो आग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The black face of pride brings respect and honor. Abandon pride and greatness, and live in the light of truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काला मुख कर मान का, आदर लावो आग।\nमान बड़ाई छांड़‍ि के, रहौ नाम लौ आग।।१२६८।।",
+    "translation": "The black face of pride brings respect and honor. Abandon pride and greatness, and live in the light of truth.",
+    "meaning": "गर्व का काला चेहरा सम्मान और आदर लाता है। गर्व और बड़ाई को छोड़कर सच्चाई के प्रकाश में जियो।",
+    "explanation": "इस दोहे में कबीर जी ने बताया है कि गर्व का काला चेहरा समाज में सम्मान और आदर ला सकता है, लेकिन असली सच्चाई गर्व और बड़ाई को छोड़ने में है। सच्चाई और ईमानदारी के साथ जीवन जीना महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.544Z"
+  }
+}

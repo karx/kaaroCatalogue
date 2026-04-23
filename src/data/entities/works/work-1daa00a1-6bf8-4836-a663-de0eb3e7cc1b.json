@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1daa00a1-6bf8-4836-a663-de0eb3e7cc1b",
+  "name": "स्वामी सेवक होय के, मनही में मिलि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the master and servant become one in mind, cleverness and pretense hold no value. Remain simple at heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्वामी सेवक होय के, मनही में मिलि जाय।\nचतुराई रीझै नहीं, रहिये मन के माय।।२९४।।",
+    "translation": "When the master and servant become one in mind, cleverness and pretense hold no value. Remain simple at heart.",
+    "meaning": "जब स्वामी और सेवक मन में एक हो जाते हैं, तो चतुराई और दिखावा कोई मायने नहीं रखता। मन को सरल बनाए रखें।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि सच्चे भक्ति में स्वामी और सेवक के बीच भेद नहीं रहता। मन की सरलता और सादगी ही भक्ति की सच्ची पहचान होती है। चतुराई और दिखावा केवल भक्ति में बाधा डालते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

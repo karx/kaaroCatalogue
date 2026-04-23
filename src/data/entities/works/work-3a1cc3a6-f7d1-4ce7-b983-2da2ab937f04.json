@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a1cc3a6-f7d1-4ce7-b983-2da2ab937f04",
+  "name": "Zindan-Nama",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Zindan-Nama",
+    "retrievedAt": "2026-01-04T18:39:01.048Z"
+  }
+}

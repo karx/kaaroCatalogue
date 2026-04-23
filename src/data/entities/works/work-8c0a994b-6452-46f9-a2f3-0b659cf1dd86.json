@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8c0a994b-6452-46f9-a2f3-0b659cf1dd86",
+  "name": "शीतल शब्‍द उचारिये, अहं आनिये नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak gentle words, do not bring in ego. Your beloved is within you, as is your enemy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शीतल शब्‍द उचारिये, अहं आनिये नाहिं।\nतेरा प्रीतम तुझहि में, दुसमन भी तुझ माहिं।।९९४।।",
+    "translation": "Speak gentle words, do not bring in ego. Your beloved is within you, as is your enemy.",
+    "meaning": "मधुर शब्द बोलो, अहंकार को न लाओ। तुम्हारा प्रियतम तुम्हारे भीतर है, जैसे तुम्हारा दुश्मन भी।",
+    "explanation": "इस दोहे में कबीर दास जी मधुर वाणी और अहंकार को त्यागने की ���ात करते हैं। वह कहते हैं कि हमें हमेशा शीतल और मधुर शब्दों का प्रयोग करना चाहिए और अहंकार को दूर रखना चाहिए। हमारे भीतर ही हमारा प्रियतम और दुश्मन दोनों होते हैं, और यह हमारी सोच और वाणी पर निर्भर करता है कि हम किसे बाहर आने देते हैं। यह दोहा हमें विनम्रता और आत्मनिरीक्षण की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.896Z"
+  }
+}

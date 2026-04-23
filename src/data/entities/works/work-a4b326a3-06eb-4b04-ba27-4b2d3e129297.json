@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a4b326a3-06eb-4b04-ba27-4b2d3e129297",
+  "name": "गुरु भया नहिं शिष भया, हिरदे कपट न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Neither has the guru become a guru, nor has the disciple become a disciple. The heart remains deceitful, and the boat of stone does not rise above pain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु भया नहिं शिष भया, हिरदे कपट न जाय।\nआलो पालो दुख सहै, चढ़‍ि पाथर की नाव।।५३३।।",
+    "translation": "Neither has the guru become a guru, nor has the disciple become a disciple. The heart remains deceitful, and the boat of stone does not rise above pain.",
+    "meaning": "न गुरु गुरु बना है, न शिष्य शिष्य बना है। दिल में कपट रह जाता है और पत्थर की नाव दुखों को पार नहीं कर सकती।",
+    "explanation": "इस दोहे में कबीर जी यह दिखाते हैं कि न तो गुरु वास्तव में गुरु बनता है और न ही शिष्य शिष्य बन पाता है जब दिल में कपट और स्वार्थ होता है। ऐसे में पत्थर की नाव की तरह मुश्किलों को पार करना असंभव हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

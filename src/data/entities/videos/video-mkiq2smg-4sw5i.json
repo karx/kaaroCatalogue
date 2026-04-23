@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-4sw5i",
+  "name": "AMERICAN #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT1M8S",
+  "embedUrl": "https://www.youtube.com/embed/M2mZC35pKz4",
+  "contentUrl": "https://www.youtube.com/watch?v=M2mZC35pKz4",
+  "uploadDate": "2025-10-15",
+  "thumbnailUrl": "https://i.ytimg.com/vi/M2mZC35pKz4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

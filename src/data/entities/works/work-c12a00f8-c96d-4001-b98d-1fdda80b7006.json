@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c12a00f8-c96d-4001-b98d-1fdda80b7006",
+  "name": "सुमिरन से मन लाइए, जैसे पानी बिन मीन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Focus your mind on remembrance (of God), like a fish that cannot live without water. Without such devotion, life is meaningless, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन से मन लाइए, जैसे पानी बिन मीन।\nप्राण तजे पल बिसरे, कहे कबीर दीन।।३२।।",
+    "translation": "Focus your mind on remembrance (of God), like a fish that cannot live without water. Without such devotion, life is meaningless, says Kabir.",
+    "meaning": "अपने मन को सुमरण (भगवान के स्मरण) में लगाएं, जैसे मछली पानी के बिना नहीं रह सकती। बिना इस भक्ति के जीवन व्यर्थ है, कबीर कहते हैं।",
+    "explanation": "यह दोहा सुमरण, यानी भगवान का स्मरण करने की महिमा को बताता है। संत कबीर कहते हैं कि जैसे मछली पानी के बिना नहीं रह सकती, वैसे ही मनुष्य भगवान के स्मरण के बिना नहीं जी सकता। यह भक्ति और सुमरण के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

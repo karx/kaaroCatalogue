@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7f486bb5-6bdb-47ce-82a9-14b9dd668c88",
+  "name": "साधु चाल जु चालई, साधु की चाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The way of a saint is his own way. Without proper means, there is no understanding; how can one be called a saint?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु चाल जु चालई, साधु की चाल।\nबिन साधन तो सुधि नाहिं, साधु कहाँ ते होय।।३३५।।",
+    "translation": "The way of a saint is his own way. Without proper means, there is no understanding; how can one be called a saint?",
+    "meaning": "साधु की चाल उसकी अपनी चाल होती है। उचित साधन के बिना, समझ नहीं आती; किसी को साधु कैसे माना जा सकता है?",
+    "explanation": "कबीर इस दोहे में कहते हैं कि साधु की जीवनशैली और तरीका उसके स्वयं का होता है। यदि साधन सही न हो, तो समझ और ज्ञान प्राप्त करना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

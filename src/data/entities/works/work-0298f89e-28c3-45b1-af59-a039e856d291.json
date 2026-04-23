@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0298f89e-28c3-45b1-af59-a039e856d291",
+  "name": "साधु साधु सबहीं बड़े, अपनी अपनी ठौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All saints are great in their own right. The wise and discerning are those who understand the value of words, like the crest on the forehead.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु साधु सबहीं बड़े, अपनी अपनी ठौर।\nशब्‍द विवेकी पारखी, सो माथे के मौर।।६२९।।",
+    "translation": "All saints are great in their own right. The wise and discerning are those who understand the value of words, like the crest on the forehead.",
+    "meaning": "सभी साधु अपनी-अपनी जगह पर महान होते हैं। जो शब्दों की मूल्य को समझते हैं, वही सच्चे विवेकी और पारखी होते हैं, जैसे माथे पर आभूषण।",
+    "explanation": "संतों की महानता उनके कार्यों और स्थान पर निर्भर होती है। जो लोग शब्दों की महत्व को समझते हैं और विवेकपूर्ण निर्णय लेते हैं, वे विशेष होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.002Z"
+  }
+}

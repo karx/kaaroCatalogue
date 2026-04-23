@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9509e8e7-dc5b-4d9c-90b1-6315f9ed9fa4",
+  "name": "शब्‍द विचारी जो चले, गुरुमुख होय निहाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who walk with consideration of the word and are aligned with the Guru, are blessed. Lust and anger do not affect them, and death never consumes them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द विचारी जो चले, गुरुमुख होय निहाल।\nकाम क्रोध व्‍यापै नहीं, कबहूं न ग्रासै काल।।१०३८।।",
+    "translation": "Those who walk with consideration of the word and are aligned with the Guru, are blessed. Lust and anger do not affect them, and death never consumes them.",
+    "meaning": "जो लोग शब्द का विचार करते हुए चलते हैं और गुरु के साथ एकरूप होते हैं, वे धन्य होते हैं। उन्हें काम और क्रोध प्रभावित नहीं करते, और मृत्यु उन्हें कभी नहीं निगल पाती।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो लोग गुरु के मार्गदर्शन में रहते हैं और शब्द (सत्संग, उपदेश) का विचार करते हुए अपने जीवन को जीते हैं, वे सभी प्रकार की नकारात्मक भावनाओं से मुक्त रहते हैं। इस प्रकार के व्यक्ति पर काम, क्रोध और मृत्यु का कोई प्रभाव नहीं पड़ता, और वे सदैव आनन्दित रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.164Z"
+  }
+}

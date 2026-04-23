@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e3dfb96-1b7a-44bf-8bfc-6c98d2a786b9",
+  "name": "कबीर सुख कौं जाइ था, आग आया दुख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, where is happiness? Fire has come as sorrow. If happiness is at home, then we know it, and so is sorrow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सुख कौं जाइ था, आग आया दुख।\nजाहु सुख घरि आपणैं, हम जाणौं अरु दुख।।१८३३।।",
+    "translation": "Kabir, where is happiness? Fire has come as sorrow. If happiness is at home, then we know it, and so is sorrow.",
+    "meaning": "कबीर, सुख कहाँ है? आग दुख के रूप में आई है। यदि सुख घर पर है, तो हम इसे जानते हैं, और दुख भी इसी प्रकार है।",
+    "explanation": "इस दोहे में कबीर ने सुख और दुख की अवस्थाओं की बात की है। सुख और दुख दोनों के अनुभव मानव जीवन का हिस्सा हैं। कबीर का कहना है कि यदि सुख हमारे घर में है, तो दुख भी हमारे साथ होता है। यह जीवन की अस्थिरता और सुख-दुख के सह-अस्तित्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.630Z"
+  }
+}

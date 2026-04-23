@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c2f5cae1-3fb0-4b19-b11a-14fa242759f3",
+  "name": "वस्तु है, ग्राहक नहीं, वस्तु सागर अनमोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The goods are there but no buyer; the ocean of virtues is priceless. Without good deeds, humans wander aimlessly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "वस्तु है, ग्राहक नहीं, वस्तु सागर अनमोल।\nबिना करम का मानव, फिरै डांवाडोल।।३५।।",
+    "translation": "The goods are there but no buyer; the ocean of virtues is priceless. Without good deeds, humans wander aimlessly.",
+    "meaning": "वस्तुएं हैं लेकिन ग्राहक नहीं; गुणों का सागर अमूल्य है। बिना अच्छे कर्मों के, मनुष्य दिशाहीन भटकता रहता है।",
+    "explanation": "यह दोहा जीवन में अच्छे कर्मों और गुणों की आवश्यकता को दर्शाता है। संत कबीर कहते हैं कि गुण और अच्छे कर्म जीवन में महत्वपूर्ण हैं, लेकिन अगर मनुष्य उनका पालन नहीं करता, तो उसका जीवन दिशाहीन और व्यर्थ हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

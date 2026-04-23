@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4b13fe2-19f2-426a-8d7f-422199a7b80b",
+  "name": "कबीर बेड़ा सार का, ऊपर लादा सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, a boat made of straw, laden with more straw, will sink. A sinful Guru will lead the sinful world to its downfall.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर बेड़ा सार का, ऊपर लादा सार।\nपापी का पापी गुरु, यो बूड़ा संसार।।५१९।।",
+    "translation": "Kabir says, a boat made of straw, laden with more straw, will sink. A sinful Guru will lead the sinful world to its downfall.",
+    "meaning": "कबीर कहते हैं, भूसे की नाव पर अधिक भूसा लादने से वह नाव डूब जाएगी। पापी गुरु पापी संसार को डूबने की ओर ले जाएगा।",
+    "explanation": "इस दोहे में संत कबीर जी ने नकली और पापी गुरुओं की आलोचना की है। वे कहते हैं कि जैसे भूसे से बनी नाव पर और भूसा लादने से वह नाव डूब जाती है, वैसे ही पापी गुरु अपने अनुयायियों और इस संसार को विनाश की ओर ले जाता है। यह दोहा हमें सच्चे गुरु की पहचान करने की शिक्षा देता है ताकि हम ऐसे गुरुओं के प्रभाव से बच सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

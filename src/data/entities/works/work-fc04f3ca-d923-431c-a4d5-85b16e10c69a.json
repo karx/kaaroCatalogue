@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fc04f3ca-d923-431c-a4d5-85b16e10c69a",
+  "name": "पढ़ी पढी के पत्‍थर भये, लिखि लिखि भये जु ईट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Reading and reading, they have turned into stones, writing and writing, they have become bricks. Kabir says, they have not even a drop of true love within.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पढ़ी पढी के पत्‍थर भये, लिखि लिखि भये जु ईट।\nकबीर अन्‍तर प्रेम का, लागी नेक न छींट।।९६३।।",
+    "translation": "Reading and reading, they have turned into stones, writing and writing, they have become bricks. Kabir says, they have not even a drop of true love within.",
+    "meaning": "पढ़ पढ़कर वे पत्थर हो गए, लिख लिखकर वे ईंट बन गए। कबीर कहते हैं, उनके अंदर सच्चे प्रेम की एक भी बूंद नहीं है।",
+    "explanation": "इस दोहे में कबीर दास जी शिक्षा और प्रेम का संबंध बताते हैं। वह कहते हैं कि यदि शिक्षा ने हमें कठोर और भावनाहीन बना दिया है, तो वह व्यर्थ है। सच्चे प्रेम और करुणा के बिना ज्ञान का कोई अर्थ नहीं है। जो लोग केवल पढ़ाई और लिखाई में लगे रहते हैं, लेकिन उनके भीतर प्रेम का अभाव है, वे पत्थर और ईंट के समान होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

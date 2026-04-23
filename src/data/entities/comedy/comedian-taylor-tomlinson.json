@@ -1,0 +1,30 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-taylor-tomlinson",
+  "name": "Taylor Tomlinson",
+  "alternateName": [],
+  "knowsLanguage": "en",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "California, USA"
+  },
+  "genre": [
+    "observational",
+    "self-deprecating"
+  ],
+  "sameAs": [
+    "https://www.youtube.com/@TaylorTomlinson"
+  ],
+  "award": [],
+  "keywords": [
+    "After Midnight",
+    "Netflix",
+    "Quarter-Life Crisis"
+  ],
+  "verified": true,
+  "source": {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@TaylorTomlinson",
+    "retrievedAt": "2026-01-04T20:30:00.000Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-093de597-f388-4c44-b45d-a597efc8710c",
+  "name": "निर्पक्षी की भक्ति है, निर्मोही को ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion of the impartial brings knowledge; the knowledge of the detached leads to liberation. The free from conflict attain final peace.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निर्पक्षी की भक्ति है, निर्मोही को ज्ञान।\nनिरद्वंदी की मुक्ति है, निर्लोभी निर्बान।।६९८।।",
+    "translation": "Devotion of the impartial brings knowledge; the knowledge of the detached leads to liberation. The free from conflict attain final peace.",
+    "meaning": "निरपक्ष व्यक्ति की भक्ति ज्ञान लाती है; निर्लिप्त व्यक्ति का ज्ञान मुक्ति की ओर ले जाता है। जो बिना विवाद के रहते हैं, वे अंतिम शांति को प्राप्त करते हैं।",
+    "explanation": "इस दोहे में कबीर भक्ति, ज्ञान और मुक्ति की बात करते हैं। वे कहते हैं कि निरपक्षता की भक्ति ज्ञान देती है, और निर्लिप्तता का ज्ञान मुक्ति की ओर ले जाता है। जो व्यक्ति विवादों से दूर रहते हैं, वे अंतिम शांति को प्राप्त करते हैं। यह दोहा आध्यात्मिक विकास और मानसिक शांति की प्रक्रिया को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

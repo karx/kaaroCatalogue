@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-26b2545a-7210-4564-9703-96b7646a8158",
+  "name": "Amrutanubhav",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dnyaneshwar"
+  },
+  "inLanguage": "Marathi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Amrutanubhav",
+    "retrievedAt": "2026-01-04T18:39:14.803Z"
+  }
+}

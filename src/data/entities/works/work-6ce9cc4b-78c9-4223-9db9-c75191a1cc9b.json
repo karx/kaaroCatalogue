@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6ce9cc4b-78c9-4223-9db9-c75191a1cc9b",
+  "name": "उलटे सुलटे बचन के, शीष न मानै दुख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who does not accept the consequences of twisted and deceitful words experiences suffering. Kabir says, such a person is truly a disciple of the guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उलटे सुलटे बचन के, शीष न मानै दुख।\nकहैं कबीर संसार में, सो कहिये गुरुमुख।।४०८।।",
+    "translation": "One who does not accept the consequences of twisted and deceitful words experiences suffering. Kabir says, such a person is truly a disciple of the guru.",
+    "meaning": "जो उलटे और कपटी शब्दों के परिणामों को स्वीकार नहीं करता, उसे दुख सहना पड़ता है। कबीर कहते हैं, ऐसा व्यक्ति सच्चा गुरु का शिष्य होता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने शब्दों की सत्यता और उसके परिणामों की बात की है। वे बताते हैं कि जो व्यक्ति झूठे और कपटी शब्दों के परिणामों को स्वीकार नहीं करता, उसे दुख सहना पड़ता है। सच्चा गुरु का शिष्य वही होता है जो ईमानदारी और सत्यता से अपने शब्दों के परिणामों को समझे और स्वीकारे। यह दोहा हमें सिखाता है कि सच्ची गुरु भक्ति और शिष्यता में सत्यता और ईमानदारी अनिवार्य हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

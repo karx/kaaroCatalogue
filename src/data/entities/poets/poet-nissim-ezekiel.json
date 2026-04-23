@@ -1,0 +1,33 @@
+{
+  "entityId": "poet-nissim-ezekiel",
+  "name": "Nissim Ezekiel",
+  "@type": "Person",
+  "knowsLanguage": "English",
+  "era": "Modern",
+  "century": "20th Century",
+  "titles": [
+    "Father of Modern Indian English Poetry"
+  ],
+  "award": [
+    "Sahitya Akademi Award"
+  ],
+  "keywords": [
+    "Night of the Scorpion",
+    "Irony",
+    "Urban Poetry",
+    "Bombay"
+  ],
+  "abstract": "The father of modern Indian English poetry. His works are characterized by irony, urban settings (Bombay), and focus on the 'ordinariness' of Indian life.",
+  "majorWorks": [
+    "Night of the Scorpion",
+    "Latter-Day Psalms"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Nissim_Ezekiel"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nissim_Ezekiel",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

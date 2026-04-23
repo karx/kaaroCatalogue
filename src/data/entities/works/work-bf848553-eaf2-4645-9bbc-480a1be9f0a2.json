@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bf848553-eaf2-4645-9bbc-480a1be9f0a2",
+  "name": "Kulliyat-e-Mir",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Kulliyat-e-Mir",
+    "retrievedAt": "2026-01-04T18:39:02.124Z"
+  }
+}

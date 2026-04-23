@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b3949b9f-cbb4-4731-85e9-9adea87688e7",
+  "name": "झूठ बात नहिं बोलिये, जब लग पार बसाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not speak falsehood, even if you are established in the world. Oh Kabir, hold onto the truth, for it does not perish.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झूठ बात नहिं बोलिये, जब लग पार बसाय।\nअहो कबीरा सांच गहु, आवागवन नसाय।।१४२२।।",
+    "translation": "Do not speak falsehood, even if you are established in the world. Oh Kabir, hold onto the truth, for it does not perish.",
+    "meaning": "झूठ मत बोलो, भले ही आप दुनिया में स्थापित हों। अरे कबीर, सच्चाई को थामे रहो, क्योंकि यह समाप्त नहीं होती।",
+    "explanation": "कबीर इस दोहे में ईमानदारी के महत्व को बताते हैं। वे सलाह देते हैं कि भले ही आप दुनिया में कितने भी स्थापित क्यों न हों, झूठ बोलना सही नहीं है। सच्चाई को पकड़कर रखना चाहिए क्योंकि यह कभी समाप्त नहीं होती। यह दोहा सच्चाई की स्थायिता और उसकी अहमियत को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.362Z"
+  }
+}

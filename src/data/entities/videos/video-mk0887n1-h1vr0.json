@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-h1vr0",
+  "name": "Disco Dancer Review - Bloopers and Deleted Scenes",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT3M1S",
+  "embedUrl": "https://www.youtube.com/embed/1a1ZTfDzioU",
+  "contentUrl": "https://www.youtube.com/watch?v=1a1ZTfDzioU",
+  "uploadDate": "2015-04-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/1a1ZTfDzioU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Bloopers and Deleted Scenes from the Disco Dancer Review.",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8ab40d47-b28f-427e-ad17-8e45c4a481e5",
+  "name": "मन लागा मुनि सौं, गगन पहुंचा जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind attached to the sage reaches the sky. There, the formless and transcendent is perceived beyond the moon and stars.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन लागा मुनि सौं, गगन पहुंचा जाइ।\nदेख्‍या चंदबिहूंणां चांदिणां, तहां अलख निरंजन राइ।।१७९४।।",
+    "translation": "The mind attached to the sage reaches the sky. There, the formless and transcendent is perceived beyond the moon and stars.",
+    "meaning": "जो मन ऋषि से जुड़ा होता है, वह आकाश तक पहुँचता है। वहां, चाँद और सितारों के परे, निराकार और पारलौकिक को देखा जाता है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि जब मन एक साधु या गुरु से जुड़ता है, तो वह आकाश तक पहुँच जाता है। वहां चाँद और सितारों के परे, निराकार और परलौकिक रूप को देखा जा सकता है। यह दोहा आत्मा की उन्नति और आध्यात्मिक दृष्टि के विस्तार को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.356Z"
+  }
+}

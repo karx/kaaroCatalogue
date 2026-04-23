@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5v6m-2ojjy",
+  "name": "Trash \"Jokes\" - 1 | Ghatia comedy by Abhishek Upmanyu",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-abhishek-upmanyu"
+  },
+  "duration": "PT26S",
+  "embedUrl": "https://www.youtube.com/embed/3uS2hj4yZME",
+  "contentUrl": "https://www.youtube.com/watch?v=3uS2hj4yZME",
+  "uploadDate": "2017-04-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/3uS2hj4yZME/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Mujhe koi sharam nahi hai iski. Koi sharam. Honi chahiye, par nahi hai. \n\nAll Credits for this Shit: Abhishek Upmanyu",
+  "channelTitle": "Abhishek Upmanyu",
+  "aggregatorChannel": null
+}

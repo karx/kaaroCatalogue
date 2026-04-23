@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-djh4n",
+  "name": "🔴 THE CROSSWORD EPISODE 4 FEAT ASHISH SHAKYA",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT58M41S",
+  "embedUrl": "https://www.youtube.com/embed/8VQ_o6MLe_A",
+  "contentUrl": "https://www.youtube.com/watch?v=8VQ_o6MLe_A",
+  "uploadDate": "2021-10-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/8VQ_o6MLe_A/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Shaks and I solve the crossword. Or, more accurately, Shaks and I try and solve the crossword while chat screams out the answers ages before we figure it out, and we look stupid. Either way, it's good fun.",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

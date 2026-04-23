@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c4caafb0-e3ec-4416-8dbe-680bdb85ca5e",
+  "name": "दरशन कीजै साधु का, दिन में कई कई बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Visit the saint's sight many times a day. Just as the monsoon rains do great good, so does frequent sight of the saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दरशन कीजै साधु का, दिन में कई कई बार।\nअसोजा का मेह ज्‍यों, बहुत करे उपकार।।५६२।।",
+    "translation": "Visit the saint's sight many times a day. Just as the monsoon rains do great good, so does frequent sight of the saint.",
+    "meaning": "साधु के दर्शन को दिन में कई बार जाइए। जैसे असोजा का मेह बहुत उपकार करता है, वैसे साधु का बार-बार दर्शन भी लाभकारी है।",
+    "explanation": "इस दोहे में कबीर जी ने कहा है कि साधु के दर्शन को दिन में कई बार जाना चाहिए। जैसे असोजा का बारिश बहुत लाभकारी होती है, साधु का बार-बार दर्शन भी बहुत उपकारी होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-53ef7e8b-bf66-49ee-affc-9b3a7a129cf8",
+  "name": "काला सर्प शरीर में , खाई सब जग झारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A black serpent resides within the body, consuming everything in the world. Only a few rare souls will survive, who meditate on Lord Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काला सर्प शरीर में , खाई सब जग झारि।\nबिरला ते जन बांचिहें, जो रामहिं भजे विचारि।।१४८१।।",
+    "translation": "A black serpent resides within the body, consuming everything in the world. Only a few rare souls will survive, who meditate on Lord Ram.",
+    "meaning": "शरीर में एक काला सर्प है, जो संसार की सभी चीजों को खा जाता है। केवल वही कुछ विरले लोग बचेंगे, जो भगवान राम का ध्यान करते हैं।",
+    "explanation": "इस दोहे में कबीर संसार के मोह और माया को एक काले सर्प के रूप में वर्णित करते हैं, जो जीवन की सभी चीजों को धीरे-धीरे खत्म कर देता है। कबीर का कहना है कि इस सर्प से केवल वे लोग बच सकते हैं, जो भगवान राम के सच्चे भक्त हैं और उनका चिंतन करते हैं। यह दोहा जीवन में आत्मज्ञान और भक्ति के महत्व को बताता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.659Z"
+  }
+}

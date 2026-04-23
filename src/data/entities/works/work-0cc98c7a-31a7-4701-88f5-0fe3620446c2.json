@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0cc98c7a-31a7-4701-88f5-0fe3620446c2",
+  "name": "Vaishnav Jan To",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-narsinh-mehta"
+  },
+  "inLanguage": "Gujarati",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Vaishnav_Jan_To",
+    "retrievedAt": "2026-01-04T18:39:15.877Z"
+  }
+}

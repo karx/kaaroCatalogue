@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-95ca5305-10fa-4b17-9f41-8225a03c72c4",
+  "name": "कबीर तूं काहे डरै, सिर परि हरि का हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, why do you fear when the Lord’s hand is over you? Do not be shaken like an elephant mounted on its path by barking dogs.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर तूं काहे डरै, सिर परि हरि का हाथ।\nहस्‍ती चढ़‍ि नहीं डोलिये, कूकर भूसैं जु लाष।।१८७९।।",
+    "translation": "Kabir, why do you fear when the Lord’s hand is over you? Do not be shaken like an elephant mounted on its path by barking dogs.",
+    "meaning": "कबीर, तुम क्यों डरते हो जब ईश्वर का हाथ तुम्हारे सिर पर है? हाथी की तरह स्थिर रहो, जो रास्ते में भौंकते कुत्तों से विचलित नहीं होता।",
+    "explanation": "कबीरदास जी इस दोहे में भयमुक्त जीवन जीने की शिक्षा देते हैं। वे कहते हैं कि जब ईश्वर का हाथ हमारे सिर पर हो, तो हमें किसी भी प्रकार का डर नहीं होना चाहिए। जैसे एक हाथी रास्ते में भौंकते हुए कुत्तों से विचलित नहीं होता, वैसे ही हमें भी जीवन की बाधाओं से प्रभावित हुए बिना आगे बढ़ते रहना चाहिए। यह दोहा आत्मविश्वास और ईश्वर पर अडिग विश्वास की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.974Z"
+  }
+}

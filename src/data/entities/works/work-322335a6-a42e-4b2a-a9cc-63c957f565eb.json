@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-322335a6-a42e-4b2a-a9cc-63c957f565eb",
+  "name": "कहा किया हम आयके, कहा करेंगे जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What did we achieve by coming into this world, and what will we do when we leave? We neither belong here nor there, and in the process, we lost our essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहा किया हम आयके, कहा करेंगे जाय।\nइत के भये न ऊत के, चाले मूल गंवाय।।८८८।।",
+    "translation": "What did we achieve by coming into this world, and what will we do when we leave? We neither belong here nor there, and in the process, we lost our essence.",
+    "meaning": "हम इस दुनिया में आकर क्या हासिल किया, और जब हम यहाँ से जाएंगे तो क्या करेंगे? हम न इस दुनिया के रहे और न उस दुनिया के, और इस बीच हमने अपनी मूल भावना खो दी।",
+    "explanation": "कबीर इस दोहे में जीवन की व्यर्थता और सांसारिकता के पीछे भागने से होने वाले नुकसान का वर्णन करते हैं। वे बताते हैं कि जीवन की यह दौड़ हमें न तो इस दुनिया का और न उस दुनिया का बनाती है, और अंततः हम अपनी आत्मा का सार खो बैठते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.354Z"
+  }
+}

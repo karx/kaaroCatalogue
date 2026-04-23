@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2c114aea-64f2-49cc-bc2b-9a410dd3cde2",
+  "name": "बिरहा बिरहा जिनि कहौ, बिरहा है सुलितान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who speaks of separation, speaks of it as a sovereign. The body in which separation does not reside is always a cremation ground.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरहा बिरहा जिनि कहौ, बिरहा है सुलितान।\nजिह घटि बिरह न संचरै, सो घट सदा मसान।।१७५६।।",
+    "translation": "One who speaks of separation, speaks of it as a sovereign. The body in which separation does not reside is always a cremation ground.",
+    "meaning": "जो विरह की बात करता है, वह इसे एक शाही समझता है। जिस शरीर में विरह का वास नहीं है, वह हमेशा एक श्मशान होता है।",
+    "explanation": "इस दोहे में कबीर ने विरह की अवस्था को एक शाही स्थिति के रूप में चित्रित किया है, जबकि जिस शरीर में विरह का प्रभाव नहीं होता, उसे श्मशान के समान निरर्थक और खाली माना गया है। यह भावना व्यक्ति की मानसिक स्थिति और उसके जीवन की सच्चाई पर ध्यान केंद्रित करती है कि विरह की उपस्थिति जीवन की गहराई और वास्तविकता को दर्शाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.344Z"
+  }
+}

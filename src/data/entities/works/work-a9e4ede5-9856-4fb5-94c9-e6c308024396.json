@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a9e4ede5-9856-4fb5-94c9-e6c308024396",
+  "name": "संत न छाडै संतई, जे कोटिक मिलैं असंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint does not abandon his saintliness even if millions of ungodly people come. Just as sandalwood does not lose its coolness while burning, a true saint does not lose his essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संत न छाडै संतई, जे कोटिक मिलैं असंत।\nचंदन भुवंगा बैठिया, तउ सीतलता न तजंत।।१९९०।।",
+    "translation": "A saint does not abandon his saintliness even if millions of ungodly people come. Just as sandalwood does not lose its coolness while burning, a true saint does not lose his essence.",
+    "meaning": "संत अपनी संतता को नहीं छोड़ता, भले ही लाखों असंत उसे घेरे हों। जैसे चंदन जलते समय भी अपनी ठंडक नहीं छोड़ता, वैसे ही सच्चा संत अपनी मूलता को नहीं छोड़ता।",
+    "explanation": "इस दोहे में कबीर ने संत की स्थिरता और उसके गुणों को बताया है। उन्होंने कहा है कि सच्चा संत अपनी नैतिकता और गुणों को बनाए रखता है, चाहे उसे कितना भी विरोध या चुनौतियों का सामना करना पड़े। चंदन की ठंडक की तुलना कर के संतत्व की स्थिरता को दर्शाया गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.536Z"
+  }
+}

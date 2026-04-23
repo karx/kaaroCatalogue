@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-uh9i9",
+  "name": "30 years of marriage #atulkhatri #standupcomedy #comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT1M1S",
+  "embedUrl": "https://www.youtube.com/embed/BlYR9CyujG8",
+  "contentUrl": "https://www.youtube.com/watch?v=BlYR9CyujG8",
+  "uploadDate": "2023-05-30",
+  "thumbnailUrl": "https://i.ytimg.com/vi/BlYR9CyujG8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

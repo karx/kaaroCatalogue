@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1986666-8637-4c33-99bf-ce5390f90b45",
+  "name": "ऐसा काई ना मिला, जासू कहुं निसंक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have not found anyone with whom I can speak without fear. When I share my heart, they end up hurting me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा काई ना मिला, जासू कहुं निसंक।\nजासो हिरदा की कहूं, सो फिर मारे डंक।।५३९।।",
+    "translation": "I have not found anyone with whom I can speak without fear. When I share my heart, they end up hurting me.",
+    "meaning": "मुझे कोई ऐसा नहीं मिला जिससे मैं निसंकोच होकर बात कर सकूं। जब मैं अपने दिल की बात किसी से कहता हूं, तो वह मुझे चोट पहुंचाता है।",
+    "explanation": "इस दोहे में संत कबीर जी मानव संबंधों और विश्वास के बारे में बात कर रहे हैं। वे कहते हैं कि ऐसा कोई व्यक्ति नहीं मिलता जिससे बिना डर के अपनी बातें साझा की जा सकें। जब भी दिल की बात किसी से कहते हैं, तो वह व्यक्ति अंत में हमें ही चोट पहुंचा देता है। यह दोहा हमारे सामाजिक संबंधों में विश्वासघात और दुख के अनुभव को व्यक्त करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b00fe53d-7915-422c-98b6-3f396d9d049c",
+  "name": "बन्‍दे तू कर बन्‍दगी, तब पावै दीदार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Serve with devotion, and you will have the vision of the divine. This opportunity of human life does not come again and again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बन्‍दे तू कर बन्‍दगी, तब पावै दीदार।\nऔसर मानुष जनम का, बहुरि न बारंबार।।९५५।।",
+    "translation": "Serve with devotion, and you will have the vision of the divine. This opportunity of human life does not come again and again.",
+    "meaning": "भक्ति से सेवा करो, तब तुम divine दर्शन प्राप्त करोगे। यह मानव जीवन का अवसर बार-बार नहीं मिलता।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि यदि आप भक्ति और समर्पण के साथ सेवा करेंगे, तो आप ईश्वर के दर्शन प्राप्त कर सकेंगे। यह मानव जीवन एक अनमोल अवसर है और इसे बार-बार नहीं मिलता। इसलिए कबीर यह सिखाते हैं कि इस जीवन का सही उपयोग करके भक्ति और सेवा में लग जाना चाहिए, ताकि ईश्वर का साक्षात्कार हो सके और जीवन का उद्देश्य पूरा हो सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.891Z"
+  }
+}

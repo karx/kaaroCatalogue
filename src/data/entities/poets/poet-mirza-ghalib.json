@@ -1,0 +1,43 @@
+{
+  "@type": "Person",
+  "entityId": "poet-mirza-ghalib",
+  "name": "Mirza Ghalib",
+  "additionalType": "Kavi",
+  "birthDate": "1797",
+  "deathDate": "1869",
+  "knowsLanguage": "Urdu",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Delhi"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Court Poet"
+  },
+  "award": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Mirza_Ghalib"
+  ],
+  "keywords": [
+    "Ghazal",
+    "Philosophy",
+    "Love",
+    "Skepticism"
+  ],
+  "era": "Medieval",
+  "century": "19th Century",
+  "titles": [
+    "Mirza",
+    "Asadullah Khan Ghalib"
+  ],
+  "abstract": "The towering figure of Urdu literature. Ghalib's poetry is philosophical, skeptical, and intellectually demanding. His Diwan-e-Ghalib is a concise masterpiece.",
+  "majorWorks": [
+    "Diwan-e-Ghalib",
+    "Ghalib ke Khutoot"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mirza_Ghalib",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

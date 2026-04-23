@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b3cd73d7-690d-43e4-ac67-247c4d1d96c0",
+  "name": "कंचन मेरु अरपहीं, अरपै कनक भण्‍डार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if gold is offered to Mount Meru and a storehouse of gold is given, says Kabir, one who turns away from the Guru will never reach the other shore.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कंचन मेरु अरपहीं, अरपै कनक भण्‍डार।\nकहैं कबीर गुरु बेमुखी, कबहुं न पावै पार।।५५२।।",
+    "translation": "Even if gold is offered to Mount Meru and a storehouse of gold is given, says Kabir, one who turns away from the Guru will never reach the other shore.",
+    "meaning": "यदि स्वर्ण मेरु पर्वत को अर्पित किया जाए और सोने का भंडार भी दिया जाए, फिर भी गुरु से विमुख व्यक्ति कभी पार नहीं लग सकता।",
+    "explanation": "इस दोहे में कबीर जी ने कहा है कि भले ही कितनी भी भव्य वस्तुएं दी जाएं, गुरु के प्रति विमुखता से व्यक्ति को कभी भी मुक्ति या सही मार्ग पर नहीं पहुंचा जा सकता। गुरु के बिना जीवन का उद्देश्य अधूरा रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

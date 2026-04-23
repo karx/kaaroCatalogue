@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6e86193e-fd3e-4640-bb2f-35b55f329b83",
+  "name": "प्रेम प्रीति से जो मिले, ताको मिलिये धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Meet those who come with genuine love and affection. Avoid those who come with deceit and falsehood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम प्रीति से जो मिले, ताको मिलिये धाय।\nकपट राखिके जो मिले, तासे मिलै बलाय।।८२४।।",
+    "translation": "Meet those who come with genuine love and affection. Avoid those who come with deceit and falsehood.",
+    "meaning": "जो सच्चे प्रेम और स्नेह के साथ मिलते हैं, उनसे मिलिए। जो कपट और झूठ के साथ मिलते हैं, उनसे बचिए।",
+    "explanation": "इस दोहे में कबीर ने सच्चे प्रेम और कपट भरे लोगों के बीच अंतर को दर्शाया है। जिन लोगों के साथ सच्चा प्रेम और स्नेह होता है, उनके साथ मिलना और बातचीत करना लाभकारी है। वहीं, जिन लोगों के पास कपट और झूठ होता है, उनसे दूर रहना ही बेहतर है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

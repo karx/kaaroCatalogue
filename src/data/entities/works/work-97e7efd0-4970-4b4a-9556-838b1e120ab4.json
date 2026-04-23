@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-97e7efd0-4970-4b4a-9556-838b1e120ab4",
+  "name": "नाम अनन्‍त जो ब्रह्म का, तिनका वार न पार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The name of the infinite Brahman cannot be fully understood by words. Accept the truth with your mind, Kabir says.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाम अनन्‍त जो ब्रह्म का, तिनका वार न पार।\nमन मानै सौ लीजिये, कहै कबीर बिचार।।२२०८।।",
+    "translation": "The name of the infinite Brahman cannot be fully understood by words. Accept the truth with your mind, Kabir says.",
+    "meaning": "अनन्त ब्रह्म का नाम शब्दों से पूरी तरह समझा नहीं जा सकता। कबीर कहते हैं, इसे अपने मन से स्वीकार करें।",
+    "explanation": "इस दोहे में संत कबीर जी बताते हैं कि ब्रह्म (परमात्मा) के नाम को शब्दों से पूरी तरह से नहीं समझा जा सकता। वे सुझाव देते हैं कि हमें इसे अपने मन से समझकर स्वीकार करना चाहिए। यह दोहा नामों की सीमाओं को स्वीकार करने और गहरी समझ प्राप्त करने की बात करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.079Z"
+  }
+}

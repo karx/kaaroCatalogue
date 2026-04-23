@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-86a84ce4-c948-46e5-9bee-578575ab116e",
+  "name": "शब्‍द शब्‍द बहु उंतरे, सार शब्‍द मथि लीजे",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The words are many, but the essence is in the core word. Kabir says, the one who understands the essence of the word, truly lives a meaningful life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द शब्‍द बहु उंतरे, सार शब्‍द मथि लीजे।\nकहहिं कबिर जेहि सार शब्‍द, नहिं धृग जीवन सो जीजे।।१६७८।।",
+    "translation": "The words are many, but the essence is in the core word. Kabir says, the one who understands the essence of the word, truly lives a meaningful life.",
+    "meaning": "शब्द तो बहुत हैं, लेकिन सार तो मूल शब्द में है। कबीर कहते हैं, जो व्यक्ति शब्द के सार को समझता है, वही जीवन को सही मायने में जीता है।",
+    "explanation": "कबीर इस दोहे में शब्दों के सार की बात करते हैं। उन्होंने कहा कि शब्दों का सही समझना और उनका सार जानना महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.789Z"
+  }
+}

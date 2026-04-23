@@ -1,0 +1,24 @@
+{
+  "@type": "Book",
+  "workId": "work-381f2b70-e0ae-46ac-a441-b90b27097a39",
+  "name": "Meghaduta (The Cloud Messenger)",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "dateCreated": "5th Century CE",
+  "genre": "Khandakavya (Lyric Poem)",
+  "abstract": "A lyrical poem where an exiled Yaksha asks a monsoon cloud to carry a message to his beloved wife in Alaka.",
+  "keywords": [
+    "Sandesha Kavya",
+    "Nature",
+    "Love",
+    "Separation"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

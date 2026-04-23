@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee38ed05-0c2f-44c1-a31c-5d97f1dcb168",
+  "name": "shaiKH sahab se rasm-o-rah na ki",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/shaikh-saahab-se-rasm-o-raah-na-kii-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.211Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/shaikh-saahab-se-rasm-o-raah-na-kii-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nshaiḳh sāhab se rasm-o-rāh na kī\nshukr hai zindagī tabāh na kī\ntujh ko dekhā to ser-chashm hue\ntujh ko chāhā to aur chaah na kī\ntere dast-e-sitam kā ijz nahīñ\ndil hī kāfir thā jis ne aah na kī\nthe shab-e-hijr kaam aur bahut\nham ne fikr-e-dil-e-tabāh na kī\nkaun qātil bachā hai shahr meñ 'faiz'\njis se yāroñ ne rasm-o-rāh na kī\nshaiKH sahab se rasm-o-rah na ki\nshukr hai zindagi tabah na ki\ntujh ko dekha to ser-chashm hue\ntujh ko chaha to aur chah na ki\ntere dast-e-sitam ka ijz nahin\ndil hi kafir tha jis ne aah na ki\nthe shab-e-hijr kaam aur bahut\nhum ne fikr-e-dil-e-tabah na ki\nkaun qatil bacha hai shahr mein 'faiz'\njis se yaron ne rasm-o-rah na ki",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nشیخ صاحب سے رسم و راہ نہ کی\nشکر ہے زندگی تباہ نہ کی\nتجھ کو دیکھا تو سیر چشم ہوئے\nتجھ کو چاہا تو اور چاہ نہ کی\nتیرے دست ستم کا عجز نہیں\nدل ہی کافر تھا جس نے آہ نہ کی\nتھے شب ہجر کام اور بہت\nہم نے فکر دل تباہ نہ کی\nکون قاتل بچا ہے شہر میں فیضؔ\nجس سے یاروں نے رسم و راہ نہ کی",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nशैख़ साहब से रस्म-ओ-राह न की\nशुक्र है ज़िंदगी तबाह न की\nतुझ को देखा तो सेर-चश्म हुए\nतुझ को चाहा तो और चाह न की\nतेरे दस्त-ए-सितम का इज्ज़ नहीं\nदिल ही काफ़िर था जिस ने आह न की\nथे शब-ए-हिज्र काम और बहुत\nहम ने फ़िक्र-ए-दिल-ए-तबाह न की\nकौन क़ातिल बचा है शहर में 'फ़ैज़'\nजिस से यारों ने रस्म-ओ-राह न की",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:46.121Z"
+  }
+}

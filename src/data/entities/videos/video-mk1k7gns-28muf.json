@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-28muf",
+  "name": "Europe tour - 22 May to 1 June #standupcomedy #mumbailocal #funny",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT1M29S",
+  "embedUrl": "https://www.youtube.com/embed/sWhCpIcgjIs",
+  "contentUrl": "https://www.youtube.com/watch?v=sWhCpIcgjIs",
+  "uploadDate": "2025-05-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/sWhCpIcgjIs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

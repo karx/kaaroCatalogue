@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-afe148c2-b1f3-443e-9313-39da4bf790e5",
+  "name": "माँगन गै सो भर रहै, भरे जु माँगन जाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who asks for alms remains full, but those who keep asking keep demanding. They who keep asking will perish before they fulfill their desires.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माँगन गै सो भर रहै, भरे जु माँगन जाहिं।\nतिनते पहिले वे मरे, होत करत है नाहिं।।३७४।।",
+    "translation": "One who asks for alms remains full, but those who keep asking keep demanding. They who keep asking will perish before they fulfill their desires.",
+    "meaning": "जो माँगता है, वह भरपूर रहता है, लेकिन जो बार-बार माँगता है, वह हमेशा मांगता रहता है। जो बार-बार माँगते हैं, वे अपने इच्छाओं को पूरा करने से पहले ही मर जाते हैं।।",
+    "explanation": "इस दोहे में कबीरदास ने माँगने की प्रवृत्ति और इसके परिणामों पर टिप्पणी की है। वे कहते हैं कि एक बार माँगने से व्यक्ति संतुष्ट रह सकता है, लेकिन जो लोग बार-बार माँगते हैं, वे हमेशा असंतुष्ट रहते हैं। ऐसे लोग अपनी इच्छाओं को पूरा करने से पहले ही मर जाते हैं। यह दोहा इस बात को दर्शाता है कि अत्यधिक माँगना और असंतोष की भावना व्यक्ति की जीवन की यात्रा में बाधक हो सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9884ebda-387a-4a0d-83b9-ae9752f9d796",
+  "name": "कबीर जोगी बनि बस्‍या, षणि खाये कंद मूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir became a yogi and lived on roots and tubers. I do not know which herb made him immortal and incorporeal.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर जोगी बनि बस्‍या, षणि खाये कंद मूल।\nनां जाणौं किस जड़ी थै, अमर भए असथूल।।१९५८।।",
+    "translation": "Kabir became a yogi and lived on roots and tubers. I do not know which herb made him immortal and incorporeal.",
+    "meaning": "कबीर ने योगी बनकर कंद और मूल खाकर जीवन यापन किया। मुझे नहीं पता कि कौन सी औषधि ने उन्हें अमर और निराकार बना दिया।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि वे एक योगी के रूप में साधारण जीवन जीते थे और केवल कंद और मूल खाकर अपना गुजारा करते थे। लेकिन कबीर स्वीकारते हैं कि अमरता प्राप्त करने की विधि या रहस्य उनके लिए भी अज्ञात है। यह दोहा यह संकेत करता है कि अमरता और दिव्यता बाहरी साधनों या जड़ी-बूटियों से नहीं, बल्कि आंतरिक साधना और दिव्य ज्ञान से प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.529Z"
+  }
+}

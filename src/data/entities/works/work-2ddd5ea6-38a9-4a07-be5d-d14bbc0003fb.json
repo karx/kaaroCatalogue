@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2ddd5ea6-38a9-4a07-be5d-d14bbc0003fb",
+  "name": "ज़हर की ज़र्मी में है रोपा, अभी खींचे सौ बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if poison is planted a hundred times, the soul does not abandon the body. Kabir questions, who can contemplate this?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज़हर की ज़र्मी में है रोपा, अभी खींचे सौ बार।\nकबिरा खलक न तजे, जामे कौन विचार।।७६।।",
+    "translation": "Even if poison is planted a hundred times, the soul does not abandon the body. Kabir questions, who can contemplate this?",
+    "meaning": "यदि जहर सौ बार भी बोया जाए, तो आत्मा शरीर को नहीं छोड़ती। कबीर पूछते हैं, इसे कौन समझ सकता है?",
+    "explanation": "इस दोहे में कबीर आत्मा की स्थिरता और अमरता की बात करते हैं। भले ही शरीर में जहर कितनी भी बार डाला जाए, आत्मा का नाश नहीं होता और वह शरीर को छोड़ती नहीं है। यह आत्मा की अमरता और उसकी दृढ़ता को दर्शाता है। कबीर इस बात पर विचार करने के लिए लोगों को प्रेरित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

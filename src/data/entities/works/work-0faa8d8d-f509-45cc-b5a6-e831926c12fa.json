@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0faa8d8d-f509-45cc-b5a6-e831926c12fa",
+  "name": "एसी बाणी बोलिये, मन का आपा खोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak such words that dissolve the ego of the mind. If you make others calm, you too will become calm.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एसी बाणी बोलिये, मन का आपा खोइ।\nऔरन को सीतल करै, आपौ सीतल होइ।।२४२।।",
+    "translation": "Speak such words that dissolve the ego of the mind. If you make others calm, you too will become calm.",
+    "meaning": "ऐसे शब्द बोलो जो मन के अहंकार को मिटा दें। यदि तुम दूसरों को शांत करते हो, तो तुम भी शांत हो जाओगे।",
+    "explanation": "कबीर इस दोहे में अपने शब्दों के प्रभाव को दर्शाते हैं। वे कहते हैं कि जो शब्द मन के अहंकार को समाप्त करने में सक्षम होते हैं, वे दूसरों को शांत भी करते हैं। जब हम दूसरों के साथ शांतिपूर्ण और सहानुभूति पूर्ण व्यवहार करते हैं, तो स्वयं भी शांतिपूर्ण और संतुलित हो जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

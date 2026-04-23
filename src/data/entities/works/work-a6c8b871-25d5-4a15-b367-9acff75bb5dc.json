@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a6c8b871-25d5-4a15-b367-9acff75bb5dc",
+  "name": "गुरु नारायन रूप है, गुरु ज्ञान को घाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Guru is the form of Narayan (God) and the source of knowledge. By the glory of the true Guru's words, the mind's dissatisfaction is removed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु नारायन रूप है, गुरु ज्ञान को घाट।\nसतगुरु बचन प्रताप सों, मन के मिटे उचाट।।४६८।।",
+    "translation": "The Guru is the form of Narayan (God) and the source of knowledge. By the glory of the true Guru's words, the mind's dissatisfaction is removed.",
+    "meaning": "गुरु नारायण का रूप है और ज्ञान का स्रोत है। सच्चे गुरु की वाणी की महिमा से, मन की असंतोषिता दूर हो जाती है।",
+    "explanation": "इस दोहे में कबीर ने गुरु के महत्व को उजागर किया है। गुरु को नारायण का रूप और ज्ञान का स्रोत माना गया है। सच्चे गुरु की शिक्षाओं की महिमा से मन की निराशा और असंतोष समाप्त हो जाता है। यह दोहा गुरु की शिक्षाओं और उनके प्रभाव को स्वीकार करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

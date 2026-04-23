@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-063b9668-16c5-40d3-b673-944f555892e2",
+  "name": "दस द्वारे का पींजरा, तामें पंछी मौन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the cage with ten doors, the bird remains silent. It is surprising that no one notices, and who is astonished by this?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दस द्वारे का पींजरा, तामें पंछी मौन।\nरहे को अचरज भयौ, गये अचम्भा कौन।।१२९।।",
+    "translation": "In the cage with ten doors, the bird remains silent. It is surprising that no one notices, and who is astonished by this?",
+    "meaning": "दस द्वारों वाले पिंजरे में, पक्षी मौन रहता है। यह आश्चर्यजनक है कि कोई भी इसे नहीं देखता, और कौन इस पर आश्चर्यचकित होता है?",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि दस द्वारों वाले पिंजरे में भी पक्षी मौन रहता है, जो उसकी मौनता और चुप्पी को संकेत करता है। यह जीवन की जटिलताओं और मन की चुप्पी को भी प्रकट करता है, और यह सवाल उठाता है कि कौन इस मौन पर ध्यान देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

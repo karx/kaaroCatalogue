@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5ad07174-e99d-48b4-95c2-24c51d748dbf",
+  "name": "कबीर दर्शन साधु का, बड़े भाग दरशाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The vision of a saint is a great fortune. The one who suffers punishment like the cross, has their thorns removed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर दर्शन साधु का, बड़े भाग दरशाय।\nजो होवै सूली सजा, कांटे ई टरि जाय।।५५८।।",
+    "translation": "The vision of a saint is a great fortune. The one who suffers punishment like the cross, has their thorns removed.",
+    "meaning": "साधु का दर्शन बड़ी किस्मत की बात है। जो सूली की सजायें सहता है, उसके कांटे हट जाते हैं।",
+    "explanation": "कबीर जी ने साधु के दर्शन को बहुत बड़ी किस्मत बताया है। ऐसे व्यक्ति जो सूली की सजाएं सहता है, उसके जीवन की कठिनाइयाँ और समस्याएँ समाप्त हो जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f89cb4b7-1407-4f44-9638-b1bbff6ae72b",
+  "name": "कबीर यह तन जात है, सको तो राखु बहोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, this body is passing away, if you can, save it again. Many with millions passed away empty-handed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह तन जात है, सको तो राखु बहोर।\nखाली हाथो बह गये, जिनके लाख करोर।।९७३।।",
+    "translation": "Kabir says, this body is passing away, if you can, save it again. Many with millions passed away empty-handed.",
+    "meaning": "कबीर कहते हैं, यह शरीर जा रहा है, अगर तुम कर सको, तो इसे फिर से बचाओ। लाखों और करोड़ों वाले भी खाली हाथ चले गए।",
+    "explanation": "इस दोहे में कबीर दास जी शरीर की नश्वरता और धन के प्रति मोह के बारे में बता रहे हैं। वह कहते हैं कि हमारा शरीर धीरे-धीरे क्षीण हो रहा है, और अगर संभव हो, तो इसे बचाने की कोशिश करो। लेकिन याद रखो, दुनिया में कई लोग जिन्होंने लाखों और करोड़ों कमाए, वे भी अंततः खाली हाथ ही इस संसार से चले गए। इसलिए जीवन में आध्यात्मिकता और सच्चे कर्मों पर ध्यान देना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.893Z"
+  }
+}

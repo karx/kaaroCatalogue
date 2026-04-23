@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d5050c1-090e-46ae-9d13-94e7f954d2d8",
+  "name": "कबीर कहता जात हौं, चेते नहीं गंवार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says as he departs, the fool doesn't understand. Neither recluse nor householder, the lustful finds no peace.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कहता जात हौं, चेते नहीं गंवार।\nबैरागी गिरही कहा, कांमी वार न पार।।२०५९।।",
+    "translation": "Kabir says as he departs, the fool doesn't understand. Neither recluse nor householder, the lustful finds no peace.",
+    "meaning": "कबीर कहते हैं कि मैं जा रहा हूँ, लेकिन यह मूर्ख समझ नहीं पा रहा है। कामुक व्यक्ति न तो बैरागी होता है और न ही गृहस्थ, उसे कहीं भी शांति नहीं मिलती।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि एक कामुक व्यक्ति के लिए न तो संसार में और न ही वैराग्य में कोई शांति है। वह व्यक्ति जीवन की सच्ची समझ प्राप्त नहीं कर सकता, क्योंकि उसकी कामनाएँ उसे अंधकार में रखती हैं। कबीर इस बात को कहते हुए जाते हैं कि यह मूर्ख व्यक्ति अब भी सच्चाई को नहीं समझ पा रहा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.089Z"
+  }
+}

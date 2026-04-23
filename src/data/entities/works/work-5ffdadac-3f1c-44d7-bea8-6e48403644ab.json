@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5ffdadac-3f1c-44d7-bea8-6e48403644ab",
+  "name": "कर्म फंद जग फंदिया, जप तप पूजा ध्‍यान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is trapped in the snares of karma, rituals, and meditation. They fail to recognize the word that leads to liberation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कर्म फंद जग फंदिया, जप तप पूजा ध्‍यान।\nजाहि शब्‍द ते मुक्ति होय, सो न परा पहिचान।।१००४।।",
+    "translation": "The world is trapped in the snares of karma, rituals, and meditation. They fail to recognize the word that leads to liberation.",
+    "meaning": "यह संसार कर्म, जप, तप, पूजा, ध्यान के जाल में फंसा हुआ है। वे उस शब्द को पहचानने में असफल रहते हैं जो मुक्ति दिलाता है।",
+    "explanation": "इस दोहे में कबीर दास जी कर्म, जप, तप, पूजा और ध्यान के जाल में फंसे हुए लोगों की दशा बताते हैं। वह कहते हैं कि लोग इन सब में उलझे रहते हैं और उस शब्द को पहचानने में असफल रहते हैं जो वास्तव में मुक्ति दिला सकता है। यह दोहा हमें कर्मकांड और बाहरी अनुशासन की बजाय सच्चे ज्ञान की ओर ले जाने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

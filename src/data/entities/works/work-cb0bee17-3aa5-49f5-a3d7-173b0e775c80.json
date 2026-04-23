@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb0bee17-3aa5-49f5-a3d7-173b0e775c80",
+  "name": "शब्‍द सम्‍हारे बोलिये, शब्‍द के हाथ न पांव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak words carefully, as they have neither hands nor feet. One word can heal like medicine, while another can wound like a weapon.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द सम्‍हारे बोलिये, शब्‍द के हाथ न पांव।\nएक शब्‍द औषधि करे, एक शब्‍द करे घाव।।१०२४।।",
+    "translation": "Speak words carefully, as they have neither hands nor feet. One word can heal like medicine, while another can wound like a weapon.",
+    "meaning": "शब्दों को सोच-समझकर बोलो, क्योंकि उनके हाथ-पांव नहीं होते। एक शब्द औषधि का काम कर सकता है, जबकि दूसरा घाव कर सकता है।",
+    "explanation": "इस दोहे में कबीर शब्दों की शक्ति और प्रभाव का वर्णन करते हैं। वे कहते हैं कि शब्दों का कोई शारीरिक आकार नहीं होता, लेकिन उनका प्रभाव इतना गहरा होता है कि एक शब्द किसी को ठीक कर सकता है और दूसरा घाव कर सकता है। इसलिए, शब्दों को सोच-समझकर बोलना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.162Z"
+  }
+}

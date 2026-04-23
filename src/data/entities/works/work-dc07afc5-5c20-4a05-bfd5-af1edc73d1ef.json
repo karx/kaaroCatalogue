@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc07afc5-5c20-4a05-bfd5-af1edc73d1ef",
+  "name": "कहते को कहि जान दे, गुरु की सिख तूं लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak what you have to say, then follow the Guru's teachings. Do not engage again with the ignorant or dogs.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहते को कहि जान दे, गुरु की सिख तूं लेय।\nसाकट जान और स्‍वान को, फेरि जवाब न देय।।९७०।।",
+    "translation": "Speak what you have to say, then follow the Guru's teachings. Do not engage again with the ignorant or dogs.",
+    "meaning": "जो कहना है वह कहो, फिर गुरु की शिक्षा ग्रहण करो। अज्ञानी और कुत्तों के साथ फिर से बातचीत मत करो।",
+    "explanation": "इस दोहे में कबीर दास जी ज्ञान और विवेक की बात कर रहे हैं। वह कहते हैं कि हमें सही समय पर सही बात कहनी चाहिए और फिर गुरु की शिक्षा का पालन करना चाहिए। अज्ञानी लोगों या तुच्छ विचारधारा वाले लोगों के साथ बहस करने का कोई लाभ नहीं है। यह हमें जीवन में सही मार्गदर्शन और संतुलन रखने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.893Z"
+  }
+}

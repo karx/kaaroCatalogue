@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9db7788c-9adb-4b82-a5d5-a04c70996483",
+  "name": "कई बार नहिं कर सके, दोय बख्‍त करि लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who cannot bathe often, should bathe twice a day. Kabir says, the sight of a saint does not deceive.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कई बार नहिं कर सके, दोय बख्‍त करि लेय।\nकबीर साधु दरश ते, काल दगा नहिं देय।।५६३।।",
+    "translation": "One who cannot bathe often, should bathe twice a day. Kabir says, the sight of a saint does not deceive.",
+    "meaning": "जो कई बार स्नान नहीं कर सकता, वह दिन में दो बार स्नान कर ले। कबीर कहते हैं, साधु का दर्शन कभी धोखा नहीं देता।",
+    "explanation": "कबीर जी ने कहा है कि जो व्यक्ति अक्सर स्नान नहीं कर सकता, उसे दिन में दो बार स्नान करना चाहिए। साधु का दर्शन कभी धोखा नहीं देता; इससे व्यक्ति को सही मार्गदर्शन मिलता है और जीवन में सच्चाई और स्थिरता बनी रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

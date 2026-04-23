@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2ff1d272-08d6-4f69-8fc5-87951de1b4e4",
+  "name": "एक वस्‍तु के नाम बहु, लीजै वस्‍तु पहिचान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Many names exist for one thing; recognize the essence rather than focusing on names. Understand the true nature of things.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक वस्‍तु के नाम बहु, लीजै वस्‍तु पहिचान।\nनाम पक्ष नहिं कीजिये, सार तत्त्‍व ले जान।।२२०७।।",
+    "translation": "Many names exist for one thing; recognize the essence rather than focusing on names. Understand the true nature of things.",
+    "meaning": "एक वस्तु के लिए कई नाम होते हैं; नामों पर ध्यान न दें, सार तत्व को समझें। वस्तुओं की सच्ची प्रकृति को जानें।",
+    "explanation": "इस दोहे में संत कबीर जी यह सिखाते हैं कि वस्तुओं और घटनाओं के विभिन्न नाम होते हैं, लेकिन महत्वपूर्ण बात उनकी वास्तविकता और सार तत्व को समझना है। नामों के पीछे छिपे सार और तत्त्व को जानना ज्यादा महत्वपूर्ण है। यह दोहा नामों की भिन्नता की तुलना में वस्तु की सच्चाई पर ध्यान देने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.078Z"
+  }
+}

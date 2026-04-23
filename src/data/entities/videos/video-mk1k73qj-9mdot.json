@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-9mdot",
+  "name": "Petition to ban Valentine’s Day. #valentinesday #single #funny",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT29S",
+  "embedUrl": "https://www.youtube.com/embed/q6h611SWKYc",
+  "contentUrl": "https://www.youtube.com/watch?v=q6h611SWKYc",
+  "uploadDate": "2025-02-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/q6h611SWKYc/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

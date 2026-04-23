@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ba43c5a3-0eb7-4f07-ab4e-4d68af1eab3f",
+  "name": "वाद करै सो जानिये, निगरे का वह काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who engages in arguments is a miser. The saints have no time for disputes; they are busy remembering Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "वाद करै सो जानिये, निगरे का वह काम।\nसंतो को फुरसत नहीं, सुमिरन करते राम।।७७७।।",
+    "translation": "One who engages in arguments is a miser. The saints have no time for disputes; they are busy remembering Ram.",
+    "meaning": "जो तर्क करता है, वह कंजूस है। संतों के पास विवादों का समय नहीं है; वे राम का स्मरण करते हैं।",
+    "explanation": "इस दोहे में कबीर ने उन लोगों की आलोचना की है जो तर्क और विवाद में लगे रहते हैं। वे बताते हैं कि सच्चे संतों के पास तर्क करने का समय नहीं होता, क्योंकि वे राम के स्मरण में व्यस्त रहते हैं। संतों की वास्तविक भक्ति और समर्पण उनके समय और ऊर्जा का सही उपयोग है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

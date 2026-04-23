@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-427ac125-85e3-461d-944e-a313941b42e8",
+  "name": "पारब्रह्म के तेज का, कैसा है उनमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What can be said about the radiance of the Supreme Being? It is beyond description; it is seen but cannot be expressed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पारब्रह्म के तेज का, कैसा है उनमान।\nकहिबे कूं सोभा नहीं, देख्‍याहीं परबान।।१७८३।।",
+    "translation": "What can be said about the radiance of the Supreme Being? It is beyond description; it is seen but cannot be expressed.",
+    "meaning": "परब्रह्म की तेजस्विता के बारे में क्या कहा जा सकता है? यह वर्णन से परे है; इसे देखा जा सकता है लेकिन व्यक्त नहीं किया जा सकता।",
+    "explanation": "इस दोहे में कबीर ने परब्रह्म की तेजस्विता की असीमता को व्यक्त किया है। उन्होंने बताया है कि इस दिव्य प्रकाश का वर्णन करना असंभव है; यह देखा जा सकता है लेकिन शब्दों में नहीं व्यक्त किया जा सकता। यह दोहा दिव्य की अनंतता और उसकी अवर्णनीयता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.352Z"
+  }
+}

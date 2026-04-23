@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-781ea54d-d6c2-4f88-92aa-9d78d090969d",
+  "name": "गुरवा तो सस्‍ता भया, पैसा केर पचास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Guru has become cheap, valuing himself at just fifty rupees. Selling the wealth of God's name, he hopes to make disciples.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरवा तो सस्‍ता भया, पैसा केर पचास।\nराम नाम धन बेचि के, शिष्‍य करन की आस।।५१४।।",
+    "translation": "The Guru has become cheap, valuing himself at just fifty rupees. Selling the wealth of God's name, he hopes to make disciples.",
+    "meaning": "गुरु तो सस्ता हो गया है, खुद की कीमत केवल पचास रुपये में मानता है। राम नाम के धन को बेचकर वह शिष्यों को बनाने की उम्मीद करता है।",
+    "explanation": "इस दोहे में संत कबीर जी उन नकली गुरुओं की आलोचना कर रहे हैं जो धन और शिष्य बनाने की लालसा में सच्चे ज्ञान और भक्ति का व्यापार करते हैं। ऐसे गुरु अपनी सच्ची कीमत नहीं समझते और राम के नाम को भी पैसों में तौलते हैं। यह दोहा उन लोगों को चेतावनी देता है जो सच्चे गुरु की पहचान किए बिना ही उनके पीछे चल पड़ते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

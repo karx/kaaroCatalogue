@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088vhm-beex2",
+  "name": "Cricket with Zakir Khan 🏏",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-tanmay-bhat"
+  },
+  "duration": "PT1M25S",
+  "embedUrl": "https://www.youtube.com/embed/fk4-TueSMjc",
+  "contentUrl": "https://www.youtube.com/watch?v=fk4-TueSMjc",
+  "uploadDate": "2025-08-31",
+  "thumbnailUrl": "https://i.ytimg.com/vi/fk4-TueSMjc/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Tanmay Bhat",
+  "aggregatorChannel": null
+}

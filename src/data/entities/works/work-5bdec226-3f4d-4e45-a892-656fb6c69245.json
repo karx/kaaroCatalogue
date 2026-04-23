@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5bdec226-3f4d-4e45-a892-656fb6c69245",
+  "name": "तरुवर जड़ से काटिया, जबै सम्हारो जहाज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If a tree is cut at its root, the ship cannot be controlled. There is no shame in clinging to the mast of the ship.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तरुवर जड़ से काटिया, जबै सम्हारो जहाज।\nतारै पर बोरे नहीं, बाँह गहे की लाज।।३९६।।",
+    "translation": "If a tree is cut at its root, the ship cannot be controlled. There is no shame in clinging to the mast of the ship.",
+    "meaning": "यदि एक पेड़ को उसकी जड़ से काट दिया जाए, तो जहाज को नियंत्रित नहीं किया जा सकता। जहाज के मस्तूल को पकड़ने में कोई लाज नहीं है।",
+    "explanation": "इस दोहे में कबीर दास जी ने सच्चाई और प्रयास की आवश्यकता को व्यक्त किया है। वे बताते हैं कि अगर एक पेड़ को उसकी जड़ से काट दिया जाए, तो जहाज को नियंत्रित नहीं किया जा सकता। इसका तात्पर्य है कि किसी चीज की जड़ को समाप्त किए बिना, केवल सतही प्रयास पर्याप्त नहीं होते। जहाज के मस्तूल को पकड़ने में कोई लाज नहीं होनी चाहिए, क्योंकि यही एकमात्र तरीका है जहाज को सही दिशा में ले जाने का। यह दोहा हमें यह सिखाता है कि सच्चे प्रयास और सही साधन से ही हम अपने लक्ष्यों को प्राप्त कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

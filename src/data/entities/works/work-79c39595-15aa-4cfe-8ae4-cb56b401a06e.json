@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79c39595-15aa-4cfe-8ae4-cb56b401a06e",
+  "name": "औसर बीता अलपतन, पीस रह्मा परदेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The time for repentance is short, and you are wasting it in ignorance. Remove the stains of sin, for illusion and doubt have taken over.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "औसर बीता अलपतन, पीस रह्मा परदेस।\nकलंक उतारी केसवां, भांनौ भरंम अंदेश।।१८५९।।",
+    "translation": "The time for repentance is short, and you are wasting it in ignorance. Remove the stains of sin, for illusion and doubt have taken over.",
+    "meaning": "पश्चाताप का समय बहुत कम है, और तुम इसे अज्ञान में बर्बाद कर रहे हो। पाप के धब्बों को हटा दो, क्योंकि भ्रम और संदेह ने तुम्हें घेर लिया है।",
+    "explanation": "इस दोहे में कबीरदास जी ने मनुष्य को चेताया है कि समय बहुत कम है और हमें अपने पापों का पश्चाताप करने में देरी नहीं करनी चाहिए। भ्रम और संदेह हमें घेर लेते हैं, जिससे हम सच्चाई से दूर हो जाते हैं। अत: हमें अपने जीवन के पापों को धोकर पवित्रता के मार्ग पर चलना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.968Z"
+  }
+}

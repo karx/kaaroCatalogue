@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ff0ab2c7-a7cd-4dfb-b5ca-d0f1199978f7",
+  "name": "Habba Khatoon Lyrics",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-habba-khatoon"
+  },
+  "inLanguage": "Kashmiri",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Habba_Khatoon_Lyrics",
+    "retrievedAt": "2026-01-04T18:39:21.321Z"
+  }
+}

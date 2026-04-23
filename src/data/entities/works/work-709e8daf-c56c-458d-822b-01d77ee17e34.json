@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-709e8daf-c56c-458d-822b-01d77ee17e34",
+  "name": "बासुरि सुख नां रैणि सुख, ना सुख सुपिनै मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The flute does not bring happiness, nor does the night. Neither does sleep provide joy. Kabir says, those separated from Ram, neither find pleasure in sunlight nor shade.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बासुरि सुख नां रैणि सुख, ना सुख सुपिनै मांहि।\nकबीर बिछुट्या राम सूं , नां सुख धूप न छांह।।१७३९।।",
+    "translation": "The flute does not bring happiness, nor does the night. Neither does sleep provide joy. Kabir says, those separated from Ram, neither find pleasure in sunlight nor shade.",
+    "meaning": "बांसुरी सुख नहीं देती, न रात सुख देती है। नींद भी खुशी नहीं देती। कबीर कहते हैं, जो राम से बिछड़े हैं, उन्हें न तो धूप में और न ही छांव में सुख मिलता है।",
+    "explanation": "कबीर इस दोहे में बिछड़ने के दर्द को दर्शाते हैं। उन्होंने कहा कि जो राम से बिछड़े हैं, उन्हें किसी भी सुखद स्थिति में खुशी नहीं मिलती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.076Z"
+  }
+}

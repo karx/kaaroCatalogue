@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-78e4a237-d8c8-4346-a00e-5cd8d08cdaf0",
+  "name": "बाज़ीगर का बांदरा, ऐसा जीव मन साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is like a juggler's monkey, it performs various tricks but always remains with its master.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बाज़ीगर का बांदरा, ऐसा जीव मन साथ।\nनाना नाच दिखाय के, राखे अपने साथ।।२४।।",
+    "translation": "The mind is like a juggler's monkey, it performs various tricks but always remains with its master.",
+    "meaning": "मन बाजीगर के बंदर की तरह है, यह कई नाच दिखाता है लेकिन हमेशा अपने मालिक के साथ ही रहता है।",
+    "explanation": "इस दोहे में संत कबीर मन की अस्थिरता और चालाकी को बाजीगर के बंदर से तुलना करते हैं। वे कहते हैं कि मन विभिन्न प्रकार के नाच दिखाता है लेकिन अंततः अपने स्वामी के साथ रहता है। इसका तात्पर्य यह है कि मनुष्य के मन को समझना और उसे नियंत्रित करना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

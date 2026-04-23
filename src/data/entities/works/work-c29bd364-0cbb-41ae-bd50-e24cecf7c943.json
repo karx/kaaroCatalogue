@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c29bd364-0cbb-41ae-bd50-e24cecf7c943",
+  "name": "डारी खांड पटकि करि, अंतरि रोस उपाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In anger, one breaks the sugar and cloth; in the heart, anger finds its way. By weeping and weeping, one meets the beloved father.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "डारी खांड पटकि करि, अंतरि रोस उपाइ।\nरोवत रोवत मिलि गया, पिता पियारे जाइ।।१७६७।।",
+    "translation": "In anger, one breaks the sugar and cloth; in the heart, anger finds its way. By weeping and weeping, one meets the beloved father.",
+    "meaning": "गुस्से में, व्यक्ति चीनी और कपड़े को तोड़ता है; दिल में गुस्सा अपना रास्ता खोज लेता है। रोते-रोते, व्यक्ति अपने प्रिय पिता से मिल जाता है।",
+    "explanation": "इस दोहे में कबीर ने गुस्से और दुख के साथ संघर्ष को व्यक्त ��िया है। गुस्से में चीनी और कपड़े को तोड़ना और दिल में गुस्से का होना व्यक्ति की भावनात्मक स्थिति को दर्शाता है। अंततः, गुस्से और दुख से भरे व्यक्ति को अपने प्रिय पिता से मिलन का सुख प्राप्त होता है। यह दोहा यह दिखाता है कि गहरे भावनात्मक संघर्ष के बावजूद, सच्चे प्रेम और पुनर्मिलन की संभावना हमेशा बनी रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.348Z"
+  }
+}

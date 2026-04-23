@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e6bc3dc-ad56-497d-b1cb-2334e8067123",
+  "name": "साधु ऐसा चाहिए, जहाँ रहै तहँ गैब",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint should be one whose presence is hidden, and whose speech covers countless faults.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु ऐसा चाहिए, जहाँ रहै तहँ गैब।\nबानी के बिस्तार में, ताकूँ कोटिक ऐब।।३५७।।",
+    "translation": "A saint should be one whose presence is hidden, and whose speech covers countless faults.",
+    "meaning": "संत ऐसा होना चाहिए, जिसकी उपस्थिति अदृश्य हो और जिसकी वाणी में करोड़ों दोषों का विस्तार हो।।",
+    "explanation": "इस दोहे में कबीरदास ने एक सच्चे संत की पहचान की बात की है। एक संत ऐसा होना चाहिए जिसकी उपस्थिति छुपी हुई हो और जिसकी वाणी इतनी प्रभावशाली हो कि वह किसी भी दोष को ढक सके। संत की वास्तविक पहचान उसकी बाहरी उपस्थिति से नहीं, बल्कि उसकी गहरी और प्रभावशाली वाणी से होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

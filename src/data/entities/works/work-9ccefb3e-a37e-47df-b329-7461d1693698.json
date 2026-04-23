@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9ccefb3e-a37e-47df-b329-7461d1693698",
+  "name": "कबीर गुरु कै भावते, दूरहि ते दीसन्‍त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the Guru’s essence is visible even from afar. The body is worn out, the mind is restless, while the world remains ignorant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर गुरु कै भावते, दूरहि ते दीसन्‍त।\nतन छीना मन अनमना, जग के खठि फिरन्‍त।।६९०।।",
+    "translation": "Kabir says, the Guru’s essence is visible even from afar. The body is worn out, the mind is restless, while the world remains ignorant.",
+    "meaning": "कबीर कहते हैं, गुरु की आत्मा दूर से भी दिखाई देती है। शरीर थक जाता है, मन अशांत रहता है, जबकि दुनिया अज्ञानी रहती है।",
+    "explanation": "इस दोहे में कबीर गुरु की महानता और भक्त की स्थिति की बात करते हैं। वह बताते हैं कि गुरु की वास्तविकता दूर से भी देखी जा सकती है, जबकि भक्त का शरीर थक जाता है और मन अशांत रहता है। दुनियावी लोग इस सत्य को समझने में असमर्थ रहते हैं। यह दोहा गुरु की महानता और भक्त के आध्यात्मिक संघर्ष को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

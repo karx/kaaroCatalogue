@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4dddc51f-ba82-47c5-9090-514180adfc40",
+  "name": "हैवर गैवर सघन धन, छत्रपती की नारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wealth, horses, elephants, and a queen of a king cannot compare to a servant of Hari.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हैवर गैवर सघन धन, छत्रपती की नारि।\nतास पटेतर ना तुलै, हरिजन की पनिहारि।।२२७।।",
+    "translation": "Wealth, horses, elephants, and a queen of a king cannot compare to a servant of Hari.",
+    "meaning": "धन, घोड़े, हाथी और राजा की रानी हरिजन की पनिहारिन (जल भरने वाली स्त्री) से तुलना नहीं कर सकते।",
+    "explanation": "कबीर इस दोहे में भक्ति की महिमा बताते हैं। वे कहते हैं कि सांसारिक धन-दौलत, ऐश्वर्य और यहां तक कि राजा की रानी भी उस हरिजन की पनिहारिन के बराबर नहीं हो सकते, जो भगवान की सेवा में रत रहती है। सच्ची भक्ति सांसारिक वैभव से कहीं अधिक मूल्यवान है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

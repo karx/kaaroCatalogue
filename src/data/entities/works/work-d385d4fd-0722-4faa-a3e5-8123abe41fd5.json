@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d385d4fd-0722-4faa-a3e5-8123abe41fd5",
+  "name": "तीन ताप में ताप हैं, ताका अनंत उपाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There are three types of heat, and countless remedies for them. But the heat of the self can only be resolved by a true saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीन ताप में ताप हैं, ताका अनंत उपाय।\nताप आतम महाबली, संत बिना नहिं जाय।९५४।।",
+    "translation": "There are three types of heat, and countless remedies for them. But the heat of the self can only be resolved by a true saint.",
+    "meaning": "तीन प्रकार की तपन होती है, और उनके लिए अनगिनत उपाय होते हैं। लेकिन आत्मा की तपन का समाधान केवल एक सच्चे संत के पास ही होता है।",
+    "explanation": "इस दोहे में कबीर यह कहते हैं कि जीवन में विभिन्न प्रकार की कठिनाइयाँ और तपन होती हैं, जिनके लिए बहुत से उपाय हैं। लेकिन आत्मा की तपन, यानी आंतरिक समस्याएं और कष्ट, केवल एक सच्चे संत के मार्गदर्शन से ही हल हो सकते हैं। कबीर यह बताना चाहते हैं कि आध्यात्मिक शांति और समाधान की खोज में संत का साथ अत्यंत महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.891Z"
+  }
+}

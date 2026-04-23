@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-68b1ac8c-b259-401a-a0d5-fcae8fd31f0f",
+  "name": "साधु सती औ शूरमां, इन पटतर कोई नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints, virtuous ones, and warriors are incomparable. They walk the path of the unknown, and if they falter, where would they go?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सती औ शूरमां, इन पटतर कोई नाहिं।\nअगम पंथ को पग धरै, डिगै तो कहां समाहि।।२०९२।।",
+    "translation": "Saints, virtuous ones, and warriors are incomparable. They walk the path of the unknown, and if they falter, where would they go?",
+    "meaning": "साधु, सती और वीर की तुलना किसी से नहीं की जा सकती। ये लोग अगम (अज्ञात) पथ पर चलते हैं, और यदि ये असफल हो जाएं, तो इनका मार्ग कहां समाप्त होगा?",
+    "explanation": "इस दोहे में कबीर उन लोगों की विशेषताओं का वर्णन करते हैं जो साधु, सती और वीर होते हैं। वे इस बात को स्पष्ट करते हैं कि ये लोग एक अद्वितीय मार्ग पर चलते हैं जो सामान्य लोगों के लिए अज्ञात होता है। यदि ये लोग भी इस मार्ग पर असफल होते हैं, तो यह समझना कठिन होता है कि उनका अंतिम गंतव्य क्या होगा। यह दोहा उनकी अद्वितीयता और साहस को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.098Z"
+  }
+}

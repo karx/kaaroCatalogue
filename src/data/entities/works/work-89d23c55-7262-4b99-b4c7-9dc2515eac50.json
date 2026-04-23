@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-89d23c55-7262-4b99-b4c7-9dc2515eac50",
+  "name": "कबीर मनहि गयंद है, आंकुस दे दे राखु",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says the mind is wild; keep it under control with discipline. Abandon the poisonous creeper and taste the fruit of immortality.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मनहि गयंद है, आंकुस दे दे राखु।\nविष की बेली परिहरो, अमृत का फल चाखु।।१११७।।",
+    "translation": "Kabir says the mind is wild; keep it under control with discipline. Abandon the poisonous creeper and taste the fruit of immortality.",
+    "meaning": "कबीर कहते हैं कि मन जंगली होता है; इसे अनुशासन से नियंत्रित करें। विषैले बेलों को छोड़ दें और अमरता के फल का स्वाद लें।",
+    "explanation": "इस दोहे में कबीर ने मन के नियंत्रण की आवश्यकता को बताया है। उन्होंने कहा है कि मन स्वाभाविक रूप से अनियंत्रित होता है और इसे अनुशासन से नियंत्रित करना चाहिए। विष की बेल का मतलब है बुरे विचार और आदतें, जिन्हें त्यागकर अमरता प्राप्त करने की दिशा में कदम बढ़ाना चाहिए। यह शुद्धता और आत्म-नियंत्रण की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

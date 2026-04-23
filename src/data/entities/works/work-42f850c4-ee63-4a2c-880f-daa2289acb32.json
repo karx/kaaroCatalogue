@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-42f850c4-ee63-4a2c-880f-daa2289acb32",
+  "name": "ऐसे सांच न मानई, तिलकी देखो जोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who does not believe in such truth, see the sesame seed as an example. The coal that burns repeatedly shows the truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसे सांच न मानई, तिलकी देखो जोय।\nजारि बारि कोयला करै, जमता देखा सोय।।१०७५।।",
+    "translation": "One who does not believe in such truth, see the sesame seed as an example. The coal that burns repeatedly shows the truth.",
+    "meaning": "जो ऐसे सत्य को नहीं मानता, वह तिल के उदाहरण को देखे। बार-बार जलता कोयला सत्य को दर्शाता है।",
+    "explanation": "इस दोहे में कबीर सत्य की वास्तविकता को दिखाने के लिए तिल और कोयला के उदाहरण का उपयोग करते हैं। जो व्यक्ति सत्य को नहीं मानता, उसे तिल और बार-बार जलने वाले कोयले के उदाहरण से समझाया जाता है। यह सत्य की स्थिरता और उसकी असंख्य अवस्थाओं को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.427Z"
+  }
+}

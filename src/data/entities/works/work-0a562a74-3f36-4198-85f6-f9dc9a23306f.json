@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a562a74-3f36-4198-85f6-f9dc9a23306f",
+  "name": "जबहूं मारयया खैंचि करि, तब मैं पाई जांण",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the mind is drawn to the divine, only then do I gain knowledge. The pain inflicted is deep, tearing apart the heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जबहूं मारयया खैंचि करि, तब मैं पाई जांण।\nलागी चोट मरम्‍म की, गई कलेजा छांणि।।१७५१।।",
+    "translation": "When the mind is drawn to the divine, only then do I gain knowledge. The pain inflicted is deep, tearing apart the heart.",
+    "meaning": "जब मन दिव्य की ओर खिंचता है, तभी मैं ज्ञान प्राप्त करता हूँ। जो पीड़ा लगती है, वह गहरी होती है और दिल को चीर देती है।",
+    "explanation": "कबीर इस दोहे में दिव्य की ओर मन के खिंचाव और उसकी पीड़ा की बात करते हैं। उन्होंने कहा कि दिव्य की ओर ध्यान लगाने पर ही सच्चा ज्ञान प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.343Z"
+  }
+}

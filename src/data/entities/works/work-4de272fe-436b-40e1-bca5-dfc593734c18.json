@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4de272fe-436b-40e1-bca5-dfc593734c18",
+  "name": "कबीर माया मोहिनी, जैसी मीठी खांड",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is an enchantress, as sweet as sugar. With the grace of the true guru, it becomes like a broken vessel.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया मोहिनी, जैसी मीठी खांड।\nसद्गुरु की किरपा भई, नातर करती भांड।।११९६।।",
+    "translation": "Kabir says, illusion is an enchantress, as sweet as sugar. With the grace of the true guru, it becomes like a broken vessel.",
+    "meaning": "कबीर कहते हैं, माया मोहिनी है, जो चीनी के समान मीठी होती है। सच्चे गुरु की कृपा से, यह एक टूटे हुए बर्तन की तरह हो जाती है।",
+    "explanation": "इस दोहे में कबीर ने माया के मोहक और मीठे स्वभाव को दर्शाया है, जैसे कि चीनी। लेकिन जब सच्चे गुरु की कृपा प्राप्त होती है, तो माया का प्रभाव समाप्त हो जाता है और यह एक टूटे हुए बर्तन की तरह हो जाती है, जो अब कोई उपयोगी कार्य नहीं करती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.975Z"
+  }
+}

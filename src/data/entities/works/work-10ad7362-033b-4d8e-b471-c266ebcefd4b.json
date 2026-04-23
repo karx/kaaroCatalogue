@@ -1,0 +1,25 @@
+{
+  "@type": "Book",
+  "workId": "work-10ad7362-033b-4d8e-b471-c266ebcefd4b",
+  "name": "Tirukkural",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-thiruvalluvar"
+  },
+  "inLanguage": "Tamil",
+  "dateCreated": "Sangam Era",
+  "genre": "Didactic Poetry",
+  "abstract": "1330 couplets on virtue (Aram), wealth (Porul), and love (Inbam). Celebrated for secular, universal ethics.",
+  "keywords": [
+    "Ethics",
+    "Virtue",
+    "Wealth",
+    "Love",
+    "Couplets"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

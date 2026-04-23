@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aaa75110-ad8e-4d5a-b65d-01f592d08c06",
+  "name": "जंगल ढेरी राख की, उपरि उपरि हरियाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A heap of ashes in the forest, green on top, Even this, when seen by humans, leads to merrymaking and pleasures.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जंगल ढेरी राख की, उपरि उपरि हरियाय।\nते भी होती मानवी, करते रंग रलियाय।।८८५।।",
+    "translation": "A heap of ashes in the forest, green on top, Even this, when seen by humans, leads to merrymaking and pleasures.",
+    "meaning": "जंगल में राख का ढेर, ऊपर से हरा, जब इसे इंसान देखते हैं, तो इसमें भी वे आनंद और सुख ढूंढ लेते हैं।",
+    "explanation": "इस दोहे में कबीर इस दुनिया के भौतिक सुखों की अस्थिरता और इसके प्रति हमारी आसक्ति की ओर ध्यान दिलाते हैं। वे बताते हैं कि हम नाशवान चीजों में भी आनंद ढूंढने की कोशिश करते हैं, जबकि वे वास्तव में राख के ढेर के समान हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.353Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e5b3dd46-edc0-44c0-b209-5f06eb78f525",
+  "name": "मनुवा तो फूला फिरै, कहे जो करुं धरम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind wanders in delusion, saying it will follow righteousness. Countless deeds are piled on the head, but it does not recognize the essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मनुवा तो फूला फिरै, कहे जो करुं धरम।।\nकोटि करम सिर पर चढ़े, चेति न देखै मरम।।११४४।।",
+    "translation": "The mind wanders in delusion, saying it will follow righteousness. Countless deeds are piled on the head, but it does not recognize the essence.",
+    "meaning": "मन भ्रांति में घूमता रहता है और कहता है कि धर्म का पालन करेगा। सिर पर अनगिनत कर्म चढ़े हैं, लेकिन वह सार को नहीं पहचानता।",
+    "explanation": "इस दोहे में कबीर ने मन की भ्रांति और धर्म के पालन की बात की है। उन्होंने बताया है कि मन अनगिनत कर्मों के भार के बावजूद भी धर्म का सार नहीं समझ पाता और भ्रमित रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

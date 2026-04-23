@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-81e4bb73-197c-40c7-920b-f1ec7c00e6e1",
+  "name": "मुख की मीठी जो कहै, हृदये है मति आन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who speaks sweetly with the mouth, yet has evil intentions in the heart. Kabir says that such people are deceivers, pretending to be wise.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मुख की मीठी जो कहै, हृदये है मति आन।\nकहहिं कबीर तेहि लोकनि से, ऐसो राम सयान।।१६४२।।",
+    "translation": "One who speaks sweetly with the mouth, yet has evil intentions in the heart. Kabir says that such people are deceivers, pretending to be wise.",
+    "meaning": "जो मुँह से मीठा बोलता है, लेकिन दिल में बुरे इरादे रखता है। कबीर कहते हैं कि ऐसे लोग धोखेबाज होते हैं, जो बुद्धिमान बनने का नाटक करते हैं।",
+    "explanation": "कबीर इस दोहे में दिखाते हैं कि जो लोग केवल मीठी बातें करते हैं लेकिन दिल में बुराई रखते हैं, वे धोखेबाज होते हैं। ऐसे लोग खुद को बुद्धिमान दिखाने की कोशिश करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.510Z"
+  }
+}

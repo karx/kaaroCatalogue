@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0b880be-9f41-4dca-a585-998e5e440400",
+  "name": "कबीर हरि रस बरषिया, गिर डूंगर सिषरांह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the essence of Hari rains on the hills. The waters are abundant, and the boat drifts away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरि रस बरषिया, गिर डूंगर सिषरांह।\nनीर मिबाणां ठाहरै, नाऊं छापरड़ाह।।१७२३।।",
+    "translation": "Kabir says, the essence of Hari rains on the hills. The waters are abundant, and the boat drifts away.",
+    "meaning": "कबीर कहते हैं, हरि का रस पहाड़ियों पर बरसता है। पानी भरपूर होता है, और नाव बह जाती है।",
+    "explanation": "कबीर इस दोहे में दिव्य तत्व और दृष्टिकोण की बात करते हैं। उन्होंने कहा कि दिव्य सत्य हर जगह प्रकट होता है, लेकिन हमारी वस्तुओं की दिशा बदल सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.072Z"
+  }
+}

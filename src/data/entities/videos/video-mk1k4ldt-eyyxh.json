@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-eyyxh",
+  "name": "Women & Fake Crying! #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT2M26S",
+  "embedUrl": "https://www.youtube.com/embed/dsZkaP7GOa8",
+  "contentUrl": "https://www.youtube.com/watch?v=dsZkaP7GOa8",
+  "uploadDate": "2025-08-06",
+  "thumbnailUrl": "https://i.ytimg.com/vi/dsZkaP7GOa8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6a3105e8-ae4d-44e5-88e3-fabd1c70f696",
+  "name": "Banalata Sen",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-jibanananda-das"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Banalata_Sen",
+    "retrievedAt": "2026-01-04T18:39:23.763Z"
+  }
+}

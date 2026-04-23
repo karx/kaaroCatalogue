@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8b7642ce-1b0d-4e55-82dd-5249dd7294b3",
+  "name": "हाथ कटोरा खोवा भरा, मग जोवत दिन जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "With a bowl and a pot full of offerings, the day passes by. Kabir says, even with a full mind, buttermilk does not come.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हाथ कटोरा खोवा भरा, मग जोवत दिन जाय।\nकबिरा उता चित्त सों, छांछ दियो नहिं जाय।।१७१५।।",
+    "translation": "With a bowl and a pot full of offerings, the day passes by. Kabir says, even with a full mind, buttermilk does not come.",
+    "meaning": "हाथ में कटोरा और भरा हुआ बर्तन लेकर, दिन गुजर जाता है। कबीर कहते हैं, पूर्ण चित्त के बावजूद, छाछ नहीं आती।",
+    "explanation": "कबीर इस दोहे में भौतिक आवश्यकताओं और आंतरिक संतोष की बात करते हैं। उन्होंने कहा कि बाहरी भरे हुए बर्तन और आंतरिक संतोष की स्थिति अलग होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.070Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6e8bfaee-2b0b-4bcb-9b42-6c61489a6b48",
+  "name": "नैन हमारे जलि गये, छिन छिन लोड़ैं तुझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "My eyes are burning, every moment longing for you. I find no joy in meeting you, such is my pain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नैन हमारे जलि गये, छिन छिन लोड़ैं तुझ।\nनां तूं मिलै न मैं खुसी, ऐसी वेदन मुझ।।१७७७।।",
+    "translation": "My eyes are burning, every moment longing for you. I find no joy in meeting you, such is my pain.",
+    "meaning": "मेरी आँखें जल रही हैं, हर पल तुम्हारी प्रतीक्षा करती हैं। तुम्हें मिलने में कोई खुशी नहीं मिलती, मेरी पीड़ा ऐसी है।",
+    "explanation": "इस दोहे में कबीर ने अपनी तड़प और दर्द को प्रकट किया है। उनकी आँखें जल रही हैं और वे हर पल अपनी प्रतीक्षा में हैं, लेकिन उन्हें मिलने पर कोई सच्ची खुशी नहीं मिलती। कबीर का यह दोहा उनके प्रेम की गहराई और उसके कारण होने वाली पीड़ा को व्यक्त करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.351Z"
+  }
+}

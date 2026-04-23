@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-59806595-2aa2-476d-baa6-c60106357cc7",
+  "name": "कस्‍तूरी कुंडलि बसै, मृग ढूढै बन मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The musk deer has musk in its navel but searches for it in the forest. Similarly, Ram resides within every being, yet the world fails to recognize this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कस्‍तूरी कुंडलि बसै, मृग ढूढै बन मांहि।\nऐसै घटि घटि राम हैं, दुनियां देखै नांहि।।१९३३।।",
+    "translation": "The musk deer has musk in its navel but searches for it in the forest. Similarly, Ram resides within every being, yet the world fails to recognize this.",
+    "meaning": "मस्क मृग की नाभि में मस्क होता है, लेकिन वह इसे जंगल में खोजता है। इसी तरह, राम हर प्राणी में निवास करते हैं, फिर भी दुनिया इसे पहचान नहीं पाती।",
+    "explanation": "इस दोहे में कबीरदास जी ने भीतर की सच्चाई और बाहरी खोज के बीच के अंतर को उजागर किया है। मस्क मृग का उदाहरण देते हुए वे बताते हैं कि जैसे मृग अपने भीतर की सच्चाई को खोजने के बजाय बाहरी स्थानों पर खोजता है, वैसे ही लोग भगवान को अपने भीतर देखना छोड़कर बाहरी खोज में लगे रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.253Z"
+  }
+}

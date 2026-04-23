@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8433c52c-b2cf-4d6d-82c2-80fe6ecd1fee",
+  "name": "संत पुरुष की आरसी, संतन की ही देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mirror of a saint is the body of saints. If you wish to see the Divine, recognize it within those saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संत पुरुष की आरसी, संतन की ही देह।\nलखे जो चाहे अलख को, तिनहीं में लख लेह।।८२।।",
+    "translation": "The mirror of a saint is the body of saints. If you wish to see the Divine, recognize it within those saints.",
+    "meaning": "संतों का आईना, संतों का शरीर होता है। यदि तुम दिव्यता देखना चाहते हो, तो उसे संतों में पहचानो।",
+    "explanation": "इस दोहे में कबीर संतों के माध्यम से दिव्यता को पहचानने की बात करते हैं। संतों का जीवन और उनका शरीर ही सच्चे दिव्यता का प्रतिबिंब होता है। यदि कोई व्यक्ति दिव्यता और सच्चाई को पहचानना चाहता है, तो उसे संतों के आचरण और उनके व्यक्तित्व में देखने की आवश्यकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

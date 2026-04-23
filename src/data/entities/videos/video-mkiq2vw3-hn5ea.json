@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-hn5ea",
+  "name": "Atul Khatri on Demonetisation",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT6M3S",
+  "embedUrl": "https://www.youtube.com/embed/udQ4IgfFzvo",
+  "contentUrl": "https://www.youtube.com/watch?v=udQ4IgfFzvo",
+  "uploadDate": "2017-11-09",
+  "thumbnailUrl": "https://i.ytimg.com/vi/udQ4IgfFzvo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Atul Khatri talks about Demonetisation on its 1st Anniversary \n\nFollow him on:\nTwitter: @one_by_two\nInstagram:@one_by_two\nFacebook.com/hornysindhi\nSnapchat: @hornysindhi",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

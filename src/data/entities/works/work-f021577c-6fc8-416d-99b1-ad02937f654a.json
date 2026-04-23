@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f021577c-6fc8-416d-99b1-ad02937f654a",
+  "name": "हंस बकु देख एक, रंग चरे हरियरे ताल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan looks at the crane, the color of the green lake. Know the swan to be pure, while the crane will eventually meet its end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंस बकु देख एक, रंग चरे हरियरे ताल।\nहंस क्षीर जानिये, बकु धरेंगे काल।।१७०६।।",
+    "translation": "The swan looks at the crane, the color of the green lake. Know the swan to be pure, while the crane will eventually meet its end.",
+    "meaning": "हंस बकरे को देखता है, हरे रंग की तालाब की ओर। हंस को शुद्ध जानो, जबकि बकरे का अंत समय आने पर होगा।",
+    "explanation": "कबीर इस दोहे में बुद्धिमत्ता और दृष्टिकोण की बात करते हैं। उन्होंने कहा कि सच्ची समझ और शुद्धता हमेशा महत्वपूर्ण होती है, जबकि अन्य चीजें अंततः समाप्त हो जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.068Z"
+  }
+}

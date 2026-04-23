@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-060a92a0-0605-46eb-bf61-b62c2842db43",
+  "name": "कबीर भूलि बिगाड़ि‍या, तूं नां करि मैला चित",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, don't ruin your mind with mistakes and keep it pure. Seek the Lord's protection, as people constantly cause harm.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर भूलि बिगाड़ि‍या, तूं नां करि मैला चित।\nसाहिब गरवा लोड़‍िये, नफर बिगाड़ैं नित।।१८५७।।",
+    "translation": "Kabir says, don't ruin your mind with mistakes and keep it pure. Seek the Lord's protection, as people constantly cause harm.",
+    "meaning": "कबीर कहते हैं, अपने मन को गलतियों से बिगाड़ो मत, और इसे शुद्ध रखो। भगवान की शरण में जाओ, क्योंकि लोग हमेशा नुकसान पहुंचाते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी मनुष्य को समझा रहे हैं कि उसे अपने मन को गलतियों से दूषित नहीं करना चाहिए। अपने मन को शुद्ध और निर्मल रखना ही सही मार्ग है। वे कहते हैं कि इस संसार में लोग हमेशा किसी न किसी रूप में हानि पहुंचाते रहते हैं, इसलिए भगवान की शरण में जाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.968Z"
+  }
+}

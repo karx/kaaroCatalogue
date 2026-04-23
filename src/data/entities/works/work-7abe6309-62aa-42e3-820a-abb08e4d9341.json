@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7abe6309-62aa-42e3-820a-abb08e4d9341",
+  "name": "गुरुमुख गुरु आज्ञा चलै, छांड़‍ि दे सब काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A disciple who follows the Guru's command should abandon all other tasks. Kabir says, such a devotee promptly offers respect to the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरुमुख गुरु आज्ञा चलै, छांड़‍ि दे सब काम।\nकहैं कबीर गुरुदेव को, तुरत करै परणाम।।६८४।।",
+    "translation": "A disciple who follows the Guru's command should abandon all other tasks. Kabir says, such a devotee promptly offers respect to the Guru.",
+    "meaning": "गुरु की आज्ञा मानने वाला शिष्य सभी अन्य कामों को छोड़ देना चाहिए। कबीर कहते हैं, ऐसा भक्त तुरंत गुरु को सम्मान देता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो शिष्य गुरु की आज्ञा का पालन करता है, उसे सभी अन्य कार्यों को त्याग देना चाहिए। गुरु की आज्ञा सर्वोपरि होती है, और ऐसा शिष्य गुरु को सम्मान देने में तुरंत तत्पर रहता है। यह दोहा गुरु के प्रति श्रद्धा और समर्पण के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

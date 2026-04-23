@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-83368563-fe00-4f99-9783-73a891e1cd92",
+  "name": "गुरु बिन माला फेरते, गुरु बिन देते दान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without a guru, one only spins the beads and makes offerings. Without a guru, everything is futile; ask the Vedas and Puranas.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु बिन माला फेरते, गुरु बिन देते दान।\nगुरु बिन सब निष्‍फल गया, पूछौ वेद पुरान।।५५४।।",
+    "translation": "Without a guru, one only spins the beads and makes offerings. Without a guru, everything is futile; ask the Vedas and Puranas.",
+    "meaning": "गुरु के बिना केवल माला फेरते हैं और दान करते हैं। गुरु के बिना सब बेकार है, वेदों और पुराणों से पूछिए।",
+    "explanation": "इस दोहे में कबीर जी ने बताया है कि गुरु के बिना सभी धार्मिक क्रियाएँ जैसे माला फेरना और दान करना बेकार हैं। गुरु के बिना वेद और पुराण भी व्यक्ति को सही मार्ग नहीं दिखा सकते। इसलिए गुरु का होना अत्यंत आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

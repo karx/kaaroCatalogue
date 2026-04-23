@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-8tbil",
+  "name": "How I fight with my wife #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT3M",
+  "embedUrl": "https://www.youtube.com/embed/4Npfak4FAB8",
+  "contentUrl": "https://www.youtube.com/watch?v=4Npfak4FAB8",
+  "uploadDate": "2025-07-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/4Npfak4FAB8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

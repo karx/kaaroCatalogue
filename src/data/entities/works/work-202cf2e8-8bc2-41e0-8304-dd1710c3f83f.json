@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-202cf2e8-8bc2-41e0-8304-dd1710c3f83f",
+  "name": "तुरक मसीत देहर हिन्‍दू, आप आप को धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Turk (Muslim) rushes to the mosque, the Hindu to the temple. The unseen Divine is within the heart, yet they cannot find it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तुरक मसीत देहर हिन्‍दू, आप आप को धाय।\nअलख पुरुष घट भीतरे, ताका पार न पाय।।१३६४।।",
+    "translation": "The Turk (Muslim) rushes to the mosque, the Hindu to the temple. The unseen Divine is within the heart, yet they cannot find it.",
+    "meaning": "मुसलमान मस्जिद की ओर दौड़ता है, हिंदू मंदिर की ओर। अलख पुरुष (ईश्वर) दिल के भीतर है, लेकिन वे उसे पा नहीं सकते।",
+    "explanation": "कबीर इस दोहे में धार्म���क विभाजन पर व्यंग्य करते हैं। वे कहते हैं कि मुसलमान मस्जिद और हिंदू मंदिर की ओर भागते हैं, लेकिन वे उस अलख पुरुष (ईश्वर) को नहीं देख पाते जो हर दिल में मौजूद है। कबीर जी का संदेश है कि बाहरी धार्मिक स्थलों की बजाय, व्यक्ति को अपने अंदर के ईश्वर को खोजने की कोशिश करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.085Z"
+  }
+}

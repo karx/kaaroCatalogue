@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1bb199f-c65c-4ca2-9933-2d2c9d61b04f",
+  "name": "अंतर कवल प्रकासिया, ब्रह्म वास तहां होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The inner lotus shines with the presence of Brahma. The mind is captivated there; only a few understand this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अंतर कवल प्रकासिया, ब्रह्म वास तहां होइ।\nमन भवरा तहां लुबधिया, जांणैगा जन कोइ।।१७८६।।",
+    "translation": "The inner lotus shines with the presence of Brahma. The mind is captivated there; only a few understand this.",
+    "meaning": "आंतरिक कमल ब्रह्म की उपस्थिति से चमकता है। मन वहां आकर्षित हो जाता है; केवल कुछ ही इसे समझ पाते हैं।",
+    "explanation": "इस दोहे में कबीर ने आंतरिक प्रकाश और ब्रह्म की उपस्थिति की तुलना की है। आंतरिक कमल, जो ब्रह्म के प्रकाश से प्रकाशित होता है, दिखाता है कि मन उसी ओर आकर्षित होता है। यह भक्ति और आत्मज्ञान की गहराई को व्यक्त करता है, जिसे केवल कुछ समझ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.354Z"
+  }
+}

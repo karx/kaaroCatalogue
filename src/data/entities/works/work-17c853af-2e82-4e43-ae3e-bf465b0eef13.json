@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-17c853af-2e82-4e43-ae3e-bf465b0eef13",
+  "name": "ज्ञानी अभिमानी नहीं, सब काहु सो हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A wise person is not proud; they are devoted to the welfare of all. The truthful are supreme, embracing respect and humility.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञानी अभिमानी नहीं, सब काहु सो हेत।\nसत्‍यवान परमाथी, आदर भाव सहेत।।६८१।।",
+    "translation": "A wise person is not proud; they are devoted to the welfare of all. The truthful are supreme, embracing respect and humility.",
+    "meaning": "ज्ञानी व्यक्ति अभिमानी नहीं होता; वह सबके हित में समर्पित रहता है। सत्यवादी ही परम हैं, जो आदर और विनम्रता को अपनाते हैं।",
+    "explanation": "इस दोहे में कबीर ज्ञान और विनम्रता की बात करते हैं। वह कहते हैं कि सच्चे ज्ञानी व्यक्ति में अभिमान नहीं होता और वह सभी के कल्याण के प्रति समर्पित रहता है। सत्यवादी व्यक्ति सर्वोच्च होते हैं और वे सम्मान और विनम्रता को अपनाते हैं। यह दोहा ज्ञान और चरित्र के आदर्श गुणों की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

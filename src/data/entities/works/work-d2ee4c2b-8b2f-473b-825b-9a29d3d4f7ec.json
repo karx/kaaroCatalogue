@@ -1,0 +1,29 @@
+{
+  "@type": "Book",
+  "workId": "work-d2ee4c2b-8b2f-473b-825b-9a29d3d4f7ec",
+  "name": "Diwan-e-Ghalib",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mirza-ghalib"
+  },
+  "inLanguage": "Urdu",
+  "dateCreated": "19th Century",
+  "genre": "Ghazal Collection",
+  "abstract": "Masterpiece collection of philosophical ghazals questioning existence, God, and love.",
+  "content": {
+    "original": "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے\nبہت نکلے مرے ارمان لیکن پھر بھی کم نکلے\n\nنکلنا خُلد سے آدم کا سنتے آئے ہیں لیکن\nبہت بے آبرو ہو کر ترے کوچے سے ہم نکلے\n\nمگر لکھوائے کوئی اس کو خط تو ہم سے لکھوائے\nہوئی صبح اور گھر سے کان پر رکھ کر قلم نکلے",
+    "transliteration": "Hazaaron khwahishen aisi ke har khwahish pe dam nikle\nBahut nikle mere armaan lekin phir bhi kam nikle\n\nNikalna khuld se Adam ka sunte aaye hain lekin\nBahut be-aabru ho kar tere kooche se hum nikle\n\nMagar likhwaaye koi us ko khat to hum se likhwaaye\nHui subah aur ghar se kaan par rakh kar qalam nikle",
+    "translation": "A thousand desires such that each desire steals my breath\nMany of my yearnings came out, but still too few\n\nWe have heard of Adam being expelled from paradise\nBut we left your street even more dishonored\n\nBut if someone wants a letter written, let them get it from me\nMorning came and from home with pen tucked behind ear, I left"
+  },
+  "keywords": [
+    "Ghazal",
+    "Philosophy",
+    "Love",
+    "Skepticism"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

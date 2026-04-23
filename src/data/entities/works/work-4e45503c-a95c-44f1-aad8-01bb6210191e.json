@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4e45503c-a95c-44f1-aad8-01bb6210191e",
+  "name": "Kural",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-thiruvalluvar"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Kural",
+    "retrievedAt": "2026-01-04T18:38:58.098Z"
+  }
+}

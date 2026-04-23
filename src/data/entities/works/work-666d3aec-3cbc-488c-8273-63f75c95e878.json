@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-666d3aec-3cbc-488c-8273-63f75c95e878",
+  "name": "धीरे-धीरे रे मना, धीरे सब कुछ होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Slowly, slowly, O mind, everything happens in its own time. The gardener may water with a hundred buckets, but the fruit will only come when it is in season.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धीरे-धीरे रे मना, धीरे सब कुछ होय।\nमाली सींचे सौ घड़ा, ऋतु आए फल होय।।५।।",
+    "translation": "Slowly, slowly, O mind, everything happens in its own time. The gardener may water with a hundred buckets, but the fruit will only come when it is in season.",
+    "meaning": "धीरे-धीरे हे मन, सब कुछ अपने समय पर होता है। माली चाहे सौ घड़े पानी से सींचे, लेकिन फल तो तभी आएगा जब ऋतु का समय होगा।",
+    "explanation": "यह दोहा धैर्य और समय की महत्ता को दर्शाता है। संत कबीर समझाते हैं कि सभी चीजें अपने समय पर ही पूरी होती हैं। चाहे कितनी भी कोशिश की जाए, परिणाम तभी मिलेगा जब समय उचित होगा। यह हमें धैर्य रखने और समय के अनुसार कार्य करने का महत्व सिखाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d1862032-a5f2-46f8-b791-42b296889cf7",
+  "name": "जिन गुरु जैसा जानिया, तिनको तैसा लाभ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who truly knows the Guru gains accordingly. Their thirst will not be quenched until they reach the Guru's true essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिन गुरु जैसा जानिया, तिनको तैसा लाभ।\nओसे प्‍यास न भागसी, जब लगि धसै न आभ।।९८२।।",
+    "translation": "One who truly knows the Guru gains accordingly. Their thirst will not be quenched until they reach the Guru's true essence.",
+    "meaning": "जिन्होंने गुरु को जैसा समझा, उन्हें वैसा ही लाभ मिला। उनकी प्यास तब तक नहीं बुझेगी जब तक वे गुरु के सच्चे स्वरूप को नहीं पा लेते।",
+    "explanation": "इस दोहे में कबीर दास जी गुरु की महत्ता और उसके सच्चे स्वरूप को जानने की बात करते हैं। वह कहते हैं कि जिसने गुरु को जैसा समझा है, उसे वैसा ही लाभ प्राप्त होता है। लेकिन जब तक व्यक्ति गुरु के वास्तविक और गहरे ज्ञान को नहीं प्राप्त करता, उसकी प्यास नहीं बुझती। यह दोहा हमें गुरु की सच्ची पहचान और उसके ज्ञान की गहराई को समझने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.894Z"
+  }
+}

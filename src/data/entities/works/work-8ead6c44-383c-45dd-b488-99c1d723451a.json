@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8ead6c44-383c-45dd-b488-99c1d723451a",
+  "name": "साधु ऐसा चाहिए, आई देई चलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One should seek a saint who guides well and is free from faults. To such a person, one should bow down with reverence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु ऐसा चाहिए, आई देई चलाय।\nदोस न लागै तासु को, शिर की टरै बलाय।।११७६।।",
+    "translation": "One should seek a saint who guides well and is free from faults. To such a person, one should bow down with reverence.",
+    "meaning": "ऐसा साधु चाहिए जो अच्छे से मार्गदर्शन करे और दोषों से मुक्त हो। ऐसे व्यक्ति को श्रद्धा से नमन करना चाहिए।",
+    "explanation": "इस दोहे में कबीर ने आदर्श साधु की विशेषताओं को स्पष्ट किया है। एक अच्छा साधु वह है जो सही मार्गदर्शन करे और दोषों से मुक्त हो। ऐसे साधु को श्रद्धा और सम्मान के साथ प्रणाम करना चाहिए, क्योंकि वे सच्चे मार्गदर्शक और गुरु होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.972Z"
+  }
+}

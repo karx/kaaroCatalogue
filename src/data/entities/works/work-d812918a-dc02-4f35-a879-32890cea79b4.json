@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d812918a-dc02-4f35-a879-32890cea79b4",
+  "name": "कबीर कलिजुग आइ करि, कीये बहुत जो भीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In this Kali Yuga, much fear has arisen. Those who are bound by one heart cannot find peace.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कलिजुग आइ करि, कीये बहुत जो भीत।\nजिन दिल बांध्या एक सूं, ते सुख सोवै निचींत।।१६४।।",
+    "translation": "In this Kali Yuga, much fear has arisen. Those who are bound by one heart cannot find peace.",
+    "meaning": "इस कलियुग में बहुत डर उत्पन्न हो गया है। जो लोग एक ही दिल से बंधे हैं, वे शांति नहीं पा सकते।",
+    "explanation": "कबीर इस दोहे में कलियुग की कठिनाइयों और भय का वर्णन कर रहे हैं। इस युग में डर और अशांति व्याप्त है, और जो लोग एक ही दिल या उद्देश्य से बंधे रहते हैं, वे भी शांति प्राप्त करने में असमर्थ रहते हैं। यह दोहा कलियुग की वास्तविकताओं को दर्शाता है और शांति की खोज की चुनौती को बताता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

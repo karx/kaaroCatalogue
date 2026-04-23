@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f02c61c9-15bf-4eef-959e-18bf11860e9f",
+  "name": "नाम न जाने ग्राम को, भूलो मारग जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who does not know the name of the village loses the way. Yesterday's thunder and thorns lead to trouble in the future.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाम न जाने ग्राम को, भूलो मारग जाय।\nकाल्हि गड़गा कण्‍टक, अगुमन कस कराय।।१५७९।।",
+    "translation": "One who does not know the name of the village loses the way. Yesterday's thunder and thorns lead to trouble in the future.",
+    "meaning": "जो गांव का नाम नहीं जानता, वह रास्ता भटक जाता है। कल की गरज और कांटे भविष्य में मुश्किलें लाते हैं।",
+    "explanation": "कबीर इस दोहे में पथिक की दिशा और ज्ञान की बात कर रहे हैं। उन्होंने कहा कि यदि किसी को गांव का नाम भी नहीं पता, तो वह रास्ता भटक जाएगा। कल की घटनाएं, जैसे गरज और कांटे, भविष्य में समस्याएँ पैदा कर सकती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.210Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b5e09998-43ce-4de8-b5f4-ce4b3ba74328",
+  "name": "आपन को न सराहिये, और न कहिये रंक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not praise yourself or consider yourself lowly. How can you know what is hidden beneath the surface?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आपन को न सराहिये, और न कहिये रंक।\nक्‍या जानो केहि ब्रिष तलि, कूरा होइ करंक।।१२८८।।",
+    "translation": "Do not praise yourself or consider yourself lowly. How can you know what is hidden beneath the surface?",
+    "meaning": "स्वयं की सराहना न करें और न ही स्वयं को हीन मानें। आप कैसे जान सकते हैं कि सतह के नीचे क्या छिपा है?",
+    "explanation": "कबीर जी के अनुसार, स्वयं की प्रशंसा और आत्म-निंदा दोनों ही व्यर्थ हैं। यह ज्ञान केवल सतह के बाहर छिपे हुए असली गुणों और दोषों को समझने से प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.548Z"
+  }
+}

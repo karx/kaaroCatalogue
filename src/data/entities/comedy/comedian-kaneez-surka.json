@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-kaneez-surka",
+  "name": "Kaneez Surka",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kaneez_Surka",
+    "https://www.youtube.com/channel/UC6a7TnbzoeggcDscJBrR0kw"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kaneez_Surka",
+    "retrievedAt": "2026-01-05T19:34:08.796Z"
+  }
+}

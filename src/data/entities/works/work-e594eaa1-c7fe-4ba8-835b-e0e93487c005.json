@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e594eaa1-c7fe-4ba8-835b-e0e93487c005",
+  "name": "यह सतगुरु उपदेश है, जो मन माने परतीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the true Guru's teaching: when the mind fully believes, abandoning all doubts and illusions, one can cross the ocean of worldly existence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह सतगुरु उपदेश है, जो मन माने परतीत।\nकरम भरम सब त्यागि के, चलै सो भव जल जीत।।२७६।।",
+    "translation": "This is the true Guru's teaching: when the mind fully believes, abandoning all doubts and illusions, one can cross the ocean of worldly existence.",
+    "meaning": "यह सच्चे गुरु का उपदेश है: जब मन पूरी तरह से विश्वास करता है, और सभी कर्म और भ्रम को त्याग देता है, तो व्यक्ति संसार रूपी सागर को पार कर सकता है।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि सच्चे गुरु का उपदेश वही है जिसे मन पूरे विश्वास के साथ माने। जब व्यक्ति अपने जीवन से कर्म, भ्रम, और अज्ञान को त्याग देता है और सच्चे गुरु की शरण में आता है, तो वह संसार रूपी भवसागर को पार कर लेता है और मोक्ष की प्राप्ति करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

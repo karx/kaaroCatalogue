@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0883xy-yo8ho",
+  "name": "Why Jet Airways Failed - Indigo, Pilots & Airports in India | Kenny Sebastian - Stand Up Comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT10M29S",
+  "embedUrl": "https://www.youtube.com/embed/79fyggVS6p4",
+  "contentUrl": "https://www.youtube.com/watch?v=79fyggVS6p4",
+  "uploadDate": "2019-07-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/79fyggVS6p4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Kenny Sebastian in his latest video shares his thoughts on why Jet Airways, India's second largest airline went down under! He then describes his feelings towards Airports in India and why most of their employees are disgruntled. He also feels it's not the best idea to give pilots feedback on landin",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

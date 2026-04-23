@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4394a789-e798-4658-b668-14e9ea5a069a",
+  "name": "यही बड़ाई शब्‍द की, जैसे चुम्‍बक भाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the greatness of the word, like a magnet's attraction. Without the word, one cannot be saved, no matter the measures taken.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यही बड़ाई शब्‍द की, जैसे चुम्‍बक भाय।\nबिना शब्‍द नहिं ऊबरै, केता करै उपाय।।९९०।।",
+    "translation": "This is the greatness of the word, like a magnet's attraction. Without the word, one cannot be saved, no matter the measures taken.",
+    "meaning": "शब्द की यही महानता है, जैसे चुंबक की आकर्षण शक्ति। शब्द के बिना, कोई भी उपाय करने पर भी उद्धार नहीं हो सकता।",
+    "explanation": "इस दोहे में कबीर दास जी शब्द की शक्ति और महत्व को बताते हैं। वह कहते हैं कि शब्द की महानता चुंबक के आकर्षण की तरह है। बिना शब्द के, चाहे कितने भी उपाय कर लें, उद्धार संभव नहीं है। यह दोहा हमें शब्द की महत्ता को समझने और उसके प्रति आस्था रखने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.895Z"
+  }
+}

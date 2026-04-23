@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq1im4-hllb2",
+  "name": "Singapore Aus NZ tour coming up. Tickets on https://linktr.ee/vgrover",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-varun-grover"
+  },
+  "duration": "PT1M22S",
+  "embedUrl": "https://www.youtube.com/embed/Y6T2ZLx-WTI",
+  "contentUrl": "https://www.youtube.com/watch?v=Y6T2ZLx-WTI",
+  "uploadDate": "2025-04-18",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Y6T2ZLx-WTI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Varun Grover",
+  "aggregatorChannel": null
+}

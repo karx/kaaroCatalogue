@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c5a7d0aa-a200-4f79-9fa9-514c1b6bba44",
+  "name": "Bulleh Shah Kafiyaan",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-bulleh-shah"
+  },
+  "inLanguage": "Punjabi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Bulleh_Shah_Kafiyaan",
+    "retrievedAt": "2026-01-04T18:39:18.222Z"
+  }
+}

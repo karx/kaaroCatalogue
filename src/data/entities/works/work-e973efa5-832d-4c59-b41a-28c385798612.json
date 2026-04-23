@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e973efa5-832d-4c59-b41a-28c385798612",
+  "name": "जिसका रहना उतघरा, सो क्‍यों जोड़े मित्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why form attachments to those who are temporary residents? Like a guest in a house, they will leave with their belongings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिसका रहना उतघरा, सो क्‍यों जोड़े मित्त।\nजैसे घर पर पाहुना, रहै उठाये चित्त।।८८६।।",
+    "translation": "Why form attachments to those who are temporary residents? Like a guest in a house, they will leave with their belongings.",
+    "meaning": "जो व्यक्ति इस संसार में अस्थाई रूप से रहता है, उससे क्यों मित्रता की जाए? जैसे एक मेहमान अपने घर से उठकर चला जाता है, वैसे ही वे भी चले जाएंगे।",
+    "explanation": "इस दोहे में कबीर जीवन की अस्थिरता और रिश्तों की क्षणभंगुरता की बात करते हैं। वे बताते हैं कि संसार में हर व्यक्ति एक अस्थायी मेहमान की तरह है, जो एक दिन अपने 'घर' से उठकर चला जाएगा। इसलिए, हमें इस संसार में मोह और मित्रता से अधिक आत्मिक उन्नति पर ध्यान देना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.353Z"
+  }
+}

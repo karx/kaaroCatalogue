@@ -1,0 +1,24 @@
+{
+  "@type": "Book",
+  "workId": "work-97862cef-d49f-4289-b5c5-bc11e0a8f7fe",
+  "name": "Bijak",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "dateCreated": "15th Century",
+  "genre": "Devotional Poetry",
+  "abstract": "Collection of Kabir's verses including Dohas and Sakhis, challenging religious orthodoxy and caste hierarchy.",
+  "keywords": [
+    "Doha",
+    "Sakhi",
+    "Nirguna Bhakti",
+    "Social Reform"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

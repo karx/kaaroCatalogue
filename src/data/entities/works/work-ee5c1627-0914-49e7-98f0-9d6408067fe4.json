@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee5c1627-0914-49e7-98f0-9d6408067fe4",
+  "name": "निरबैरी निहकांमता, सांई सेती नेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Harmlessness and humility are the essence of love with the divine. Being detached from worldly pleasures, this is the true mark of a saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निरबैरी निहकांमता, सांई सेती नेह।\nविषिया सूं न्‍यारा रहै, संतहि का अंग एह।।१९८९।।",
+    "translation": "Harmlessness and humility are the essence of love with the divine. Being detached from worldly pleasures, this is the true mark of a saint.",
+    "meaning": "निस्सारता और विनम्रता ही ईश्वर के साथ प्रेम की असली निशानी है। सांसारिक इच्छाओं से परे रहना, यही संत की पहचान है।",
+    "explanation": "इस दोहे में कबीर ने संत के गुणों को स्पष्ट किया है। उन्होंने बताया है कि संत वह होता है जो न तो किसी से बैर रखता है और न ही दुनियावी इच्छाओं में लिप्त रहता है। वास्तविक प्रेम और भक्ति ईश्वर के प्रति सच्चे समर्पण में होती है। यह आत्मिक परिपक्वता और संतत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.536Z"
+  }
+}

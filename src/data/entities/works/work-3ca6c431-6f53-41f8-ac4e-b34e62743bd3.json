@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3ca6c431-6f53-41f8-ac4e-b34e62743bd3",
+  "name": "साधु-साधु सब एक है, जस अफीम का खेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wise are all the same, like the field of opium. Some are red as a precious stone, and others are simply common.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु-साधु सब एक है, जस अफीम का खेत।\nकोई विवेकी लाल है, और सेत का सेत।।३३७।।",
+    "translation": "The wise are all the same, like the field of opium. Some are red as a precious stone, and others are simply common.",
+    "meaning": "साधु-साधु सभी एक हैं, जैसे अफीम का खेत। कोई विवेकी लाल है, और सेत का सेत।।",
+    "explanation": "इस दोहे में कबीरदास ने साधुओं की एकता और समानता की बात की है। उन्होंने इसे अफीम के खेत की उपमा दी है, जिसमें सभी साधु एक जैसे होते हैं। केवल विवेकशील व्यक्ति ही इस समानता को पहचान सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

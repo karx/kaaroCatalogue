@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k4ldt-v52t3",
+  "name": "Why men can’t express their feelings #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT2M25S",
+  "embedUrl": "https://www.youtube.com/embed/SbWQqJ2QU6g",
+  "contentUrl": "https://www.youtube.com/watch?v=SbWQqJ2QU6g",
+  "uploadDate": "2025-07-22",
+  "thumbnailUrl": "https://i.ytimg.com/vi/SbWQqJ2QU6g/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

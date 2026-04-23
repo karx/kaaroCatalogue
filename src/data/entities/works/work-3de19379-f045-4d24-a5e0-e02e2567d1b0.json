@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3de19379-f045-4d24-a5e0-e02e2567d1b0",
+  "name": "सोया सो निष्‍फल गया, जागा सो फल लेहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who remains asleep is fruitless; the one who wakes up receives the fruit. The Lord will not withhold what is rightfully yours; He will give it when asked.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोया सो निष्‍फल गया, जागा सो फल लेहि।\nसाहिब हक्‍क न राखसी, जब मांग तब देहि।।७५३।।",
+    "translation": "The one who remains asleep is fruitless; the one who wakes up receives the fruit. The Lord will not withhold what is rightfully yours; He will give it when asked.",
+    "meaning": "जो सोया रहता है वह बेकार चला जाता है; जो जागता है उसे फल मिलता है। भगवान आपके अधिकार को नहीं रोकेंगे; वह जब मांगा जाएगा तब देंगे।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जो व्यक्ति जागरूक नहीं होता, उसका प्रयास व्यर्थ जाता है। वही व्यक्ति जो जागता है और प्रयास करता है, उसे उचित फल प्राप्त होता है। भगवान आपके अधिकार को कभी भी रोकेंगे नहीं; वह जब आप मांगेंगे तब आपको मिलेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

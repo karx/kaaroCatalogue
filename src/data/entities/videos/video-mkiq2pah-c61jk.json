@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2pah-c61jk",
+  "name": "Aurora Runaway (cover) | Karunesh Talwar #shorts",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-karunesh-talwar"
+  },
+  "duration": "PT22S",
+  "embedUrl": "https://www.youtube.com/embed/qcu2suFcsDE",
+  "contentUrl": "https://www.youtube.com/watch?v=qcu2suFcsDE",
+  "uploadDate": "2021-05-18",
+  "thumbnailUrl": "https://i.ytimg.com/vi/qcu2suFcsDE/hqdefault.jpg",
+  "genre": "Short",
+  "description": "",
+  "channelTitle": "Karunesh Talwar",
+  "aggregatorChannel": null
+}

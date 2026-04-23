@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d2cc4399-777a-4d70-951a-67dce193b4d2",
+  "name": "कनक कामिनी देखिके, तू मत भूल कुरंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing gold and women, do not be deceived like the deer. Union and separation are painful, just like a snake shedding its skin.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कनक कामिनी देखिके, तू मत भूल कुरंग।\nमिलन बिछुरन दुहेलरा, जस केंचुलि तजे भुजंग।।१४६९।।",
+    "translation": "Seeing gold and women, do not be deceived like the deer. Union and separation are painful, just like a snake shedding its skin.",
+    "meaning": "सोना और स्त्री को देखकर तू हिरण की तरह मत भूल जाना। मिलन और बिछड़ना दोनों ही दुखद हैं, जैसे सांप अपनी केंचुल को छोड़ता है।",
+    "explanation": "इस दोहे में कबीर मनुष्य को लालच और मोह से बचने की सलाह दे रहे हैं। सोना और स्त्री को देखकर हिरण की तरह मुग्ध न हों। मिलन और बिछड़ने का दुख एक सांप के अपनी पुरानी केंचुल को छोड़ने के समान है। यह प्रक्रिया कष्टदायक है, और अंत में केवल खालीपन ही मिलता है। इसलिए, इस मोहजाल से बचना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.656Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2ea2809e-afd9-4166-8da0-4693583a1558",
+  "name": "कूकरा बहु जुरिमुआ, सलसै चढी सियार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The dog is very guilty, the jackal climbs on it. The donkey cries, while the cat comes in joy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कूकरा बहु जुरिमुआ, सलसै चढी सियार।\nरोवत आवै गदहड़ा, प्रमोधत आय बिलार।।२१४७।।",
+    "translation": "The dog is very guilty, the jackal climbs on it. The donkey cries, while the cat comes in joy.",
+    "meaning": "कुत्ता बहुत ही दोषी है, गीदड़ उस पर चढ़ जाता है। गधा रोता है, जबकि बिल्ली खुशी से आती है।",
+    "explanation": "इस दोहे में कबीर ने विभिन्न जानवरों के माध्यम से समाज की विसंगतियों और स्वभाविकता को दर्शाया है। कुत्ता अपनी स्थिति के कारण दोषी महसूस करता है, गीदड़ उसका फायदा उठाता है, गधा दुखी है, और बिल्ली खुशी का प्रतीक है। यह दोहा हमें सिखाता है कि समाज में विभिन्न लोगों और परिस्थितियों की विभिन्न प्रतिक्रियाएँ होती हैं और हमें इन्हें समझने की आवश्यकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.372Z"
+  }
+}

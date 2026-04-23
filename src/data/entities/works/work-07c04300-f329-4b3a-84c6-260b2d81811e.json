@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-07c04300-f329-4b3a-84c6-260b2d81811e",
+  "name": "सीखै सुनै विचार ले, ताहि शब्‍द सुख देय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Learning, listening, and understanding bring joy from the words. But without understanding, mere repetition of words brings no gain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सीखै सुनै विचार ले, ताहि शब्‍द सुख देय।\nबिना समझै शब्‍द गहै, कछु न लोहा लेय।।१००१।।",
+    "translation": "Learning, listening, and understanding bring joy from the words. But without understanding, mere repetition of words brings no gain.",
+    "meaning": "सीखने, सुनने और समझने से शब्दों से सुख प्राप्त होता है। लेकिन बिना समझे केवल शब्दों को दोहराने से कुछ भी हासिल नहीं होता।",
+    "explanation": "इस दोहे में कबीर दास जी सच्चे ज्ञान और समझ की बात करते हैं। वह कहते हैं कि यदि हम सीखने, सुनने और समझने की प्रक्रिया अपनाते हैं, तो हमें शब्दों से सुख मिलता है, लेकिन बिना समझ के केवल शब्दों को दोहराने से कोई लाभ नहीं होता। यह दोहा हमें सच्ची समझ और ज्ञान की दिशा में प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.159Z"
+  }
+}

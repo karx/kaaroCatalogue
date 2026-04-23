@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aac39831-1fdb-4c03-b510-4ae325887647",
+  "name": "दया दया सब कोई कहै, मर्म न जानै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone speaks of compassion, but no one understands its essence. Without understanding the nature of beings, how can one truly be compassionate?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया दया सब कोई कहै, मर्म न जानै कोय।\nजाति जीव जानै नहीं, दया कहां से होय।।१३८९।।",
+    "translation": "Everyone speaks of compassion, but no one understands its essence. Without understanding the nature of beings, how can one truly be compassionate?",
+    "meaning": "हर कोई दया की बात करता है, लेकिन कोई इसका मर्म नहीं जानता। जब जीवों की जाति (स्वभाव) को ही नहीं समझते, तो सच्ची दया कैसे हो सकती है?",
+    "explanation": "कबीर इस दोहे में सच्ची दया की कमी पर सवाल उठाते हैं। वे कहते हैं कि लोग दया की बातें तो बहुत करते हैं, लेकिन इसके मूल भाव को नहीं समझते। जब तक हम जीवों की वास्तविकता और स्वभाव को नहीं समझेंगे, तब तक हमारी दया सच्ची नहीं हो सकती। यह दोहा हमें सच्ची दया और करुणा का अर्थ समझने के लिए प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.090Z"
+  }
+}

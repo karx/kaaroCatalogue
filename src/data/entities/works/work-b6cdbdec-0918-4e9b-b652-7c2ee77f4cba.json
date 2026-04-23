@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b6cdbdec-0918-4e9b-b652-7c2ee77f4cba",
+  "name": "आठ पहर चौसठ घड़ी, लागि रहे अनुराग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The devotion persists through all eight parts of the day and sixty-four moments. When the heart does not forget even for a moment, then true renunciation is achieved.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आठ पहर चौसठ घड़ी, लागि रहे अनुराग।\nहिरदै पलक न बीसरे, तब सांचा बैराग।।८०९।।",
+    "translation": "The devotion persists through all eight parts of the day and sixty-four moments. When the heart does not forget even for a moment, then true renunciation is achieved.",
+    "meaning": "आठों पहर और चौसठ घड़ी में प्रेम बना रहता है। जब दिल पलभर के लिए भी न भूले, तब सच्चा बैराग (त्याग) प्राप्त होता है।",
+    "explanation": "इस दोहे में कबीर ने सच्चे प्रेम और त्याग की अवधारणा को स्पष्ट किया है। सच्चा प्रेम हर पल, हर क्षण में बना रहना चाहिए। जब दिल पूरी तरह से प्रेम में लिप्त होता है और किसी भी क्षण उसे नहीं भूलता, तभी सच्चा त्याग संभव होता है। यह स्थिरता और निरंतरता का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.078Z"
+  }
+}

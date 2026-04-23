@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e58dbd1-b367-4bfd-b1a8-796f23c8149f",
+  "name": "जगत मांहि धोखा घना, अहं क्रोध अरु काल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is full of deception, with pride, anger, and time. The net of death catches those who reach the end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जगत मांहि धोखा घना, अहं क्रोध अरु काल।\nपौरि पहुंचा मारिये, ऐसा जम का जाल।।१२४१।।",
+    "translation": "The world is full of deception, with pride, anger, and time. The net of death catches those who reach the end.",
+    "meaning": "संसार धोखे से भरा हुआ है, जिसमें अहंकार, क्रोध और काल शामिल हैं। मरे हुए लोग इस जाल में फंस जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने संसार के धोखे और इसके खतरनाक प्रभावों को दर्शाया है। अहंकार, क्रोध और काल इन धोखों को बढ़ाते हैं और अंत में मृत्यु का जाल उन लोगों को पकड़ लेता है जो इसका अंत देखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.274Z"
+  }
+}

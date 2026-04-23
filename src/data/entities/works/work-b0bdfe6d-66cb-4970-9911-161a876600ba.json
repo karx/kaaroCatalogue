@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b0bdfe6d-66cb-4970-9911-161a876600ba",
+  "name": "सुमिरन सो मन लाइये, जैसे पानी मीन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Let the mind be engaged in remembrance as a fish is in water. Even if life is separated for a moment, Kabir says, the truth remains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन सो मन लाइये, जैसे पानी मीन।\nप्राण तजे पल बीछुरे, सत्‍य कबीर कहि दीन।।७६१।।",
+    "translation": "Let the mind be engaged in remembrance as a fish is in water. Even if life is separated for a moment, Kabir says, the truth remains.",
+    "meaning": "मन को स्मरण में लगाओ, जैसे मछली पानी में रहती है। अगर प्राण भी पलभर के लिए अलग हो जाएं, तो भी सत्य बना रहता है, कबीर ने कहा।",
+    "explanation": "इस दोहे में कबीर ने यह तुलना की है कि जैसे मछली पानी में रहती है, उसी तरह से मन को भगवान के स्मरण में लगाना चाहिए। वे यह भी बताते हैं कि अगर जीवन के किसी भी पल में अलगाव हो, तो भी सत्य और भगवान का स्मरण अपरिवर्तित रहता है। इस प्रकार, लगातार स्मरण से आत्मा की स्थिरता और शांति बनी रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

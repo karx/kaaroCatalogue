@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ec548d43-c341-48e4-b3b7-5e0ca21a6334",
+  "name": "tum aae ho na shab-e-intizar guzri hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/tum-aae-ho-na-shab-e-intizaar-guzrii-hai-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.205Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/tum-aae-ho-na-shab-e-intizaar-guzrii-hai-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ntum aa.e ho na shab-e-intizār guzrī hai\ntalāsh meñ hai sahar baar baar guzrī hai\njunūñ meñ jitnī bhī guzrī ba-kār guzrī hai\nagarche dil pe ḳharābī hazār guzrī hai\nhuī hai hazrat-e-nāseh se guftugū jis shab\nvo shab zarūr sar-e-kū-e-yār guzrī hai\nvo baat saare fasāne meñ jis kā zikr na thā\nvo baat un ko bahut nā-gavār guzrī hai\nna gul khile haiñ na un se mile na mai pī hai\najiib rang meñ ab ke bahār guzrī hai\nchaman pe ġhārat-e-gul-chīñ se jaane kyā guzrī\nqafas se aaj sabā be-qarār guzrī hai\ntum aae ho na shab-e-intizar guzri hai\ntalash mein hai sahar bar bar guzri hai\njunun mein jitni bhi guzri ba-kar guzri hai\nagarche dil pe KHarabi hazar guzri hai\nhui hai hazrat-e-naseh se guftugu jis shab\nwo shab zarur sar-e-ku-e-yar guzri hai\nwo baat sare fasane mein jis ka zikr na tha\nwo baat un ko bahut na-gawar guzri hai\nna gul khile hain na un se mile na mai pi hai\najib rang mein ab ke bahaar guzri hai\nchaman pe ghaarat-e-gul-chin se jaane kya guzri\nqafas se aaj saba be-qarar guzri hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nتم آئے ہو نہ شب انتظار گزری ہے\nتلاش میں ہے سحر بار بار گزری ہے\nجنوں میں جتنی بھی گزری بکار گزری ہے\nاگرچہ دل پہ خرابی ہزار گزری ہے\nہوئی ہے حضرت ناصح سے گفتگو جس شب\nوہ شب ضرور سر کوئے یار گزری ہے\nوہ بات سارے فسانے میں جس کا ذکر نہ تھا\nوہ بات ان کو بہت نا گوار گزری ہے\nنہ گل کھلے ہیں نہ ان سے ملے نہ مے پی ہے\nعجیب رنگ میں اب کے بہار گزری ہے\nچمن پہ غارت گلچیں سے جانے کیا گزری\nقفس سے آج صبا بے قرار گزری ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nतुम आए हो न शब-ए-इंतिज़ार गुज़री है\nतलाश में है सहर बार बार गुज़री है\nजुनूँ में जितनी भी गुज़री ब-कार गुज़री है\nअगरचे दिल पे ख़राबी हज़ार गुज़री है\nहुई है हज़रत-ए-नासेह से गुफ़्तुगू जिस शब\nवो शब ज़रूर सर-ए-कू-ए-यार गुज़री है\nवो बात सारे फ़साने में जिस का ज़िक्र न था\nवो बात उन को बहुत ना-गवार गुज़री है\nन गुल खिले हैं न उन से मिले न मय पी है\nअजीब रंग में अब के बहार गुज़री है\nचमन पे ग़ारत-ए-गुल-चीं से जाने क्या गुज़री\nक़फ़स से आज सबा बे-क़रार गुज़री है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:49.898Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-21699355-f1b0-4160-ae51-1362a8baa365",
+  "name": "कबीर जांचण जाइया, आगै मिल्‍या अंच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir went to seek, and found it ahead. He took it home, and it filled him with great satisfaction.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर जांचण जाइया, आगै मिल्‍या अंच।\nले चाल्‍या घर आपणै, भारी खाया संच।।१४३५।।",
+    "translation": "Kabir went to seek, and found it ahead. He took it home, and it filled him with great satisfaction.",
+    "meaning": "कबीर ने खोज में गए और आगे जाकर उसे प्राप्त किया। उन्होंने इसे अपने घर ले लिया, और इससे उन्हें भरपूर संतोष मिला।",
+    "explanation": "कबीर इस दोहे में आत्म-ज्ञान की प्राप्ति और उसकी महत्वपूर्णता की बात करते हैं। वे बताते हैं कि उन्होंने खोज की और जो ज्ञान प्राप्त किया, उसे अपने घर ले जाकर उससे पूरी संतोष प्राप्त किया। यह दोहा आत्मा की खोज और उसकी प्राप्ति के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.364Z"
+  }
+}

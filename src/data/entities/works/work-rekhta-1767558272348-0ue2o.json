@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-rekhta-1767558272348-0ue2o",
+  "name": "ruKH-e-nigar se hai soz-e-jawidani-e-shama",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mirza-ghalib"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/rukh-e-nigaar-se-hai-soz-e-jaavidaanii-e-shama-mirza-ghalib-ghazals?sort=year-asc",
+    "retrievedAt": "2026-01-04T20:24:32.348Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/rukh-e-nigaar-se-hai-soz-e-jaavidaanii-e-shama-mirza-ghalib-ghazals?sort=year-asc"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nruḳh-e-nigār se hai soz-e-jāvidānī-e-sham.a\nhuī hai ātish-e-gul āb-e-zindagānī-e-sham.a\nzabān-e-ahl-e-zabāñ meñ hai marg-e-ḳhāmoshī\nye baat bazm meñ raushan huī zabānī-e-sham.a\nkare hai sarf ba-īmā-e-sho.ala qissa tamām\nba-tarz-e-ahl-e-fanā hai fasāna-ḳhvānī-e-sham.a\nġham us ko hasrat-e-parvāna kā hai ai sho.ale\ntire larazne se zāhir hai nā-tavānī-e-sham.a\ntire ḳhayāl se ruuh ehtizāz kartī hai\nba-jalva-rezi-e-bād-o-ba-par-fishānī-e-sham.a\nnashāt-e-dāġh-e-ġham-e-ishq kī bahār na pūchh\nshaguftagī hai shahīd-e-gul-e-ḳhizānī-e-sham.a\njale hai dekh ke bālīn-e-yār par mujh ko\nna kyuuñ ho dil pe mire dāġh-e-bad-gumānī-e-sham.a\nruKH-e-nigar se hai soz-e-jawidani-e-shama\nhui hai aatish-e-gul aab-e-zindagani-e-shama\nzaban-e-ahl-e-zaban mein hai marg-e-KHamoshi\nye baat bazm mein raushan hui zabani-e-shama\nkare hai sarf ba-ima-e-shoala qissa tamam\nba-tarz-e-ahl-e-fana hai fasana-KHwani-e-shama\ngham us ko hasrat-e-parwana ka hai ai shoale\ntere larazne se zahir hai na-tawani-e-shama\ntere KHayal se ruh ehtizaz karti hai\nba-jalwa-rezi-e-baad-o-ba-par-fishani-e-shama\nnashat-e-dagh-e-gham-e-ishq ki bahaar na puchh\nshaguftagi hai shahid-e-gul-e-KHizani-e-shama\njale hai dekh ke baalin-e-yar par mujh ko\nna kyun ho dil pe mere dagh-e-bad-gumani-e-shama",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nruḳh-e-nigār se hai soz-e-jāvidānī-e-sham.a\nhuī hai ātish-e-gul āb-e-zindagānī-e-sham.a\nzabān-e-ahl-e-zabāñ meñ hai marg-e-ḳhāmoshī\nye baat bazm meñ raushan huī zabānī-e-sham.a\nkare hai sarf ba-īmā-e-sho.ala qissa tamām\nba-tarz-e-ahl-e-fanā hai fasāna-ḳhvānī-e-sham.a\nġham us ko hasrat-e-parvāna kā hai ai sho.ale\ntire larazne se zāhir hai nā-tavānī-e-sham.a\ntire ḳhayāl se ruuh ehtizāz kartī hai\nba-jalva-rezi-e-bād-o-ba-par-fishānī-e-sham.a\nnashāt-e-dāġh-e-ġham-e-ishq kī bahār na pūchh\nshaguftagī hai shahīd-e-gul-e-ḳhizānī-e-sham.a\njale hai dekh ke bālīn-e-yār par mujh ko\nna kyuuñ ho dil pe mire dāġh-e-bad-gumānī-e-sham.a\nruKH-e-nigar se hai soz-e-jawidani-e-shama\nhui hai aatish-e-gul aab-e-zindagani-e-shama\nzaban-e-ahl-e-zaban mein hai marg-e-KHamoshi\nye baat bazm mein raushan hui zabani-e-shama\nkare hai sarf ba-ima-e-shoala qissa tamam\nba-tarz-e-ahl-e-fana hai fasana-KHwani-e-shama\ngham us ko hasrat-e-parwana ka hai ai shoale\ntere larazne se zahir hai na-tawani-e-shama\ntere KHayal se ruh ehtizaz karti hai\nba-jalwa-rezi-e-baad-o-ba-par-fishani-e-shama\nnashat-e-dagh-e-gham-e-ishq ki bahaar na puchh\nshaguftagi hai shahid-e-gul-e-KHizani-e-shama\njale hai dekh ke baalin-e-yar par mujh ko\nna kyun ho dil pe mere dagh-e-bad-gumani-e-shama",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nruḳh-e-nigār se hai soz-e-jāvidānī-e-sham.a\nhuī hai ātish-e-gul āb-e-zindagānī-e-sham.a\nzabān-e-ahl-e-zabāñ meñ hai marg-e-ḳhāmoshī\nye baat bazm meñ raushan huī zabānī-e-sham.a\nkare hai sarf ba-īmā-e-sho.ala qissa tamām\nba-tarz-e-ahl-e-fanā hai fasāna-ḳhvānī-e-sham.a\nġham us ko hasrat-e-parvāna kā hai ai sho.ale\ntire larazne se zāhir hai nā-tavānī-e-sham.a\ntire ḳhayāl se ruuh ehtizāz kartī hai\nba-jalva-rezi-e-bād-o-ba-par-fishānī-e-sham.a\nnashāt-e-dāġh-e-ġham-e-ishq kī bahār na pūchh\nshaguftagī hai shahīd-e-gul-e-ḳhizānī-e-sham.a\njale hai dekh ke bālīn-e-yār par mujh ko\nna kyuuñ ho dil pe mire dāġh-e-bad-gumānī-e-sham.a\nruKH-e-nigar se hai soz-e-jawidani-e-shama\nhui hai aatish-e-gul aab-e-zindagani-e-shama\nzaban-e-ahl-e-zaban mein hai marg-e-KHamoshi\nye baat bazm mein raushan hui zabani-e-shama\nkare hai sarf ba-ima-e-shoala qissa tamam\nba-tarz-e-ahl-e-fana hai fasana-KHwani-e-shama\ngham us ko hasrat-e-parwana ka hai ai shoale\ntere larazne se zahir hai na-tawani-e-shama\ntere KHayal se ruh ehtizaz karti hai\nba-jalwa-rezi-e-baad-o-ba-par-fishani-e-shama\nnashat-e-dagh-e-gham-e-ishq ki bahaar na puchh\nshaguftagi hai shahid-e-gul-e-KHizani-e-shama\njale hai dekh ke baalin-e-yar par mujh ko\nna kyun ho dil pe mere dagh-e-bad-gumani-e-shama",
+    "lastUpdated": "2026-01-04T20:25:28.529Z"
+  }
+}

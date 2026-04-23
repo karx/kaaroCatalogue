@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db77e0ce-dd59-471c-b691-15ded9ee329c",
+  "name": "साधु आवत देखि के, मन में करै मरोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When a saint arrives, if someone feels discomfort in their mind, that person is like a scavenger living in the village outskirts.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु आवत देखि के, मन में करै मरोर।\nसो तो होसी चूहरा, बसै गांव की खोर।।५८४।।",
+    "translation": "When a saint arrives, if someone feels discomfort in their mind, that person is like a scavenger living in the village outskirts.",
+    "meaning": "जब कोई साधु आता है और किसी के मन में असुविधा होती है, तो वह व्यक्ति गांव के बाहरी हिस्से में रहने वाले चूहे जैसा होता है।",
+    "explanation": "जब साधु की उपस्थिति से किसी को असुविधा होती है, तो यह दर्शाता है कि उनके मन में पवित्रता और आत्मा की स्थिति का अहसास नहीं है। ऐसा व्यक्ति साधु की उपस्थिति से लाभ नहीं उठा पाता और बाहरी दुनिया में ही रह जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

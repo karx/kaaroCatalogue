@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e8ee6e5-cf0d-4a60-9634-bfe4ce4b5664",
+  "name": "करै दूरि अज्ञानता, अंजन ज्ञान सुदेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ignorance is dispelled through knowledge, and the darkness of ignorance is removed by wisdom. Blessed are those Gurus who save the soul from this ignorance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करै दूरि अज्ञानता, अंजन ज्ञान सुदेय।\nबलिहारी वे गुरुन की, हंस उबारि जुलेय।।२६३।।",
+    "translation": "Ignorance is dispelled through knowledge, and the darkness of ignorance is removed by wisdom. Blessed are those Gurus who save the soul from this ignorance.",
+    "meaning": "अज्ञानता को ज्ञान के माध्यम से दूर किया जाता है, और अज्ञान के अंधकार को बुद्धिमत्ता से हटाया जाता है। वे गुरु धन्य हैं जो इस अज्ञानता से आत्मा को बचाते हैं।",
+    "explanation": "कबीर इस दोहे में ज्ञान और अज्ञानता के बारे में बात करते हैं। वे बताते हैं कि ज्ञान अज्ञानता को दूर करता है और बुद्धिमत्ता अंधकार को हटाती है। गुरु ऐसे धन्य होते हैं जो अज्ञानता से आत्मा को उबारते हैं और ज्ञान प्रदान करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

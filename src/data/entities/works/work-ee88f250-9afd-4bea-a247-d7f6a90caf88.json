@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee88f250-9afd-4bea-a247-d7f6a90caf88",
+  "name": "कबीर निन्‍दक मरि गया, अब क्‍या कहिये जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the critic is dead, what more can be said? Such a name is found that lifts the burden from one’s shoulders.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर निन्‍दक मरि गया, अब क्‍या कहिये जाय।\nऐसा कोई नाम मिला, बीड़ा लेय उठाय।।१२९२।।",
+    "translation": "Kabir says, the critic is dead, what more can be said? Such a name is found that lifts the burden from one’s shoulders.",
+    "meaning": "कबीर जी कहते हैं, निंदा करने वाला मर गया, अब और क्या कहा जाए? ऐसा नाम पाया जाता है जो बोझ को उतार फेंकता है।",
+    "explanation": "कबीर जी ने इस दोहे में यह स्पष्ट किया है कि निंदा करने वाला व्यक्ति अब मर चुका है और उसकी बातों को अधिक महत्व नहीं देना चाहिए। जो सच्चा नाम प्राप्त होता है, वह सभी प्रकार के बोझ को समाप्त कर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.549Z"
+  }
+}

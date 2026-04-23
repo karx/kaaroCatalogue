@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9a2d4579-b3cd-447b-91c1-515ded726360",
+  "name": "फल में परले बीतिया, लोगहि लागु तिवारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fruit has become overripe, and people are waiting for it to fall. Instead of worrying about the future, address the concerns of the past.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "फल में परले बीतिया, लोगहि लागु तिवारि।\nआगिल सोच निवारि के, पाछिल करहु गुहारि।।१५८७।।",
+    "translation": "The fruit has become overripe, and people are waiting for it to fall. Instead of worrying about the future, address the concerns of the past.",
+    "meaning": "फल अधिक पका हुआ है, और लोग इसके गिरने का इंतजार कर रहे हैं। भविष्य की चिंता करने के बजाय, अतीत की समस्याओं को हल करो।",
+    "explanation": "कबीर इस दोहे में समय के महत्व और अतीत की समस्याओं को दूर करने की आवश्यकता को बताते हैं। जब फल अधिक पक जाता है, तो लोग उसे गिरने का इंतजार करते हैं। इसी प्रकार, भविष्य की चिंता करने के बजाय, हमें अतीत की समस्याओं का समाधान करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.211Z"
+  }
+}

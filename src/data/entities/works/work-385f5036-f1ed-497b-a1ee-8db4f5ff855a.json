@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-385f5036-f1ed-497b-a1ee-8db4f5ff855a",
+  "name": "सहज मिलै सो दूध है, मांगि मिले सो पानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What comes easily is like milk, while what is sought is like water. Kabir says that what is sought with effort is like blood, filled with hardship.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सहज मिलै सो दूध है, मांगि मिले सो पानि।\nकहैं कबीर वह रक्‍त है, जामें ऐंचातानि।।६४५।।",
+    "translation": "What comes easily is like milk, while what is sought is like water. Kabir says that what is sought with effort is like blood, filled with hardship.",
+    "meaning": "जो सहज रूप से मिलता है, वह दूध के समान है; जो मांगा जाता है, वह पानी के समान है। कबीर कहते हैं कि जो प्रयास से प्राप्त होता है, वह रक्त के समान होता है, जिसमें कठिनाइयाँ होती हैं।",
+    "explanation": "संत कबीर का कहना है कि सहज प्राप्त वस्तुएं सरल होती हैं, जबकि प्रयास से प्राप्त वस्तुएं कठिनाइयों से भरी होती हैं। जीवन में सहजता से प्राप्त चीजें अधिक मूल्यवान होती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.004Z"
+  }
+}

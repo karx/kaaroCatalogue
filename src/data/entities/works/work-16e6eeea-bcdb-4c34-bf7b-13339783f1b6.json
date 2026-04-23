@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16e6eeea-bcdb-4c34-bf7b-13339783f1b6",
+  "name": "कुलवंता कोटिक मिले, पंडित कोटि पचीस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if one meets countless noble and learned individuals, none can compare to a true devotee, who is unparalleled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुलवंता कोटिक मिले, पंडित कोटि पचीस।\nसुपच भक्‍त की पनहि में, तुलै न काहू शीश।।६०७।।",
+    "translation": "Even if one meets countless noble and learned individuals, none can compare to a true devotee, who is unparalleled.",
+    "meaning": "चाहे लाखों कुलीन और विद्वान मिलें, कोई भी सच्चे भक्त की बराबरी नहीं कर सकता, जो अद्वितीय होता है।",
+    "explanation": "सच्चे भक्त की तुलना किसी भी कुलीन या विद्वान से नहीं की जा सकती। भक्त की सच्चाई और भक्ति का स्तर किसी भी बाहरी गुण से ऊपर होता है, और यह समाज में अनमोल होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.000Z"
+  }
+}

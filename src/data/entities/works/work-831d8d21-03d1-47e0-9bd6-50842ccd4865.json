@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-831d8d21-03d1-47e0-9bd6-50842ccd4865",
+  "name": "मांस मांस सब एक है, मुरगी हिरनी गाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Meat is meat, whether it is chicken, deer, or cow. When humans consume it, they will go to hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांस मांस सब एक है, मुरगी हिरनी गाय।\nआंखि देखि नर खात है, ते नर नरकहिं जाय।।२२४१।।",
+    "translation": "Meat is meat, whether it is chicken, deer, or cow. When humans consume it, they will go to hell.",
+    "meaning": "मांस मांस ही है, चाहे वह मुर्गा हो, हिरण हो या गाय। जब मनुष्य इसका सेवन करते हैं, तो वे नरक में जाते हैं।",
+    "explanation": "इस दोहे में कबीर जी यह बताते हैं कि मांस की कोई भी किस्म हो, वह सब एक ही है। कबीर जी के अनुसार, जो लोग मांस का सेवन करते हैं, वे नरक की ओर जाते हैं। यह दर्शाता है कि कबीर जी मांसाहार को धार्मिक दृष्टि से गलत मानते हैं और इसके सेवन को गंभीर दंड के रूप में देखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.089Z"
+  }
+}

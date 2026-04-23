@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4848a33b-c932-4143-93e3-40e57233dead",
+  "name": "सुर सती का सहज है, घड़ी इक का घमसान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The state of a true saint is natural, but it can be turbulent for a moment. Neither fully dead nor alive, they hover around the cremation ground.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुर सती का सहज है, घड़ी इक का घमसान।\nमरै न जीवै मरजिवा, धमकत रहे मसान।।१०३९।।",
+    "translation": "The state of a true saint is natural, but it can be turbulent for a moment. Neither fully dead nor alive, they hover around the cremation ground.",
+    "meaning": "सच्चे संत की स्थिति स्वाभाविक होती है, लेकिन कभी-कभी वह क्षणिक रूप से अशांत हो जाती है। न तो पूरी तरह से मृत और न ही जीवित, वे श्मशान के आसपास मंडराते रहते हैं।",
+    "explanation": "इस दोहे में कबीर सच्चे साधक के जीवन की स्थिति का वर्णन करते हैं। वे कहते हैं कि सच्चे संत का जीवन स्वाभाविक रूप से शांत होता है, लेकिन कभी-कभी वह अशांत हो सकता है। ऐसा साधक न तो पूरी तरह से मरा हुआ होता है और न ही जीवित, और वह हमेशा जीवन और मृत्यु के बीच की स्थिति में रहता है। यह स्थिति साधना के उन्नत चरण का संकेत है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.164Z"
+  }
+}

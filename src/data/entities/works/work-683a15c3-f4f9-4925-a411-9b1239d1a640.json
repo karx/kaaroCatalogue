@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-683a15c3-f4f9-4925-a411-9b1239d1a640",
+  "name": "लघुता में प्रभुता बसै, प्रभुता से प्रभु दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Divinity resides in humility, while pride keeps one distant from the divine. The ant eats sugar, while the elephant’s head is covered with dust.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लघुता में प्रभुता बसै, प्रभुता से प्रभु दूर।\nकीड़ी सो मिसरी चुगै, हाथी के सिर धूर।।१२५५।।",
+    "translation": "Divinity resides in humility, while pride keeps one distant from the divine. The ant eats sugar, while the elephant’s head is covered with dust.",
+    "meaning": "नम्रता में भगवान का निवास होता है, जबकि गर्व भगवान को दूर करता है। चींटी शक्कर खाती है, जबकि हाथी का सिर धूल से ढंका होता है।",
+    "explanation": "इस दोहे में कबीर ने नम्रता और गर्व के प्रभाव को दिखाया है। उन्होंने बताया है कि भगवान की कृपा नम्रता में होती है, जबकि गर्व से व्यक्ति दिव्यता से दूर हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.542Z"
+  }
+}

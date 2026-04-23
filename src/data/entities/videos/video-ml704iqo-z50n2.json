@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-z50n2",
+  "name": "Travelling Comedian| Stand-Up Comedy By Aditi Mittal",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT11M2S",
+  "embedUrl": "https://www.youtube.com/embed/avB2xFLkgXw",
+  "contentUrl": "https://www.youtube.com/watch?v=avB2xFLkgXw",
+  "uploadDate": "2024-05-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/avB2xFLkgXw/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Aditi Mittal travels for shows for her job. Otherwise she would just be sitting at home the whole time.\nDATES FOR NYC SHOWS! \nJune 23, June 27th: Westside Comedy Club! EARLY BIRD TICKETS AVAILABLE NOW!",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

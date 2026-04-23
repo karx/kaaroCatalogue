@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-184db1ac-dcc3-4ae2-a561-aa1fcea79bda",
+  "name": "छाडै बिन छूटै नहीं, छोड़न हारा राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without leaving it behind, one cannot be free; the one who abandons is Ram. The soul may make many efforts, but none are effective.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "छाडै बिन छूटै नहीं, छोड़न हारा राम।\nजीव जतन बहुतरि करै, सरे न एकौ काम।।११६७।।",
+    "translation": "Without leaving it behind, one cannot be free; the one who abandons is Ram. The soul may make many efforts, but none are effective.",
+    "meaning": "बिना छोड़ने के मुक्ति नहीं मिलती; जो छोड़ता है वह राम है। जीव बहुत प्रयास करता है, लेकिन कोई भी प्रयास सफल नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने माया को छोड़ने की आवश्यकता को समझाया है। वे कहते हैं कि मुक्ति पाने के लिए माया का त्याग करना अनिवार्य है। हालांकि जीव बहुत प्रयास करता है, लेकिन अगर माया को नहीं छोड़ा जाए तो ये प्रयास व्यर्थ होते हैं। केवल वही व्यक्ति मुक्त हो सकता है जो माया को सच्चे अर्थ में छोड़ देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.970Z"
+  }
+}

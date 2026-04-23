@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-y5kib",
+  "name": "Roasted | CROWD WORK | Harsh Gujral | Standup Comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT8M51S",
+  "embedUrl": "https://www.youtube.com/embed/YtrHyHqdp8Y",
+  "contentUrl": "https://www.youtube.com/watch?v=YtrHyHqdp8Y",
+  "uploadDate": "2020-04-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/YtrHyHqdp8Y/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "Releasing my first crowd-work(Standup Comedy) video from the show that I did in Mumbai. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. Let me know how you liked the video and share it with your friends. You can follow me on the",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

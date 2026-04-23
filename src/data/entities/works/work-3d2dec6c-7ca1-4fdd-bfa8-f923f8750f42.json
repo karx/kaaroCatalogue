@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d2dec6c-7ca1-4fdd-bfa8-f923f8750f42",
+  "name": "गुरु कुम्‍हार शिष कुंभ है, गढ़ि‍-गढ़‍ि काढ़े खोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Guru is like a potter and the disciple is like a pot. The Guru shapes the disciple, removing imperfections. He supports from within while the outer form is molded.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु कुम्‍हार शिष कुंभ है, गढ़ि‍-गढ़‍ि काढ़े खोट।\nअन्‍तर हाथ सहार दे, बाहर बाहै चोट।।४९६।।",
+    "translation": "The Guru is like a potter and the disciple is like a pot. The Guru shapes the disciple, removing imperfections. He supports from within while the outer form is molded.",
+    "meaning": "गुरु कुम्हार के समान हैं और शिष्य एक घड़ा है। गुरु शिष्य को आकार देते हैं और दोषों को दूर करते हैं। गुरु आंतरिक रूप से सहारा देते हैं जबकि बाहरी रूप को संवारते हैं।",
+    "explanation": "इस दोहे में कबीर ने गुरु और शिष्य के संबंध को कुम्हार और घड़े के उदाहरण से दर्शाया है। जैसे कुम्हार घड़े को आकार देता है और उसकी खामियों को दूर करता है, वैसे ही गुरु भी शिष्य को सही दिशा में मार्गदर्शन कर उसकी कमजोरियों को दूर करते हैं। गुरु का समर्थन आंतरिक रूप से होता है, जबकि बाहरी रूप को सुधारने का कार्य भी गुरु की भूमिका का हिस्सा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.198Z"
+  }
+}

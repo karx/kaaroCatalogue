@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eeee6ac4-2328-402c-b19b-ec79b8f0deba",
+  "name": "हौं जाना कुलहंस हौ, ताते कीन्‍हा संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I know the true self, why should I join with others? Those who understand the true essence do not get entangled in falsehood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हौं जाना कुलहंस हौ, ताते कीन्‍हा संग।\nजो जानत बगु बावरा, ठये न देतेऊं अंग।।१६८०।।",
+    "translation": "I know the true self, why should I join with others? Those who understand the true essence do not get entangled in falsehood.",
+    "meaning": "मैं अपनी सच्चाई जानता हूँ, फिर दूसरों के साथ क्यों जुड़ूं? जो सच्चाई को समझते हैं, वे झूठ में उलझते नहीं हैं।",
+    "explanation": "कबीर इस दोहे में आत्म-ज्ञान और मूर्खता की बात करते हैं। उन्होंने कहा कि सच्चाई को जानने वाला व्यक्ति झूठ में नहीं फंसता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.789Z"
+  }
+}

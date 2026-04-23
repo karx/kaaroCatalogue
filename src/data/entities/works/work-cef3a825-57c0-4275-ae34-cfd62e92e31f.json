@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cef3a825-57c0-4275-ae34-cfd62e92e31f",
+  "name": "मांस भखै औ मद पिये, धन वेश्‍या सों खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who consumes meat and drinks alcohol, eats with prostitutes, gambles, and commits theft, will meet a complete downfall in the end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांस भखै औ मद पिये, धन वेश्‍या सों खाय।\nजूआ खेलि चोरी करै, अंत समूला जाय।।२२४०।।",
+    "translation": "One who consumes meat and drinks alcohol, eats with prostitutes, gambles, and commits theft, will meet a complete downfall in the end.",
+    "meaning": "जो मांस खाता है और मदिरा पीता है, वेश्या के साथ खाता है, जुए में खेलता है और चोरी करता है, उसका अंत पूरी तरह से बुरा होगा।",
+    "explanation": "इस दोहे में कबीर जी ने उन लोगों के बारे में चेतावनी दी है जो मांस, मदिरा का सेवन करते हैं, वेश्या के साथ संबंध रखते हैं, जुआ खेलते हैं, और चोरी करते हैं। कबीर जी के अनुसार, ऐसे लोग अपने जीवन के अंत में पूरी तरह से बर्बाद हो जाते हैं। यह दर्शाता है कि कबीर जी नैतिकता और धार्मिक आचार-संहिता के प्रति सख्त दृष्टिकोण रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.089Z"
+  }
+}

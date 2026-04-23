@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-1g23l",
+  "name": "comfort chair",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT2M56S",
+  "embedUrl": "https://www.youtube.com/embed/m8jVuNQ5XXs",
+  "contentUrl": "https://www.youtube.com/watch?v=m8jVuNQ5XXs",
+  "uploadDate": "2025-08-25",
+  "thumbnailUrl": "https://i.ytimg.com/vi/m8jVuNQ5XXs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

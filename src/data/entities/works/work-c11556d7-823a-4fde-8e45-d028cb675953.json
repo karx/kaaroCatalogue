@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c11556d7-823a-4fde-8e45-d028cb675953",
+  "name": "तो तो करै त बाहुड़ो, दूरि-दूरि करै तो जाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whether you move away or stay close, I will follow as Hari directs. I eat what the Lord provides.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तो तो करै त बाहुड़ो, दूरि-दूरि करै तो जाउं।\nज्‍यूं हरि राखै त्‍यूं रहौ, जो देवै सो खाउं।।१८४२।।",
+    "translation": "Whether you move away or stay close, I will follow as Hari directs. I eat what the Lord provides.",
+    "meaning": "चाहे आप दूर चले जाएं या पास रहें, मैं हरि की दिशा का अनुसरण करूंगा। मैं वही खाता हूँ जो भगवान प्रदान करते हैं।",
+    "explanation": "इस दोहे में कबीर ने भगवान की इच्छा और संतोष को व्यक्त किया है। वे कहते हैं कि चाहे कोई व्यक्ति उन्हें दूर कर दे या पास रखें, वे हरि की दिशा का पालन करेंगे और जो भी भगवान प्रदान करेंगे, उसी से संतुष्ट रहेंगे। यह दोहा भगवान की इच्छा के प्रति पूर्ण समर्पण और संतोष को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.632Z"
+  }
+}

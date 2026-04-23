@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fc0998b5-35f0-4761-8b0d-9ef8f55e2eb3",
+  "name": "भय बिन भाव न ऊपजै, भय बिनु होय न प्रीति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without fear, emotions do not arise, without fear there is no love. When fear departs from the heart, all the essence and rituals vanish.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भय बिन भाव न ऊपजै, भय बिनु होय न प्रीति।\nजब हिरदे से भय गया, मिटी सकल रस रीति।।९३६।।",
+    "translation": "Without fear, emotions do not arise, without fear there is no love. When fear departs from the heart, all the essence and rituals vanish.",
+    "meaning": "भय के बिना भाव उत्पन्न नहीं होते, भय के बिना प्रेम भी नहीं होता। जब हृदय से भय चला जाता है, तब सभी रस और विधियां समाप्त हो जाती हैं।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि भय की अनुपस्थिति में भावनाएं और प्रेम उत्पन्न नहीं होते। भय एक महत्वपूर्ण तत्व है जो जीवन के भावनात्मक पहलुओं को प्रभावित करता है। जब भय हृदय से चला जाता है, तो सभी रस और परंपराएं भी समाप्त हो जाती हैं। यह दोहा हमें भय के महत्व को समझाने के साथ-साथ इसके प्रभावों को स्वीकार करने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

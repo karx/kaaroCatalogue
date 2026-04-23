@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-477682fd-eed4-435e-85b6-1a883929dc10",
+  "name": "कथनी कथै तो क्‍या हुआ, करनी ना ठहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of mere words if actions do not persist? Like a fort of sand, it collapses as soon as it is seen.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कथनी कथै तो क्‍या हुआ, करनी ना ठहराय।\nकालबूत का कोट ज्‍यौं, देखते ही ढहि जाय।।१३१०।।",
+    "translation": "What is the use of mere words if actions do not persist? Like a fort of sand, it collapses as soon as it is seen.",
+    "meaning": "केवल शब्दों से क्या होता है यदि कर्म स्थिर नहीं होते? जैसे बालू का किला, जैसे ही देखा जाता है गिर जाता है।",
+    "explanation": "कबीर जी के अनुसार, शब्दों का कोई मूल्य नहीं है यदि उनके आधार पर किए गए कर्म स्थिर और सच्चे नहीं हैं। जैसे बालू का किला तुरंत गिर जाता है, वैसे ही बिना स्थिर कर्म के शब्द भी बेकार होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.810Z"
+  }
+}

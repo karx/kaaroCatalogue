@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq1im4-op46j",
+  "name": "Naya clip. Singapore-Aus-NZ tour coming up. Aa jaao!",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-varun-grover"
+  },
+  "duration": "PT1M1S",
+  "embedUrl": "https://www.youtube.com/embed/Mgo2ugN9wlY",
+  "contentUrl": "https://www.youtube.com/watch?v=Mgo2ugN9wlY",
+  "uploadDate": "2025-02-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Mgo2ugN9wlY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Varun Grover",
+  "aggregatorChannel": null
+}

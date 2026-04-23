@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c48b4c49-c483-4d59-9165-fddd9532f33b",
+  "name": "ब्राह्मन राजा बरन का, और पवनी छत्तीस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Brahmins, kings, and people of all varnas and professions eat fish with their bread. All varnas have become corrupt.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ब्राह्मन राजा बरन का, और पवनी छत्तीस।\nरोटी ऊपर माछली, सब बरन भये खबीस।।२२४३।।",
+    "translation": "Brahmins, kings, and people of all varnas and professions eat fish with their bread. All varnas have become corrupt.",
+    "meaning": "ब्राह्मण, राजा और सभी वर्णों के लोग रोटी के साथ मछली खाते हैं। सभी वर्ण भ्रष्ट हो गए हैं।",
+    "explanation": "इस दोहे में कबीर जी ने सभी वर्णों और पेशों के लोगों की आलोचना की है जो मछली खाते हैं। कबीर जी का कहना है कि हर कोई भ्रष्ट हो गया है, चाहे वह कोई भी वर्ण या पेशा हो। यह दर्शाता है कि कबीर जी सामाजिक और धार्मिक आचरण के प्रति निराशा और आलोचना व्यक्त करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.090Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ae8eeb7a-64db-4f8d-8eb4-dc811d06ae32",
+  "name": "हिंदू मूये राम कहि, मुसलमान खुदाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Hindu calls God Ram, the Muslim calls Him Khuda. Kabir says that He is ever-living; He does not belong to either of the two.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हिंदू मूये राम कहि, मुसलमान खुदाइ।\nकहै कबीर सो जीवता, दुई मैं कदे न जाइ।।१८५१।।",
+    "translation": "The Hindu calls God Ram, the Muslim calls Him Khuda. Kabir says that He is ever-living; He does not belong to either of the two.",
+    "meaning": "हिंदू भगवान को राम कहता है, मुसलमान उसे खुदा कहता है। कबीर कहते हैं कि वह हमेशा जीवित रहते हैं; वह दोनों में से किसी का नहीं हैं।",
+    "explanation": "इस दोहे में कबीर ने धर्मों के भिन्न नामों और उनके बीच की धार्मिक विभाजन को समाप्त करने की बात की है। कबीर यह बताते हैं कि जो परमात्मा दोनों धर्मों में पूजनीय है, वह कभी भी किसी धर्म में बंधा नहीं होता। वह हमेशा जीवित रहता है और उसकी उपस्थिति किसी विशेष धर्म की सीमाओं में नहीं बंधी होती। यह दोहा धार्मिक एकता और सार्वभौमिकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.966Z"
+  }
+}

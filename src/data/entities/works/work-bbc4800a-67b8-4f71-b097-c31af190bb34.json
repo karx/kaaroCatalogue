@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bbc4800a-67b8-4f71-b097-c31af190bb34",
+  "name": "सुंदरि से सूली भली, बिरला बंच कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Better the gallows than beauty, rare is the one who escapes. Iron, once placed in fire, burns and turns to ashes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुंदरि से सूली भली, बिरला बंच कोय।\nलोह निहाला अगनि मैं, जलि बलि कोइला होय।।२०५१।।",
+    "translation": "Better the gallows than beauty, rare is the one who escapes. Iron, once placed in fire, burns and turns to ashes.",
+    "meaning": "सुंदर स्त्री से सूली बेहतर है, क्योंकि इससे बचने वाला बिरला ही होता है। लोहे को जब आग में डाला जाता है, तो वह जलकर कोयला हो जाता है।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि सुंदरता का आकर्षण बहुत घातक होता है, और इससे बचना आसान नहीं है। वे कहते हैं कि सूली (मृत्यु) भी सुंदरता के इस आकर्षण से बेहतर है, क्योंकि लोहे की तरह जब इंसान इस आग में गिरता है, तो वह जलकर राख हो जाता है। यहाँ कबीर मनुष्य को मोह-माया से बचने की सलाह दे रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.086Z"
+  }
+}

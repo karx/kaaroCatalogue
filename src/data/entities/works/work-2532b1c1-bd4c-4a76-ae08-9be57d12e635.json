@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2532b1c1-bd4c-4a76-ae08-9be57d12e635",
+  "name": "कबीर कमाई आपनी, कबहु न निष्‍फल जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's own efforts are never in vain. Even if seven seas stand in the way, they will be crossed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कमाई आपनी, कबहु न निष्‍फल जाय।\nसात समुद्र आड़ा पड़े, मिलै अगाड़ी आय।।१३३८।।",
+    "translation": "Kabir's own efforts are never in vain. Even if seven seas stand in the way, they will be crossed.",
+    "meaning": "कबीर के अपने प्रयास कभी भी व्यर्थ नहीं होते। अगर सात समुद्र भी रास्ते में हों, तो भी वे पार कर लिए जाएंगे।",
+    "explanation": "कबीर जी के अनुसार, सही प्रयास कभी भी निष्फल नहीं होते। किसी भी कठिनाई को पार किया जा सकता है, चाहे कितनी भी बड़ी बाधा क्यों न हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.815Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-vb4e7",
+  "name": "Atul Khatri on the Justin Bieber Concert",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT7M49S",
+  "embedUrl": "https://www.youtube.com/embed/x09Ft-XdChg",
+  "contentUrl": "https://www.youtube.com/watch?v=x09Ft-XdChg",
+  "uploadDate": "2017-08-08",
+  "thumbnailUrl": "https://i.ytimg.com/vi/x09Ft-XdChg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Atul Khatri talks about the trauma of attending the Justin Bieber concert in Mumbai with his wife and children.\n\nFollow him on:\nTwitter: @one_by_two\nInstagram:@one_by_two\nFacebook.com/hornysindhi\nSnapchat: @hornysindhi",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

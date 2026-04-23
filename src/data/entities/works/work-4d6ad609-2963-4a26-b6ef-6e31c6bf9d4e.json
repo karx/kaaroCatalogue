@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4d6ad609-2963-4a26-b6ef-6e31c6bf9d4e",
+  "name": "धन रहै न जोबन रहै, रहै न गांव न ठांव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wealth and youth do not last, nor do villages or places. Kabir says that reputation in the world remains only by serving others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धन रहै न जोबन रहै, रहै न गांव न ठांव।\nकबीर जग में जस रहै, करिदे किसी का काम।।११०१।।",
+    "translation": "Wealth and youth do not last, nor do villages or places. Kabir says that reputation in the world remains only by serving others.",
+    "meaning": "धन और युवावस्था स्थायी नहीं होती, न ही गांव या स्थान स्थायी होते हैं। कबीर कहते हैं कि दुनिया में नाम और यश तब ही बना रहता है जब हम दूसरों की सेवा करते हैं।",
+    "explanation": "इस दोहे में कबीर ने जीवन की अस्थिरता को व्यक्त किया है। धन और युवावस्था स्थायी नहीं हैं, और न ही किसी गांव या स्थान की स्थिरता है। कबीर का कहना है कि सच्चा यश और सम्मान केवल दूसरों की सेवा करने से ही प्राप्त होता है। यही सच्चा मार्ग है जो जीवन में स्थायी प्रभाव छोड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.699Z"
+  }
+}

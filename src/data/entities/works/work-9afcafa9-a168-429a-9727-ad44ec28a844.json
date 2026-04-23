@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9afcafa9-a168-429a-9727-ad44ec28a844",
+  "name": "बैसनो भया तौ क्या भया, बूझा नहीं बबेक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of being a Vaishnav if one does not understand wisdom? Wearing marks and tilak, they deceive many.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बैसनो भया तौ क्या भया, बूझा नहीं बबेक।\nछापा तिलक बनाइ करि, दगहया अनेक।।२२०।।",
+    "translation": "What is the use of being a Vaishnav if one does not understand wisdom? Wearing marks and tilak, they deceive many.",
+    "meaning": "वैष्णव बनकर क्या फायदा, अगर विवेक नहीं समझा? छाप और तिलक लगाकर, उन्होंने कई लोगों को धोखा दिया।",
+    "explanation": "इस दोहे में कबीर धर्म के बाहरी प्रतीकों की निस्सारता पर प्रकाश डालते हैं। वे कहते हैं कि यदि व्यक्ति के अंदर विवेक नहीं है, तो वैष्णव बनने का कोई अर्थ नहीं है। केवल तिलक और छाप धारण करने से सच्ची भक्ति प्राप्त नहीं होती, बल्कि वह तो दूसरों को भ्रमित करने का साधन बन जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

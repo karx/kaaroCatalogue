@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-748f7c07-d1ea-4171-8495-eaceddb495c6",
+  "name": "कबीरा गरब न कीजिए, कबहूँ न हंसिये कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir advises not to be proud or laugh at others. Even if the boat is in the ocean, one does not know what will happen next.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा गरब न कीजिए, कबहूँ न हंसिये कोय।\nअजहूँ नाव समुद्र में, का जाने का होय।।१००।।",
+    "translation": "Kabir advises not to be proud or laugh at others. Even if the boat is in the ocean, one does not know what will happen next.",
+    "meaning": "कबीर सलाह देते हैं कि गर्व न करें और दूसरों पर हंसने से बचें। भले ही नाव समुद्र में हो, फिर भी अगले पल क्या होगा, इसका पता नहीं होता।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि गर्व और दूसरों की स्थिति पर हंसी करना उचित नहीं है, क्योंकि जीवन की स्थिति कभी भी बदल सकती है। जैसे समुद्र में नाव चल रही है, लेकिन अगले पल की अनिश्चितता बनी रहती है। यह दिखाता है कि हमें हमेशा विनम्र रहना चाहिए और भविष्य की अनिश्चितताओं को स्वीकार करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

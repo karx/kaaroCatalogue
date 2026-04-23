@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f6d66f3e-e693-45a5-ac94-577e860b3d25",
+  "name": "कागा काको धन हरै, कोयल काको देत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Who does the crow rob? Whom does the cuckoo give? By speaking sweet words, one wins over the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कागा काको धन हरै, कोयल काको देत।\nमीठा शब्‍द सुनाय के, जग अपनो करि लेत।।१००७।।",
+    "translation": "Who does the crow rob? Whom does the cuckoo give? By speaking sweet words, one wins over the world.",
+    "meaning": "कौवा किसका धन चुराता है, और कोयल किसको देती है? मीठे शब्द सुनाकर, दुनिया को अपना बना लेता है।",
+    "explanation": "इस दोहे में संत कबीर कहते हैं कि जैसे कौवा किसी का धन नहीं चुराता और कोयल किसी को धन नहीं देती, वैसे ही मीठे शब्दों का अपना कोई धन नहीं होता, लेकिन ये शब्द इतनी शक्ति रखते हैं कि इनसे पूरा जग जीत लिया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

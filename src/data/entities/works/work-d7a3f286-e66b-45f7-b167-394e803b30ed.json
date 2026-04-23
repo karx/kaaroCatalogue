@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d7a3f286-e66b-45f7-b167-394e803b30ed",
+  "name": "मुरगी मुल्‍ला सों कहै, जबह करत है मोहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The hen says to the Mulla, 'You slaughter me, But when God asks for your account, you will be in trouble.'",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मुरगी मुल्‍ला सों कहै, जबह करत है मोहिं।\nसाहब लेखा मांगसी, संकट परिहै तोहिं।।२२५९।।",
+    "translation": "The hen says to the Mulla, 'You slaughter me, But when God asks for your account, you will be in trouble.'",
+    "meaning": "मुर्गी मुल्ला से कहती है, 'तुम मुझे जबह करते हो, लेकिन जब साहब (ईश्वर) तुमसे हिसाब मांगेगा, तब तुम संकट में पड़ोगे।'",
+    "explanation": "इस दोहे में कबीर जी ने मुर्गी और मुल्ला का उदाहरण देकर बताया है कि मुर्गी कहती है कि मुल्ला उसे मारता है, लेकिन जब ईश्वर उससे उसके कर्मों का हिसाब मांगेगा, तब उसे गंभीर संकट का सामना करना पड़ेगा। यह दोहा इस बात की ओर इशारा करता है कि कोई भी व्यक्ति अपने बुरे कर्मों से नहीं बच सकता, चाहे वह कितना भी धार्मिक होने का दिखावा करे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.347Z"
+  }
+}

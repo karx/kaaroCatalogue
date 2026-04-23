@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a8b69329-a5c8-4ae8-a68a-93596554ba4e",
+  "name": "जिह्वा केरे बंद दे, बहु बोलना निवार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Control your tongue, avoid excessive talking. Associate with the wise and reflect on the words of the Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिह्वा केरे बंद दे, बहु बोलना निवार।\nपारखी से संग करु, गुरुमुख शब्‍द विचार।।१५२८।।",
+    "translation": "Control your tongue, avoid excessive talking. Associate with the wise and reflect on the words of the Guru.",
+    "meaning": "अपनी जिह्वा पर नियंत्रण रखो, ज्यादा बोलने से बचो। विद्वानों के संग रहो और गुरु के शब्दों पर विचार करो।",
+    "explanation": "कबीर इस दोहे में संयम और सत्संगति के महत्व पर जोर देते हैं। वे कहते हैं कि हमें अपनी वाणी पर नियंत्रण रखना चाहिए और अनावश्यक बोलने से बचना चाहिए। हमें विद्वानों और गुरु के संगति में रहकर उनके ज्ञान और उपदेशों पर विचार करना चाहिए, जिससे हमारे जीवन में प्रगति हो सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.931Z"
+  }
+}

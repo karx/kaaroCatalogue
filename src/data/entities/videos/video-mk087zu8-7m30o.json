@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk087zu8-7m30o",
+  "name": "Biswa Kalyan Rath - Uber and Me",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT3M22S",
+  "embedUrl": "https://www.youtube.com/embed/GDnOWmnA8BY",
+  "contentUrl": "https://www.youtube.com/watch?v=GDnOWmnA8BY",
+  "uploadDate": "2017-06-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/GDnOWmnA8BY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Kucch nahi hai idhar padhne ke liye. Jake full video dekho Amazon Prime pe. Ya mat dekho. Main confident aadmi hun mujhe utna fark nahi padta yeh sab cheez se.",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

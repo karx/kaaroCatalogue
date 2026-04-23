@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-46ac2d6d-ba6d-4d96-99de-51b114b4e024",
+  "name": "चार मास घन वर्षिया, अति अपूर जल नीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For four months the clouds rained, but not a single drop of water quenched the thirst. The armor didn’t rise, nor did an arrow pierce.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चार मास घन वर्षिया, अति अपूर जल नीर।\nपेन्‍हे चढ़त न बखतरी, चुभे न एको तीर।।१५०७।।",
+    "translation": "For four months the clouds rained, but not a single drop of water quenched the thirst. The armor didn’t rise, nor did an arrow pierce.",
+    "meaning": "चार महीने बादल बरसे, लेकिन पानी की एक भी बूंद प्यास नहीं बुझा पाई। बख्तर चढ़ा नहीं और न ही तीर चुभा।",
+    "explanation": "कबीर इस दोहे में अनिर्णय की स्थिति और आंतरिक उलझनों का जिक्र कर रहे हैं। चार महीने की बारिश जीवन की संभावनाओं और अवसरों का प्रतीक है, परंतु जब निर्णय लेने का समय आता है, तब हम तैयार नहीं होते। न तो बख्तर चढ़ाया जाता है और न तीर छोड़ा जाता है। यह जीवन में सही समय पर सही निर्णय लेने की आवश्यकता को इंगित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.928Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-02c6a939-94f1-450d-8923-972fa2426c30",
+  "name": "ऐसा कोई ना मिले, जासौं रहिये लागि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one is found who remains constant. Seeing the whole world burning, one must attend to their own fire.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई ना मिले, जासौं रहिये लागि।\nसब जग जलता देखिये, अपणीं अपणीं आगि।।१९६८।।",
+    "translation": "No one is found who remains constant. Seeing the whole world burning, one must attend to their own fire.",
+    "meaning": "कोई ऐसा नहीं मिलता जो स्थिर और अपरिवर्तित रहे। पूरे जगत को जलते हुए देखना पड़ता है और खुद की आग पर ध्यान देना होता है।",
+    "explanation": "इस दोहे में कबीर ने बाहरी दुनिया के बदलाव और अशांति के बीच खुद की आंतरिक स्थिति को बनाए रखने की बात की है। जब हम पूरे जगत को जलते हुए देखते हैं, तो हमें अपनी आंतरिक समस्याओं और चिंताओं पर ध्यान देना होता है। यह आत्म-निरीक्षण और आंतरिक शांति की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.531Z"
+  }
+}

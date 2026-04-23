@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5v6m-co12b",
+  "name": "One Joke - Abhishek Upmanyu",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-abhishek-upmanyu"
+  },
+  "duration": "PT1M50S",
+  "embedUrl": "https://www.youtube.com/embed/ZOPhSSFYRIo",
+  "contentUrl": "https://www.youtube.com/watch?v=ZOPhSSFYRIo",
+  "uploadDate": "2022-01-20",
+  "thumbnailUrl": "https://i.ytimg.com/vi/ZOPhSSFYRIo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Chota joke hai. Bas joke hai. Hassi na aaye toh koi ni 2 min se kam he time waste hua hai",
+  "channelTitle": "Abhishek Upmanyu",
+  "aggregatorChannel": null
+}

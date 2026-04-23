@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-seb3u",
+  "name": "The Last of Us II Playthrough #1",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT1H2M4S",
+  "embedUrl": "https://www.youtube.com/embed/71V_aK68a8c",
+  "contentUrl": "https://www.youtube.com/watch?v=71V_aK68a8c",
+  "uploadDate": "2021-09-20",
+  "thumbnailUrl": "https://i.ytimg.com/vi/71V_aK68a8c/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Sadness and zombies",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

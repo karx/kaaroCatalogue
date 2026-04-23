@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b1ec5853-3d96-43c5-89cd-02697c5e2dcf",
+  "name": "जोरू जूठणि जगत की, भले बुरे का बीच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world’s pleasures are like a discarded woman, between good and bad. The noble stay away, those near are vile.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जोरू जूठणि जगत की, भले बुरे का बीच।\nउत्तम ते अलगे रहैं, निकटि रहै सो नीच।।२०४९।।",
+    "translation": "The world’s pleasures are like a discarded woman, between good and bad. The noble stay away, those near are vile.",
+    "meaning": "दुनिया के सुख भोग को एक त्यागी हुई स्त्री के समान समझो, जो अच्छे और बुरे के बीच में रहती है। उत्तम व्यक्ति इससे दूर रहते हैं, और जो इसके पास जाते हैं वे नीच होते हैं।",
+    "explanation": "कबीर इस दोहे में दुनिया के सुखों को एक त्यागी हुई स्त्री के रूप में देखते हैं, जो अच्छे और बुरे के बीच में होती है। जो लोग उत्तम होते हैं वे इन सुखों से दूर रहते हैं, और जो इनके पास जाते हैं वे अपने चरित्र को नीचा करते हैं। कबीर हमें इन दुनियावी सुखों से दूर रहने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.814Z"
+  }
+}

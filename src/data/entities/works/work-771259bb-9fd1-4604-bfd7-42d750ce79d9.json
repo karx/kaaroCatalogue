@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-771259bb-9fd1-4604-bfd7-42d750ce79d9",
+  "name": "Where The Mind Is Without Fear",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "genre": "Prayer Poem",
+  "abstract": "Where the mind is without fear and the head is held high\nWhere knowledge is free\nWhere the world has not been broken up into fragments\nBy narrow domestic walls\n\nWhere words come out from the depth of ...",
+  "content": {
+    "original": "চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির,\nজ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর\nআপন প্রাঙ্গণতলে দিবসশর্বরী\nবসুধারে রাখে নাই খণ্ড ক্ষুদ্র করি",
+    "transliteration": "Chitta jetha bhoyshunyo, uchcho jetha shir\nGyan jetha mukto, jetha griher prachir\nApon pranganatale dibassharbari\nBasudharke rakhe nai khando khudro kori",
+    "translation": "Where the mind is without fear and the head is held high\nWhere knowledge is free\nWhere the world has not been broken up into fragments\nBy narrow domestic walls\n\nWhere words come out from the depth of truth\nWhere tireless striving stretches its arms towards perfection\nWhere the clear stream of reason has not lost its way\nInto the dreary desert sand of dead habit\n\nInto that heaven of freedom, my Father, let my country awake"
+  },
+  "keywords": [
+    "Prayer Poem",
+    "Bengali"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.009Z"
+  }
+}

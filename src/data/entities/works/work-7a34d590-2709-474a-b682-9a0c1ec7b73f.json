@@ -1,0 +1,23 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a34d590-2709-474a-b682-9a0c1ec7b73f",
+  "name": "Triveni",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dfb1579c-e3b3-4679-97bd-84c7ffa76ef1"
+  },
+  "inLanguage": "Hindi/Urdu",
+  "dateCreated": "2001",
+  "genre": "Poetry Collection",
+  "abstract": "A collection of three-line poems invented by Gulzar. The first two lines form a complete thought, while the third line adds a twist or a new dimension.",
+  "keywords": [
+    "Triveni",
+    "Three-liners",
+    "Innovation"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ebooks/triveni-gulzar-ebooks",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

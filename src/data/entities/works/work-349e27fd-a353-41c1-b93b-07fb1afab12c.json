@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-349e27fd-a353-41c1-b93b-07fb1afab12c",
+  "name": "ई माया है चूहड़ी, औ चुहड़े की जोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This illusion (maya) is like a rat catcher, always trapping. Even father and son get entangled in it, but in the end, no one stays together.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ई माया है चूहड़ी, औ चुहड़े की जोय।\nबाप पूत अरुझााय के, संग न काहुक होय।।१४५७।।",
+    "translation": "This illusion (maya) is like a rat catcher, always trapping. Even father and son get entangled in it, but in the end, no one stays together.",
+    "meaning": "यह माया चूहे को पकड़ने वाली चुहड़ी के समान है, जो हमेशा जाल बिछाती है। यहाँ तक कि पिता और पुत्र भी इसमें उलझ जाते हैं, लेकिन अंत में कोई भी साथ नहीं रहता।",
+    "explanation": "कबीर इस दोहे में माया की मोहक और भ्रामक प्रकृति को समझा रहे हैं। वह माया को चूहड़ी की तरह बताते हैं जो सबको अपने जाल में फँसा लेती है। पिता और पुत्र भी इसके प्रभाव से नहीं बच सकते और वे भी आपस में उलझ जाते हैं। लेकिन अंत में कोई किसी का साथ नहीं देता क्योंकि माया का जाल सबको अलग कर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.655Z"
+  }
+}

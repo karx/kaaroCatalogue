@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3070760a-e3d2-4831-aca2-8b8b96f99c44",
+  "name": "पाणीं माहै प्रजली, भई अप्रबल आगि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Water that was once on fire has become a fierce blaze. The flowing stream remains, but the fish have abandoned the water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाणीं माहै प्रजली, भई अप्रबल आगि।\nबहती सलिता रहि गई, मंछ रहे जल त्‍यागि।।१९४९।।",
+    "translation": "Water that was once on fire has become a fierce blaze. The flowing stream remains, but the fish have abandoned the water.",
+    "meaning": "जिस पानी में आग लगी थी, वह अब प्रचंड आग बन गई है। बहने वाली धारा वही रह गई है, लेकिन मछलियाँ पानी को छोड़ चुकी हैं।",
+    "explanation": "इस दोहे में कबीर जल और आग का उदाहरण देते हुए इस बात को समझाते हैं कि जब पानी में आग लग जाती है, तो पानी को जलाना असंभव हो जाता है। इसी तरह, जब कोई व्यक्ति अपने भीतर की आग को तृप्त करने के लिए संघर्ष करता है, तो वह बाहरी वस्तुओं की परवाह नहीं करता। मछलियाँ जो पानी के बिना जीवित नहीं रह सकतीं, वह इसे छोड़ देती हैं, जो यह दर्शाता है कि साधक को अपनी आंतरिक स्थिति को समझना और बाहरी परिवर्तनों को अनदेखा करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.258Z"
+  }
+}

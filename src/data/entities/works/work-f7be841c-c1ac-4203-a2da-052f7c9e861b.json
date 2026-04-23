@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7be841c-c1ac-4203-a2da-052f7c9e861b",
+  "name": "सुमिरण से सुख होत हैं, सुमिरण से दुख जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "By remembrance, happiness is attained, and by remembrance, sorrow is removed. Kabir says, through remembrance, the soul merges with the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरण से सुख होत हैं, सुमिरण से दुख जाय।\nकहैं कबीर सुमिरण किये, सांई मांहि समाय।।७६०।।",
+    "translation": "By remembrance, happiness is attained, and by remembrance, sorrow is removed. Kabir says, through remembrance, the soul merges with the Lord.",
+    "meaning": "स्मरण से सुख प्राप्त होता है, और स्मरण से दुख दूर होता है। कबीर कहते हैं, स्मरण द्वारा आत्मा भगवान में समा जाती है।",
+    "explanation": "इस दोहे में कबीर ने यह स्पष्ट किया है कि भगवान का स्मरण करने से सुख की प्राप्ति होती है और दुख समाप्त हो जाता है। जब हम लगातार भगवान का स्मरण करते हैं, तो हमारी आत्मा भगवान के साथ एकाकार हो जाती है। इस तरह से, जीवन की कठिनाइयाँ और दुख दूर हो जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

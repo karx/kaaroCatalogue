@@ -1,0 +1,27 @@
+{
+  "entityId": "poet-namdeo-dhasal",
+  "name": "Namdeo Dhasal",
+  "@type": "Person",
+  "knowsLanguage": "Marathi",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Dalit Panthers",
+  "keywords": [
+    "Golpitha",
+    "Dalit Literature",
+    "Social Protest",
+    "Raw Language"
+  ],
+  "abstract": "Founder of the Dalit Panther movement. His Golpitha (1972) shattered literary norms with raw, brutal language describing the Bombay red-light district. Poetry as weapon of social protest.",
+  "majorWorks": [
+    "Golpitha"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Namdeo_Dhasal"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Namdeo_Dhasal",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

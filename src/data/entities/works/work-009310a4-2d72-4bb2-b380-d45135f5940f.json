@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-009310a4-2d72-4bb2-b380-d45135f5940f",
+  "name": "सातों सागर मैं फिरा, जम्‍बू दीप दै पीठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have roamed across all seven seas and visited Jambudweep. It is rare to find someone who does not engage in criticism.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सातों सागर मैं फिरा, जम्‍बू दीप दै पीठ।\nपर निन्‍दा नाहीं करे, सो कोई बिरला दीठ।।१२८४।।",
+    "translation": "I have roamed across all seven seas and visited Jambudweep. It is rare to find someone who does not engage in criticism.",
+    "meaning": "मैंने सातों सागरों में भ्रमण किया और जम्बू दीप की यात्रा की। परंतु, ऐसा कोई दुर्लभ व्यक्ति है जो निंदा नहीं करता।",
+    "explanation": "कबीर जी ने इस दोहे में यह कहा है कि सृष्टि के सभी हिस्सों में भ्रमण करने के बावजूद, ऐसा व्यक्ति बहुत ही दुर्लभ है जो निंदा से दूर रहता है। यह दिखाता है कि निंदा एक सामान्य प्रवृत्ति है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.547Z"
+  }
+}

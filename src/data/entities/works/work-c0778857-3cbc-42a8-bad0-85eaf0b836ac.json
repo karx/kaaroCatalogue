@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c0778857-3cbc-42a8-bad0-85eaf0b836ac",
+  "name": "कै खाना कै सोवना, और न कोई चीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Eating and sleeping are of no importance, there is no other concern. Forgetting the words of the true guru, is like losing the eternal friend.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कै खाना कै सोवना, और न कोई चीत।\nसतगुरु शब्‍द बिसारिया, आदि अन्‍त का मीत।।९२९।।",
+    "translation": "Eating and sleeping are of no importance, there is no other concern. Forgetting the words of the true guru, is like losing the eternal friend.",
+    "meaning": "खाना और सोना कोई महत्वपूर्ण बातें नहीं हैं, कोई और चिंता नहीं है। सतगुरु के शब्दों को भूल जाना, जैसे सच्चे मित्र को खोना है।",
+    "explanation": "इस दोहे में कबीर सतगुरु की उपस्थिति और उनके ज्ञान को अत्यंत महत्वपूर्ण मानते हैं। वे कहते हैं कि भौतिक जीवन के पहलू जैसे खाना और सोना महत्वपूर्ण नहीं हैं; महत्वपूर्ण बात यह है कि हम सतगुरु के ज्ञान को न भूलें। कबीर का यह संदेश है कि आध्यात्मिक ज्ञान और सच्चे गुरु की भक्ति ही जीवन के सबसे महत्वपूर्ण पहलू हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.626Z"
+  }
+}

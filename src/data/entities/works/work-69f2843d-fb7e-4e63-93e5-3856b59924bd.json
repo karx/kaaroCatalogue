@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-69f2843d-fb7e-4e63-93e5-3856b59924bd",
+  "name": "कलि का स्‍वामीं लोभिया, मनसा धरी बधाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The master of Kali Yuga is greedy, with increasing desires. He lends money with interest, always calculating his gains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कलि का स्‍वामीं लोभिया, मनसा धरी बधाइ।\nदैंहि पईसा ब्‍याज कों, लेखां करतां जाइ।।२०६८।।",
+    "translation": "The master of Kali Yuga is greedy, with increasing desires. He lends money with interest, always calculating his gains.",
+    "meaning": "कलियुग का स्वामी लालची है, जिसकी इच्छाएं बढ़ती ही जाती हैं। वह ब्याज पर पैसा देता है और हमेशा अपने लाभ की गणना करता रहता है।",
+    "explanation": "कबीर इस दोहे में कलियुग के स्वामी के लालच को चित्रित करते हैं। वह व्यक्ति हर समय अपने लाभ की गणना में लगा रहता है, और ब्याज पर पैसा देकर अपनी इच्छाओं को और बढ़ाता है। उसकी सारी जिंदगी केवल इस बात में ही व्यतीत हो जाती है कि वह कितना लाभ कमा सकता है। कबीर इस लालच से दूर रहकर सच्चे मार्ग पर चलने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.092Z"
+  }
+}

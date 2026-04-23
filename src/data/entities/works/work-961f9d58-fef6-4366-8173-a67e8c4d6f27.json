@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-961f9d58-fef6-4366-8173-a67e8c4d6f27",
+  "name": "चेत सबेरे बावरे, फिर पाछे पछिताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wake up early, foolish one, or you will regret it later. Your destination is far, says Kabir, so understand this now.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चेत सबेरे बावरे, फिर पाछे पछिताय।।\nताको जाना दूर है, कहैं कबीर बुझाय।।८७२।।",
+    "translation": "Wake up early, foolish one, or you will regret it later. Your destination is far, says Kabir, so understand this now.",
+    "meaning": "बावरे, सुबह जल्दी उठ जाओ, वरना बाद में पछताओगे। तुम्हारा गंतव्य दूर है, कबीर कहते हैं, इसलिए इसे अब समझ लो।",
+    "explanation": "कबीर इस दोहे में आलस्य और टालमटोल की आदतों पर कटाक्ष करते हैं। वे समझाते हैं कि समय रहते चेत जाना चाहिए, अन्यथा जीवन का रास्ता कठिन और लंबा हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.351Z"
+  }
+}

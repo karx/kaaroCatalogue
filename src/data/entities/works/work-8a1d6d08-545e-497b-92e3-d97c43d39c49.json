@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8a1d6d08-545e-497b-92e3-d97c43d39c49",
+  "name": "सब बन तो तुलसी भई, परबत सालिगराम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All the forests have become holy like Tulsi, all mountains like Shaligram, and all rivers like the Ganga, when one realizes the divine in the soul.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब बन तो तुलसी भई, परबत सालिगराम।\nसब नदियां गंगा भई, जाना आतम राम।।१३८०।।",
+    "translation": "All the forests have become holy like Tulsi, all mountains like Shaligram, and all rivers like the Ganga, when one realizes the divine in the soul.",
+    "meaning": "जब व्यक्ति आत्मा में राम को पहचान लेता है, तो सभी वन तुलसी के समान, सभी पर्वत सालिगराम के समान, और सभी नदियां गंगा के समान पवित्र हो जाती हैं।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जब व्यक्ति अपने आत्मा में ईश्वर को पहचान लेता है, तो उसके लिए हर जगह पवित्र हो जाती है। फिर वह हर वन में तुलसी, हर पर्वत में सालिगराम, और हर नदी में गंगा की पवित्रता देखता है। यह दोहा हमें सिखाता है कि सच्ची भक्ति और आत्मज्ञान से ही जीवन के हर पहलू में पवित्रता और दिव्यता का अनुभव किया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.088Z"
+  }
+}

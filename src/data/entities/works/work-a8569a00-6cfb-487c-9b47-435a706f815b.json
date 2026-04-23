@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a8569a00-6cfb-487c-9b47-435a706f815b",
+  "name": "Latter-Day Psalms",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-nissim-ezekiel"
+  },
+  "inLanguage": "English",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Latter-Day_Psalms",
+    "retrievedAt": "2026-01-04T18:39:37.094Z"
+  }
+}

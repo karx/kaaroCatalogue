@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-80a569e8-96c9-4ca5-bfd8-d90146c52e74",
+  "name": "हाड़ जरत जैसे लाकरी, केस जरे जैसे घास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as wood burns and hair burns like grass, Kabir says, the essence of Ram burns, and the mansion burns like cotton.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हाड़ जरत जैसे लाकरी, केस जरे जैसे घास।\nकबीरा जरे रामरस, कोठी जरे कपास।।१७१४।।",
+    "translation": "Just as wood burns and hair burns like grass, Kabir says, the essence of Ram burns, and the mansion burns like cotton.",
+    "meaning": "जैसे लकड़ी जलती है और बाल घास की तरह जलते हैं, कबीर कहते हैं, राम का रस जलता है और महल कपास की तरह जलता है।",
+    "explanation": "कबीर इस दोहे में भौतिक और आध्यात्मिक बुनियादी असत्यता की बात करते हैं। उन्होंने कहा कि आध्यात्मिक सत्य और भौतिक वस्त्र दोनों ही अंततः जलते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.070Z"
+  }
+}

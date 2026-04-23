@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-8racp",
+  "name": "CAN’T BELIEVE MY MOTHER CALLED ME THIS | STAND UP COMEDY| SUMUKHI SURESH",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT53S",
+  "embedUrl": "https://www.youtube.com/embed/_t5lpZc8u48",
+  "contentUrl": "https://www.youtube.com/watch?v=_t5lpZc8u48",
+  "uploadDate": "2023-03-21",
+  "thumbnailUrl": "https://i.ytimg.com/vi/_t5lpZc8u48/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "What lies were you told when you were growing up?",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

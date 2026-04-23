@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4f27e35-6017-44b1-95bf-b3646a1a17c8",
+  "name": "कबीर सोई सूरिमा, मन सूँ मांडै झूझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the true warrior is the one who fights with his mind. He conquers the five senses and removes all duality.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सोई सूरिमा, मन सूँ मांडै झूझ।\nपंच पयादा पाड़ि ले, दूरि करै सब दूज।।२३३।।",
+    "translation": "Kabir says, the true warrior is the one who fights with his mind. He conquers the five senses and removes all duality.",
+    "meaning": "कबीर कहते हैं, सच्चा योद्धा वही है जो अपने मन से लड़ता है। वह पांच इंद्रियों को जीतता है और सभी द्वैत को समाप्त करता है।",
+    "explanation": "इस दोहे में कबीर सच्चे योद्धा की परिभाषा देते हैं। वे कहते हैं कि सच्चा योद्धा वह है जो अपने मन के भीतर की लड़ाई लड़ता है। वह अपने पांच इंद्रियों (काम, क्रोध, लोभ, मोह, अहंकार) पर विजय पाता है और अपने जीवन से सभी द्वैत (द्वेष, भेदभाव, और भ्रम) को दूर करता है। यह आध्यात्मिक विजय का प्रतीक है, जिसे आत्म-संयम और जागरूकता के माध्यम से प्राप्त किया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

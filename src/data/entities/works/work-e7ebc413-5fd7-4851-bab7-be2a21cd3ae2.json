@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e7ebc413-5fd7-4851-bab7-be2a21cd3ae2",
+  "name": "har haqiqat majaz ho jae",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/har-haqiiqat-majaaz-ho-jaae-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.209Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/har-haqiiqat-majaaz-ho-jaae-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nhar haqīqat majāz ho jaa.e\nkāfiroñ kī namāz ho jaa.e\ndil rahīn-e-niyāz ho jaa.e\nbekasī kārsāz ho jaa.e\nminnat-e-chāra-sāz kaun kare\ndard jab jāñ-navāz ho jaa.e\nishq dil meñ rahe to rusvā ho\nlab pe aa.e to raaz ho jaa.e\nlutf kā intizār kartā huuñ\njaur tā hadd-e-nāz ho jaa.e\numr be-sūd kaT rahī hai 'faiz'\nkaash ifshā-e-rāz ho jaa.e\nhar haqiqat majaz ho jae\nkafiron ki namaz ho jae\ndil rahin-e-niyaz ho jae\nbekasi karsaz ho jae\nminnat-e-chaara-saz kaun kare\ndard jab jaan-nawaz ho jae\nishq dil mein rahe to ruswa ho\nlab pe aae to raaz ho jae\nlutf ka intizar karta hun\njaur ta hadd-e-naz ho jae\numr be-sud kaT rahi hai 'faiz'\nkash ifsha-e-raaz ho jae",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nہر حقیقت مجاز ہو جائے\nکافروں کی نماز ہو جائے\nدل رہین نیاز ہو جائے\nبیکسی کارساز ہو جائے\nمنت چارہ ساز کون کرے\nدرد جب جاں نواز ہو جائے\nعشق دل میں رہے تو رسوا ہو\nلب پہ آئے تو راز ہو جائے\nلطف کا انتظار کرتا ہوں\nجور تا حد ناز ہو جائے\nعمر بے سود کٹ رہی ہے فیضؔ\nکاش افشائے راز ہو جائے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nहर हक़ीक़त मजाज़ हो जाए\nकाफ़िरों की नमाज़ हो जाए\nदिल रहीन-ए-नियाज़ हो जाए\nबेकसी कारसाज़ हो जाए\nमिन्नत-ए-चारा-साज़ कौन करे\nदर्द जब जाँ-नवाज़ हो जाए\nइश्क़ दिल में रहे तो रुस्वा हो\nलब पे आए तो राज़ हो जाए\nलुत्फ़ का इंतिज़ार करता हूँ\nजौर ता हद्द-ए-नाज़ हो जाए\nउम्र बे-सूद कट रही है 'फ़ैज़'\nकाश इफ़शा-ए-राज़ हो जाए",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:09.156Z"
+  }
+}

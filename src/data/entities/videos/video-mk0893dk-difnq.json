@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0893dk-difnq",
+  "name": "GOA & PENGUINS | Standup Comedy | Sorabh Pant",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sorabh-pant"
+  },
+  "duration": "PT10M18S",
+  "embedUrl": "https://www.youtube.com/embed/vZDyEZXqZVs",
+  "contentUrl": "https://www.youtube.com/watch?v=vZDyEZXqZVs",
+  "uploadDate": "2020-03-30",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vZDyEZXqZVs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Sorabh has tried making plans with his friends to travel and it's gone down some weird teritories. Involving penguins and worse. \nIf you enjoyed this, do support (no pressure) so I can make more things for you: http://paypal.me/pantonfire OR http://instamojo.com/pantonfire",
+  "channelTitle": "Sorabh Pant",
+  "aggregatorChannel": null
+}

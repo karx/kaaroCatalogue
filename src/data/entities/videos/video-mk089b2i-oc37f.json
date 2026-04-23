@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089b2i-oc37f",
+  "name": "The Karthik Story Ft. Rahul",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rahul-subramanian"
+  },
+  "duration": "PT5M15S",
+  "embedUrl": "https://www.youtube.com/embed/1yM6r0knAhQ",
+  "contentUrl": "https://www.youtube.com/watch?v=1yM6r0knAhQ",
+  "uploadDate": "2021-07-02",
+  "thumbnailUrl": "https://i.ytimg.com/vi/1yM6r0knAhQ/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Send this video to the Karthik in your life! \n\nThis video is a part of the Random Live where Rahul and Kumar Varun were joined by  Kenny Sebastian and  Rohan Joshi as they discussed kids!\n\nYou can watch the entire live video here - https://youtu.be/fP-5OQpikD0\n\nYou can also catch some other clips of",
+  "channelTitle": "Random Chikibum",
+  "aggregatorChannel": null
+}

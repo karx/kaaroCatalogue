@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-752d5d1a-5e7e-4fbf-9ba6-f57f2ec5987e",
+  "name": "बिन सद्गुरु बाचै नहीं, फिर बूड़े भव मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without the True Guru, one cannot escape the cycle of birth and death. The True Guru holds your hand to save you from the fear of the worldly ocean.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिन सद्गुरु बाचै नहीं, फिर बूड़े भव मांहि।\nभौसागर की त्रास से, सतगुरु पकड़े बाहि।।४९९।।",
+    "translation": "Without the True Guru, one cannot escape the cycle of birth and death. The True Guru holds your hand to save you from the fear of the worldly ocean.",
+    "meaning": "सतगुरु के बिना, व्यक्ति जन्म और मृत्यु के चक्र से नहीं बच सकता। सतगुरु आपके हाथ को पकड़कर संसार के भय से बचाते हैं।",
+    "explanation": "यह दोहा बताता है कि जीवन के भौतिक संसार के भय और जन्म-मृत्यु के चक्र से बचने के लिए सतगुरु की आवश्यकता होती है। सतगुरु हमें मार्गदर्शन प्रदान करते हैं और इस संसार के डर से हमें बचाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.198Z"
+  }
+}

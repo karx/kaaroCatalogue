@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-harsh-gujral",
+  "name": "Harsh Gujral",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "hi",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Harsh_Gujral",
+    "https://www.youtube.com/channel/UCGmhWgV9bmslB0Levatl6qA"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Harsh_Gujral",
+    "retrievedAt": "2026-01-04T21:12:15.340Z"
+  }
+}

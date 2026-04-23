@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-rekhta-1767558367745-g243a",
+  "name": "kabhi ai haqiqat-e-muntazar nazar aa libas-e-majaz mein",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-allama-iqbal"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/kabhii-ai-haqiiqat-e-muntazar-nazar-aa-libaas-e-majaaz-men-allama-iqbal-ghazals",
+    "retrievedAt": "2026-01-04T20:26:07.745Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/kabhii-ai-haqiiqat-e-muntazar-nazar-aa-libaas-e-majaaz-men-allama-iqbal-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nkabhī ai haqīqat-e-muntazar nazar aa libās-e-majāz meñ\nki hazāroñ sajde taḌap rahe haiñ mirī jabīn-e-niyāz meñ\ntarab-āshnā-e-ḳharosh ho tū navā hai mahram-e-gosh ho\nvo sarod kyā ki chhupā huā ho sukūt-e-parda-e-sāz meñ\ntū bachā bachā ke na rakh ise tirā aa.ina hai vo aa.ina\nki shikasta ho to azīz-tar hai nigāh-e-ā.īna-sāz meñ\ndam-e-tauf kirmak-e-sham.a ne ye kahā ki vo asar-e-kuhan\nna tirī hikāyat-e-soz meñ na mirī hadīs-e-gudāz meñ\nna kahīñ jahāñ meñ amaañ milī jo amaañ milī to kahāñ milī\nmire jurm-e-ḳhāna-ḳharāb ko tire afv-e-banda-navāz meñ\nna vo ishq meñ rahīñ garmiyāñ na vo husn meñ rahīñ shoḳhiyāñ\nna vo ġhaznavī meñ taḌap rahī na vo ḳham hai zulf-e-ayāz maiñ\njo maiñ sar-ba-sajda huā kabhī to zamīñ se aane lagī sadā\ntirā dil to hai sanam-āshnā tujhe kyā milegā namāz meñ\nkabhi ai haqiqat-e-muntazar nazar aa libas-e-majaz mein\nki hazaron sajde taDap rahe hain meri jabin-e-niyaz mein\ntarab-ashna-e-KHarosh ho tu nawa hai mahram-e-gosh ho\nwo sarod kya ki chhupa hua ho sukut-e-parda-e-saz mein\ntu bacha bacha ke na rakh ise tera aaina hai wo aaina\nki shikasta ho to aziz-tar hai nigah-e-aina-saz mein\ndam-e-tauf kirmak-e-shama ne ye kaha ki wo asar-e-kuhan\nna teri hikayat-e-soz mein na meri hadis-e-gudaz mein\nna kahin jahan mein aman mili jo aman mili to kahan mili\nmere jurm-e-KHana-KHarab ko tere afw-e-banda-nawaz mein\nna wo ishq mein rahin garmiyan na wo husn mein rahin shoKHiyan\nna wo ghaznawi mein taDap rahi na wo KHam hai zulf-e-ayaz main\njo main sar-ba-sajda hua kabhi to zamin se aane lagi sada\ntera dil to hai sanam-ashna tujhe kya milega namaz mein",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nکبھی اے حقیقت منتظر نظر آ لباس مجاز میں\nکہ ہزاروں سجدے تڑپ رہے ہیں مری جبین نیاز میں\nطرب آشنائے خروش ہو تو نوا ہے محرم گوش ہو\nوہ سرود کیا کہ چھپا ہوا ہو سکوت پردۂ ساز میں\nتو بچا بچا کے نہ رکھ اسے ترا آئنہ ہے وہ آئنہ\nکہ شکستہ ہو تو عزیز تر ہے نگاہ آئنہ ساز میں\nدم طوف کرمک شمع نے یہ کہا کہ وہ اثر کہن\nنہ تری حکایت سوز میں نہ مری حدیث گداز میں\nنہ کہیں جہاں میں اماں ملی جو اماں ملی تو کہاں ملی\nمرے جرم خانہ خراب کو ترے عفو بندہ نواز میں\nنہ وہ عشق میں رہیں گرمیاں نہ وہ حسن میں رہیں شوخیاں\nنہ وہ غزنوی میں تڑپ رہی نہ وہ خم ہے زلف ایاز میں\nجو میں سر بہ سجدہ ہوا کبھی تو زمیں سے آنے لگی صدا\nترا دل تو ہے صنم آشنا تجھے کیا ملے گا نماز میں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nकभी ऐ हक़ीक़त-ए-मुंतज़र नज़र आ लिबास-ए-मजाज़ में\nकि हज़ारों सज्दे तड़प रहे हैं मिरी जबीन-ए-नियाज़ में\nतरब-आशना-ए-ख़रोश हो तू नवा है महरम-ए-गोश हो\nवो सरोद क्या कि छुपा हुआ हो सुकूत-ए-पर्दा-ए-साज़ में\nतू बचा बचा के न रख इसे तिरा आइना है वो आइना\nकि शिकस्ता हो तो अज़ीज़-तर है निगाह-ए-आइना-साज़ में\nदम-ए-तौफ़ किरमक-ए-शम्अ ने ये कहा कि वो असर-ए-कुहन\nन तिरी हिकायत-ए-सोज़ में न मिरी हदीस-ए-गुदाज़ में\nन कहीं जहाँ में अमाँ मिली जो अमाँ मिली तो कहाँ मिली\nमिरे जुर्म-ए-ख़ाना-ख़राब को तिरे अफ़्व-ए-बंदा-नवाज़ में\nन वो इश्क़ में रहीं गर्मियाँ न वो हुस्न में रहीं शोख़ियाँ\nन वो ग़ज़नवी में तड़प रही न वो ख़म है ज़ुल्फ़-ए-अयाज़ मैं\nजो मैं सर-ब-सज्दा हुआ कभी तो ज़मीं से आने लगी सदा\nतिरा दिल तो है सनम-आश्ना तुझे क्या मिलेगा नमाज़ में",
+    "lastUpdated": "2026-01-04T20:26:14.284Z"
+  }
+}

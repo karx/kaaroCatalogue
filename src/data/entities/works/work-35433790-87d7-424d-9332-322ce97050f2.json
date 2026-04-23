@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-35433790-87d7-424d-9332-322ce97050f2",
+  "name": "Rashmirathi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dinkar"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Rashmirathi",
+    "retrievedAt": "2026-01-04T18:39:29.087Z"
+  }
+}

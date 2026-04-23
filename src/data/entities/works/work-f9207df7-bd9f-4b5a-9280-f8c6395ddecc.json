@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f9207df7-bd9f-4b5a-9280-f8c6395ddecc",
+  "name": "garmi-e-shauq-e-nazara ka asar to dekho",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/garmi-e-shauq-e-nazaaraa-kaa-asar-to-dekho-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.211Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/garmi-e-shauq-e-nazaaraa-kaa-asar-to-dekho-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ngarmī-e-shauq-e-nazārā kā asar to dekho\ngul khile jaate haiñ vo sāya-e-tar to dekho\naise nādāñ bhī na the jaañ se guzarne vaale\nnāseho pand-garo rāhguzar to dekho\nvo to vo hai tumheñ ho jā.egī ulfat mujh se\nik nazar tum mirā mahbūb-e-nazar to dekho\nvo jo ab chaak garebāñ bhī nahīñ karte haiñ\ndekhne vaalo kabhī un kā jigar to dekho\ndāman-e-dard ko gulzār banā rakkhā hai\naao ik din dil-e-pur-ḳhūñ kā hunar to dekho\nsub.h kī tarah jhamaktā hai shab-e-ġham kā ufuq\n'faiz' tābindagī-e-dīda-e-tar to dekho\ngarmi-e-shauq-e-nazara ka asar to dekho\ngul khile jate hain wo saya-e-tar to dekho\naise nadan bhi na the jaan se guzarne wale\nnaseho pand-garo rahguzar to dekho\nwo to wo hai tumhein ho jaegi ulfat mujh se\nek nazar tum mera mahbub-e-nazar to dekho\nwo jo ab chaak gareban bhi nahin karte hain\ndekhne walo kabhi un ka jigar to dekho\ndaman-e-dard ko gulzar bana rakkha hai\naao ek din dil-e-pur-KHun ka hunar to dekho\nsubh ki tarah jhamakta hai shab-e-gham ka ufuq\n'faiz' tabindagi-e-dida-e-tar to dekho",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nگرمئ شوق نظارہ کا اثر تو دیکھو\nگل کھلے جاتے ہیں وہ سایۂ تر تو دیکھو\nایسے ناداں بھی نہ تھے جاں سے گزرنے والے\nناصحو پند گرو راہ گزر تو دیکھو\nوہ تو وہ ہے تمہیں ہو جائے گی الفت مجھ سے\nاک نظر تم مرا محبوب نظر تو دیکھو\nوہ جو اب چاک گریباں بھی نہیں کرتے ہیں\nدیکھنے والو کبھی ان کا جگر تو دیکھو\nدامن درد کو گلزار بنا رکھا ہے\nآؤ اک دن دل پر خوں کا ہنر تو دیکھو\nصبح کی طرح جھمکتا ہے شب غم کا افق\nفیضؔ تابندگیٔ دیدۂ تر تو دیکھو",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nगर्मी-ऐ-शौक़-ऐ-नज़ारा का असर तो देखो\nगुल खिले जाते हैं वो साया-ए-तर तो देखो\nऐसे नादाँ भी न थे जाँ से गुज़रने वाले\nनासेहो पंद-गरो राहगुज़र तो देखो\nवो तो वो है तुम्हें हो जाएगी उल्फ़त मुझ से\nइक नज़र तुम मिरा महबूब-ए-नज़र तो देखो\nवो जो अब चाक गरेबाँ भी नहीं करते हैं\nदेखने वालो कभी उन का जिगर तो देखो\nदामन-ए-दर्द को गुलज़ार बना रक्खा है\nआओ इक दिन दिल-ए-पुर-ख़ूँ का हुनर तो देखो\nसुब्ह की तरह झमकता है शब-ए-ग़म का उफ़ुक़\n'फ़ैज़' ताबिंदगी-ए-दीदा-ए-तर तो देखो",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:55.006Z"
+  }
+}

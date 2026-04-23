@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7158cf2a-32de-4f5c-b75f-761a278cdccd",
+  "name": "सतगुरु सम को है सगा, साधु सम को दात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The True Guru is like a relative to all, a benefactor to saints. He is like the Lord in his love, and equal to all the devotees.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु सम को है सगा, साधु सम को दात।\nहरि समान को है हितु, हरिजन सम को जात।।५०४।।",
+    "translation": "The True Guru is like a relative to all, a benefactor to saints. He is like the Lord in his love, and equal to all the devotees.",
+    "meaning": "सतगुरु सभी के लिए एक रिश्तेदार की तरह हैं, साधुओं के लिए एक दाता हैं। वे भगवान के समान प्रेम में हैं और सभी भक्तों के लिए समान हैं।",
+    "explanation": "इस दोहे में कबीर दास ने सतगुरु की विशिष्टता और उनके स्नेह को बताया है। सतगुरु सभी के लिए एक रिश्तेदार की तरह होते हैं और साधुओं के लिए एक दाता की भूमिका निभाते हैं। वे भगवान की तरह सभी के प्रति समान प्रेम और स्नेह दिखाते हैं, और हर भक्त के लिए समान रूप से देखभाल करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.463Z"
+  }
+}

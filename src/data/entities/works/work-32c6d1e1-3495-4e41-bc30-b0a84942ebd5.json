@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-32c6d1e1-3495-4e41-bc30-b0a84942ebd5",
+  "name": "सूर सीस उतारिया, छाड़ा तन की आस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "By bowing down, the head is offered, leaving aside the desires of the body. Ahead is the realm of the Lord; thus, the servant sees the Lord coming.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूर सीस उतारिया, छाड़ा तन की आस।\nआगैं थैं हरि मुलकिया, आवत देख्‍या दास।।१९२७।।",
+    "translation": "By bowing down, the head is offered, leaving aside the desires of the body. Ahead is the realm of the Lord; thus, the servant sees the Lord coming.",
+    "meaning": "सिर को झुका कर अर्पित किया गया, शरीर की इच्छाओं को छोड़कर। आगे भगवान का क्षेत्र है; इस प्रकार, दास भगवान को आते हुए देखता है।",
+    "explanation": "इस दोहे में कबीरदास जी यह बताते हैं कि जब व्यक्ति अपने शरीर की इच्छाओं को त्याग कर पूरी श्रद्धा के साथ भगवान के प्रति समर्पित होता है, तो वह भगवान के क्षेत्र में प्रवेश करता है और भगवान को अपने निकट अनुभव करता है। यह दोहा समर्पण और भक्ति की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.251Z"
+  }
+}

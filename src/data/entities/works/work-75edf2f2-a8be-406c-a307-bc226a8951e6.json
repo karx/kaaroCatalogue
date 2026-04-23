@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75edf2f2-a8be-406c-a307-bc226a8951e6",
+  "name": "जदि का माइ जनमियां, कहूं न पाया सुख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If in my birth I did not attain happiness, I wander from branch to branch, finding sorrow everywhere.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जदि का माइ जनमियां, कहूं न पाया सुख।\nडाली डाली मैं फिरौं, पातौं पातौं दुख।।१९०५।।",
+    "translation": "If in my birth I did not attain happiness, I wander from branch to branch, finding sorrow everywhere.",
+    "meaning": "यदि मेरे जन्म में सुख नहीं मिला, तो मैं एक डाल से दूसरी डाल पर भटकता हूँ और हर जगह दुख ही पाता हूँ।",
+    "explanation": "इस दोहे में कबीरदास जी जीवन की कठिनाइयों और निराशा का वर्णन करते हैं। वे कहते हैं कि अगर जीवन में सुख नहीं मिलता, तो व्यक्ति हर जगह दुख ही अनुभव करता है। यह दोहा इस बात का संकेत है कि सुख की प्राप्ति जीवन की एक महत्वपूर्ण आवश्यकता है और जब यह नहीं मिलता, तो जीवन में निरंतर संघर्ष और दुख बना रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.245Z"
+  }
+}

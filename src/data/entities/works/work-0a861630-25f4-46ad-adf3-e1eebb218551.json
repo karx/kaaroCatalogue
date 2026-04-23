@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a861630-25f4-46ad-adf3-e1eebb218551",
+  "name": "काजर की ही होठरी, बुड़ा ई संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This world is like a room full of soot, and everyone is drowning in it. Praise be to the one who can enter and come out unscathed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजर की ही होठरी, बुड़ा ई संसार।\nबलिहारी ताहि पुरुष की, पैठि जु निकलनि हार।।१४७९।।",
+    "translation": "This world is like a room full of soot, and everyone is drowning in it. Praise be to the one who can enter and come out unscathed.",
+    "meaning": "यह संसार काजल की कोठरी की तरह है, और इसमें सभी डूब रहे हैं। उस व्यक्ति की प्रशंसा करो जो इसमें प्रवेश कर बिना दाग लगे बाहर आ सके।",
+    "explanation": "इस दोहे में कबीर संसार को काजल की कोठरी के रूप में दर्शाते हैं, जो बुराई और माया से भरी हुई है। ऐसे संसार में रहकर भी जो व्यक्ति अपने आप को इन बुराइयों से बचा सकता है और बिना किसी दाग के बाहर आ सकता है, वही सच्चा ज्ञानी है। इस दोहे में कबीर ने सच्चे संत की महत्ता का वर्णन किया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.658Z"
+  }
+}

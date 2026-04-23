@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-363e728f-11a4-41a8-bc7c-a87ddcc47643",
+  "name": "भक्ति महल बहु ऊंच है, दूरहि ते दरशाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion is a grand palace, shown from afar. Anyone who practices devotion, its glory cannot be described.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति महल बहु ऊंच है, दूरहि ते दरशाय।\nजो कोई जन भक्ति करे, शोभा बरनि न जाय।।७०९।।",
+    "translation": "Devotion is a grand palace, shown from afar. Anyone who practices devotion, its glory cannot be described.",
+    "meaning": "भक्ति एक शानदार महल है, जो दूर से ही दिखता है। जो कोई भक्ति करता है, उसकी महिमा को शब्दों में नहीं व्यक्त किया जा सकता।",
+    "explanation": "इस दोहे में कबीर भक्ति को एक बहुत ऊंचे और शाही महल की तरह बताते हैं, जो दूर से ही देखने पर उसकी महानता का अहसास होता है। भक्ति की वास्तविकता और उसकी सुंदरता इतनी गहरी है कि शब्दों में उसका वर्णन नहीं किया जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

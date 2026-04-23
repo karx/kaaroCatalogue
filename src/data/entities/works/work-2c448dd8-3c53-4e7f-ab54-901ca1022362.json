@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2c448dd8-3c53-4e7f-ab54-901ca1022362",
+  "name": "पीपर एक महा गभानी, वाकी मर्म कोई नहिं जा‍न",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The peepal tree is very profound, and no one understands its essence. Though it extends its branches, it bears no fruit. The Lord's blessings are numerous in the peepal.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पीपर एक महा गभानी, वाकी मर्म कोई नहिं जा‍न।\nडार लंबाये फल कोइ नहीं पाय, खसम अक्षत बहु पीपरे जाय।।१५९५।।",
+    "translation": "The peepal tree is very profound, and no one understands its essence. Though it extends its branches, it bears no fruit. The Lord's blessings are numerous in the peepal.",
+    "meaning": "पीपल का पेड़ बहुत गहरा है, और कोई भी इसके सार को नहीं समझता। हालांकि इसके शाखाएं लंबी होती हैं, यह फल नहीं देता। भगवान की आशीर्वाद पीपल में बहुत हैं।",
+    "explanation": "कबीर इस दोहे में पीपल के पेड़ की गहराई और उसके फल न देने की बात करते हैं। उन्होंने बताया है कि पीपल का पेड़ जितना गहरा और रहस्यमय होता है, कोई भी उसकी वास्तविकता को समझ नहीं पाता। हालांकि इसके शाखाएं लंबी होती हैं और भगवान की आशीर्वाद बहुत होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.213Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "entityId": "poet-kuvempu",
+  "name": "Kuvempu",
+  "@type": "Person",
+  "knowsLanguage": "Kannada",
+  "era": "Modern",
+  "century": "20th Century",
+  "titles": [
+    "Rashtrakavi of Karnataka"
+  ],
+  "award": [
+    "Jnanpith Award (1967)"
+  ],
+  "keywords": [
+    "Sri Ramayana Darshanam",
+    "Vishwa Manava",
+    "Universalism"
+  ],
+  "abstract": "The first Kannada Jnanpith laureate. His Sri Ramayana Darshanam reinterprets the Ramayana with a universalist vision (Vishwa Manava), where even Ravana attains salvation.",
+  "majorWorks": [
+    "Sri Ramayana Darshanam"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kuvempu"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kuvempu",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

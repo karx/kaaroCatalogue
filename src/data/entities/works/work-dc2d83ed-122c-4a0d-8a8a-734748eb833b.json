@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc2d83ed-122c-4a0d-8a8a-734748eb833b",
+  "name": "बिरहण‍ि थी तौ क्‍यूं रही, जली न पीव के नालि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why did the separation persist if it was there? It did not burn with the beloved. I remain bewildered, enduring the pain of love, which does not let shame die.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरहण‍ि थी तौ क्‍यूं रही, जली न पीव के नालि।\nरहु रहु मुगध गहेलड़ी, प्रेम न लाजूं मारि।।१७७१।।",
+    "translation": "Why did the separation persist if it was there? It did not burn with the beloved. I remain bewildered, enduring the pain of love, which does not let shame die.",
+    "meaning": "यदि विरह था तो क्यों बनी रही? यह प्रिय के साथ नहीं जली। मैं भटकी हुई हालत में रह गया हूँ, प्रेम की पीड़ा सहते हुए, जो शर्म को समाप्त नहीं होने देती।",
+    "explanation": "इस दोहे में कबीर ने विरह की स्थायिता और प्रेम की पीड़ा को व्यक्त किया है। कबीर पूछते हैं कि अगर विरह था, तो वह प्रिय के साथ क्यों नहीं जलता? यह स्थिति उन्हें उलझन में डालती है, और प्रेम की पीड़ा का अनुभव उन्हें शर्म को खत्म नहीं करने देती। यह दोहा प्रेम की गहराई और उसकी निरंतरता की व्याख्या करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.349Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b7d6aa96-1ff4-41c4-a369-d86e547b921a",
+  "name": "आचारी सब जग मिला, बीचारी नहिं कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is full of those who follow rituals, but there is no one who truly contemplates. Those without a guru in their hearts live a wasted life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आचारी सब जग मिला, बीचारी नहिं कोय।\nजाके हिरदै गुरु नहीं, जिया अकारथ सोय।।१३९२।।",
+    "translation": "The world is full of those who follow rituals, but there is no one who truly contemplates. Those without a guru in their hearts live a wasted life.",
+    "meaning": "दुनिया में आचार (रीति-रिवाज) का पालन करने वाले तो बहुत मिलते हैं, लेकिन सच्चे चिंतन करने वाले कोई नहीं हैं। जिनके हृदय में गुरु नहीं हैं, उनका जीवन व्यर्थ है।",
+    "explanation": "कबीर इस दोहे में आचार और विचार के बीच का अंतर स्पष्ट करते हैं। वे कहते हैं कि केवल आचरण करने से जीवन सफल नहीं होता, सच्चे विचार और चिंतन की आवश्यकता है। जिनके दिल में गुरु की शिक्षा नहीं है, उनका जीवन निरर्थक है। यह दोहा हमें सच्चे गुरु की आवश्यकता और उसके मार्गदर्शन के महत्व को समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.091Z"
+  }
+}

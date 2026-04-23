@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4ade52e7-bdb9-42a1-b086-d9a1fa6cf8b4",
+  "name": "कबीर कवल प्रकासिया, ऊग्‍या निर्मल सूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the lotus is illuminated, the pure sun has risen. The darkness of the night has been dispelled, and the unstruck drum (Anhad) is playing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कवल प्रकासिया, ऊग्‍या निर्मल सूर।\nनिस अंधयारी मिटि गई, बाजे अनहद तूर।।१८२३।।",
+    "translation": "Kabir, the lotus is illuminated, the pure sun has risen. The darkness of the night has been dispelled, and the unstruck drum (Anhad) is playing.",
+    "meaning": "कबीर, कमल का फूल प्रकाशित हो गया है, शुद्ध सूरज उग चुका है। रात का अंधकार मिट गया है, और अनहद डमरू बज रहा है।",
+    "explanation": "इस दोहे में कबीर ने दिव्य प्रकाश और मुक्ति के प्रतीकों की बात की है। कमल का फूल और शुद्ध सूरज दिव्य प्रकाश का प्रतीक हैं, जबकि रात का अंधकार और अनहद डमरू मुक्ति और आत्मज्ञान का संकेत है। यह अनुभव आत्मिक शांति और दिव्य उपस्थिति का प्रतिनिधित्व करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.626Z"
+  }
+}

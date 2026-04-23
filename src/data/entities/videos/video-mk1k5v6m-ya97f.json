@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5v6m-ya97f",
+  "name": "ABHISHEK UPMANYU |Two Watches, Gym, Article  - Standup Comedy By Abhishek Upmanyu | Trash",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-abhishek-upmanyu"
+  },
+  "duration": "PT10M13S",
+  "embedUrl": "https://www.youtube.com/embed/2o5u159w_uI",
+  "contentUrl": "https://www.youtube.com/watch?v=2o5u159w_uI",
+  "uploadDate": "2021-05-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/2o5u159w_uI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "All the throwaway jokes that I had put on Instagram compiled and uploaded here.",
+  "channelTitle": "Abhishek Upmanyu",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-39080ec3-616c-47c0-bfee-e8b59cb66013",
+  "name": "सतगुरु हमसों रीझि कै, कह्यौ एक परसंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true Guru, who was pleased with us, recounted a tale. Like the raincloud showering love, every part of the body got drenched in it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु हमसों रीझि कै, कह्यौ एक परसंग।\nबरषै बादल प्रेम को, भींजि गयो सब अंग।।५१०।।",
+    "translation": "The true Guru, who was pleased with us, recounted a tale. Like the raincloud showering love, every part of the body got drenched in it.",
+    "meaning": "सतगुरु, जो हमसे प्रसन्न थे, ने एक कथा सुनाई। जैसे प्रेम की वर्षा करने वाला बादल होता है, वैसे ही शरीर के हर अंग को उस प्रेम में भिगो दिया।",
+    "explanation": "कबीर इस दोहे में सतगुरु की प्रेममयता को वर्णित करते हैं, जो एक कथा के माध्यम से प्रेम की वर्षा करते हैं। यह प्रेम हर अंग में समा जाता है, जैसे बारिश से हर जगह पानी फैल जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

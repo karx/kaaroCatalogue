@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0aca6083-62d0-4d10-8026-97acfd3b9a40",
+  "name": "भक्ति भाव भादौ नदी, सबहि चली घहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The feeling of devotion flows like the river in the rainy season, widespread and abundant. The river that flows in the summer is truly commendable.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति भाव भादौ नदी, सबहि चली घहराय।\nसरिता सोई सराहिये, जेठ मास ठहराय।।६९९।।",
+    "translation": "The feeling of devotion flows like the river in the rainy season, widespread and abundant. The river that flows in the summer is truly commendable.",
+    "meaning": "भक्ति का भाव भादौ की नदी की तरह बहता है, सब जगह फैलता और प्रचुर मात्रा में होता है। जो नदी ग्रीष्म ऋतु में बहती है, वही वास्तव में सराहनीय होती है।",
+    "explanation": "इस दोहे में कबीर भक्ति के स्थायित्व और समर्पण की तुलना नदी के प्रवाह से करते हैं। वे कहते हैं कि भक्ति का भाव बारिश के मौसम की नदी की तरह होता है, जो सभी जगह फैलता है और प्रचुर मात्रा में होता है। वहीं, गर्मी के मौसम में बहने वाली नदी सच्ची सराहनीय होती है। इसका मतलब है कि सच्ची भक्ति स्थायी और निरंतर होनी चाहिए। यह दोहा भक्ति की गहराई और स्थायित्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

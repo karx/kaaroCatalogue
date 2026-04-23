@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f1643ccf-eae1-4609-abd4-0ba96f6f52f7",
+  "name": "कामी अमी न भावई, विष को लेवै सोध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The desirous person does not enjoy nectar; he investigates poison. Ignorant thoughts do not affect the soul, as if they are like the highest nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामी अमी न भावई, विष को लेवै सोध।\nकुबुधि न भाजै जीव की, भावै ज्‍यों परमोध।।१२२८।।",
+    "translation": "The desirous person does not enjoy nectar; he investigates poison. Ignorant thoughts do not affect the soul, as if they are like the highest nectar.",
+    "meaning": "कामी व्यक्ति अमृत को पसंद नहीं करता, वह विष का परीक्षण करता है। अज्ञानी विचार आत्मा को प्रभावित नहीं करते, जैसे वे परम अमृत के समान हों।",
+    "explanation": "इस दोहे में कबीर ने कामी व्यक्ति की प्रवृत्तियों को और अज्ञानी विचारों के आत्मा पर प्रभाव को दर्शाया है। कामी व्यक्ति अमृत की बजाय विष पर ध्यान देता है, और अज्ञानी विचार आत्मा को प्रभावित नहीं करते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.271Z"
+  }
+}

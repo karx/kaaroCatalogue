@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15e73a0c-0419-4517-b7f6-ec3e110043eb",
+  "name": "पेटे में भक्ति करै, ताका नाम सपूत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who practices devotion from the heart is called a true son. Those who are engrossed in materialism act foolishly and face downfall.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पेटे में भक्ति करै, ताका नाम सपूत।\nमायाधारी मसखरैं, लेते गये अऊत।।४१४।।",
+    "translation": "One who practices devotion from the heart is called a true son. Those who are engrossed in materialism act foolishly and face downfall.",
+    "meaning": "जो व्यक्ति ह्रदय से भक्ति करता है, वही सच्चा सपूत कहलाता है। जो लोग माया (भौतिक वस्तुओं) में लिप्त रहते हैं, वे मूर्खतापूर्ण आचरण करते हैं और उनका पतन होता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि सच्चा सपूत वह है जो अपने पेटे (अंतरात्मा) में भक्ति करता है, यानी सच्चे मन से भक्ति करता है। इसके विपरीत, जो लोग माया में लिप्त रहते हैं और भक्ति का दिखावा करते हैं, वे मूर्खता करते हैं और अंततः पतन को प्राप्त होते हैं। यह दोहा हमें यह सिखाता है कि सच्ची भक्ति आंतरिक होती है और इसे भौतिक वस्तुओं से प्रभावित नहीं होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

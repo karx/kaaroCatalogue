@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-155b9589-1d52-46f9-9b36-576688fcd4ee",
+  "name": "करता था तो क्‍यौं रहा, अब करि क्‍यौं पछताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why did you remain idle when you had the time, why regret now? If you sowed a babool tree, how can you expect to eat mangoes?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करता था तो क्‍यौं रहा, अब करि क्‍यौं पछताय।\nबोवै पेड़ बबूल का, आम कहां ते खाय।।९६६।।",
+    "translation": "Why did you remain idle when you had the time, why regret now? If you sowed a babool tree, how can you expect to eat mangoes?",
+    "meaning": "जब समय था, तब तुमने कुछ नहीं किया, अब क्यों पछता रहे हो? अगर तुमने बबूल का पेड़ बोया है, तो आम कैसे खा सकते हो?",
+    "explanation": "इस दोहे में कबीर दास जी कर्म के महत्व और उसके परिणामों की बात करते हैं। वह कहते हैं कि जब समय था, तब आपने कुछ नहीं किया, और अब जब परिणाम सामने आ रहा है, तो पछताने का कोई अर्थ नहीं है। यदि आपने बबूल का पेड़ बोया है, तो आपको आम की उम्मीद नहीं करनी चाहिए। इस दोहे के माध्यम से वह हमें सिखाते हैं कि जो भी कर्म हम करते हैं, उसका परिणाम भी वैसा ही होता है। इसलिए, सोच-समझकर और सही समय पर सही कर्म करना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

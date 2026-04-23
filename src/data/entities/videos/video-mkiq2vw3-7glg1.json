@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-7glg1",
+  "name": "Khatri ke Khiladi #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT1M30S",
+  "embedUrl": "https://www.youtube.com/embed/QPqXD0Iii8g",
+  "contentUrl": "https://www.youtube.com/watch?v=QPqXD0Iii8g",
+  "uploadDate": "2025-08-08",
+  "thumbnailUrl": "https://i.ytimg.com/vi/QPqXD0Iii8g/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

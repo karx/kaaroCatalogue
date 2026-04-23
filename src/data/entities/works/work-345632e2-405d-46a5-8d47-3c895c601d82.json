@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-345632e2-405d-46a5-8d47-3c895c601d82",
+  "name": "हीरा तहां न खोलिए, जहं कुंजरो की हाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not reveal the diamond where elephants are traded. Securely bind it and follow your own path.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हीरा तहां न खोलिए, जहं कुंजरो की हाट।\nसहजे गांठो बांधिये, लगिए अपनी बाट।।१७१७।।",
+    "translation": "Do not reveal the diamond where elephants are traded. Securely bind it and follow your own path.",
+    "meaning": "हीरा उस जगह न दिखाओ जहां हाथियों का व्यापार होता है। इसे सुरक्षित रूप से बांधो और अपनी राह पर चलो।",
+    "explanation": "कबीर इस दोहे में मूल्य और विवेक की बात करते हैं। उन्होंने कहा कि महत्वपूर्ण चीज़ों को उचित स्थान पर ही रखें और अपनी राह पर चलें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.071Z"
+  }
+}

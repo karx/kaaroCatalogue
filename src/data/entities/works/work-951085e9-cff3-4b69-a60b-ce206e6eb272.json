@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-951085e9-cff3-4b69-a60b-ce206e6eb272",
+  "name": "ऊंचे कुल में जनमिया, देह धरी अस्‍थूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Born in a high lineage, having a gross body, one does not reach the Supreme Being. The great and beautiful flowers do not bloom in such a place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचे कुल में जनमिया, देह धरी अस्‍थूल।\nपार ब्रह्म को ना चढ़े, वास विहूना फूल।।१२८०।।",
+    "translation": "Born in a high lineage, having a gross body, one does not reach the Supreme Being. The great and beautiful flowers do not bloom in such a place.",
+    "meaning": "उच्च कुल में जन्म लेकर भी, यदि शरीर स्थूल है, तो वह पार ब्रह्म तक नहीं पहुँचता। ऐसे व्यक्ति के लिए सुंदर और महान फूल खिलते नहीं हैं।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि ऊंचे कुल में जन्म लेकर भी, अगर शरीर और मन स्थूल और अशुद्ध हैं, तो व्यक्ति परम ब्रह्म तक नहीं पहुँच सकता। इसका तात्पर्य है कि बाहरी उच्चता से अधिक महत्वपूर्ण आंतरिक शुद्धता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.546Z"
+  }
+}

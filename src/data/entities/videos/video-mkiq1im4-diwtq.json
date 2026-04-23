@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq1im4-diwtq",
+  "name": "Indian Elections - Stand-up Comedy by Varun Grover",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-varun-grover"
+  },
+  "duration": "PT10M26S",
+  "embedUrl": "https://www.youtube.com/embed/sy0T-M-4too",
+  "contentUrl": "https://www.youtube.com/watch?v=sy0T-M-4too",
+  "uploadDate": "2019-09-17",
+  "thumbnailUrl": "https://i.ytimg.com/vi/sy0T-M-4too/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Elections 2019 mein alag hi level ka mazaak chal raha tha. Performed this bit in Aazaadi Tour in Mumbai in May 2019.\n\nVideo shot & edited by : Class Clown Productions (Mumbai)",
+  "channelTitle": "Varun Grover",
+  "aggregatorChannel": null
+}

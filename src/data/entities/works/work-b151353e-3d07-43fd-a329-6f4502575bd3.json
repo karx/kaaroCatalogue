@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b151353e-3d07-43fd-a329-6f4502575bd3",
+  "name": "कबिर चुनता कन फिरै, हीरा पाया बाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir picks grains, found a jewel on the path. Not knowing its worth, he took it to the market.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिर चुनता कन फिरै, हीरा पाया बाट।\nताको मरम न जानिया, ले खलि खाई हाट।।२१५९।।",
+    "translation": "Kabir picks grains, found a jewel on the path. Not knowing its worth, he took it to the market.",
+    "meaning": "कबीर अनाज चुनता है, रास्ते में एक हीरा पाया। उसकी कीमत न जानकर, उसने उसे बाजार में ले लिया।",
+    "explanation": "इस दोहे में कबीर ने यह दर्शाया है कि कैसे अनजाने में मिली चीज़ों का मूल्य हम तब तक नहीं समझते जब तक हम उन्हें सही तरीके से नहीं परखते। हीरा मिलना और उसका मूल्य न जानना दर्शाता है कि केवल प्राप्त वस्तु का मूल्य जानना ही काफी नहीं है, बल्कि उसकी सही पहचान और उपयोग भी महत्वपूर्ण है। यह दोहा हमें सतर्क रहने और वस्तुओं के वास्तविक मूल्य को समझने की आवश्यकता की याद दिलाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.722Z"
+  }
+}

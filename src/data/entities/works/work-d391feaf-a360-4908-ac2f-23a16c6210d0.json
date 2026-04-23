@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d391feaf-a360-4908-ac2f-23a16c6210d0",
+  "name": "कबिरा तोरा मान गढ, लूटी पांचों खान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's honor is like a fortress, plundered by five enemies. Knowledge is the axe and action is the field, cutting away the obstacles.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा तोरा मान गढ, लूटी पांचों खान।\nज्ञान कुहाड़ी कर्म बन, काटि किया मैदान।।२१४०।।",
+    "translation": "Kabir's honor is like a fortress, plundered by five enemies. Knowledge is the axe and action is the field, cutting away the obstacles.",
+    "meaning": "कबीर की मान की तुलना एक किले से की गई है, जिसे पांच शत्रुओं ने लूटा है। ज्ञान कुल्हाड़ी के समान है और कर्म मैदान है, जो अड़चनों को काटता है।",
+    "explanation": "इस दोहे में कबीर ने मान और सम्मान की तुलना एक किले से की है, जिसे कई समस्याएं लूट लेती हैं। ज्ञान को कुल्हाड़ी की तरह मानते हुए, कबीर ने कर्म को एक ऐसा मैदान कहा है जहां ज्ञान के उपयोग से रुकावटों को काटा जा सकता है। यह दोहा जीवन की कठिनाइयों और उनके समाधान की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.370Z"
+  }
+}

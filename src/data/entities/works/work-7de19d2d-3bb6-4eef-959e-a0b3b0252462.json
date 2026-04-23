@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7de19d2d-3bb6-4eef-959e-a0b3b0252462",
+  "name": "ई मन चंचल ई मन चोर, ई मन शुद्ध ठगहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This mind is restless, this mind is a thief, and this mind is a pure swindler. Even saints, sages, and deities speak of the mind as the door to all goals.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ई मन चंचल ई मन चोर, ई मन शुद्ध ठगहार।\nमनमनम कहत सुर नर मुनि जहंड़े, मन के लक्ष दुआर।।१४५६।।",
+    "translation": "This mind is restless, this mind is a thief, and this mind is a pure swindler. Even saints, sages, and deities speak of the mind as the door to all goals.",
+    "meaning": "यह मन चंचल है, यह मन चोर है, यह मन शुद्ध ठग है। यहाँ तक कि देवता, मनुष्य और ऋषि भी मन को सभी लक्ष्यों के द्वार के रूप में बताते हैं।",
+    "explanation": "कबीर इस दोहे में मन की चंचलता और उसकी शक्ति का वर्णन कर रहे हैं। उनका कहना है कि मन बहुत चालाक और धोखेबाज होता है, और यही कारण है कि संत, ऋषि और देवता भी इसे संभालने की बात करते हैं। मन ही वह द्वार है जो हमें हमारे जीवन के लक्ष्यों तक पहुँचाता है। अगर मन को नियंत्रित कर लिया जाए तो सारे लक्ष्यों को हासिल किया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.654Z"
+  }
+}

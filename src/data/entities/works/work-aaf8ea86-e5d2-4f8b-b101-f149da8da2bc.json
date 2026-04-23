@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aaf8ea86-e5d2-4f8b-b101-f149da8da2bc",
+  "name": "नाम रसायन प्रेम रस, पीवत अधिक रसाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The essence of the name is the nectar of love; drinking it makes one feel more delightful. Kabir says drinking this nectar is rare; it requires the offering of one's head.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाम रसायन प्रेम रस, पीवत अधिक रसाल।\nकबीर पीवन दुर्लभ है, मांगै शीश कमाल।।७९९।।",
+    "translation": "The essence of the name is the nectar of love; drinking it makes one feel more delightful. Kabir says drinking this nectar is rare; it requires the offering of one's head.",
+    "meaning": "नाम का रस प्रेम का अमृत है; इसे पीने से अधिक आनंद मिलता है। कबीर कहते हैं कि यह अमृत पीना दुर्लभ है; इसके लिए सिर की पेशकश करनी होती है।",
+    "explanation": "इस दोहे में कबीर ने नाम के अमृत और प्रेम के रस के महत्व को बताया है। प्रेम का अमृत पीने से आत्मा को गहरी संतोष और आनंद मिलता है। इस अमृत को प्राप्त करना अत्यंत दुर्लभ है और इसके लिए पूर्ण समर्पण और आत्म-बलिदान की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.819Z"
+  }
+}

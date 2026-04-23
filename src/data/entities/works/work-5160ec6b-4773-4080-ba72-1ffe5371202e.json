@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5160ec6b-4773-4080-ba72-1ffe5371202e",
+  "name": "पाव पलक की सुधि नहीं, करै काल का साज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No attention is paid to the feet or eyelids; time makes its arrangement. Time will strike suddenly, like a hawk on a partridge.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाव पलक की सुधि नहीं, करै काल का साज।\nकाल अचानक मारसी, ज्‍यौं तीतर को बाज।।९१०।।",
+    "translation": "No attention is paid to the feet or eyelids; time makes its arrangement. Time will strike suddenly, like a hawk on a partridge.",
+    "meaning": "पांव और पलक की सुधि नहीं ली जाती; समय अपने तरीके से कार्य करता है। समय अचानक हमला करता है, जैसे बाज तीतर पर हमला करता है।",
+    "explanation": "कबीर इस दोहे में मृत्यु की अचानकता और उसके परिणामों की बात करते हैं। वे बताते हैं कि हम अपने शरीर के महत्वपूर्ण हिस्सों की अनदेखी कर सकते हैं, लेकिन समय (मृत्यु) अपनी व्यवस्था स्वयं करता है। समय अचानक और अप्रत्याशित तरीके से आ सकता है, जैसे बाज तीतर पर हमला करता है। इस दोहे के माध्यम से कबीर हमें मृत्यु की अनिश्चितता और उसकी तैयारी के महत्व को समझाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.624Z"
+  }
+}

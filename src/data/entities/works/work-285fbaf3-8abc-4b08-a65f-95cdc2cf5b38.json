@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-285fbaf3-8abc-4b08-a65f-95cdc2cf5b38",
+  "name": "ऊँचा मन्दिर मेड़िया, चला कली ढुलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The temple is high, with steep stairs; but the path of devotion is slippery. Without the Guru's name, one can easily fall into chaos.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊँचा मन्दिर मेड़िया, चला कली ढुलाय।\nएकहिं गुरु के नाम बिन, जदि तदि परलय जाय।।४२५।।",
+    "translation": "The temple is high, with steep stairs; but the path of devotion is slippery. Without the Guru's name, one can easily fall into chaos.",
+    "meaning": "मंदिर ऊँचा है, सीढ़ियाँ भी खड़ी हैं; लेकिन भक्ति का मार्ग फिसलन भरा है। गुरु के नाम के बिना, कोई भी आसानी से अराजकता में गिर सकता है।",
+    "explanation": "कबीर इस दोहे में भक्ति के मार्ग की कठिनाई और गुरु के महत्व को बताते हैं। वह कहते हैं कि भक्ति का मार्ग कठिन और फिसलन भरा है, और बिना गुरु के नाम के, कोई भी इस मार्ग पर संतुलन खो सकता है। यह दोहा हमें यह सिखाता है कि गुरु के मार्गदर्शन के बिना भक्ति का सही मार्ग अपनाना मुश्किल है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

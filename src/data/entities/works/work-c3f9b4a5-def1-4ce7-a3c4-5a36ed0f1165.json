@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c3f9b4a5-def1-4ce7-a3c4-5a36ed0f1165",
+  "name": "चहुं दिस ठाढ़े सूरमा, हाथ मिले हथियार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Warriors stand ready in all directions, weapons in hand. Yet, even they watch as Death takes their body away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चहुं दिस ठाढ़े सूरमा, हाथ मिले हथियार।\nसबही यह तन देखता, काल ले गया मार।।१०५४।।",
+    "translation": "Warriors stand ready in all directions, weapons in hand. Yet, even they watch as Death takes their body away.",
+    "meaning": "चारों दिशाओं में योद्धा हथियार लिए खड़े हैं। फिर भी, वे देखते हैं कि मृत्यु उनके शरीर को ले जाती है।",
+    "explanation": "इस दोहे में कबीर संसार की नश्वरता और मृत्यु की शक्ति को वर्णित करते हैं। वे कहते हैं कि भले ही योद्धा हर दिशा में हथियार लिए खड़े हों, लेकिन जब मृत्यु आती है, तो वे कुछ नहीं कर सकते। यह जीवन की नश्वरता और मृत्यु के अपरिहार्य सत्य का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.424Z"
+  }
+}

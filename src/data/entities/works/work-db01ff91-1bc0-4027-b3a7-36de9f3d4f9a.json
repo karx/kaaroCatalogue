@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db01ff91-1bc0-4027-b3a7-36de9f3d4f9a",
+  "name": "na kisi pe zaKHm ayan koi na kisi ko fikr rafu ki hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/na-kisii-pe-zakhm-ayaan-koii-na-kisii-ko-fikr-rafuu-kii-hai-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.214Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/na-kisii-pe-zakhm-ayaan-koii-na-kisii-ko-fikr-rafuu-kii-hai-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nna kisī pe zaḳhm ayaañ koī na kisī ko fikr rafū kī hai\nna karam hai ham pe habīb kā na nigāh ham pe adū kī hai\nsaf-e-zāhidāñ hai to be-yaqīñ saf-e-mai-kashāñ hai to be-talab\nna vo sub.h vird-o-vazū kī hai na vo shaam jām-o-subū kī hai\nna ye ġham nayā na sitam nayā ki tirī jafā kā gilā kareñ\nye nazar thī pahle bhī muztarib ye kasak to dil meñ kabhū kī hai\nkaf-e-bāġhbāñ pe bahār-e-gul kā hai qarz pahle se besh-tar\nki har ek phuul ke pairahan meñ numūd mere lahū kī hai\nnahīñ ḳhauf-e-roz-e-siyah hameñ ki hai 'faiz' zarf-e-nigāh meñ\nabhī gosha-gīr vo ik kiran jo lagan us ā.īna-rū kī hai\nna kisi pe zaKHm ayan koi na kisi ko fikr rafu ki hai\nna karam hai hum pe habib ka na nigah hum pe adu ki hai\nsaf-e-zahidan hai to be-yaqin saf-e-mai-kashan hai to be-talab\nna wo subh wird-o-wazu ki hai na wo sham jam-o-subu ki hai\nna ye gham naya na sitam naya ki teri jafa ka gila karen\nye nazar thi pahle bhi muztarib ye kasak to dil mein kabhu ki hai\nkaf-e-baghban pe bahaar-e-gul ka hai qarz pahle se besh-tar\nki har ek phul ke pairahan mein numud mere lahu ki hai\nnahin KHauf-e-roz-e-siyah hamein ki hai 'faiz' zarf-e-nigah mein\nabhi gosha-gir wo ek kiran jo lagan us aaina-ru ki hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nنہ کسی پہ زخم عیاں کوئی نہ کسی کو فکر رفو کی ہے\nنہ کرم ہے ہم پہ حبیب کا نہ نگاہ ہم پہ عدو کی ہے\nصف زاہداں ہے تو بے یقیں صف مے کشاں ہے تو بے طلب\nنہ وہ صبح ورد و وضو کی ہے نہ وہ شام جام و سبو کی ہے\nنہ یہ غم نیا نہ ستم نیا کہ تری جفا کا گلا کریں\nیہ نظر تھی پہلے بھی مضطرب یہ کسک تو دل میں کبھو کی ہے\nکف باغباں پہ بہار گل کا ہے قرض پہلے سے بیشتر\nکہ ہر ایک پھول کے پیرہن میں نمود میرے لہو کی ہے\nنہیں خوف روز سیہ ہمیں کہ ہے فیضؔ ظرف نگاہ میں\nابھی گوشہ گیر وہ اک کرن جو لگن اس آئینہ رو کی ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nन किसी पे ज़ख़्म अयाँ कोई न किसी को फ़िक्र रफ़ू की है\nन करम है हम पे हबीब का न निगाह हम पे अदू की है\nसाफ़-ए-ज़ाहिदाँ है तो बे-यक़ीं सफ़-ए-मै-कशाँ है तो बे-तलब\nन वो सुब्ह विर्द-ओ-वुज़ू की है न वो शाम जाम-ओ-सुबू की है\nन ये ग़म नया न सितम नया कि तिरी जफ़ा का गिला करें\nये नज़र थी पहले भी मुज़्तरिब ये कसक तो दिल में कभू की है\nकफ़-ए-बाग़बाँ पे बहार-ए-गुल का है क़र्ज़ पहले से बेश-तर\nकि हर एक फूल के पैरहन में नुमूद मेरे लहू की है\nनहीं ख़ौफ़-ए-रोज़-ए-सियह हमें कि है 'फ़ैज़' ज़र्फ़-ए-निगाह में\nअभी गोशा-गीर वो इक किरन जो लगन उस आईना-रू की है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:51:07.074Z"
+  }
+}

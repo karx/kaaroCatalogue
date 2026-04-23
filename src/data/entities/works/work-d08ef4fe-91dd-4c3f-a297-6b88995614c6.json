@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d08ef4fe-91dd-4c3f-a297-6b88995614c6",
+  "name": "कबीर खाई कोट की, पाणी पीवे न कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir speaks of eating hundreds of pots but finding no one to drink the water. When one meets the Ganga, all becomes sanctified.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर खाई कोट की, पाणी पीवे न कोइ।\nआई मिलै जब गंग मैं, तब सब गंगोदिक होइ।।२०१५।।",
+    "translation": "Kabir speaks of eating hundreds of pots but finding no one to drink the water. When one meets the Ganga, all becomes sanctified.",
+    "meaning": "कबीर ने सैकड़ों बर्तनों का भोजन किया लेकिन पानी पीने वाला कोई नहीं मिला। जब गंगा मिलती है, तब सब कुछ पवित्र हो जाता है।",
+    "explanation": "इस दोहे में कबीर ने पवित्रता और आत्मा की स्थिति की बात की है। उन्होंने कहा है कि भले ही कोई बहुत कुछ खा ले, अगर उसे पवित्र पानी (गंगा) नहीं मिलता, तो कुछ भी लाभ नहीं होता। गंगा से मिलने पर सब कुछ पवित्र और शुद्ध हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.803Z"
+  }
+}

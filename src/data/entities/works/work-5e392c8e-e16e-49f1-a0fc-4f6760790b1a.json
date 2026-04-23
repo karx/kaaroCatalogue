@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5e392c8e-e16e-49f1-a0fc-4f6760790b1a",
+  "name": "बंधे को बंधा मिला, छूटै कौन उपाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bound one finds bondage, who has the means to escape? Serve the unbound, and in a moment, you will be freed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बंधे को बंधा मिला, छूटै कौन उपाय।\nकर सेवा निरबंध की, पल में लेत छुड़ाय।।५३०।।",
+    "translation": "The bound one finds bondage, who has the means to escape? Serve the unbound, and in a moment, you will be freed.",
+    "meaning": "बंधन में बंधा हुआ व्यक्ति बंधन ही पाता है, मुक्ति का कोई उपाय नहीं है। निरबन्ध की सेवा करो, पल में मुक्ति मिल जाएगी।",
+    "explanation": "इस दोहे में कबीर जी यह बताना चाहते हैं कि जो व्यक्ति बंधन में है, उसे बंधन ही मिलेगा और मुक्ति का कोई साधन नहीं है। इस बंधन से मुक्ति पाने के लिए निरबन्ध (निर्भरता रहित) की सेवा करनी चाहिए, जिससे पल भर में बंधन से मुक्ति मिल जाएगी।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

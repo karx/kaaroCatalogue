@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-r95z9",
+  "name": "Papa CJ roasts the audience - full stand-up comedy show",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT37M42S",
+  "embedUrl": "https://www.youtube.com/embed/cFUyC8jYh-E",
+  "contentUrl": "https://www.youtube.com/watch?v=cFUyC8jYh-E",
+  "uploadDate": "2018-03-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/cFUyC8jYh-E/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "linktr.ee/papacj is where links to all my work and social media are. Hope you enjoy this extremely interactive show.",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

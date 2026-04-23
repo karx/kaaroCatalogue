@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c49e426c-17b9-4f92-96a6-285d110d6c20",
+  "name": "दस द्वारे का पिंजरा, ता में पंछी का कौन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is like a cage with ten doors, where the soul resides. It is surprising when it stays, and more surprising when it leaves.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दस द्वारे का पिंजरा, ता में पंछी का कौन।\nरहे को अचरज है, गए अचम्भा कौन।।१९।।",
+    "translation": "The body is like a cage with ten doors, where the soul resides. It is surprising when it stays, and more surprising when it leaves.",
+    "meaning": "शरीर दस दरवाजों वाला पिंजरा है, जिसमें आत्मा रहती है। यह आश्चर्यजनक है जब आत्मा रहती है, और इससे भी अधिक आश्चर्य होता है जब वह इसे छोड़ देती है।",
+    "explanation": "यह दोहा शरीर और आत्मा के संबंध को दर्शाता है। संत कबीर शरीर को एक पिंजरे के रूप में देखते हैं जिसमें आत्मा बंधी होती है। वह कहते हैं कि यह आश्चर्यजनक है कि आत्मा इस पिंजरे में रहती है, और यह और भी आश्चर्य की बात है जब आत्मा इस शरीर को छोड़ देती है। यह हमें आत्मा की अमरता और शरीर की नश्वरता को समझने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.820Z"
+  }
+}

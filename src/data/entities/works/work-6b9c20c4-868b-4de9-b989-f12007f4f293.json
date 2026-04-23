@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6b9c20c4-868b-4de9-b989-f12007f4f293",
+  "name": "तन को जोगी सब करै, मन को करैं न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone can practice physical asceticism, but no one practices mental discipline. The true achievement is attained effortlessly by those who discipline the mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन को जोगी सब करै, मन को करैं न कोय।\nसहजै सब सिधि पाइये, जो मन जोगी होय।।६३८।।",
+    "translation": "Everyone can practice physical asceticism, but no one practices mental discipline. The true achievement is attained effortlessly by those who discipline the mind.",
+    "meaning": "हर कोई शारीरिक तपस्या कर सकता है, लेकिन मन की तपस्या कोई नहीं करता। सच्ची सिद्धि सहज रूप से उन लोगों को मिलती है जो मन की साधना करते हैं।",
+    "explanation": "सच्ची साधना और उपलब्धि तब प्राप्त होती है जब व्यक्ति अपने मन को अनुशासित करता है। शारीरिक साधना से ज्यादा महत्वपूर्ण है मानसिक साधना।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.003Z"
+  }
+}

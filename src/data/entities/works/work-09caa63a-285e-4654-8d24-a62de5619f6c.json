@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-09caa63a-285e-4654-8d24-a62de5619f6c",
+  "name": "प्रेम छिपाया ना छिपै, जा घट परघट होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Love cannot be hidden; it becomes apparent wherever the body is. If the mouth does not speak, the eyes still reveal it through tears.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम छिपाया ना छिपै, जा घट परघट होय।\nजो पै मुख बोलै नहीं, नैन देत हैं रोय।।८०१।।",
+    "translation": "Love cannot be hidden; it becomes apparent wherever the body is. If the mouth does not speak, the eyes still reveal it through tears.",
+    "meaning": "प्रेम को छिपाया नहीं जा सकता; यह जहां भी शरीर होता है, प्रकट हो जाता है। यदि मुख नहीं बोलता, तो आंखें भी इसे आंसुओं के माध्यम से प्रकट कर देती हैं।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की स्वाभाविकता को दर्शाया है। प्रेम को छिपाया नहीं जा सकता और यह व्यक्ति के हर अंग से प्रकट होता है। जब शब्दों से व्यक्त नहीं किया जा सकता, तो आंसू भी प्रेम की गहराई को दर्शाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.077Z"
+  }
+}

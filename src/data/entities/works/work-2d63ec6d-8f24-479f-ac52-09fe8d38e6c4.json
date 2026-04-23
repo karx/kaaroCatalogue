@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d63ec6d-8f24-479f-ac52-09fe8d38e6c4",
+  "name": "Vikramōrvaśīyam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Vikramōrvaśīyam",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

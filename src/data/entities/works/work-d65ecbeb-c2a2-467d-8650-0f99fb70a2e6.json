@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d65ecbeb-c2a2-467d-8650-0f99fb70a2e6",
+  "name": "कबीर माला मन की, और संसारी भेष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the true rosary is that of the mind, not just wearing worldly attire. If wearing a rosary brings Hari, then watch the oil press go round and round.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माला मन की, और संसारी भेष।\nमाला पहरयां हरि मिलै, तौ अरहट कै गलि देखि।।२१६।।",
+    "translation": "Kabir says, the true rosary is that of the mind, not just wearing worldly attire. If wearing a rosary brings Hari, then watch the oil press go round and round.",
+    "meaning": "कबीर कहते हैं, असली माला मन की होती है, न कि सिर्फ सांसारिक वेशभूषा। अगर माला पहनने से हरि मिलते, तो देखो अरहट (तेल निकालने का यंत्र) भी हरि तक पहुँच जाता।",
+    "explanation": "कबीर इस दोहे में बाहरी आडंबरों के प्रति सचेत करते हैं। वे कहते हैं कि मन की शुद्धता और भक्ति ही वास्तविक साधना है, केवल माला पहनने और सांसारिक वस्त्र धारण करने से कुछ नहीं होता। यदि केवल बाहरी दिखावे से भगवान मिलते, तो तेल निकालने वाली अरहट भी प्रभु तक पहुँच जाती, जो संभव नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

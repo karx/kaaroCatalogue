@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-48fe35f9-6014-4370-9ce6-a7e670e28cc5",
+  "name": "विरहिनि साजी आरती, दर्शन दीजे राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The woman in separation performs the ritual, asking for the sight of Ram. Once she is dead, what is the use of the sight?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विरहिनि साजी आरती, दर्शन दीजे राम।\nमूये दर्शन देहुगे, आवत कवने काम।।१६७३।।",
+    "translation": "The woman in separation performs the ritual, asking for the sight of Ram. Once she is dead, what is the use of the sight?",
+    "meaning": "विरहिणी आरती कर रही है, राम के दर्शन की प्रार्थना कर रही है। जब वह मर जाएगी, तो दर्शन का क्या उपयोग होगा?",
+    "explanation": "कबीर इस दोहे में भक्ति और वास्तविकता की बात करते हैं। उन्होंने कहा कि जब एक व्यक्ति मृत्यु को प्राप्त करता है, तो भक्ति के दर्शन का कोई महत्व नहीं रह जाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.788Z"
+  }
+}

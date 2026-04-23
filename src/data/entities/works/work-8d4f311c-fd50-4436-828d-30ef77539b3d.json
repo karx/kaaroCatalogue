@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8d4f311c-fd50-4436-828d-30ef77539b3d",
+  "name": "समुझाये समुझे नहीं, पर हाथ आप बिकाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One tries to explain but is not understood, while oneself is sold in the process. I pull myself along, yet it leads to the city of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "समुझाये समुझे नहीं, पर हाथ आप बिकाय।\nमैं खींचत हौं आपु को, चला सो जमपुर जाय।।१६९२।।",
+    "translation": "One tries to explain but is not understood, while oneself is sold in the process. I pull myself along, yet it leads to the city of death.",
+    "meaning": "कोई समझाने की कोशिश करता है लेकिन समझा नहीं जाता, जबकि स्वयं उस प्रक्रिया में बिक जाता है। मैं स्वयं को खींचता हूँ, फिर भी यह मृत्यु के नगर में जाता है।",
+    "explanation": "कबीर इस दोहे में समझ और आत्म-व्याख्या की बात करते हैं। उन्होंने कहा कि समझाना कठिन है और इसमें खुद को खोना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.791Z"
+  }
+}

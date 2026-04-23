@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-17a56803-e5a7-49d2-b80a-58d02efed02f",
+  "name": "Gitanjali",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "retrievedAt": "2026-02-05T19:43:57.976Z"
+  },
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Collection of poems, Song Offerings, which won the Nobel Prize.",
+  "keywords": []
+}

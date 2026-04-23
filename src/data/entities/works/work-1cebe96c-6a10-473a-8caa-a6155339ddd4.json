@@ -1,0 +1,23 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1cebe96c-6a10-473a-8caa-a6155339ddd4",
+  "name": "Shayad",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-b90af278-c831-40f8-8ff9-028ec1fc28ea"
+  },
+  "inLanguage": "Urdu",
+  "dateCreated": "1991",
+  "genre": "Poetry Collection",
+  "abstract": "The first and most famous collection of Jaun Elia's poetry. It established his unique voice of skepticism and nihilism in Urdu literature.",
+  "keywords": [
+    "Ghazal",
+    "Nazm",
+    "Philosophy"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ebooks/shayad-jaun-eliya-ebooks",
+    "retrievedAt": "2025-05-22T10:00:00.000Z"
+  }
+}

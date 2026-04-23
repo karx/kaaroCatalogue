@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-064c3ac6-1966-43c6-83f1-00cf43a445ac",
+  "name": "कबीर का तूं चितवै, का तेरा चिंता होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir asks, why do you worry? What is there to be concerned about? The Lord takes care of everything, even if you don’t.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर का तूं चितवै, का तेरा चिंता होइ।\nअणध्‍यंत्‍या हरिजी करै, जो तोहि चिंत न होइ।।१८७४।।",
+    "translation": "Kabir asks, why do you worry? What is there to be concerned about? The Lord takes care of everything, even if you don’t.",
+    "meaning": "कबीर पूछते हैं, तुम क्यों चिंता करते हो? चिंता करने का क्या कारण है? ईश्वर सब कुछ संभाल लेते हैं, भले ही तुम न करो।",
+    "explanation": "कबीरदास जी इस दोहे में भगवान पर भरोसा रखने की बात कहते हैं। वे पूछते हैं कि मनुष्य क्यों चिंता करता है, जबकि सभी चीजें ईश्वर की इच्छा और कृपा से ही होती हैं। जब ईश्वर स्वयं हमारे जीवन की देखभाल कर रहे हैं, तो हमें किसी भी चीज़ की चिंता करने की आवश्यकता नहीं है। यह दोहा हमें निस्वार्थ भाव से भगवान पर भरोसा रखने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.973Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9caa79d9-2445-4696-a16b-1d10d952c773",
+  "name": "जोग ते जौहर भला, घरी एकका काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Asceticism and valor are good, but for a short time. Struggling for eight hours without interruption is like a battle without weapons.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जोग ते जौहर भला, घरी एकका काम।\nआठ पहरका जूझना, बिना खंडे संग्राम।।२१०९।।",
+    "translation": "Asceticism and valor are good, but for a short time. Struggling for eight hours without interruption is like a battle without weapons.",
+    "meaning": "योग और वीरता अच्छे हैं, लेकिन थोड़े समय के लिए। आठ घंटे बिना रुके संघर्ष करना, बिना हथियार के युद्ध के समान है।",
+    "explanation": "इस दोहे में कबीर ने योग और वीरता की सीमित अवधि को दर्शाया है और लंबे समय तक बिना किसी आराम के संघर्ष की वास्तविकता को उजागर किया है। योग और वीरता की अच्छाई एक सीमा तक है, लेकिन लगातार और निरंतर संघर्ष, जैसे कि आठ घंटे तक बिना रुके लड़ा जाए, यह अधिक महत्वपूर्ण और प्रभावशाली होता है। यह दोहा संघर्ष की वास्तविकता और कठिनाई को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.361Z"
+  }
+}

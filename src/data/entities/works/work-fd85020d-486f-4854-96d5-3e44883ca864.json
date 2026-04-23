@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd85020d-486f-4854-96d5-3e44883ca864",
+  "name": "पहिले यह मन कागा था, करता जीवन घात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Earlier this mind was like a crow, causing harm to life. Now the mind has become like a swan, consuming pearls one by one.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पहिले यह मन कागा था, करता जीवन घात।\nअब तो मन हंसा भया, मोती चुनि-चुनि खात।।११०७।।",
+    "translation": "Earlier this mind was like a crow, causing harm to life. Now the mind has become like a swan, consuming pearls one by one.",
+    "meaning": "पहले यह मन एक कौआ था, जो जीवन को हानि पहुँचाता था। अब यह मन एक हंस बन गया है, जो मोती चुन-चुन कर खाता है।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिति में परिवर्तन को वर्णित किया है। पहले मन को 'कौआ' कहा गया है, जो नकारात्मक और नुकसानदायक स्वभाव का प्रतीक है। लेकिन समय के साथ, मन 'हंस' में बदल गया है, जो शुद्ध और सकारात्मक गुणों को दर्शाता है। मोती चुन-चुन कर खाना यह दर्शाता है कि अब मन उच्च और शुभ विचारों को ग्रहण करता है। यह बदलाव साधना और आत्म-उन्नति का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.700Z"
+  }
+}

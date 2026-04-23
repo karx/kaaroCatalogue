@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d2a5d9eb-1320-4508-8841-360f4d623f9b",
+  "name": "जन कबीर बंदन करै, किस विधि कीजै सेव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The devotee Kabir asks, how can service be performed? There is no knowledge of crossing the barrier; thus, one should continuously bow to their own deity.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जन कबीर बंदन करै, किस विधि कीजै सेव।\nबार पार की गम नहीं, नमो नमो निज देव।।२२३५।।",
+    "translation": "The devotee Kabir asks, how can service be performed? There is no knowledge of crossing the barrier; thus, one should continuously bow to their own deity.",
+    "meaning": "भक्त कबीर पूछते हैं, सेवा कैसे की जाए? पार करने की जानकारी नहीं है; इसलिए, हमेशा अपने देवता को नमस्कार करना चाहिए।",
+    "explanation": "इस दोहे में कबीर जी यह पूछते हैं कि सही सेवा कैसे की जाए, जबकि पारगमन की कोई जानकारी नहीं है। उनका सुझाव है कि व्यक्ति को निरंतर अपने देवता को प्रणाम करना चाहिए। यह बताता है कि सच्ची भक्ति और सेवा में श्रद्धा और समर्पण महत्वपूर्ण है, और पारगमन की प्रक्रिया को समझने की बजाय अपने देवता की पूजा पर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.088Z"
+  }
+}

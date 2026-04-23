@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-765b5622-1fc1-4d4b-ad00-9ae9aa833d55",
+  "name": "दाता के तो धन घना, शूरा के शिर बीस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The donor has great wealth, the brave have twenty heads. The devoted wife’s body is proper, she protects her husband.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दाता के तो धन घना, शूरा के शिर बीस।\nपतिबरता के तन सही, पत राखै जगदीस।।२१०२।।",
+    "translation": "The donor has great wealth, the brave have twenty heads. The devoted wife’s body is proper, she protects her husband.",
+    "meaning": "दाता के पास बहुत सा धन होता है, वीरों के पास बीस सिर होते हैं। पतिव्रता का शरीर ठीक होता है, और वह अपने पति की रक्षा करती है।",
+    "explanation": "इस दोहे में कबीर ने दान और वीरता के बाहरी प्रतीकों की आलोचना की है और बताया है कि पतिव्रता का शरीर और उसकी भक्ति वास्तविक रूप से महत्वपूर्ण है। पतिव्रता की समर्पण और प्रेम उसके पति की रक्षा करता है, जो कि सबसे बड़ा मूल्य है। यह दोहा बाहरी गुणों की तुलना में आंतरिक गुणों की महत्वता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.360Z"
+  }
+}

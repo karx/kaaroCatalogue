@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57f24eed-0cfe-4cd1-afd8-c5b15bdbd378",
+  "name": "जेते तारे रैणि के, तेतै बैरी मुझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As many stars there are in the night, so many are my enemies. Even if my head is on the gallows, I will not forget you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जेते तारे रैणि के, तेतै बैरी मुझ।\nधड़ सूली सिर कंगुरै, तऊ न बिसारौ तुझ।।२३६।।",
+    "translation": "As many stars there are in the night, so many are my enemies. Even if my head is on the gallows, I will not forget you.",
+    "meaning": "जितने सितारे रात के आकाश में हैं, उतने ही मेरे शत्रु हैं। यदि मेरा सिर फांसी पर हो, तब भी मैं तुम्हें नहीं भूलूँगा।",
+    "explanation": "इस दोहे में कबीर भगवान के प्रति अपने अडिग प्रेम और समर्पण को व्यक्त करते हैं। वे कहते हैं कि भले ही उनके दुश्मनों की संख्या असंख्य हो, और वे कितनी भी कठिनाइयों का सामना करें, वे भगवान को कभी नहीं भूलेंगे। यह दोहा भक्ति और निष्ठा की शक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

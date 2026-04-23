@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2baed0dc-fb3a-45ee-90c4-925f66921f64",
+  "name": "सुरति करौ मेरे साइयां, हम हैं भोजन माहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O Lord, focus on us; we are the meal. If you do not hold on to us, we will leave on our own.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुरति करौ मेरे साइयां, हम हैं भोजन माहिं।\nआपे ही बहि जाहिंगे, जौ नहिं पकरौ बाहिं।।२५०।।",
+    "translation": "O Lord, focus on us; we are the meal. If you do not hold on to us, we will leave on our own.",
+    "meaning": "हे स्वामी, हमारे प्रति ध्यान केंद्रित करो; हम भोजन के समान हैं। यदि तुम हमें थामे नहीं रखोगे, तो हम स्वयं ही चले जाएंगे।",
+    "explanation": "कबीर इस दोहे में ईश्वर से अनुरोध करते हैं कि वे अपनी पूर्णता और ध्यान उनके प्रति केंद्रित करें। वे बताते हैं कि जैसे भोजन को पकड़े रखने की आवश्यकता होती है, वैसे ही ईश्वर को अपने भक्तों को थामे रहना चाहिए, अन्यथा वे अपने मार्ग पर निकल जाएंगे। यह दोहा भक्तिपूर्ण संबंध की गहराई और उसकी नाजुकता को व्यक्त करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.860Z"
+  }
+}

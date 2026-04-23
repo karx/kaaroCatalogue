@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d127c7d1-e30f-4b44-b871-83e23a19ac0b",
+  "name": "नांव न जांगौं गांव का, मारगि लागा जांऊं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I do not want to wander in the village by name; I want to walk on the path. Why wait until tomorrow to make a change, when it could be done today?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नांव न जांगौं गांव का, मारगि लागा जांऊं।\nकाल्हि जु काटा भाजिसी, पहिली क्‍यों न खड़ाऊं।।१४२४।।",
+    "translation": "I do not want to wander in the village by name; I want to walk on the path. Why wait until tomorrow to make a change, when it could be done today?",
+    "meaning": "मैं गांव के नाम से नहीं भटकना चाहता; मैं मार्ग पर चलना चाहता हूँ। क्यों कल तक इंतजार करें बदलाव के लिए, जब आज ही इसे किया जा सकता है?",
+    "explanation": "कबीर इस दोहे में जीवन की दिशा और तत्काल क्रियावली की बात करते हैं। वे कहते हैं कि वे नाम के लिए गांव में भटकना नहीं चाहते, बल्कि वे मार्ग पर चलना चाहते हैं। यह दोहा हमें तुरंत कार्रवाई की महत्वता की याद दिलाता है और परिवर्तन को कल पर छोड़ने की बजाय आज ही करने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.362Z"
+  }
+}

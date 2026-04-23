@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-47c943dc-2e82-4a53-b6fe-e32d00c1d5be",
+  "name": "अगम अगोचर गमि नहीं, तहां जगमगै जोति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The incomprehensible and invisible is where the light shines. Where Kabir practices devotion, there are no sins or merits.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अगम अगोचर गमि नहीं, तहां जगमगै जोति।\nजहां कबीरा बंदिगी, 'तहां' पाप पुन्‍य नहीं छोति।।१७८४।।",
+    "translation": "The incomprehensible and invisible is where the light shines. Where Kabir practices devotion, there are no sins or merits.",
+    "meaning": "जो अगम और अगोचर है, वहीं प्रकाश चमकता है। जहां कबीर भक्ति करता है, वहां न तो पाप होता है और न ही पुण्य।",
+    "explanation": "इस दोहे में कबीर ने अगम और अगोचर दिव्य की उपस्थिति को दर्शाया है। उन्होंने कहा है कि जहां कबीर भक्ति करता है, वहां पाप और पुण्य की कोई स्थिति नहीं होती। यह दोहा आध्यात्मिकता की गहरी समझ और उसकी अद्वितीयता को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.353Z"
+  }
+}

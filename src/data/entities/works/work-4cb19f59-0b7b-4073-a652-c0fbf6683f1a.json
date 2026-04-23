@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4cb19f59-0b7b-4073-a652-c0fbf6683f1a",
+  "name": "जिहि सर घड़ा न डूबता, अब मैंगल मलि मलि न्‍हाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The pitcher that does not sink in the pond, even if it repeatedly bathes in impurities, will eventually be destroyed by the pen of the divine writer, and the bird will depart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिहि सर घड़ा न डूबता, अब मैंगल मलि मलि न्‍हाइ।\nदेवल बूड़ा कलम सूं, पंषि तिसाई जाइ।।१९५५।।",
+    "translation": "The pitcher that does not sink in the pond, even if it repeatedly bathes in impurities, will eventually be destroyed by the pen of the divine writer, and the bird will depart.",
+    "meaning": "जिस घड़े का सर झील में डूबता नहीं, वह बार-बार मैल से स्नान करने के बावजूद, अंततः ईश्वरीय लेखक की कलम से नष्ट हो जाएगा, और पक्षी चले जाएंगे।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि जो व्यक्ति अपने अंदर की अस्थिरता और पापों से मुक्त नहीं होता, वह भले ही बाहरी शुद्धता की कोशिश करता रहे, अंततः उसकी वास्तविक स्थिति बदलती नहीं है। ईश्वरीय लेखनी (जो भाग्य और कर्म को नियंत्रित करती है) से उसकी स्थिति तय होती है और अंततः उसे भी अपने कर्मों के अनुसार परिणाम भोगने पड़ते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.528Z"
+  }
+}

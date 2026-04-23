@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a920f30f-1a51-4bfa-a7f6-9688397c5fb7",
+  "name": "बड़ा हुआ तो क्‍या हुआ, जोरे बड़ मति नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What is the use of being great if there is no wisdom? Like a flower that withers, greatness without wisdom is false.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बड़ा हुआ तो क्‍या हुआ, जोरे बड़ मति नांहि।\nजैसे फूल उजाड़ का, मिथ्‍या हो झड़ जांहि।।१२७५।।",
+    "translation": "What is the use of being great if there is no wisdom? Like a flower that withers, greatness without wisdom is false.",
+    "meaning": "बड़ा होना कोई मायने नहीं रखता अगर बुद्धि नहीं है। जैसे एक फूल जो मुरझा जाता है, वैसी बड़ाई बिना बुद्धि के मिथ्या हो जाती है।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि केवल बड़ा होना ही महत्वपूर्ण नहीं है, अगर उसमें बुद्धि नहीं है। जैसे एक फूल जो मुरझा जाता है, वैसी बड़ाई भी बिना बुद्धि के बेकार होती है। सच्ची महानता का मापदंड बुद्धि और समझ होना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.545Z"
+  }
+}

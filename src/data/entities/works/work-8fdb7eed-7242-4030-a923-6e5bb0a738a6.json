@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8fdb7eed-7242-4030-a923-6e5bb0a738a6",
+  "name": "खाय पकाय लुटाय ले, यह मनुवा मिजमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Eat, cook, and plunder, this is the nature of the host. Take what you want; this is the field of action.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खाय पकाय लुटाय ले, यह मनुवा मिजमान।\nलेना हो सो लेइ ले, यही गोय मैदान।।९४१।।",
+    "translation": "Eat, cook, and plunder, this is the nature of the host. Take what you want; this is the field of action.",
+    "meaning": "खाओ, पकाओ और लूटो, यही मेज़बान की प्रकृति है। जो लेना हो, ले लो; यही कार्यक्षेत्र है।",
+    "explanation": "कबीर इस दोहे में मानव स्वभाव की प्रकृति को दर्शाते हैं। उन्होंने कहा कि लोगों की स्वाभाविक प्रवृत्ति है कि वे खाने, पकाने और लूटने में लगे रहते हैं। यह दोहा हमें बताता है कि लोगों का व्यवहार इस प्रकार का होता है और हमें इसे समझना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.628Z"
+  }
+}

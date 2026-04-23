@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-384905e1-e20c-4a0f-af1b-259807838a46",
+  "name": "ऊंचा चढ़‍ि असमान कू, मेरु ऊलंघे ऊड़‍ि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Rising above the sky and crossing Mount Meru, all creatures, birds, and beings are immersed in this infinite realm.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचा चढ़‍ि असमान कू, मेरु ऊलंघे ऊड़‍ि।\nपशु पंषेरू जीव जंत, सब रहें मेर में बूड़‍ि।।१४२७।।",
+    "translation": "Rising above the sky and crossing Mount Meru, all creatures, birds, and beings are immersed in this infinite realm.",
+    "meaning": "आसमान के ऊपर चढ़ते हुए और मेरू पर्वत को पार करते हुए, सभी प्राणि, पक्षी और जीव इस अनंत क्षेत्र में डूबे हुए हैं।",
+    "explanation": "कबीर इस दोहे में ब्रह्मांडीय दृष्टिकोण की बात करते हैं। वे कहते हैं कि आसमान के ऊपर उठकर और मेरू पर्वत को पार करके, सभी जीव और प्राणी इस असीमित और अनंत क्षेत्र में समाहित हो जाते हैं। यह दोहा जीवन और ब्रह्मांड की विशालता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.363Z"
+  }
+}

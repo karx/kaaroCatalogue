@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01c719db-751d-4957-ba54-d1a6edb223c7",
+  "name": "बलिहारी वा दूध की, जामें निकसे घीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I am grateful to the milk from which ghee is obtained. The ghee is a witness to Kabir's teachings, which encompass the essence of the four Vedas.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बलिहारी वा दूध की, जामें निकसे घीव।\nघी साखी कबीर की, चार वेद का जीव।।६८।।",
+    "translation": "I am grateful to the milk from which ghee is obtained. The ghee is a witness to Kabir's teachings, which encompass the essence of the four Vedas.",
+    "meaning": "मैं उस दूध के प्रति आभारी हूँ जिससे घी प्राप्त होता है। यह घी कबीर की शिक्षाओं का प्रमाण है, जो चार वेदों का सार है।",
+    "explanation": "इस दोहे में कबीर ने दूध और घी के माध्यम से अपनी भक्ति को दर्शाया है। घी, जो दूध से प्राप्त होता है, कबीर की शिक्षाओं का प्रतीक है और चार वेदों के सार को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

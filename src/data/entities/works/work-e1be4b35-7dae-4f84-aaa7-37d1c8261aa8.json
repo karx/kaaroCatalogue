@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1be4b35-7dae-4f84-aaa7-37d1c8261aa8",
+  "name": "जाय झरोखे सोवता, फूलन सेज बिछाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who lay in the window, sleeping on a bed of flowers, is now nowhere to be seen; he vanished in an instant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाय झरोखे सोवता, फूलन सेज बिछाय।\nसो अब कहूं दीखै नहीं, छिन में गयो बिलाय।।१०५०।।",
+    "translation": "One who lay in the window, sleeping on a bed of flowers, is now nowhere to be seen; he vanished in an instant.",
+    "meaning": "जो व्यक्ति झरोखे में फूलों की सेज पर सो रहा था, वह अब कहीं नजर नहीं आता; वह पल भर में गायब हो गया।",
+    "explanation": "इस दोहे में कबीर जीवन की क्षणभंगुरता की बात करते हैं। वे कहते हैं कि जो व्यक्ति जीवन में सुख-भोग में लीन था, वह अचानक गायब हो गया, यानी मृत्यु ने उसे अपने पास बुला लिया। यह संसार की अस्थिरता और मृत्यु के अनिवार्य सत्य की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.167Z"
+  }
+}

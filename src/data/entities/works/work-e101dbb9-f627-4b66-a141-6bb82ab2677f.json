@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e101dbb9-f627-4b66-a141-6bb82ab2677f",
+  "name": "खाय पकाय लुटाय के, कर‍ि ले अपना काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Eat, cook, and plunder, and then complete your work. The procession continues, but the deceitful are not carried along.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खाय पकाय लुटाय के, कर‍ि ले अपना काम।\nचलती बिरिया रे नरा, संग न चलै छदाम।।९४९।।",
+    "translation": "Eat, cook, and plunder, and then complete your work. The procession continues, but the deceitful are not carried along.",
+    "meaning": "खाओ, पकाओ और लूट लो, फिर अपना काम पूरा करो। जुलूस चलता रहता है, लेकिन धोखेबाज़ साथ नहीं चलते।",
+    "explanation": "कबीर इस दोहे में सांसारिक गतिविधियों और झूठ का उल्लेख करते हैं। वे कहते हैं कि लोग भौतिक लाभ के लिए अपनी कर्मठता और चालाकी का उपयोग करते हैं, लेकिन झूठे और धोखेबाज़ व्यक्ति स्थायी नहीं होते। जुलूस की तरह जीवन चलता रहता है, लेकिन जिनके पास सच्चाई नहीं है, वे अंततः पीछे रह जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.629Z"
+  }
+}

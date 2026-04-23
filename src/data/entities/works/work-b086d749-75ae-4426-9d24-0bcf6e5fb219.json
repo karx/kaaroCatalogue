@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b086d749-75ae-4426-9d24-0bcf6e5fb219",
+  "name": "कुटिल बचन नहिं बोलिये, शीतल बैन ले चीन्हि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not speak harsh words, recognize the value of soft speech. The Ganga water became cool, but it broke through mountains.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुटिल बचन नहिं बोलिये, शीतल बैन ले चीन्हि।\nगंगा जल शीतल भया, परबत फोड़ तीन्हि।।९९२।।",
+    "translation": "Do not speak harsh words, recognize the value of soft speech. The Ganga water became cool, but it broke through mountains.",
+    "meaning": "कठोर शब्द मत बोलो, मधुर वाणी का महत्व समझो। गंगा का जल ठंडा हो गया, लेकिन उसने पर्वतों को तोड़ दिया।",
+    "explanation": "इस दोहे में कबीर दास जी कठोर शब्दों से बचने और मधुर वाणी का महत्व समझने की बात करते हैं। वह कहते हैं कि जैसे गंगा का पानी ठंडा हो गया, लेकिन उसने पर्वतों को भी तोड़ डाला, वैसे ही मधुर वाणी में बहुत शक्ति होती है। यह दोहा हमें समझदारी से बोलने और दूसरों के प्रति विनम्रता दिखाने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.896Z"
+  }
+}

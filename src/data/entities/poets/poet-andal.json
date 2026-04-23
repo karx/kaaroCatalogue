@@ -1,0 +1,31 @@
+{
+  "entityId": "poet-andal",
+  "name": "Andal",
+  "@type": "Person",
+  "knowsLanguage": "Tamil",
+  "era": "Bhakti",
+  "century": "8th Century",
+  "literaryMovement": "Alvar Saints",
+  "titles": [
+    "Nachiyar",
+    "The Only Female Alvar"
+  ],
+  "keywords": [
+    "Thiruppavai",
+    "Bridal Mysticism",
+    "Vishnu Devotion"
+  ],
+  "abstract": "The only female Alvar. Her Thiruppavai and Nachiyar Tirumoli express intense, bridal longing for Vishnu. Her poetry is used in Tamil weddings and festivals to this day.",
+  "majorWorks": [
+    "Thiruppavai",
+    "Nachiyar Tirumoli"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Andal"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Andal",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

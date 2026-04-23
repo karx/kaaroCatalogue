@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-39fd3ddd-5bd6-40b7-81f8-085e085404fc",
+  "name": "भूखा भूखा क्या करे, क्या सुनावै लोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What can a hungry person do or tell others? The pot is full when it is given from one's own mouth, this is the perfect yoga.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भूखा भूखा क्या करे, क्या सुनावै लोग।\nभांडा घड़ निज मुख दिया, सोई पूरन जोग।।८३।।",
+    "translation": "What can a hungry person do or tell others? The pot is full when it is given from one's own mouth, this is the perfect yoga.",
+    "meaning": "भूखा व्यक्ति क्या कर सकता है या दूसरों को क्या सुना सकता है? जब खुद के मुंह से भांडा भर दिया जाए, यही पूर्ण योग है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि एक भूखा व्यक्ति कुछ भी नहीं कर सकता और न ही दूसरों को कुछ समझा सकता है। पूर्णता और सच्चा योग तब प्राप्त होता है जब हम अपनी आत्मा और आंतरिक समृद्धि को दूसरों के साथ साझा करते हैं। इस प्रकार, अपनी पूरी क्षमता का उपयोग और आत्मा की संतोषजनक स्थिति ही सच्चा योग है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

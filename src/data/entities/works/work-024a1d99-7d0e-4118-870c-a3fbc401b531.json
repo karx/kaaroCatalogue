@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-024a1d99-7d0e-4118-870c-a3fbc401b531",
+  "name": "आठ बाट बकरी गई, सांस मुलां गये खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The goat, split in eight parts, has been eaten by the priest. Even now, they scrape its skin; how will they reach heaven?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आठ बाट बकरी गई, सांस मुलां गये खाय।\nअजहूं खाल खटीकै, भीस्‍त कहांते जाय।।२२५४।।",
+    "translation": "The goat, split in eight parts, has been eaten by the priest. Even now, they scrape its skin; how will they reach heaven?",
+    "meaning": "बकरी के आठ हिस्से कर दिए गए, और मुल्ला ने उसे खा लिया। अब भी वे उसकी खाल को खरोंच रहे हैं; वे स्वर्ग कैसे जाएंगे?",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि बकरी के आठ हिस्से कर दिए गए और मुल्ला ने उसे खा लिया, लेकिन अब भी वे उसकी खाल को खरोंच रहे हैं। ऐसे पाप करने वाले लोग स्वर्ग कैसे जा सकते हैं? यह दोहा उन लोगों पर व्यंग्य करता है जो धार्मिक होने का दिखावा करते हैं, लेकिन उनके कार्य पाप से भरे होते हैं। ऐसे लोग मोक्ष या स्वर्ग की प्राप्ति नहीं कर सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.345Z"
+  }
+}

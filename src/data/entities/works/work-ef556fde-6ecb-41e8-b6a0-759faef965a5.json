@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ef556fde-6ecb-41e8-b6a0-759faef965a5",
+  "name": "kabhi kabhi yaad mein ubharte hain naqsh-e-mazi miTe miTe se",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/kabhii-kabhii-yaad-men-ubharte-hain-naqsh-e-maazii-mite-mite-se-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.214Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/kabhii-kabhii-yaad-men-ubharte-hain-naqsh-e-maazii-mite-mite-se-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nkabhī kabhī yaad meñ ubharte haiñ naqsh-e-māzī miTe miTe se\nvo āzmā.ish dil o nazar kī vo qurbateñ sī vo fāsle se\nkabhī kabhī aarzū ke sahrā meñ aa ke rukte haiñ qāfile se\nvo saarī bāteñ lagāv kī sī vo saare unvāñ visāl ke se\nnigāh o dil ko qarār kaisā nashāt o ġham meñ kamī kahāñ kī\nvo jab mile haiñ to un se har baar kī hai ulfat na.e sire se\nbahut girāñ hai ye aish-e-tanhā kahīñ subuk-tar kahīñ gavārā\nvo dard-e-pinhāñ ki saarī duniyā rafīq thī jis ke vāste se\ntumhīñ kaho rind o mohtasib meñ hai aaj shab kaun farq aisā\nye aa ke baiThe haiñ mai-kade meñ vo uTh ke aa.e haiñ mai-kade se\nkabhi kabhi yaad mein ubharte hain naqsh-e-mazi miTe miTe se\nwo aazmaish dil o nazar ki wo qurbaten si wo fasle se\nkabhi kabhi aarzu ke sahra mein aa ke rukte hain qafile se\nwo sari baaten lagaw ki si wo sare unwan visal ke se\nnigah o dil ko qarar kaisa nashat o gham mein kami kahan ki\nwo jab mile hain to un se har bar ki hai ulfat nae sire se\nbahut giran hai ye aish-e-tanha kahin subuk-tar kahin gawara\nwo dard-e-pinhan ki sari duniya rafiq thi jis ke waste se\ntumhin kaho rind o mohtasib mein hai aaj shab kaun farq aisa\nye aa ke baiThe hain mai-kade mein wo uTh ke aae hain mai-kade se",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nکبھی کبھی یاد میں ابھرتے ہیں نقش ماضی مٹے مٹے سے\nوہ آزمائش دل و نظر کی وہ قربتیں سی وہ فاصلے سے\nکبھی کبھی آرزو کے صحرا میں آ کے رکتے ہیں قافلے سے\nوہ ساری باتیں لگاؤ کی سی وہ سارے عنواں وصال کے سے\nنگاہ و دل کو قرار کیسا نشاط و غم میں کمی کہاں کی\nوہ جب ملے ہیں تو ان سے ہر بار کی ہے الفت نئے سرے سے\nبہت گراں ہے یہ عیش تنہا کہیں سبک تر کہیں گوارا\nوہ درد پنہاں کہ ساری دنیا رفیق تھی جس کے واسطے سے\nتمہیں کہو رند و محتسب میں ہے آج شب کون فرق ایسا\nیہ آ کے بیٹھے ہیں میکدے میں وہ اٹھ کے آئے ہیں میکدے سے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nकभी कभी याद में उभरते हैं नक़्श-ए-माज़ी मिटे मिटे से\nवो आज़माइश दिल ओ नज़र की वो क़ुर्बतें सी वो फ़ासले से\nकभी कभी आरज़ू के सहरा में आ के रुकते हैं क़ाफ़िले से\nवो सारी बातें लगाव की सी वो सारे उनवाँ विसाल के से\nनिगाह ओ दिल को क़रार कैसा नशात ओ ग़म में कमी कहाँ की\nवो जब मिले हैं तो उन से हर बार की है उल्फ़त नए सिरे से\nबहुत गिराँ है ये ऐश-ए-तन्हा कहीं सुबुक-तर कहीं गवारा\nवो दर्द-ए-पिन्हाँ कि सारी दुनिया रफ़ीक़ थी जिस के वास्ते से\nतुम्हीं कहो रिंद ओ मोहतसिब में है आज शब कौन फ़र्क़ ऐसा\nये आ के बैठे हैं मय-कदे में वो उठ के आए हैं मय-कदे से",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:45.809Z"
+  }
+}

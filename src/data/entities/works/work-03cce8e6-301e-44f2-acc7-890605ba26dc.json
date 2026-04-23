@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-03cce8e6-301e-44f2-acc7-890605ba26dc",
+  "name": "जाके चलते रौंदे परा, धरती होइ बेहाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one whose actions cause the earth to suffer, such a powerful person will burn in his own house; O learned ones, think about this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाके चलते रौंदे परा, धरती होइ बेहाल।\nसो सावन्‍त घर में जरे, पंडित करहु विचार।।१५१९।।",
+    "translation": "The one whose actions cause the earth to suffer, such a powerful person will burn in his own house; O learned ones, think about this.",
+    "meaning": "जिसके कर्मों से धरती दुखी होती है, ऐसा शक्तिशाली व्यक्ति अपने ही घर में जल जाएगा; हे विद्वानों, इस पर विचार करो।",
+    "explanation": "कबीर इस दोहे में उन लोगों की आलोचना करते हैं जो अपनी शक्ति और सामर्थ्य का दुरुपयोग करते हैं। उनके कर्मों से धरती और समाज को कष्ट होता है, लेकिन अंत में वे अपने ही विनाश का कारण बनते हैं। यह दोहा न्याय और सद्गुणों का पालन करने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.930Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-dk2ot",
+  "name": "Aditi Mittal Advice For Aspiring Comedians | Funny Video",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT50S",
+  "embedUrl": "https://www.youtube.com/embed/CL75U3_Qzak",
+  "contentUrl": "https://www.youtube.com/watch?v=CL75U3_Qzak",
+  "uploadDate": "2013-02-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/CL75U3_Qzak/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Subscribe to my YouTube Channel here: http://goo.gl/QkKAvU \n\nAditi Mittal performs at East India Co.medy's  \"Bachelor of Comedy: The Hunt for India's Funniest College Comedian\"\nHere she jokes on how a stand up comedian is treated and share her funny experience.\n\nE-mail: aditimittalcomic@gmail.com fo",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

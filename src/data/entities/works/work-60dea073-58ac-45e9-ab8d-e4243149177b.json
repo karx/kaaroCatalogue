@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60dea073-58ac-45e9-ab8d-e4243149177b",
+  "name": "कुबुधि कमानी चढ़‍ि रही, कुटिल बचन के तीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wickedness is like a bow, and cruel words are its arrows. These words strike the ears repeatedly and pierce the entire body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुबुधि कमानी चढ़‍ि रही, कुटिल बचन के तीर।\nभरि भरि मारे कान में, सालै सकल सरीर।।९९९।।",
+    "translation": "Wickedness is like a bow, and cruel words are its arrows. These words strike the ears repeatedly and pierce the entire body.",
+    "meaning": "कुबुद्धि एक धनुष की तरह है, और कठोर शब्द उसके तीर हैं। ये शब्द कानों में बार-बार लगते हैं और पूरे शरीर को पीड़ा देते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी कठोर वचनों के दुष्प्रभाव को समझाते हैं। वह कहते हैं कि कुबुद्धि धनुष के समान होती है और कठोर शब्द उसके तीर की तरह होते हैं, जो बार-बार कानों में सुनाई देने से पूरे शरीर को पीड़ा पहुंचाते हैं। यह दोहा हमें सोच-समझकर और संयमित बोलने की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.896Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ade3fb65-c07a-402b-8711-d81436adcdb1",
+  "name": "कबीर निज घर प्रेम का, मारग अगम अगाध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the path to the home of love is profound and unfathomable. Only by bowing down and placing one's head and feet there can one truly experience the taste of love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर निज घर प्रेम का, मारग अगम अगाध।\nसीस उतारि पग तलि घरै, तब निकटि प्रेम का स्‍वाद।।१९२५।।",
+    "translation": "Kabir says, the path to the home of love is profound and unfathomable. Only by bowing down and placing one's head and feet there can one truly experience the taste of love.",
+    "meaning": "कबीर कहते हैं, प्रेम के घर तक पहुँचने का मार्ग गहरा और अनजान है। केवल सिर और पांव को अर्पित करके ही वहाँ प्रेम का स्वाद सच्चे अर्थ में अनुभव किया जा सकता है।",
+    "explanation": "इस दोहे में कबीरदास जी यह बताते हैं कि प्रेम का मार्ग बहुत गहरा और रहस्यमय है। इसे समझने और अनुभव करने के लिए पूरी तरह से समर्पण और विनम्रता की आवश्यकता है। सिर और पांव को अर्पित करना यह दिखाता है कि व्यक्ति ने प्रेम के सच्चे अनुभव के लिए पूरी तरह से आत्मसमर्पण किया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.251Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-521586ad-6564-4258-85b4-5d078bda7191",
+  "name": "साईं सेती चोरियाँ, चोरा सेती गुझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Thieves are with the Lord, and the thief is with the thief. Know this, O soul, you will be punished for your actions.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साईं सेती चोरियाँ, चोरा सेती गुझ।\nजाणैंगा रे जीवएगा, मार पड़ैगी तुझ।।१८७।।",
+    "translation": "Thieves are with the Lord, and the thief is with the thief. Know this, O soul, you will be punished for your actions.",
+    "meaning": "चोर भगवान के साथ हैं और चोर के साथ चोर है। जान लो, आत्मा, तुम्हें अपने कर्मों के लिए दंड मिलेगा।",
+    "explanation": "इस दोहे में कबीर ने नैतिकता और कर्मों के परिणाम पर ध्यान केंद्रित किया है। उन्होंने बताया है कि जैसे चोर चोर के साथ होते हैं, वैसे ही भगवान के साथ भी अच्छाई का मेल होता है। जो व्यक्ति गलत कर्म करता है, उसे परिणाम भुगतने पड़ते हैं। यहाँ कबीर ने चेतावनी दी है कि कर्मों का परिणाम अपरिहार्य होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0883xy-wbnj3",
+  "name": "Why Gen Z will never get married #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT2M48S",
+  "embedUrl": "https://www.youtube.com/embed/V9C2Az1Ncoo",
+  "contentUrl": "https://www.youtube.com/watch?v=V9C2Az1Ncoo",
+  "uploadDate": "2025-06-09",
+  "thumbnailUrl": "https://i.ytimg.com/vi/V9C2Az1Ncoo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

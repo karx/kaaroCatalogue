@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a97aa17b-2521-4cec-9ecb-9ea4728f033b",
+  "name": "जीव घात नहि कीजिए, बहुरि लेत वै कान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not harm any living being, for karma will repay. Pilgrimages won't save you, even if you donate millions of diamonds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जीव घात नहि कीजिए, बहुरि लेत वै कान।\nतीरथ गए न बांचिहु, कोटि हीरा देहु दान।।१५२९।।",
+    "translation": "Do not harm any living being, for karma will repay. Pilgrimages won't save you, even if you donate millions of diamonds.",
+    "meaning": "किसी भी जीव का घात मत करो, क्योंकि कर्म अपना फल वापस देगा। तीर्थयात्राएँ भी तुम्हें नहीं बचा पाएंगी, भले ही तुम करोड़ों हीरे दान कर दो।",
+    "explanation": "इस दोहे में कबीर कर्म के प्रभाव को समझाते हैं। वे कहते हैं कि किसी भी जीव को नुकसान पहुंचाने का कर्म कभी माफ नहीं होता। तीर्थयात्राएँ और दान भी इस पाप को नहीं मिटा सकते। इसलिए हमें अपने कर्मों में सदैव जीवों के प्रति दया और करुणा का भाव रखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.932Z"
+  }
+}

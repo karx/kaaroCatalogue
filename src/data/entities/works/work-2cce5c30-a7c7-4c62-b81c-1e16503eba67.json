@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2cce5c30-a7c7-4c62-b81c-1e16503eba67",
+  "name": "tumhaari yaad ke jab zaKHm bharne lagte hain",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/tumhaarii-yaad-ke-jab-zakhm-bharne-lagte-hain-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.207Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/tumhaarii-yaad-ke-jab-zakhm-bharne-lagte-hain-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ntumhārī yaad ke jab zaḳhm bharne lagte haiñ\nkisī bahāne tumheñ yaad karne lagte haiñ\nhadīs-e-yār ke unvāñ nikharne lagte haiñ\nto har harīm meñ gesū sañvarne lagte haiñ\nhar ajnabī hameñ mahram dikhā.ī detā hai\njo ab bhī terī galī se guzarne lagte haiñ\nsabā se karte haiñ ġhurbat-nasīb zikr-e-vatan\nto chashm-e-sub.h meñ aañsū ubharne lagte haiñ\nvo jab bhī karte haiñ is nutq o lab kī baḳhiya-garī\nfazā meñ aur bhī naġhme bikharne lagte haiñ\ndar-e-qafas pe añdhere kī mohr lagtī hai\nto 'faiz' dil meñ sitāre utarne lagte haiñ\ntumhaari yaad ke jab zaKHm bharne lagte hain\nkisi bahane tumhein yaad karne lagte hain\nhadis-e-yar ke unwan nikharne lagte hain\nto har harim mein gesu sanwarne lagte hain\nhar ajnabi hamein mahram dikhai deta hai\njo ab bhi teri gali se guzarne lagte hain\nsaba se karte hain ghurbat-nasib zikr-e-watan\nto chashm-e-subh mein aansu ubharne lagte hain\nwo jab bhi karte hain is nutq o lab ki baKHiya-gari\nfaza mein aur bhi naghme bikharne lagte hain\ndar-e-qafas pe andhere ki mohr lagti hai\nto 'faiz' dil mein sitare utarne lagte hain",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nتمہاری یاد کے جب زخم بھرنے لگتے ہیں\nکسی بہانے تمہیں یاد کرنے لگتے ہیں\nحدیث یار کے عنواں نکھرنے لگتے ہیں\nتو ہر حریم میں گیسو سنورنے لگتے ہیں\nہر اجنبی ہمیں محرم دکھائی دیتا ہے\nجو اب بھی تیری گلی سے گزرنے لگتے ہیں\nصبا سے کرتے ہیں غربت نصیب ذکر وطن\nتو چشم صبح میں آنسو ابھرنے لگتے ہیں\nوہ جب بھی کرتے ہیں اس نطق و لب کی بخیہ گری\nفضا میں اور بھی نغمے بکھرنے لگتے ہیں\nدر قفس پہ اندھیرے کی مہر لگتی ہے\nتو فیضؔ دل میں ستارے اترنے لگتے ہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nतुम्हारी याद के जब ज़ख़्म भरने लगते हैं\nकिसी बहाने तुम्हें याद करने लगते हैं\nहदीस-ए-यार के उनवाँ निखरने लगते हैं\nतो हर हरीम में गेसू सँवरने लगते हैं\nहर अजनबी हमें महरम दिखाई देता है\nजो अब भी तेरी गली से गुज़रने लगते हैं\nसबा से करते हैं ग़ुर्बत-नसीब ज़िक्र-ए-वतन\nतो चश्म-ए-सुब्ह में आँसू उभरने लगते हैं\nवो जब भी करते हैं इस नुत्क़ ओ लब की बख़िया-गरी\nफ़ज़ा में और भी नग़्मे बिखरने लगते हैं\nदर-ए-क़फ़स पे अँधेरे की मोहर लगती है\nतो 'फ़ैज़' दिल में सितारे उतरने लगते हैं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:25.191Z"
+  }
+}

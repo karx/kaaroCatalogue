@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a1099c7-3a11-4392-b62d-d139e4de03b2",
+  "name": "जा कारणि मैं ढूंढ़ता, सनमुख मिलिया आइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For the reason that I searched, I came face to face with the truth. The wealth is tarnished, but the true essence remains pure, and cannot be grasped by material means.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा कारणि मैं ढूंढ़ता, सनमुख मिलिया आइ।\nधन मैली पिव उजला, लागि न सकौं पाइ।।१८१५।।",
+    "translation": "For the reason that I searched, I came face to face with the truth. The wealth is tarnished, but the true essence remains pure, and cannot be grasped by material means.",
+    "meaning": "जिस कारण से मैंने खोजा, मैं सत्य के सामने आ गया। धन भले ही मैला हो, लेकिन सच्ची प्रकृति शुद्ध रहती है और भौतिक साधनों से इसे पकड़ा नहीं जा सकता।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जब उन्होंने आत्मिक सत्य की खोज की, तो वे सच्चाई के सामने आए। भौतिक धन और संसाधन मैला हो सकते हैं, लेकिन सत्य की शुद्धता अपरिवर्तित रहती है और इसे भौतिक साधनों से नहीं पकड़ा जा सकता। यह खोज और आध्यात्मिक सच्चाई की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.624Z"
+  }
+}

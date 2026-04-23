@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-104d343e-2c95-4b07-a66b-a5f0ab376bc7",
+  "name": "देह खेह हो जायेगी, कौन कहेगा देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body will turn to dust, who will then call it a body? Know for sure, only good deeds are the true fruits of life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "देह खेह हो जायेगी, कौन कहेगा देह।\nनिश्‍चय कर उपकार ही, जीवन का फल येह।।९६८।।",
+    "translation": "The body will turn to dust, who will then call it a body? Know for sure, only good deeds are the true fruits of life.",
+    "meaning": "शरीर मिट्टी में बदल जाएगा, तब कौन इसे शरीर कहेगा? निश्चित रूप से जान लो, केवल अच्छे कर्म ही जीवन का सच्चा फल हैं।",
+    "explanation": "इस दोहे में कबीर दास जी शरीर की नश्वरता और अच्छे कर्मों की महत्ता को बताते हैं। वह कहते हैं कि हमारा शरीर अंततः मिट्टी में मिल जाएगा, लेकिन हमारे अच्छे कर्म ही हमारे जीवन का सच्चा फल हैं। इसलिए हमें अपने जीवन को अच्छे कार्यों से सार्थक बनाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

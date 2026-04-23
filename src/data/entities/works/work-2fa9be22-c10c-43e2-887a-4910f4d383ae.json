@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2fa9be22-c10c-43e2-887a-4910f4d383ae",
+  "name": "साधु सती और शूरमा, कबहुं न फेरें पीठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints, virtuous ones, and warriors never turn their backs. If any of these return after leaving, don't ever trust them again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सती और शूरमा, कबहुं न फेरें पीठ।\nतीनों निकसि जो बाहुरै, ताको मुंह मति दीठ।।२०९०।।",
+    "translation": "Saints, virtuous ones, and warriors never turn their backs. If any of these return after leaving, don't ever trust them again.",
+    "meaning": "साधु, सती और वीर कभी पीठ नहीं फेरते। यदि इनमें से कोई एक बार जाने के बाद लौट आए, तो उन पर कभी विश्वास मत करना।",
+    "explanation": "कबीर इस दोहे में उन तीनों का उल्लेख करते हैं जो अपने जीवन में कभी भी अपने मार्ग से पीछे नहीं हटते: साधु (संत), सती (पवित्र स्त्री), और शूरमा (वीर)। अगर इनमें से कोई एक बार लौट आता है, तो कबीर चेतावनी देते हैं कि उन पर भरोसा नहीं किया जाना चाहिए, क्योंकि वे अपने सिद्धांतों या प्रतिज्ञाओं में कमजोर साबित होते हैं। यह दोहा निष्ठा और प्रतिबद्धता की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.097Z"
+  }
+}

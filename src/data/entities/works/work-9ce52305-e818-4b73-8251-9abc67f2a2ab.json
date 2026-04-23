@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9ce52305-e818-4b73-8251-9abc67f2a2ab",
+  "name": "पद गाएं मन हरषियां, साषी कह्मां अनंद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The feet dance in joy, the soul rejoices in the divine. But those who do not know the essence, fall into the trap.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पद गाएं मन हरषियां, साषी कह्मां अनंद।\nसो तत नांव न जाणियां, गल में पड़िया फंद।।१८२।।",
+    "translation": "The feet dance in joy, the soul rejoices in the divine. But those who do not know the essence, fall into the trap.",
+    "meaning": "पांव खुशी से नाचते हैं, आत्मा ईश्वर में आनंदित होती है। लेकिन जो इसके सार को नहीं जानता, वह जाल में फंस जाता है।",
+    "explanation": "इस दोहे में कबीर ने आत्मिक आनंद और समझ की महत्ता को व्यक्त किया है। वे कहते हैं कि सच्चा आनंद तब आता है जब व्यक्ति ईश्वर के साथ एकात्मता को महसूस करता है। लेकिन जो इस सच्चे आनंद और समझ को नहीं जानता, वह जीवन के जाल में फंस जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

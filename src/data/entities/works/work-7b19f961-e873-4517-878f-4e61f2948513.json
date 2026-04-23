@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7b19f961-e873-4517-878f-4e61f2948513",
+  "name": "वेड़ा पाया सरप का, भौसागर के मांह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have gained a snake's venom in the ocean of the world. If I leave it, I will drown; if I hold on, it will bite me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "वेड़ा पाया सरप का, भौसागर के मांह।\nजै छाडों तो डूबिहौं, गहौं त डसिये बांह।।१७७८।।",
+    "translation": "I have gained a snake's venom in the ocean of the world. If I leave it, I will drown; if I hold on, it will bite me.",
+    "meaning": "मैंने संसार के समुद्र में एक सांप का विष प्राप्त किया है। यदि मैं इसे छोड़ दूं, तो डूब जाऊंगा; यदि मैं पकड़ कर रखूं, तो यह मुझे डसेगा।",
+    "explanation": "इस दोहे में कबीर ने संसार के कष्ट और उसकी जटिलता को सांप के विष के रूप में व्यक्त किया है। उन्होंने बताया है कि संसार की समस्याओं का सामना करने के लिए व्यक्ति को एक कठिन स्थिति का सामना करना पड़ता है—या तो समस्या को छोड़ना पड़ता है, जिससे अन्य कठिनाइयाँ पैदा होती हैं, या फिर उस समस्या को पकड़कर रखने पर उसके परिणामों का सामना करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.351Z"
+  }
+}

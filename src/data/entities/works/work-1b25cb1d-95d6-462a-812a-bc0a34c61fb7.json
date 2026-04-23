@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1b25cb1d-95d6-462a-812a-bc0a34c61fb7",
+  "name": "संगत कीजै साधु की, होवे दिन-दिन हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Associate with saints daily, and it will benefit you day by day. The blackened cloth will not get clean, even if you wash it repeatedly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संगत कीजै साधु की, होवे दिन-दिन हेत।\nसाकुट काली कामली, धोते होय न सेत।।४०३।।",
+    "translation": "Associate with saints daily, and it will benefit you day by day. The blackened cloth will not get clean, even if you wash it repeatedly.",
+    "meaning": "संतों की संगति रोज़ करें, और यह लाभकारी होगी दिन-ब-दिन। काली कपड़े को बार-बार धोने से भी वह साफ नहीं होगा।",
+    "explanation": "इस दोहे में कबीर दास जी ने संगति के महत्व को स्पष्ट किया है। वे कहते हैं कि संतों की संगति करने से लाभ होता है और यह लाभ निरंतर बढ़ता है। इसके विपरीत, एक बार गंदे हुए कपड़े को बार-बार धोने से भी वह साफ नहीं हो सकता, इसका तात्पर्य है कि बुरी संगति का कोई लाभ नहीं होता और इससे जीवन में कोई सुधार नहीं होता। यह दोहा हमें अच्छे लोगों की संगति करने की सलाह देता है ताकि हम अपने जीवन में सुधार कर सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.921Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c5c47a4f-4d74-4790-9c78-25086a2ef448",
+  "name": "राउर के पिछवारे, गावें चारों सन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "At your back, the four directions are singing. The living being is in much loot, with nothing to gain or lose.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राउर के पिछवारे, गावें चारों सन।\nजीव परा बहु लूट में, नहिं कछु लेन न देन।।१६६५।।",
+    "translation": "At your back, the four directions are singing. The living being is in much loot, with nothing to gain or lose.",
+    "meaning": "तुम्हारे पीछे, चारों दिशाएँ गा रही हैं। जीव लूट में बहुत है, कुछ भी पाने या खोने को नहीं है।",
+    "explanation": "कबीर इस दोहे में समाज की स्थिति और व्यक्ति के अस्तित्व की बात करते हैं। उन्होंने कहा कि समाज में बहुत कुछ हो रहा है, लेकिन व्यक्ति के पास कुछ भी स्थायी नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.786Z"
+  }
+}

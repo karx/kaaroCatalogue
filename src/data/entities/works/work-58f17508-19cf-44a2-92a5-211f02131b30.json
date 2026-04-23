@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-58f17508-19cf-44a2-92a5-211f02131b30",
+  "name": "मन पंखी बिन पंख का, जहां तहा उड़‍ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is like a bird without wings, flying wherever it wishes. The mind finds what it desires, and remains in the same place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन पंखी बिन पंख का, जहां तहा उड़‍ि जाय।\nमन भावे ताको मिले, घट में आन समाय।।११३७।।",
+    "translation": "The mind is like a bird without wings, flying wherever it wishes. The mind finds what it desires, and remains in the same place.",
+    "meaning": "मन एक पंखहीन पंछी की तरह है, जो जहां चाहें उड़ जाता है। मन जिसे पसंद करता है, वही पाता है, और वही स्थान पर रहता है।",
+    "explanation": "इस दोहे में कबीर ने मन की प्रकृति और उसकी स्वतंत्रता का वर्णन किया है। उन्होंने कहा है कि मन जैसे पंखहीन पंछी की तरह है, जो अपनी इच्छा के अनुसार कहीं भी उड़ सकता है। मन जिस चीज को चाहتا है, वही उसे प्राप्त करता है और उसी में स्थिर रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.705Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d22e6102-9248-48f5-9984-7dc33f5ffea7",
+  "name": "उदर समाता मांग ले, ताको नाहिं दोष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Taking what fills the stomach is not a fault. Kabir says, those who gather excessively, their path is not secure.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उदर समाता मांग ले, ताको नाहिं दोष।\nकहैं कबीर अधिका गहै, ताकी गति न मोष।।६४६।।",
+    "translation": "Taking what fills the stomach is not a fault. Kabir says, those who gather excessively, their path is not secure.",
+    "meaning": "जो कुछ पेट भरने के लिए लिया जाता है, उसमें कोई दोष नहीं है। कबीर कहते हैं कि जो अधिक संग्रह करता है, उसकी गति सुरक्षित नहीं होती।",
+    "explanation": "संत कबीर का कहना है कि आवश्यक वस्तुएं ग्रहण करने में कोई दोष नहीं है, लेकिन जो लोग अत्यधिक संग्रह करते हैं, उनके जीवन में असुरक्षा और असंतोष का भाव रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.004Z"
+  }
+}

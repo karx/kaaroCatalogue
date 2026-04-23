@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2a66951e-af1e-45f2-a23e-566138b6faae",
+  "name": "साकट संग न बैठिये, करन कुबेर समान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not sit with the wicked, even if they are as rich as Kubera. Do not walk with them, as it leads to hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साकट संग न बैठिये, करन कुबेर समान।\nताके संग न चलिये, पड़ि हैं नरक निदान।।३०६।।",
+    "translation": "Do not sit with the wicked, even if they are as rich as Kubera. Do not walk with them, as it leads to hell.",
+    "meaning": "साकट (दुष्ट) के साथ मत बैठो, चाहे वे कुबेर के समान धनी ही क्यों न हों। उनके साथ मत चलो, क्योंकि यह नरक की ओर ले जाता है।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि चाहे कोई व्यक्ति कितना भी धनी या शक्तिशाली क्यों न हो, यदि उसका संग खराब है, तो उससे दूर रहना ही बेहतर है। बुरी संगति व्यक्ति को अधोगति की ओर ले जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a06afc49-4b5b-422e-92bb-71a76ba1ba12",
+  "name": "जिन घर नौबत बाजती, होत छतीसों राग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the houses where the drum is played, there are thirty-six tunes. Even such houses remain empty, and crows sit there.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिन घर नौबत बाजती, होत छतीसों राग।\nसो घर भी खाली पड़े, बैठने लागे काग।।४३५।।",
+    "translation": "In the houses where the drum is played, there are thirty-six tunes. Even such houses remain empty, and crows sit there.",
+    "meaning": "जिन घरों में ढोल बजता है, वहाँ छत्तीस राग होते हैं। फिर भी, ऐसे घर भी खाली रहते हैं, और कौवे वहाँ बैठते हैं।",
+    "explanation": "इस दोहे में कबीर यह दिखाते हैं कि बाहरी शान-शौकत और संगीत के बावजूद, घर में अंततः एक खालीपन और शून्यता बनी रहती है। यहाँ तक कि ऐसे घरों में भी जो बाहरी रूप से सम्पन्न प्रतीत होते हैं, अंततः वे भी नीरस और खाली हो जाते हैं। यह जीवन की अस्थायीता और दिखावे की वास्तविकता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

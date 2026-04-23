@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089jax-vnhrd",
+  "name": "Akshay Kumar x Harsh Gujral | Roast Standup Comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT20M32S",
+  "embedUrl": "https://www.youtube.com/embed/FtDv-L1stdo",
+  "contentUrl": "https://www.youtube.com/watch?v=FtDv-L1stdo",
+  "uploadDate": "2024-08-17",
+  "thumbnailUrl": "https://i.ytimg.com/vi/FtDv-L1stdo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Witness this amazing banter between The Khiladi of all time and Anari. I have never thought I would get a chance to share the stage with Akshay Sir this is a dream come true moment. So enjoy and do watch this super fun movie #khelkhelmeiWitness.",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,27 @@
+{
+  "entityId": "poet-jayadeva",
+  "name": "Jayadeva",
+  "@type": "Person",
+  "knowsLanguage": "Sanskrit",
+  "era": "Classical",
+  "century": "12th Century",
+  "literaryMovement": "Bhakti Transition",
+  "keywords": [
+    "Gita Govinda",
+    "Radha-Krishna",
+    "Odissi",
+    "Devotional Poetry"
+  ],
+  "abstract": "His Gita Govinda bridges the classical and Bhakti eras. A lyrical sequence celebrating the erotic-spiritual love of Radha and Krishna, it profoundly influenced the Odissi and Manipuri dance forms.",
+  "majorWorks": [
+    "Gita Govinda"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Jayadeva"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jayadeva",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

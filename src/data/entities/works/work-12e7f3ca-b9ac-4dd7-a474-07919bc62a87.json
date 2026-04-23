@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-12e7f3ca-b9ac-4dd7-a474-07919bc62a87",
+  "name": "ब्रांह्मण गुरु जगत का, साधू का गुरू नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Brahmin is the world's teacher, but not the guru of a saint. He dies entangled in the complexities of the four Vedas.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ब्रांह्मण गुरु जगत का, साधू का गुरू नाहिं।\nउरझि पुरझि करि मरि रह्या, चारिउं बेदां माहिं।।२०७०।।",
+    "translation": "The Brahmin is the world's teacher, but not the guru of a saint. He dies entangled in the complexities of the four Vedas.",
+    "meaning": "ब्राह्मण जगत का गुरु है, लेकिन वह साधु का गुरु नहीं है। वह चारों वेदों की जटिलताओं में उलझकर ही मर जाता है।",
+    "explanation": "कबीर इस दोहे में ब्राह्मण की स्थिति को दर्शाते हैं। वह ब्राह्मण जो संसार का गुरु माना जाता है, साधु का गुरु नहीं हो सकता, क्योंकि वह स्वयं ही चारों वेदों की जटिलताओं में उलझा रहता है। कबीर इस दोहे के माध्यम से आध्यात्मिकता की गहराई और सतही ज्ञान के बीच का अंतर स्पष्ट करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.092Z"
+  }
+}

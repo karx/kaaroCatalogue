@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3db4f332-2ae2-4388-abb6-6f1d47fec2d2",
+  "name": "कहैं कबीर देय तू, जब लग तेरी देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, give while you still have your body. When the body turns to dust, who will ask for it?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहैं कबीर देय तू, जब लग तेरी देह।\nदेह खेह हो जायेगी, कौन कहेगा देह।।९७९।।",
+    "translation": "Kabir says, give while you still have your body. When the body turns to dust, who will ask for it?",
+    "meaning": "कबीर कहते हैं, जब तक तुम्हारा शरीर है, तब तक दान करो। जब शरीर मिट्टी में मिल जाएगा, तब कौन मांगेगा?",
+    "explanation": "इस दोहे में कबीर दास जी दान और सेवा की महत्ता पर जोर देते हैं। वह कहते हैं कि जब तक हमारा शरीर स्वस्थ और सक्षम है, हमें दान और सेवा के कार्य करने चाहिए। जब शरीर नश्वर हो जाएगा और मिट्टी में मिल जाएगा, तब हमारे पास कुछ देने के लिए नहीं रहेगा। यह दोहा हमें वर्तमान समय में अच्छे कर्म करने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.894Z"
+  }
+}

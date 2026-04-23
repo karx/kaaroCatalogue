@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1f1343d6-8771-49be-9a23-abbbf1280dbf",
+  "name": "हाथी चढ़‍ि के जो फिरै, ऊपर चंवर दुराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who rides an elephant and waves a fan above is thought to enjoy luxury, but in reality, he goes straight to hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हाथी चढ़‍ि के जो फिरै, ऊपर चंवर दुराय।\nलोग कहैं सुख भोगवै, सीधे दोजख जाय।।१२७०।।",
+    "translation": "The one who rides an elephant and waves a fan above is thought to enjoy luxury, but in reality, he goes straight to hell.",
+    "meaning": "जो हाथी पर चढ़कर चंवर झलता है, लोग उसे सुख भोगने वाला मानते हैं, लेकिन वास्तव में वह सीधे नरक में जाता है।",
+    "explanation": "इस दोहे में कबीर जी ने दिखाया है कि जो व्यक्ति दिखावे के लिए किसी विशेष स्थिति का लाभ उठाता है, जैसे हाथी पर चढ़कर चंवर झलाना, वास्तव में उसके कर्म उसे अच्छे परिणाम नहीं देते और वह अंततः दुष्परिणाम भुगतता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.544Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57cf7a61-e015-429c-bcee-4367c10e5322",
+  "name": "घायल की गति और है, औरन की गति और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The condition of the wounded is different, different is the condition of others. Kabir remains steady, struck by the arrow of love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घायल की गति और है, औरन की गति और।\nलागा बान जो प्रेम का, रहा कबीरा ठौर।।२०८३।।",
+    "translation": "The condition of the wounded is different, different is the condition of others. Kabir remains steady, struck by the arrow of love.",
+    "meaning": "घायल की अवस्था और होती है, औरों की अवस्था और। कबीर प्रेम के बाण से घायल होकर स्थिर हो गए।",
+    "explanation": "कबीर इस दोहे में प्रेम की शक्ति को दर्शाते हैं। वे कहते हैं कि प्रेम के बाण से घायल व्यक्ति की स्थिति सामान्य लोगों से अलग होती है। वह प्रेम के बाण की चुभन में स्थिर हो जाता है और उसके जीवन की दिशा बदल जाती है। इस दोहे के माध्यम से कबीर प्रेम के आध्यात्मिक महत्व और उसकी transformative शक्ति पर जोर देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.096Z"
+  }
+}

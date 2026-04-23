@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee987938-42b4-4525-b934-266cd5f7e5a5",
+  "name": "बिरह-भुवगम तन बसै, मंत्र न लागै कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body suffers from separation and intense longing; no mantra or ritual seems effective. A person separated from Ram cannot live peacefully; they become mad with longing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरह-भुवगम तन बसै, मंत्र न लागै कोइ।\nराम-बियोगी ना जिवै, जिवै तो बौरा होइ।।१५८।।",
+    "translation": "The body suffers from separation and intense longing; no mantra or ritual seems effective. A person separated from Ram cannot live peacefully; they become mad with longing.",
+    "meaning": "शरीर प्रेम और विरह से पीड़ित है; कोई मंत्र या विधि प्रभावी नहीं होती। जो व्यक्ति राम से बिछड़ जाता है, वह शांति से नहीं जी सकता और प्रेम के अभाव में पागल हो जाता है।",
+    "explanation": "इस दोहे में कबीर यह बता रहे हैं कि राम से बिछड़ना एक गहरी पीड़ा और लंबे समय तक चलने वाला दुख होता है। कोई भी मंत्र या साधना इस पीड़ा को कम नहीं कर सकती। जो व्यक्ति राम के प्रेम से वंचित होता है, वह शांति से जीने में असमर्थ होता है और इस प्रेम के बिना वह मानसिक रूप से परेशान हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

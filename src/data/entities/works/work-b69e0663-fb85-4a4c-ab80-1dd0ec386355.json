@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b69e0663-fb85-4a4c-ab80-1dd0ec386355",
+  "name": "जौन मिला सो गुरु मिला, चेला मिला न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who has met a guru has truly met one. If a disciple meets another disciple, then something significant might happen.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जौन मिला सो गुरु मिला, चेला मिला न कोय।\nचेला को चेला मिलै, तब कछु होय तो होय।।१२७८।।",
+    "translation": "One who has met a guru has truly met one. If a disciple meets another disciple, then something significant might happen.",
+    "meaning": "जिसे गुरु मिला है, उसने सच्चे गुरु को पाया है। अगर एक शिष्य को दूसरा शिष्य मिलता है, तो कुछ महत्वपूर्ण हो सकता है।",
+    "explanation": "कबीर जी इस दोहे में कहते हैं कि सच्चे गुरु से मिलने पर ही सच्चा ज्ञान प्राप्त होता है। यदि एक शिष्य को दूसरा शिष्य मिलता है, तो यह स्थिति महत्वपूर्ण हो सकती है, लेकिन इसे सच्चे गुरु की अनुपस्थिति में महत्व नहीं देना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.546Z"
+  }
+}

@@ -1,0 +1,97 @@
+name: Validate Catalog
+
+on:
+  pull_request:
+    paths:
+      - 'src/data/entities/**'
+      - 'src/data/registry/**'
+      - 'scripts/**'
+
+jobs:
+  validate:
+    name: Entity Validation & Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # Tier 1: unit tests for validation logic
+      - name: Unit tests
+        run: npm test
+
+      # Tier 2: validate entity files (schema, dedup, cross-refs)
+      - name: Validate entities
+        run: npm run validate:entities
+
+      # Tier 2: ensure catalog builds cleanly from entity files
+      - name: Build catalog
+        run: npm run build:catalog
+
+      # Check that committed catalog matches the freshly built one
+      - name: Check catalog is up to date
+        run: |
+          if ! git diff --quiet src/data/catalogs/ src/web/data/catalogs/; then
+            echo ""
+            echo "❌ Committed catalog is out of sync with entity files."
+            echo "   Run 'npm run build:catalog' locally and commit the result."
+            echo ""
+            git diff --stat src/data/catalogs/ src/web/data/catalogs/
+            exit 1
+          fi
+          echo "✅ Catalog is up to date."
+
+  # Label PRs that need human review
+  label:
+    name: Apply Review Labels
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Count changed entity files
+        id: count
+        run: |
+          CHANGED=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- 'src/data/entities/**' | wc -l)
+          echo "changed=$CHANGED" >> $GITHUB_OUTPUT
+          echo "Changed entity files: $CHANGED"
+
+      - name: Label bulk imports
+        if: steps.count.outputs.changed > 20
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['needs-human-review', 'bulk-import']
+            })
+
+      - name: Check for existing entity modifications
+        id: modifications
+        run: |
+          # Modified (not added) entity files require human review
+          MODIFIED=$(git diff --name-only --diff-filter=M origin/${{ github.base_ref }}...HEAD -- 'src/data/entities/**' | wc -l)
+          echo "modified=$MODIFIED" >> $GITHUB_OUTPUT
+
+      - name: Label entity modifications
+        if: steps.modifications.outputs.modified > 0
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['needs-human-review', 'modifies-existing']
+            })

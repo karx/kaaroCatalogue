@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e971755-346b-48ff-a6bc-8257473921e4",
+  "name": "एक अचंभा देखिया, हीरा हाटि बिकाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I saw a wonder: diamonds are sold in the market. The rare outer stones are exchanged for cowries.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक अचंभा देखिया, हीरा हाटि बिकाइ।\nपरिषणहारे बाहिरा, कौड़ी बदले जाइ।।१९७६।।",
+    "translation": "I saw a wonder: diamonds are sold in the market. The rare outer stones are exchanged for cowries.",
+    "meaning": "मैंने एक आश्चर्य देखा: हीरे बाजार में बिक रहे हैं। दुर्लभ बाहरी पत्थर को कौड़ी के लिए बदला जाता है।",
+    "explanation": "इस दोहे में कबीर ने मूल्य और वस्तुओं की सापेक्षता को दर्शाया है। उन्होंने बताया है कि दुनिया में आमतौर पर मूल्यवान चीज़ें भी सस्ते और मामूली वस्तुओं के लिए बदल दी जाती हैं। यह दोहा हमारे भौतिक दृष्टिकोण और वास्तविकता की परख को संदर्भित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.533Z"
+  }
+}

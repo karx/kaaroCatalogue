@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-41890a58-9099-4916-98e8-f2bd4a340285",
+  "name": "बसही साथ कलतरो, धीर न बंधै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When living together, the constant quarrels are not bound by patience. The coward flees and returns, while the lord enjoys the pomp.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बसही साथ कलतरो, धीर न बंधै कोय।\nभागा पीछे बाहुरे, ठाठ गुसांई सोय।।२१२८।।",
+    "translation": "When living together, the constant quarrels are not bound by patience. The coward flees and returns, while the lord enjoys the pomp.",
+    "meaning": "साथ रहते समय, निरंतर झगड़े धैर्य से नहीं बंधते। कायर भाग जाता है और वापस आता है, जबकि प्रभु दिखावा का आनंद लेते हैं।",
+    "explanation": "इस दोहे में कबीर ने एक साथ रहने की कठिनाइयों को व्यक्त किया है। झगड़े और विवाद धैर्य के बंधनों को तोड़ते हैं। कायर लोग भाग जाते हैं और कभी-कभी लौट आते हैं, जबकि भगवान या प्रमुख व्यक्ति अपनी स्थिति का आनंद लेते हैं। यह दोहा समाज की वास्तविकताओं और संघर्षों को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.367Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b2741a36-ea09-41d9-afb2-75e8be00e306",
+  "name": "पूंजि मेरी राम है, जाते सदा निहाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "My wealth is Ram, who is always prosperous. Kabir roars like a strong man; time cannot steal from him.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पूंजि मेरी राम है, जाते सदा निहाल।\nकबीर गरजे पुरुष बल, चोरी करै न काल।।७८२।।",
+    "translation": "My wealth is Ram, who is always prosperous. Kabir roars like a strong man; time cannot steal from him.",
+    "meaning": "मेरी पूंजी राम है, जो हमेशा सुखी रहता है। कबीर एक बलशाली पुरुष की तरह गरजते हैं; काल (समय) उससे चोरी नहीं कर सकता।",
+    "explanation": "इस दोहे में कबीर ने अपने वास्तविक धन के रूप में भगवान राम की ओर इशारा किया है। राम हमेशा सुखी और समृद्ध रहते हैं। कबीर ने एक शक्तिशाली व्यक्ति की तरह काल से अज्ञेयता की बात की है, जो समय या अन्य किसी भी चीज़ से प्रभावित नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.817Z"
+  }
+}

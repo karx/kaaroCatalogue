@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4af2f2ed-69c4-49be-82d8-2570b9befb6d",
+  "name": "तरुवर पात सों यौं कहै, सुनो पात इक बात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The tree speaks through its leaves, listen to this one truth: In this house, the way is such that things come and go.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तरुवर पात सों यौं कहै, सुनो पात इक बात।\nया घर याही रीति है, इक आवत इक जात।।१०८७।।",
+    "translation": "The tree speaks through its leaves, listen to this one truth: In this house, the way is such that things come and go.",
+    "meaning": "वृक्ष अपनी पत्तियों से कहता है, यह एक सच्चाई सुनो: इस घर में, ऐसा ही होता है कि चीजें आती और जाती हैं।",
+    "explanation": "इस दोहे में कबीर ने वृक्ष के पत्तों के माध्यम से जीवन की अस्थिरता को व्यक्त किया है। जैसे पत्तियाँ पेड़ से गिरती और बदलती हैं, वैसे ही जीवन में भी आने-जाने की प्रक्रिया चलती रहती है। यह अस्थिरता और परिवर्तनशीलता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.429Z"
+  }
+}

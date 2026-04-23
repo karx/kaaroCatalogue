@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-k00z4",
+  "name": "How much water do I need to drink?",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT59S",
+  "embedUrl": "https://www.youtube.com/embed/tDat-cHTobU",
+  "contentUrl": "https://www.youtube.com/watch?v=tDat-cHTobU",
+  "uploadDate": "2023-02-02",
+  "thumbnailUrl": "https://i.ytimg.com/vi/tDat-cHTobU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Stand up Comedy about how much water you're supposed to drink in a day.\n\nFollow Naveen on instagram @naveen.richard !\n\n#comedy #standupcomedy #indianstandupcomedy #funny #naveenrichard",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

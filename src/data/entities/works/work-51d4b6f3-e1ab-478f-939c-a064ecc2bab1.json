@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-51d4b6f3-e1ab-478f-939c-a064ecc2bab1",
+  "name": "झालि परे दिन आथये, अन्‍तर परिगो सांझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "After the flame burns out, the day turns to dusk. Many pleasure-seekers find themselves left barren, like a courtesan abandoned at dusk.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झालि परे दिन आथये, अन्‍तर परिगो सांझ।\nबहुत रसिक के लागते, वेश्‍या रह गइ बांझ।।१५४९।।",
+    "translation": "After the flame burns out, the day turns to dusk. Many pleasure-seekers find themselves left barren, like a courtesan abandoned at dusk.",
+    "meaning": "जब आग बुझ जाती है, तब दिन सांझ में बदल जाता है। कई सुख-साधक खुद को बंजर पाएँ, जैसे सांझ में छोड़ी गई वेश्‍या।",
+    "explanation": "कबीर इस दोहे में यह संकेत देते हैं कि जैसे दिन के अंत में रात का आगाज़ होता है, वैसे ही जीवन की समाप्ति पर भी हम कुछ ऐसा अनुभव कर सकते हैं। जो लोग केवल भौतिक सुख-साधनों में लिप्त रहते हैं, वे अंततः खालीपन का सामना करते हैं, जैसे सांझ के समय वेश्‍या को अकेला छोड़ दिया जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.936Z"
+  }
+}

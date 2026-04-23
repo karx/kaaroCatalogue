@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9f749de9-80e1-4f30-b164-3654ccb59eb2",
+  "name": "हंस काग की पारिखा, सतगुरु दई बताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The swan and the crow are judged by the Satguru. The swan picks pearls, while the crow ends up in hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंस काग की पारिखा, सतगुरु दई बताय।\nहंसा तो मोती चुगैं, काग नरक परिजाय।।२१७६।।",
+    "translation": "The swan and the crow are judged by the Satguru. The swan picks pearls, while the crow ends up in hell.",
+    "meaning": "हंस और काग की पहचान सतगुरु ने बताई है। हंस मोती चुनता है, जबकि काग नरक में चला जाता है।",
+    "explanation": "इस दोहे में कबीर ने हंस और काग की तुलना के माध्यम से आदर्श और दोषपूर्ण पहचान की बात की है। सतगुरु की मदद से ही सच्चे और झूठे की पहचान की जा सकती है। हंस मोती चुनता है, जो उसकी श्रेष्ठता को दर्शाता है, जबकि काग की स्थिति कमतर होती है और वह नरक में चला जाता है। यह दोहा यह सिखाता है कि सही मार्गदर्शन से हम सही और गलत की पहचान कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.727Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e1e40040-e011-4142-ae38-97010b9005f1",
+  "name": "हरिजन तो हारा भला, जीतन दे संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The loss of a devotee is good, for they gain the divine. A loss is a gain with Hari, while a win is just a victory in the worldly domain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरिजन तो हारा भला, जीतन दे संसार।\nहारा तो हरि सों मिला, जीता जम के द्वार।।९४३।।",
+    "translation": "The loss of a devotee is good, for they gain the divine. A loss is a gain with Hari, while a win is just a victory in the worldly domain.",
+    "meaning": "भक्त का हार अच्छा होता है, क्योंकि वह भगवान से मिल जाता है। हार भगवान के साथ मिलन है, जबकि जीत केवल संसार की विजय है।",
+    "explanation": "इस दोहे में कबीर ने यह विचार व्यक्त किया है कि भक्त का हार भी उसके लिए लाभकारी होता है, क्योंकि वह भगवान से मिल जाता है। इसके विपरीत, संसार में जीत केवल सांसारिक विजय होती है। कबीर का यह दोहा यह दर्शाता है कि आध्यात्मिक और आत्मिक लाभ सांसारिक लाभ से कहीं अधिक महत्वपूर्ण होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.628Z"
+  }
+}

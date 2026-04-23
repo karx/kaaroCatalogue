@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15f39238-645e-4186-9b8e-533083cbd798",
+  "name": "दया गरीबी बन्दगी, समता शील सुभाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Compassion, humility, devotion, equality, and good nature—these are the qualities of a saint, says Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया गरीबी बन्दगी, समता शील सुभाव।\nयेते लक्षण साधु के, कहैं कबीर सतभाव।।३५३।।",
+    "translation": "Compassion, humility, devotion, equality, and good nature—these are the qualities of a saint, says Kabir.",
+    "meaning": "दया, गरीबी, भक्ति, समता और अच्छा स्वभाव—ये साधु के लक्षण हैं, कबीर कहते हैं।।",
+    "explanation": "इस दोहे में कबीरदास ने साधु के गुणों का वर्णन किया है। साधु की पहचान दया, गरीबी (स्वयं को अनासक्त रखना), भक्ति, समानता और अच्छे स्वभाव से होती है। ये गुण साधु के चरित्र की पहचान हैं और उसकी सच्चाई को दर्शाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-999f964d-d4ed-46e1-913f-4dcbdf837d5b",
+  "name": "फल कारन सेवा करै, निशि-दिन जांचै राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one serves for the sake of reward, constantly seeking divine validation, Kabir says, such a person is not a true servant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "फल कारन सेवा करै, निशि-दिन जांचै राम।\nकहें कबीर सेवक नहीं, चाहै चौगुन दाम।।६७५।।",
+    "translation": "If one serves for the sake of reward, constantly seeking divine validation, Kabir says, such a person is not a true servant.",
+    "meaning": "यदि कोई सेवा फल पाने के लिए करता है और हमेशा भगवान से उसका मूल्यांकन चाहता है, तो कबीर कहते हैं कि वह व्यक्ति सच्चा सेवक नहीं है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि सेवा केवल फल प्राप्ति के लिए नहीं की जानी चाहिए। यदि कोई व्यक्ति सेवा करते समय हमेशा भगवान से उसका फल मांगता है, तो वह सच्चा सेवक नहीं है। सच्ची सेवा बिना किसी प्रतिफल की इच्छा के की जाती है, केवल भगवान की कृपा पाने के लिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.270Z"
+  }
+}

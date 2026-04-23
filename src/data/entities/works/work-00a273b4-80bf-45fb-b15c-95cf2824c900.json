@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-00a273b4-80bf-45fb-b15c-95cf2824c900",
+  "name": "गुरु को कीजै दण्‍डवत, कोटि कोटि परनाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Offer reverence and countless salutations to the Guru. Even a bug does not recognize a bee, so the Guru is to be revered as a divine being.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु को कीजै दण्‍डवत, कोटि कोटि परनाम।\nकीट न जाने भृंग को, गुरु कर ले आप समान।।४८८।।",
+    "translation": "Offer reverence and countless salutations to the Guru. Even a bug does not recognize a bee, so the Guru is to be revered as a divine being.",
+    "meaning": "गुरु को श्रद्धा और अनगिनत प्रणाम अर्पित करें। एक कीट भी भृंग को नहीं पहचानता, इसलिए गुरु को एक दिव्य प्राणी के रूप में सम्मानित करना चाहिए।",
+    "explanation": "इस दोहे में कबीर ने गुरु को अत्यधिक सम्मान देने की बात की है। जैसे कीट भृंग को नहीं पहचानता, वैसे ही गुरु के महत्व और उनकी दिव्यता को पूरी तरह से समझना कठिन होता है। गुरु को अनगिनत प्रणाम और श्रद्धा अर्पित करनी चाहिए, क्योंकि वे हमारे जीवन में एक महत्वपूर्ण स्थान रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

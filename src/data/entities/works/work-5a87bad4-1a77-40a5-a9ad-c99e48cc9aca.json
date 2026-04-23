@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5a87bad4-1a77-40a5-a9ad-c99e48cc9aca",
+  "name": "सब ते सांचा ही भला, जो दिल सांचा होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The best is that which is true; what is true is in the heart. Without truth, there is no happiness, no matter how many efforts one makes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब ते सांचा ही भला, जो दिल सांचा होय।\nसांच बिना सुख है नहीं, कोटि करे जो कोय।।१६८९।।",
+    "translation": "The best is that which is true; what is true is in the heart. Without truth, there is no happiness, no matter how many efforts one makes.",
+    "meaning": "सर्वश्रेष्ठ वही है जो सच्चा हो; सच्चाई दिल में होती है। सच्चाई के बिना सुख नहीं मिलता, चाहे कितने भी प्रयास किए जाएं।",
+    "explanation": "कबीर इस दोहे में सच्चाई और सुख की बात करते हैं। उन्होंने कहा कि सच्चाई के बिना कोई सुख नहीं मिल सकता, चाहे जितने भी प्रयास किए जाएं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.791Z"
+  }
+}

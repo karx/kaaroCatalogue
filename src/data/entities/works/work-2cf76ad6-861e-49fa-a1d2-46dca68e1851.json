@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2cf76ad6-861e-49fa-a1d2-46dca68e1851",
+  "name": "जीव मरण जानै नहीं, अन्‍धा भया सब जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The living do not understand death, they become blind and perish. The orator cannot reach the door, and thus regrets life after life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जीव मरण जानै नहीं, अन्‍धा भया सब जाय।\nवादी द्वारे दार नहिं पावै, जन्‍म जन्‍म पछिताय।।१५३१।।",
+    "translation": "The living do not understand death, they become blind and perish. The orator cannot reach the door, and thus regrets life after life.",
+    "meaning": "जीव मृत्यु को नहीं समझते, वे अंधे हो जाते हैं और नष्ट हो जाते हैं। वाचक दरवाजे तक नहीं पहुँच पाते, और जीवन भर पछताते रहते हैं।",
+    "explanation": "कबीर इस दोहे में मृत्यु और अज्ञानता की बात करते हैं। वे बताते हैं कि जो लोग जीवन की सत्यता और मृत्यु की वास्तविकता को नहीं समझते, वे अंधे और मूर्ख होते हैं। उनके जीवन का उद्देश्य और कर्म व्यर्थ हो जाते हैं क्योंकि वे आत्मा की अमरता और मृत्यु के सही अर्थ को नहीं जान पाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.932Z"
+  }
+}

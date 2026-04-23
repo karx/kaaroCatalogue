@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5v6m-ufgqz",
+  "name": "Names & Pigeons | Trash Jokes 4 | Ghatia Comedy by Abhishek Upmanyu",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-abhishek-upmanyu"
+  },
+  "duration": "PT8M30S",
+  "embedUrl": "https://www.youtube.com/embed/HQILxqS831E",
+  "contentUrl": "https://www.youtube.com/watch?v=HQILxqS831E",
+  "uploadDate": "2020-01-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HQILxqS831E/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Meri taraf se ek aur ghatia peshkash",
+  "channelTitle": "Abhishek Upmanyu",
+  "aggregatorChannel": null
+}

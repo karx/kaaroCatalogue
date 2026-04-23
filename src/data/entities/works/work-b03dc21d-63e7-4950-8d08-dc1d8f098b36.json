@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b03dc21d-63e7-4950-8d08-dc1d8f098b36",
+  "name": "भागे भला न होएगा, कहा धरोगे पाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Running away will not do any good, where will you go with your feet? Surrender your head and fight directly, why act foolishly?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भागे भला न होएगा, कहा धरोगे पाव।\nसिर सौंपो सीधे लड़ो, काहे करौ कुदाव।।४६६।।",
+    "translation": "Running away will not do any good, where will you go with your feet? Surrender your head and fight directly, why act foolishly?",
+    "meaning": "भागने से कुछ भला नहीं होगा, तुम अपने पैरों से कहाँ जाओगे? सिर को समर्पित करो और सीधे लड़ो, मूर्खता क्यों दिखाते हो?",
+    "explanation": "इस दोहे में कबीर ने भागने और समस्याओं से बचने की बजाय, समस्याओं का सीधे सामना करने की सलाह दी है। उन्होंने कहा कि भागने से कुछ भी हासिल नहीं होगा, इसलिए अपनी समस्याओं का सामना सीधे तौर पर करना चाहिए। सिर को समर्पित करके और पूरी ताकत से लड़कर ही सफलता प्राप्त की जा सकती है। यह दोहा साहस और समर्पण की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

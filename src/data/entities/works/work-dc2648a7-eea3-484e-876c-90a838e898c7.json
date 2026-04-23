@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc2648a7-eea3-484e-876c-90a838e898c7",
+  "name": "चिंता न करि अचिंत रहु, साई है सम्रथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not worry, remain carefree, for the Lord is all-powerful. He provides for every creature, be it animals or birds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चिंता न करि अचिंत रहु, साई है सम्रथ।\nपसु पंषेरू जीव जंत, तिनको गांडिं किसा ग्रंथ।।१८७६।।",
+    "translation": "Do not worry, remain carefree, for the Lord is all-powerful. He provides for every creature, be it animals or birds.",
+    "meaning": "चिंता मत करो, निश्चिंत रहो, क्योंकि ईश्वर सर्वशक्तिमान है। वह हर जीव, पशु-पक्षी की भी आवश्यकताओं को पूरा करता है।",
+    "explanation": "कबीरदास जी इस दोहे में चिंता से मुक्त रहने की सलाह देते हैं। वे कहते हैं कि ईश्वर सर्वशक्तिमान हैं और वे हर जीव, चाहे वह पशु हो, पक्षी हो या कोई अन्य, सभी की आवश्यकताओं का ख्याल रखते हैं। इसलिए, हमें भी चिंता करने की आवश्यकता नहीं है, बल्कि ईश्वर पर पूर्ण भरोसा रखना चाहिए। यह दोहा निश्चिंत और भगवान पर विश्वास रखने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.973Z"
+  }
+}

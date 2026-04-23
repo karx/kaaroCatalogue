@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7dhf-wz11x",
+  "name": "Bisleri piyo bhai",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-samay-raina"
+  },
+  "duration": "PT28S",
+  "embedUrl": "https://www.youtube.com/embed/E78_3zxn2vg",
+  "contentUrl": "https://www.youtube.com/watch?v=E78_3zxn2vg",
+  "uploadDate": "2024-12-04",
+  "thumbnailUrl": "https://i.ytimg.com/vi/E78_3zxn2vg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Samay Raina",
+  "aggregatorChannel": null
+}

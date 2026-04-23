@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e17d097e-28ea-4b13-a767-b6de76f96cf8",
+  "name": "भीतर तो भेदा नहीं, बाहिर कथै अनेक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Inside, there is no difference, but outside there are many. What is found inside is the same as outside.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भीतर तो भेदा नहीं, बाहिर कथै अनेक।\nजो पाई भीतर लखि परै,भीतर बाहर एक।।४६०।।",
+    "translation": "Inside, there is no difference, but outside there are many. What is found inside is the same as outside.",
+    "meaning": "भीतर कोई भेद नहीं है, लेकिन बाहर अनेक हैं। जो भीतर पाया जाता है, वही बाहर होता है।",
+    "explanation": "इस दोहे में कबीर ने भीतर और बाहर के भेद की बात की है। वह बताते हैं कि आंतरिक और बाहरी अस्तित्व में कोई अंतर नहीं है; जो भीतर पाया जाता है, वही बाहरी दुनिया में भी होता है। यह दोहा आत्मा की एकता और बाहरी भिन्नताओं की अनासक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

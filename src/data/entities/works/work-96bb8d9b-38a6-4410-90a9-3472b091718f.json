@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-96bb8d9b-38a6-4410-90a9-3472b091718f",
+  "name": "हिरदै हीरा ऊपजै, नाभि कमल के बीच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The jewel arises in the heart, between the lotus of the navel. If someone ever perceives the jewel, they will never face any misfortune.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हिरदै हीरा ऊपजै, नाभि कमल के बीच।\nजो कबहूं हीरा लखै, तो कदे न आवै मीच।।२१६१।।",
+    "translation": "The jewel arises in the heart, between the lotus of the navel. If someone ever perceives the jewel, they will never face any misfortune.",
+    "meaning": "हीरा हृदय में उत्पन्न होता है, नाभि के कमल के बीच। अगर कोई कभी हीरा पहचान लेता है, तो उसे कभी भी विपत्ति का सामना नहीं करना पड़ेगा।",
+    "explanation": "इस दोहे में कबीर ने हीरे को हृदय में, नाभि के कमल के बीच उपजने की बात की है। इसका अर्थ है कि सच्चे मूल्य और ज्ञान हृदय से उत्पन्न होते हैं और जब व्यक्ति उन्हें समझता है, तो उसे जीवन में किसी भी प्रकार की कठिनाई का सामना नहीं करना पड़ता। यह दोहा आत्मज्ञान और आध्यात्मिक मूल्य की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.723Z"
+  }
+}

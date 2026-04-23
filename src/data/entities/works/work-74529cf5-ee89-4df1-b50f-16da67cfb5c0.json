@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-74529cf5-ee89-4df1-b50f-16da67cfb5c0",
+  "name": "अष्‍ट सिद्धि नव निद्धि लौं, सबही मोह की खान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The eight siddhis and nine treasures are all sources of illusion. Renounce the desire for illusion, says the wise Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अष्‍ट सिद्धि नव निद्धि लौं, सबही मोह की खान।\nत्‍याग मोह की वासना, कहैं कबीर सुजान।।१२०९।।",
+    "translation": "The eight siddhis and nine treasures are all sources of illusion. Renounce the desire for illusion, says the wise Kabir.",
+    "meaning": "आठ सिद्धियों और नौ निधियों का सब स्रोत माया है। मोह की वासना का त्याग करो, यही कबीर की सलाह है।",
+    "explanation": "इस दोहे में कबीर ने सिद्धियों और निधियों के मोह को माया का स्रोत बताया है। ये सभी चीजें मोह को बढ़ावा देती हैं। कबीर का संदेश है कि माया की वासना को त्याग देना चाहिए, जिससे सच्ची मुक्ति प्राप्त की जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.267Z"
+  }
+}

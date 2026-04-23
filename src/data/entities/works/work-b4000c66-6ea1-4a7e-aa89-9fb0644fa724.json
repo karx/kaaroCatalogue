@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b4000c66-6ea1-4a7e-aa89-9fb0644fa724",
+  "name": "विंतदय धरमक ध्‍वजा, धीरजवान प्रमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The flag of righteousness is held by the patient; contentment brings joy, and a wise servant is truly skilled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विंतदय धरमक ध्‍वजा, धीरजवान प्रमान।\nसन्‍तोषी सुख दायका, सेवक परम सुजान।।६७१।।",
+    "translation": "The flag of righteousness is held by the patient; contentment brings joy, and a wise servant is truly skilled.",
+    "meaning": "धर्म का ध्वज धैर्यवान के हाथ में होता है। संतोष सुख देने वाला है, और समझदार सेवक ही वास्तव में कुशल होता है।",
+    "explanation": "इस दोहे में कबीर ने अच्छे चरित्र और धर्म के महत्व को बताया है। वह कहते हैं कि धर्म का ध्वज केवल धैर्यवान व्यक्ति के हाथ में होता है। संतोष व्यक्ति को सच्चा सुख देता है, और जो सेवक समझदार होता है, वही परम कुशल माना जाता है। यह दोहा व्यक्ति के आचरण और धैर्य पर जोर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.270Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "catalogId": "bc1c6257-9014-4a57-8d19-9ed25a69d894",
+  "catalogType": "poets",
+  "name": "Indian Kavi Index",
+  "description": "A comprehensive catalog of Indian poets (Kavis) across millennia, spanning Sanskrit, Tamil, Hindi, Urdu, Bengali, and other languages.",
+  "createdAt": "2026-01-04T20:30:00+05:30",
+  "metadata": {
+    "sources": [
+      "Wikipedia",
+      "Sahitya Akademi",
+      "Jnanpith Archives"
+    ],
+    "totalEntities": 45,
+    "lastSync": "2026-01-04T20:30:00+05:30"
+  }
+}

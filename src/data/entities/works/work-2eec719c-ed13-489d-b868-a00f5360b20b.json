@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2eec719c-ed13-489d-b868-a00f5360b20b",
+  "name": "ऐसा कोई ना मिला, हम को दे उपदेश",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I did not find anyone to guide me. Drowning in the ocean of existence, I grasped my hair.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई ना मिला, हम को दे उपदेश।\nभवसागर में डूबते, कर गहि काढे केश।।५३५।।",
+    "translation": "I did not find anyone to guide me. Drowning in the ocean of existence, I grasped my hair.",
+    "meaning": "मुझे कोई ऐसा नहीं मिला जो मुझे उपदेश दे सके। भवसागर में डूबते हुए, मैंने अपने बाल पकड़ लिए।",
+    "explanation": "इस दोहे में कबीर जी अपने अनुभव को व्यक्त करते हैं कि उन्हें कोई ऐसा व्यक्ति नहीं मिला जो उन्हें मार्गदर्शन दे सके। जब वे अस्तित्व के महासागर में डूब रहे थे, तब उन्होंने अपने बाल पकड़कर बचने की कोशिश की।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

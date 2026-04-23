@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bf1f7f84-2839-483b-bcf0-70b0042dc9e9",
+  "name": "यह तत वह तत एक है, एक प्रान दुई गात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This essence and that essence are one; one breath with two forms. Understand from your own heart, what is spoken from my heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह तत वह तत एक है, एक प्रान दुई गात।\nअपने जिय से जानिये, मेरे जिय की बात।।८०६।।",
+    "translation": "This essence and that essence are one; one breath with two forms. Understand from your own heart, what is spoken from my heart.",
+    "meaning": "यह तत्व और वह तत्व एक हैं; एक प्राण और दो रूप। अपने दिल से समझो, मेरे दिल की बात क्या है।",
+    "explanation": "इस दोहे में कबीर ने एकता और दिव्यता की बात की है। उन्होंने बताया कि सभी तत्व एक ही हैं और यह एक प्राण के दो रूप हैं। आत्मिक अनुभव से ही व्यक्ति को इस एकता की सच्चाई समझ में आती है। यह ध्यान और आत्मानुभव के माध्यम से गहरी समझ को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.077Z"
+  }
+}

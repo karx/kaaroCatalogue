@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fb264b71-5f6b-485d-9c29-8a3289ba189b",
+  "name": "हरिजन आवत देखिके, मोहड़ो सूखि गयो",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing the devotee of God, the wicked person’s face becomes pale. They do not understand the essence of devotion and miss the true path.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरिजन आवत देखिके, मोहड़ो सूखि गयो।\nभाव भक्ति समझयो नहीं, मूरख चूकि गयो।।३०९।।",
+    "translation": "Seeing the devotee of God, the wicked person’s face becomes pale. They do not understand the essence of devotion and miss the true path.",
+    "meaning": "भगवान के भक्त को देखकर, साकट व्यक्ति का चेहरा पीला पड़ जाता है। वे भक्ति के सार को नहीं समझते और सच्चे मार्ग को खो देते हैं।",
+    "explanation": "इस दोहे में कबीर भक्ति और उसके प्रभाव को बताते हैं। वे कहते हैं कि जो व्यक्ति भक्ति का सही अर्थ नहीं समझता, वह जीवन के सच्चे उद्देश्य को भी नहीं समझ सकता और इस प्रकार अपने जीवन का मार्ग खो देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1784ad9a-cbe0-4449-b836-59f7a8c74840",
+  "name": "जहां काम तहां नाम नहिं, तहां नाम नहिं काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there is desire, there is no name (spiritual presence); where there is name, there is no desire. They never meet, just like day and night are in separate places.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां काम तहां नाम नहिं, तहां नाम नहिं काम।\nदोनों कबहू ना मिलै, रवि रजनी इक ठाम।।१२३१।।",
+    "translation": "Where there is desire, there is no name (spiritual presence); where there is name, there is no desire. They never meet, just like day and night are in separate places.",
+    "meaning": "जहाँ काम होता है, वहाँ नाम (आध्यात्मिक उपस्थिति) नहीं होता; जहाँ नाम होता है, वहाँ काम नहीं होता। ये कभी नहीं मिलते, जैसे दिन और रात अलग-अलग स्थानों पर होते हैं।",
+    "explanation": "इस दोहे में कबीर ने काम और आध्यात्मिकता के बीच अंतर को स्पष्ट किया है। काम और आध्यात्मिक नाम कभी एक साथ नहीं हो सकते, जैसे दिन और रात कभी एक ही स्थान पर नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.272Z"
+  }
+}

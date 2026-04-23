@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2db1f6ce-afd5-4ffe-8b4a-ada317c465bc",
+  "name": "कबीर यह घर प्रेम का, खाला का घर नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, this is the home of love, not the house of the maternal uncle. He who places his head and hands there, truly resides in the house of love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह घर प्रेम का, खाला का घर नांहि।\nसीस उतारै हाथि करि, सो पैठ घर मांहि।।१९२४।।",
+    "translation": "Kabir says, this is the home of love, not the house of the maternal uncle. He who places his head and hands there, truly resides in the house of love.",
+    "meaning": "कबीर कहते हैं, यह प्रेम का घर है, खाला का घर नहीं। जो अपने सिर और हाथ को वहां अर्पित करता है, वही प्रेम के घर में वास्तव में निवास करता है।",
+    "explanation": "इस दोहे में कबीरदास जी प्रेम के वास्तविक स्वरूप को दर्शाते हैं। वे बताते हैं कि प्रेम केवल बाहरी दिखावे का नाम नहीं है, बल्कि यह एक गहरा और सच्चा अनुभव है। प्रेम के घर में प्रवेश पाने के लिए सच्चे समर्पण और निष्ठा की आवश्यकता होती है। सिर और हाथ को अर्पित करना यह दर्शाता है कि व्यक्ति पूरी तरह से प्रेम के प्रति समर्पित है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.251Z"
+  }
+}

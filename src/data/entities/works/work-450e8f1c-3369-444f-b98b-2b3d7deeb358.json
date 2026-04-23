@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-450e8f1c-3369-444f-b98b-2b3d7deeb358",
+  "name": "कबीर वा दिन याद कर, पग ऊपर तल सीस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, remember that day when your head will be beneath your feet. When you enter the circle of death, you will have forgotten the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर वा दिन याद कर, पग ऊपर तल सीस।\nमृत मंडल में आयके, बिसरि गया जगदीस।।८७४।।",
+    "translation": "Kabir, remember that day when your head will be beneath your feet. When you enter the circle of death, you will have forgotten the Lord.",
+    "meaning": "कबीर, उस दिन को याद करो जब तुम्हारा सिर तुम्हारे पैरों के नीचे होगा। जब तुम मृत्यु के मंडल में प्रवेश करोगे, तो तुम भगवान को भूल चुके होंगे।",
+    "explanation": "कबीर इस दोहे में जीवन के अंत के समय की बात करते हैं, जब मनुष्य दुनिया की माया में उलझा हुआ भगवान को भूल जाता है। वे हमें चेताते हैं कि इस सत्य को याद रखो और समय रहते भगवान को याद करो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.352Z"
+  }
+}

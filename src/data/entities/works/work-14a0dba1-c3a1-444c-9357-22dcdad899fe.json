@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-14a0dba1-c3a1-444c-9357-22dcdad899fe",
+  "name": "सेवक सेवा में रहै, सेवक कहिये सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A true servant is one who remains devoted to service. Kabir says, without service, one cannot be called a servant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सेवक सेवा में रहै, सेवक कहिये सोय।\nकहैं कबीर सेवा बिना, सेवक कभी न होय।।६७९।।",
+    "translation": "A true servant is one who remains devoted to service. Kabir says, without service, one cannot be called a servant.",
+    "meaning": "सच्चा सेवक वही है जो सेवा में लगा रहता है। कबीर कहते हैं कि बिना सेवा के कोई सेवक नहीं हो सकता।",
+    "explanation": "इस दोहे में कबीर सेवा के महत्व पर जोर देते हैं। वह बताते हैं कि जो व्यक्ति लगातार सेवा में लगा रहता है, वही सच्चा सेवक कहलाने योग्य है। सेवा के बिना किसी को भी सेवक नहीं कहा जा सकता। सेवा का मार्ग ही सच्ची भक्ति और समर्पण का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.270Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1509749b-3078-40b8-bc77-28e95056a864",
+  "name": "फल कारण सेवा करे, करे न मन से काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If someone serves expecting rewards, and does not work sincerely from the heart, Kabir says that person is not a true servant; they are just seeking fourfold returns.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "फल कारण सेवा करे, करे न मन से काम।\nकहै कबीर सेवक नहीं, चाहे चौगुना दाम।।६३।।",
+    "translation": "If someone serves expecting rewards, and does not work sincerely from the heart, Kabir says that person is not a true servant; they are just seeking fourfold returns.",
+    "meaning": "जो व्यक्ति फल की इच्छा से सेवा करता है और मन से काम नहीं करता, कबीर कहते हैं कि वह सच्चा सेवक नहीं है; वह तो केवल चार गुना लाभ की चाह रखता है।",
+    "explanation": "इस दोहे में संत कबीर दास जी यह बताने का प्रयास कर रहे हैं कि जो व्यक्ति सेवा करते समय केवल फल की इच्छा रखता है और मन से काम नहीं करता, वह सच्चा सेवक नहीं हो सकता। सच्ची सेवा वह होती है, जो नि:स्वार्थ भाव से की जाती है, जिसमें किसी भी प्रकार की अपेक्षा न हो। अगर कोई व्यक्ति सेवा के बदले में चार गुना लाभ की इच्छा रखता है, तो उसका कार्य सेवा नहीं, बल्कि सौदा है। इस प्रकार का कार्य सच्ची सेवा नहीं कहलाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

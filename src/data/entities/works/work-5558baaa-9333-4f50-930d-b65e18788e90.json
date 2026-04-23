@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5558baaa-9333-4f50-930d-b65e18788e90",
+  "name": "ये कबीर ते उतरिह रहु, तेरो संमल परोहन साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir will remain detached from you, with your companion and support. The pilgrimage will not tire the feet, but the soul's thirst will be quenched.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ये कबीर ते उतरिह रहु, तेरो संमल परोहन साथ।\nशंबल घटे न पगु थका, जीव विराने हाथ।।१६५९।।",
+    "translation": "Kabir will remain detached from you, with your companion and support. The pilgrimage will not tire the feet, but the soul's thirst will be quenched.",
+    "meaning": "कबीर तुमसे अलग रहेंगे, तुम्हारे सहारे और समर्थन के साथ। तीर्थयात्रा पांवों को थका नहीं सकती, लेकिन आत्मा की प्यास बुझ जाएगी।",
+    "explanation": "कबीर इस दोहे में जीवन के ज्ञान और आत्मा की प्यास को दर्शाते हैं। उन्होंने कहा कि वास्तविक आत्मा की प्यास तीर्थयात्रा से नहीं बुझती, बल्कि ज्ञान से बुझती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.785Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-28929320-e1a9-430d-b76b-c44f9d23cbb2",
+  "name": "कबिरा सोई शूरमां, जाके पांचूं हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, true warriors are those who have control over all five senses. Those who don't have control are not close to God.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा सोई शूरमां, जाके पांचूं हाथ।\nजाके पांचूं वश नहीं, तो हरि संग न साथ।।२०८१।।",
+    "translation": "Kabir says, true warriors are those who have control over all five senses. Those who don't have control are not close to God.",
+    "meaning": "कबीर कहते हैं, सच्चे योद्धा वही हैं जिनके पांचों इंद्रियां वश में हैं। जिनके इंद्रियां वश में नहीं हैं, वे भगवान के निकट नहीं होते।",
+    "explanation": "इस दोहे में कबीर सच्ची वीरता का सार बताते हैं। उनके अनुसार, सच्चे वीर वे हैं जो अपनी पांचों इंद्रियों को नियंत्रित रखते हैं। जिनके इंद्रियां नियंत्रित नहीं होतीं, वे आध्यात्मिकता के मार्ग पर प्रगति नहीं कर सकते और ईश्वर से दूर रहते हैं। कबीर इस दोहे में आत्म-संयम और मानसिक अनुशासन के महत्व को रेखांकित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.095Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-71971354-e3bb-44c3-a5cd-897721d0ad79",
+  "name": "अब तो ऐसी ह्वै पड़ी, मनका रुचित कीन्‍ह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Now that it is like this, it has pleased the mind. Why should we fear death? The elephant's tusk has been seized.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अब तो ऐसी ह्वै पड़ी, मनका रुचित कीन्‍ह।\nमरनैं कहा डराइये, हाथि स्‍यंधौरा लीन्‍ह।।१९१७।।",
+    "translation": "Now that it is like this, it has pleased the mind. Why should we fear death? The elephant's tusk has been seized.",
+    "meaning": "अब स्थिति ऐसी हो गई है कि मन को सुख मिला है। मृत्यु से डरने की क्या बात है? हाथी के दांत को पकड़ लिया गया है।",
+    "explanation": "इस दोहे में कबीरदास जी यह व्यक्त करते हैं कि वर्तमान स्थिति में मन को शांति प्राप्त हो गई है और मृत्यु से डरने की कोई बात नहीं है। हाथी के दांत की उपमा देकर, कबीर यह समझाते हैं कि मृत्यु एक स्वाभाविक प्रक्रिया है जिसे स्वीकार करना चाहिए। यह दोहा मृत्यु और जीवन की वास्तविकता को समझने की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.249Z"
+  }
+}

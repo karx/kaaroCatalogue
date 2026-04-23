@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01aa2a31-2e2d-4c57-a019-2677abe21158",
+  "name": "कलि खोटा जग आंधरा, शब्‍द न माने कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In this age of darkness, the world is corrupt, and no one listens to the words of wisdom. When I try to guide others, they become my enemies.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कलि खोटा जग आंधरा, शब्‍द न माने कोय।\nजाहि कहौं हित आपना, सौ उठि बैरी होय।।१४७६।।",
+    "translation": "In this age of darkness, the world is corrupt, and no one listens to the words of wisdom. When I try to guide others, they become my enemies.",
+    "meaning": "यह कलियुग है, संसार अंधकारमय और भ्रष्ट है, और कोई भी ज्ञान की बात नहीं मानता। जब मैं दूसरों की भलाई के लिए कुछ कहता हूँ, तो वे मेरे दुश्मन बन जाते हैं।",
+    "explanation": "कबीर इस दोहे में कलियुग के दोषों का वर्णन करते हैं। उनका कहना है कि इस युग में लोग सत्य और ज्ञान की बातों को नहीं मानते। यदि कोई उनकी भलाई के लिए कुछ कहने का प्रयास करता है, तो वे उसे अपना शत्रु मानने लगते हैं। इस दोहे में कबीर ने समाज में व्याप्त अज्ञानता और अस्वीकार्यता को उजागर किया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.658Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "entityId": "poet-nirala",
+  "name": "Suryakant Tripathi 'Nirala'",
+  "@type": "Person",
+  "knowsLanguage": "Hindi",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Chhayavaad",
+  "titles": [
+    "Nirala"
+  ],
+  "keywords": [
+    "Free Verse",
+    "Saroj Smriti",
+    "Revolution"
+  ],
+  "abstract": "A revolutionary who broke rigid rules of meter. Saroj Smriti is a heartbreaking elegy for his daughter. Ram Ki Shakti Puja reimagines Rama as a human struggling with despair.",
+  "majorWorks": [
+    "Saroj Smriti",
+    "Ram Ki Shakti Puja",
+    "Parimal"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Suryakant_Tripathi_%27Nirala%27"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Suryakant_Tripathi_%27Nirala%27",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

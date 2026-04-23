@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-10e06b67-4d05-4360-900a-8f87d7d2bcea",
+  "name": "प्रेमी ढूंढत मैं फिरुं, प्रेमी मिलै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I search for the beloved, but I find no lover. When one lover meets another, the poison becomes nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेमी ढूंढत मैं फिरुं, प्रेमी मिलै न कोय।\nप्रेमी सों प्रेमी मिलै, विष से अमृत होय।।८१७।।",
+    "translation": "I search for the beloved, but I find no lover. When one lover meets another, the poison becomes nectar.",
+    "meaning": "मैं प्रेमी की तलाश करता हूं, लेकिन प्रेमी नहीं मिलता। जब एक प्रेमी दूसरे प्रेमी से मिलता है, तो विष भी अमृत बन जाता है।",
+    "explanation": "इस दोहे में कबीर ने सच्चे प्रेमी की खोज और प्रेम की शक्ति को व्यक्त किया है। जब एक सच्चा प्रेमी दूसरे सच्चे प्रेमी से मिलता है, तब दुनिया की कठिनाइयाँ और विष भी अमृत में बदल जाती हैं। यह प्रेम की शक्ति और उसके अद्वितीय प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

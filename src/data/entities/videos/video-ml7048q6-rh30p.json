@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-rh30p",
+  "name": "WENT TO AMSTERDAM. IT WAS... A TRIP? VLOG 1",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT6M5S",
+  "embedUrl": "https://www.youtube.com/embed/N0n0Au9_zWg",
+  "contentUrl": "https://www.youtube.com/watch?v=N0n0Au9_zWg",
+  "uploadDate": "2022-05-02",
+  "thumbnailUrl": "https://i.ytimg.com/vi/N0n0Au9_zWg/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Hi! This is my first vlog. I've never done this before, so pls excuse the fact that this has been cobbled together out of limited footage. Hopefully they just get better and better from here. Pls leave any constructive feedback in the comments. \n\nAlso, go to Amsterdam. It's amazing.\n\nEdited by the b",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

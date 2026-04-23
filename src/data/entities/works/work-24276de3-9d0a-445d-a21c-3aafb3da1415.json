@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-24276de3-9d0a-445d-a21c-3aafb3da1415",
+  "name": "सतगुरु तो सतभाव है, जो अस भेद बताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true Guru is the essence of truth, revealing the secrets of this reality. Blessed are those who attain such knowledge and recognition.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु तो सतभाव है, जो अस भेद बताय।\nधन्‍य शीष धन भाग तिहिं, जो ऐसी सुधि पाया।।५०९।।",
+    "translation": "The true Guru is the essence of truth, revealing the secrets of this reality. Blessed are those who attain such knowledge and recognition.",
+    "meaning": "सतगुरु सत्य का सार हैं, जो इस वास्तविकता के रहस्यों को प्रकट करते हैं। वे धन्य हैं जिन्होंने इस प्रकार का ज्ञान और पहचान प्राप्त की है।",
+    "explanation": "इस दोहे में कबीर सतगुरु के सत्यत्व को दर्शाते हैं, जो जीवन के रहस्यों को उजागर करते हैं। ऐसे लोग धन्य हैं जिन्होंने इस सच्चाई को पहचान लिया है और सतगुरु के मार्गदर्शन से लाभान्वित हुए हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.464Z"
+  }
+}

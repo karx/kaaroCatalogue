@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee8cc503-bc6d-4e22-bceb-ce14e11eb597",
+  "name": "सरबस सीस चढ़ाइये, तन कृत सेवा सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Offer everything to the Guru, serve with dedication. Endure hunger, thirst, and hardships, but never lose sight of the Guru's teachings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सरबस सीस चढ़ाइये, तन कृत सेवा सार।\nभूख प्‍यास सहे ताड़ना, गुरु के सुरति न‍िहार।।५४१।।",
+    "translation": "Offer everything to the Guru, serve with dedication. Endure hunger, thirst, and hardships, but never lose sight of the Guru's teachings.",
+    "meaning": "गुरु को अपना सब कुछ अर्पित कर दो, और तन-मन से उनकी सेवा करो। भूख-प्यास और कठिनाइयों को सहो, लेकिन गुरु की शिक्षा से कभी दृष्टि न हटाओ।",
+    "explanation": "इस दोहे में संत कबीर जी गुरु के प्रति शिष्य की भक्ति और समर्पण का वर्णन करते हैं। वे कहते हैं कि शिष्य को अपना सब कुछ गुरु के चरणों में अर्पित कर देना चाहिए और तन-मन से उनकी सेवा करनी चाहिए। चाहे भूख, प्यास, और अन्य कठिनाइयां आएं, लेकिन गुरु की शिक्षा से कभी विचलित नहीं होना चाहिए। यह दोहा गुरु के प्रति पूर्ण समर्पण और भक्ति की महत्ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3394e11c-9658-48e1-9f0d-b9540e3ffda9",
+  "name": "वेद थके ब्रह्मा थके, याके सेस महेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Vedas are exhausted, Brahma is tired, and Shiva is also worn out. The Gita is still incomplete, but the saints' teachings are complete.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "वेद थके ब्रह्मा थके, याके सेस महेस।\nगीता हूँ कि गत नहीं, सन्त किया परवेस।।३३०।।",
+    "translation": "The Vedas are exhausted, Brahma is tired, and Shiva is also worn out. The Gita is still incomplete, but the saints' teachings are complete.",
+    "meaning": "वेद थक चुके हैं, ब्रह्मा थके हुए हैं और शिव भी थके हुए हैं। गीता अधूरी है, लेकिन संतों की शिक्षाएं पूर्ण हैं।",
+    "explanation": "कबीर इस दोहे में यह बताते हैं कि जबकि वेद, ब्रह्मा और शिव भी थक चुके हैं, और गीता भी पूरी नहीं है, संतों की शिक्षाएं संपूर्ण हैं। संतों का ज्ञान और उनके उपदेश सभी ग्रंथों से अधिक महत्वपूर्ण हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

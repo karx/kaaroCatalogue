@@ -1,0 +1,43 @@
+{
+  "@type": "Person",
+  "entityId": "poet-basavanna",
+  "name": "Basavanna",
+  "additionalType": "Kavi",
+  "birthDate": "1131",
+  "deathDate": "1196",
+  "knowsLanguage": "Kannada",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Karnataka"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Statesman, Poet-Saint"
+  },
+  "award": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Basava"
+  ],
+  "keywords": [
+    "Vachana",
+    "Anti-Caste",
+    "Temple Rejection",
+    "Social Reform"
+  ],
+  "era": "Bhakti",
+  "century": "12th Century",
+  "literaryMovement": "Virashaiva",
+  "philosophicalSchool": "Vachanakara",
+  "titles": [
+    "Statesman-Saint"
+  ],
+  "abstract": "A statesman who led the Virashaiva movement. His Vachanas rejected temple worship and caste, famously stating 'The rich make temples for Shiva; what shall I, a poor man, do? My legs are pillars.'",
+  "majorWorks": [
+    "Vachana Sahitya"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Basava",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

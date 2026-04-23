@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e813b9b-770b-4977-bdda-efb0aeca98d8",
+  "name": "मानष तेरा गुण ही बड़ा, मांस न आवे काज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The quality of a human is great; flesh does not serve the purpose. Without bones as ornaments, the skin does not make music.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मानष तेरा गुण ही बड़ा, मांस न आवे काज।\nहाड़ न होते आभरण, त्‍वचा न बाजन बाज।।१६३६।।",
+    "translation": "The quality of a human is great; flesh does not serve the purpose. Without bones as ornaments, the skin does not make music.",
+    "meaning": "मनुष्य का गुण बड़ा होता है; मांस का कोई काम नहीं। हड्डियाँ आभूषण नहीं होतीं, त्वचा बजने वाली नहीं होती।",
+    "explanation": "कबीर इस दोहे में मानव गुण और उसकी महत्ता को दिखाते हैं। उन्होंने कहा कि भौतिक चीजें और शरीर के बाहरी पहलू महत्वपूर्ण नहीं होते; वास्तविक गुण और आत्मा की महत्वता ही सर्वोपरि है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.509Z"
+  }
+}

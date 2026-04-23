@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8360cc64-2a36-4c6a-942e-50142d872c20",
+  "name": "सन्‍त मता गजराज का, चाले बन्‍धन छोड़",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint is like a wise elephant, who leaves the bonds of worldly attachments. The world chases after false things and does not hear the true call.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्‍त मता गजराज का, चाले बन्‍धन छोड़।\nजग कुत्ता पीछै फिरै, सुनै न वाका सोर।।६००।।",
+    "translation": "A saint is like a wise elephant, who leaves the bonds of worldly attachments. The world chases after false things and does not hear the true call.",
+    "meaning": "संत एक बुद्धिमान हाथी के समान होता है, जो सांसारिक बंधनों को छोड़ देता है। दुनिया झूठी चीजों का पीछा करती है और सच्ची पुकार को नहीं सुनती।",
+    "explanation": "संत सांसारिक बंधनों से मुक्त होकर आत्मिक और आध्यात्मिक उन्नति की ओर बढ़ते हैं। समाज अक्सर झूठी और क्षणिक चीजों के पीछे भागता है और सत्य की आवाज को नजरअंदाज करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

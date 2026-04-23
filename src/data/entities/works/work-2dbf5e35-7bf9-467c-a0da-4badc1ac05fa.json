@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2dbf5e35-7bf9-467c-a0da-4badc1ac05fa",
+  "name": "नारी सेती नेह, बुधि विवेक सबही डरै",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Attachment to a woman causes fear in wisdom and intellect. Such attachment leads to the loss of one’s body and does not accomplish any purpose.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नारी सेती नेह, बुधि विवेक सबही डरै।\nकांइ गमावै देह, कारिज कोई नां सरे।।२०४४।।",
+    "translation": "Attachment to a woman causes fear in wisdom and intellect. Such attachment leads to the loss of one’s body and does not accomplish any purpose.",
+    "meaning": "महिला के प्रति लगाव बुद्धि और विवेक में डर पैदा करता है। ऐसा लगाव व्यक्ति के शरीर को नष्ट कर देता है और कोई उद्देश्य पूरा नहीं करता।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि महिला के प्रति लगाव बुद्धि और विवेक में डर पैदा करता है। यह लगाव व्यक्ति के शरीर को खोने का कारण बनता है और कोई भी महत्वपूर्ण कार्य पूरा नहीं होता। यह भौतिक लगाव के दुष्परिणामों को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.812Z"
+  }
+}

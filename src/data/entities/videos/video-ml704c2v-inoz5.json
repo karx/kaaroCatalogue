@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704c2v-inoz5",
+  "name": "First Date Questions #standupcomedy #sapanverma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT44S",
+  "embedUrl": "https://www.youtube.com/embed/MXEiw5oXQXk",
+  "contentUrl": "https://www.youtube.com/watch?v=MXEiw5oXQXk",
+  "uploadDate": "2025-04-30",
+  "thumbnailUrl": "https://i.ytimg.com/vi/MXEiw5oXQXk/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

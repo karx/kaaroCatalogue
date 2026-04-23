@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16f7d45c-d96a-41db-ac36-b5c19f192754",
+  "name": "मनुवां तो पंछी भया, उड़‍िके चला अकास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind became like a bird, flying up to the sky. But it fell down from above, and now it is caught in illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मनुवां तो पंछी भया, उड़‍िके चला अकास।\nऊपर ही ते गिर पड़ा, मन माया के पास।।११४३।।",
+    "translation": "The mind became like a bird, flying up to the sky. But it fell down from above, and now it is caught in illusion.",
+    "meaning": "मन एक पंछी की तरह हो गया, जो आकाश में उड़ने चला। लेकिन वह ऊपर से गिर पड़ा और अब माया में फंस गया है।",
+    "explanation": "इस दोहे में कबीर ने मन के आकाश में उड़ने की स्थिति और माया में गिरने की अवस्था का वर्णन किया है। यह दर्शाता है कि मन स्वतंत्रता की ओर बढ़ते हुए भी माया के जाल में फंस जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8960043d-e822-43a5-8d29-43b90c13bb35",
+  "name": "{{ubl",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/{{ubl",
+    "retrievedAt": "2026-01-04T18:39:02.124Z"
+  }
+}

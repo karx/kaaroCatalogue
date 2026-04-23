@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2056bed7-f3bf-4fc6-8050-1243443f5d69",
+  "name": "Thiruppavai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-andal"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Thiruppavai",
+    "retrievedAt": "2026-01-04T18:39:09.372Z"
+  }
+}

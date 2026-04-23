@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a9450424-b3b4-4ccd-8c84-b2589512591a",
+  "name": "कबीर गुरु सबको चहै, गुरु को चहै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the Guru desires for everyone, but no one desires the Guru. As long as there is hope in the body, one cannot be a true servant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर गुरु सबको चहै, गुरु को चहै न कोय।\nजब लग आश शरीर की, तब लग दास न होय।।६९६।।",
+    "translation": "Kabir says, the Guru desires for everyone, but no one desires the Guru. As long as there is hope in the body, one cannot be a true servant.",
+    "meaning": "कबीर कहते हैं, गुरु सभी के लिए चाहते हैं, लेकिन कोई भी गुरु को नहीं चाहता। जब तक शरीर में आशा बनी रहती है, तब तक कोई सच्चा सेवक नहीं हो सकता।",
+    "explanation": "इस दोहे में कबीर गुरु की इच्छाओं और भक्त की स्थिति की बात करते हैं। वे कहते हैं कि गुरु सभी की भलाई चाहते हैं, लेकिन भक्त गुरु की पूरी तरह से इच्छा नहीं करते। जब तक शरीर में कोई आशा बनी रहती है, तब तक व्यक्ति सच्चे सेवक की स्थिति में नहीं आ सकता। यह दोहा गुरु की सच्ची भक्ति और परिग्रह की जटिलता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

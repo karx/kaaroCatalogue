@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6272ccd0-931b-48e5-9a4d-cebd946e59c0",
+  "name": "नहीं शीतल है चंद्रमा, हिम नहीं शीतल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The moon is not cool, nor is the frost cold. Kabir says true coolness is found in the saint who loves the name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नहीं शीतल है चंद्रमा, हिम नहीं शीतल होय।\nकबीरा शीतल संत जन, नाम सनेही सोय।।४७।।",
+    "translation": "The moon is not cool, nor is the frost cold. Kabir says true coolness is found in the saint who loves the name.",
+    "meaning": "चंद्रमा ठंडा नहीं है और न ही पाला ठंडा होता है। कबीर कहते हैं, सच्ची ठंडक उन संतों में होती है जो नाम के प्रेमी होते हैं।",
+    "explanation": "इस दोहे में संत कबीर सच्ची शीतलता की पहचान को बताते हैं। वे कहते हैं कि चंद्रमा और पाला ठंडा नहीं होते हैं, बल्कि सच्ची ठंडक उन संतों में होती है जो भगवान के नाम के प्रति सच्चा प्रेम रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

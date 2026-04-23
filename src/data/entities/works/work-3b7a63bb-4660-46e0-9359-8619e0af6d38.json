@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3b7a63bb-4660-46e0-9359-8619e0af6d38",
+  "name": "ऐसा कोई ना मिले, सब विधि देइ बताइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one is found who explains everything as per the laws of nature. In the circle of existence, there is only one person who remains constant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई ना मिले, सब विधि देइ बताइ।\nसुंनि मंडल मैं पुरिष एक, ताहि रहै ल्‍यो लाइ।।१९६९।।",
+    "translation": "No one is found who explains everything as per the laws of nature. In the circle of existence, there is only one person who remains constant.",
+    "meaning": "कोई ऐसा नहीं मिलता जो सब विधियों को स्पष्ट कर सके। संसार के मंडल में केवल एक ही व्यक्ति ऐसा है जो स्थिर और अपरिवर्तित रहता है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि संसार में कोई भी व्यक्ति पूरी तरह से सभी विधियों और नियमों को नहीं समझा सकता। केवल एक ही शाश्वत सत्य है जो हर परिस्थिति में स्थिर रहता है। यहाँ स्थिरता और निरंतरता की ओर इशारा किया गया है, जो केवल दिव्य तत्व या परमात्मा में प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.531Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57b4a2db-37b8-41dc-8e46-b9f1ec3fa771",
+  "name": "काल करै साे आज कर, सबहि साज तुव साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What you can do today, do it now; all arrangements will follow with time. What can time do to time, when it is in the hands of time?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल करै साे आज कर, सबहि साज तुव साथ।\nकाल काल तू क्‍या करै, काल काल के हाथ।।९०८।।",
+    "translation": "What you can do today, do it now; all arrangements will follow with time. What can time do to time, when it is in the hands of time?",
+    "meaning": "जो काम आज कर सकते हो, वही अभी करो; सब व्यवस्था समय के साथ होगी। समय समय के साथ क्या कर सकता है, जब वह खुद समय के हाथ में है?",
+    "explanation": "कबीर इस दोहे में समय की महत्वता और काम को समय पर करने की सलाह देते हैं। वे कहते हैं कि जो कार्य आप आज कर सकते हैं, उसे तुरंत पूरा करें, क्योंकि समय के साथ सभी चीजें ठीक हो जाएंगी। समय की अनिश्चितता और उसके हाथ में होने का सुझाव देते हुए, कबीर हमें समय की नासमझी और विलंब से बचने के लिए प्रेरित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.623Z"
+  }
+}

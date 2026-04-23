@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-49e2d558-db01-4726-8390-fc47d62b94c2",
+  "name": "कबीर सोई पीर है, जो जाने पर पीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the true saint is one who feels the pain of others. The one who doesn't know others' pain is a non-believer, without compassion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सोई पीर है, जो जाने पर पीर।\nजो पर पीर न जानई, सो काफिर बेपीर।।१३८८।।",
+    "translation": "Kabir says, the true saint is one who feels the pain of others. The one who doesn't know others' pain is a non-believer, without compassion.",
+    "meaning": "कबीर कहते हैं, सच्चा संत वही है जो दूसरों का दर्द समझता है। जो दूसरों का दुख नहीं जानता, वह बेपीर और नास्तिक है।",
+    "explanation": "कबीर इस दोहे में सच्ची पीर (संत) की परिभाषा देते हैं। वे कहते हैं कि सच्चा संत वही है जो दूसरों के दुखों को महसूस करता है। जो व्यक्ति दूसरों की पीड़ा नहीं समझता, वह वास्तविक संत नहीं हो सकता। यह दोहा हमें सहानुभूति और करुणा के महत्व को समझाने की कोशिश करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.090Z"
+  }
+}

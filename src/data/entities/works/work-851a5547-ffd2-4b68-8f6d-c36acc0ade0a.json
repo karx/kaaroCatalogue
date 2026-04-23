@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-851a5547-ffd2-4b68-8f6d-c36acc0ade0a",
+  "name": "हौं तो सब ही की कही, मेरी कहे न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I speak for everyone, but no one speaks for me. Only those who are like me, can understand what I say.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हौं तो सब ही की कही, मेरी कहे न कोय।\nमेरी कहे सो जना, जो मुझ ही सा होय।।१६५८।।",
+    "translation": "I speak for everyone, but no one speaks for me. Only those who are like me, can understand what I say.",
+    "meaning": "मैं सबके लिए बोलता हूँ, लेकिन कोई मेरे लिए नहीं बोलता। केवल वही लोग, जो मेरे जैसे हैं, मेरी बात समझ सकते हैं।",
+    "explanation": "कबीर इस दोहे में व्यक्तिगत और सार्वभौम स्थिति की बात करते हैं। उन्होंने कहा कि केवल वही लोग जो उनके समान हैं, उनकी बातें समझ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.785Z"
+  }
+}

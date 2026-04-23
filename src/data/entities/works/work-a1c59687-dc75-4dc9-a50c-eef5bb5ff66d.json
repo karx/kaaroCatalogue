@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a1c59687-dc75-4dc9-a50c-eef5bb5ff66d",
+  "name": "सिदक सबरी बाहिरा, कहा हज्‍ज को जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The outward rituals of Sabari are irrelevant; what use is going on pilgrimage? For those whose hearts are not true, how can they be divine?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सिदक सबरी बाहिरा, कहा हज्‍ज को जाय।\nजिनका दिल साबित नहीं, तिनको कहा खुदाय।।१३५५।।",
+    "translation": "The outward rituals of Sabari are irrelevant; what use is going on pilgrimage? For those whose hearts are not true, how can they be divine?",
+    "meaning": "सबरी के बाहरी कर्म महत्वहीन हैं; तीर्थयात्रा का क्या लाभ? जिनका दिल सच्चा नहीं है, वे कैसे दिव्य हो सकते हैं?",
+    "explanation": "कबीर जी के अनुसार, बाहरी धार्मिक कर्म और तीर्थयात्रा केवल दिखावा होते हैं। सच्चा धार्मिकता और ईश्वरता दिल की सच्चाई में होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.082Z"
+  }
+}

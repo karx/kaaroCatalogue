@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8151fdc3-ed23-4be7-9e34-a3a87bda796f",
+  "name": "भक्ति बिना नहिं निस्‍तरै, लाख करै जो कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without devotion, no one can escape, no matter how many efforts are made. The true lover of words will find their way home.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति बिना नहिं निस्‍तरै, लाख करै जो कोय।\nशब्‍द सनेही ह्वै रहे, घर को पहुंचे सोय।।७११।।",
+    "translation": "Without devotion, no one can escape, no matter how many efforts are made. The true lover of words will find their way home.",
+    "meaning": "भक्ति के बिना कोई भी बच नहीं सकता, चाहे कितनी भी कोशिशें की जाएं। जो शब्दों का सच्चा प्रेमी होता है, वह अपने घर को पहुँचता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि भक्ति के बिना किसी भी व्यक्ति का उद्धार नहीं हो सकता, भले ही वह कितनी भी मेहनत करे। केवल शब्दों का सच्चा प्रेमी ही अपने आत्मिक घर तक पहुँच सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

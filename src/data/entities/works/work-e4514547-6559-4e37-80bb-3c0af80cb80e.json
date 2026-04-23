@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4514547-6559-4e37-80bb-3c0af80cb80e",
+  "name": "मांस खाये ते ढेड़ सब, मद पीवै सा नीच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who consume meat are degraded, and those who drink alcohol are lowly. They destroy the moral values of their lineage; Ram says they are the lowest.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांस खाये ते ढेड़ सब, मद पीवै सा नीच।\nकुल की दुरमति पर हरै, राम कहै सो ऊंच।।२२३७।।",
+    "translation": "Those who consume meat are degraded, and those who drink alcohol are lowly. They destroy the moral values of their lineage; Ram says they are the lowest.",
+    "meaning": "जो मांस खाते हैं, वे नीच होते हैं, और जो मदिरा पीते हैं, वे भी नीच होते हैं। वे अपने कुल की दुरमति को नष्ट करते हैं; राम कहते हैं कि वे सबसे नीच हैं।",
+    "explanation": "इस दोहे में कबीर जी मांस और शराब का सेवन करने वालों को नीच बताते हैं और उनके कुल की नैतिकता को नष्ट करने की बात करते हैं। यह दिखाता है कि कबीर जी धार्मिक और नैतिक आचार संहिता के प्रति गहरी चिंता व्यक्त करते हैं और अनुशासनहीनता को नकारात्मक रूप में देखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.088Z"
+  }
+}

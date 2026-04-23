@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0887n1-2ujx6",
+  "name": "Dudes #1 : The Plan",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kanan-gill"
+  },
+  "duration": "PT1M12S",
+  "embedUrl": "https://www.youtube.com/embed/Ej7mziMcIdU",
+  "contentUrl": "https://www.youtube.com/watch?v=Ej7mziMcIdU",
+  "uploadDate": "2014-07-28",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Ej7mziMcIdU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The dudes have a plan.\n\n@KananGill\n@KalyanRath\n@KnowKenny",
+  "channelTitle": "Kanan Gill",
+  "aggregatorChannel": null
+}

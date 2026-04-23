@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cfa0976f-a29f-4d40-8998-45604223c6aa",
+  "name": "मन नहिं मारा करि सका, न मन पांच प्रहारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind cannot be killed by force, nor can it be conquered by five attacks. Without virtue, truth, and faith, the senses remain uncovered.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन नहिं मारा करि सका, न मन पांच प्रहारि।\nसील सांच सरधा नहीं, अजह् इन्द्रि उघारि।।११५७।।",
+    "translation": "The mind cannot be killed by force, nor can it be conquered by five attacks. Without virtue, truth, and faith, the senses remain uncovered.",
+    "meaning": "मन को बलात् नहीं मारा जा सकता, न ही इसे पांच प्रहारों से पराजित किया जा सकता है। जब तक सील, सत्य और श्रद्धा नहीं है, इन्द्रियाँ अविकसित रहती हैं।",
+    "explanation": "इस दोहे में कबीर ने मन की शक्ति और उसकी प्रबलता को उजागर किया है। वे बताते हैं कि मन को बल या बाहरी दबाव से काबू में नहीं किया जा सकता। यदि मन में सील (सदाचार), सांच (सत्य) और श्रद्धा (विश्वास) नहीं है, तो इन्द्रियाँ सही मायनों में विकसित नहीं हो सकतीं। यह बताता है कि आंतरिक गुणों की आवश्यकता है ताकि मन को सही दिशा में लाया जा सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.968Z"
+  }
+}

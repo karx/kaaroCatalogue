@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0cacf268-172f-45b4-b6a0-1dbe748eac79",
+  "name": "काल काल सब कोइ कहे, काल न चीन्‍हे कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone talks about time (death), but no one truly understands it. Whatever is imagined by the mind is called time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल काल सब कोइ कहे, काल न चीन्‍हे कोय।\nजेती मन की कल्‍पना, काल कहावै सोय।।१०४८।।",
+    "translation": "Everyone talks about time (death), but no one truly understands it. Whatever is imagined by the mind is called time.",
+    "meaning": "हर कोई काल (मृत्यु) की बात करता है, लेकिन कोई उसे समझता नहीं है। मन की जितनी भी कल्पनाएँ हैं, उन्हें ही काल कहा जाता है।",
+    "explanation": "इस दोहे में कबीर काल (मृत्यु) की वास्तविकता का वर्णन करते हैं। वे कहते हैं कि हर कोई काल की चर्चा करता है, लेकिन वास्तव में उसे समझने वाला कोई नहीं है। वे यह भी बताते हैं कि मन की कल्पनाएँ और इच्छाएँ ही काल का स्वरूप हैं, जो हमें भ्रम में डालती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.167Z"
+  }
+}

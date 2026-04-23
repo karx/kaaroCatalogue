@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a5c9b67-e276-409b-b214-3d46573ac350",
+  "name": "करनी बीन कथनी कथै, अज्ञानी दिन रात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without actions, mere words are meaningless. Ignorant people speak day and night without understanding, like a dog that keeps barking at hearsay.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करनी बीन कथनी कथै, अज्ञानी दिन रात।\nकूकर सम भूकत फिरै, सुनी सुनाई बात।।१३२२।।",
+    "translation": "Without actions, mere words are meaningless. Ignorant people speak day and night without understanding, like a dog that keeps barking at hearsay.",
+    "meaning": "कर्म के बिना केवल शब्द बेकार होते हैं। अज्ञानी लोग दिन-रात बिना समझे बोलते रहते हैं, जैसे कुत्ता सुनाई हुई बात पर भौंकता रहता है।",
+    "explanation": "कबीर जी के अनुसार, कर्मों की अनुपस्थिति में केवल शब्दों का कोई महत्व नहीं होता। अज्ञानी लोग केवल बोलते रहते हैं और समझदारी की कमी के कारण उनके शब्द भी जैसे कुत्ते की भौंकने की तरह होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.812Z"
+  }
+}

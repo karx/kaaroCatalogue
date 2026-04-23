@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7f21948d-b06a-476b-84bf-a67d6c4265b4",
+  "name": "जा पल दरसन साधु का, ता पल की बलिहारी",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For a moment of seeing a saint, I am willing to sacrifice that moment. When the name of Ram resides on the tongue, it improves one's life.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा पल दरसन साधु का, ता पल की बलिहारी।\nराम नाम रसना बसे, लीजै जनम सुधारि।।१२२।।",
+    "translation": "For a moment of seeing a saint, I am willing to sacrifice that moment. When the name of Ram resides on the tongue, it improves one's life.",
+    "meaning": "साधु के दर्शन के एक पल के लिए, मैं उस पल की बलिहारी हूँ। जब राम का नाम जिव्हा पर बस जाता है, तो जीवन सुधार होता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि एक साधु के दर्शन के लिए एक पल भी बलिदान योग्य है। जब किसी के जीवन में राम का नाम बस जाता है, तो जीवन में सुधार होता है। यह दोहा हमें सिखाता है कि साधु संतों के दर्शन और उनके ज्ञान को पाना अत्यंत महत्वपूर्ण है, और इससे हमारे जीवन में सकारात्मक बदलाव आते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

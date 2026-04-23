@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq1im4-7bwa4",
+  "name": "Varun Grover || Comedy Special || Nothing Makes Sense",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-varun-grover"
+  },
+  "duration": "PT1H21M10S",
+  "embedUrl": "https://www.youtube.com/embed/O-sdocGbdRg",
+  "contentUrl": "https://www.youtube.com/watch?v=O-sdocGbdRg",
+  "uploadDate": "2026-01-02",
+  "thumbnailUrl": "https://i.ytimg.com/vi/O-sdocGbdRg/hqdefault.jpg",
+  "genre": "Stand-Up Special",
+  "description": "My first ever standup special - NOTHING MAKES SENSE - out on youtube now.\n\nI toured with it in 2024-2025 and had great fun developing it. Thanks to everyone who attended a live show of this special.\n\nMy all-new 90-mins solo LOVE, DEATH, and KETCHUP is touring now. Dubai, India, Europe, and UK - all ",
+  "channelTitle": "Varun Grover",
+  "aggregatorChannel": null
+}

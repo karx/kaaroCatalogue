@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c7e886d0-aef7-462a-8b1f-66b80c9be496",
+  "name": "भग भोगै भग ऊपजे, भगते बचै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Enjoyment and desire both arise from fate, but no one is saved by mere devotion. Kabir says, only those who are truly devoted can escape.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भग भोगै भग ऊपजे, भगते बचै न कोय।\nकहैं कबीर भगते बचै, भक्‍त कहावै सोय।।१२३०।।",
+    "translation": "Enjoyment and desire both arise from fate, but no one is saved by mere devotion. Kabir says, only those who are truly devoted can escape.",
+    "meaning": "भोग और इच्छा दोनों किस्मत से उत्पन्न होती हैं, लेकिन केवल भक्ति से कोई नहीं बचता। कबीर कहते हैं, केवल सच्चे भक्त ही बच सकते हैं।",
+    "explanation": "इस दोहे में कबीर ने भक्ति और भाग्य के संबंध को दर्शाया है। भोग और इच्छाएँ किस्मत से उत्पन्न होती हैं, और केवल सच्चे भक्त ही इनसे बच सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.272Z"
+  }
+}

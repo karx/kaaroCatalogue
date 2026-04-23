@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-90da0398-6609-46d1-b1c1-5ef8d7162649",
+  "name": "निगुरा ब्राह्मण नहिं भला, गुरुमुख भला चमार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A Brahmin without Guru is not good, while a disciple of the Guru is better even if he is a chamar. A dog, who barks at the door of the gods, is better than a deity without devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निगुरा ब्राह्मण नहिं भला, गुरुमुख भला चमार।\nदेवतन से कुत्ता भला, नित उठि भुंके द्वार।।५५१।।",
+    "translation": "A Brahmin without Guru is not good, while a disciple of the Guru is better even if he is a chamar. A dog, who barks at the door of the gods, is better than a deity without devotion.",
+    "meaning": "बिना गुरु के ब्राह्मण अच्छा नहीं होता, जबकि गुरु के शिष्य को चमार होने पर भी श्रेष्ठ माना जाता है। देवताओं से भौंकने वाला कुत्ता भी, बिना भक्ति के देवता से बेहतर होता है।",
+    "explanation": "कबीर जी ने इस दोहे में बताया है कि गुरु के बिना किसी भी जाति या वर्ग का व्यक्ति असंगत होता है, जबकि गुरु के शिष्य की कोई भी स्थिति हो, वह श्रेष्ठ होता है। इसी तरह, भक्ति के बिना देवता की स्थिति भी कुत्ते से बेहतर नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.725Z"
+  }
+}

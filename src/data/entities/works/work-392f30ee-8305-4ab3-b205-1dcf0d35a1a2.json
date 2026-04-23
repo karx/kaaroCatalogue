@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-392f30ee-8305-4ab3-b205-1dcf0d35a1a2",
+  "name": "बिनु रसरी गृह खल बंधा, तासू बंधा अलेख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without a rope, the house is bound, it is bound in an unseen manner. The mirror in the hand of the poor, shows what is not visible without a glass.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिनु रसरी गृह खल बंधा, तासू बंधा अलेख।\nदीन्‍ह दर्पण हस्‍त मधे, चसम बिना का देख।।१६१४।।",
+    "translation": "Without a rope, the house is bound, it is bound in an unseen manner. The mirror in the hand of the poor, shows what is not visible without a glass.",
+    "meaning": "रसरी के बिना, घर बंधा हुआ है, यह अदृश्य रूप से बंधा है। गरीब के हाथ में दर्पण, वह दिखाता है जो बिना कांच के दिखाई नहीं देता।",
+    "explanation": "कबीर इस दोहे में भ्रम और वास्तविकता की बात करते हैं। उन्होंने कहा कि बिना रसरी के घर बंधा होता है, और गरीब के हाथ में दर्पण भी ऐसा दिखाता है जो बिना कांच के नजर नहीं आता। यह वास्तविकता की गहराई को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.504Z"
+  }
+}

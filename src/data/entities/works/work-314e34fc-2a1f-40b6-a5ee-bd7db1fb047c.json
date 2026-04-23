@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-314e34fc-2a1f-40b6-a5ee-bd7db1fb047c",
+  "name": "क्रिया करै अंगरि गिनै, मन धावै चहुं ओर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who counts the actions and moves the mind in all directions will find that the path to meeting the divine is harsh and difficult.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्रिया करै अंगरि गिनै, मन धावै चहुं ओर।\nजिहि फेरै सांई मिलै, सो भय काठ कठोर।।७४७।।",
+    "translation": "One who counts the actions and moves the mind in all directions will find that the path to meeting the divine is harsh and difficult.",
+    "meaning": "जो व्यक्ति क्रियाओं की गणना करता है और मन को चारों ओर दौड़ाता है, उसे सांई (ईश्वर) से मिलने का मार्ग कठिन और कष्टदायक लगेगा।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जो व्यक्ति केवल बाहरी क्रियाओं और कर्मों की गणना करता है, और मन को हर दिशा में घुमाता है, उसे दिव्य से मिलने का मार्ग कठिन और कष्टकारी लगता है। वास्तव में, सांई या दिव्य को प्राप्त करने के लिए आंतरिक समर्पण और सच्चे ध्यान की आवश्यकता है, न कि केवल बाहरी कर्मों की गणना।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

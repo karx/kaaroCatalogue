@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01b9e65a-4426-4d23-b096-87ace13cc6e6",
+  "name": "कबीर यह मन मसखरा, कहूं तो मानै रोस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that this mind is a jester, and it becomes angry if scolded. On the path where the Master is found, it does not measure distance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर यह मन मसखरा, कहूं तो मानै रोस।\nजा मारग साहिब मिलै, तहां न चालै कोस।।११०२।।",
+    "translation": "Kabir says that this mind is a jester, and it becomes angry if scolded. On the path where the Master is found, it does not measure distance.",
+    "meaning": "कबीर कहते हैं कि यह मन एक मसखरा है, जिसे अगर डांटा जाए तो नाराज हो जाता है। जिस मार्ग पर मालिक मिलते हैं, वहां यह दूरी नहीं मापता।",
+    "explanation": "इस दोहे में कबीर ने मन की स्वभाविकता को दर्शाया है। मन स्वभाव से ही अस्थिर और अज्ञानी होता है। यदि इसे डांटा जाए तो यह गुस्सा हो जाता है और सही मार्ग पर चलने में विफल रहता है। जब हमें सच्चे गुरु या मालिक मिलते हैं, तो मन उन पर ध्यान नहीं देता और सही मार्ग को नहीं पहचानता। इसका मतलब है कि मन की अस्थिरता और स्वभाविकता हमें सच्चे मार्ग पर चलने से रोकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.700Z"
+  }
+}

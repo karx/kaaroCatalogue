@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3842ff9d-6abf-412d-80af-4940b4940dcf",
+  "name": "जो छोड़े तो आँधरा, खाये तो मरि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you abandon it, you will face hardship; if you consume it, you will die. Such is the regret of the leech, which suffers in both ways.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो छोड़े तो आँधरा, खाये तो मरि जाय।\nऐसे संग छछून्दरी, दोऊ भाँति पछिताय।।३९२।।",
+    "translation": "If you abandon it, you will face hardship; if you consume it, you will die. Such is the regret of the leech, which suffers in both ways.",
+    "meaning": "यदि आप इसे छोड़ देते हैं, तो आपको कठिनाई का सामना करना पड़ेगा; यदि आप इसका सेवन करते हैं, तो आप मर जाएंगे। ऐसा ही पछतावा छछून्दरी का है, जो दोनों ही तरीकों से पछताती है।",
+    "explanation": "इस दोहे में कबीर दास जी ने छछून्दरी (जो एक परजीवी है) के माध्यम से उस स्थिति को दर्शाया है जब कोई व्यक्ति दोनों ही तरीकों से पछताता है। अगर व्यक्ति किसी चीज को छोड़ देता है, तो उसे कठिनाइयों का सामना करना पड़ता है, और अगर वह उसे स्वीकार कर लेता है, तो उसके लिए मृत्यु का कारण बन जाता है। छछून्दरी की तरह, दोनों विकल्प उसे पछताने के लिए मजबूर कर देते हैं। यह दोहा हमें सिखाता है कि कभी-कभी हम ऐसी स्थिति में फंस जाते हैं जहाँ दोनों विकल्प हमें पछताने के लिए मजबूर करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

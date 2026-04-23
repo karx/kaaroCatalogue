@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cddf8020-5672-4000-a32c-7a02f32ddff6",
+  "name": "Urubhangam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-bhasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Urubhangam",
+    "retrievedAt": "2026-01-04T18:39:06.642Z"
+  }
+}

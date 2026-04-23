@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bda96148-6115-420b-895f-475df3e4db60",
+  "name": "भक्ति दुवारा सांकरा, राई दशवें भाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion is the pillar of support; without it, all efforts are futile. If the mind is impure, how can it achieve liberation?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति दुवारा सांकरा, राई दशवें भाय।\nमन तो मैंगल होय रहा, कैसे आवै जाय।।७२३।।",
+    "translation": "Devotion is the pillar of support; without it, all efforts are futile. If the mind is impure, how can it achieve liberation?",
+    "meaning": "भक्ति ही सहारा है; इसके बिना सभी प्रयास व्यर्थ होते हैं। अगर मन शुद्ध नहीं है, तो मुक्ति कैसे प्राप्त होगी?",
+    "explanation": "इस दोहे में कबीर ने भक्ति को जीवन के लिए आवश्यक आधार बताया है। उन्होंने स्पष्ट किया है कि भक्ति के बिना सभी प्रयास व्यर्थ होते हैं। यदि मन शुद्ध नहीं है, तो मुक्ति प्राप्त करना संभव नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.543Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8c7ebd46-9640-4d36-9c2c-27d2a68c7a92",
+  "name": "नाना रंग तरंग है, मन मकरंद असूझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There are various waves of color, and the mind is like nectar that cannot be understood. Kabir says, understand the subtle art with wisdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाना रंग तरंग है, मन मकरंद असूझ।\nकहहिं कबीर पुकारि के, अकलि कला ले बूझ।।१५७८।।",
+    "translation": "There are various waves of color, and the mind is like nectar that cannot be understood. Kabir says, understand the subtle art with wisdom.",
+    "meaning": "विभिन्न रंगों की लहरें हैं, और मन अमृत की तरह है जिसे समझा नहीं जा सकता। कबीर कहते हैं, अकल (बुद्धि) से सूक्ष्म कला को समझो।",
+    "explanation": "इस दोहे में कबीर ने मन की जटिलता और उसकी गहराई को समझाने की कोशिश की है। विभिन्न रंगों और तरंगों की तरह, मन भी अमृत की तरह है, जिसे समझना आसान नहीं है। सूक्ष्म कला और गहरी समझ के लिए अकल की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.210Z"
+  }
+}

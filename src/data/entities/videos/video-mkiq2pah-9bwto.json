@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2pah-9bwto",
+  "name": "Random Jokes | Stand Up Comedy by Karunesh Talwar",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-karunesh-talwar"
+  },
+  "duration": "PT9M42S",
+  "embedUrl": "https://www.youtube.com/embed/NATcyqYtsBA",
+  "contentUrl": "https://www.youtube.com/watch?v=NATcyqYtsBA",
+  "uploadDate": "2020-03-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/NATcyqYtsBA/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "These are jokes I had never planned to upload, but because we're all in quarantine , I thought aapko yeh de deta hoon. Sound aur video quality thodi upar-neeche hai, sorry about that. \n\nI upload new content daily on Instagram, follow me @karuneshtalwar \n\nVideo Production - Nanak Bhatia, Abhishek Bhu",
+  "channelTitle": "Karunesh Talwar",
+  "aggregatorChannel": null
+}

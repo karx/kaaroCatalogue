@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bdd6492d-a94f-40c5-8944-3178e7a55b88",
+  "name": "कहैं क‍बीर तजि भरम को, नन्‍हा है कर पीव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says to abandon delusions, as the child (soul) should hold onto the Guru’s feet. By forsaking ego and taking refuge in the Guru’s feet, one can be freed from the cycle of birth and death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहैं क‍बीर तजि भरम को, नन्‍हा है कर पीव।\nतजि अहँ गुरु चरण गहु, जमसों बाचै जीव।।४८२।।",
+    "translation": "Kabir says to abandon delusions, as the child (soul) should hold onto the Guru’s feet. By forsaking ego and taking refuge in the Guru’s feet, one can be freed from the cycle of birth and death.",
+    "meaning": "कबीर कहते हैं कि भ्रांति को छोड़ दो और गुरु के चरणों को पकड़ो। अहंकार को त्यागकर गुरु के चरणों में शरण लेने से जीव जन्म-मरण के चक्र से मुक्त हो जाता है।",
+    "explanation": "इस दोहे में कबीर ने भ्रांति और अहंकार को त्यागने की बात की है। वे कहते हैं कि गुरु के चरणों में शरण लेने से जीव को मोक्ष की प्राप्ति होती है। इस प्रकार गुरु की शरण में जाकर अहंकार को छोड़ना और सच्चे मार्ग पर चलना जीवन को जन्म-मरण के चक्र से मुक्त कर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

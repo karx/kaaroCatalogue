@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-577a31fc-3e56-448f-ab6d-f355f9116198",
+  "name": "मूवा हे मरिं जाहुगे, बिनु सर थोथे भाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The dead will die, without the head's support. Under the tree of misfortune, today is the time of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूवा हे मरिं जाहुगे, बिनु सर थोथे भाल।\nपरहु करायल वृक्ष तल, आज मरहु के काल।।१६४६।।",
+    "translation": "The dead will die, without the head's support. Under the tree of misfortune, today is the time of death.",
+    "meaning": "मृतक मरेगा, बिना सिर के सहारे। दुर्भाग्य के वृक्ष के नीचे, आज मौत का समय है।",
+    "explanation": "कबीर इस दोहे में मृत्यु के अपरिहार्यता और समय के महत्व को दर्शाते हैं। उन्होंने कहा कि मृत्यु निश्चित है और यह किसी भी समय आ सकती है, जैसे कि आज मौत का दिन हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.511Z"
+  }
+}

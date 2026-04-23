@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-837ffa2d-0afd-4f82-ae67-63e88f21dd39",
+  "name": "कबीर संगति साधु, जो करि जाने कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the company of saints transforms everything into sandalwood; bamboo cannot become sandalwood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर संगति साधु, जो करि जाने कोय।\nसकल बिछ चन्‍दन भये, बांस न चन्‍दन होय।।६५३।।",
+    "translation": "Kabir says that the company of saints transforms everything into sandalwood; bamboo cannot become sandalwood.",
+    "meaning": "कबीर कहते हैं कि संतों की संगति से सब कुछ चंदन जैसा बन जाता है; बांस चंदन नहीं बन सकता।",
+    "explanation": "संतों की संगति में रहने से व्यक्ति और उसकी वृत्तियाँ पवित्र और सुगंधित हो जाती हैं, जैसे चंदन की लकड़ी। बांस की तुलना में चंदन का गुण अद्वितीय है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.268Z"
+  }
+}

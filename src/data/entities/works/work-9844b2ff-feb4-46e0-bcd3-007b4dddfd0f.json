@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9844b2ff-feb4-46e0-bcd3-007b4dddfd0f",
+  "name": "जा कारण जग ढूँढ़िया, सो तो घट ही मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What you seek in the world is within you. The veil of delusion covers it, and therefore, you cannot see it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा कारण जग ढूँढ़िया, सो तो घट ही मांहि।\nपरदा दिया भरम का, ताते सूझे नाहिं।।४६।।",
+    "translation": "What you seek in the world is within you. The veil of delusion covers it, and therefore, you cannot see it.",
+    "meaning": "जो कुछ आप जगत में ढूंढ रहे हैं, वह सब आपके भीतर ही है। भ्रम का परदा उसे ढक लेता है, इसलिए आप उसे नहीं देख पाते।",
+    "explanation": "इस दोहे में संत कबीर आत्मा की खोज और स्वयं की पहचान पर जोर देते हैं। वे कहते हैं कि जो कुछ भी हम बाहरी संसार में खोज रहे हैं, वह वास्तव में हमारे अंदर ही होता है। भ्रम और अज्ञानता के परदे के कारण हमें यह समझ में नहीं आता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

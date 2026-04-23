@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-477f1747-8888-4640-a788-a101be37c3d8",
+  "name": "करता करै बहुत गुंण, औगुंण कोई नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Creator possesses countless virtues, and no flaws exist. If I search my heart, I find all flaws within me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करता करै बहुत गुंण, औगुंण कोई नांहि।\nजे दिल खोजौं आपणीं, तौ सब औगुण मुझ मांहि।।१८५८।।",
+    "translation": "The Creator possesses countless virtues, and no flaws exist. If I search my heart, I find all flaws within me.",
+    "meaning": "सृष्टिकर्ता के पास असीम गुण हैं, और उसमें कोई दोष नहीं है। अगर मैं अपने दिल को खोजता हूँ, तो मुझे अपने भीतर सभी दोष मिलते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी कहते हैं कि ईश्वर के पास असीम गुण हैं और उसमें कोई दोष नहीं है। यदि हम अपने दिल में झांकें, तो हमें अपने अंदर ही सभी प्रकार के दोष दिखाई देंगे। इसका अर्थ है कि हमें अपने दोषों को पहचानकर उन्हें सुधारने का प्रयास करना चाहिए, बजाय इसके कि हम दूसरों में दोष ढूंढें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.968Z"
+  }
+}

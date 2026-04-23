@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5df72ae6-0dfb-43c7-a151-f85c23fd5dd5",
+  "name": "साधु दरशन महाफल, कोटि यज्ञ फल लेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sight of a saint brings immense rewards, greater than the fruits of a million sacrifices. What need is there for temples? Purify the city by their presence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु दरशन महाफल, कोटि यज्ञ फल लेह।\nइन मन्दिर को का पड़ी, नगर शुद्ध करि लेह।।५९४।।",
+    "translation": "The sight of a saint brings immense rewards, greater than the fruits of a million sacrifices. What need is there for temples? Purify the city by their presence.",
+    "meaning": "संत का दर्शन अत्यधिक फलदायी होता है, जो लाखों यज्ञों के फल से भी बड़ा है। मंदिर की क्या आवश्यकता है? उनकी उपस्थिति से नगर को शुद्ध कर लें।",
+    "explanation": "संतों की उपस्थिति और दर्शन से हमें असाधारण लाभ प्राप्त होता है, जो बड़े धार्मिक अनुष्ठानों से भी अधिक होता है। उनकी उपस्थिति से न केवल व्यक्ति बल्कि पूरे समाज की शुद्धि और उन्नति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

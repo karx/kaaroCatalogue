@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee7f128e-0b94-499b-8228-ac651f8750fc",
+  "name": "बिनवत हूं कर जोरि कै, सुनु गुरु कृपा निधान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I humbly plead with folded hands, listen, O treasure of grace. Grant me peace among saints, and the knowledge of compassion and poverty.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिनवत हूं कर जोरि कै, सुनु गुरु कृपा निधान।\nसंतन में सुख दीजिये, दया गरीबी ज्ञान।।२१७८।।",
+    "translation": "I humbly plead with folded hands, listen, O treasure of grace. Grant me peace among saints, and the knowledge of compassion and poverty.",
+    "meaning": "मैं विनम्रता से हाथ जोड़कर प्रार्थना करता हूँ, सुनिए, कृपा के खजाने। मुझे संतों के बीच सुख दीजिये और दया व गरीबी के ज्ञान को प्रदान करें।",
+    "explanation": "इस दोहे में कबीर ने गुरु से विनम्रता और सच्चे ज्ञान की प्रार्थना की है। वे गुरु से दया, गरीबी और संतों के बीच शांति की प्राप्ति की कामना करते हैं। यह दोहा गुरु की कृपा और सच्चे ज्ञान के महत्व को दर्शाता है, जो संतों के बीच सुख और समृद्धि का मार्ग प्रशस्त करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.728Z"
+  }
+}

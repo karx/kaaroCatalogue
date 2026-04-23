@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c6b4ace2-4c7d-4818-be56-9adf9f76a137",
+  "name": "जिनको सांई रंग दिया, कबहुं न होय कुरंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who are dyed in the color of the Lord never become impure. Day by day, their speech becomes purer, and they grow in divine hue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिनको सांई रंग दिया, कबहुं न होय कुरंग।\nदिन-दिन बानी आगरी, चढ़ै सवाया रंग।।१२०४।।",
+    "translation": "Those who are dyed in the color of the Lord never become impure. Day by day, their speech becomes purer, and they grow in divine hue.",
+    "meaning": "जिनको भगवान का रंग मिला है, वे कभी भी अपवित्र नहीं होते। दिन-प्रतिदिन उनकी वाणी पवित्र होती जाती है और वे दिव्य रंग में रंगे जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने भगवान के रंग में रंगे हुए लोगों की पवित्रता को दर्शाया है। जो लोग भगवान की भक्ति में रंगे होते हैं, वे कभी भी अपवित्र नहीं होते और उनकी वाणी समय के साथ और अधिक पवित्र होती जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.266Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3d29de93-e6fa-45b0-92a3-9d7fdeef8b9c",
+  "name": "Kumārasambhavam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Kumārasambhavam",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

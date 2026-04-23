@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e26314ea-be74-4852-8c7d-d62c0ba77eac",
+  "name": "मथुरा जावै द्वारिका, भावै जावै जगनाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One may visit Mathura, Dwarka, or Jagannath, but without the company of saints and devotion to Hari, nothing is achieved.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मथुरा जावै द्वारिका, भावै जावै जगनाथ।\nसाध संगति हरि भगति बिन, कछु न आवै हाथ।।२०१०।।",
+    "translation": "One may visit Mathura, Dwarka, or Jagannath, but without the company of saints and devotion to Hari, nothing is achieved.",
+    "meaning": "कोई भी मथुरा, द्वारका, या जगन्नाथ की यात्रा कर सकता है, लेकिन साधु की संगति और हरि की भक्ति के बिना कुछ भी प्राप्त नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने तीर्थ यात्रा और साधु की संगति के महत्व को बताया है। उन्होंने कहा है कि भले ही कोई व्यक्ति मथुरा, द्वारका, या जगन्नाथ की यात्रा करे, लेकिन अगर साधुओं की संगति और हरि की भक्ति नहीं है, तो कोई भी आध्यात्मिक लाभ प्राप्त नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.802Z"
+  }
+}

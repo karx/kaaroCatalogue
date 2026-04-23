@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a2e0a0c4-73b4-4480-bfe3-3cbab81551bc",
+  "name": "एक शब्‍द गुरुदेव का, तामे अनन्‍त विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One word from the Guru contains infinite wisdom. Even sages and scholars are exhausted by it; the Vedas cannot fathom its depth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक शब्‍द गुरुदेव का, तामे अनन्‍त विचार।\nथाके मुनिजन पंडिता, वेद न पावे पार।।१४६६।।",
+    "translation": "One word from the Guru contains infinite wisdom. Even sages and scholars are exhausted by it; the Vedas cannot fathom its depth.",
+    "meaning": "गुरुदेव के एक शब्द में अनंत विचार समाहित हैं। यहाँ तक कि मुनि और पंडित भी इससे थक जाते हैं, और वेद भी इसकी गहराई को नहीं समझ पाते।",
+    "explanation": "इस दोहे में कबीर गुरु के एक शब्द की महिमा का वर्णन करते हैं। गुरु के एक शब्द में अनंत ज्ञान और विचार छिपे होते हैं, जिन्हें समझना आसान नहीं है। यहाँ तक कि मुनि, ऋषि और पंडित जैसे विद्वान भी इस ज्ञान के सामने विवश हो जाते हैं, और वेद भी इसकी गहराई को नहीं माप सकते। गुरु का एक शब्द ही साधक के जीवन को परिवर्तित कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.656Z"
+  }
+}

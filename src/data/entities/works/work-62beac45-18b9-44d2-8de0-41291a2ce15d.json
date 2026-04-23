@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-62beac45-18b9-44d2-8de0-41291a2ce15d",
+  "name": "कोटि करम लागे रहै, एक क्रोध की लार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Millions of good deeds can be undone by a single droplet of anger. Everything that was done is lost when pride arrives.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोटि करम लागे रहै, एक क्रोध की लार।\nकिया कराया सब गया, जब आया हंकार।।१२३७।।",
+    "translation": "Millions of good deeds can be undone by a single droplet of anger. Everything that was done is lost when pride arrives.",
+    "meaning": "कोटियों के अच्छे कर्म एक क्रोध की बूंद से व्यर्थ हो सकते हैं। जब अहंकार आता है, तब किया गया सब कुछ खो जाता है।",
+    "explanation": "इस दोहे में कबीर ने क्रोध और अहंकार के विनाशकारी प्रभाव को दर्शाया है। लाखों अच्छे कर्म भी एक क्रोध की बूंद से व्यर्थ हो सकते हैं और अहंकार के आने पर सब कुछ खो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.273Z"
+  }
+}

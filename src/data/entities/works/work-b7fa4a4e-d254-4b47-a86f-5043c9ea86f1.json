@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b7fa4a4e-d254-4b47-a86f-5043c9ea86f1",
+  "name": "ye kis KHalish ne phir is dil mein aashiyana kiya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ye-kis-khalish-ne-phir-is-dil-men-aashiyaana-kiyaa-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.212Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ye-kis-khalish-ne-phir-is-dil-men-aashiyaana-kiyaa-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nye kis ḳhalish ne phir is dil meñ āshiyāna kiyā\nphir aaj kis ne suḳhan ham se ġhā.ebāna kiyā\nġham-e-jahāñ ho ruḳh-e-yār ho ki dast-e-adū\nsulūk jis se kiyā ham ne āshiqāna kiyā\nthe ḳhāk-e-rāh bhī ham log qahr-e-tūfāñ bhī\nsahā to kyā na sahā aur kiyā to kyā na kiyā\nḳhushā ki aaj har ik mudda.ī ke lab par hai\nvo raaz jis ne hameñ rāñda-e-zamāna kiyā\nvo hīla-gar jo vafā-jū bhī hai jafā-ḳhū bhī\nkiyā bhī 'faiz' to kis but se dostāna kiyā\nye kis KHalish ne phir is dil mein aashiyana kiya\nphir aaj kis ne suKHan hum se ghaebana kiya\ngham-e-jahan ho ruKH-e-yar ho ki dast-e-adu\nsuluk jis se kiya hum ne aashiqana kiya\nthe KHak-e-rah bhi hum log qahr-e-tufan bhi\nsaha to kya na saha aur kiya to kya na kiya\nKHusha ki aaj har ek muddai ke lab par hai\nwo raaz jis ne hamein randa-e-zamana kiya\nwo hila-gar jo wafa-ju bhi hai jafa-KHu bhi\nkiya bhi 'faiz' to kis but se dostana kiya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nیہ کس خلش نے پھر اس دل میں آشیانہ کیا\nپھر آج کس نے سخن ہم سے غائبانہ کیا\nغم جہاں ہو رخ یار ہو کہ دست عدو\nسلوک جس سے کیا ہم نے عاشقانہ کیا\nتھے خاک راہ بھی ہم لوگ قہر طوفاں بھی\nسہا تو کیا نہ سہا اور کیا تو کیا نہ کیا\nخوشا کہ آج ہر اک مدعی کے لب پر ہے\nوہ راز جس نے ہمیں راندۂ زمانہ کیا\nوہ حیلہ گر جو وفا جو بھی ہے جفاخو بھی\nکیا بھی فیضؔ تو کس بت سے دوستانہ کیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nये किस ख़लिश ने फिर इस दिल में आशियाना किया\nफिर आज किस ने सुख़न हम से ग़ाएबाना किया\nग़म-ए-जहाँ हो रुख़-ए-यार हो कि दस्त-ए-अदू\nसुलूक जिस से किया हम ने आशिक़ाना किया\nथे ख़ाक-ए-राह भी हम लोग क़हर-ए-तूफ़ाँ भी\nसहा तो क्या न सहा और किया तो क्या न किया\nख़ुशा कि आज हर इक मुद्दई के लब पर है\nवो राज़ जिस ने हमें राँदा-ए-ज़माना किया\nवो हीला-गर जो वफ़ा-जू भी है जफ़ा-ख़ू भी\nकिया भी 'फ़ैज़' तो किस बुत से दोस्ताना किया",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:13.945Z"
+  }
+}

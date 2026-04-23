@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-05dd1772-ed97-4df4-9c56-812f03b6f00f",
+  "name": "जब मैं था, तब गुरु नहीं, अब गुरु हैं, मैं नाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When I was there, there was no guru; now that the guru is here, I am not. The path of love is very narrow; two cannot fit in it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब मैं था, तब गुरु नहीं, अब गुरु हैं, मैं नाय।\nप्रेम गली अति साँकरी, ता में दो न समाय।।५५।।",
+    "translation": "When I was there, there was no guru; now that the guru is here, I am not. The path of love is very narrow; two cannot fit in it.",
+    "meaning": "जब मैं था तब कोई गुरु नहीं था; अब गुरु आए हैं और मैं नहीं हूँ। प्रेम का मार्ग बहुत संकरा है, उसमें दो लोग नहीं समा सकते।",
+    "explanation": "इस दोहे में संत कबीर ने गुरु की उपस्थिति और भक्ति के गहरे अर्थ को स्पष्ट किया है। उन्होंने कहा कि जब वह स्वयं थे, तो गुरु का अस्तित्व नहीं था; अब जब गुरु आए हैं, तो उनका स्वयं का अस्तित्व मिट गया है। प्रेम का मार्ग इतना संकरा है कि गुरु और शिष्य दोनों एक साथ नहीं रह सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

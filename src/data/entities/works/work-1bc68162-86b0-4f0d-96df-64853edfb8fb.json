@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1bc68162-86b0-4f0d-96df-64853edfb8fb",
+  "name": "कहना सो कह दिया, अब कुछ कहा न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have said what was to be said, now nothing more can be spoken. One (life) remains, the other has merged into the waves of the river.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहना सो कह दिया, अब कुछ कहा न जाय।\nएक रहा, दूजा गया, दरिया लहर समाय।।३४।।",
+    "translation": "I have said what was to be said, now nothing more can be spoken. One (life) remains, the other has merged into the waves of the river.",
+    "meaning": "मैंने जो कहना था वह कह दिया, अब और कुछ कहा नहीं जा सकता। एक जीवन बचा है, दूसरा नदी की लहरों में विलीन हो गया है।",
+    "explanation": "इस दोहे में संत कबीर संतोष और जीवन की नश्वरता की बात करते हैं। उन्होंने जीवन की सच्चाई को कह दिया है, और अब कुछ और कहने की जरूरत नहीं है। एक जीवन चलता रहता है, जबकि दूसरा खत्म हो जाता है, जैसे नदी की लहरों में विलीन हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

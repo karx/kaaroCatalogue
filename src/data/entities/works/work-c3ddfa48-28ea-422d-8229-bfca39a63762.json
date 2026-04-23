@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c3ddfa48-28ea-422d-8229-bfca39a63762",
+  "name": "काया कजरी बन अहै, मन कुंजर महमन्‍त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is like a dark cloud, and the mind is like an elephant. The goad of knowledge is with the saints and sages.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काया कजरी बन अहै, मन कुंजर महमन्‍त।\nअंकुस ज्ञान रतन है, फेरै साधु सन्‍त।।११०९।।",
+    "translation": "The body is like a dark cloud, and the mind is like an elephant. The goad of knowledge is with the saints and sages.",
+    "meaning": "शरीर एक कजरी (अंधेरा बादल) के समान है और मन एक हाथी के समान है। ज्ञान का अंकुस साधुओं और संतों के पास होता है।",
+    "explanation": "इस दोहे में कबीर ने शरीर और मन की तुलना की है। शरीर को कजरी यानी अंधेरे बादल जैसा बताया गया है, जो अज्ञानी और अस्थिर होता है। मन को हाथी के समान कहा गया है, जो विशाल और शक्तिशाली है, लेकिन उसे नियंत्रित करने की आवश्यकता है। ज्ञान का अंकुस, जो कि एक प्रकार का शस्त्र होता है, साधुओं और संतों के पास होता है, जो इस ज्ञान को सही दिशा देने का काम करते हैं। यह दोहा ज्ञान की महत्वता और साधुओं की भूमिका को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.701Z"
+  }
+}

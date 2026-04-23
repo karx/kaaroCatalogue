@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fe3088af-7cb0-4a6f-9f69-7a17b2039c24",
+  "name": "लोग भरोसे कवन के, बैठ रहे अरगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "On whose trust do people sit and relax? Meanwhile, their souls are looted, like clay being looted by the potter.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लोग भरोसे कवन के, बैठ रहे अरगाय।\nताते जियरहिं जमे लूट, जस मटिया लुटै कसाय।।१६६९।।",
+    "translation": "On whose trust do people sit and relax? Meanwhile, their souls are looted, like clay being looted by the potter.",
+    "meaning": "लोग किसके भरोसे बैठते हैं और आराम करते हैं? इसी बीच, उनकी आत्मा लूट ली जाती है, जैसे मटिया का लूट होना।",
+    "explanation": "कबीर इस दोहे में भरोसे और शोषण की बात करते हैं। उन्होंने कहा कि लोगों की आत्मा शोषण का शिकार होती है, जबकि वे आराम से बैठे रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.787Z"
+  }
+}

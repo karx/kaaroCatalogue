@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2aa59392-4eae-4373-ac02-f2bc868d7d97",
+  "name": "माया छोड़न सब कहै, माया छोरि न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone speaks of abandoning illusion, but it does not leave. Those who speak of abandonment face many rebukes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया छोड़न सब कहै, माया छोरि न जाय।\nछोरन की जो बात करु, बहुत तमाचा खाय।।११६८।।",
+    "translation": "Everyone speaks of abandoning illusion, but it does not leave. Those who speak of abandonment face many rebukes.",
+    "meaning": "सभी माया को छोड़ने की बात करते हैं, लेकिन माया नहीं छोड़ती। जो लोग छोड़ने की बात करते हैं, उन्हें बहुत से ताने मिलते हैं।",
+    "explanation": "इस दोहे में कबीर ने माया को छोड़ने की कठिनाई को व्यक्त किया है। वे कहते हैं कि भले ही लोग माया को छोड़ने की बातें करें, लेकिन माया वास्तव में नहीं जाती। जो लोग माया को छोड़ने का दावा करते हैं, उन्हें आलोचनाएँ और ताने मिलते हैं, क्योंकि यह प्रक्रिया आसान नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.970Z"
+  }
+}

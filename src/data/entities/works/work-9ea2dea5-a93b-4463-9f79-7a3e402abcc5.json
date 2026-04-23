@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9ea2dea5-a93b-4463-9f79-7a3e402abcc5",
+  "name": "गुरु गोविन्‍द करि जानिये, रहिये शब्‍द समाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Recognize the Guru as the Lord and the Sustainer. When you meet him, offer obeisance and not just practice meditation every moment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु गोविन्‍द करि जानिये, रहिये शब्‍द समाय।\nमिलै तो दण्‍डवत बंदगी, नहिं पल पल ध्‍यान लगाय।।४७६।।",
+    "translation": "Recognize the Guru as the Lord and the Sustainer. When you meet him, offer obeisance and not just practice meditation every moment.",
+    "meaning": "गुरु को भगवान और पालनहार के रूप में पहचानो। जब उनसे मिलो, तो दंडवत प्रणाम करो, केवल पल-पल ध्यान करने से काम नहीं चलेगा।",
+    "explanation": "इस दोहे में कबीर ने गुरु को भगवान और पालनहार के रूप में मानने की सलाह दी है। उन्होंने कहा है कि गुरु के सामने जाकर दंडवत प्रणाम करना ज्यादा महत्वपूर्ण है, बजाय हर समय ध्यान लगाने के। यह दोहा गुरु के प्रति श्रद्धा और सम्मान को व्यक्त करता है और सच्चे श्रद्धालु का आचरण क्या होना चाहिए, इसे स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-22203e10-ffde-4adc-8051-36c0062685f0",
+  "name": "शीतलता संजोगलै, शूर चढ़ा संग्राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Coolness comes with timing, and the warrior engages in battle. Now the vessel is being prepared for the work of the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शीतलता संजोगलै, शूर चढ़ा संग्राम।\nअबकै भाजन परत है, शिर साहब के काम।।२०९९।।",
+    "translation": "Coolness comes with timing, and the warrior engages in battle. Now the vessel is being prepared for the work of the Lord.",
+    "meaning": "शीतलता समय के साथ आती है, और योद्धा युद्ध में लगा रहता है। अब पात्र भगवान के कार्य के लिए तैयार किया जा रहा है।",
+    "explanation": "इस दोहे में कबीर ने समय और परिस्थितियों की महत्वपूर्णता को व्यक्त किया है। शीतलता और शांति समय के साथ आती है, और योद्धा या कर्मशील व्यक्ति अपने कर्तव्यों में व्यस्त रहता है। जब पात्र या कार्य भगवान की सेवा के लिए तैयार होता है, तो यह उसका समय होता है। यह दोहा इस बात को रेखांकित करता है कि सही समय पर सही कार्य करने से परमात्मा की कृपा प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.100Z"
+  }
+}

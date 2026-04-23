@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c6b0cd1-93a6-4ebc-bd51-08e13d8a5bd5",
+  "name": "माया मरी न मन मरा, मर-मर गए शरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Neither the mind nor desires die even as the body keeps perishing. Kabir says, despite dying repeatedly, hope and greed never die.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया मरी न मन मरा, मर-मर गए शरीर।\nआशा तृष्णा न मरी, कह गए दास कबीर।।१०।।",
+    "translation": "Neither the mind nor desires die even as the body keeps perishing. Kabir says, despite dying repeatedly, hope and greed never die.",
+    "meaning": "माया नहीं मरी, न ही मन मरा। शरीर बार-बार मर गया, लेकिन आशा और तृष्णा नहीं मरी।",
+    "explanation": "यह दोहा मनुष्य के असीमित इच्छाओं और लालच पर व्यंग्य करता है। संत कबीर बताते हैं कि भौतिक शरीर चाहे कितनी बार भी समाप्त हो जाए, लेकिन मन की इच्छाएँ और लालच कभी नहीं मरते। यह हमें मोह-माया और लालच से दूर रहने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

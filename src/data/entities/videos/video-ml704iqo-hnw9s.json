@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-hnw9s",
+  "name": "Rabbit Paparazzi ft @ZarnaGarg",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT41S",
+  "embedUrl": "https://www.youtube.com/embed/iaBFoH2yhJI",
+  "contentUrl": "https://www.youtube.com/watch?v=iaBFoH2yhJI",
+  "uploadDate": "2025-07-30",
+  "thumbnailUrl": "https://i.ytimg.com/vi/iaBFoH2yhJI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

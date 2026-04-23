@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-efefd543-0768-4de2-8852-4b9031855ee8",
+  "name": "जांनि बूझि सांचहि तजै, करै झूठ सूं नेहु",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who understands and abandons falsehood while engaging in truth. That person will have the company of Ram, even in dreams.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जांनि बूझि सांचहि तजै, करै झूठ सूं नेहु।\nताको संगति राम जी, सुपिनै ही जिनि देहु।।२०१६।।",
+    "translation": "One who understands and abandons falsehood while engaging in truth. That person will have the company of Ram, even in dreams.",
+    "meaning": "जो व्यक्ति झूठ को छोड़कर सत्य को समझता है, उसे राम की संगति सपनों में भी मिलती है।",
+    "explanation": "इस दोहे में कबीर ने सत्य और झूठ के बारे में बात की है। उन्होंने कहा है कि जो व्यक्ति सत्य को समझता है और झूठ को त्यागता है, उसे राम की संगति मिलती है, जो सपनों में भी हो सकती है। यह व्यक्ति की आत्मा की स्थिति और उसकी भक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.804Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d87f34b2-58c7-4050-ad88-76043eb9d5e1",
+  "name": "गहरी प्रीति सुजान की, बढ़त-बढ़त बढ़‍ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Deep love of the wise continually grows and expands. Shallow love of the ignorant diminishes and fades away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गहरी प्रीति सुजान की, बढ़त-बढ़त बढ़‍ि जाय।\nओछी प्रीति अजान की, घटत घटत घटि जाय।।८१९।।",
+    "translation": "Deep love of the wise continually grows and expands. Shallow love of the ignorant diminishes and fades away.",
+    "meaning": "ज्ञानी की गहरी प्रीति बढ़ती रहती है, जबकि अज्ञानी की ओछी प्रीति घटती रहती है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की गहराई और उसकी निरंतरता को दर्शाया है। गहरी प्रीति जो विवेकपूर्ण होती है, समय के साथ बढ़ती है और विकसित होती है, जबकि सतही और अज्ञानता से भरी प्रीति धीरे-धीरे घटती जाती है। यह प्रेम की गहराई और उसके प्रभाव को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

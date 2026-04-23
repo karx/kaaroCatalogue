@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-317ee2e8-13c1-4d99-b028-bf22aa672e02",
+  "name": "पांचों नौबत बाजते, होत छत्तीसों राग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The five instruments play, creating thirty-six melodies. Yet that temple remains empty, as crows come to sit.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पांचों नौबत बाजते, होत छत्तीसों राग।\nसो मन्दिर खाली पड़े, बैठन लागे काग।।८९७।।",
+    "translation": "The five instruments play, creating thirty-six melodies. Yet that temple remains empty, as crows come to sit.",
+    "meaning": "पांचों वाद्य बजते हैं और छत्तीस राग गूंजते हैं। फिर भी वह मंदिर खाली रहता है, और वहां काग बैठते हैं।",
+    "explanation": "कबीर इस दोहे में धार्मिक अनुष्ठानों और बाहरी आडंबर की व्यर्थता को उजागर करते हैं। वे बताते हैं कि भले ही धार्मिक अनुष्ठान कितने भी भव्य क्यों न हों, अगर वास्तविकता में आस्था और शुद्धता नहीं है, तो वे व्यर्थ हैं। मंदिर के खाली होने और कागों के वहां बैठने से यह स्पष्ट होता है कि वास्तविक महत्व केवल आंतरिक साधना में है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.355Z"
+  }
+}

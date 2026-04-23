@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-036f0cdc-c37d-4426-8cbd-bbdcd926853b",
+  "name": "चारि खानि में भरमता, कबहु न लगता पार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One wanders through the four realms but never finds peace. All this wandering is eliminated through the grace of the True Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चारि खानि में भरमता, कबहु न लगता पार।\nसो फेरा सब मिटि गया, सतगुरु के उपकार।।४९८।।",
+    "translation": "One wanders through the four realms but never finds peace. All this wandering is eliminated through the grace of the True Guru.",
+    "meaning": "व्यक्ति चारों योनियों में भटकता रहता है लेकिन उसे कभी पार नहीं मिलती। इस भटकाव को सतगुरु की कृपा से समाप्त किया जा सकता है।",
+    "explanation": "यह दोहा बताता है कि मानव जीवन में चारों योनियों में भटकने के बावजूद भी सच्चा शांति और मोक्ष प्राप्त नहीं होता। सतगुरु की कृपा और मार्गदर्शन से ही यह भटकाव समाप्त होता है और आत्मा को शां���ि मिलती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.198Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-732da7f5-dc71-40c4-b1e9-781ed052bf95",
+  "name": "आछे दिन पाछे गये, गुरु सों किया न हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Good days have passed, and no effort was made with the Guru. Now, what is the use of regret, as the birds have already eaten the fields?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आछे दिन पाछे गये, गुरु सों किया न हेत।\nअब पछितावा क्‍या करै, चिड़‍ियां चुग गई खेत।।९३७।।",
+    "translation": "Good days have passed, and no effort was made with the Guru. Now, what is the use of regret, as the birds have already eaten the fields?",
+    "meaning": "अच्छे दिन बीत गए, गुरु के साथ प्रयास नहीं किया। अब पछताने का कोई लाभ नहीं, क्योंकि चिड़ियां खेत को चूग चुकी हैं।",
+    "explanation": "इस दोहे में कबीर समय के महत्व और पछतावे की बेकारी पर प्रकाश डालते हैं। उन्होंने कहा है कि अच्छे दिन बीत चुके हैं और जो प्रयास गुरु के साथ किया जाना चाहिए था, वह नहीं हुआ। अब पछतावा करने का कोई मतलब नहीं है, जैसे खेत चिड़ियों द्वारा चूग लिया गया है। यह दोहा यह सिखाता है कि समय और अवसर का सही उपयोग करना चाहिए और पछताने के बजाय सही समय पर सही कार्य करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6f9da7bf-bccb-49bd-a84c-807c34bce581",
+  "name": "dekh to dil ki jaan se uThta hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/dekh-to-dil-ki-jaan-se-uthtaa-hai-meer-taqi-meer-ghazals",
+    "retrievedAt": "2026-01-04T20:25:28.531Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/dekh-to-dil-ki-jaan-se-uthtaa-hai-meer-taqi-meer-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ndekh to dil ki jaañ se uThtā hai\nye dhuāñ sā kahāñ se uThtā hai\ngor kis diljale kī hai ye falak\nshola ik sub.h yaañ se uThtā hai\nḳhāna-e-dil se zīnhār na jā\nkoī aise makāñ se uThtā hai\nnaala sar khīñchtā hai jab merā\nshor ik āsmāñ se uThtā hai\nlaḌtī hai us kī chashm-e-shoḳh jahāñ\nek āshob vaañ se uThtā hai\nsudh le ghar kī bhī shola-e-āvāz\nduud kuchh āshiyāñ se uThtā hai\nbaiThne kaun de hai phir us ko\njo tire āstāñ se uThtā hai\nyuuñ uThe aah us galī se ham\njaise koī jahāñ se uThtā hai\nishq ik 'mīr' bhārī patthar hai\nkab ye tujh nā-tavāñ se uThtā hai\ndekh to dil ki jaan se uThta hai\nye dhuan sa kahan se uThta hai\ngor kis diljale ki hai ye falak\nshola ek subh yan se uThta hai\nKHana-e-dil se zinhaar na ja\nkoi aise makan se uThta hai\nnala sar khinchta hai jab mera\nshor ek aasman se uThta hai\nlaDti hai us ki chashm-e-shoKH jahan\nek aashob wan se uThta hai\nsudh le ghar ki bhi shola-e-awaz\ndud kuchh aashiyan se uThta hai\nbaiThne kaun de hai phir us ko\njo tere aastan se uThta hai\nyun uThe aah us gali se hum\njaise koi jahan se uThta hai\nishq ek 'mir' bhaari patthar hai\nkab ye tujh na-tawan se uThta hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nدیکھ تو دل کہ جاں سے اٹھتا ہے\nیہ دھواں سا کہاں سے اٹھتا ہے\nگور کس دل جلے کی ہے یہ فلک\nشعلہ اک صبح یاں سے اٹھتا ہے\nخانۂ دل سے زینہار نہ جا\nکوئی ایسے مکاں سے اٹھتا ہے\nنالہ سر کھینچتا ہے جب میرا\nشور اک آسماں سے اٹھتا ہے\nلڑتی ہے اس کی چشم شوخ جہاں\nایک آشوب واں سے اٹھتا ہے\nسدھ لے گھر کی بھی شعلۂ آواز\nدود کچھ آشیاں سے اٹھتا ہے\nبیٹھنے کون دے ہے پھر اس کو\nجو ترے آستاں سے اٹھتا ہے\nیوں اٹھے آہ اس گلی سے ہم\nجیسے کوئی جہاں سے اٹھتا ہے\nعشق اک میرؔ بھاری پتھر ہے\nکب یہ تجھ ناتواں سے اٹھتا ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nदेख तो दिल कि जाँ से उठता है\nये धुआँ सा कहाँ से उठता है\nगोर किस दिलजले की है ये फ़लक\nशोला इक सुब्ह याँ से उठता है\nख़ाना-ए-दिल से ज़ीनहार न जा\nकोई ऐसे मकाँ से उठता है\nनाला सर खींचता है जब मेरा\nशोर इक आसमाँ से उठता है\nलड़ती है उस की चश्म-ए-शोख़ जहाँ\nएक आशोब वाँ से उठता है\nसुध ले घर की भी शोला-ए-आवाज़\nदूद कुछ आशियाँ से उठता है\nबैठने कौन दे है फिर उस को\nजो तिरे आस्ताँ से उठता है\nयूँ उठे आह उस गली से हम\nजैसे कोई जहाँ से उठता है\nइश्क़ इक 'मीर' भारी पत्थर है\nकब ये तुझ ना-तवाँ से उठता है",
+    "lastUpdated": "2026-01-04T20:25:44.257Z"
+  }
+}

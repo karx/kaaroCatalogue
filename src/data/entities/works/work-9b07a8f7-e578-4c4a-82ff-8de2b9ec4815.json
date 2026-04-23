@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9b07a8f7-e578-4c4a-82ff-8de2b9ec4815",
+  "name": "इहि उदर के कारणे, जग पाच्यो निस जाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Because of this belly, the world is perishing in the night. The pride of being a master is futile, as it does not serve any purpose.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इहि उदर के कारणे, जग पाच्यो निस जाम।\nस्वामी-पणौ जो सिरि चढ़यो, सिर यो न एको काम।।१६७।।",
+    "translation": "Because of this belly, the world is perishing in the night. The pride of being a master is futile, as it does not serve any purpose.",
+    "meaning": "इस पेट के कारण, संसार रात में विनाश की ओर जा रहा है। स्वामीपन का गर्व व्यर्थ है, क्योंकि यह किसी काम का नहीं है।",
+    "explanation": "इस दोहे में कबीर ने भौतिकता और आत्म-संतोष के मुद्दे को उठाया है। उन्होंने बताया है कि भौतिक आवश्यकताओं और गर्व के कारण दुनिया की वास्तविक स्थिति खराब हो रही है। जो भी स्वामीपन और गर्व का दिखावा करता है, वह वास्तव में व्यर्थ है। यह दोहा आत्मसंतोष और आंतरिक शांति के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

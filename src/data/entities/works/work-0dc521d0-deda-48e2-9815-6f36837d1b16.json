@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0dc521d0-deda-48e2-9815-6f36837d1b16",
+  "name": "शब्‍द हमारा आदि का, पल-पल करहू याद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The word is eternal, remember it every moment. In the end, the essence will be revealed, and all other debates will be inconsequential.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द हमारा आदि का, पल-पल करहू याद।\nअंत फलेगी माहली, ऊपर की सब वाद।।१६७५।।",
+    "translation": "The word is eternal, remember it every moment. In the end, the essence will be revealed, and all other debates will be inconsequential.",
+    "meaning": "शब्द शाश्वत है, इसे हर पल याद करो। अंत में इसका सार प्रकट होगा, और बाकी की सभी बहसें महत्वहीन हो जाएंगी।",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक समझ की बात करते हैं। उन्होंने कहा कि शब्द शाश्वत है और अंत में इसका सच्चा अर्थ प्रकट होगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.788Z"
+  }
+}

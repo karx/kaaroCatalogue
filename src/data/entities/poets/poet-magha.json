@@ -1,0 +1,28 @@
+{
+  "entityId": "poet-magha",
+  "name": "Magha",
+  "@type": "Person",
+  "knowsLanguage": "Sanskrit",
+  "era": "Classical",
+  "century": "7th Century CE",
+  "titles": [
+    "Brihattrayi Poet"
+  ],
+  "keywords": [
+    "Mahakavya",
+    "Krishna",
+    "Shishupala"
+  ],
+  "abstract": "Said to combine the qualities of Kalidasa (simile), Bharavi (depth), and Dandin (wordplay). His epic is encyclopedic, containing descriptions of politics, war, and romance.",
+  "majorWorks": [
+    "Shishupala Vadha"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Magha_(poet)"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Magha_(poet)",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

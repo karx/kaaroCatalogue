@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-be7f1560-22b6-4e0a-8371-49d2f6eff5f0",
+  "name": "अभिमानी कुंजर भये, निज सिर लीन्‍हा भार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "An arrogant elephant carries a heavy burden on its head. At the gate of death, the blacksmith breaks the iron pot.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अभिमानी कुंजर भये, निज सिर लीन्‍हा भार।\nजम द्वारे जम कूटहीं, लोहा घड़े लुहार।।१२४८।।",
+    "translation": "An arrogant elephant carries a heavy burden on its head. At the gate of death, the blacksmith breaks the iron pot.",
+    "meaning": "अभिमानी हाथी अपने सिर पर भारी बोझ उठाता है। मृत्यु के द्वार पर, लोहार लोहा के बर्तन को तोड़ देता है।",
+    "explanation": "इस दोहे में कबीर ने अभिमान और उसके दुष्परिणामों को दर्शाया है। अभिमानी व्यक्ति भारी बोझ उठाता है, और मृत्यु के समय सभी परिश्रम और अभिमान व्यर्थ हो जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.275Z"
+  }
+}

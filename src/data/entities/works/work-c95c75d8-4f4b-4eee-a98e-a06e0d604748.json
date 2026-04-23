@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c95c75d8-4f4b-4eee-a98e-a06e0d604748",
+  "name": "एक दिना नहिं करि सके, दूजे दिन कर लेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you cannot do it today, then do it the next day. Kabir says, through the sight of a saint, you will attain a superior body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक दिना नहिं करि सके, दूजे दिन कर लेह।\nकबीर साधु दरश ते, पावै उत्तम देह।।५६५।।",
+    "translation": "If you cannot do it today, then do it the next day. Kabir says, through the sight of a saint, you will attain a superior body.",
+    "meaning": "अगर आप आज नहीं कर सकते तो अगले दिन कर लें। कबीर कहते हैं कि संत के दर्शन से उत्तम शरीर प्राप्त होता है।",
+    "explanation": "यह दोहा हमें बताता है कि यदि हम आज कोई काम पूरा नहीं कर पाते, तो उसे अगले दिन करने का प्रयास करना चाहिए। संत के दर्शन से हमें उत्तम शरीर प्राप्त होता है, जो जीवन की कठिनाइयों को आसानी से सहन करने में मदद करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

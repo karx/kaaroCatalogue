@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7d51216-3b34-44e6-8633-55e35dd7c105",
+  "name": "लेना होय सो जल्‍द ले, कही सुनी मत मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you need something, take it quickly, do not heed rumors. What is said and heard has been going on for ages, binding cycles of birth and death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लेना होय सो जल्‍द ले, कही सुनी मत मान।\nकही सुनी जुग जुग चली, आवागमन बंधान।।९५०।।",
+    "translation": "If you need something, take it quickly, do not heed rumors. What is said and heard has been going on for ages, binding cycles of birth and death.",
+    "meaning": "यदि आपको कुछ चाहिए, तो तुरंत ले लें, अफवाहों पर ध्यान न दें। जो कहा और सुना जाता है, वह युगों से चल रहा है, जन्म और मृत्यु के चक्र को बांधता है।",
+    "explanation": "इस दोहे में कबीर का संदेश है कि हमें अपनी जरूरतों को तुरंत पूरा करना चाहिए और बेकार की अफवाहों पर ध्यान नहीं देना चाहिए। पुरानी बातें और अफवाहें जन्म और मृत्यु के चक्र को बढ़ाती हैं, और यह महत्वपूर्ण है कि हम इस चक्र को समझें और उससे बाहर निकलने का प्रयास करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.629Z"
+  }
+}

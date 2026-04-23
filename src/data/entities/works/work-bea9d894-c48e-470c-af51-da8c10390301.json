@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bea9d894-c48e-470c-af51-da8c10390301",
+  "name": "पंडित सेती कहि रह्या, भीतरि भेद्या नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The scholar speaks outwardly but has not pierced within. He misleads others but does not understand himself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंडित सेती कहि रह्या, भीतरि भेद्या नाहिं।\nफिर‍ि प्रमोधै आन कौं, आपण समझै नाहिं।।२०७३।।",
+    "translation": "The scholar speaks outwardly but has not pierced within. He misleads others but does not understand himself.",
+    "meaning": "पंडित बाहर से तो बोलता है, लेकिन भीतर की समझ नहीं रखता। वह दूसरों को भ्रमित करता है, लेकिन स्वयं को नहीं समझ पाता।",
+    "explanation": "कबीर इस दोहे में उन पंडितों की आलोचना करते हैं जो केवल बाहरी आडंबर दिखाते हैं, लेकिन आंतरिक सच्चाई से दूर होते हैं। वे दूसरों को भटकाते हैं, लेकिन स्वयं अपने जीवन का सही मार्ग नहीं समझ पाते। कबीर यहाँ आंतरिक ज्ञान और सच्चाई की महत्ता पर जोर देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.093Z"
+  }
+}

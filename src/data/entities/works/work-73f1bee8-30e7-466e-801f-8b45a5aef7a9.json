@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-73f1bee8-30e7-466e-801f-8b45a5aef7a9",
+  "name": "एष ले बूढ़ी पृथमी, झूठे कुल की लार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This earth has aged, filled with false pride of lineage. Lazy and lost in appearances, they drown in the dark current.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एष ले बूढ़ी पृथमी, झूठे कुल की लार।\nअलष बिसारयो भेष में, बूड़े काली धार।।२२३।।",
+    "translation": "This earth has aged, filled with false pride of lineage. Lazy and lost in appearances, they drown in the dark current.",
+    "meaning": "यह पृथ्वी बूढ़ी हो गई है, झूठे कुल के गर्व से भरी हुई है। आलसी और दिखावे में फंसे लोग काले धार में डूब गए।",
+    "explanation": "कबीर इस दोहे में संसार की विकृतियों और अहंकार के बारे में चेतावनी देते हैं। पृथ्वी पर लोग अपने झूठे कुल और वंश के गर्व में खो गए हैं। वे आलस्य और दिखावे में इतने उलझ गए हैं कि सच्चाई से दूर हो गए हैं और अंततः अज्ञान और माया के अंधकार में डूब रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0651eb87-985b-4f76-af34-f67a484a9f9c",
+  "name": "साहू से भी चोरबा, चोरहु से भौ होत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even worse than the merchant is the thief, who creates fear from the thief. You will understand your own self when you face it directly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साहू से भी चोरबा, चोरहु से भौ होत।\nतब जानिहुगे जीयरा, जबहिं परेगा तुज्‍झ।।१६९९।।",
+    "translation": "Even worse than the merchant is the thief, who creates fear from the thief. You will understand your own self when you face it directly.",
+    "meaning": "व्यापारी से भी बुरा चोर होता है, जो चोर से डर पैदा करता है। आप तब ही अपने आप को समझेंगे जब आप इसे सीधे तौर पर देखेंगे।",
+    "explanation": "कबीर इस दोहे में आत्म-जागरूकता और विश्वास की बात करते हैं। उन्होंने कहा कि सच्ची समझ तब आती है जब आप सीधे समस्या का सामना करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.793Z"
+  }
+}

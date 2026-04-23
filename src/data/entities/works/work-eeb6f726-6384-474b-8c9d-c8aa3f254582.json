@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eeb6f726-6384-474b-8c9d-c8aa3f254582",
+  "name": "Naaku Tanti",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dr-bendre"
+  },
+  "inLanguage": "Kannada",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Naaku_Tanti",
+    "retrievedAt": "2026-01-04T18:39:31.482Z"
+  }
+}

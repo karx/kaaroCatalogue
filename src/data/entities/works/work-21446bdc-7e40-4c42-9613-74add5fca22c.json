@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-21446bdc-7e40-4c42-9613-74add5fca22c",
+  "name": "आगा पीछा दिल करै, सहजै मिलै न आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who keeps worrying about the past and future doesn't find peace. Such a person is destined for the world of the dead.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगा पीछा दिल करै, सहजै मिलै न आय।\nसो बासी जमलोक का, बांधा जमपुर जाय।।१३६९।।",
+    "translation": "The one who keeps worrying about the past and future doesn't find peace. Such a person is destined for the world of the dead.",
+    "meaning": "जो व्यक्ति आगे-पीछे की चिंता करता रहता है, उसे सहजता से कुछ भी प्राप्त नहीं होता। ऐसा व्यक्ति मृत्यु लोक का बासी होता है, और उसे यमपुर बांधकर ले जाता है।",
+    "explanation": "कबीर इस दोहे में उन लोगों के बारे में बताते हैं जो हमेशा अतीत और भविष्य की चिंता में डूबे रहते हैं। ऐसे लोग वर्तमान में शांति और संतोष नहीं पा सकते। कबीर जी कहते हैं कि जो व्यक्ति वर्तमान में नहीं जीता, वह मृत समान होता है और मृत्यु के बाद यमलोक में बांधकर ले जाया जाता है। यह दोहा हमें वर्तमान में जीने और चिंता से मुक्त रहने का संदेश देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.086Z"
+  }
+}

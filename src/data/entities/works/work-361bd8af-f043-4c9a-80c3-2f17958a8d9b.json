@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-361bd8af-f043-4c9a-80c3-2f17958a8d9b",
+  "name": "लेने को हरिनाम है, देने को अंनदान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To receive is the name of God, to give is charity. To be saved requires humility, while pride leads to downfall.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लेने को हरिनाम है, देने को अंनदान।\nतरने को है दीनता, बूड़न को अभिमान।।१२७९।।",
+    "translation": "To receive is the name of God, to give is charity. To be saved requires humility, while pride leads to downfall.",
+    "meaning": "प्राप्त करना भगवान का नाम है, देना दान है। बचने के लिए विनम्रता चाहिए, जबकि गर्व से पतन होता है।",
+    "explanation": "कबीर जी के अनुसार, भगवान का नाम लेना एक बड़ा लाभ है, और दान देना एक पुण्य कार्य है। जीवन में बचने के लिए विनम्रता आवश्यक है, जबकि गर्व और अहंकार से व्यक्ति का पतन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.546Z"
+  }
+}

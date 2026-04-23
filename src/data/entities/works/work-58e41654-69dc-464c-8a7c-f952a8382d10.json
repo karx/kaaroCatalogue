@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-58e41654-69dc-464c-8a7c-f952a8382d10",
+  "name": "सुख में सुमिरन ना किया, दुःख में किया याद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In times of happiness, you did not remember God, but in times of sorrow, you cry out to Him. Kabir says, who will listen to the plea of such a servant?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुख में सुमिरन ना किया, दुःख में किया याद।\nकहे कबीर ता दास की, कौन सुने फरियाद।।३।।",
+    "translation": "In times of happiness, you did not remember God, but in times of sorrow, you cry out to Him. Kabir says, who will listen to the plea of such a servant?",
+    "meaning": "सुख के समय में तुमने भगवान को याद नहीं किया, लेकिन दु:ख के समय में उन्हें पुकारा। कबीर कहते हैं, ऐसे सेवक की फरियाद कौन सुनेगा?",
+    "explanation": "यह दोहा मानवीय स्वभाव पर एक तीखा व्यंग्य है। संत कबीर कहते हैं कि मनुष्य सुख में भगवान को भूल जाता है और केवल दुःख में ही उन्हें याद करता है। इस प्रकार का भक्ति भाव सच्चा नहीं होता। भगवान को हर समय याद रखना चाहिए, न कि केवल अपने कष्टों में।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.819Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-efb7f0f2-9a3f-4d5e-b45e-3d89e5eeee38",
+  "name": "सार बहै लोहा झरै, टूटे जिरह जंजीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The essence flows like molten iron, breaking the chains of iron. Above death, Kabir has climbed, reaching the ultimate goal.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सार बहै लोहा झरै, टूटे जिरह जंजीर।\nजम ऊपरि साटैकरी, चढिया दास कबीर।।२१२९।।",
+    "translation": "The essence flows like molten iron, breaking the chains of iron. Above death, Kabir has climbed, reaching the ultimate goal.",
+    "meaning": "सार बहकर लोहा की तरह बहता है, लोहे की जंजीर टूटती है। मृत्यु से ऊपर कबीर ने चढ़ाई की है, अंतिम लक्ष्य को प्राप्त किया है।",
+    "explanation": "इस दोहे में कबीर ने अद्वितीय लक्ष्य की प्राप्ति को दर्शाया है। जैसे लोहा पिघलकर बहता है और जंजीर टूट जाती है, वैसे ही कबीर ने मृत्यु के ऊपर चढ़ाई की है और अंतिम लक्ष्य को प्राप्त किया है। यह दोहा आत्मा की मुक्ति और अंतिम सच्चाई की ओर बढ़ने की प्रक्रिया को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.367Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-99b29fc3-2d80-4aee-9ad2-ae040bc8fd3c",
+  "name": "ग्‍यांनी मूल गंवाइया, आपण भये करंता",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wise lose their root, becoming proud of their knowledge. Better is the worldly man who lives in fear within his mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ग्‍यांनी मूल गंवाइया, आपण भये करंता।\nताथै संसारी भला, मन मैं रहै डरंता।।२०६१।।",
+    "translation": "The wise lose their root, becoming proud of their knowledge. Better is the worldly man who lives in fear within his mind.",
+    "meaning": "ज्ञानी अपने मूल को खो देता है, जब वह अपने ज्ञान पर गर्व करने लगता है। इससे बेहतर है वह सांसारिक व्यक्ति जो अपने मन में डर के साथ जीता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि ज्ञानी व्यक्ति जब अपने ज्ञान पर अहंकार करने लगता है, तो वह अपनी जड़ों से दूर हो जाता है। इसके विपरीत, वह व्यक्ति जो संसार में रहते हुए अपने मन में डर रखता है, वह सही मार्ग पर चलने की कोशिश करता है। यहाँ कबीर अहंकार से बचने और विनम्रता बनाए रखने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.089Z"
+  }
+}

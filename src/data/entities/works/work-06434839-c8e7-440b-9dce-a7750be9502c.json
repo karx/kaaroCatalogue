@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-06434839-c8e7-440b-9dce-a7750be9502c",
+  "name": "राम वियोगी तन बिकल, ताहि न चीन्‍है कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body of the one separated from Ram is in distress, but no one recognizes this. Just like the betel leaf turns yellow day by day, so does the body of such a person.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम वियोगी तन बिकल, ताहि न चीन्‍है कोइ।\nतंबोली के पान ज्‍यूं, दिन दिन पीला होइ।।१९९६।।",
+    "translation": "The body of the one separated from Ram is in distress, but no one recognizes this. Just like the betel leaf turns yellow day by day, so does the body of such a person.",
+    "meaning": "जो राम से वियोगी है, उसका शरीर कष्ट में रहता है, लेकिन कोई इसे पहचानता नहीं है। जैसे पान का पत्ता दिन-प्रतिदिन पीला होता जाता है, वैसे ही उस व्यक्ति का शरीर भी ढलता जाता है।",
+    "explanation": "इस दोहे में कबीर ने राम से वियोग की स्थिति और उसके प्रभावों को व्यक्त किया है। उन्होंने कहा है कि जो व्यक्ति राम से वियोग में रहता है, उसका शरीर और जीवन दुखी हो जाता है, लेकिन यह दुख अक्सर दूसरों द्वारा अनदेखा रहता है। यह भक्ति और उसके अभाव के असर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.538Z"
+  }
+}

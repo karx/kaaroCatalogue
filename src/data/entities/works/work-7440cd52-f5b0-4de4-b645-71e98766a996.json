@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7440cd52-f5b0-4de4-b645-71e98766a996",
+  "name": "बोलि हमारी पूर्व की, हमें लखे नहिं कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Our speech is of the old kind, but no one understands it. Only those who are deeply rooted in the East understand it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बोलि हमारी पूर्व की, हमें लखे नहिं कोय।\nहमें लखे सो जना, जो धुर पूरब का होय।।१६२२।।",
+    "translation": "Our speech is of the old kind, but no one understands it. Only those who are deeply rooted in the East understand it.",
+    "meaning": "हमारी भाषा पुरानी है, लेकिन कोई नहीं समझता। केवल वे लोग जो गहराई से पूर्व की ओर जुड़े हैं, इसे समझते हैं।",
+    "explanation": "कबीर इस दोहे में आत्मज्ञान और समझ की बात करते हैं। उन्होंने कहा कि उनकी बोली प्राचीन है और इसे समझने के लिए केवल वे लोग सक्षम हैं, जो गहरी समझ और पूर्व से जुड़े हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.506Z"
+  }
+}

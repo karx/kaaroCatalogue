@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bdccc749-f184-429d-a6e7-70cf3d0236a7",
+  "name": "मारया है जो मरैगा, बिर सर थोथी भालि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who is killed is of no value; the wise one knows this. The tree that is struck, still calls out to be saved, whether it dies today or tomorrow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मारया है जो मरैगा, बिर सर थोथी भालि।\nपड्या पुकारै ब्रिछ तरि, आजि मरै कै काल्हि।।१९४२।।",
+    "translation": "One who is killed is of no value; the wise one knows this. The tree that is struck, still calls out to be saved, whether it dies today or tomorrow.",
+    "meaning": "जो मारा गया है, वह बेकार है; समझदार व्यक्ति इसे जानता है। जो पेड़ को मारा जाता है, वह भी बचाने की पुकार करता है, चाहे वह आज मरे या कल।",
+    "explanation": "कबीरदास जी इस दोहे में यह बताते हैं कि मरे हुए व्यक्ति का कोई मूल्य नहीं है और यह समझदार व्यक्ति ही जानता है। जो पेड़ को मारा जाता है, वह भी बचाने की पुकार करता है। यह दोहा जीवन की नश्वरता और आत्म-रक्षा की अंतर्निहित प्रवृत्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.256Z"
+  }
+}

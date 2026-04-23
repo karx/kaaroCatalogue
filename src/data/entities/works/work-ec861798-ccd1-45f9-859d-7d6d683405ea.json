@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ec861798-ccd1-45f9-859d-7d6d683405ea",
+  "name": "यह तन जालौं मसि करौं, लिखौं राम का नाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Let this body be burnt like ink, and let me write the name of Ram. Using this pen, I inscribe Ram’s name and send it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह तन जालौं मसि करौं, लिखौं राम का नाउं।\nलेखणि करूं करंक की, लिखि राम पठाउं।।१७४७।।",
+    "translation": "Let this body be burnt like ink, and let me write the name of Ram. Using this pen, I inscribe Ram’s name and send it.",
+    "meaning": "इस शरीर को स्याही की तरह जलाऊं, और राम का नाम लिखूं। इस कलम से, राम का नाम लिखकर भेज दूं।",
+    "explanation": "कबीर इस दोहे में शरीर को समर्पण और राम के नाम को लिखने की बात करते हैं। उन्होंने कहा कि शरीर को जलाकर राम का नाम लिखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.079Z"
+  }
+}

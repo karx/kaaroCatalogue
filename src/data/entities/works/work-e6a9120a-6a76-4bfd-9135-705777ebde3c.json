@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e6a9120a-6a76-4bfd-9135-705777ebde3c",
+  "name": "मन दाता मन लालची, मन राजा मन रंक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is both the giver and the greedy one, the king and the beggar. If this mind meets the true guru, it will find the guru without doubt.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन दाता मन लालची, मन राजा मन रंक।\nजो यह मन गुरु सो मिलै, तो गुरु मिले निसंक।।११४५।।",
+    "translation": "The mind is both the giver and the greedy one, the king and the beggar. If this mind meets the true guru, it will find the guru without doubt.",
+    "meaning": "मन दाता और लालची दोनों है, राजा और भिखारी भी है। यदि यह मन सच्चे गुरु से मिलता है, तो गुरु बिना संदेह के मिल जाएगा।",
+    "explanation": "इस दोहे में कबीर ने मन के विभिन्न पहलुओं और सच्चे गुरु की खोज को समझाया है। उन्होंने कहा कि मन में अनेक गुण और दोष होते हैं, और यदि यह सच्चे गुरु से मिल जाता है, तो गुरु की प्राप्ति सुनिश्चित होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.707Z"
+  }
+}

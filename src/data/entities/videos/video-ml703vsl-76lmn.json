@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703vsl-76lmn",
+  "name": "My Bucket List | Stand-up comedy by Atul Khatri",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT6M4S",
+  "embedUrl": "https://www.youtube.com/embed/akklWUVk5LI",
+  "contentUrl": "https://www.youtube.com/watch?v=akklWUVk5LI",
+  "uploadDate": "2024-10-06",
+  "thumbnailUrl": "https://i.ytimg.com/vi/akklWUVk5LI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "I'm 56 and trying to tick off things from my bucket list..\n\nThis is the 4th video from my \"Daddy Kool\" show which I took it across the world last year. More videos will be coming soon..\n\nNow touring India with my new show. All tickets on atulkhatri.com \n\nFollow me on:\nTwitter: @one_by_two\nInstagram:",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

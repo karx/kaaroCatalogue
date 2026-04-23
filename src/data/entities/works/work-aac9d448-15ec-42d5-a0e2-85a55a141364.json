@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aac9d448-15ec-42d5-a0e2-85a55a141364",
+  "name": "सुख दुख सिर ऊपरे सहै, कबहु न छाड़े संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who endures both pleasure and pain without abandoning their association, is dyed in the true color of the Guru, which is beyond all other hues.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुख दुख सिर ऊपरे सहै, कबहु न छाड़े संग।\nरंग न लागै और का, व्‍यापै सतगुरु रंग।।६८९।।",
+    "translation": "One who endures both pleasure and pain without abandoning their association, is dyed in the true color of the Guru, which is beyond all other hues.",
+    "meaning": "जो व्यक्ति सुख और दुख को सहकर भी अपने संबंध को नहीं छोड़ता, वही सच्चे गुरु के रंग में रंगा हुआ होता है, जो अन्य सभी रंगों से परे है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जो व्यक्ति सुख और दुख का सामना करता है और अपने संबंध को कभी नहीं छोड़ता, वही सच्चे गुरु के रंग में रंगा हुआ होता है। यह रंग अन्य सभी रंगों से परे है और केवल सच्चे गुरु की भक्ति से प्राप्त होता है। यह दोहा गुरु की भक्ति और जीवन के उतार-चढ़ाव को सहन करने की शक्ति के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

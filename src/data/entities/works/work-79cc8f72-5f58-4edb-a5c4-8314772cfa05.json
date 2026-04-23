@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79cc8f72-5f58-4edb-a5c4-8314772cfa05",
+  "name": "हरि संगत शीतल भया, मिटी मोह की ताप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Being in the company of the Divine brings tranquility, and the heat of worldly attachment fades away. The treasure of eternal joy is attained by seeking the Divine.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि संगत शीतल भया, मिटी मोह की ताप।\nनिशि-बासर सुख निधि लही, प्रगट भया हरि आप।।८९।।",
+    "translation": "Being in the company of the Divine brings tranquility, and the heat of worldly attachment fades away. The treasure of eternal joy is attained by seeking the Divine.",
+    "meaning": "हरि के साथ रहने से शांति मिलती है, और संसार की मोह की गर्मी मिट जाती है। अनंत सुख की निधि प्राप्त होती है, जो स्वयं प्रकट होती है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जब व्यक्ति दिव्य संगति में होता है, तो मानसिक शांति और संतोष प्राप्त होता है। सांसारिक मोह की गर्मी और पीड़ा समाप्त हो जाती है, और व्यक्ति अनंत सुख की प्राप्ति करता है। यह सुख और शांति स्वयं प्रकट होती है जब व्यक्ति दिव्य के साथ जुड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

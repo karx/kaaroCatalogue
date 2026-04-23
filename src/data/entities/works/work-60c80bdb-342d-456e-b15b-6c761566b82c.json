@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60c80bdb-342d-456e-b15b-6c761566b82c",
+  "name": "जहं गाहक तहं हौं नहीं, हौं तहं गाहक नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where the customer is, I am not there, and where I am, the customer is not. Without wisdom, people wander aimlessly; grasp the shadow of the word.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहं गाहक तहं हौं नहीं, हौं तहं गाहक नाहिं।\nबिनु विवेक भरमत फिरे, पकड़ो शब्‍द की छांहि।।१५१४।।",
+    "translation": "Where the customer is, I am not there, and where I am, the customer is not. Without wisdom, people wander aimlessly; grasp the shadow of the word.",
+    "meaning": "जहां ग्राहक है, मैं वहां नहीं हूं, और जहां मैं हूं, वहां ग्राहक नहीं है। बिना विवेक के लोग भटकते रहते हैं; शब्द की छाया को पकड़ो।",
+    "explanation": "इस दोहे में कबीर सांसारिक मोह-माया और सत्य ज्ञान के बीच के अंतर को समझाने की कोशिश क��� रहे हैं। संसार के लोग हमेशा भौतिक सुखों के पीछे भागते रहते हैं, लेकिन सच्चा ज्ञान इनसे परे होता है। यदि आप सत्य की खोज में हैं, तो आपको विवेक की आवश्यकता है और कबीर का संदेश है कि हमें शब्द (सत्य ज्ञान) की छाया को पकड़ना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.929Z"
+  }
+}

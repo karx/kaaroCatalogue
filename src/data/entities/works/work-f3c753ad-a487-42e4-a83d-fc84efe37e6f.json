@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3c753ad-a487-42e4-a83d-fc84efe37e6f",
+  "name": "सहज तराजू आनि कै, सब रस देखा तोलि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Bringing the scale of simplicity, all tastes were weighed. Among all tastes, the taste of the tongue is the best for those who know how to speak.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सहज तराजू आनि कै, सब रस देखा तोलि।\nसब रस माहीं जीभ रस, जु कोय जानै बोलि।।१०१८।।",
+    "translation": "Bringing the scale of simplicity, all tastes were weighed. Among all tastes, the taste of the tongue is the best for those who know how to speak.",
+    "meaning": "सरलता का तराजू लाकर, सभी रसों को तौला गया। सभी रसों में, जीभ का रस सबसे उत्तम है, जो बोलने की कला जानता है।",
+    "explanation": "इस दोहे में कबीर सरलता और सही बोलने के महत्व पर जोर देते हैं। वे कहते हैं कि सभी रसों (स्वादों) को तौलने के बाद, बोलने की कला में निपुण व्यक्ति के लिए जीभ का रस सबसे महत्वपूर्ण है। इससे तात्पर्य है कि सही वाणी का महत्व सभी चीजों से ऊपर है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.162Z"
+  }
+}

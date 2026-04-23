@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1dd5071e-4084-4ec4-b0d5-75be382ce8e2",
+  "name": "तन मन लज्‍जा ना रहे, काम बान उर साल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When there is no shame in body and mind, desire binds the heart. Desire controls everyone, even gods, men, and sages are distressed by it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन मन लज्‍जा ना रहे, काम बान उर साल।\nएक काम सब वश किए, सुर नर मुनि बेहाल।।१२३२।।",
+    "translation": "When there is no shame in body and mind, desire binds the heart. Desire controls everyone, even gods, men, and sages are distressed by it.",
+    "meaning": "जब शरीर और मन में लज्जा नहीं रहती, तब काम (इच्छा) हृदय को बांध लेता है। काम सभी को नियंत्रित करता है, देवता, मनुष्य, और मुनि भी इससे परेशान रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने काम की शक्ति और प्रभाव को दर्शाया है। जब शरीर और मन में कोई लज्जा नहीं होती, तब काम हर किसी को नियंत्रित कर लेता है और यहां तक कि देवता और मुनि भी इससे परेशान रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.272Z"
+  }
+}

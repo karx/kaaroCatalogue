@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb8afba3-cba3-4e36-bc8f-ca62c5b249b0",
+  "name": "साधु, सती, और सूरमा, इनकी बात अगाध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The words of saints, sages, and warriors are profound. They abandon hope in the body and tireless effort of the physical self.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु, सती, और सूरमा, इनकी बात अगाध।\nआशा छोड़े देह की, तन की अनथक साध।।८८।।",
+    "translation": "The words of saints, sages, and warriors are profound. They abandon hope in the body and tireless effort of the physical self.",
+    "meaning": "संतों, मुनियों और वीरों की बातें गहरी होती हैं। वे शरीर की आशा और शारीरिक प्रयास को त्याग देते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि संतों, साधुओं और वीरों की बातें गहरी और महत्वपूर्ण होती हैं। वे शरीर की सीमाओं और शारीरिक प्रयासों को त्याग देते हैं और आध्यात्मिक या अंतर्निहित सत्य की खोज में लग जाते हैं। यह दर्शाता है कि शारीरिक आवश्यकताओं और आशाओं से परे जाकर, व्यक्ति गहरी आध्यात्मिक समझ प्राप्त कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

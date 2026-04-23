@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c223cd64-f4bb-4df6-8d97-d4292ff0c695",
+  "name": "गुरु बिचारा क्‍या करे, जो शिष्‍यहि में है चूक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What can the poor Guru do, if the disciple is at fault? His words, like arrows, do not penetrate, and the disciple only blows air like a flute.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु बिचारा क्‍या करे, जो शिष्‍यहि में है चूक।\nशब्‍द बाण बेधे नहीं, बांस बजावे फूंक।।१४९३।।",
+    "translation": "What can the poor Guru do, if the disciple is at fault? His words, like arrows, do not penetrate, and the disciple only blows air like a flute.",
+    "meaning": "गुरु क्या कर सकता है, जब शिष्य ही गलत है? उसकी वाणी बाण की तरह शिष्य के मन में प्रवेश नहीं करती, और शिष्य केवल बांसुरी की तरह हवा में फूंकता रहता है।",
+    "explanation": "इस दोहे में कबीर गुरु और शिष्य के रिश्ते को चित्रित करते हैं। गुरु चाहे कितनी भी अच्छी शिक्षा दे, लेकिन अगर शिष्य में कमी है, तो वह उन शिक्षाओं का सही लाभ नहीं उठा सकता। गुरु की वाणी शिष्य के मन में प्रवेश नहीं कर पाती, और शिष्य केवल बाहरी दुनिया में उलझा रहता है। इससे गुरु भी असहाय हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.661Z"
+  }
+}

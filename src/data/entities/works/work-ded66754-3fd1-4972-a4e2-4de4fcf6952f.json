@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ded66754-3fd1-4972-a4e2-4de4fcf6952f",
+  "name": "खाली साधु न बिदा करु, सुन लीजै सब कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not send a saint away empty-handed; listen everyone. Kabir says, offer some gift according to your means, which brings blessings to your home.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खाली साधु न बिदा करु, सुन लीजै सब कोय।\nकहैं कबीर कछु भेंट धरु, जो तेजे घर होय।।५९३।।",
+    "translation": "Do not send a saint away empty-handed; listen everyone. Kabir says, offer some gift according to your means, which brings blessings to your home.",
+    "meaning": "संत को खाली हाथ न भेजें; सभी सुन लें। कबीर कहते हैं, अपनी सामर्थ्य के अनुसार कुछ भेंट दें, जो आपके घर को आशीर्वादित करेगा।",
+    "explanation": "संतों की विदाई पर हमें उन्हें खाली हाथ नहीं भेजना चाहिए। उपहार देने से हमारे घर पर सकारात्मक प्रभाव पड़ता है और संतों की कृपा प्राप्त होती है। यह हमारे सम्मान और श्रद्धा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.729Z"
+  }
+}

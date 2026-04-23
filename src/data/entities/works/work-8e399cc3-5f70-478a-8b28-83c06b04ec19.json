@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e399cc3-5f70-478a-8b28-83c06b04ec19",
+  "name": "डर करनी डर परम गुरु, डर पारस डर सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Fear is necessary for the supreme guru, fear of the philosopher’s stone and essence. Those who live in fear will overcome it; the careless will face punishment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "डर करनी डर परम गुरु, डर पारस डर सार।\nडरत रहै सो ऊबरे, गाफिल खाई मार।।४३२।।",
+    "translation": "Fear is necessary for the supreme guru, fear of the philosopher’s stone and essence. Those who live in fear will overcome it; the careless will face punishment.",
+    "meaning": "डर परम गुरु के लिए आवश्यक है, पारस पत्थर और सार का डर। जो डर में जीते हैं, वे इसे पार कर लेते हैं; जो लापरवाह होते हैं, उन्हें दंड मिलता है।",
+    "explanation": "इस दोहे में कबीर डर और उसकी भूमिका को समझाते हैं। वह कहते हैं कि परम गुरु के लिए डर आवश्यक है और पारस पत्थर का डर भी महत्वपूर्ण है। जो लोग डर के साथ जीते हैं, वे उसे पार कर लेते हैं, लेकिन जो लापरवाह होते हैं, उन्हें दंड का सामना करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

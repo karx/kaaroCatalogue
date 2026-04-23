@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-91acp",
+  "name": "Guy friends in breakup #funnyvideo #standupcomedy #dating #love #heartbroken",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT1M",
+  "embedUrl": "https://www.youtube.com/embed/fdb6K7cnu3c",
+  "contentUrl": "https://www.youtube.com/watch?v=fdb6K7cnu3c",
+  "uploadDate": "2023-01-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/fdb6K7cnu3c/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1de86960-857a-4468-be7e-8403070f3936",
+  "name": "आंधी आई प्रेम की, ढही भरम की भीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A storm of love has arrived, breaking the walls of delusion. The illusion has flown away like a torn cloth, and love for the divine has begun.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आंधी आई प्रेम की, ढही भरम की भीत।\nमाया टाटी उड़‍ि गई, लगी नाम सों प्रीत।।११७३।।",
+    "translation": "A storm of love has arrived, breaking the walls of delusion. The illusion has flown away like a torn cloth, and love for the divine has begun.",
+    "meaning": "प्रेम की आंधी आई है, जिसने भ्रम की दीवारों को गिरा दिया है। माया उड़ गई है जैसे फटा हुआ कपड़ा, और ईश्वर के प्रति प्रेम जाग गया है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम और भ्रम के संघर्ष का वर्णन किया है। प्रेम की शक्तिशाली आंधी भ्रम की दीवारों को ध्वस्त कर देती है और माया के कपड़े को उड़ा देती है। इसके परिणामस्वरूप, व्यक्ति के मन में ईश्वर के प्रति प्रेम और सच्ची भक्ति जागृत होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.971Z"
+  }
+}

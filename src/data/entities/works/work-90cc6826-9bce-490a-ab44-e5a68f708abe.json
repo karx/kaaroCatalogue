@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-90cc6826-9bce-490a-ab44-e5a68f708abe",
+  "name": "सुमिरन सों मन लाइये, जैसे दीप पतंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Let the mind be focused in remembrance like a moth to the flame. Even if the life is sacrificed for a moment, it does not burn the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन सों मन लाइये, जैसे दीप पतंग।\nप्राण तजे छिन एक में, जरत न मोरै अंग।।७७३।।",
+    "translation": "Let the mind be focused in remembrance like a moth to the flame. Even if the life is sacrificed for a moment, it does not burn the body.",
+    "meaning": "मन को स्मरण में लगाओ, जैसे पतंग दीपक के पास होती है। अगर प्राण भी पलभर के लिए त्याग दिए जाएं, तो भी अंग नहीं जलते।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि जैसे पतंग दीपक की लौ के प्रति आकर्षित होती है, वैसे ही मन को भगवान के स्मरण में लगाना चाहिए। यदि जीवन की किसी पल के लिए भी बलिदान दिया जाए, तो भी इसका शरीर पर कोई असर नहीं पड़ता। इस प्रकार, सच्ची भक्ति और समर्पण से जीवन की गहराई और उद्देश्य प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

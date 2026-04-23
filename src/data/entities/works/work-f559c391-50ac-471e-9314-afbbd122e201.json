@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f559c391-50ac-471e-9314-afbbd122e201",
+  "name": "कबीर विषधर बहु मिले, मणिधर मिला न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Many poisonous creatures are encountered, but not a single gem-holder. If a poisonous snake meets a gem-holder, its poison turns to nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर विषधर बहु मिले, मणिधर मिला न कोय।\nविषधर को मणिधर मिले, विष तजि अमृत होय।।३९४।।",
+    "translation": "Many poisonous creatures are encountered, but not a single gem-holder. If a poisonous snake meets a gem-holder, its poison turns to nectar.",
+    "meaning": "कई विषधारी जीव मिलते हैं, लेकिन कोई मणिधर नहीं मिलता। यदि विषधारी जीव मणिधर से मिल जाए, तो उसका विष अमृत में बदल जाता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने सच्चे गुरु की महत्वता को दर्शाया है। वे कहते हैं कि बहुत सारे विषधारी जीव (बुरे लोग या मुश्किलें) मिल सकते हैं, लेकिन सच्चा मणिधर (सच्चा गुरु) नहीं मिलता। जब विषधारी जीव सच्चे गुरु से मिलता है, तो उसकी विषमता अमृत में बदल जाती है। इसका तात्पर्य है कि सच्चे गुरु के संपर्क से व्यक्ति की बुराई और समस्याएं समाप्त हो जाती हैं, और वह आत्मा को शांति और अमृत प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

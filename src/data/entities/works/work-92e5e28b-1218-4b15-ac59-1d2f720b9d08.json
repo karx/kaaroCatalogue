@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-92e5e28b-1218-4b15-ac59-1d2f720b9d08",
+  "name": "पारस रूपी जीव है, लोह रूप संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The living being is like the philosopher's stone, and the world is like iron. The philosopher’s stone turns iron into gold; the essence is in its discernment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पारस रूपी जीव है, लोह रूप संसार।\nपारस ते पारस भया, परख भया टकसार।।१५९३।।",
+    "translation": "The living being is like the philosopher's stone, and the world is like iron. The philosopher’s stone turns iron into gold; the essence is in its discernment.",
+    "meaning": "जीव पारस की तरह है और संसार लोहा की तरह है। पारस लोहा को सोना बनाता है; सार उसके परख में है।",
+    "explanation": "कबीर इस दोहे में जीवन और संसार की तुलना पारस के साथ करते हैं। उन्होंने कहा कि पारस की तरह जीव भी संसार को बदलने की क्षमता रखता है। पारस लोहा को सोना बना देता है, और जीवन की वास्तविकता उस परख में छुपी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.212Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e1ab502-98a9-4ffd-8058-776dabf638a3",
+  "name": "जहां आपा तहां आपदा, जहां संसै तहां सोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there is ego, there is disaster; where there is doubt, there is sorrow. Kabir asks, how can one overcome these four long-lasting ailments?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां आपा तहां आपदा, जहां संसै तहां सोग।\nकहैं कबीर कैसे मिटै, चारौं दीरघ रोग।।१२५२।।",
+    "translation": "Where there is ego, there is disaster; where there is doubt, there is sorrow. Kabir asks, how can one overcome these four long-lasting ailments?",
+    "meaning": "जहां अहंकार है, वहां आपदा होती है; जहां संदेह है, वहां दुख होता है। कबीर पूछते हैं, इन चार लंबे समय तक रहने वाले रोगों से कैसे छुटकारा मिले?",
+    "explanation": "इस दोहे में कबीर ने अहंकार, संदेह और उनके प्रभावों को दर्शाया है। उन्होंने यह भी बताया है कि इन विकारों से मुक्ति पाना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.541Z"
+  }
+}

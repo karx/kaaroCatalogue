@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60692184-acf4-4bc6-be7e-3204bbd49d91",
+  "name": "कबीर सतगुर ना मिल्या, रही अधूरी सीष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without finding the True Guru, the head remains incomplete. Wearing the disguise of a hermit, one keeps begging for blessings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सतगुर ना मिल्या, रही अधूरी सीष।\nस्वाँग जती का पहरि करि, धरि-धरि माँगे भीष।।१५२।।",
+    "translation": "Without finding the True Guru, the head remains incomplete. Wearing the disguise of a hermit, one keeps begging for blessings.",
+    "meaning": "सतगुरु को न पाकर सिर अधूरा रह जाता है। संन्यासियों का भेष धारण करके, वे बार-बार आशीर्वाद मांगते रहते हैं।",
+    "explanation": "इस दोहे में कबीर गुरु की महत्ता को दर्शाते हैं। वे कहते हैं कि बिना सतगुरु के जीवन अधूरा रहता है और जो लोग संन्यास का दिखावा करते हैं, वे केवल आशीर्वाद के लिए मांगते रहते हैं। सही गुरु के बिना, व्यक्ति आध्यात्मिक रूप से पूर्ण नहीं हो सकता और जीवन की असली प्राप्ति नहीं कर सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

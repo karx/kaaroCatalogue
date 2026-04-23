@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5lu3-3yzrh",
+  "name": "Escaped😬😬",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-harsh-gujral"
+  },
+  "duration": "PT1M19S",
+  "embedUrl": "https://www.youtube.com/embed/uPFsAg-zOSA",
+  "contentUrl": "https://www.youtube.com/watch?v=uPFsAg-zOSA",
+  "uploadDate": "2025-02-26",
+  "thumbnailUrl": "https://i.ytimg.com/vi/uPFsAg-zOSA/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Harsh gujral",
+  "aggregatorChannel": null
+}

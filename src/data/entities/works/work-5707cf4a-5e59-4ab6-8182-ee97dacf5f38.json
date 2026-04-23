@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5707cf4a-5e59-4ab6-8182-ee97dacf5f38",
+  "name": "दीन गरीबी बंदगी, सबसो आदर भाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Humility, poverty, and service are the highest virtues. Kabir says that the one who embodies these traits is truly great.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीन गरीबी बंदगी, सबसो आदर भाव।\nकहैं कबीर सोई बड़ा, जामे बड़ा सुभाव।।१४०८।।",
+    "translation": "Humility, poverty, and service are the highest virtues. Kabir says that the one who embodies these traits is truly great.",
+    "meaning": "दीनता, गरीबी और सेवा सबसे बड़ी विशेषताएँ हैं। कबीर कहते हैं कि जो इन गुणों को अपनाता है, वही सच्चा महान होता है।",
+    "explanation": "कबीर इस दोहे में दीनता, गरीबी और सेवा को सबसे महत्वपूर्ण गुण मानते हैं। वे बताते हैं कि जो व्यक्ति इन गुणों को अपने जीवन में अपनाता है, वही सच्चा महान होता है। यह दोहा हमें विनम्रता और सेवा के महत्व को समझाता है और इन गुणों को अपने जीवन में उतारने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.359Z"
+  }
+}

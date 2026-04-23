@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4171b8a7-4f81-4308-88f0-0c36351156c9",
+  "name": "सूरा सोई सराहिये, लड़े मुक्ति के हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The brave person is praised, who fights for liberation. Even if torn piece by piece, he does not abandon the field.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूरा सोई सराहिये, लड़े मुक्ति के हेत।\nपुर्जा पुर्जा कट पड़े, तो भी ना छाड़े खेत।।४५९।।",
+    "translation": "The brave person is praised, who fights for liberation. Even if torn piece by piece, he does not abandon the field.",
+    "meaning": "वीर व्यक्ति की सराहना की जाती है, जो मुक्ति के लिए लड़ता है। अगर वह टुकड़े-टुकड़े हो जाए, फिर भी वह खेत नहीं छोड़ता।",
+    "explanation": "इस दोहे में कबीर ने वीरता की सराहना की है, जो मुक्ति के लिए संघर्ष करता है। चाहे वह टुकड़े-टुकड़े हो जाए, फिर भी वह अपने कर्मक्षेत्र को नहीं छोड़ता। यह दोहा साहस और दृढ़ता के महत्व को दर्शाता है, जो मुक्ति के लिए आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

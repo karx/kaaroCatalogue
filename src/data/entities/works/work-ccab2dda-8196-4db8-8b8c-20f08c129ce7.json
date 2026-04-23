@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ccab2dda-8196-4db8-8b8c-20f08c129ce7",
+  "name": "ढाढस देखह मरजीवा को, धर जोरि पैढा पाताल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "See the assurance given to the dying, even if it reaches the depths of the underworld. The living does not understand the meaning, holding onto the red thread.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ढाढस देखह मरजीवा को, धर जोरि पैढा पाताल।\nजीव के अटक माने नहीं, ले गहि निकसा लाल।।१५५२।।",
+    "translation": "See the assurance given to the dying, even if it reaches the depths of the underworld. The living does not understand the meaning, holding onto the red thread.",
+    "meaning": "मृत्यु को देखो, वह भी यदि पाताल तक पहुंच जाए। जीव इसका अर्थ नहीं समझते, लाल धागे को पकड़ कर रखते हैं।",
+    "explanation": "कबीर इस दोहे में मृत्यु के बाद भी आश्वासन का संकेत देते हैं, जो बहुत गहराई तक जाता है। जीव अपनी सांसारिक चीजों से चिपके रहते हैं, और जीवन के वास्तविक अर्थ को समझने में असमर्थ होते हैं। यह जीवन की भौतिकता से परे जाकर आत्मा की गहराई में देखने का आग्रह है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.205Z"
+  }
+}

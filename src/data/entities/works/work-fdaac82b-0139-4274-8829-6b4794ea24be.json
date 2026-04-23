@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fdaac82b-0139-4274-8829-6b4794ea24be",
+  "name": "कह अकाश को फेर है, कह धरती को तोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Question the sky for its rotation, and the earth for its weight. Ask about the caste of a saint and the worth of a touchstone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कह अकाश को फेर है, कह धरती को तोल।\nकहा साध की जाति है, कह पारस का मोल।।३२५।।",
+    "translation": "Question the sky for its rotation, and the earth for its weight. Ask about the caste of a saint and the worth of a touchstone.",
+    "meaning": "आकाश की घुमाव की बात पूछो, और पृथ्वी का वजन पूछो। साधु की जाति और पारस पत्थर के मूल्य के बारे में पूछो।",
+    "explanation": "इस दोहे में कबीर यह सिखाते हैं कि आकाश और पृथ्वी की विशेषताओं को जानना संभव है, लेकिन साधु की जाति और पारस पत्थर का मूल्य असाधारण हैं और इनका ज्ञान सहज नहीं है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

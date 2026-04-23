@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-de9727a5-aca5-4cea-817d-dc261e2b132d",
+  "name": "मेरे संगी दोइ जणां, एक वैष्‍णों एक राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have two companions, one is Vaishnava and the other is Ram. One is the giver of liberation, and the other is the one who remembers the name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मेरे संगी दोइ जणां, एक वैष्‍णों एक राम।\nवो है दाता मुक्ति का, वो सुमिरावै नाम।।२०११।।",
+    "translation": "I have two companions, one is Vaishnava and the other is Ram. One is the giver of liberation, and the other is the one who remembers the name.",
+    "meaning": "मेरे दो साथी हैं, एक वैष्णव और दूसरा राम। एक मोक्ष देने वाला है, और दूसरा नाम स्मरण करने वाला है।",
+    "explanation": "इस दोहे में कबीर ने अपने दो प्रमुख आध्यात्मिक साथियों का वर्णन किया है। एक साथी वैष्णव है जो मोक्ष (मुक्ति) देने वाला है, जबकि दूसरा साथी राम है जो नाम स्मरण करने वाला है। कबीर ने यह बताया है कि ये दोनों साथी उसकी आध्यात्मिक यात्रा में महत्वपूर्ण भूमिका निभाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.803Z"
+  }
+}

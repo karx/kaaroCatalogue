@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d3c65970-8b39-48bc-8409-2a8bda73d0a0",
+  "name": "पंषि उडाणी गगन कूं, प्‍यंड रह्या परदेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bird flew to the sky, remaining far away from its land. It forgot this land after drinking water without disturbance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंषि उडाणी गगन कूं, प्‍यंड रह्या परदेस।\nपांणी पीया चंच बिन, भूलि गया यहु देस।।१७९९।।",
+    "translation": "The bird flew to the sky, remaining far away from its land. It forgot this land after drinking water without disturbance.",
+    "meaning": "पक्षी ने आकाश में उड़ान भरी, अपने देश से दूर रहते हुए। उसने बिना विघ्न के पानी पीकर इस देश को भूल गया।",
+    "explanation": "इस दोहे में कबीर ने आत्मा के आकाश में उड़ने और भौतिक दुनिया से दूर रहने की बात की है। जब पक्षी ने बिना किसी विघ्न के पानी पिया, तब उसने इस दुनिया को भूलकर आत्मिक उन्नति की दिशा में ध्यान केंद्रित किया। यह दोहा आत्म-संयम और आध्यात्मिक यात्रा की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.357Z"
+  }
+}

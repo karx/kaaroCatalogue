@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0883xy-0szmf",
+  "name": "MIDDLE CLASS RESTAURANT PROBLEMS : STAND UP COMEDY -Kenny Sebastian",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kenny-sebastian"
+  },
+  "duration": "PT7M25S",
+  "embedUrl": "https://www.youtube.com/embed/TZgyeEE2hx4",
+  "contentUrl": "https://www.youtube.com/watch?v=TZgyeEE2hx4",
+  "uploadDate": "2015-07-13",
+  "thumbnailUrl": "https://i.ytimg.com/vi/TZgyeEE2hx4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Indian stand up comedian Kenneth Sebastian talks about how truly middle class Indian people (like himself) face troubles in Indian Restaurants!\n\nPart of his latest stand up comedy special series #InsidesOut , Kenny in this clip explores how every middle class parent orders food in Indian restaurants",
+  "channelTitle": "Kenny Sebastian",
+  "aggregatorChannel": null
+}

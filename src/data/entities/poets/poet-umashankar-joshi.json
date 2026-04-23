@@ -1,0 +1,30 @@
+{
+  "entityId": "poet-umashankar-joshi",
+  "name": "Umashankar Joshi",
+  "@type": "Person",
+  "knowsLanguage": "Gujarati",
+  "era": "Modern",
+  "century": "20th Century",
+  "award": [
+    "Jnanpith Award (1967)"
+  ],
+  "keywords": [
+    "Nishith",
+    "Gandhian",
+    "Universal Peace"
+  ],
+  "abstract": "A giant of Gujarati literature and Jnanpith winner for Nishith. His works like Gangotri and Vishwa Shanti reflect Gandhian ideals and yearning for universal peace.",
+  "majorWorks": [
+    "Nishith",
+    "Gangotri",
+    "Vishwa Shanti"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Umashankar_Joshi"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Umashankar_Joshi",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

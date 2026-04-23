@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b40f3cb5-e9e3-47c7-b06b-555d9aa1f6c5",
+  "name": "कथनी काची होय गयी, करनी करी न सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Words have become hollow, and actions lack essence. The speaker and the listener are both lost, endlessly ignorant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कथनी काची होय गयी, करनी करी न सार।\nश्रोता वक्‍ता मरि गया, मूरख अनंत अपार।।१३०८।।",
+    "translation": "Words have become hollow, and actions lack essence. The speaker and the listener are both lost, endlessly ignorant.",
+    "meaning": "शब्द खोखले हो गए हैं, और कर्मों में सार की कमी है। वक्ता और श्रोता दोनों खो गए हैं, अनंत अज्ञान में।",
+    "explanation": "कबीर जी के अनुसार, जब शब्दों में सार नहीं होता और कर्म भी अर्थहीन होते हैं, तो वक्ता और श्रोता दोनों ही अंततः अज्ञानता का शिकार हो जाते हैं। वास्तविक ज्ञान और कर्म की आवश्यकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.810Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2bb29661-5ef7-4e46-8545-fb91ceb99fe8",
+  "name": "दावै दाझण होत है, निरदावै निरसंक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who are attached to desires suffer, while those without desires remain fearless. Even Indra, the king of gods, seems like a pauper compared to one who is detached.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दावै दाझण होत है, निरदावै निरसंक।\nजे नर निरदावै रहैं, ते गिणैं इंद्र को रंक।।१८९५।।",
+    "translation": "Those who are attached to desires suffer, while those without desires remain fearless. Even Indra, the king of gods, seems like a pauper compared to one who is detached.",
+    "meaning": "जो व्यक्ति इच्छाओं से बंधा हुआ है, वह दुखी होता है, जबकि जो व्यक्ति निराश्रय है, वह निडर रहता है। जो व्यक्ति निराश्रय रहता है, वह इंद्र के मुकाबले भी धनी होता है।",
+    "explanation": "इस दोहे में कबीरदास जी इच्छाओं और निर्लिप्तता के प्रभाव पर प्रकाश डालते हैं। वे कहते हैं कि जो व्यक्ति अपनी इच्छाओं से ग्रस्त रहता है, वह हमेशा दुःखी और असंतुष्ट रहता है। इसके विपरीत, जो व्यक्ति निर्लिप्त रहता है, वह निडर और शांति से भरा होता है। ऐसे व्यक्ति की तुलना में, इंद्र जैसा समृद्ध व्यक्ति भी निर्धन प्रतीत होता है। यह दोहा आत्मसंयम और निर्लिप्तता की महत्ता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.977Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-633f0843-fee0-4088-bf4c-399fd88b4e07",
+  "name": "सुर नर मुनि सबको ठगै, मनहिं लिया औतार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The gods, humans, and sages all deceive, taking the mind as their vehicle. Those who escape this deception are beyond the three worlds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुर नर मुनि सबको ठगै, मनहिं लिया औतार।\nजो कोई याते बच, तीन लोक ते न्‍यार।।११२२।।",
+    "translation": "The gods, humans, and sages all deceive, taking the mind as their vehicle. Those who escape this deception are beyond the three worlds.",
+    "meaning": "देवता, मनुष्य और ऋषि सभी धोखाधड़ी करते हैं, मन को अपना साधन मानते हैं। जो इस धोखे से बच जाते हैं, वे तीन लोकों से परे होते हैं।",
+    "explanation": "इस दोहे में कबीर ने मन की धोखाधड़ी और इसके प्रभाव की बात की है। उन्होंने कहा है कि सभी देवता, मनुष्य, और ऋषि भी मन के माध्यम से धोखा देते हैं। केवल वही लोग इस धोखे से बच पाते हैं जो अपने मन को नियंत्रित कर लेते हैं और तीनों लोकों से परे हो जाते हैं। यह आत्म-ज्ञान और मन की समझ की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.703Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e218b271-3318-47d0-bde6-59b5010c8bea",
+  "name": "पंचतत्त के भीतरे, गुप्‍त वस्‍तु अस्‍थान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Within the five elements, there is a hidden place. Rarely does anyone understand the essence; the words of the guru are the proof.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंचतत्त के भीतरे, गुप्‍त वस्‍तु अस्‍थान।\nबिरले मर्म कोई पाइहै, गुरु के शब्‍द प्रमाण।।१५८२।।",
+    "translation": "Within the five elements, there is a hidden place. Rarely does anyone understand the essence; the words of the guru are the proof.",
+    "meaning": "पंच तत्वों के भीतर एक गुप्त स्थान है। बहुत कम लोग इस सार को समझ पाते हैं; गुरु के शब्द प्रमाण होते हैं।",
+    "explanation": "इस दोहे में कबीर ने शरीर के भीतर एक गुप्त और महत्वपूर्ण स्थान की बात की है। उन्होंने कहा कि बहुत कम लोग इस गहरे सार को समझ पाते हैं, और गुरु के शब्द इस समझ के प्रमाण होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.211Z"
+  }
+}

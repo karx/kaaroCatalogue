@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bef2c892-438a-49a5-989a-6e732fc6e145",
+  "name": "मेरा संगी कोय नहिं, सबै स्‍वारथी लोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have no true companions, everyone is selfish. Trust doesn't arise in my mind, and there is no belief in my heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मेरा संगी कोय नहिं, सबै स्‍वारथी लोय।\nमन परतीति न ऊपजै, जिय विस्‍वास न होय।।८८३।।",
+    "translation": "I have no true companions, everyone is selfish. Trust doesn't arise in my mind, and there is no belief in my heart.",
+    "meaning": "मेरा कोई सच्चा साथी नहीं है, सभी स्वार्थी हैं। मेरे मन में विश्वास उत्पन्न नहीं होता, और मेरे हृदय में कोई आस्था नहीं है।",
+    "explanation": "इस दोहे में कबीर अकेलेपन और अविश्वास की भावना को प्रकट करते हैं। वे कहते हैं कि इस संसार में सभी लोग स्वार्थी हैं, और इसी कारण मन में विश्वास और भरोसे की भावना नहीं आती। यह उनके आध्यात्मिक संघर्ष का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.353Z"
+  }
+}

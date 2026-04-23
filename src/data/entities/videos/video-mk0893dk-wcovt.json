@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0893dk-wcovt",
+  "name": "Kunal Kamra, Karunesh Talwar, Anuvab Pal | Wake Up With Sorabh",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sorabh-pant"
+  },
+  "duration": "PT2H50M19S",
+  "embedUrl": "https://www.youtube.com/embed/4wBtW1m1Org",
+  "contentUrl": "https://www.youtube.com/watch?v=4wBtW1m1Org",
+  "uploadDate": "2020-08-01",
+  "thumbnailUrl": "https://i.ytimg.com/vi/4wBtW1m1Org/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Comedians #KunalKamra, #KaruneshTalwar and legend of comedy known as #AnuvabPal drop in and we talk about weird shows, weird producers, school stories, Dave Chapelle, Bill Burr and much more.",
+  "channelTitle": "Sorabh Pant",
+  "aggregatorChannel": null
+}

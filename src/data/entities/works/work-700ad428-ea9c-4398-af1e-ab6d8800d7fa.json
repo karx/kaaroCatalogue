@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-700ad428-ea9c-4398-af1e-ab6d8800d7fa",
+  "name": "सुनिये पार जो पाइया, छाजन भोजन आनि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Listen, if you have achieved the other shore, provide shade and food. Kabir says, do not let the saints go without offering something.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुनिये पार जो पाइया, छाजन भोजन आनि।\nकहैं कबीर संतन को, देत न कीजै कानि।।६०३।।",
+    "translation": "Listen, if you have achieved the other shore, provide shade and food. Kabir says, do not let the saints go without offering something.",
+    "meaning": "सुनिए, अगर आप दूसरी ओर पहुँच गए हैं, तो छाया और भोजन प्रदान करें। कबीर कहते हैं, संतों को बिना कुछ दिए मत भेजिए।",
+    "explanation": "संतों की सेवा और सम्मान का आदान-प्रदान अत्यंत महत्वपूर्ण है। संतों को उनकी यात्रा में आवश्यक चीजें प्रदान करना चाहिए, जैसे छाया और भोजन, ताकि उनकी सेवा में कोई कमी न रहे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:51.999Z"
+  }
+}

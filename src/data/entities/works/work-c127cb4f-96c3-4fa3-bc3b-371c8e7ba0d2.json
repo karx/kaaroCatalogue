@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c127cb4f-96c3-4fa3-bc3b-371c8e7ba0d2",
+  "name": "सांच बराबर तप नहीं, झूठ बराबर पाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no penance equal to truth, and falsehood is equivalent to sin. The one whose heart is true, their heart itself is the truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांच बराबर तप नहीं, झूठ बराबर पाप।\nजाके हिरदे सांच है, ताके हिरदे आप।।१४२३।।",
+    "translation": "There is no penance equal to truth, and falsehood is equivalent to sin. The one whose heart is true, their heart itself is the truth.",
+    "meaning": "सच्चाई के बराबर कोई तपस्या नहीं है, और झूठ के बराबर पाप है। जिसका दिल सच्चा है, उसका दिल खुद सच्चाई है।",
+    "explanation": "कबीर इस दोहे में सच्चाई और तपस्या के बीच तुलना करते हैं। वे कहते हैं कि सच्चाई के बराबर कोई तपस्या नहीं है, और झूठ को पाप मानते हैं। जो व्यक्ति अपने दिल में सच्चा है, उसका दिल ही सच्चाई है। यह दोहा सच्चाई की आध्यात्मिक महत्वता को दर्शाता है और झूठ से बचने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.362Z"
+  }
+}

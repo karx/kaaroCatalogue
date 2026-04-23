@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aec9f9ec-c44f-43e3-bbc3-7fedf6f9ff03",
+  "name": "ताहि न कहिए परखू, पाहन लखे जो कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not judge by appearances; the stone reveals only what is within. The wise recognize the value of a person, a city, or a heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ताहि न कहिए परखू, पाहन लखे जो कोय।\nनर नग या दिल जो लखे, रतन पारखू सोय।।१५५७।।",
+    "translation": "Do not judge by appearances; the stone reveals only what is within. The wise recognize the value of a person, a city, or a heart.",
+    "meaning": "आकृतियों से नहीं आंकना चाहिए; पत्थर केवल वही दिखाता है जो अंदर है। ज्ञानी व्यक्ति एक व्यक्ति, नगर या दिल की मूल्य पहचानते हैं।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि हमें किसी की बाहरी दिखावट से उसकी वास्तविकता का मूल्यांकन नहीं करना चाहिए। पत्थर की तरह, जो केवल अपने अंदर की सामग्री को प्रकट करता है, हमें लोगों, स्थानों और दिलों की वास्तविकता को समझना चाहिए। केवल सही समझ और ज्ञान से ही हम किसी की असली मूल्य पहचान सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.206Z"
+  }
+}

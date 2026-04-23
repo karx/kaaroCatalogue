@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0346bf53-e8a4-401b-b356-793b0c69e6ae",
+  "name": "एक दिन ऐसा होएगा, सब सूँ पड़े बिछोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A day will come when everyone will lay down; kings, rulers, and warriors all will be rendered helpless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक दिन ऐसा होएगा, सब सूँ पड़े बिछोइ।\nराजा राणा छत्रपति, सावधान किन होइ।।२०८।।",
+    "translation": "A day will come when everyone will lay down; kings, rulers, and warriors all will be rendered helpless.",
+    "meaning": "एक दिन ऐसा आएगा जब सबको लेट जाना पड़ेगा; राजा, राणा और छत्रपति सभी असहाय हो जाएंगे।",
+    "explanation": "कबीर इस दोहे में जीवन की नश्वरता और मृत्यु की अनिवार्यता की ओर ध्यान आकर्षित कर रहे हैं। चाहे राजा हो या साधारण व्यक्ति, एक दिन सबको मृत्यु का सामना करना पड़ेगा। इसीलिए हमें अपने अहंकार और अभिमान को छोड़ कर सावधानीपूर्वक जीवन जीना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

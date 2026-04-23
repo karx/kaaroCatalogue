@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk087zu8-6li2q",
+  "name": "Inconvenience is regrats",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT1M30S",
+  "embedUrl": "https://www.youtube.com/embed/dcGMeFXO6ZU",
+  "contentUrl": "https://www.youtube.com/watch?v=dcGMeFXO6ZU",
+  "uploadDate": "2025-07-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/dcGMeFXO6ZU/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Please enjoy the convenience of new stand up video",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

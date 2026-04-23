@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dd216d77-5917-40e6-bbd3-9822eaf2a752",
+  "name": "छीर-रूप सतनाम है, नीर-रूप व्यवहार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The essence of truth is like milk, while the worldly actions are like water. A true saint is like a swan who separates the milk from water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "छीर-रूप सतनाम है, नीर-रूप व्यवहार।\nहंस-रूप कोइ साधु है, सत का छाननहार।।४४।।",
+    "translation": "The essence of truth is like milk, while the worldly actions are like water. A true saint is like a swan who separates the milk from water.",
+    "meaning": "सत्य का सार दूध के समान है, जबकि सांसारिक व्यवहार पानी के समान है। एक सच्चा साधु हंस के समान होता है जो दूध को पानी से अलग करता है।",
+    "explanation": "इस दोहे में संत कबीर ने सच्चे साधु और संसारिकता के बीच के भेद को स्पष्ट किया है। जैसे हंस दूध को पानी से अलग कर देता है, वैसे ही एक सच्चा साधु सत्य को असत्य से अलग करता है और वास्तविकता को पहचानता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

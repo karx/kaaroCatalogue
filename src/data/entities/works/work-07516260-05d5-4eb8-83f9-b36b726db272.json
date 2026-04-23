@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-07516260-05d5-4eb8-83f9-b36b726db272",
+  "name": "साषत बांभण मति मिलै, बैसनौं मिलै चंडाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wisdom is found with the Brahmins, and the lower castes are met with outcasts. When we meet the divine, it is like meeting Gopal (Krishna).",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साषत बांभण मति मिलै, बैसनौं मिलै चंडाल।\nअंकमाल दे भेटिये, मांनों मिले गोपाल।।१९८७।।",
+    "translation": "Wisdom is found with the Brahmins, and the lower castes are met with outcasts. When we meet the divine, it is like meeting Gopal (Krishna).",
+    "meaning": "ज्ञान ब्राह्मणों के पास मिलता है और निचली जातियों के लोग बाहर के होते हैं। जब हम दिव्य को मिलते हैं, तो यह गोपाल (कृष्ण) से मिलने जैसा होता है।",
+    "explanation": "इस दोहे में कबीर ने सामाजिक भेदभाव और धार्मिक ज्ञान की बात की है। उन्होंने कहा है कि वास्तविक दिव्य अनुभव, चाहे किसी भी जाति या सामाजिक वर्ग से संबंधित हो, सबके लिए समान होता है। जब हम दिव्य से मिलते हैं, तो वह सभी भौतिक और सामाजिक विभाजनों से ऊपर होता है। यह भक्ति और समरसता की भावना को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.535Z"
+  }
+}

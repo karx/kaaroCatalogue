@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-831ce000-23b2-4fde-bcb2-f0d2347d4973",
+  "name": "यह तो घर है प्रेम का, खाला का घर नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the home of love, not of the maternal uncle's house. One must remove the headgear and place it on the ground to enter this home.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह तो घर है प्रेम का, खाला का घर नाहिं।\nशीष उतारै भुई धरै, तब पैठे घर माहिं।।८३३।।",
+    "translation": "This is the home of love, not of the maternal uncle's house. One must remove the headgear and place it on the ground to enter this home.",
+    "meaning": "यह प्रेम का घर है, खाला के घर जैसा नहीं। इस घर में प्रवेश करने के लिए सिर का मुकुट उतारकर भूमि पर रखना पड़ता है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम के घर की विशेषता को स्पष्ट किया है। प्रेम का घर अत्यंत पवित्र है और इसमें प्रवेश करने के लिए अहंकार और गर्व को छोड़ना पड़ता है। जैसे खाला के घर में बिना सिर ढके नहीं जा सकते, वैसे ही प्रेम के घर में भी अपने अहंकार और बाहरी आभूषणों को छोड़ना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.081Z"
+  }
+}

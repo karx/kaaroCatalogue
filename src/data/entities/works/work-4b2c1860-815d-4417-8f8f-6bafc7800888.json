@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4b2c1860-815d-4417-8f8f-6bafc7800888",
+  "name": "बेटा जाये क्‍या हुआ, कहा बजावै थाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What if the son leaves? What is there in the plate? The coming and going continues, like the passage of an ant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बेटा जाये क्‍या हुआ, कहा बजावै थाल।\nआवन जावन होय रहा, ज्‍यों कीड़ी का नाल।।१०६१।।",
+    "translation": "What if the son leaves? What is there in the plate? The coming and going continues, like the passage of an ant.",
+    "meaning": "बेटा चला गया तो क्या हुआ? थाल में क्या रखा है? आना-जाना चलता रहता है, जैसे कीड़ी की राह।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि जब कोई अपना चला जाता है, तो जीवन की वास्तविकता यही है कि चीजें अपने रास्ते पर चलती रहती हैं। बेटा चला जाए, तो भी जीवन की प्रक्रिया निरंतर चलती रहती है। यह आना और जाना एक निरंतर प्रक्रिया है, जैसे कीड़ी का रास्ता चलता रहता है। यह जीवन की क्षणभंगुरता और निरंतरता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.425Z"
+  }
+}

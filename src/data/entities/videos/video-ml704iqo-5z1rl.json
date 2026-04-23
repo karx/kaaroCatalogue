@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-5z1rl",
+  "name": "Dating online| Stand Up Comedy by Aditi Mittal",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT3M9S",
+  "embedUrl": "https://www.youtube.com/embed/GlXPX-LLPrc",
+  "contentUrl": "https://www.youtube.com/watch?v=GlXPX-LLPrc",
+  "uploadDate": "2020-09-04",
+  "thumbnailUrl": "https://i.ytimg.com/vi/GlXPX-LLPrc/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "At Westside Comedy Club, New York City, January 2020.",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

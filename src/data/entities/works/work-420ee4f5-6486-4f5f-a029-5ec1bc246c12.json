@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-420ee4f5-6486-4f5f-a029-5ec1bc246c12",
+  "name": "हरि का बना स्‍वरूप सब, जेता यह आकार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All forms are manifestations of the Divine. The letter and its meaning are one, Kabir says.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि का बना स्‍वरूप सब, जेता यह आकार।\nअक्षर अर्थ यों भाषिये, कहै कबीर बिचार।।२२१२।।",
+    "translation": "All forms are manifestations of the Divine. The letter and its meaning are one, Kabir says.",
+    "meaning": "हरि के सभी रूप दिव्य के स्वरूप हैं। अक्षर और उसका अर्थ एक ही है, कबीर कहते हैं।",
+    "explanation": "इस दोहे में संत कबीर जी यह समझाते हैं कि हर रूप और आकार दिव्य के ही स्वरूप हैं। वे यह भी बताते हैं कि अक्षर और उसका अर्थ एक ही होते हैं, जो कि एक गहरी सच्चाई को दर्शाता है। कबीर जी का यह विचार है कि हमें रूपों और शब्दों के बजाय उनके अंतर्निहित अर्थ और सार को समझने की कोशिश करनी चाहिए। इस प्रकार, वे वास्तविकता को समझने के लिए अक्षर और उसके अर्थ के एकत्व पर ध्यान केंद्रित करने की सलाह देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.080Z"
+  }
+}

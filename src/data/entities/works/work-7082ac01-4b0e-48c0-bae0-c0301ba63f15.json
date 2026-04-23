@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7082ac01-4b0e-48c0-bae0-c0301ba63f15",
+  "name": "सतगुरु सम कोई नहीं, सात दीप नौ खण्‍ड",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no comparison to the true Guru, who is like seven lamps in nine realms. One cannot find the Guru even in the three worlds or this entire universe.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु सम कोई नहीं, सात दीप नौ खण्‍ड।\nतीन लोक न पाइये, अरु इक-इस ब्रह्मण्‍ड।।५०६।।",
+    "translation": "There is no comparison to the true Guru, who is like seven lamps in nine realms. One cannot find the Guru even in the three worlds or this entire universe.",
+    "meaning": "सतगुरु की तुलना किसी से नहीं की जा सकती, वे सात दीपों के समान हैं। तीन लोकों और इस ब्रह्मांड में भी गुरु को नहीं पाया जा सकता।",
+    "explanation": "यह दोहा गुरु की महत्वता को दर्शाता है। कबीर बताते हैं कि सतगुरु की तुलना किसी भी अन्य चीज से नहीं की जा सकती, क्योंकि वे सभी लोकों और ब्रह्मांड में अनमोल और अद्वितीय होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.463Z"
+  }
+}

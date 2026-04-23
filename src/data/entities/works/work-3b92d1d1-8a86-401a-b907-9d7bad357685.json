@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3b92d1d1-8a86-401a-b907-9d7bad357685",
+  "name": "मानुष केरी बड़ पापिया, अक्षर गुरुहिं न मान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Humans are great sinners, they do not respect the words of the Guru. Repeatedly they become fool, bearing the burden of ignorance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मानुष केरी बड़ पापिया, अक्षर गुरुहिं न मान।\nबार-बार बने कूकही, गर्भ धरे औधान।।१६३८।।",
+    "translation": "Humans are great sinners, they do not respect the words of the Guru. Repeatedly they become fool, bearing the burden of ignorance.",
+    "meaning": "मनुष्य बड़े पापी होते हैं, गुरु की बातों को नहीं मानते। बार-बार वे मूर्ख बन जाते हैं, और अज्ञान का बोझ उठाते हैं।",
+    "explanation": "कबीर इस दोहे में मनुष्य के दोष और गुरु की शिक्षाओं की अनदेखी को दर्शाते हैं। उन्होंने कहा कि मनुष्य बार-बार अज्ञान की ओर बढ़ता है और इसका बोझ उठाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.509Z"
+  }
+}

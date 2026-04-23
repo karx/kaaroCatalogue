@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-af1dd767-1b7d-430a-8c34-a1f2475d43ca",
+  "name": "प्रीतम के पतियाँ लिखूँ, जो कहुँ होय बिदेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I write letters to my beloved, even if they are abroad. In body, mind, and eyes, where can I send messages to them?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रीतम के पतियाँ लिखूँ, जो कहुँ होय बिदेस।\nतन में मन में नैन में, ताको कहा सँदेस।।२०४।।",
+    "translation": "I write letters to my beloved, even if they are abroad. In body, mind, and eyes, where can I send messages to them?",
+    "meaning": "मैं अपने प्रिय को पत्र लिखता हूँ, चाहे वे विदेश में हों। शरीर, मन, और आंखों में, उन्हें संदेश कहाँ भेजूँ?",
+    "explanation": "इस दोहे में कबीर ने प्रेम और दूरी की भावना को व्यक्त किया है। उन्होंने कहा है कि प्रेमी को पत्र लिखना भी कठिन है, खासकर जब वे दूर हों। यह जीवन की वास्तविकता को दर्शाता है कि कैसे प्रेम और संचार की कोशिशें हमेशा चुनौतीपूर्ण होती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.858Z"
+  }
+}

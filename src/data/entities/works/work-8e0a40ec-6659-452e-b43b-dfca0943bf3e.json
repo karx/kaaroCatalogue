@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8e0a40ec-6659-452e-b43b-dfca0943bf3e",
+  "name": "काम क्रोध मद लोभी की, जब लग घट में खान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When desire, anger, pride, and greed are present in the heart, the learned scholar and the fool are the same.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काम क्रोध मद लोभी की, जब लग घट में खान।\nकबीर मूरख पंडिता, दोनो एक समान।।१२२३।।",
+    "translation": "When desire, anger, pride, and greed are present in the heart, the learned scholar and the fool are the same.",
+    "meaning": "जब काम, क्रोध, मद, और लोभ दिल में मौजूद होते हैं, तब ज्ञानी पंडित और मूर्ख दोनों एक जैसे होते हैं।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि जब किसी के मन में बुरे गुण होते हैं, तो ज्ञान और विद्या का कोई महत्व नहीं रह जाता। ऐसे व्यक्ति की स्थिति और मूर्ख की स्थिति समान होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.270Z"
+  }
+}

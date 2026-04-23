@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f01889e0-7952-47a4-be50-7409c0e31d9a",
+  "name": "ज्‍यों दर्पण प्रतिबिम्‍ब देखिए, आप दुनों महं सोई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Just as you see your reflection in a mirror, you are the same in both the physical and spiritual realms. Whether this is the essence or the essence itself, it is all within you.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्‍यों दर्पण प्रतिबिम्‍ब देखिए, आप दुनों महं सोई।\nया तत्त्‍व ते वा तत्त्‍व है, याही में पुनि होई।।१५४७।।",
+    "translation": "Just as you see your reflection in a mirror, you are the same in both the physical and spiritual realms. Whether this is the essence or the essence itself, it is all within you.",
+    "meaning": "जैसे आप दर्पण में अपने प्रतिबिम्ब को देखते हैं, आप भौतिक और आध्यात्मिक दोनों क्षेत्रों में वही हैं। यह तत्व या तत्व स्वयं, सब आपके भीतर ही है।",
+    "explanation": "कबीर इस दोहे में यह स्पष्ट करते हैं कि जैसा हम दर्पण में अपना प्रतिबिम्ब देखते हैं, वैसे ही हमें अपने भीतर की आत्मा और वास्तविकता को पहचानना चाहिए। दोनों ही क्षेत्र (भौतिक और आध्यात्मिक) हमारे भीतर एक ही सत्य का प्रतिनिधित्व करते हैं। इस प्रकार, हमें अपने भीतर के तत्व की पहचान करनी चाहिए और उसे समझना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.936Z"
+  }
+}

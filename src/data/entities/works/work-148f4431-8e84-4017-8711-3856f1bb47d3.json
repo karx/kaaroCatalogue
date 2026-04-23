@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-148f4431-8e84-4017-8711-3856f1bb47d3",
+  "name": "गार अंगार क्रोध झल, निन्‍दा धूवां होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Anger is like burning embers, and slander is like smoke. One who abandons these three is called a saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गार अंगार क्रोध झल, निन्‍दा धूवां होय।\nइत तीनों को परिहरै, साधु कहावै सोय।।१२३८।।",
+    "translation": "Anger is like burning embers, and slander is like smoke. One who abandons these three is called a saint.",
+    "meaning": "क्रोध अंगार की तरह जलता है और निंदा धुएं की तरह होती है। जो इन तीनों को त्याग देता है, वही साधु कहलाता है।",
+    "explanation": "इस दोहे में कबीर ने क्रोध, निंदा, और उनके दुष्परिणामों को दर्शाया है। क्रोध को अंगार और निंदा को धुएं के समान मानते हुए, इन्हें त्यागने वाले को ही सच्चा साधु कहा गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.273Z"
+  }
+}

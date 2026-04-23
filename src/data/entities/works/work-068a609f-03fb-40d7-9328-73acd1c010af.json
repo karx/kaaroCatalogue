@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-068a609f-03fb-40d7-9328-73acd1c010af",
+  "name": "कबीरा खाई कोट कि, पानी पिवै न कोई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, even if one has consumed many times the quantity of water from a well, it is not equivalent to drinking the sacred water of the Ganges.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा खाई कोट कि, पानी पिवै न कोई।\nजाइ मिलै जब गंग से, तब गंगोदक होइ।।१९३।।",
+    "translation": "Kabir says, even if one has consumed many times the quantity of water from a well, it is not equivalent to drinking the sacred water of the Ganges.",
+    "meaning": "कबीर कहते हैं, चाहे कोई कितनी भी बार कुएँ का पानी पिये, वह गंगाजल के बराबर नहीं हो सकता।",
+    "explanation": "इस दोहे में कबीर ने गंगा नदी के पवित्र जल की महिमा का उल्लेख किया है। उन्होंने यह बताया है कि संसारिक साधनों और प्रयासों की तुलना में, आध्यात्मिक और पवित्र अनुभव अधिक महत्वपूर्ण होते हैं। गंगा का जल धार्मिक दृष्टि से अत्यंत पवित्र है, जबकि अन्य साधारण जल की कोई विशेषता नहीं होती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

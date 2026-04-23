@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-549d0425-a60b-4a0f-96e7-ec093d986fe5",
+  "name": "जाकी पूंजी सांस है, छिन आवै छिन जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One whose capital is the breath, which comes and goes in an instant, should aim to keep the flame of the name burning.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाकी पूंजी सांस है, छिन आवै छिन जाय।\nताको ऐसा चाहिए, रहे नाम लौ लाय।।७४१।।",
+    "translation": "One whose capital is the breath, which comes and goes in an instant, should aim to keep the flame of the name burning.",
+    "meaning": "जिसकी पूंजी सांस है, जो एक क्षण में आती और जाती है, उसे नाम की लौ को जलाए रखने का प्रयास करना चाहिए।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि जिनकी पूंजी केवल सांस है, जो क्षणिक है, उन्हें नाम की लौ को स्थिर और जलाए रखने का प्रयास करना चाहिए। सांस की अस्थिरता को देखते हुए, हमें आध्यात्मिक रूप से स्थिर और सच्चे नाम की ओर ध्यान केंद्रित करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

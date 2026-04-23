@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-63e20c6d-caa6-4d1e-9954-4f925c852e3e",
+  "name": "कबीर कूता राम का, मुतिया मेरा नाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, I am a dog of Ram, and my name is Mutia. I move wherever Ram's leash pulls me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कूता राम का, मुतिया मेरा नाउं।\nगलै राम की जेवड़ी, जित खंचे तित जाउं।।१८४१।।",
+    "translation": "Kabir, I am a dog of Ram, and my name is Mutia. I move wherever Ram's leash pulls me.",
+    "meaning": "कबीर, मैं राम का कुत्ता हूँ, और मेरा नाम मुतिया है। मैं उसी जगह चलता हूँ जहाँ राम की लगाम मुझे खींचती है।",
+    "explanation": "इस दोहे में कबीर ने स्वयं को राम का कुत्ता बताया है, जो पूर्ण समर्पण और भक्ति का प्रतीक है। यह दोहा यह दर्शाता है कि एक भक्त को भगवान के प्रति पूरी तरह से समर्पित रहना चाहिए और जहां भी भगवान उसे ले जाएं, वहां जाने के लिए तैयार रहना चाहिए। यह समर्पण और भक्ति की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.632Z"
+  }
+}

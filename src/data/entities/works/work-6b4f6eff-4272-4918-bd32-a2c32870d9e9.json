@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6b4f6eff-4272-4918-bd32-a2c32870d9e9",
+  "name": "{{Hlist",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mahadevi-varma"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/{{Hlist",
+    "retrievedAt": "2026-01-04T18:39:27.641Z"
+  }
+}

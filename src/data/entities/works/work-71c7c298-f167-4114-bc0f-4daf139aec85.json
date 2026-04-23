@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-71c7c298-f167-4114-bc0f-4daf139aec85",
+  "name": "कबीर करनी आपनी, कबहुं न निष्‍फल जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, one's own actions never go in vain. Even if seven oceans come in the way, the reward will come eventually.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर करनी आपनी, कबहुं न निष्‍फल जाय।\nसात समुद्र आड़ा पड़े, मिलै अगाऊ आय।।१३१७।।",
+    "translation": "Kabir says, one's own actions never go in vain. Even if seven oceans come in the way, the reward will come eventually.",
+    "meaning": "कबीर कहते हैं, किसी के अपने कर्म कभी बेकार नहीं जाते। यदि सात समुद्र भी बीच में आ जाएं, तो भी फल अंततः प्राप्त होता है।",
+    "explanation": "कबीर जी के अनुसार, अपने कर्म कभी व्यर्थ नहीं जाते। कठिनाइयों और बाधाओं के बावजूद, सच्चे कर्म का फल अंततः प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.811Z"
+  }
+}

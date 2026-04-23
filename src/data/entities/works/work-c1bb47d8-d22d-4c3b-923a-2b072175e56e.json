@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c1bb47d8-d22d-4c3b-923a-2b072175e56e",
+  "name": "लेने को गुरु नाम है, देने को अन्‍न दान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To receive, there is the name of the Guru; to give, there is the offering of food. For crossing over, there is humility; for sinking, there is pride.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लेने को गुरु नाम है, देने को अन्‍न दान।।\nतरने को आधीनता, बूड़न को अभिमान।।७३८।।",
+    "translation": "To receive, there is the name of the Guru; to give, there is the offering of food. For crossing over, there is humility; for sinking, there is pride.",
+    "meaning": "प्राप्त करने के लिए गुरु का नाम है; देने के लिए भोजन का दान है। पार करने के लिए विनम्रता है; और डूबने के लिए अभिमान है।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि गुरु का नाम लेने और भोजन का दान देने से जुड़ा है। किसी भी परिस्थिति में पार होने के लिए विनम्रता आवश्यक है, जबकि अभिमान हमें गिरा देता है और डुबो देता है। इसलिए, विनम्रता का महत्व और अभिमान के खतरों को समझना जरूरी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.544Z"
+  }
+}

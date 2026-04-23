@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4e72d4a7-cc8c-44a1-8690-c52609a56350",
+  "name": "nahin nigah mein manzil to justuju hi sahi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/nahiin-nigaah-men-manzil-to-justujuu-hii-sahii-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.204Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/nahiin-nigaah-men-manzil-to-justujuu-hii-sahii-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nnahīñ nigāh meñ manzil to justujū hī sahī\nnahīñ visāl mayassar to aarzū hī sahī\nna tan meñ ḳhuun farāham na ashk āñkhoñ meñ\nnamāz-e-shauq to vājib hai be-vuzū hī sahī\nkisī tarah to jame bazm mai-kade vaalo\nnahīñ jo bāda-o-sāġhar to hāv-hū hī sahī\ngar intizār kaThin hai to jab talak ai dil\nkisī ke vāda-e-fardā kī guftugū hī sahī\ndayār-e-ġhair meñ mahram agar nahīñ koī\nto 'faiz' zikr-e-vatan apne rū-ba-rū hī sahī\nnahin nigah mein manzil to justuju hi sahi\nnahin visal mayassar to aarzu hi sahi\nna tan mein KHun faraham na ashk aankhon mein\nnamaz-e-shauq to wajib hai be-wuzu hi sahi\nkisi tarah to jame bazm mai-kade walo\nnahin jo baada-o-saghar to haw-hu hi sahi\ngar intizar kaThin hai to jab talak ai dil\nkisi ke wada-e-farda ki guftugu hi sahi\ndayar-e-ghair mein mahram agar nahin koi\nto 'faiz' zikr-e-watan apne ru-ba-ru hi sahi",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nنہیں نگاہ میں منزل تو جستجو ہی سہی\nنہیں وصال میسر تو آرزو ہی سہی\nنہ تن میں خون فراہم نہ اشک آنکھوں میں\nنماز شوق تو واجب ہے بے وضو ہی سہی\nکسی طرح تو جمے بزم مے کدے والو\nنہیں جو بادہ و ساغر تو ہاؤ ہو ہی سہی\nگر انتظار کٹھن ہے تو جب تلک اے دل\nکسی کے وعدۂ فردا کی گفتگو ہی سہی\nدیار غیر میں محرم اگر نہیں کوئی\nتو فیضؔ ذکر وطن اپنے روبرو ہی سہی",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nनहीं निगाह में मंज़िल तो जुस्तुजू ही सही\nनहीं विसाल मयस्सर तो आरज़ू ही सही\nन तन में ख़ून फ़राहम न अश्क आँखों में\nनमाज़-ए-शौक़ तो वाजिब है बे-वुज़ू ही सही\nकिसी तरह तो जमे बज़्म मय-कदे वालो\nनहीं जो बादा-ओ-साग़र तो हाव-हू ही सही\nगर इंतिज़ार कठिन है तो जब तलक ऐ दिल\nकिसी के वादा-ए-फ़र्दा की गुफ़्तुगू ही सही\nदयार-ए-ग़ैर में महरम अगर नहीं कोई\nतो 'फ़ैज़' ज़िक्र-ए-वतन अपने रू-ब-रू ही सही",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:46.447Z"
+  }
+}

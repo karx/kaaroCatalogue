@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0022b243-83ab-4ce0-a779-99a974e95d70",
+  "name": "काजर की ही कोठरी, काजर ही का कोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In a room full of soot, wearing a coat of soot, the heart remains unaffected, hidden beneath layers of pretense.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजर की ही कोठरी, काजर ही का कोट।\nतोंदी कारी ना भई, रही सो ओट हि ओट।।१४७८।।",
+    "translation": "In a room full of soot, wearing a coat of soot, the heart remains unaffected, hidden beneath layers of pretense.",
+    "meaning": "काजल की कोठरी में, काजल का ही कोट पहने हुए, मन काला नहीं होता, बल्कि वह ओट के पीछे छिपा रहता है।",
+    "explanation": "कबीर इस दोहे में आंतरिक और बाह्य जीवन के बीच के अंतर को समझाते हैं। वह कहते हैं कि भले ही हम बुराई और अज्ञानता से घिरे हों (काजल की कोठरी), लेकिन जब तक हमारा मन सच्चा और शुद्ध है, तब तक वह उन बुराइयों से प्रभावित नहीं होता। यहाँ पर 'ओट' प्रतीक है उस आंतरिक सत्य का, जो बाहरी आडंबरों से छिपा रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.658Z"
+  }
+}

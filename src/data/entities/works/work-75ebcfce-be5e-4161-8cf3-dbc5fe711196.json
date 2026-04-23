@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75ebcfce-be5e-4161-8cf3-dbc5fe711196",
+  "name": "एक दिन ऐसा होयगा, कोय काहु का नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One day such will come, when no one will be left. The wife of the house will say, the body will depart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक दिन ऐसा होयगा, कोय काहु का नाहिं।\nघर की नारी को कहै, तन की नारी जाहिं।।४३४।।",
+    "translation": "One day such will come, when no one will be left. The wife of the house will say, the body will depart.",
+    "meaning": "एक दिन ऐसा आएगा, जब कोई भी नहीं रहेगा। घर की स्त्री कहेगी, शरीर चला जाएगा।",
+    "explanation": "इस दोहे में कबीर जीवन की अस्थिरता और मृत्यु के अनिवार्य आने की बात करते हैं। वह बताते हैं कि एक दिन ऐसा आएगा जब सभी लोग चले जाएंगे और केवल शरीर ही बचा रहेगा। यह जीवन की क्षणभंगुरता और मृत्यु की निश्चितता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

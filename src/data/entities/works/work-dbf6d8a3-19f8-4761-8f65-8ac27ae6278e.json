@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dbf6d8a3-19f8-4761-8f65-8ac27ae6278e",
+  "name": "आस पराई राखता, खाया घर का खेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He who keeps others' hopes alive while eating the produce of his own field, shows others the way but hides sand in his mouth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आस पराई राखता, खाया घर का खेत।\nऔरन को पथ बोधता, मुख में डारे रेत।।९३।।",
+    "translation": "He who keeps others' hopes alive while eating the produce of his own field, shows others the way but hides sand in his mouth.",
+    "meaning": "जो अपने खेत की फसल खा कर दूसरों की आशाओं को बनाए रखता है, वह दूसरों को मार्ग दिखाता है लेकिन अपने मुँह में रेत छिपाता है।",
+    "explanation": "इस दोहे में कबीर उन लोगों की आलोचना करते हैं जो दूसरों की आशाओं और सपनों को बनाए रखते हैं, जबकि स्वयं अपने संसाधनों का लाभ उठाते हैं। वे दूसरों को मार्ग दिखाने का ढोंग करते हैं, लेकिन अपने शब्दों और कर्मों में सच्चाई का अभाव होता है। यह दिखाता है कि असली नैतिकता और ईमानदारी का अनुसरण करना महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.060Z"
+  }
+}

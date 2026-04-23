@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-77437a9d-4566-4af5-b799-b4328e31d936",
+  "name": "टेक न कीजै बावरे, टेक माहि है हानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not be stubborn, O fool, as stubbornness leads to loss. Abandon it, and you will find gems; this is the true Guru’s teaching.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "टेक न कीजै बावरे, टेक माहि है हानि।\nटेक छाड़ि मानिक मिलै, सत गुरु वचन प्रमानि।।३०७।।",
+    "translation": "Do not be stubborn, O fool, as stubbornness leads to loss. Abandon it, and you will find gems; this is the true Guru’s teaching.",
+    "meaning": "हठ मत करो, ओ मूर्ख, क्योंकि हठ में केवल नुकसान ही है। इसे छोड़ दो, और तुम्हें रत्न मिलेंगे; यही सच्चे गुरु का उपदेश है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि हठ और जिद्दीपन व्यक्ति के लिए नुकसानदायक हो सकते हैं। सच्चे गुरु का मार्गदर्शन इस हठ को छोड़ने और ज्ञान की प्राप्ति के लिए है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.390Z"
+  }
+}

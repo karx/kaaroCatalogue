@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2856114c-90c2-42a0-9a89-d8c6a311818e",
+  "name": "मांगन मरण समान है, तोहि दई मैं सीख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Begging is akin to death; this is what I teach you. Kabir says, those who ask for alms are like those who beg for their lives.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांगन मरण समान है, तोहि दई मैं सीख।\nकहैं कबीर समुझाय के, मति कोई मांगै भीख।।६४४।।",
+    "translation": "Begging is akin to death; this is what I teach you. Kabir says, those who ask for alms are like those who beg for their lives.",
+    "meaning": "मांगना मरण के समान है; यही मैं तुम्हें सिखाता हूँ। कबीर कहते हैं कि जो लोग भीख मांगते हैं, वे जीवन की भीख मांगने के समान हैं।",
+    "explanation": "संत कबीर का कहना है कि भीख मांगना जीवन का एक प्रकार का आत्म-संहार है। वास्तविक समृद्धि तब मिलती है जब व्यक्ति स्वावलंबी हो और दूसरों से कुछ न मांगे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.004Z"
+  }
+}

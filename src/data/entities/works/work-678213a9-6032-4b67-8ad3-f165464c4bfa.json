@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-678213a9-6032-4b67-8ad3-f165464c4bfa",
+  "name": "कबिरा साई पीर हैं, जो जानै पर पीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, 'A true saint is one who feels the pain of others. Those who don't feel the pain of others are infidels and without faith.'",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा साई पीर हैं, जो जानै पर पीर।\nजो पर पीर न जानि है, सो काफिर बपीर।।२२६५।।",
+    "translation": "Kabir says, 'A true saint is one who feels the pain of others. Those who don't feel the pain of others are infidels and without faith.'",
+    "meaning": "कबीर कहते हैं, 'सच्चा संत वही है जो दूसरों का दर्द समझता है। जो दूसरों का दर्द नहीं समझता, वह काफिर और बेमानुष है।'",
+    "explanation": "इस दोहे में कबीर जी सच्चे संत की पहचान बताते हैं। वे कहते हैं कि जो व्यक्ति दूसरों का दुख समझता है और उसकी सहायता करता है, वही सच्चा संत है। जो दूसरों की पीड़ा से अनजान है, वह काफिर (अविश्वासी) और बिना दया के है। कबीर जी इस दोहे में सहानुभूति और करुणा की महत्ता पर जोर देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.349Z"
+  }
+}

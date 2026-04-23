@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d3be890d-a908-4a23-8ddd-835bf6b0c1e3",
+  "name": "हम भी पाहन पूजते, होते रन के रोझ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "We also worship stones, but it is like facing the battlefield. By the grace of the True Guru, the burden on the head is removed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हम भी पाहन पूजते, होते रन के रोझ।\nसतगुर की कृपा भई, डारया सिर के बोझ।।२०२४।।",
+    "translation": "We also worship stones, but it is like facing the battlefield. By the grace of the True Guru, the burden on the head is removed.",
+    "meaning": "हम भी पत्थरों की पूजा करते हैं, लेकिन यह युद्ध के मैदान का सामना करने जैसा है। सतगुरु की कृपा से, सिर पर का बोझ हटा दिया जाता है।",
+    "explanation": "इस दोहे में कबीर ने पत्थरों की पूजा करने की तुलना युद्ध के मैदान से की है, जहाँ संघर्ष और कठिनाई होती है। सतगुरु की कृपा से इस बोझ को हटाया जाता है और सच्ची भक्ति की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.806Z"
+  }
+}

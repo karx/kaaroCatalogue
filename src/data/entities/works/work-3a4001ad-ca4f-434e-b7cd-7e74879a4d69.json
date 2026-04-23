@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a4001ad-ca4f-434e-b7cd-7e74879a4d69",
+  "name": "छठे मास नहिं करि सके, बरस दिना करि लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one cannot perform rituals for six months, they can do it for a year. Kabir says such devotees challenge even Yama (the god of death).",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "छठे मास नहिं करि सके, बरस दिना करि लेय।\nकहैं कबीर सो भक्तजन, जमहिं चुनौती देय।।३१५।।",
+    "translation": "If one cannot perform rituals for six months, they can do it for a year. Kabir says such devotees challenge even Yama (the god of death).",
+    "meaning": "यदि कोई छह महीने तक अनुष्ठान नहीं कर सकता, तो वे एक साल तक कर सकते हैं। कबीर कहते हैं कि ऐसे भक्त यमराज (मृत्यु के देवता) को चुनौती देते हैं।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि यदि कोई व्यक्ति नियमित पूजा नहीं कर सकता, तो वह इसे साल भर करके भी अपना धर्म निभा सकता है। ऐसे भक्त मृत्यु के देवता को भी चुनौती देने की शक्ति रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

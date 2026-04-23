@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ada6ec87-401f-4d07-a38e-5496eefbed64",
+  "name": "go sab ko baham saghar o baada to nahin tha",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/go-sab-ko-baham-saagar-o-baada-to-nahiin-thaa-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.215Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/go-sab-ko-baham-saagar-o-baada-to-nahiin-thaa-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ngo sab ko baham sāġhar o baada to nahīñ thā\nye shahr udaas itnā ziyāda to nahīñ thā\ngaliyoñ meñ phirā karte the do chaar divāne\nhar shaḳhs kā sad chaak labāda to nahīñ thā\nmanzil ko na pahchāne rah-e-ishq kā raahī\nnādāñ hī sahī aisā bhī saada to nahīñ thā\nthak kar yūñhī pal bhar ke liye aañkh lagī thī\nso kar hī na uTTheñ ye irāda to nahīñ thā\nvaa.iz se rah-o-rasm rahī rind se sohbat\nfarq in meñ koī itnā ziyāda to nahīñ thā\ngo sab ko baham saghar o baada to nahin tha\nye shahr udas itna ziyaada to nahin tha\ngaliyon mein phira karte the do chaar diwane\nhar shaKHs ka sad chaak labaada to nahin tha\nmanzil ko na pahchane rah-e-ishq ka rahi\nnadan hi sahi aisa bhi sada to nahin tha\nthak kar yunhi pal bhar ke liye aankh lagi thi\nso kar hi na uTThen ye irada to nahin tha\nwaiz se rah-o-rasm rahi rind se sohbat\nfarq in mein koi itna ziyaada to nahin tha",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nگو سب کو بہم ساغر و بادہ تو نہیں تھا\nیہ شہر اداس اتنا زیادہ تو نہیں تھا\nگلیوں میں پھرا کرتے تھے دو چار دوانے\nہر شخص کا صد چاک لبادہ تو نہیں تھا\nمنزل کو نہ پہچانے رہ عشق کا راہی\nناداں ہی سہی ایسا بھی سادہ تو نہیں تھا\nتھک کر یوں ہی پل بھر کے لیے آنکھ لگی تھی\nسو کر ہی نہ اٹھیں یہ ارادہ تو نہیں تھا\nواعظ سے رہ و رسم رہی رند سے صحبت\nفرق ان میں کوئی اتنا زیادہ تو نہیں تھا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nगो सब को बहम साग़र ओ बादा तो नहीं था\nये शहर उदास इतना ज़ियादा तो नहीं था\nगलियों में फिरा करते थे दो चार दिवाने\nहर शख़्स का सद चाक लबादा तो नहीं था\nमंज़िल को न पहचाने रह-ए-इश्क़ का राही\nनादाँ ही सही ऐसा भी सादा तो नहीं था\nथक कर यूँही पल भर के लिए आँख लगी थी\nसो कर ही न उट्ठें ये इरादा तो नहीं था\nवाइ'ज़ से रह-ओ-रस्म रही रिंद से सोहबत\nफ़र्क़ इन में कोई इतना ज़ियादा तो नहीं था",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:51:12.032Z"
+  }
+}

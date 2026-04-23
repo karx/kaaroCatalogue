@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4fa5af34-421c-4494-91b6-52c9b7b043bb",
+  "name": "qarz-e-nigah-e-yar ada kar chuke hain hum",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/qarz-e-nigaah-e-yaar-adaa-kar-chuke-hain-ham-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.212Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/qarz-e-nigaah-e-yaar-adaa-kar-chuke-hain-ham-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nqarz-e-nigāh-e-yār adā kar chuke haiñ ham\nsab kuchh nisār-e-rāh-e-vafā kar chuke haiñ ham\nkuchh imtihān-e-dast-e-jafā kar chuke haiñ ham\nkuchh un kī dastaras kā patā kar chuke haiñ ham\nab ehtiyāt kī koī sūrat nahīñ rahī\nqātil se rasm-o-rāh sivā kar chuke haiñ ham\ndekheñ hai kaun kaun zarūrat nahīñ rahī\nkū-e-sitam meñ sab ko ḳhafā kar chuke haiñ ham\nab apnā iḳhtiyār hai chāhe jahāñ chaleñ\nrahbar se apnī raah judā kar chuke haiñ ham\nun kī nazar meñ kyā kareñ phīkā hai ab bhī rañg\njitnā lahū thā sarf-e-qabā kar chuke haiñ ham\nkuchh apne dil kī ḳhū kā bhī shukrāna chāhiye\nsau baar un kī ḳhū kā gilā kar chuke haiñ ham\nqarz-e-nigah-e-yar ada kar chuke hain hum\nsab kuchh nisar-e-rah-e-wafa kar chuke hain hum\nkuchh imtihan-e-dast-e-jafa kar chuke hain hum\nkuchh un ki dastaras ka pata kar chuke hain hum\nab ehtiyat ki koi surat nahin rahi\nqatil se rasm-o-rah siwa kar chuke hain hum\ndekhen hai kaun kaun zarurat nahin rahi\nku-e-sitam mein sab ko KHafa kar chuke hain hum\nab apna iKHtiyar hai chahe jahan chalen\nrahbar se apni rah juda kar chuke hain hum\nun ki nazar mein kya karen phika hai ab bhi rang\njitna lahu tha sarf-e-qaba kar chuke hain hum\nkuchh apne dil ki KHu ka bhi shukrana chahiye\nsau bar un ki KHu ka gila kar chuke hain hum",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nقرض نگاہ یار ادا کر چکے ہیں ہم\nسب کچھ نثار راہ وفا کر چکے ہیں ہم\nکچھ امتحان دست جفا کر چکے ہیں ہم\nکچھ ان کی دسترس کا پتا کر چکے ہیں ہم\nاب احتیاط کی کوئی صورت نہیں رہی\nقاتل سے رسم و راہ سوا کر چکے ہیں ہم\nدیکھیں ہے کون کون ضرورت نہیں رہی\nکوئے ستم میں سب کو خفا کر چکے ہیں ہم\nاب اپنا اختیار ہے چاہے جہاں چلیں\nرہبر سے اپنی راہ جدا کر چکے ہیں ہم\nان کی نظر میں کیا کریں پھیکا ہے اب بھی رنگ\nجتنا لہو تھا صرف قبا کر چکے ہیں ہم\nکچھ اپنے دل کی خو کا بھی شکرانہ چاہیے\nسو بار ان کی خو کا گلا کر چکے ہیں ہم",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nक़र्ज़-ए-निगाह-ए-यार अदा कर चुके हैं हम\nसब कुछ निसार-ए-राह-ए-वफ़ा कर चुके हैं हम\nकुछ इम्तिहान-ए-दस्त-ए-जफ़ा कर चुके हैं हम\nकुछ उन की दस्तरस का पता कर चुके हैं हम\nअब एहतियात की कोई सूरत नहीं रही\nक़ातिल से रस्म-ओ-राह सिवा कर चुके हैं हम\nदेखें है कौन कौन ज़रूरत नहीं रही\nकू-ए-सितम में सब को ख़फ़ा कर चुके हैं हम\nअब अपना इख़्तियार है चाहे जहाँ चलें\nरहबर से अपनी राह जुदा कर चुके हैं हम\nउन की नज़र में क्या करें फीका है अब भी रंग\nजितना लहू था सर्फ़-ए-क़बा कर चुके हैं हम\nकुछ अपने दिल की ख़ू का भी शुक्राना चाहिए\nसौ बार उन की ख़ू का गिला कर चुके हैं हम",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:09.394Z"
+  }
+}

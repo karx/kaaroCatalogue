@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7cedf644-c74f-424a-b5ad-ed81f8a45f09",
+  "name": "मेरे मन में परि गई, ऐसी एक दरार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A crack has appeared in my mind, like a stone split. It cannot be found again once it has been broken.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मेरे मन में परि गई, ऐसी एक दरार।\nफाटाफटिक पषान ज्‍यूं, मिलै न दूजी बार।।११०६।।",
+    "translation": "A crack has appeared in my mind, like a stone split. It cannot be found again once it has been broken.",
+    "meaning": "मेरे मन में एक दरार आ गई है, जैसे एक पत्थर फट गया हो। एक बार यह दरार हो जाने के बाद, इसे फिर से नहीं पाया जा सकता।",
+    "explanation": "इस दोहे में कबीर ने मन में आई दरार की तुलना एक टूटे हुए पत्थर से की है। यह दरार, जो कि एक बार हो जाने पर कभी ठीक नहीं हो सकती, मानसिक स्थिति में स्थायी बदलाव का संकेत है। इसका मतलब है कि एक बार मन में जो भी गहरी छाप या समस्या आ जाती है, वह स्थायी रूप से रहती है और उसे पहले जैसा ठीक नहीं किया जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.700Z"
+  }
+}

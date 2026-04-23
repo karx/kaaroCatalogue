@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-42d4fcd2-20c2-4af0-9035-4ced878ef235",
+  "name": "आब गया आदर गया, नैनन गया सनेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When you say 'give me something,' respect, honor, and affection all go away. These three depart only when you ask for something.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आब गया आदर गया, नैनन गया सनेह।\nयह तीनों तब ही गये, जबहिं कहा कुछ देह।।३७५।।",
+    "translation": "When you say 'give me something,' respect, honor, and affection all go away. These three depart only when you ask for something.",
+    "meaning": "जब आप कुछ मांगते हैं, तो आदर, सम्मान और स्नेह सब चले जाते हैं। ये तीनों तभी जाते हैं जब आप कुछ माँगते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी यह बता रहे हैं कि जब कोई व्यक्ति कुछ माँगता है, तो उसके आदर, सम्मान और स्नेह में कमी आ जाती है। यानी, मांगने की आदत आपके आत्म-सम्मान और दूसरों के प्रति आपके संबंधों को प्रभावित करती है। आदर और स्नेह तभी टिके रहते हैं जब व्यक्ति स्वाभिमानी और स्वतंत्र रहता है, और किसी से कुछ नहीं माँगता। यह दोहा हमें आत्म-निर्भरता और स्वाभिमान की ओर प्रेरित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

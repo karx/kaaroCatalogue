@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7c1d78bc-867c-424a-b6e4-9c5b1255741b",
+  "name": "कामी लज्‍जा ना करै, मौहीं अहलाद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A desirous person has no sense of shame and no satisfaction. Sleep does not ask for a pillow, nor does hunger ask for flavor.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामी लज्‍जा ना करै, मौहीं अहलाद।\nनींद न मांगै साथरा, भूख न मांगे स्‍वाद।।१२२५।।",
+    "translation": "A desirous person has no sense of shame and no satisfaction. Sleep does not ask for a pillow, nor does hunger ask for flavor.",
+    "meaning": "कामी व्यक्ति को लज्जा नहीं होती और न ही वह संतोष पाता है। नींद तक तकिया नहीं मांगती और भूख स्वाद की अपेक्षा नहीं करती।",
+    "explanation": "इस दोहे में कबीर ने कामी व्यक्ति की इच्छाओं और संतोषहीनता को व्यक्त किया है। कामी व्यक्ति को न तो लज्जा होती है और न ही वह संतोष प्राप्त कर पाता है, जैसे नींद तकिया और भूख स्वाद की अपेक्षा नहीं करती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.271Z"
+  }
+}

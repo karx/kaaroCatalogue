@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5685360e-845f-4860-a9a2-694d6ce3e0d3",
+  "name": "सिंह अकेला बन रमे, पलक पलक करे ठौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The lion enjoys solitude, finding a place at every step. Just as the forest is yours, so is the forest of others.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सिंह अकेला बन रमे, पलक पलक करे ठौर।\nजैसे बन है आपना, तैसा बन है और।।१७०१।।",
+    "translation": "The lion enjoys solitude, finding a place at every step. Just as the forest is yours, so is the forest of others.",
+    "meaning": "सिंह अकेला बन में आनंदित होता है, हर कदम पर एक स्थान पाता है। जैसे जंगल आपका है, वैसे ही दूसरों का भी जंगल है।",
+    "explanation": "कबीर इस दोहे में एकांत और समानता की बात करते हैं। उन्होंने कहा कि अकेलापन भी सुखद हो सकता है और हर किसी की स्थिति समान हो सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.067Z"
+  }
+}

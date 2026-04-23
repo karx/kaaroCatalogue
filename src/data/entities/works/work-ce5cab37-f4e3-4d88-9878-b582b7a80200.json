@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ce5cab37-f4e3-4d88-9878-b582b7a80200",
+  "name": "Ajatashatru",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-jaishankar-prasad"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "Wikipedia Section",
+    "url": "https://en.wikipedia.org/wiki/Ajatashatru",
+    "retrievedAt": "2026-01-04T18:39:25.718Z"
+  }
+}

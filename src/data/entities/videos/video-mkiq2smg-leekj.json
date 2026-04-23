@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-leekj",
+  "name": "Papa ka Scooter| stand up comedy by Gaurav gupta",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT4M17S",
+  "embedUrl": "https://www.youtube.com/embed/D5DpNO0tdAQ",
+  "contentUrl": "https://www.youtube.com/watch?v=D5DpNO0tdAQ",
+  "uploadDate": "2021-05-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/D5DpNO0tdAQ/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Hello Doston, this is one of the clips from my stand up video \"MARKET DOWN HAI\" available on amazon prime video. Please do watch and share if you like.\nOnline live show details below:\n29th and 30th May \nhttps://in.bookmyshow.com/events/gaurav-gupta-live-online-sitdown-comedy/ET00311268\n5th and 6th J",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

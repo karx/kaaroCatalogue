@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0cf93e6a-e455-4a0a-b50c-a8e444ed15b0",
+  "name": "इन अटकाया न रुके, साधु दरश को जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Obstacles cannot stop the visit to a saint. Kabir says, those saints who overcome such hindrances attain liberation and spiritual rewards.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इन अटकाया न रुके, साधु दरश को जाय।\nकहै कबीर सोई संतजन, मोक्ष मुक्ति फल पाय।।३१७।।",
+    "translation": "Obstacles cannot stop the visit to a saint. Kabir says, those saints who overcome such hindrances attain liberation and spiritual rewards.",
+    "meaning": "रोकावटें साधु के दर्शन को नहीं रोक सकतीं। कबीर कहते हैं, जो संत इन बाधाओं को पार कर लेते हैं, उन्हें मोक्ष और आध्यात्मिक फल प्राप्त होता है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि साधु के दर्शन में किसी भी प्रकार की बाधा नहीं आनी चाहिए। जो साधु इन बाधाओं को पार करके दर्शन करने जाते हैं, उन्हें मोक्ष की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

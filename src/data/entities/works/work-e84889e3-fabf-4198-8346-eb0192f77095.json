@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e84889e3-fabf-4198-8346-eb0192f77095",
+  "name": "राजा की चोरी करे, रहै रंग की ओट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A king's theft is hidden behind the guise of color. Kabir asks, how can one escape the severe blows of time?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राजा की चोरी करे, रहै रंग की ओट।\nकहैं कबीर क्यों उबरै, काल कठिन की चोट।।२६५।।",
+    "translation": "A king's theft is hidden behind the guise of color. Kabir asks, how can one escape the severe blows of time?",
+    "meaning": "राजा की चोरी रंग के पर्दे के पीछे छिपी रहती है। कबीर पूछते हैं, समय की कठिन चोटों से कैसे बचा जा सकता है?",
+    "explanation": "कबीर इस दोहे में समय की कठिनाइयों और दोषपूर्ण छवियों के बारे में बात करते हैं। वे यह समझाते हैं कि जैसे राजा की चोरी रंग के पर्दे के पीछे छिपी रहती है, वैसे ही समय की कठिनाइयों से बचना मुश्किल है। यह दोहा समय के प्रभाव और इसकी चुनौती को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

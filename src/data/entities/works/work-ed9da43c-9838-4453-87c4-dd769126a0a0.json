@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ed9da43c-9838-4453-87c4-dd769126a0a0",
+  "name": "अब तो एसी ह्वै पड़ी, नां तू बड़ी न बेलि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Now it is like this, neither big nor much. The firewood is burning, but the sprouts are coming up.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अब तो एसी ह्वै पड़ी, नां तू बड़ी न बेलि।\nजालण आंणो लाकड़ी, ऊठी कूंपल मेल्हि।।२०३१।।",
+    "translation": "Now it is like this, neither big nor much. The firewood is burning, but the sprouts are coming up.",
+    "meaning": "अब यह ऐसा हो गया है, न तो बड़ा है और न ही बहुत। लकड़ी जल रही है, लेकिन अंकुर उग रहे हैं।",
+    "explanation": "इस दोहे में कबीर ने एक ऐसी स्थिति का वर्णन किया है जहां चीजें अपेक्षित नहीं हैं। लकड़ी जल रही है, लेकिन उसके बावजूद अंकुर उग रहे हैं। यह जीवन के परिप्रेक्ष्य में अपेक्षाओं और वास्तविकताओं के बीच अंतर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.808Z"
+  }
+}

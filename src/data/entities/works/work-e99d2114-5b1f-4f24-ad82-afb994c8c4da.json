@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e99d2114-5b1f-4f24-ad82-afb994c8c4da",
+  "name": "सुमिरन में मन लाइए, जैसे नाद कुरंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Focus your mind on remembrance, like a deer chasing the sound. Kabir says one who does not forget it, even when giving up life, is the true devotee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन में मन लाइए, जैसे नाद कुरंग।\nकहैं कबीर, बिसरे नहीं, प्राण तजै तहि संग।।४२।।",
+    "translation": "Focus your mind on remembrance, like a deer chasing the sound. Kabir says one who does not forget it, even when giving up life, is the true devotee.",
+    "meaning": "सुमिरन में मन को ऐसे लगाओ जैसे नाद (ध्वनि) के पीछे हिरण दौड़ता है। कबीर कहते हैं, जो जीवन को भी छोड़कर इसे नहीं भूलता, वही सच्चा भक्त है।",
+    "explanation": "इस दोहे में संत कबीर ने ध्यान और स्मरण की गहराई को स्पष्ट किया है। जैसे हिरण नाद के पीछे दौड़ता है, वैसे ही भक्त को भगवान की याद में पूरी तरह समर्पित होना चाहिए। जब कोई व्यक्ति अपने जीवन को भी भगवान की याद में छोड़ देता है, तो वह सच्चा भक्त कहलाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

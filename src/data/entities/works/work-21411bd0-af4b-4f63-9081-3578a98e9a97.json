@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-21411bd0-af4b-4f63-9081-3578a98e9a97",
+  "name": "राम बुलावा भेजिया, दिया कबीरा रोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ram sent a summons, and Kabir wept. The joy found in the company of saints cannot even be found in paradise.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम बुलावा भेजिया, दिया कबीरा रोय।\nजो सुख साधु संग में, सो बैकुंठ न होय।।१४०।।",
+    "translation": "Ram sent a summons, and Kabir wept. The joy found in the company of saints cannot even be found in paradise.",
+    "meaning": "राम ने बुलावा भेजा, और कबीर रो पड़े। जो आनंद साधु संग में मिलता है, वह बैकुंठ में भी नहीं मिलता।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि साधु-संतों की संगति में जो सुख मिलता है, वह स्वर्ग में भी नहीं मिलता। जब राम का बुलावा आया, तो कबीर रो पड़े, क्योंकि वे साधु-संगति को छोड़ना नहीं चाहते थे। साधु-संगति को स्वर्ग से भी अधिक महत्वपूर्ण बताया गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

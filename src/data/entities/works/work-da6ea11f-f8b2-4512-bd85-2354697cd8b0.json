@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-da6ea11f-f8b2-4512-bd85-2354697cd8b0",
+  "name": "raaz-e-ulfat chhupa ke dekh liya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/raaz-e-ulfat-chhupaa-ke-dekh-liyaa-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.206Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/raaz-e-ulfat-chhupaa-ke-dekh-liyaa-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nrāz-e-ulfat chhupā ke dekh liyā\ndil bahut kuchh jalā ke dekh liyā\naur kyā dekhne ko baaqī hai\naap se dil lagā ke dekh liyā\nvo mire ho ke bhī mire na hue\nun ko apnā banā ke dekh liyā\naaj un kī nazar meñ kuchh ham ne\nsab kī nazreñ bachā ke dekh liyā\n'faiz' takmīl-e-ġham bhī ho na sakī\nishq ko aazmā ke dekh liyā\nraaz-e-ulfat chhupa ke dekh liya\ndil bahut kuchh jala ke dekh liya\naur kya dekhne ko baqi hai\naap se dil laga ke dekh liya\nwo mere ho ke bhi mere na hue\nun ko apna bana ke dekh liya\naaj un ki nazar mein kuchh hum ne\nsab ki nazren bacha ke dekh liya\n'faiz' takmil-e-gham bhi ho na saki\nishq ko aazma ke dekh liya",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nراز الفت چھپا کے دیکھ لیا\nدل بہت کچھ جلا کے دیکھ لیا\nاور کیا دیکھنے کو باقی ہے\nآپ سے دل لگا کے دیکھ لیا\nوہ مرے ہو کے بھی مرے نہ ہوئے\nان کو اپنا بنا کے دیکھ لیا\nآج ان کی نظر میں کچھ ہم نے\nسب کی نظریں بچا کے دیکھ لیا\nفیضؔ تکمیل غم بھی ہو نہ سکی\nعشق کو آزما کے دیکھ لیا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nराज़-ए-उल्फ़त छुपा के देख लिया\nदिल बहुत कुछ जला के देख लिया\nऔर क्या देखने को बाक़ी है\nआप से दिल लगा के देख लिया\nवो मिरे हो के भी मिरे न हुए\nउन को अपना बना के देख लिया\nआज उन की नज़र में कुछ हम ने\nसब की नज़रें बचा के देख लिया\n'फ़ैज़' तकमील-ए-ग़म भी हो न सकी\nइश्क़ को आज़मा के देख लिया",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:11.817Z"
+  }
+}

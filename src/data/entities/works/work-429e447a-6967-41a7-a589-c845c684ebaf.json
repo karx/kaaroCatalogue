@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-429e447a-6967-41a7-a589-c845c684ebaf",
+  "name": "सब धरती कागद करुं, लेखनी सब बनराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If the entire earth were paper, and all the trees were pens, and if the seven seas were ink, still the virtues of the Guru could not be written.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब धरती कागद करुं, लेखनी सब बनराय।\nसात समुद्र की मसि करुं, गुरु गुण लिखा न जाय।।४९१।।",
+    "translation": "If the entire earth were paper, and all the trees were pens, and if the seven seas were ink, still the virtues of the Guru could not be written.",
+    "meaning": "यदि पूरी धरती कागज हो और सभी पेड़ कलम हो, और सात समुद्र स्याही हो, फिर भी गुरु के गुणों को नहीं लिखा जा सकता।",
+    "explanation": "इस दोहे में कबीर ने गुरु की महिमा और गुणों के अनंतता को व्यक्त किया है। उन्होंने कहा है कि यदि सभी धरती को कागज, पेड़ों को कलम, और समुद्र को स्याही मान लिया जाए, तब भी गुरु के गुणों को पूरी तरह से लिखा नहीं जा सकता। यह गुरु की महानता और अद्वितीयता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

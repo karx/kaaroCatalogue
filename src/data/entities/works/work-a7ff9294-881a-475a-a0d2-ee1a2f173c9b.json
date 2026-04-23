@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a7ff9294-881a-475a-a0d2-ee1a2f173c9b",
+  "name": "dil soz se Khaali hai nigah pak nahin hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-allama-iqbal"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/dil-soz-se-khaalii-hai-nigah-paak-nahiin-hai-allama-iqbal-ghazals",
+    "retrievedAt": "2026-01-04T20:26:07.746Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/dil-soz-se-khaalii-hai-nigah-paak-nahiin-hai-allama-iqbal-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ndil soz se ḳhālī hai nigah paak nahīñ hai\nphir is meñ ajab kyā ki tū bebāk nahīñ hai\nhai zauq-e-tajallī bhī isī ḳhaak meñ pinhāñ\nġhāfil tū nirā sāhib-e-idrāk nahīñ hai\nvo aañkh ki hai surma-e-afrañg se raushan\npurkār o suḳhan-sāz hai namnāk nahīñ hai\nkyā suufī o mullā ko ḳhabar mere junūñ kī\nun kā sar-e-dāman bhī abhī chaak nahīñ hai\nkab tak rahe mahkūmi-e-anjum meñ mirī ḳhaak\nyā maiñ nahīñ yā gardish-e-aflāk nahīñ hai\nbijlī huuñ nazar koh o bayābāñ pe hai merī\nmere liye shāyāñ ḳhas-o-ḳhāshāk nahīñ hai\naalam hai faqat momin-e-jāñ-bāz kī mīrās\nmomin nahīñ jo sāhib-e-laulāk nahīñ hai\ndil soz se KHali hai nigah pak nahin hai\nphir is mein ajab kya ki tu bebak nahin hai\nhai zauq-e-tajalli bhi isi KHak mein pinhan\nghafil tu nira sahib-e-idrak nahin hai\nwo aankh ki hai surma-e-afrang se raushan\npurkar o suKHan-saz hai namnak nahin hai\nkya sufi o mulla ko KHabar mere junun ki\nun ka sar-e-daman bhi abhi chaak nahin hai\nkab tak rahe mahkumi-e-anjum mein meri KHak\nya main nahin ya gardish-e-aflak nahin hai\nbijli hun nazar koh o bayaban pe hai meri\nmere liye shayan KHas-o-KHashak nahin hai\naalam hai faqat momin-e-jaan-baz ki miras\nmomin nahin jo sahib-e-laulak nahin hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nدل سوز سے خالی ہے نگہ پاک نہیں ہے\nپھر اس میں عجب کیا کہ تو بے باک نہیں ہے\nہے ذوق تجلی بھی اسی خاک میں پنہاں\nغافل تو نرا صاحب ادراک نہیں ہے\nوہ آنکھ کہ ہے سرمۂ افرنگ سے روشن\nپرکار و سخن ساز ہے نمناک نہیں ہے\nکیا صوفی و ملا کو خبر میرے جنوں کی\nان کا سر دامن بھی ابھی چاک نہیں ہے\nکب تک رہے محکومئ انجم میں مری خاک\nیا میں نہیں یا گردش افلاک نہیں ہے\nبجلی ہوں نظر کوہ و بیاباں پہ ہے میری\nمیرے لیے شایاں خس و خاشاک نہیں ہے\nعالم ہے فقط مومن جانباز کی میراث\nمومن نہیں جو صاحب لولاک نہیں ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nदिल सोज़ से ख़ाली है निगह पाक नहीं है\nफिर इस में अजब क्या कि तू बेबाक नहीं है\nहै ज़ौक़-ए-तजल्ली भी इसी ख़ाक में पिन्हाँ\nग़ाफ़िल तू निरा साहिब-ए-इदराक नहीं है\nवो आँख कि है सुर्मा-ए-अफ़रंग से रौशन\nपुरकार ओ सुख़न-साज़ है नमनाक नहीं है\nक्या सूफ़ी ओ मुल्ला को ख़बर मेरे जुनूँ की\nउन का सर-ए-दामन भी अभी चाक नहीं है\nकब तक रहे महकूमी-ए-अंजुम में मिरी ख़ाक\nया मैं नहीं या गर्दिश-ए-अफ़्लाक नहीं है\nबिजली हूँ नज़र कोह ओ बयाबाँ पे है मेरी\nमेरे लिए शायाँ ख़स-ओ-ख़ाशाक नहीं है\nआलम है फ़क़त मोमिन-ए-जाँबाज़ की मीरास\nमोमिन नहीं जो साहिब-ए-लौलाक नहीं है",
+    "lastUpdated": "2026-01-04T20:26:44.361Z"
+  }
+}

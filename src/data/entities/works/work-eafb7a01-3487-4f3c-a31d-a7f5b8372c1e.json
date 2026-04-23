@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eafb7a01-3487-4f3c-a31d-a7f5b8372c1e",
+  "name": "Summer in Calcutta",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kamala-das"
+  },
+  "inLanguage": "English",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Summer_in_Calcutta",
+    "retrievedAt": "2026-01-04T18:39:37.927Z"
+  }
+}

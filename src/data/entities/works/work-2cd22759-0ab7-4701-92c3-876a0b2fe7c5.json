@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2cd22759-0ab7-4701-92c3-876a0b2fe7c5",
+  "name": "प्रेम-प्रिति का चालना, पहिरि कबीरा नाच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The dance of love and affection, Kabir performs with delight. The true self is beyond body and mind, it is the essence of truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम-प्रिति का चालना, पहिरि कबीरा नाच।\nतन-मन तापर वारहुँ, जो कोइ बौलौ सांच।।१८५।।",
+    "translation": "The dance of love and affection, Kabir performs with delight. The true self is beyond body and mind, it is the essence of truth.",
+    "meaning": "प्रेम और स्नेह की नृत्य, कबीर खुशी से करता है। सच्चा आत्मा शरीर और मन से परे है, यह सच्चाई का सार है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम और भक्ति की गहराई को व्यक्त किया है। उन्होंने बताया है कि प्रेम और स्नेह की वास्तविक अभिव्यक्ति केवल आत्मा के स्तर पर होती है, न कि शरीर और मन के स्तर पर। सच्ची भक्ति और प्रेम वही हैं जो शरीर और मन से परे जाकर आत्मा की सच्चाई को महसूस करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

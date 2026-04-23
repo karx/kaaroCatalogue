@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4c6e95f7-8fcf-45cb-b223-52fa96165524",
+  "name": "भक्ति निसैनी मुक्ति की, संत चढ़े सब धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion is the key to liberation; saints all follow this path. Those who remain lazy in their minds will regret for lifetimes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति निसैनी मुक्ति की, संत चढ़े सब धाय।\nजिन जिन मन आलस दिया, जनम जनम पछिताय।।७१९।।",
+    "translation": "Devotion is the key to liberation; saints all follow this path. Those who remain lazy in their minds will regret for lifetimes.",
+    "meaning": "भक्ति ही मुक्ति की कुंजी है; सभी संत इसी मार्ग पर चलते हैं। जो लोग मन में आलस्य रखते हैं, वे जन्म-जन्म भर पछताएंगे।",
+    "explanation": "इस दोहे में कबीर ने भक्ति की महत्वता को बताया है और यह भी स्पष्ट किया है कि भक्ति ही मुक्ति का रास्ता है। जो लोग मन में आलस्य या सुस्ती रखते हैं, वे जीवनभर पछताते रहेंगे। संतों का मार्ग भक्ति के माध्यम से ही मुक्ति की ओर ले जाता है, और आलसी लोग इस मार्ग को अपनाने में असफल रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.543Z"
+  }
+}

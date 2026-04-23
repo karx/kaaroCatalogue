@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3af0fa53-b02e-4b78-b984-83f6006d1465",
+  "name": "जागन में सोवन करे, साधन में लौ लाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who sleep during awakening and bring light in practices will have their sight remain steady, like a thread that doesn’t break.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जागन में सोवन करे, साधन में लौ लाय।\nसूरत-डोर लागी रहे, तार टूट नाहिं जाय।।३८।।",
+    "translation": "Those who sleep during awakening and bring light in practices will have their sight remain steady, like a thread that doesn’t break.",
+    "meaning": "जागने के समय सोना और साधना में प्रकाश लाना, ऐसे व्यक्ति की दृष्टि स्थिर रहती है, जैसे कि एक धागा जो टूटता नहीं है।",
+    "explanation": "यह दोहा साधना और जागरूकता की महत्वता को दर्शाता है। संत कबीर कहते हैं कि जो व्यक्ति जागरूकता के समय सोता है और साधना के दौरान प्रकाश लाता है, उसकी दृष्टि स्थिर रहती है, जैसे एक धागा जो कभी नहीं टूटता। यह निरंतरता और दृढ़ता का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

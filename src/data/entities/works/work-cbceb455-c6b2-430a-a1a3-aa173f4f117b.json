@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cbceb455-c6b2-430a-a1a3-aa173f4f117b",
+  "name": "प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिकाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Love does not grow in a garden or get sold in the market. The king and the subjects will willingly give their heads for love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम न बाड़ी ऊपजै, प्रेम न हाट बिकाय।\nराजा परजा जो रुचै, शीश देय ले जाय।।८२२।।",
+    "translation": "Love does not grow in a garden or get sold in the market. The king and the subjects will willingly give their heads for love.",
+    "meaning": "प्रेम बाड़ी में नहीं उगता, न ही हाट में बिकता है। राजा और प्रजा प्रेम के लिए अपने सिर तक देने को तैयार हो जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की असामान्य प्रकृति को बताया है। प्रेम न तो बगीचे में उगता है और न ही बाज़ार में बिकता है। प्रेम इतना मूल्यवान और अनमोल है कि राजा और प्रजा भी इसे प्राप्त करने के लिए अपने सिर तक देने को तैयार हो जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

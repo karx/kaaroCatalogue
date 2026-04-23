@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-34f778d9-b5bb-4dc3-98c0-7c004ffdf65e",
+  "name": "साखी लाय बनाय के, इत उत अच्‍छर काटि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Bringing together scraps from here and there, Kabir says, when will you stop eating the false leaves?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साखी लाय बनाय के, इत उत अच्‍छर काटि।\nकहैं कबीर कब लगि जिये, जूठी पत्तर चाटि।।१३११।।",
+    "translation": "Bringing together scraps from here and there, Kabir says, when will you stop eating the false leaves?",
+    "meaning": "यहाँ-वहाँ से काटकर जोड़कर साखी बनाई जाती है। कबीर कहते हैं, जब तक तुम झूठे पत्ते चाटते रहोगे, तब तक कैसे जीवन सही होगा?",
+    "explanation": "कबीर जी इस दोहे में उन लोगों की आलोचना कर रहे हैं जो केवल टुकड़ों-टुकड़ों में जानकारी को इकट्ठा करके उसे सच्चा मानते हैं। वे उन लोगों की स्थिति का वर्णन कर रहे हैं जो झूठे और गलत ज्ञान को स्वीकार करते हैं और जीवन में सच्चे मार्ग को नहीं अपनाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.810Z"
+  }
+}

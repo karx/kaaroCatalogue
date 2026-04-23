@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8b79f8c2-3d59-4dd5-9d7d-f8ec84783997",
+  "name": "मन के मते न चालिये, छांडि जीव की बानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not follow the whims of the mind; leave behind the sayings of the living. Like a twisted thread, it is all meaningless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन के मते न चालिये, छांडि जीव की बानि।\nकतवारी के सूत ज्‍यौं, उलटि अपूठा आनि।।११३३।।",
+    "translation": "Do not follow the whims of the mind; leave behind the sayings of the living. Like a twisted thread, it is all meaningless.",
+    "meaning": "मन की इच्छाओं का पालन न करें; जीव के वाक्यों को छोड़ दें। जैसे उलटे हुए धागे की तरह, यह सब बेकार है।",
+    "explanation": "कबीर ने इस दोहे में मन की इच्छाओं और उन पर ध्यान न देने की बात की है। उन्होंने कहा है कि जीव के वाक्यों को छोड़कर, जो मन की इच्छाओं की बात करते हैं, वे बेकार हैं। यह संदेश आत्म-नियंत्रण और सच्ची समझदारी की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.705Z"
+  }
+}

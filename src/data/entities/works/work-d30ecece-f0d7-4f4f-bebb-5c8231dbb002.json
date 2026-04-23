@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d30ecece-f0d7-4f4f-bebb-5c8231dbb002",
+  "name": "Balaka",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Balaka",
+    "retrievedAt": "2026-01-04T18:38:55.927Z"
+  }
+}

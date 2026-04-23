@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a9e3afc3-1b0b-487b-8a7f-cfcb904e7088",
+  "name": "राम झरोखै बठिके, सबका मुजरा लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Sitting at the window of Ram, receiving all greetings. Each is given according to their service to him.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम झरोखै बठिके, सबका मुजरा लेय।\nजैसी जाको चाकरी, तैसी सबको देय।।२१४२।।",
+    "translation": "Sitting at the window of Ram, receiving all greetings. Each is given according to their service to him.",
+    "meaning": "राम के झरोखे पर बैठकर, सबके नमन स्वीकार करता है। हर किसी को उसकी सेवा के अनुसार दिया जाता है।",
+    "explanation": "इस दोहे में कबीर ने राम के झरोखे पर बैठकर सभी की प्रणाम स्वीकार करने की बात की है। वे बताते हैं कि जैसे किसी की सेवा का फल उसी के अनुसार होता है, वैसे ही सबको उनके कर्मों के अनुसार ही प्राप्त होता है। यह दोहा कर्म और फल की अवधारणा को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.371Z"
+  }
+}

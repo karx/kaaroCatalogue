@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f1fe5ca2-c669-486c-b3db-b583dd922b40",
+  "name": "कहता हूँ कहि जात हूँ, देता हूँ हेला",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I speak and go on speaking, without any hesitation. The Guru's deeds are known to him, and the disciple's to the disciple.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहता हूँ कहि जात हूँ, देता हूँ हेला।\nगुरु की करनी गुरु जाने, चेला की चेला।।२९१।।",
+    "translation": "I speak and go on speaking, without any hesitation. The Guru's deeds are known to him, and the disciple's to the disciple.",
+    "meaning": "मैं कहता हूँ और कहता जाता हूँ, बिना किसी संकोच के। गुरु का कर्म गुरु जानता है और शिष्य का कर्म शिष्य जानता है।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि गुरु और शिष्य के कर्म अलग-अलग होते हैं। गुरु का कर्म गुरु के लिए और शिष्य का कर्म शिष्य के लिए होता है। कबीर इस बात पर जोर देते हैं कि दोनों को अपने-अपने कर्तव्यों और जिम्मेदारियों को समझना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

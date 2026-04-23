@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8fb4e011-38cb-4ac0-9528-0da72b6d2829",
+  "name": "हदमें पीव न पाइये, बेहद में भरपूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One cannot find the nectar within limits; it is abundant in the infinite. Understanding the essence of limits and the infinite reveals this nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हदमें पीव न पाइये, बेहद में भरपूर।\nहद बेहद की गम लखै, तासौं पीव हजूर।।२२२२।।",
+    "translation": "One cannot find the nectar within limits; it is abundant in the infinite. Understanding the essence of limits and the infinite reveals this nectar.",
+    "meaning": "सीमाओं के भीतर अमृत नहीं पाया जा सकता; यह अनंत में प्रचुर मात्रा में है। सीमाओं और अनंत के सार को समझने से यह अमृत प्रकट होता है।",
+    "explanation": "इस दोहे में कबीर जी यह सिखाते हैं कि अमृत या दिव्यता सीमाओं के भीतर नहीं मिलती, बल्कि अनंत में प्रचुर मात्रा में होती है। सीमाओं और अनंत के सार को समझकर ही इस अमृत की प्राप्ति होती है। कबीर जी का यह संदेश है कि आध्यात्मिक आनंद और सच्चा ज्ञान सीमाओं को पार करने और अनंत को समझने में ही है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.083Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a82a40dc-b231-497c-8f86-a077d97e78ce",
+  "name": "आप सवारथ मेदनीं, भगत सवारथ दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who is self-serving is the master of the world; the devotee is the servant of the Lord. Kabir says, the one who has abandoned all desires for the body is the true servant of Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आप सवारथ मेदनीं, भगत सवारथ दास।\nकबीर राम सवारथी, जिनि छाड़ी तन की आस।।१९३२।।",
+    "translation": "One who is self-serving is the master of the world; the devotee is the servant of the Lord. Kabir says, the one who has abandoned all desires for the body is the true servant of Ram.",
+    "meaning": "जो स्वयं के लाभ के लिए कार्य करता है, वही संसार का स्वामी है; भक्त भगवान का दास है। कबीर कहते हैं, जो व्यक्ति शरीर की सभी इच्छाओं को त्याग देता है, वही सच्चा राम का दास है।",
+    "explanation": "इस दोहे में कबीरदास जी ने सच्ची भक्ति और समर्पण के महत्व को स्पष्ट किया है। उन्होंने बताया है कि केवल आत्म-लाभ की सोच रखने वाले लोग संसार के स्वामी बन सकते हैं, लेकिन जो अपने शरीर की इच्छाओं को छोड़कर पूरी तरह से भगवान के प्रति समर्पित हो जाते हैं, वे सच्चे भक्त और दास होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.253Z"
+  }
+}

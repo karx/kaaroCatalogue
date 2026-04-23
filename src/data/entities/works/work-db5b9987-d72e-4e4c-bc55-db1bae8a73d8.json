@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db5b9987-d72e-4e4c-bc55-db1bae8a73d8",
+  "name": "Nakutanti",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dr-bendre"
+  },
+  "inLanguage": "Kannada",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Nakutanti",
+    "retrievedAt": "2026-01-04T18:39:31.482Z"
+  }
+}

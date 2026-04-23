@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0ff0a9b-d65c-401a-b7b2-0fe712692423",
+  "name": "शब्‍द बराबर धन नहीं, जो कोय जानै बोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no wealth equal to the word, for those who know how to speak. Diamonds can be bought for a price, but words are priceless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द बराबर धन नहीं, जो कोय जानै बोल।\nहीरा तो दामों मिलैं, सब्‍दहि मोल न तोल।।१००९।।",
+    "translation": "There is no wealth equal to the word, for those who know how to speak. Diamonds can be bought for a price, but words are priceless.",
+    "meaning": "जो कोई सही बोलने की कला जानता है, उसके लिए शब्द से बड़ा कोई धन नहीं है। हीरे तो कीमत देकर खरीदे जा सकते हैं, लेकिन शब्दों की कोई कीमत नहीं होती।",
+    "explanation": "इस दोहे में कबीर यह समझा रहे हैं कि शब्दों की शक्ति अनमोल होती है। जो व्यक्ति बोलने की कला को जानता है, उसके लिए शब्द सबसे बड़ा धन होता है। हीरे-मोती की कीमत लग सकती है, लेकिन शब्दों की तुलना किसी भी धन से नहीं की जा सकती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

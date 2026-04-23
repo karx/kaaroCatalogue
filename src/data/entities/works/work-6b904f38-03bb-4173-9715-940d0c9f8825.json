@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6b904f38-03bb-4173-9715-940d0c9f8825",
+  "name": "कब‍िरा सोई शूरमां, जिन पांचों राखी चरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, true heroes are those who control their five senses. Those who fail are far from the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कब‍िरा सोई शूरमां, जिन पांचों राखी चरि।\nजिनके पांचूं मोकली, तिनसूं साहब दूर।।२०८०।।",
+    "translation": "Kabir says, true heroes are those who control their five senses. Those who fail are far from the Lord.",
+    "meaning": "कबीर कहते हैं, सच्चे वीर वही हैं, जिन्होंने अपने पांचों इंद्रियों को वश में रखा। जिन्होंने इन्हें वश में नहीं रखा, वे भगवान से बहुत दूर हैं।",
+    "explanation": "इस दोहे में कबीर सच्ची वीरता का मापदंड बताते हैं। वे कहते हैं कि सच्चे वीर वही हैं जो अपनी पांचों इंद्रियों को वश में रखते हैं। जो लोग इंद्रियों पर नियंत्रण नहीं रख पाते, वे ईश्वर से बहुत दूर हो जाते हैं। इस दोहे के माध्यम से कबीर आत्म-संयम और सच्ची आध्यात्मिकता पर जोर देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.095Z"
+  }
+}

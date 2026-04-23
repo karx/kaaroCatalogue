@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4cf35ea4-2f72-4d2c-84d1-2d15f55f1369",
+  "name": "शर सनाह न पहरई, जब रन बाजा तूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The brave do not wear armor; when the battle drums sound. He who fights with his head held high, only then is he truly brave.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शर सनाह न पहरई, जब रन बाजा तूर।\nमाथा काटै धर लडै, तब जानीजै शूर।।२१०८।।",
+    "translation": "The brave do not wear armor; when the battle drums sound. He who fights with his head held high, only then is he truly brave.",
+    "meaning": "वीर व्यक्ति कवच नहीं पहनता; जब युद्ध की डफली बजती है। जो व्यक्ति सिर ऊंचा रखकर लड़ा, तभी वह सच्चा वीर होता है।",
+    "explanation": "इस दोहे में कबीर ने वीरता के एक पहलू को उजागर किया है। जब युद्ध की स्थिति होती है, तो सच्चा वीर व्यक्ति अपनी आत्मा और आत्मविश्वास के साथ लड़ता है और कवच की आवश्यकता नहीं होती। सिर ऊंचा रखकर लड़ाई में शामिल होना सच्ची वीरता को दर्शाता है। यह दोहा वीरता के अंतर्निहित गुणों को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.361Z"
+  }
+}

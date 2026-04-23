@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a6325c04-8554-42cf-b3c4-a702284e9ce8",
+  "name": "सुमिरन सुरति लगाय के, मुख ते कछू न बोल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "While engaging in remembrance, speak nothing from the mouth. Close the external doors and open the internal ones.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुमिरन सुरति लगाय के, मुख ते कछू न बोल।\nबाहर के पट देय के, अन्‍तर के पट खोल।।७७१।।",
+    "translation": "While engaging in remembrance, speak nothing from the mouth. Close the external doors and open the internal ones.",
+    "meaning": "स्मरण करते समय, मुख से कुछ न बोलें। बाहरी दरवाजे बंद कर दें और आंतरिक दरवाजे खोलें।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि जब हम भक्ति और स्मरण में लीन होते हैं, तो हमें बाहरी बातों से दूर रहना चाहिए। बाहरी संचार को बंद कर आंतरिक ध्यान की ओर ध्यान केंद्रित करना चाहिए। इससे आत्मा की गहराई में जाकर सच्चे ज्ञान और अनुभूति को प्राप्त किया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

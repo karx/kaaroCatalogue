@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5a6b3188-6480-414a-8525-63fd98706680",
+  "name": "धरती फाटै मेघ मिलै, कपड़ा फाटै डौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The earth cracks when rain meets clouds, and cloth tears when pulled. There is medicine for the body’s ailments, but there is no cure for the cracks in the mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धरती फाटै मेघ मिलै, कपड़ा फाटै डौर।\nतन फाटै को औषधि, मन फाटै नहिं ठौर।।११२३।।",
+    "translation": "The earth cracks when rain meets clouds, and cloth tears when pulled. There is medicine for the body’s ailments, but there is no cure for the cracks in the mind.",
+    "meaning": "धरती बादलों से मिलकर फट जाती है, और कपड़ा खींचने से फट जाता है। शरीर की बीमारियों का इलाज हो सकता है, लेकिन मन की दरारों का कोई इलाज नहीं है।",
+    "explanation": "इस दोहे में कबीर ने मन की समस्याओं और शरीर की बीमारियों के बीच अंतर को बताया है। जबकि शरीर की समस्याओं के लिए उपचार संभव है, मन की दरारें और आंतरिक समस्याओं का कोई इलाज नहीं है। यह मन की शांति और मानसिक स्थिरता के महत्व को रेखांकित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.703Z"
+  }
+}

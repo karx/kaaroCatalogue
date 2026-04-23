@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-72f92923-612c-44f7-8ac6-0f2132d02a94",
+  "name": "पाव पलक तो दूर है, मो पै कहा न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Not even a moment is certain, let alone a step. Who knows what may happen in the next few moments?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाव पलक तो दूर है, मो पै कहा न जाय।\nना जानो क्या होयगा, पाव के चौथे भाय।।४२६।।",
+    "translation": "Not even a moment is certain, let alone a step. Who knows what may happen in the next few moments?",
+    "meaning": "एक पल की भी गारंटी नहीं है, कदम की तो बात ही छोड़ो। कौन जानता है कि अगले कुछ क्षणों में क्या हो सकता है?",
+    "explanation": "इस दोहे में कबीर जीवन की अनिश्चितता को उजागर करते हैं। वह कहते हैं कि न केवल एक कदम, बल्कि एक पल की भी गारंटी नहीं है। हमें कभी नहीं पता होता कि अगले कुछ क्षणों में क्या हो सकता है। यह दोहा हमें यह सिखाता है कि हमें हर क्षण को सावधानी से और समझदारी से जीना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.923Z"
+  }
+}

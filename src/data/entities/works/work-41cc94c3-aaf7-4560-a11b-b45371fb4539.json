@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-41cc94c3-aaf7-4560-a11b-b45371fb4539",
+  "name": "भौ सागर की त्रास तेक, गुरु की पकड़ो बाँहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To overcome the fear of the ocean of worldly troubles, hold on to the Guru's arm. Without the Guru, who can rescue one from the turbulent waters of life?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भौ सागर की त्रास तेक, गुरु की पकड़ो बाँहि।\nगुरु बिन कौन उबारसी, भौ जल धारा माँहि।।२६२।।",
+    "translation": "To overcome the fear of the ocean of worldly troubles, hold on to the Guru's arm. Without the Guru, who can rescue one from the turbulent waters of life?",
+    "meaning": "दुनिया की समस्याओं के महासागर के डर को पार करने के लिए गुरु की बाँह को पकड़ो। गुरु के बिना, जीवन की उथल-पुथल से किसी को कौन उबार सकता है?",
+    "explanation": "इस दोहे में कबीर गुरु के महत्व को दर्शाते हैं, खासकर जब जीवन की समस्याओं और कठिनाइयों का सामना करना होता है। वे बताते हैं कि गुरु की सहायता से ही हम इन समस्याओं का सामना कर सकते हैं। बिना गुरु के, जीवन के समस्याओं से निपटना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

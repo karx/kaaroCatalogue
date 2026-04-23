@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6f3ee74e-e563-4ba0-9e2b-c0b6c9aa091b",
+  "name": "जेती देखौं आत्‍मा, तेता सालिगराम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The soul that I see is the same as the Saligram. The saint's visible form is more significant than the stone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जेती देखौं आत्‍मा, तेता सालिगराम।\nसाधू प्रत्‍यक्ष देह हैं, नहीं पाथर सू कांम।।२०२५।।",
+    "translation": "The soul that I see is the same as the Saligram. The saint's visible form is more significant than the stone.",
+    "meaning": "जो आत्मा मैं देखता हूँ, वही सालिग्राम है। साधू का प्रत्यक्ष रूप पत्थर से अधिक महत्वपूर्ण है।",
+    "explanation": "इस दोहे में कबीर ने आत्मा और सालिग्राम की तुलना की है। उन्होंने कहा है कि आत्मा वही है जो सालिग्राम का रूप है और साधू का प्रत्यक्ष रूप पत्थर की पूजा से अधिक महत्वपूर्ण है। यह सच्ची भक्ति और आत्मा के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.806Z"
+  }
+}

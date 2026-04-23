@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-522e4e46-4d79-482e-853d-329bbf0db413",
+  "name": "रामनाम जिन चीन्हिया, झीने पिंजर तासु",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who recognize the name of Ram, find the cage of the body. Night does not bring sleep, and flesh does not satisfy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रामनाम जिन चीन्हिया, झीने पिंजर तासु।\nरैनि न आवे नींदरी, अंग न चढ़‍िया मांसु।।१६६४।।",
+    "translation": "Those who recognize the name of Ram, find the cage of the body. Night does not bring sleep, and flesh does not satisfy.",
+    "meaning": "जो राम के नाम को पहचानते हैं, वे शरीर के पिंजरे को समझते हैं। रात नींद नहीं लाती, और मांस से संतोष नहीं मिलता।",
+    "explanation": "कबीर इस दोहे में आध्यात्मिक जागृति की बात करते हैं। उन्होंने कहा कि राम के नाम को पहचानने से शरीर की सीमाओं को समझा जाता है और सांसारिक सुख असंतोषजनक होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.786Z"
+  }
+}

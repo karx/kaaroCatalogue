@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3bn0-25v24",
+  "name": "GIANT SIPPERS #standupcomedy #sapanverma",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT1M21S",
+  "embedUrl": "https://www.youtube.com/embed/_WCuEIm-vzM",
+  "contentUrl": "https://www.youtube.com/watch?v=_WCuEIm-vzM",
+  "uploadDate": "2025-02-27",
+  "thumbnailUrl": "https://i.ytimg.com/vi/_WCuEIm-vzM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

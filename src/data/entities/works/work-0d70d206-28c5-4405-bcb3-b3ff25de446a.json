@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0d70d206-28c5-4405-bcb3-b3ff25de446a",
+  "name": "तीनि लोक चोरी भया, सर्वस सब का लीन्‍ह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The three worlds are a theft, everything is absorbed. Without a thief's mask, no one is a thief.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीनि लोक चोरी भया, सर्वस सब का लीन्‍ह।\nबिना मूड़ का चोरवा, परा न काहू चीन्‍ह।।१५५९।।",
+    "translation": "The three worlds are a theft, everything is absorbed. Without a thief's mask, no one is a thief.",
+    "meaning": "तीन लोक चोरी के समान हैं, सब कुछ समाहित है। बिना चोर के मुखौटे के, कोई भी चोर नहीं है।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि तीनों लोक जैसे एक चोरी की तरह हैं, जहाँ सब कुछ एकत्रित और समाहित हो जाता है। किसी को चोर की तरह समझने के लिए उसकी पहचान जरूरी है, लेकिन वास्तविकता में सब कुछ इस बड़े जाल का हिस्सा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.206Z"
+  }
+}

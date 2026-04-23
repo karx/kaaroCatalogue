@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a75579cb-6d7e-42d1-abc8-cd77e724fb5d",
+  "name": "मास-मास नहिं कर‍ि सकै, छठै मास अलबत्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you cannot do it monthly, then do it every six months. Do not slack in this; Kabir advises to be persistent.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मास-मास नहिं कर‍ि सकै, छठै मास अलबत्त।\nयामें ढील न कीजिए, कहैं कबीर अविगत।।५६९।।",
+    "translation": "If you cannot do it monthly, then do it every six months. Do not slack in this; Kabir advises to be persistent.",
+    "meaning": "अगर महीने के अनुसार नहीं कर सकते, तो छठे महीने में करें। इसमें ढील न दें; कबीर लगातार प्रयास करने की सलाह देते हैं।",
+    "explanation": "कबीर इस दोहे में यह सलाह देते हैं कि अगर महीने के अनुसार कोई काम नहीं कर पा रहे हैं, तो इसे हर छठे महीने में करें। इसमें ढील नहीं देनी चाहिए, क्योंकि लगातार प्रयास ही सफलता की कुंजी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

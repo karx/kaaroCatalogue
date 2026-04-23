@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aa03858b-7065-4334-a29c-946dd868fe04",
+  "name": "जंत्र मंत्र सब झूठ है, मति भरमो जग कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All charms and spells are false, don't be deluded by the world. Without knowing the essence of the word, a crow cannot become a swan.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जंत्र मंत्र सब झूठ है, मति भरमो जग कोय।\nसार शब्‍द जानै बिना, कागा हंस न होय।।१००३।।",
+    "translation": "All charms and spells are false, don't be deluded by the world. Without knowing the essence of the word, a crow cannot become a swan.",
+    "meaning": "सभी जंत्र और मंत्र झूठे हैं, दुनिया के भ्रम में मत पड़ो। शब्द के सार को जाने बिना, कौआ हंस नहीं बन सकता।",
+    "explanation": "इस दोहे में कबीर दास जी जंत्र-मंत्र और अंधविश्वासों के प्रति आगाह करते हैं। वह कहते हैं कि सभी जंत्र-मंत्र झूठे हैं और हमें दुनिया के भ्रम में नहीं पड़ना चाहिए। बिना शब्द के सार को समझे, कौआ कभी हंस नहीं बन सकता। यह दोहा हमें सच्चे ज्ञान और समझ की ओर प्रेरित करता है, जो हमें अंधविश्वासों से मुक्त कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.160Z"
+  }
+}

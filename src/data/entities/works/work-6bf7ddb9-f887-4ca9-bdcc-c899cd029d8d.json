@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6bf7ddb9-f887-4ca9-bdcc-c899cd029d8d",
+  "name": "शब्‍दै मारा गिर पड़ा, शब्‍दै छोड़ा राज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who is struck by words falls down, and those who forsake the word lose their kingdom. Those who contemplate the word, their work is accomplished.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍दै मारा गिर पड़ा, शब्‍दै छोड़ा राज।\nजिन्‍ह जिन्‍ह शब्‍द विचारिया, ताको सर गयो काज।।१६७७।।",
+    "translation": "One who is struck by words falls down, and those who forsake the word lose their kingdom. Those who contemplate the word, their work is accomplished.",
+    "meaning": "जो शब्दों से मारा गया, वह गिर पड़ा, और जो शब्द को छोड़ते हैं, वे अपना राज्य खो देते हैं। जो शब्द पर विचार करते हैं, उनका काम पूरा हो जाता है।",
+    "explanation": "कबीर इस दोहे में शब्द और ज्ञान की महत्वता को दर्शाते हैं। शब्दों का सही उपयोग करने वाला व्यक्ति अपने कार्य को पूरा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.789Z"
+  }
+}

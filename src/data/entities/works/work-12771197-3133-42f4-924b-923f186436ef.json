@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-12771197-3133-42f4-924b-923f186436ef",
+  "name": "मैं जानूं मन मरि गया, मरि के हुआ भूत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I thought my mind was dead and became a ghost. But after dying, it arose again, just like my own child.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं जानूं मन मरि गया, मरि के हुआ भूत।\nमूये पीछे उठि लगा, ऐसा मेरा पूत।।१०३७।।",
+    "translation": "I thought my mind was dead and became a ghost. But after dying, it arose again, just like my own child.",
+    "meaning": "मैंने सोचा कि मेरा मन मर गया और भूत बन गया। लेकिन मरने के बाद, वह फिर से उठ खड़ा हुआ, जैसे मेरा अपना पुत्र।",
+    "explanation": "इस दोहे में कबीर मन की प्रकृति का वर्णन करते हैं। वे कहते हैं कि मन को मारना आसान नहीं है। भले ही हम सोचें कि हमने मन को मार दिया है, लेकिन वह फिर से उठ खड़ा होता है और हमें फिर से भटकाने लगता है। यह मन की स्वाभाविकता है, जिसे बार-बार नियंत्रित करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.164Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6f12fbc1-7bcc-4d4b-88b0-e8515d28f619",
+  "name": "The Striders (1966) Second Sight",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-ak-ramanujan"
+  },
+  "inLanguage": "English",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/The_Striders_(1966)_Second_Sight",
+    "retrievedAt": "2026-01-04T18:39:38.997Z"
+  }
+}

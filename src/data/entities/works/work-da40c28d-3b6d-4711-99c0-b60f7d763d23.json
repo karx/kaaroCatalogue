@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-da40c28d-3b6d-4711-99c0-b60f7d763d23",
+  "name": "जौन भाव ऊपर रहै, भितर बसावै सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whatever feeling remains above should reside within as well. One who does not have it within cannot have it above.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जौन भाव ऊपर रहै, भितर बसावै सोय।\nभीतर और न बसावई, ऊपर और न होय।।६१५।।",
+    "translation": "Whatever feeling remains above should reside within as well. One who does not have it within cannot have it above.",
+    "meaning": "जो भी भाव ऊपर रहता है, वही भीतर भी रहना चाहिए। जो भीतर नहीं है, वह ऊपर भी नहीं हो सकता।",
+    "explanation": "सच्चे संत की पहचान उसकी आंतरिक और बाहरी एकता से होती है। जो भाव और गुण व्यक्ति के भीतर होते हैं, वही बाहर भी प्रकट होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

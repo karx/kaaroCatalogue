@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-449cfa0e-b5d8-4cf3-aaff-5ac01dc55f72",
+  "name": "खान खरच बहु अन्‍तरा, मन में देख विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is a great deal of expenditure and waste, but see and reflect within the mind. One is led to the food of a saint, while another is led to ashes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "खान खरच बहु अन्‍तरा, मन में देख विचार।\nएक खवावै साधु को, एक मिलावै छार।।११६२।।",
+    "translation": "There is a great deal of expenditure and waste, but see and reflect within the mind. One is led to the food of a saint, while another is led to ashes.",
+    "meaning": "बहुत अधिक खर्च और बर्बादी है, लेकिन मन में देखो और विचार करो। एक साधु के भोजन की ओर ले जाता है, जबकि दूसरा राख की ओर ले जाता है।",
+    "explanation": "इस दोहे में कबीर ने भौतिक और आध्यात्मिक खर्च के बीच अंतर को उजागर किया है। वे बताते हैं कि बाहरी खर्च और बर्बादी भले ही अधिक हो, परंतु अंतर्निहित समझ और आत्मा की देखभाल आवश्यक है। एक साधु के पास जाकर आत्मिक पोषण प्राप्त होता है, जबकि भौतिक चीजों की ओर बढ़ने से केवल नाश और खालीपन मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.969Z"
+  }
+}

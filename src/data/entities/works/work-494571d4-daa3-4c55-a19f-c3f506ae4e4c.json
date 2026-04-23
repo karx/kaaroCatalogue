@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-494571d4-daa3-4c55-a19f-c3f506ae4e4c",
+  "name": "सांई मेरा सावधान, मैं ही भया अचेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "My Lord is vigilant, but I have been careless. Neither in mind, word, nor deed have I worshiped the Lord, thus my field has become barren.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांई मेरा सावधान, मैं ही भया अचेत।\nमन बच करम न हरि भजा, ताते निष्‍फल खेत।।२१९८।।",
+    "translation": "My Lord is vigilant, but I have been careless. Neither in mind, word, nor deed have I worshiped the Lord, thus my field has become barren.",
+    "meaning": "मेरा सांई जागरूक है, लेकिन मैं अचेत (लापरवाह) हो गया हूं। मैंने मन, वचन और कर्म से भगवान की भक्ति नहीं की, इसलिए मेरा खेत (जीवन) निष्फल हो गया है।",
+    "explanation": "इस दोहे में संत कबीर जी अपनी लापरवाही और भगवान की भक्ति में कमी के कारण अपने जीवन के निष्फल होने की बात करते हैं। वे स्वीकार करते हैं कि उनके मन, वचन, और कर्म भगवान की भक्ति से विमुख हो गए हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.734Z"
+  }
+}

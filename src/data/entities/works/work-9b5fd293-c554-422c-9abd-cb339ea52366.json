@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9b5fd293-c554-422c-9abd-cb339ea52366",
+  "name": "मोह नदी विकराल है, कोई न उतरै पार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The river of illusion is vast and no one can cross it alone. With the guide of the true Guru, one can become a swan and cross the river of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मोह नदी विकराल है, कोई न उतरै पार।\nसतगुरु केवट साथ ले, हंस होय जम नार।।१२१७।।",
+    "translation": "The river of illusion is vast and no one can cross it alone. With the guide of the true Guru, one can become a swan and cross the river of death.",
+    "meaning": "मोह की नदी विशाल है, कोई भी अकेला पार नहीं कर सकता। सच्चे गुरु के मार्गदर्शन से, मनुष्य हंस बनकर मृत्यु की नदी पार कर सकता है।",
+    "explanation": "इस दोहे में कबीर ने मोह की विशालता और इसे पार करने की कठिनाई को दर्शाया है। सच्चे गुरु के साथ, जो सही मार्गदर्शन प्रदान करते हैं, व्यक्ति मोह और मृत्यु की नदी को पार कर सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.269Z"
+  }
+}

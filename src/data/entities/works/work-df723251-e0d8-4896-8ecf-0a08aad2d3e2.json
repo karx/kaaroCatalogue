@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-df723251-e0d8-4896-8ecf-0a08aad2d3e2",
+  "name": "जो मिला सो गुरु मिला, शिष्‍य मिला नहिं कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who meets a true guru, finds a teacher. There is no disciple to be found; even if one searches through hundreds of thousands of people, finding one such soul is rare.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो मिला सो गुरु मिला, शिष्‍य मिला नहिं कोय।\nछौं लाख छानबे सहस रमैनि, एक जीव पर होय।।१५४५।।",
+    "translation": "One who meets a true guru, finds a teacher. There is no disciple to be found; even if one searches through hundreds of thousands of people, finding one such soul is rare.",
+    "meaning": "जो सच्चे गुरु से मिलता है, वही सही शिक्षक को पाता है। शिष्य नहीं मिलता; यहां तक कि लाखों लोगों में भी, ऐसा एक जीव मिलना दुर्लभ है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि सच्चे गुरु की खोज करना और उसे पाना बहुत कठिन होता है। सच्चे गुरु से मिलने पर ही व्यक्ति को सच्चे ज्ञान की प्राप्ति होती है। शिष्य की प्राप्ति और गुरु की वास्तविकता को समझना मुश्किल है, और हजारों लोगों में से ऐसा एक शिष्य ढूंढना भी अत्यंत कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.935Z"
+  }
+}

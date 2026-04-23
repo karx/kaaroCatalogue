@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2ea912c6-81c5-479c-af1c-8d297bbb0f29",
+  "name": "जाकी दिल में हरि बसै, सो नर कलपै कांइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He in whose heart the Lord resides, why should he suffer? Like a single wave in the ocean, all sorrow and poverty disappear.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाकी दिल में हरि बसै, सो नर कलपै कांइ।\nएक लहरि समंद की, दुख दलिद्र सब जांइ।।१८८५।।",
+    "translation": "He in whose heart the Lord resides, why should he suffer? Like a single wave in the ocean, all sorrow and poverty disappear.",
+    "meaning": "जिसके दिल में हरि बसते हैं, वह क्यों दुखी हो? जैसे समुद्र की एक लहर से, सभी दुख और गरीबी समाप्त हो जाते हैं।",
+    "explanation": "कबीरदास जी इस दोहे में कहते हैं कि जिस व्यक्ति के दिल में ईश्वर का वास है, उसे किसी भी प्रकार का दुख या कष्ट नहीं होता। जैसे समुद्र की एक लहर सभी दुखों और गरीबी को मिटा देती है, वैसे ही ईश्वर की उपस्थिति सभी कष्टों को समाप्त कर देती है। यह दोहा ईश्वर के प्रति पूर्ण समर्पण और विश्वास की महिमा को बताता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.975Z"
+  }
+}

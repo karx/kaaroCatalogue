@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-89fc8b9d-a080-436b-81c2-4790441cb18b",
+  "name": "Meghadūta",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Meghadūta",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

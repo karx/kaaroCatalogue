@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-babedb58-30ad-4313-af5b-0f28a17bb5bc",
+  "name": "साधु गाँठ न बाँधई, उदर समाता लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint does not bind himself; he accepts what comes. When he has experienced everything, only then does he receive.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु गाँठ न बाँधई, उदर समाता लेय।\nआगे-पीछे हरि खड़े, जब माँगे तब देय।।६९।।",
+    "translation": "The saint does not bind himself; he accepts what comes. When he has experienced everything, only then does he receive.",
+    "meaning": "साधु स्वयं को नहीं बांधता; वह जो भी आता है उसे स्वीकार करता है। जब वह सब अनुभव कर लेता है, तभी उसे मिलता है।",
+    "explanation": "इस दोहे में कबीर ने साधु के जीवन की सहजता को व्यक्त किया है। साधु किसी भी चीज को खुद पर बाधित नहीं करता और जो कुछ भी अनुभव करता है, उसी को स्वीकार करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

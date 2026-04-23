@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-94c6c606-19d7-4bd5-8252-327e05232e4d",
+  "name": "sab qatl ho ke tere muqabil se aae hain",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/sab-qatl-ho-ke-tere-muqaabil-se-aae-hain-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.210Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/sab-qatl-ho-ke-tere-muqaabil-se-aae-hain-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nsab qatl ho ke tere muqābil se aa.e haiñ\nham log surḳh-rū haiñ ki manzil se aa.e haiñ\nsham-e-nazar ḳhayāl ke anjum jigar ke daaġh\njitne charāġh haiñ tirī mahfil se aa.e haiñ\nuTh kar to aa ga.e haiñ tirī bazm se magar\nkuchh dil hī jāntā hai ki kis dil se aa.e haiñ\nhar ik qadam ajal thā har ik gaam zindagī\nham ghuum phir ke kūcha-e-qātil se aa.e haiñ\nbād-e-ḳhizāñ kā shukr karo 'faiz' jis ke haath\nnaame kisī bahār-e-shimā.il se aa.e haiñ\nsab qatl ho ke tere muqabil se aae hain\nhum log surKH-ru hain ki manzil se aae hain\nsham-e-nazar KHayal ke anjum jigar ke dagh\njitne charagh hain teri mahfil se aae hain\nuTh kar to aa gae hain teri bazm se magar\nkuchh dil hi jaanta hai ki kis dil se aae hain\nhar ek qadam ajal tha har ek gam zindagi\nhum ghum phir ke kucha-e-qatil se aae hain\nbaad-e-KHizan ka shukr karo 'faiz' jis ke hath\nname kisi bahaar-e-shimail se aae hain",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nسب قتل ہو کے تیرے مقابل سے آئے ہیں\nہم لوگ سرخ رو ہیں کہ منزل سے آئے ہیں\nشمع نظر خیال کے انجم جگر کے داغ\nجتنے چراغ ہیں تری محفل سے آئے ہیں\nاٹھ کر تو آ گئے ہیں تری بزم سے مگر\nکچھ دل ہی جانتا ہے کہ کس دل سے آئے ہیں\nہر اک قدم اجل تھا ہر اک گام زندگی\nہم گھوم پھر کے کوچۂ قاتل سے آئے ہیں\nباد خزاں کا شکر کرو فیضؔ جس کے ہاتھ\nنامے کسی بہار شمائل سے آئے ہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nसब क़त्ल हो के तेरे मुक़ाबिल से आए हैं\nहम लोग सुर्ख़-रू हैं कि मंज़िल से आए हैं\nशम-ए-नज़र ख़याल के अंजुम जिगर के दाग़\nजितने चराग़ हैं तिरी महफ़िल से आए हैं\nउठ कर तो आ गए हैं तिरी बज़्म से मगर\nकुछ दिल ही जानता है कि किस दिल से आए हैं\nहर इक क़दम अजल था हर इक गाम ज़िंदगी\nहम घूम फिर के कूचा-ए-क़ातिल से आए हैं\nबाद-ए-ख़िज़ाँ का शुक्र करो 'फ़ैज़' जिस के हाथ\nनामे किसी बहार-ए-शिमाइल से आए हैं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:26.303Z"
+  }
+}

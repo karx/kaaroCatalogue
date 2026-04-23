@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-37fe8687-4f1d-4daf-bb0e-9e47ec51f177",
+  "name": "तू तू करता तू भया, मुझ में रही न हूँ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "You, you kept doing, and you became. I was not there within. Going around in circles, I am now lost in seeing you everywhere.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तू तू करता तू भया, मुझ में रही न हूँ।\nवारी फेरी बलि गई, जित देखौं तित तू।।१५४।।",
+    "translation": "You, you kept doing, and you became. I was not there within. Going around in circles, I am now lost in seeing you everywhere.",
+    "meaning": "तू ही तू करता रहा, और तू बन गया। मैं अंदर नहीं था। गोल-गोल घूमते हुए, अब हर जगह तुझे देखकर खो गया हूँ।",
+    "explanation": "इस दोहे में कबीर आत्म-साक्षात्कार की बात कर रहे हैं। वे यह समझते हैं कि भगवान या ईश्वर सब कुछ कर रहे हैं, और इस प्रक्रिया में वे खुद को भूल गए हैं। अपने आप में खोने के बाद, कबीर हर जगह ईश्वर को ही देख रहे हैं और इस अंतर्दृष्टि से प्रभावित हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

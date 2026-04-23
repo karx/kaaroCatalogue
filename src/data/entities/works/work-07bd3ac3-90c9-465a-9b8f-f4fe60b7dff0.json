@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-07bd3ac3-90c9-465a-9b8f-f4fe60b7dff0",
+  "name": "सूरैं सार संबाहिया, पहरया सहज संजोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The essence of the sun is carried by the seasons, which naturally connect. Now with the rise of knowledge, the field is ready for sowing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूरैं सार संबाहिया, पहरया सहज संजोग।\nअब कै ग्‍यांन गयंद चढ़‍ि, खेत पड़न का जोग।।१९१३।।",
+    "translation": "The essence of the sun is carried by the seasons, which naturally connect. Now with the rise of knowledge, the field is ready for sowing.",
+    "meaning": "सूरज की सार तत्व को मौसम ले जाते हैं, जो स्वाभाविक रूप से जुड़ते हैं। अब ज्ञान के उदय के साथ, खेत बोने के लिए तैयार है।",
+    "explanation": "इस दोहे में कबीरदास जी यह बताना चाहते हैं कि सूर्य का सार तत्व मौसम द्वारा प्रभावित होता है, जो स्वाभाविक रूप से एक दूसरे से जुड़े होते हैं। अब जब ज्ञान का प्रकाश फैल गया है, तो खेत फसल के लिए तैयार है। यह दोहा ज्ञान की महत्ता और इसके परिणामस्वरूप होने वाले सकारात्मक बदलावों को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.247Z"
+  }
+}

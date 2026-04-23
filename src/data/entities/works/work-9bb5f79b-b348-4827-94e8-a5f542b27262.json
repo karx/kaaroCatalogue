@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9bb5f79b-b348-4827-94e8-a5f542b27262",
+  "name": "जहं लगि सब संसार है, मिरग सबन को मोह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wherever there is the world, there is the illusion of desire. Gods, humans, serpents, and sages are all entangled in this illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहं लगि सब संसार है, मिरग सबन को मोह।\nसुर नर नाग पाताल अरु, ऋषि मुनिवर सब जोह।।१२१४।।",
+    "translation": "Wherever there is the world, there is the illusion of desire. Gods, humans, serpents, and sages are all entangled in this illusion.",
+    "meaning": "जहां कहीं भी संसार है, वहां मोह की भावना होती है। देवता, मनुष्य, नाग, पाताल, और ऋषि-मुनि सभी इस मोह में फंसे हुए हैं।",
+    "explanation": "इस दोहे में कबीर ने माया और मोह के व्यापक प्रभाव को दर्शाया है। संसार के प्रत्येक क्षेत्र में, चाहे देवता हों, मनुष्य हों, या ऋषि-मुनि, सभी इस मोह में फंसे हुए हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.269Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-98d09e5a-ec11-41f7-8a8c-371053d25f20",
+  "name": "मन ते माया ऊपजै, माया तिरगुण रूप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion arises from the mind and takes on the form of the three gunas (qualities). It binds all forms through the combination of the five elements.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन ते माया ऊपजै, माया तिरगुण रूप।\nपांच तत्‍व के मेल में, बांधे सकल सरूप।।१२०८।।",
+    "translation": "Illusion arises from the mind and takes on the form of the three gunas (qualities). It binds all forms through the combination of the five elements.",
+    "meaning": "माया मन से उत्पन्न होती है और त्रिगुणों के रूप में प्रकट होती है। यह पांच तत्वों के मेल से सभी रूपों को बांधती है।",
+    "explanation": "इस दोहे में कबीर ने माया की उत्पत्ति और उसके प्रभाव को दर्शाया है। माया मन से उत्पन्न होती है और त्रिगुणों के रूप में प्रकट होती है, जो पांच तत्वों के मिलन से सभी रूपों को बंधन में डाल देती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.267Z"
+  }
+}

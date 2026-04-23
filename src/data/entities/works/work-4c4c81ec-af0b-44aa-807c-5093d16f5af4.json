@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4c4c81ec-af0b-44aa-807c-5093d16f5af4",
+  "name": "चंदन भांगा गुण करै, जैसे चोली पंन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even when broken, sandalwood retains its fragrance, like a torn garment still providing some cover. Those who sow bad deeds will not reap good fortune, liberation, or peace of mind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंदन भांगा गुण करै, जैसे चोली पंन।\nबोइ जनां भागां न मिलै, मुकताहल अरु मंन।।१८८९।।",
+    "translation": "Even when broken, sandalwood retains its fragrance, like a torn garment still providing some cover. Those who sow bad deeds will not reap good fortune, liberation, or peace of mind.",
+    "meaning": "टूटने पर भी चंदन अपनी सुगंध बनाए रखता है, जैसे फटा हुआ कपड़ा भी कुछ ढांकता है। जो बुरे कर्म बोते हैं, उन्हें अच्छा भाग्य, मुक्ति या मन की शांति नहीं मिलती।",
+    "explanation": "इस दोहे में कबीरदास जी कर्मों के प्रभाव और गुणों के महत्व को दर्शाते हैं। वे कहते हैं कि चंदन टूट जाने पर भी अपनी सुगंध नहीं छोड़ता, उसी प्रकार अच्छे गुण व्यक्ति के भीतर हमेशा बने रहते हैं चाहे परिस्थितियाँ कैसी भी हों। दूसरी ओर, जो लोग बुरे कर्म करते हैं, वे अच्छे भाग्य, मुक्ति और मन की शांति से वंचित रह जाते हैं। यह दोहा हमें सिखाता है कि हमें सदैव अच्छे कर्म और सद्गुणों को अपनाना चाहिए ताकि हमारा जीवन सुखद और शांतिपूर्ण बन सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.976Z"
+  }
+}

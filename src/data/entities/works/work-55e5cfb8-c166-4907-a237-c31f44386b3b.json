@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-55e5cfb8-c166-4907-a237-c31f44386b3b",
+  "name": "धरती अरु असमान बिचि, दोइ तूंबड़ा अवध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Between the earth and the sky, there are two vessels of the sacred city. Six views are in doubt, and forty-two are the paths to realization.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "धरती अरु असमान बिचि, दोइ तूंबड़ा अवध।\nषट दरसन संसै पड्या, अरु चौसारी सिध।।१८५५।।",
+    "translation": "Between the earth and the sky, there are two vessels of the sacred city. Six views are in doubt, and forty-two are the paths to realization.",
+    "meaning": "धरती और आकाश के बीच, दो पवित्र शहरों के पात्र हैं। छह दृष्टिकोण संदिग्ध हैं, और बत्तीस विकल्प तत्त्वज्ञान के पथ हैं।",
+    "explanation": "इस दोहे में कबीर ने ब्रह्मांडीय वास्तविकता और तत्त्वज्ञान की जटिलता को दर्शाया है। वे कहते हैं कि पृथ्वी और आकाश के बीच दो पवित्र स्थान हैं, और जीवन के विभिन्न दृष्टिकोणों पर संदेह हो सकता है। उन्होंने यह भी कहा है कि विभिन्न आध्यात्मिक पथ तत्त्वज्ञान की प्राप्ति के लिए मार्गदर्शन प्रदान करते हैं। यह दोहा ज्ञान और जीवन के ब्रह्मांडीय पहलुओं की गहराई को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.967Z"
+  }
+}

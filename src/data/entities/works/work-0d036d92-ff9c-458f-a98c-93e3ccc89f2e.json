@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0d036d92-ff9c-458f-a98c-93e3ccc89f2e",
+  "name": "सरपहि दूध पिलाइये, दूधै विष ह्व जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Give milk to the snake, it turns into poison. Such is the nature of the snake, it consumes poison.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सरपहि दूध पिलाइये, दूधै विष ह्व जाइ।\nऐसा कोई ना मिले, स्‍यूं सरपै विष खाइ।।१७२८।।",
+    "translation": "Give milk to the snake, it turns into poison. Such is the nature of the snake, it consumes poison.",
+    "meaning": "नाग को दूध दो, वह विष बन जाता है। नाग की प्रकृति ऐसी ही है, वह विष ही खाता है।",
+    "explanation": "कबीर इस दोहे में प्रकृति और धोखाधड़ी की बात करते हैं। उन्होंने कहा कि जो प्रकृति में बुरा है, वह किसी भी अच्छे प्रयास को स्वीकार नहीं करता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.074Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-70a31070-fb60-4da2-92ab-b1037c2a5fb0",
+  "name": "साधु दरश को जाइये, जेता धरिये पांव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Visit the saint wherever you can; keep your feet in the path of devotion. Kabir explains, by every step in devotion, you understand the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु दरश को जाइये, जेता धरिये पांव।\nडग डग पै असमेध जग, कहैं कबीर समुझाय।।६०६।।",
+    "translation": "Visit the saint wherever you can; keep your feet in the path of devotion. Kabir explains, by every step in devotion, you understand the world.",
+    "meaning": "जहां भी संभव हो, संत का दर्शन करें; अपने कदम भक्ति के मार्ग में रखें। कबीर बताते हैं, भक्ति में हर कदम से आप दुनिया को समझते हैं।",
+    "explanation": "संतों की उपस्थिति और उनके दर्शन से भक्ति के मार्ग को अपनाना महत्वपूर्ण है। संतों के पास जाकर और उनके उपदेशों को मानकर हम जीवन और संसार की सही समझ प्राप्त कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.000Z"
+  }
+}

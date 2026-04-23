@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-11f3c420-3875-4bb6-b045-a7f96b3206eb",
+  "name": "करनी बिन कथनी कथै, गुरु पद लह�� न सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without actions, mere words are meaningless. One cannot attain the guru's position with just words. No one becomes wise through mere talks.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करनी बिन कथनी कथै, गुरु पद लहै न सोय।।\nबातों के पकवान से, धीरा नाहीं कोय।।१३२७।।",
+    "translation": "Without actions, mere words are meaningless. One cannot attain the guru's position with just words. No one becomes wise through mere talks.",
+    "meaning": "कर्मों के बिना केवल शब्दों का कोई महत्व नहीं होता। गुरु के पद को केवल बातों से प्राप्त नहीं किया जा सकता। कोई भी व्यक्ति केवल बातों से ज्ञानी नहीं बन सकता।",
+    "explanation": "कबीर जी के अनुसार, शब्द केवल दिखावे के होते हैं और वास्तविक मूल्य कर्मों में होता है। गुरु की स्थिति प्राप्त करने के लिए केवल बातों से कुछ नहीं होता, बल्कि कर्म करने होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.813Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-58d6f1c1-735c-4add-8b6e-d7be298db624",
+  "name": "जहं गाहक तह मैं नहीं, हौं तहां गांहक नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there are no buyers, I am not there; where I am, there are no buyers. Without recognition, they wander around, clinging to the words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहं गाहक तह मैं नहीं, हौं तहां गांहक नाहिं।\nपरिचय बिन फूला फिरै, पकरि शब्‍द की बांहि।।२१६८।।",
+    "translation": "Where there are no buyers, I am not there; where I am, there are no buyers. Without recognition, they wander around, clinging to the words.",
+    "meaning": "जहाँ ग्राहक नहीं होते, मैं वहाँ नहीं होता; जहाँ मैं होता हूँ, वहाँ ग्राहक नहीं होते। पहचान के बिना वे इधर-उधर घूमते हैं, शब्दों को पकड़े रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने ग्राहक और विक्रेता के रिश्ते को एक गहरी दृष्टि से देखा है। वे बताते हैं कि जहाँ ग्राहक नहीं होते, वहाँ वे खुद नहीं होते, और जहाँ वे होते हैं, वहाँ ग्राहक नहीं होते। पहचान और सच्ची समझ के बिना लोग शब्दों के पीछे भटकते रहते हैं। यह दोहा यह सिखाता है कि सत्य की पहचान और समझ महत्वपूर्ण है, और बाहरी दिखावट पर ध्यान देने से अधिक महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.725Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5f193c23-e21e-4bfa-8884-957fa7e3d604",
+  "name": "गुरु लोभी शिष लालची, दोनों खेले दांव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The greedy guru and the avaricious disciple both play tricks. Both are old and decrepit, riding a boat made of stone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु लोभी शिष लालची, दोनों खेले दांव।\nदोनों बूड़े बापुरे, चढ़‍ि पाथर की नांव।।५२२।।",
+    "translation": "The greedy guru and the avaricious disciple both play tricks. Both are old and decrepit, riding a boat made of stone.",
+    "meaning": "लालची गुरु और लालची शिष्य दोनों ही छल-कपट खेलते हैं। दोनों ही वृद्ध और बीमार हैं, पत्थर की नाव में सवार हैं।",
+    "explanation": "कबीर ने इस दोहे में गुरु और शिष्य की लालच पर कटाक्ष किया है। वे कहते हैं कि जब गुरु और शिष्य दोनों ही लालच से भरे हुए होते हैं, तो वे केवल छल-कपट के खेल में लिप्त रहते हैं और उनकी स्थिति अत्यंत खराब होती है। यह दोहा यह भी बताता है कि दोनों की यात्रा कठिन और निराधार है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

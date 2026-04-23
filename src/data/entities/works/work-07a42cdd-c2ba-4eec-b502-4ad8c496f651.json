@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-07a42cdd-c2ba-4eec-b502-4ad8c496f651",
+  "name": "कैसा भी सामर्थ्‍य हो, बिन उद्यम दुख पाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No matter how capable one is, without effort, one suffers. Without labor, how can food reach one's mouth?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कैसा भी सामर्थ्‍य हो, बिन उद्यम दुख पाय।\nनिकट असन बिन कर चले, कैसे मुख में जाय।।१३२९।।",
+    "translation": "No matter how capable one is, without effort, one suffers. Without labor, how can food reach one's mouth?",
+    "meaning": "चाहे कोई कितना भी सक्षम हो, प्रयास के बिना दुख भोगना पड़ता है। बिना मेहनत के, भोजन मुख तक कैसे पहुंच सकता है?",
+    "explanation": "कबीर जी के अनुसार, सक्षम होना कोई मायने नहीं रखता यदि मेहनत और प्रयास नहीं किया जाए। किसी भी कार्य को पूरा करने के लिए श्रम और मेहनत की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.813Z"
+  }
+}

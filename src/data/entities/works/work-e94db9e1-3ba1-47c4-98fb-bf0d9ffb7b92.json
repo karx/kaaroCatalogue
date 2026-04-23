@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e94db9e1-3ba1-47c4-98fb-bf0d9ffb7b92",
+  "name": "झूठे सुख को सुख कहै, मानत है मन मोद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind finds false pleasures delightful, believing them to be true joy. But the world is just a snack for Death, some in its mouth, some in its lap.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "झूठे सुख को सुख कहै, मानत है मन मोद।\nजगत चबेना काल का, कछू मुख कछू गोद।।१०५३।।",
+    "translation": "The mind finds false pleasures delightful, believing them to be true joy. But the world is just a snack for Death, some in its mouth, some in its lap.",
+    "meaning": "मन झूठे सुखों को ही असली सुख मानकर आनंदित होता है। लेकिन यह संसार तो मृत्यु के लिए बस एक चबेना है, कुछ उसके मुख में हैं, और कुछ उसकी गोद में।",
+    "explanation": "इस दोहे में कबीर संसार के अस्थायी सुखों के प्रति मन की आसक्ति को उजागर करते हैं। वे कहते हैं कि मन झूठे सुखों को असली सुख मानकर उन पर मोहित हो जाता है, जबकि हकीकत यह है कि यह पूरी दुनिया ही मृत्यु के लिए एक मामूली चबेना है। इसका मतलब यह है कि जीवन क्षणभंगुर है और हमें असली सुख की खोज करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.424Z"
+  }
+}

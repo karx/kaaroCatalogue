@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-441142da-1a9d-4964-8f07-162df2f06dec",
+  "name": "chand nikle kisi jaanib teri zebai ka",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/chaand-nikle-kisii-jaanib-tirii-zebaaii-kaa-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.210Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/chaand-nikle-kisii-jaanib-tirii-zebaaii-kaa-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nchāñd nikle kisī jānib tirī zebā.ī kā\nrañg badle kisī sūrat shab-e-tanhā.ī kā\ndaulat-e-lab se phir ai ḳhusrav-e-shīrīñ-dahanāñ\naaj arzāñ ho koī harf shanāsā.ī kā\ngarmi-e-rashk se har anjuman-e-gul-badanāñ\ntazkira chheḌe tirī pairahan-ārā.ī kā\nsehn-e-gulshan meñ kabhī ai shah-e-shamshād-qadāñ\nphir nazar aa.e salīqa tirī ra.anā.ī kā\nek baar aur masīhā-e-dil-e-dil-zadagāñ\nkoī va.ada koī iqrār masīhā.ī kā\ndiida o dil ko sambhālo ki sar-e-shām-e-firāq\nsāz-o-sāmān baham pahuñchā hai rusvā.ī kā\nchand nikle kisi jaanib teri zebai ka\nrang badle kisi surat shab-e-tanhai ka\ndaulat-e-lab se phir ai KHusraw-e-shirin-dahanan\naaj arzan ho koi harf shanasai ka\ngarmi-e-rashk se har anjuman-e-gul-badanan\ntazkira chheDe teri pairahan-arai ka\nsehn-e-gulshan mein kabhi ai shah-e-shamshad-qadan\nphir nazar aae saliqa teri ranai ka\nek bar aur masiha-e-dil-e-dil-zadagan\nkoi wada koi iqrar masihai ka\ndida o dil ko sambhaalo ki sar-e-sham-e-firaq\nsaz-o-saman baham pahuncha hai ruswai ka",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nچاند نکلے کسی جانب تری زیبائی کا\nرنگ بدلے کسی صورت شب تنہائی کا\nدولت لب سے پھر اے خسرو شیریں دہناں\nآج ارزاں ہو کوئی حرف شناسائی کا\nگرمئی رشک سے ہر انجمن گل بدناں\nتذکرہ چھیڑے تری پیرہن آرائی کا\nصحن گلشن میں کبھی اے شہ شمشاد قداں\nپھر نظر آئے سلیقہ تری رعنائی کا\nایک بار اور مسیحائے دل دل زدگاں\nکوئی وعدہ کوئی اقرار مسیحائی کا\nدیدہ و دل کو سنبھالو کہ سر شام فراق\nساز و سامان بہم پہنچا ہے رسوائی کا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nचाँद निकले किसी जानिब तिरी ज़ेबाई का\nरंग बदले किसी सूरत शब-ए-तन्हाई का\nदौलत-ए-लब से फिर ऐ ख़ुसरव-ए-शीरीं-दहनाँ\nआज अर्ज़ां हो कोई हर्फ़ शनासाई का\nगर्मी-ए-रश्क से हर अंजुमन-ए-गुल-बदनाँ\nतज़्किरा छेड़े तिरी पैरहन-आराई का\nसेहन-ए-गुलशन में कभी ऐ शह-ए-शमशाद-क़दाँ\nफिर नज़र आए सलीक़ा तिरी रानाई का\nएक बार और मसीहा-ए-दिल-ए-दिल-ज़दगाँ\nकोई वा'दा कोई इक़रार मसीहाई का\nदीदा ओ दिल को सँभालो कि सर-ए-शाम-ए-फ़िराक़\nसाज़-ओ-सामान बहम पहुँचा है रुस्वाई का",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:49:34.117Z"
+  }
+}

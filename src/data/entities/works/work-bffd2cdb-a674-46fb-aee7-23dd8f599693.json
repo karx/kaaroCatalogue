@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bffd2cdb-a674-46fb-aee7-23dd8f599693",
+  "name": "ऐसी बानी बोलिये, मन का आपा खोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak such words that the ego is lost. They soothe others and also bring peace to oneself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसी बानी बोलिये, मन का आपा खोय।\nऔरन को शीतल करै, आपहु शीतल होय।।९७७।।",
+    "translation": "Speak such words that the ego is lost. They soothe others and also bring peace to oneself.",
+    "meaning": "ऐसे शब्द बोलो जिससे मन का अहंकार समाप्त हो जाए। वे दूसरों को शांति प्रदान करते हैं और आपको भी शीतलता का अनुभव होता है।",
+    "explanation": "इस दोहे में कबीर दास जी बोलचाल के महत्व और उसके प्रभाव की बात करते हैं। वह कहते हैं कि हमें ऐसे शब्द बोलने चाहिए, जिससे हमारा अहंकार खत्म हो और वे शब्द दूसरों के दिलों को शीतल करें। इस तरह की वाणी न केवल दूसरों को शांति देती है बल्कि हमें भी शांति का अनुभव होता है। यह दोहा हमें सिखाता है कि वाणी में मधुरता और विनम्रता होनी चाहिए, जिससे सबके दिलों में प्रेम और शांति का संचार हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.893Z"
+  }
+}

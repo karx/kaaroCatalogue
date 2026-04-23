@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-652832b4-74bc-4ee5-9f7a-afddeac5d606",
+  "name": "राम नाम जाना नहीं, चके अबकी घात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Not knowing the name of Ram, you face another blow. The potter’s clay will suffer more blows when it meets the dust.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम जाना नहीं, चके अबकी घात।\nमाटी मिलन कुम्हार की, घनी सहेगी लात।।९०६।।",
+    "translation": "Not knowing the name of Ram, you face another blow. The potter’s clay will suffer more blows when it meets the dust.",
+    "meaning": "राम के नाम का ज्ञान न होने के कारण, अब फिर एक आघात सहो। मिट्टी और कुम्हार की मिलन के समय, मिट्टी अधिक प्रहार सहती है।",
+    "explanation": "कबीर इस दोहे में राम के नाम की उपेक्षा और उसके परिणामों की बात करते हैं। वे बताते हैं कि जो व्यक्ति राम के नाम को नहीं जानता, वह जीवन में बार-बार परेशानियों का सामना करेगा। कुम्हार की मिट्टी की तरह, जब उसे सही समय पर ध्यान नहीं दिया जाता, तो अधिक प्रहार सहने पड़ते हैं। यह दोहा आध्यात्मिक अभ्यास और ध्यान की महत्वता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.623Z"
+  }
+}

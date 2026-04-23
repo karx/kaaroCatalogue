@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f72ec39c-2633-4be9-bec8-eda2f242963c",
+  "name": "जो कामिनी पड़दै रहे, सुनै न गुरुमुख बात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who is engrossed in worldly desires and ignores the Guru's teachings will degrade to a low state, like a dog wandering with exposed flesh.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो कामिनी पड़दै रहे, सुनै न गुरुमुख बात।\nसो तो होगी कूकरी, फिरै उघारै गात।।५४३।।",
+    "translation": "One who is engrossed in worldly desires and ignores the Guru's teachings will degrade to a low state, like a dog wandering with exposed flesh.",
+    "meaning": "जो व्यक्ति कामनाओं में लिप्त रहता है और गुरु की बात नहीं सुनता, वह कुत्ते के समान हो जाएगा, जो खुले शरीर के साथ घूमता है।",
+    "explanation": "इस दोहे में संत कबीर जी उन लोगों के बारे में बात कर रहे हैं जो कामनाओं में लिप्त रहते हैं और गुरु की शिक्षाओं को नजरअंदाज करते हैं। वे कहते हैं कि ऐसा व्यक्ति अपनी स्थिति को बहुत नीचे गिरा देता है, ठीक वैसे ही जैसे एक कुत्ता जो अपने शरीर को बिना किसी परवाह के खुले में छोड़ देता है। यह दोहा हमें गुरु की शिक्षाओं का पालन करने की सलाह देता है, अन्यथा हम अपने जीवन में नकारात्मक परिणामों का सामना कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

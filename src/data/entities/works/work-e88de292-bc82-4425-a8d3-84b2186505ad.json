@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e88de292-bc82-4425-a8d3-84b2186505ad",
+  "name": "मलयागिरि के वास में, वृक्ष रहे सबभोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the abode of Malaya Mountain, all trees thrive. To say that the sandalwood is the Malaya Mountain, is not correct.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मलयागिरि के वास में, वृक्ष रहे सबभोय।\nकहिबे को चंदन भए, मलयागिरि नहिं होय।।१६५६।।",
+    "translation": "In the abode of Malaya Mountain, all trees thrive. To say that the sandalwood is the Malaya Mountain, is not correct.",
+    "meaning": "मलयागिरि के निवास में, सभी पेड़ हरे-भरे रहते हैं। यह कहना कि चंदन केवल मलयागिरि है, सही नहीं है।",
+    "explanation": "कबीर इस दोहे में प्रकृति और सत्य की बात करते हैं। उन्होंने कहा कि मलयागिरि का निवास वृक्षों का ही है, और केवल चंदन को ही मलयागिरि नहीं मान सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.784Z"
+  }
+}

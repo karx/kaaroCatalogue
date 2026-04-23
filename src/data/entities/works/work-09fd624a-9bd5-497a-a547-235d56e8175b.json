@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-09fd624a-9bd5-497a-a547-235d56e8175b",
+  "name": "\"Vaishnava Jana To\"",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-narsinh-mehta"
+  },
+  "inLanguage": "Gujarati",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/\"Vaishnava_Jana_To\"",
+    "retrievedAt": "2026-01-04T18:39:15.877Z"
+  }
+}

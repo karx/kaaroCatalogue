@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c272119b-d1fb-40e6-b088-11bb391ae07c",
+  "name": "निज सुख आतम राम है, दूजा दुख अपार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The self-happiness is the soul's Ram, while the other is boundless sorrow. Through mind, speech, and actions, Kabir says, remembering is the essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निज सुख आतम राम है, दूजा दुख अपार।\nमनसा वाचा करमना, कबीर सुमिरन सार।।७५९।।",
+    "translation": "The self-happiness is the soul's Ram, while the other is boundless sorrow. Through mind, speech, and actions, Kabir says, remembering is the essence.",
+    "meaning": "स्व-सुख आत्मा में राम है, दूसरा दुख अपार है। मन, वाणी और कर्म से, कबीर कहते हैं, स्मरण ही सार है।",
+    "explanation": "इस दोहे में कबीर ने आत्मा के सुख को भगवान राम के साथ जोड़ा है और बाहरी दुख को अनंत बताया है। वे बताते हैं कि मन, वाणी और कर्म द्वारा भगवान का स्मरण सबसे महत्वपूर्ण है। जो लोग सच्चे मन से भगवान का स्मरण करते हैं, वे अपने जीवन में सुकून और शांति पाते हैं, जबकि बिना स्मरण के दुख और पीड़ा का सामना करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

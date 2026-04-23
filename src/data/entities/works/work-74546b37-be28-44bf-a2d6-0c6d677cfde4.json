@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-74546b37-be28-44bf-a2d6-0c6d677cfde4",
+  "name": "अपने पहरै जागिये, ना परि रहिये सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wake up in your own time; do not remain asleep. You do not know for a single moment whose watch you are under.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अपने पहरै जागिये, ना परि रहिये सोय।\nना जानौ छिन एक में, किसका पहिरा होय।।७३१।।",
+    "translation": "Wake up in your own time; do not remain asleep. You do not know for a single moment whose watch you are under.",
+    "meaning": "अपने समय में जागो, सोते न रहो। तुम्हें नहीं पता कि एक पल के लिए भी किसकी निगरानी में हो।",
+    "explanation": "इस दोहे में कबीर यह बताना चाहते हैं कि हमें अपने जीवन के हर पल में सचेत रहना चाहिए। नींद और आलस्य से बाहर निकलकर हमें अपने कर्मों और समय की सही पहचान करनी चाहिए। यह सच्चाई समझने की जरूरत है कि कौन हमारे जीवन की दिशा को प्रभावित कर रहा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.544Z"
+  }
+}

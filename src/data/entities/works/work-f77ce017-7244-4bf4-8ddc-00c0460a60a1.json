@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f77ce017-7244-4bf4-8ddc-00c0460a60a1",
+  "name": "अनल अकांसा घर किया, मधि निरंतर बास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The home of the fire (desire) is within, where it continuously resides. The earth and the sky are distant; faith resides beyond them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अनल अकांसा घर किया, मधि निरंतर बास।\nबसुधा ब्‍यौम बिरकत रहै, बिनठाहर बिसवास।।१८४७।।",
+    "translation": "The home of the fire (desire) is within, where it continuously resides. The earth and the sky are distant; faith resides beyond them.",
+    "meaning": "आग (इच्छा) का घर भीतर है, जहां यह लगातार निवास करता है। पृथ्वी और आकाश दूर हैं; विश्वास इनसे परे निवास करता है।",
+    "explanation": "इस दोहे में कबीर ने आंतरिक इच्छाओं और विश्वास के विषय में बात की है। वे बताते हैं कि इच्छाएं और वासनाएं हमारे भीतर रहती हैं, और उनका स्थान बाहरी संसार से अलग होता है। पृथ्वी और आकाश जैसे भौतिक तत्वों की तुलना में, सच्चा विश्वास इनसे परे होता है और इसे भीतर के आत्मिक अनुभव से प्राप्त किया जा सकता है। यह दोहा आंतरिक संतोष और विश्वास की गहराई को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.634Z"
+  }
+}

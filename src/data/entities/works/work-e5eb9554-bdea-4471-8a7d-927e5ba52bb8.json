@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e5eb9554-bdea-4471-8a7d-927e5ba52bb8",
+  "name": "रही एक की भइ अनेक की, विश्‍वा बहु भर्तारी",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What was one became many, the world has many caretakers. Kabir says, those consumed by desire will burn, many men’s wives.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रही एक की भइ अनेक की, विश्‍वा बहु भर्तारी।\nकहहिं कबिर काम संग जरिहै, बहुत पुरुष की नारी।।१६६३।।",
+    "translation": "What was one became many, the world has many caretakers. Kabir says, those consumed by desire will burn, many men’s wives.",
+    "meaning": "जो एक था वह कई हो गया, दुनिया के पास कई रखवाले हैं। कबीर कहते हैं, जो इच्छाओं से जलते हैं, वे कई पुरुषों की पत्नियाँ होंगी।",
+    "explanation": "कबीर इस दोहे में विश्व की एकता और इच्छाओं के प्रभाव को दर्शाते हैं। उन्होंने कहा कि इच्छाओं से जले हुए लोग अक्सर कई रिश्तों में उलझे रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.786Z"
+  }
+}

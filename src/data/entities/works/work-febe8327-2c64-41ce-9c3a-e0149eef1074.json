@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-febe8327-2c64-41ce-9c3a-e0149eef1074",
+  "name": "सीतलता के कारणै, नाग बिलंबे आइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Due to coolness, the snake delays coming. The body is filled with poison, where is the nectar?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सीतलता के कारणै, नाग बिलंबे आइ।\nरोम रोम विष भरि रह्मा, अमृत कहा समाइ।।१७२७।।",
+    "translation": "Due to coolness, the snake delays coming. The body is filled with poison, where is the nectar?",
+    "meaning": "ठंडक के कारण नाग विलंब से आता है। शरीर विष से भरा है, अमृत कहां समाता है?",
+    "explanation": "कबीर इस दोहे में ठंडक और विष की बात करते हैं। उन्होंने कहा कि शरीर विष से भरा होता है और ठंडक केवल एक अस्थायी स्थिति है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.073Z"
+  }
+}

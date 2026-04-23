@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-170d79ec-2fde-4233-8736-b54bff8a96c6",
+  "name": "इहां ई शंबल करि लेउ, आगे विषयी वाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In this world, if you accumulate wealth, it will only lead to a difficult path ahead. Even heaven is deserted; where there is no market for merchants.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इहां ई शंबल करि लेउ, आगे विषयी वाट।\nस्‍वर्ग बिसाहन सब चले, जहं बनिया नहि हाट।।१४५४।।",
+    "translation": "In this world, if you accumulate wealth, it will only lead to a difficult path ahead. Even heaven is deserted; where there is no market for merchants.",
+    "meaning": "इस दुनिया में, अगर तुम धन जमा करते हो, तो यह केवल एक कठिन मार्ग पर ले जाएगा। स्वर्ग भी खाली है; जहां व्यापारियों के लिए कोई बाजार नहीं है।",
+    "explanation": "कबीर इस दोहे में सांसारिक भाग्य और उसकी सच्चाई की बात करते हैं। वे बताते हैं कि इस दुनिया में धन संचय करने से एक कठिन मार्ग की ओर बढ़ते हैं, और स्वर्ग भी व्यापारियों के लिए खाली है। यह दोहा सांसारिक संपत्ति और उसकी उपयोगिता पर टिप्पणी करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.653Z"
+  }
+}

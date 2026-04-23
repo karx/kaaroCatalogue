@@ -1,0 +1,44 @@
+{
+  "@type": "Person",
+  "entityId": "poet-kabir",
+  "name": "Kabir",
+  "additionalType": "Kavi",
+  "birthDate": "1440",
+  "deathDate": "1518",
+  "knowsLanguage": "Hindi",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Varanasi"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Weaver, Poet-Saint"
+  },
+  "award": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kabir"
+  ],
+  "keywords": [
+    "Doha",
+    "Sakhi",
+    "Islamic-Hindu Synthesis",
+    "Iconoclasm"
+  ],
+  "era": "Bhakti",
+  "century": "15th Century",
+  "literaryMovement": "Nirguna Bhakti",
+  "philosophicalSchool": "Sant Mat",
+  "titles": [
+    "Weaver Saint"
+  ],
+  "abstract": "A weaver at the intersection of Hinduism and Islam. His Bijak and Sakhi Granth consist of iconoclastic couplets ridiculing blind ritualism. 'Moko kahan dhundhe re bande' encapsulates his philosophy.",
+  "majorWorks": [
+    "Bijak",
+    "Sakhi Granth"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kabir",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

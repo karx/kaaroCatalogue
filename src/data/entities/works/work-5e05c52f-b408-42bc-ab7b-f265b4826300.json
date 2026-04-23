@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5e05c52f-b408-42bc-ab7b-f265b4826300",
+  "name": "हांसी खेल हराम है, जो जन रमते राम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Laughter and play are forbidden for those who revel in Ram. The temple of illusion and women’s allure is not the work of a saint.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हांसी खेल हराम है, जो जन रमते राम।\nमाया मन्दिर इस्‍तरी, नहिं साधु का काम।।६२६।।",
+    "translation": "Laughter and play are forbidden for those who revel in Ram. The temple of illusion and women’s allure is not the work of a saint.",
+    "meaning": "हंसी-मजाक और खेल उन लोगों के लिए हराम है जो राम में रमते हैं। माया का मन्दिर और स्त्री की लुभावनता साधु का काम नहीं है।",
+    "explanation": "संत के लिए हंसी-मजाक और खेल का कोई स्थान नहीं होता, क्योंकि उनका ध्यान और समर्पण राम में होता है। माया और भौतिक सुख साधु की राह से दूर हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.002Z"
+  }
+}

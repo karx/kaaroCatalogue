@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dcf59f71-e5ac-4019-ada5-c16339be9380",
+  "name": "जहां बोल तहं अक्षर आया, जहं अक्षर तहं मनहिं डिढाया",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where there is speech, there is the word; where the word is, the mind is fixed. Speech and silence are the same; only a rare one realizes this truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां बोल तहं अक्षर आया, जहं अक्षर तहं मनहिं डिढाया।\nबोल अबोल एक है सोई, जिन एक लखा सो बिरला होई।।१५१६।।",
+    "translation": "Where there is speech, there is the word; where the word is, the mind is fixed. Speech and silence are the same; only a rare one realizes this truth.",
+    "meaning": "जहां बोल है, वहां अक्षर आता है; जहां अक्षर है, वहां मन स्थिर होता है। बोलना और मौन एक ही हैं; जिसने इस एक को समझा, वह दुर्लभ है।",
+    "explanation": "इस दोहे में कबीर यह समझाने की कोशिश कर रहे हैं कि शब्द और मौन दोनों ही सच्चाई की ओर इशारा करते हैं। बोलना और मौन रहना एक ही अवस्था है, क्योंकि दोनों ही आत्मिक शांति की ओर ले जाते हैं। केवल वही व्यक्ति इस सत्य को समझ सकता है जो आत्मज्ञान की स्थिति तक पहुँचता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.929Z"
+  }
+}

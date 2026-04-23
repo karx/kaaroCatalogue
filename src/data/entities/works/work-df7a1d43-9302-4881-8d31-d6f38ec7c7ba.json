@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-df7a1d43-9302-4881-8d31-d6f38ec7c7ba",
+  "name": "सन्त सेव गुरु बन्दगी, गुरु सुमिरन वैराग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Service to saints, devotion to the guru, and remembrance of the guru lead to renunciation. These are achieved when one is truly blessed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्त सेव गुरु बन्दगी, गुरु सुमिरन वैराग।\nये ता तबही पाइये, पूरन मस्तक भाग।।३६१।।",
+    "translation": "Service to saints, devotion to the guru, and remembrance of the guru lead to renunciation. These are achieved when one is truly blessed.",
+    "meaning": "संत की सेवा, गुरु की भक्ति और गुरु की याद से वैराग्य की प्राप्ति होती है। ये तब प्राप्त होते हैं जब कोई पूर्ण भाग्यशाली होता है।।",
+    "explanation": "इस दोहे में कबीरदास ने संतों की सेवा, गुरु की भक्ति और गुरु की याद को वैराग्य की प्राप्ति का मार्ग बताया है। यह सब पूर्ण भाग्यशाली होने पर ही संभव होता है। कबीर ने यह बताने का प्रयास किया है कि संतों और गुरु के प्रति सच्ची भक्ति और सेवा से आध्यात्मिक उन्नति और वैराग्य की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

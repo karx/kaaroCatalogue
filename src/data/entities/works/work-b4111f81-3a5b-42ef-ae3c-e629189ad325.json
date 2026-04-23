@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b4111f81-3a5b-42ef-ae3c-e629189ad325",
+  "name": "दर्पण केरी गुफा महं, सोनहा पैठे धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the cave of the mirror, gold is reflected. One sees their own image, but dies while watching.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दर्पण केरी गुफा महं, सोनहा पैठे धाय।\nदेखे प्रतिमा आपनी, भंकि भूंकि मरि जाय।।१५६४।।",
+    "translation": "In the cave of the mirror, gold is reflected. One sees their own image, but dies while watching.",
+    "meaning": "दर्पण की गुफा में सोना परावर्तित होता है। व्यक्ति अपनी छवि देखता है, लेकिन देखने में मर जाता है।",
+    "explanation": "कबीर इस दोहे में आत्म-प्रतिबिंब की बात कर रहे हैं। दर्पण की गुफा में सोने की छवि होती है, जिसका अर्थ है कि व्यक्ति अपनी ही छवि को देखता है। लेकिन इस देखने में व्यक्ति पूरी तरह खो जाता है और अंततः मर जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.207Z"
+  }
+}

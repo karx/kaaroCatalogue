@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cfa7c1e2-0bac-4c2c-9d74-b7470e5e1546",
+  "name": "गुरु को सिर राखिये, चलिये आज्ञा माहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Keep the Guru's blessings on your head and follow his commands. Kabir says that the servant who does this is fearless in all three worlds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु को सिर राखिये, चलिये आज्ञा माहिं।\nकहैं कबीर ता दास को, तीन लोक भय नहिं।।२५३।।",
+    "translation": "Keep the Guru's blessings on your head and follow his commands. Kabir says that the servant who does this is fearless in all three worlds.",
+    "meaning": "गुरु के आशीर्वाद को सिर पर रखें और उनकी आज्ञाओं का पालन करें। कबीर कहते हैं कि जो दास ऐसा करता है, उसे तीनों लोकों में कोई भय नहीं होता।",
+    "explanation": "इस दोहे में कबीर गुरु के प्रति श्रद्धा और आज्ञा पालन की महत्वता को व्यक्त करते हैं। वे कहते हैं कि यदि कोई व्यक्ति गुरु के आशीर्वाद को सिर पर रखता है और गुरु की आज्ञाओं का पालन करता है, तो उसे तीनों लोकों में किसी भी भय का सामना नहीं करना पड़ता। यह दोहा गुरु के आशीर्वाद और पालन के जीवन पर प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.127Z"
+  }
+}

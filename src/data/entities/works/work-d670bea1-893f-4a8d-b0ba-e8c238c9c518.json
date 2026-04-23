@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d670bea1-893f-4a8d-b0ba-e8c238c9c518",
+  "name": "ashk aankhon mein kab nahin aata",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ashk-aankhon-men-kab-nahiin-aataa-mir-taqi-mir-ghazals",
+    "retrievedAt": "2026-01-04T20:25:28.531Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ashk-aankhon-men-kab-nahiin-aataa-mir-taqi-mir-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nashk āñkhoñ meñ kab nahīñ aatā\nlohū aatā hai jab nahīñ aatā\nhosh jaatā nahīñ rahā lekin\njab vo aatā hai tab nahīñ aatā\nsabr thā ek monis-e-hijrāñ\nso vo muddat se ab nahīñ aatā\ndil se ruḳhsat huī koī ḳhvāhish\ngirya kuchh be-sabab nahīñ aatā\nishq ko hausla hai shart arna\nbaat kā kis ko Dhab nahīñ aatā\njī meñ kyā kyā hai apne ai hamdam\npar suḳhan tā-ba-lab nahīñ aatā\nduur baiThā ġhubār-e-'mīr' us se\nishq bin ye adab nahīñ aatā\nashk aankhon mein kab nahin aata\nlohu aata hai jab nahin aata\nhosh jata nahin raha lekin\njab wo aata hai tab nahin aata\nsabr tha ek monis-e-hijran\nso wo muddat se ab nahin aata\ndil se ruKHsat hui koi KHwahish\ngirya kuchh be-sabab nahin aata\nishq ko hausla hai shart arna\nbaat ka kis ko Dhab nahin aata\nji mein kya kya hai apne ai hamdam\npar suKHan ta-ba-lab nahin aata\ndur baiTha ghubar-e-'mir' us se\nishq bin ye adab nahin aata",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nاشک آنکھوں میں کب نہیں آتا\nلوہو آتا ہے جب نہیں آتا\nہوش جاتا نہیں رہا لیکن\nجب وہ آتا ہے تب نہیں آتا\nصبر تھا ایک مونس ہجراں\nسو وہ مدت سے اب نہیں آتا\nدل سے رخصت ہوئی کوئی خواہش\nگریہ کچھ بے سبب نہیں آتا\nعشق کو حوصلہ ہے شرط ارنہ\nبات کا کس کو ڈھب نہیں آتا\nجی میں کیا کیا ہے اپنے اے ہمدم\nپر سخن تا بلب نہیں آتا\nدور بیٹھا غبار میرؔ اس سے\nعشق بن یہ ادب نہیں آتا",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nअश्क आँखों में कब नहीं आता\nलोहू आता है जब नहीं आता\nहोश जाता नहीं रहा लेकिन\nजब वो आता है तब नहीं आता\nसब्र था एक मोनिस-ए-हिज्राँ\nसो वो मुद्दत से अब नहीं आता\nदिल से रुख़्सत हुई कोई ख़्वाहिश\nगिर्या कुछ बे-सबब नहीं आता\nइश्क़ को हौसला है शर्त अर्ना\nबात का किस को ढब नहीं आता\nजी में क्या क्या है अपने ऐ हमदम\nपर सुख़न ता-ब-लब नहीं आता\nदूर बैठा ग़ुबार-ए-'मीर' उस से\nइश्क़ बिन ये अदब नहीं आता",
+    "lastUpdated": "2026-01-04T20:25:54.686Z"
+  }
+}

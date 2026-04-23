@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-qo00q",
+  "name": "🔴 Isolation Stream #1: Solving The NYT Crossword for funzies",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT1H13S",
+  "embedUrl": "https://www.youtube.com/embed/Z2xymqJwrI0",
+  "contentUrl": "https://www.youtube.com/watch?v=Z2xymqJwrI0",
+  "uploadDate": "2021-07-12",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Z2xymqJwrI0/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "I've been obsessed with the NYT Crossword for the last two weeks. I'm not great, but I still spend way too much time on the damn thing, so now you must waste it with me. This is the way.",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

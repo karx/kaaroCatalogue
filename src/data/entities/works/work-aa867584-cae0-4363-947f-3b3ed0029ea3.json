@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aa867584-cae0-4363-947f-3b3ed0029ea3",
+  "name": "Gora",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Novel tackling social and political issues.",
+  "keywords": [],
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "retrievedAt": "2026-02-05T19:43:58.719Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f9ac4561-fda6-4775-9d12-220cab27eeb0",
+  "name": "सोया साधु जगाइए, करे नाम का जाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wake up a sleeping saint to chant the name of God. But let these three sleep: the worldly, the lion, and the snake.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोया साधु जगाइए, करे नाम का जाप।\nये तीनों सोए भले, साकत, सिंह, और साँप।।२३।।",
+    "translation": "Wake up a sleeping saint to chant the name of God. But let these three sleep: the worldly, the lion, and the snake.",
+    "meaning": "सोए हुए साधु को जागृत करके नाम का जाप कराओ। लेकिन इन तीनों को सोने दो: सांसारिक व्यक्ति, सिंह और साँप।",
+    "explanation": "इस दोहे में संत कबीर कहते हैं कि साधु पुरुषों को जागृत करके उन्हें भगवान के नाम का जाप कराना चाहिए, लेकिन सांसारिक व्यक्ति, सिंह और साँप को सोने देना ही बेहतर है क्योंकि इनसे जागने पर हानि हो सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

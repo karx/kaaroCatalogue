@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e88130de-dc02-4c80-8ba4-e80a1a4f5a01",
+  "name": "कबीर जो दिन आज है, सो दिन नांहि काल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the day that is today is not the same as tomorrow. If you can, realize this now, as the moment is slipping away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर जो दिन आज है, सो दिन नांहि काल।\nचेति सके तो चेति ले, मीच परी है ख्‍याल।।८४२।।",
+    "translation": "Kabir says, the day that is today is not the same as tomorrow. If you can, realize this now, as the moment is slipping away.",
+    "meaning": "कबीर कहते हैं, जो दिन आज है, वह कल वही नहीं होगा। यदि संभव हो, तो इसे अब समझो, क्योंकि पल जल्दी गुजर जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने समय की अनिश्चितता को व्यक्त किया है। वर्तमान दिन की महत्वता को समझना चाहिए, क्योंकि भविष्य में यही दिन नहीं रहेगा। यह दोहा हमें समय की मूल्यवत्ता और क्षणिकता का एहसास कराता है, जिससे हम वर्तमान को सही तरीके से जी सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.082Z"
+  }
+}

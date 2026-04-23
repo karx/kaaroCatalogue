@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7e084961-68fc-4302-9390-7c40da77cc99",
+  "name": "ज्ञान रत्‍न की कोठरी, चुम्‍बक दिया है ताल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The treasury of knowledge is like a strong box with a magnetic lock. Only an expert can open it with the key of meaningful words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञान रत्‍न की कोठरी, चुम्‍बक दिया है ताल।\nपारखी आगे खालिये, कुंजी बचन रसाल।।१५४६।।",
+    "translation": "The treasury of knowledge is like a strong box with a magnetic lock. Only an expert can open it with the key of meaningful words.",
+    "meaning": "ज्ञान का खजाना एक मजबूत ताले के साथ चुम्बक की तरह है। केवल एक विशेषज्ञ ही इसका कुंजी, यानी महत्वपूर्ण शब्दों से, खोल सकता है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि ज्ञान की गहराई और महत्व एक ऐसे खजाने की तरह है जिसे समझने के लिए विशेष ज्ञान और समझ की आवश्यकता होती है। यह ताले की तरह है जिसमें एक विशेषज्ञ ही सही कुंजी (सही शब्द) से प्रवेश कर सकता है। इस प्रकार, ज्ञान प्राप्त करने के लिए सही मार्गदर्शन और समझ की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.935Z"
+  }
+}

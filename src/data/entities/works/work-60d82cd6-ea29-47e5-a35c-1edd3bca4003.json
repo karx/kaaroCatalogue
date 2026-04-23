@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60d82cd6-ea29-47e5-a35c-1edd3bca4003",
+  "name": "कबीर एक न जांणियां, तौ बहु जाण्‍यां क्‍या होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one does not know the One, what can knowing many achieve? From the One comes all, yet all cannot be the One.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर एक न जांणियां, तौ बहु जाण्‍यां क्‍या होइ।\nएक तैं सब होत है, सब तैं एक न होइ।।१८३६।।",
+    "translation": "If one does not know the One, what can knowing many achieve? From the One comes all, yet all cannot be the One.",
+    "meaning": "अगर कोई एक को नहीं जानता, तो कई चीजों को जानने का क्या लाभ है? एक से सब कुछ उत्पन्न होता है, लेकिन सब कुछ एक नहीं हो सकता।",
+    "explanation": "इस दोहे में कबीर ने एकता और अखंडता के महत्व को बताया है। उनका कहना है कि जो एक परम सत्य (ईश्वर) को नहीं जानता, वह कई चीजों को जानने से कुछ हासिल नहीं कर सकता। सभी वस्तुएं एक से उत्पन्न होती हैं, लेकिन सभी वस्तुएं उस एकता में विलीन नहीं हो सकतीं। यह दोहा सच्चे ज्ञान और एकता की पहचान को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.630Z"
+  }
+}

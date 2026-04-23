@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b9bde6a8-9b21-422a-86ec-8b8c0a584ce6",
+  "name": "पाइ पदारथ पेलि करि, कंकर लीया हाथि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Having obtained the treasure, I took a pebble in my hand. The pair of separated swans found it and rested by the riverbank.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाइ पदारथ पेलि करि, कंकर लीया हाथि।\nजोड़ी बिछुटी हंस की, पड्या बंगा कै साथि।।१९७५।।",
+    "translation": "Having obtained the treasure, I took a pebble in my hand. The pair of separated swans found it and rested by the riverbank.",
+    "meaning": "खजाना प्राप्त कर लेने के बाद, मैंने एक कंकर अपने हाथ में ले लिया। बिछड़े हुए हंसों ने उसे पाया और नदी के किनारे विश्राम किया।",
+    "explanation": "इस दोहे में कबीर ने वास्तविकता और भ्रम के बीच अंतर को स्पष्ट किया है। भौतिक वस्तुओं की प्राप्ति के बाद, व्यक्ति किसी साधारण चीज को भी अनमोल मान सकता है। यहाँ 'बिछड़े हंस' का संदर्भ बताता है कि सच्ची पहचान और आत्मज्ञान के बाद, साधारण चीजें भी महत्वपूर्ण हो जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.533Z"
+  }
+}

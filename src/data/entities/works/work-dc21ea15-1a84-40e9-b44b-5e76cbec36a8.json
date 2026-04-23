@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc21ea15-1a84-40e9-b44b-5e76cbec36a8",
+  "name": "पशुआ सों पालो परो, रहू-रहू हिया न खीज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Raise and nurture even animals, but do not lose patience. Seeds sown in barren land will not grow, even if you sow twice as much.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पशुआ सों पालो परो, रहू-रहू हिया न खीज।\nऊसर बीज न उगसी, बोवै दूना बीज।।२९९।।",
+    "translation": "Raise and nurture even animals, but do not lose patience. Seeds sown in barren land will not grow, even if you sow twice as much.",
+    "meaning": "पशुओं को पालें और उनका ध्यान रखें, लेकिन धैर्य न खोएं। बंजर जमीन में बोए गए बीज नहीं उगेंगे, चाहे आप दोगुने बीज क्यों न बोएं।",
+    "explanation": "इस दोहे में कबीर धैर्य और समझदारी का महत्व बताते हैं। वे कहते हैं कि किसी भी कार्य को करते समय धैर्य रखना आवश्यक है। बिना धैर्य के कोई भी कार्य सफल नहीं हो सकता, ठीक वैसे ही जैसे बंजर भूमि में बीज बोने से फसल नहीं उगती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.130Z"
+  }
+}

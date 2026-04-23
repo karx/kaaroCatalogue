@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-074031ec-ed85-4591-afab-0f7dab3ca537",
+  "name": "अनमाँगा उत्तम कहा, मध्यम माँगि जो लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Not asking is the best; asking and receiving is average. Kabir says, asking for something lowers one's dignity.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अनमाँगा उत्तम कहा, मध्यम माँगि जो लेय।\nकहैं कबीर निकृष्टि सो, पर धर धरना देय।।३७६।।",
+    "translation": "Not asking is the best; asking and receiving is average. Kabir says, asking for something lowers one's dignity.",
+    "meaning": "अनमाँगना सर्वोत्तम है; माँगना और प्राप्त करना सामान्य है। कबीर कहते हैं कि कुछ माँगना मानवीय गरिमा को कम करता है।",
+    "explanation": "इस दोहे में कबीर दास जी बताते हैं कि अनमाँगना सबसे अच्छा है, जबकि कुछ माँगना और प्राप्त करना केवल औसत स्थिति है। माँगने से व्यक्ति की गरिमा कम होती है और उसकी आत्म-संमान में कमी आती है। कबीर जी के अनुसार, माँगना मानवीय गरिमा को घटाता है, और इसलिए हमें आत्म-निर्भर रहकर अपने सम्मान को बनाए रखना चाहिए। यह दोहा हमें स्वाभिमान और आत्म-सम्मान को महत्व देने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

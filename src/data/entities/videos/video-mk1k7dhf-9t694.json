@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7dhf-9t694",
+  "name": "Aamir Khan beat me (in chess)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-samay-raina"
+  },
+  "duration": "PT53S",
+  "embedUrl": "https://www.youtube.com/embed/Ak5mIpveUbs",
+  "contentUrl": "https://www.youtube.com/watch?v=Ak5mIpveUbs",
+  "uploadDate": "2025-07-01",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Ak5mIpveUbs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Samay Raina",
+  "aggregatorChannel": null
+}

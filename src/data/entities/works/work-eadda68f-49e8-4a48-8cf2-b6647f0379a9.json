@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eadda68f-49e8-4a48-8cf2-b6647f0379a9",
+  "name": "संगति के सुख ऊपजे, कुसंगति के दुख होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Happiness arises from good association, and misery from bad association. One who can discern this is wise and free from doubts.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संगति के सुख ऊपजे, कुसंगति के दुख होय।\nसंसय खंडे जो जना, जो शब्‍द विवेकी होय।।१६८२।।",
+    "translation": "Happiness arises from good association, and misery from bad association. One who can discern this is wise and free from doubts.",
+    "meaning": "अच्छी संगति से सुख मिलता है, और बुरी संगति से दुख। जो इसको समझ सकता है, वह बुद्धिमान होता है और संदेहों से मुक्त होता है।",
+    "explanation": "कबीर इस दोहे में संगति के प्रभाव की बात करते हैं। उन्होंने कहा कि अच्छी संगति सुख देती है, और बुरी संगति दुख, और जो इसका विवेचन कर सकता है वह सच्चा ज्ञानी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.789Z"
+  }
+}

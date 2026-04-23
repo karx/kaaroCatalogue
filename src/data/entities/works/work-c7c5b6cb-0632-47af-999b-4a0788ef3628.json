@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c7c5b6cb-0632-47af-999b-4a0788ef3628",
+  "name": "औसर बीता अल्‍पतन, पीव रहा परदेश",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The time of youth has passed, and my beloved remains far away. O Lord, remove the stain of doubt and deception.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "औसर बीता अल्‍पतन, पीव रहा परदेश।\nकलंक उतारो रामजी, भानो भरम अंदेश।।२१९७।।",
+    "translation": "The time of youth has passed, and my beloved remains far away. O Lord, remove the stain of doubt and deception.",
+    "meaning": "यौवन का समय बीत गया है, और मेरे प्रियजन दूर परदेश में हैं। हे रामजी, संदेह और भ्रम का कलंक मिटा दें।",
+    "explanation": "इस दोहे में संत कबीर जी जीवन की क्षणभंगुरता और भगवान से दूरी के कारण उत्पन्न पीड़ा को व्यक्त कर रहे हैं। वे भगवान से प्रार्थना करते हैं कि वे उनके जीवन से संदेह और भ्रम को दूर करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.734Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4635a585-29d9-43d1-a014-8daf2bb54779",
+  "name": "चंचल मन निहचल करै, फिर‍ि फिरि नाम लगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the restless mind becomes still and repeats the name of the Lord, both body and mind are controlled, and nothing is lost.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चंचल मन निहचल करै, फिर‍ि फिरि नाम लगाय।\nतन मन दोउ बसि करै, ताका कछु नहिं जाय।।१११५।।",
+    "translation": "When the restless mind becomes still and repeats the name of the Lord, both body and mind are controlled, and nothing is lost.",
+    "meaning": "जब चंचल मन स्थिर हो जाता है और बार-बार भगवान का नाम लेता है, तो तन और मन दोनों नियंत्रित हो जाते हैं, और कुछ भी नहीं खोता।",
+    "explanation": "इस दोहे में कबीर ने मन की स्थिरता और भगवान के नाम की महत्ता को बताया है। जब मन की चंचलता को समाप्त किया जाता है और नियमित रूप से भगवान का नाम लिया जाता है, तो शरीर और मन दोनों नियंत्रित होते हैं। इसका अर्थ है कि जब मन और शरीर पर नियंत्रण होता है, तब कुछ भी खोता नहीं है। यह ध्यान और साधना की प्रभावशीलता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

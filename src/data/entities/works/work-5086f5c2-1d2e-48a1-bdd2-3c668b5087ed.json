@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5086f5c2-1d2e-48a1-bdd2-3c668b5087ed",
+  "name": "आतम दृष्टि जानै नहीं, न्‍हावै प्रात:काल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He doesn't understand the vision of the self, but bathes early in the morning to maintain his social reputation, carrying the illusion on his forehead.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आतम दृष्टि जानै नहीं, न्‍हावै प्रात:काल।\nलोकलाज लिया रहे, लागा भरम कपाल।।१३६०।।",
+    "translation": "He doesn't understand the vision of the self, but bathes early in the morning to maintain his social reputation, carrying the illusion on his forehead.",
+    "meaning": "वह आत्मदृष्टि को नहीं जानता, लेकिन समाज में अपनी प्रतिष्ठा बनाए रखने के लिए सुबह-सुबह स्नान करता है, और भ्रम को अपने माथे पर धारण करता है।",
+    "explanation": "इस दोहे में कबीर जी उन लोगों की आलोचना करते हैं जो आत्मज्ञान या आत्मदृष्टि को नहीं समझते और केवल समाज में अपनी छवि बनाए रखने के लिए धार्मिक क्रियाएँ करते हैं। वे सुबह-सुबह स्नान जैसे कर्मकांड करते हैं ताकि लोग उन्हें धार्मिक मानें, लेकिन वे अपने मन में भ्रम और अज्ञानता को धारण किए रहते हैं। कबीर जी का संदेश है कि बाहरी क्रियाओं से कुछ नहीं होता जब तक कि मनुष्य आत्मज्ञान और सच्चाई को नहीं समझता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.084Z"
+  }
+}

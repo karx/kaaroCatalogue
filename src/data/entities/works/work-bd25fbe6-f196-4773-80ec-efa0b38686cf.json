@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bd25fbe6-f196-4773-80ec-efa0b38686cf",
+  "name": "एक दिन ऐसा होयगा, सब सों परै बिछोह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One day, there will be separation from everyone. Why are not the kings, nobles, and common people alert?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "एक दिन ऐसा होयगा, सब सों परै बिछोह।\nराजा राना राव रंक, सावधान क्‍यों नहिं होय।।९३८।।",
+    "translation": "One day, there will be separation from everyone. Why are not the kings, nobles, and common people alert?",
+    "meaning": "एक दिन ऐसा आएगा जब सभी से बिछोह हो जाएगा। राजा, राणा, राव और रंक सभी को सावधान क्यों नहीं रहना चाहिए?",
+    "explanation": "कबीर इस दोहे में बिछोह और मृत्यु की अपरिहार्यता को दर्शाते हैं। उन्होंने कहा कि एक दिन ऐसा आएगा जब सभी को एक दूसरे से बिछोह का सामना करना पड़ेगा, चाहे वे राजा हों या रंक। यह दोहा लोगों को चेतावनी देता है कि हमें अपनी जीवन की सच्चाई को समझना चाहिए और मृत्यु और बिछोह की वास्तविकता को स्वीकार कर सावधान रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

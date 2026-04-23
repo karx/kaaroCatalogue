@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e597773f-9689-4086-88a5-fd49857fcc98",
+  "name": "सांच कहूं तो मारि हैं, झूठे जग पतियाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If I speak the truth, I am punished; falsehood is accepted in this world. This world is like a black bitch; whoever provokes it will suffer.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांच कहूं तो मारि हैं, झूठे जग पतियाय।\nयह जग काली कूतरी, जो छेड़े तो खाय।।१४२०।।",
+    "translation": "If I speak the truth, I am punished; falsehood is accepted in this world. This world is like a black bitch; whoever provokes it will suffer.",
+    "meaning": "अगर मैं सच्चाई बोलूं, तो मुझे सजा मिलती है; झूठ को इस दुनिया में स्वीकार किया जाता है। यह दुनिया काली कुत्ती की तरह है; जो इसे छेड़ेगा, वह सजा पाएगा।",
+    "explanation": "कबीर इस दोहे में सच्चाई बोलने के परिणाम और समाज की सच्चाई को उजागर करते हैं। वे कहते हैं कि सच्चाई बोलने पर दंड मिलता है, जबकि झूठ को स्वीकार कर लिया जाता है। इस दुनिया की तुलना एक काली कुत्ती से करते हुए, वे चेतावनी देते हैं कि जो इस दुनिया को चुनौती देगा, उसे नकारात्मक परिणाम भुगतने पड़ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.361Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-gaurav-gupta",
+  "name": "Gaurav Gupta",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "hi",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Gaurav_Gupta",
+    "https://www.youtube.com/channel/UCkv2ml-PB1ZKPGfR7XowRSA"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gaurav_Gupta",
+    "retrievedAt": "2026-01-17T19:50:46.131Z"
+  }
+}

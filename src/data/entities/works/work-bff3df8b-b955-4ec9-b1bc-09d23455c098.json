@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bff3df8b-b955-4ec9-b1bc-09d23455c098",
+  "name": "शिर राखे शिर जात है, शिर काटै शिर होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "He who keeps his head safe maintains his dignity, while one who loses his head loses his honor. Like a lamp's wick, he who cuts it makes the light shine bright.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शिर राखे शिर जात है, शिर काटै शिर होय।\nउसे बाती दीप की, कटि उजियारा जोय।।२०९८।।",
+    "translation": "He who keeps his head safe maintains his dignity, while one who loses his head loses his honor. Like a lamp's wick, he who cuts it makes the light shine bright.",
+    "meaning": "जो सिर को सुरक्षित रखता है, वह अपनी गरिमा बनाए रखता है, और जो सिर खो देता है, उसकी इज्जत चली जाती है। जैसे दीपक की बाती को काटने से प्रकाश तेज होता है।",
+    "explanation": "इस दोहे में कबीर ने सिर की सुरक्षा और उसकी गरिमा को महत्वपूर्ण बताया है। अगर कोई व्यक्ति अपनी गरिमा और आत्म-संयम बनाए रखता है, तो वह सम्मानित रहता है। जो अपने आत्म-संयम को खो देता है, उसकी प्रतिष्ठा समाप्त हो जाती है। दीपक की बाती की तरह, जो अपने भीतर की रोशनी को नियंत्रित करता है, वह उजियारा बढ़ता है। यह दोहा आत्म-संयम और गरिमा के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.100Z"
+  }
+}

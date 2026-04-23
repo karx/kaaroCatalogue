@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fc42a50e-bb53-478c-8227-0e7accfa92af",
+  "name": "लिखा पढ़ी में सब पड़े, यह गुन तजै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone is lost in reading and writing, but no one leaves this habit. They are all trapped in a web of illusions, losing their minds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लिखा पढ़ी में सब पड़े, यह गुन तजै न कोय।\nसबै पड़े भ्रम जाल में, डारा यह जिय खोय।।१३६३।।",
+    "translation": "Everyone is lost in reading and writing, but no one leaves this habit. They are all trapped in a web of illusions, losing their minds.",
+    "meaning": "हर कोई पढ़ाई-लिखाई में उलझा हुआ है, लेकिन कोई भी इस आदत को नहीं छोड़ता। वे सभी भ्रम के जाल में फंसे हुए हैं और अपना मन खो देते हैं।",
+    "explanation": "कबीर जी इस दोहे में कहते हैं कि अधिकांश लोग पढ़ाई-लिखाई में उलझे रहते हैं और ज्ञान प्राप्त करने के प्रयास में रहते हैं, लेकिन वे सच्चे ज्ञान से दूर हो जाते हैं। यह पढ़ाई-लिखाई एक भ्रम की स्थिति उत्पन्न करती है, जिससे व्यक्ति अपने असली स्वरूप को भूल जाता है। कबीर का यह संदेश है कि सच्चा ज्ञान केवल पुस्तकों से नहीं, बल्कि आत्मा की समझ और अनुभव से प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.085Z"
+  }
+}

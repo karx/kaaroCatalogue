@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e3b3ff0-4a3f-4b78-afef-811af9a6a18e",
+  "name": "सूता साधु जगाइये, करै ब्रह्म को जाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wake up the sleeping saint and make him chant the name of Brahma. But do not wake up these three: the miser, the lion, and the snake.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूता साधु जगाइये, करै ब्रह्म को जाप।\nये तीनों न जगाइये, साकट सिंह अरु सांप।।५५५।।",
+    "translation": "Wake up the sleeping saint and make him chant the name of Brahma. But do not wake up these three: the miser, the lion, and the snake.",
+    "meaning": "सोए हुए साधु को जगाइये और ब्रह्मा का जाप कराइये। लेकिन इन तीनों को मत जगाइये: कंजूस, शेर और साँप।",
+    "explanation": "इस दोहे में कबीर जी ने कहा है कि सोए हुए साधु को जागृत करना और उसे ब्रह्मा का जाप कराना चाहिए। हालांकि, कंजूस, शेर और साँप को नहीं जगाना चाहिए क्योंकि ये सभी खतरनाक हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

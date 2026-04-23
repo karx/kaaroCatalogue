@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-536b4442-e98c-488d-b33a-b6d53b3933df",
+  "name": "कबीर अब तो ऐसा भया, निरमोलिक निज नाऊं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir has now become such, his own self is priceless. Previously, he was like glass, wandering from place to place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर अब तो ऐसा भया, निरमोलिक निज नाऊं।\nपहली कांच कबीर था, फिरता ठांवैं ठाऊं।।१४३१।।",
+    "translation": "Kabir has now become such, his own self is priceless. Previously, he was like glass, wandering from place to place.",
+    "meaning": "कबीर अब ऐसे हो गए हैं कि उनका अपना अस्तित्व अमूल्य है। पहले वे कांच के समान थे, स्थान-स्थान पर भटकते रहते थे।",
+    "explanation": "कबीर इस दोहे में अपने आध्यात्मिक परिवर्तन का वर्णन करते हैं। वे बताते हैं कि अब उनका अस्तित्व अमूल्य है, जबकि पहले वे कांच के समान अस्थिर और भटकते हुए थे। यह दोहा उनके आत्मा की उन्नति और स्थिरता की ओर संकेत करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.364Z"
+  }
+}

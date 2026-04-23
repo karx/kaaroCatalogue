@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd8eb0e4-a942-405b-8129-c131f5158402",
+  "name": "पानी केरा बुदबुदा, अस मानुष की जात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bubbles of water are like the human race. They will disappear as soon as they are seen, like stars at dawn.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पानी केरा बुदबुदा, अस मानुष की जात।\nदेखत ही छिप जाएगा, ज्‍यौं तारा प्रभात।।९३३।।",
+    "translation": "The bubbles of water are like the human race. They will disappear as soon as they are seen, like stars at dawn.",
+    "meaning": "पानी के बुलबुले मानव जाति के समान हैं। वे जैसे ही देखे जाते हैं, गायब हो जाते हैं, जैसे सुबह के तारे।",
+    "explanation": "कबीर इस दोहे में जीवन की क्षणिक��ा को दर्शाते हैं। वे पानी के बुलबुले की तुलना मानव जाति से करते हैं, जो बहुत जल्दी गायब हो जाती है। जैसे तारे सुबह के समय छिप जाते हैं, वैसे ही मानव जीवन भी अस्थिर और क्षणिक होता है। यह दोहा इस तथ्य को उजागर करता है कि हमें अपने जीवन की वास्तविकता को समझना चाहिए और उसकी क्षणिकता को स्वीकार करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.627Z"
+  }
+}

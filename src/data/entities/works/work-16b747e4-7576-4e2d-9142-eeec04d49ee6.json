@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16b747e4-7576-4e2d-9142-eeec04d49ee6",
+  "name": "Moko Kahan Dhundhe Re Bande",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Bhajan",
+  "abstract": "Where do you search for me, O seeker? I am right beside you\nNot in pilgrimages, not in idols, not in solitary dwelling\nNot in temples, not in mosques, not in Kaaba or Kailash\nNot in rituals, not in au...",
+  "content": {
+    "original": "मोको कहाँ ढूँढे रे बंदे, मैं तो तेरे पास में\nन तीरथ में न मूरत में, न एकांत निवास में\nन मंदिर में न मस्जिद में, न काबे कैलाश में\nन मैं जप में न मैं तप में, न मैं बरत उपास में\nन मैं किरिया करम में रहता, नहिं जोग संन्यास में\nखोजी होए तो तुरतै मिलिहौं, पल भर की तलास में\nकहैं कबीर सुनो भाई साधो, सब स्वाँसों की स्वाँस में",
+    "transliteration": "Moko kahan dhundhe re bande, main to tere paas mein\nNa tirath mein na murat mein, na ekant niwas mein\nNa mandir mein na masjid mein, na kabe kailash mein\nNa main jap mein na main tap mein, na main barat upas mein\nNa main kiriya karam mein rehta, nahin jog sanyas mein\nKhoji hoe to turtai milihaun, pal bhar ki talas mein\nKahe Kabir suno bhai sadho, sab swaanson ki swaans mein",
+    "translation": "Where do you search for me, O seeker? I am right beside you\nNot in pilgrimages, not in idols, not in solitary dwelling\nNot in temples, not in mosques, not in Kaaba or Kailash\nNot in rituals, not in austerities, not in fasting\nNot in actions or ceremonies, not in yoga or renunciation\nIf you truly seek, you will find me in an instant\nSays Kabir, listen O seeker, I am in every breath you take"
+  },
+  "keywords": [
+    "Bhajan",
+    "Hindi"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.008Z"
+  }
+}

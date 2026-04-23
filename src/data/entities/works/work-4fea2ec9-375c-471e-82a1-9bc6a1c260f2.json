@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4fea2ec9-375c-471e-82a1-9bc6a1c260f2",
+  "name": "तीनि लोक टीड़ी भया, उड़े जो मन के साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All three worlds are like a net, and they move with the mind. Only Hari (God) knows without wandering, but time captures everyone.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीनि लोक टीड़ी भया, उड़े जो मन के साथ।\nहरि जाने बिनु भटके, पर काल के हाथ।।१५५८।।",
+    "translation": "All three worlds are like a net, and they move with the mind. Only Hari (God) knows without wandering, but time captures everyone.",
+    "meaning": "तीन लोक एक जाल के समान हैं, और ये मन के साथ चलते हैं। केवल हरि जानता है बिना भटके, लेकिन काल सभी को पकड़ लेता है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि तीनों लोक (भूत, वर्तमान और भविष्य) एक जाल की तरह हैं जो मन के साथ चलते हैं। केवल भगवान (हरि) ही बिना भटके इस जाल को समझ सकते हैं। समय (काल) सबको अपने जाल में फँसा लेता है, जो सभी को अंततः प्रभावित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.206Z"
+  }
+}

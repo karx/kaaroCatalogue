@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-260b100a-d865-42e3-9f48-b689e7d10760",
+  "name": "राम रहे बन भीतरे, गुरु की पूजा न आस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if Lord Ram resides in the forest, there is no hope in worshiping a false guru. Kabir says, all hypocrisy leads to disappointment.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम रहे बन भीतरे, गुरु की पूजा न आस।\nकहै कबीर पाखंड सब, झूठे सदा निराश।।२९।।",
+    "translation": "Even if Lord Ram resides in the forest, there is no hope in worshiping a false guru. Kabir says, all hypocrisy leads to disappointment.",
+    "meaning": "यदि भगवान राम जंगल में भी रहते हैं, तो झूठे गुरु की पूजा करने से कोई लाभ नहीं। कबीर कहते हैं कि सभी पाखण्ड अंत में निराशा ही लाते हैं।",
+    "explanation": "यह दोहा उन लोगों के लिए एक चेतावनी है जो झूठे गुरु या पाखंड के रास्ते पर चलते हैं। संत कबीर कहते हैं कि भगवान राम के मार्ग पर चलने से ही सच्ची शांति प्राप्त होती है, न कि पाखंड या झूठी आस्था से।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

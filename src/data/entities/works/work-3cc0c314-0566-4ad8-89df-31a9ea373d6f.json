@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3cc0c314-0566-4ad8-89df-31a9ea373d6f",
+  "name": "कबीर संगति साध की, कदे न निष्‍फल होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The company of the virtuous is never fruitless. Even sandalwood, if applied, will not diminish its fragrance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर संगति साध की, कदे न निष्‍फल होइ।\nचंदन होसी बांवना, नीव न कहसी कोइ।।२००८।।",
+    "translation": "The company of the virtuous is never fruitless. Even sandalwood, if applied, will not diminish its fragrance.",
+    "meaning": "साधु की संगति कभी भी निष्फल नहीं होती। चंदन की सुगंध, जब लगा दी जाती है, तो उसकी खुशबू कम नहीं होती।",
+    "explanation": "इस दोहे में कबीर ने साधु और अच्छे लोगों की संगति के महत्व को समझाया है। उन्होंने कहा है कि साधु की संगति हमेशा फलदायी होती है, जैसे चंदन की खुशबू कभी भी कम नहीं होती। यह संगति व्यक्ति को आध्यात्मिक लाभ और समृद्धि देती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.802Z"
+  }
+}

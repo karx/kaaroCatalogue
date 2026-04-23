@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-kenny-sebastian",
+  "name": "Kenny Sebastian",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Kenny_Sebastian",
+    "https://www.youtube.com/channel/UCzNq9i-DlDDBLjPerVzJW-A"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kenny_Sebastian",
+    "retrievedAt": "2026-01-04T21:11:08.929Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk08978i-x5pz1",
+  "name": "Bombay Indore | Stand-Up Comedy by Kunal Kamra",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-kunal-kamra"
+  },
+  "duration": "PT5M33S",
+  "embedUrl": "https://www.youtube.com/embed/yJfO-F2PjK4",
+  "contentUrl": "https://www.youtube.com/watch?v=yJfO-F2PjK4",
+  "uploadDate": "2017-04-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/yJfO-F2PjK4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Kunal Kamra on Bombay Indore.\n\nSubscribe to the channel for more videos. \n\nVenue: - Tuning Fork, Mumbai.\n\nShot by: - Nishant Thawrani (Tuning Fork Studios)\n\nEdited by: - Suraj Jagtap (After Studios) \n\nSound recording mixing mastering: - Sohaill Gandhi (Tuning Fork Studios)",
+  "channelTitle": "Kunal Kamra",
+  "aggregatorChannel": null
+}

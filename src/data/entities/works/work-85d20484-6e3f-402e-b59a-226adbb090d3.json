@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-85d20484-6e3f-402e-b59a-226adbb090d3",
+  "name": "निहकामी निरमल दशा, नित चरणों की आश",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who is free from desires and maintains a pure state, always hoping for the Guru's presence, performs pilgrimage as a true devotee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निहकामी निरमल दशा, नित चरणों की आश।\nतीरथ इच्‍छा ता करै, कब आवै वे दास।।६८८।।",
+    "translation": "One who is free from desires and maintains a pure state, always hoping for the Guru's presence, performs pilgrimage as a true devotee.",
+    "meaning": "जो व्यक्ति इच्छाओं से मुक्त और शुद्ध अवस्था में रहता है, हमेशा गुरु की उपस्थिति की आशा करता है, वही सच्चे भक्त के रूप में तीर्थ यात्रा करता है।",
+    "explanation": "कबीर इस दोहे में तीर्थ यात्रा और शुद्धता के बारे में बताते हैं। सच्चा भक्त वह होता है जो इच्छाओं से मुक्त और शुद्ध स्थिति में रहता है और गुरु की उपस्थिति की आशा करता है। तीर्थ यात्रा करने की वास्तविक भावना यही है, और ऐसे व्यक्ति को सच्चा भक्त माना जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

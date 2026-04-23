@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c8116824-5aac-470f-a44d-3a684d42b74a",
+  "name": "मन गोरख मन गोविंद, मन ही औघड़ सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is like Gorakh, the mind is like Govind; it is indeed a wandering ascetic. The one who diligently maintains the mind, becomes the doer himself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन गोरख मन गोविंद, मन ही औघड़ सोय।\nजो मन राखै जतन करि, आपै करता होय।।११३४।।",
+    "translation": "The mind is like Gorakh, the mind is like Govind; it is indeed a wandering ascetic. The one who diligently maintains the mind, becomes the doer himself.",
+    "meaning": "मन गोरख की तरह है, मन गोविंद की तरह है; यह वास्तव में एक आवारा तपस्वी है। जो व्यक्ति मन को अच्छे से संभालता है, वही स्वयं कार्य करता है।",
+    "explanation": "इस दोहे में कबीर ने मन की प्रकृति और उसकी देखभाल की आवश्यकता को व्यक्त किया है। उन्होंने बताया है कि जो व्यक्ति अपने मन को सही ढंग से नियंत्रित करता है, वही आत्मा को सही मार्ग पर ले जाता है और खुद को सच्चा कार्यकर्ता बनाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.705Z"
+  }
+}

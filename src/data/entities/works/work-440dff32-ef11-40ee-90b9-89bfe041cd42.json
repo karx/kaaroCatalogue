@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-440dff32-ef11-40ee-90b9-89bfe041cd42",
+  "name": "जो जागत सो सपन में, ज्‍यौं घट भीतर सांस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who is awake is in a dream, just as the breath is within the body. The person who truly desires it is always close to it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो जागत सो सपन में, ज्‍यौं घट भीतर सांस।\nजो जन जाको भावता, सो जन ताके पास।।८२३।।",
+    "translation": "The one who is awake is in a dream, just as the breath is within the body. The person who truly desires it is always close to it.",
+    "meaning": "जो जागरूक होता है, वह सपने में होता है, जैसे सांस शरीर के भीतर होती है। जो व्यक्ति इसे सच में चाहता है, वह ���मेशा इसके पास होता है।",
+    "explanation": "इस दोहे में कबीर ने जागरूकता और सच्ची इच्छा की स्थिति को स्पष्ट किया है। जब व्यक्ति सच में जागरूक होता है, तो वह सपनों की स्थिति में होता है, और जो व्यक्ति वास्तव में किसी चीज़ को चाहता है, वह हमेशा उसके करीब होता है। यह प्रेम और जागरूकता के गहरे संबंध को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.079Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f48c79d1-064e-47ae-85d4-e3d41a836619",
+  "name": "क्‍या करिये क्‍या जो‍ड़ि‍ये, छोड़ जीवन काज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What to do and what to join, abandon the affairs of life. All are left behind, including body, home, wealth, and kingdom.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "क्‍या करिये क्‍या जो‍ड़ि‍ये, छोड़ जीवन काज।\nछाडि छाडि सब जात हैं, देह गेह धन राज।।८४८।।",
+    "translation": "What to do and what to join, abandon the affairs of life. All are left behind, including body, home, wealth, and kingdom.",
+    "meaning": "क्या करें और क्या जोड़ें, जीवन के कामों को छोड़ दें। सभी छोड़ जाते हैं, शरीर, घर, धन और राज्य भी।",
+    "explanation": "इस दोहे में कबीर ने जीवन की अस्थिरता और तात्कालिकता को दर्शाया है। उन्होंने कहा है कि जीवन के सभी भौतिक चीजें जैसे शरीर, घर, धन और राज भी अंततः छोड़ने के लिए होते हैं। इसलिए इनसे जुड़े कामों को छोड़कर आत्मा के पथ की ओर बढ़ना चाहिए। यह दोहा हमें भौतिक दुनिया की अस्थिरता की याद दिलाता है और आत्मिक उन्नति पर ध्यान केंद्रित करने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.082Z"
+  }
+}

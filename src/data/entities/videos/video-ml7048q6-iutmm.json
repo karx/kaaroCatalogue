@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml7048q6-iutmm",
+  "name": "🔴 THE CROSSWORD EPISODE 3 FEAT ASHISH SHAKYA",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT1H2M39S",
+  "embedUrl": "https://www.youtube.com/embed/hU8WInV9Og4",
+  "contentUrl": "https://www.youtube.com/watch?v=hU8WInV9Og4",
+  "uploadDate": "2021-10-04",
+  "thumbnailUrl": "https://i.ytimg.com/vi/hU8WInV9Og4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Join Ashish Shakya and I as we solve the NYT Crossword (but like one of the easy ones) online. I'm sure it'll be as thrilling as it sounds. If things get mad hardcore, we may even do a spelling bee",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

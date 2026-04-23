@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c461ef06-d484-40d2-886b-296e02926b3d",
+  "name": "बीर औंधी खोपड़ी, कबहूं धापै नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A wise person with a turned head (ignorant) never covers his own head. The truth of the three worlds, when will it come to his home?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बीर औंधी खोपड़ी, कबहूं धापै नांहि।\nतीन लोक की सत्‍पदा, कब आवै घर मांहि।।१२४४।।",
+    "translation": "A wise person with a turned head (ignorant) never covers his own head. The truth of the three worlds, when will it come to his home?",
+    "meaning": "एक ज्ञानी व्यक्ति जो उल्टी दिशा में सोचता है, वह कभी भी अपने सिर को नहीं ढकता। तीनों लोकों का सत्य उसके घर कब आएगा?",
+    "explanation": "इस दोहे में कबीर ने अज्ञानी व्यक्ति की स्थिति को दर्शाया है। जो व्यक्ति सही दिशा में सोचने की बजाय उल्टी दिशा में सोचता है, वह कभी भी अपने जीवन में सच्चाई को नहीं समझ पाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.274Z"
+  }
+}

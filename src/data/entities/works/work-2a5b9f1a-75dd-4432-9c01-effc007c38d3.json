@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2a5b9f1a-75dd-4432-9c01-effc007c38d3",
+  "name": "जग सब सागर मोहिं, कहु कैसे बूड़त तेरे",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is like an ocean; tell me, how will you drown in it? Hold the true Guru's hand, who will protect you on land and water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जग सब सागर मोहिं, कहु कैसे बूड़त तेरे।\nगहु सतगुरु की बाहिं, जो जल थल रक्षा करै।।२७७।।",
+    "translation": "The world is like an ocean; tell me, how will you drown in it? Hold the true Guru's hand, who will protect you on land and water.",
+    "meaning": "यह संसार एक सागर की तरह है; बताओ, इसमें कैसे डूबोगे? सच्चे गुरु का हाथ थाम लो, जो तुम्हारी जल और थल में रक्षा करेगा।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि संसार एक विशाल सागर की तरह है जिसमें डूबने का डर रहता है। लेकिन अगर कोई व्यक्ति सच्चे गुरु का सहारा लेता है, तो वह जल और थल, दोनों में सुरक्षित रहेगा और इस संसार सागर को पार कर सकेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

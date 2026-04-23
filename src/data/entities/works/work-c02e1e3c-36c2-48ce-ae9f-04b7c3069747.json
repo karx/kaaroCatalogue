@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c02e1e3c-36c2-48ce-ae9f-04b7c3069747",
+  "name": "निन्‍दक मेरा जनि मरो, जीवो आदि जुगादि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not consider the critic as dead; the soul lives on. Kabir says, the true guru is found through the grace of the critic.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निन्‍दक मेरा जनि मरो, जीवो आदि जुगादि।\nकबीर सतगुरु पाइये, निन्‍दक के परसादि।।१२९१।।",
+    "translation": "Do not consider the critic as dead; the soul lives on. Kabir says, the true guru is found through the grace of the critic.",
+    "meaning": "निंदा करने वाले को मृत मानो मत; आत्मा हमेशा जीवित रहती है। कबीर जी कहते हैं कि सच्चा गुरु निंदा करने वाले की कृपा से प्राप्त होता है।",
+    "explanation": "कबीर जी के अनुसार, निंदा करने वाले व्यक्ति को मृत मानने की गलती नहीं करनी चाहिए, क्योंकि आत्मा अमर होती है। इसके अलावा, निंदा करने वाले की कृपा से सच्चे गुरु की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.549Z"
+  }
+}

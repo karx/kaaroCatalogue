@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2edd3fe3-efb0-465f-a0dc-f7fc8eaf943f",
+  "name": "दिल का मरहम ना मिला, जो मिला सो गर्जी",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I did not find a remedy for the heart; what I found was a mere patch. Kabir says, the sky is torn, but how can a tailor mend it?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दिल का मरहम ना मिला, जो मिला सो गर्जी।\nकहै कबीर — आसमान फटा, क्योंकर सीवे दर्जी।।५०।।",
+    "translation": "I did not find a remedy for the heart; what I found was a mere patch. Kabir says, the sky is torn, but how can a tailor mend it?",
+    "meaning": "दिल की बीमारी का इलाज नहीं मिला, जो मिला वह एक अस्थायी मरहम था। कबीर कहते हैं, आसमान फटा हुआ है, पर दर्जी इसे कैसे सीवे?",
+    "explanation": "इस दोहे में संत कबीर ने दिल की गहराई और उसके इलाज की असमर्थता को दर्शाया है। उन्होंने बताया कि जो उपचार मिला वह अस्थायी और अधूरा था, जैसे फटे आसमान को दर्जी कैसे सीवे। सच्चे इलाज के लिए केवल बाहरी उपायों से काम नहीं चलेगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

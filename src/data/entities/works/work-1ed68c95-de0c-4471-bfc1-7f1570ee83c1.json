@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ed68c95-de0c-4471-bfc1-7f1570ee83c1",
+  "name": "लीक पुरानी को तजें, कायर कुटिल कपूत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Abandon the old path if you are cowardly, deceitful, and wicked. Stay on the old path if you are a clever and righteous person.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लीक पुरानी को तजें, कायर कुटिल कपूत।\nलीक पुरानी पर चलें, साहसी सिंह सपूत।।८१।।",
+    "translation": "Abandon the old path if you are cowardly, deceitful, and wicked. Stay on the old path if you are a clever and righteous person.",
+    "meaning": "यदि आप कायर, कपटी, और बुरा हैं तो पुरानी राह को छोड़ दें। यदि आप चतुर और धार्मिक हैं तो पुरानी राह पर बने रहें।",
+    "explanation": "इस दोहे में कबीर पुरानी पद्धतियों और मार्गों के पालन को लेकर सलाह देते हैं। यदि कोई व्यक्ति डरपोक और कपटी है, तो उसे पुरानी पद्धतियों को त्याग देना चाहिए। लेकिन यदि व्यक्ति चतुर और धर्मिक है, तो पुरानी राह पर बने रहना उचित है। यह दर्शाता है कि व्यक्ति के चरित्र और स्वभाव के अनुसार मार्ग और तरीके बदल सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

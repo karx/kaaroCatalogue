@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-477c688f-641e-4e05-a890-5780fc5af0e7",
+  "name": "टीला टीली ढाहि के, फोरि करै मैदान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Breaking down the hills and leveling the field, one who understands the creator walks the path of liberation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "टीला टीली ढाहि के, फोरि करै मैदान।\nसमझ सका करता चलै, सोई शब्‍द निरबान।।१०१४।।",
+    "translation": "Breaking down the hills and leveling the field, one who understands the creator walks the path of liberation.",
+    "meaning": "पहाड़ियों को ढहाकर और मैदान को समतल करके, जो व्यक्ति सृष्टिकर्ता को समझता है, वही मुक्ति के मार्ग पर चलता है।",
+    "explanation": "इस दोहे में कबीर इस बात की तरफ इशारा करते हैं कि जब व्यक्ति अपने अहंकार और अन्य मानसिक बाधाओं को समाप्त कर देता है, तभी वह सच्चे ज्ञान और मुक्ति की ओर अग्रसर हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.161Z"
+  }
+}

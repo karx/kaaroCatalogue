@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9639a923-d015-4289-8ef1-e20e0ddd88ef",
+  "name": "करनी गर्व निवारनी, मुक्ति स्‍वारथी सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Actions remove pride, and those seeking liberation should act selflessly. By abandoning mere words and focusing on actions, one achieves liberation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करनी गर्व निवारनी, मुक्ति स्‍वारथी सोय।\nकथनी तजि करनी करै, तब मुक्‍ताहल होय।।१३१६।।",
+    "translation": "Actions remove pride, and those seeking liberation should act selflessly. By abandoning mere words and focusing on actions, one achieves liberation.",
+    "meaning": "कर्म गर्व को समाप्त करते हैं, और जो मुक्ति चाहते हैं उन्हें स्वार्थी तरीके से कार्य करना चाहिए। केवल शब्दों को छोड़कर कर्म पर ध्यान देने से मुक्ति प्राप्त होती है।",
+    "explanation": "कबीर जी के अनुसार, गर्व को समाप्त करने के लिए कर्म की आवश्यकता होती है। आत्म-स्वार्थ को छोड़कर यदि हम कर्म करते हैं, तो वास्तविक मुक्ति प्राप्त होती है। केवल शब्दों से मुक्ति नहीं मिलती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.811Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-pepun",
+  "name": "Now I have my own Netflix account 🙏 #comedy #standupcomedy #funny",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT56S",
+  "embedUrl": "https://www.youtube.com/embed/dUkOPAUrR3A",
+  "contentUrl": "https://www.youtube.com/watch?v=dUkOPAUrR3A",
+  "uploadDate": "2024-04-29",
+  "thumbnailUrl": "https://i.ytimg.com/vi/dUkOPAUrR3A/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

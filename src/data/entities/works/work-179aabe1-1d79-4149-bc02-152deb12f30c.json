@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-179aabe1-1d79-4149-bc02-152deb12f30c",
+  "name": "साधु संगत परिहरै, करै विषय को संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The company of saints abandons the association with worldly desires. They forsake the well of water and embrace the Ganges river.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु संगत परिहरै, करै विषय को संग।\nकूप खनी जल बावरे, त्‍याग दिया जल गंग।।६५८।।",
+    "translation": "The company of saints abandons the association with worldly desires. They forsake the well of water and embrace the Ganges river.",
+    "meaning": "संतों की संगति सांसारिक इच्छाओं का परित्याग कर देती है। वे कुएं के पानी को छोड़कर गंगा के जल को अपनाते हैं।",
+    "explanation": "संतों की संगति में रहते हुए, व्यक्ति सांसारिक इच्छाओं से दूर हो जाता है और उच्च आत्मिक मार्ग को अपनाता है। गंगा के जल की तुलना में कुएं का जल निम्नस्तरीय होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.268Z"
+  }
+}

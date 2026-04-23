@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-68f94d82-9e06-4f55-b691-e32763733386",
+  "name": "मारग चलते जो गिरै, ताको नाहिं दोस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who falls while walking on the path is not to be blamed. Kabir says, sitting idly and not trying is like a head that takes a hundred blows.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मारग चलते जो गिरै, ताको नाहिं दोस।\nकहैं कबीर बैठा रहै, ता सिर करड़े कोस।।१३२८।।",
+    "translation": "One who falls while walking on the path is not to be blamed. Kabir says, sitting idly and not trying is like a head that takes a hundred blows.",
+    "meaning": "जो मार्ग पर चलते हुए गिरता है, उसे दोष नहीं दिया जा सकता। कबीर कहते हैं, बैठे रहना और प्रयास न करना, ऐसा है जैसे सिर पर सौ घाव लगाना।",
+    "explanation": "कबीर जी के अनुसार, अगर कोई मार्ग पर चलते हुए गिर जाता है, तो उसकी गलती नहीं होती। बैठकर केवल देखते रहने और प्रयास न करने पर बहुत बड़ा नुकसान होता है, जैसे सिर पर घाव लगना।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.813Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a36d19d8-fcb2-4d1b-8737-09fea02ca4c6",
+  "name": "जहां जुरा मरण व्‍यापै नहीं, मुवा न सुणिये कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Where death and disease do not pervade, and no one is said to die, Kabir moves towards that land where the divine physician and creator reside.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहां जुरा मरण व्‍यापै नहीं, मुवा ��� सुणिये कोइ।\nचलि कबीर तिहि देसड, जहां वैद विधाता होइ।।१९५७।।",
+    "translation": "Where death and disease do not pervade, and no one is said to die, Kabir moves towards that land where the divine physician and creator reside.",
+    "meaning": "जहां मृत्यु और रोगों का वास नहीं है, और कोई भी मरने की बात नहीं करता, कबीर उस देश की ओर जाते हैं जहां ईश्वरीय चिकित्सक और सर्जक निवास करते हैं।",
+    "explanation": "इस दोहे में कबीर ने उस आध्यात्मिक स्थिति का वर्णन किया है जहां मृत्यु और बीमारी का कोई प्रभाव नहीं होता। यह स्थिति शाश्वत और अमर होती है। कबीर उस दिव्य भूमि की ओर इशारा कर रहे हैं जहां ईश्वर या परमात्मा रहते हैं, जो सृष्टि के सर्जक और उपचारक होते हैं। यह दोहा आत्मा की अमरता और दिव्य क्षेत्र की ओर संकेत करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.528Z"
+  }
+}

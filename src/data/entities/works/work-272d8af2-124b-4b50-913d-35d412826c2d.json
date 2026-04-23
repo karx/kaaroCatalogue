@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-272d8af2-124b-4b50-913d-35d412826c2d",
+  "name": "कबीर मेरे संसा को नहीं, हरि सूं लागा हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, my doubt is not with the Lord, but with the desire and anger. The broad field is fought over by these forces.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मेरे संसा को नहीं, हरि सूं लागा हेत।\nकाम क्रोध सूं झूझणां, चौड़े मांडूया खेत।।१९१२।।",
+    "translation": "Kabir says, my doubt is not with the Lord, but with the desire and anger. The broad field is fought over by these forces.",
+    "meaning": "कबीर कहते हैं, मेरा संदेह भगवान से नहीं है, बल्कि इच्छाओं और क्रोध से है। ये शक्तियाँ चौड़े खेत को लेकर संघर्ष करती हैं।",
+    "explanation": "इस दोहे में कबीरदास जी यह बताना चाहते हैं कि उनका संदेह भगवान के प्रति नहीं है, बल्कि उनके भीतर की इच्छाओं और क्रोध के कारण है। ये भावनाएँ उनके जीवन के 'खेत' पर प्रभाव डालती हैं। यह दोहा आंतरिक संघर्ष और स्वयं की समझ की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.247Z"
+  }
+}

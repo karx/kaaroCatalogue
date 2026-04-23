@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0ce56742-f69f-471c-9973-4e82ab77ba03",
+  "name": "आशा वासा सन्त का, ब्रह्मा लखै न वेद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The hope and shelter of saints are not recognized by Brahma or the Vedas. Those who engage in debates on the six philosophies rarely understand the truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आशा वासा सन्त का, ब्रह्मा लखै न वेद।\nषट दर्शन खटपट करै, बिरला पावै भेद।।३२९।।",
+    "translation": "The hope and shelter of saints are not recognized by Brahma or the Vedas. Those who engage in debates on the six philosophies rarely understand the truth.",
+    "meaning": "संतों की आशा और शरण को ब्रह्मा या वेद नहीं पहचानते। जो लोग छह दार्शनिक मतों पर विवाद करते हैं, वे सच rarely समझ पाते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि संतों की वास्तविकता और उनकी आशा को ब्रह्मा या वेद भी नहीं समझ पाते। दार्शनिक विवाद और चर्चाओं के बावजूद, सच्चे ज्ञान को समझना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

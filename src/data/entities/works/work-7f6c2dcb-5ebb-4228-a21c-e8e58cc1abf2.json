@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7f6c2dcb-5ebb-4228-a21c-e8e58cc1abf2",
+  "name": "दया भाव हिरदै नहीं, ज्ञान कथै बेहद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who have no compassion in their hearts but talk endlessly about knowledge will end up in hell, despite hearing countless teachings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया भाव हिरदै नहीं, ज्ञान कथै बेहद।\nते नर नरकहि जाहिंगे, सुनि सुनि साखी शबद।।१३९१।।",
+    "translation": "Those who have no compassion in their hearts but talk endlessly about knowledge will end up in hell, despite hearing countless teachings.",
+    "meaning": "जिनके हृदय में दया नहीं है, लेकिन वे ज्ञान की बातें बहुत करते हैं, वे नरक में जाएंगे, भले ही वे कितनी भी साखियां और शब्द सुन लें।",
+    "explanation": "कबीर इस दोहे में उन लोगों की आलोचना कर���े हैं जो केवल दिखावे के लिए ज्ञान की बातें करते हैं, लेकिन उनके दिल में दया नहीं होती। कबीर कहते हैं कि ऐसे लोग, चाहे वे कितनी भी शिक्षाएँ सुन लें, अंततः नरक में जाएंगे। यह दोहा हमें सिखाता है कि सच्चा ज्ञान वही है जो दया और करुणा के साथ हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.091Z"
+  }
+}

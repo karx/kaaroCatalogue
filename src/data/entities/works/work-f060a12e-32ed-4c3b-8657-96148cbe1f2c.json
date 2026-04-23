@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f060a12e-32ed-4c3b-8657-96148cbe1f2c",
+  "name": "Kannan Pattu",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-subramania-bharati"
+  },
+  "inLanguage": "Tamil",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Kannan_Pattu",
+    "retrievedAt": "2026-01-04T18:39:24.867Z"
+  }
+}

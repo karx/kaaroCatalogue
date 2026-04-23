@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1cc6d6e3-e97a-4ebe-9135-e0bb0f7299d3",
+  "name": "सन्त मता गजराज का, चालै बन्धन छोड़",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint's behavior is like that of an elephant, who walks free from bonds. The world’s dogs may follow, but they do not heed the noise.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्त मता गजराज का, चालै बन्धन छोड़।\nजग कुत्ता पीछे फिरैं, सुनै न वाको सोर।।३५६।।",
+    "translation": "A saint's behavior is like that of an elephant, who walks free from bonds. The world’s dogs may follow, but they do not heed the noise.",
+    "meaning": "संत का व्यवहार गजराज के समान होता है, जो बंधनों से मुक्त चलता है। दुनिया के कुत्ते पीछे चलते हैं, लेकिन उनकी आवाज नहीं सुनते।।",
+    "explanation": "इस दोहे में कबीरदास ने संतों के व्यवहार की तुलना गजराज (हाथी) से की है। जैसे गजराज बंधनों से मुक्त होकर चलता है, वैसे ही संत भी सांसारिक बंधनों से मुक्त होते हैं। दुनिया के लोग, जो स्वार्थी और कुत्तों जैसे होते हैं, संत की आंतरिक शांति और स्वतंत्रता को नहीं समझ पाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.650Z"
+  }
+}

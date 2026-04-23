@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-36f8c113-3af3-45cb-9b7f-18ed442d0aea",
+  "name": "हांसी खेलौं हरि मिलै, तौ कौण सहै षरसान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one can attain Hari through laughter and play, who would bear the burden of the battlefield? One must renounce lust, anger, and desire to meet the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हांसी खेलौं हरि मिलै, तौ कौण सहै षरसान।\nकाम क्रोध त्रिष्‍णां तजै, ताहि मिलैं भगवान।।१७६५।।",
+    "translation": "If one can attain Hari through laughter and play, who would bear the burden of the battlefield? One must renounce lust, anger, and desire to meet the Lord.",
+    "meaning": "यदि कोई हंसने और खेलते हुए हरि को प्राप्त कर सकता है, तो कौन युद्ध के बोझ को सहन करेगा? भगवान से मिलने के लिए काम, क्रोध और तृष्णा को त्यागना चाहिए।",
+    "explanation": "इस दोहे में कबीर ने भगवान के मिलने के लिए आवश्यक त्याग और साधना पर प्रकाश डाला है। उन्होंने बताया है कि यदि हरि को हंसते-खेलते हुए प्राप्त किया जा सकता है, तो युद्ध के बोझ को कौन उठाएगा? सच्ची प्राप्ति के लिए व्यक्ति को काम, क्रोध और तृष्णा का त्याग करना होता है। यह दोहा साधना और भगवान की प्राप्ति की कठिनाइयों को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.348Z"
+  }
+}

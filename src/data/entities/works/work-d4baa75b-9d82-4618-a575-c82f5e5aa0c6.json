@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d4baa75b-9d82-4618-a575-c82f5e5aa0c6",
+  "name": "अगह गह अकह कहै, अनभेदा भेद लहाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The unspoken speaks the unspeakable, and the undifferentiated reveals the hidden distinctions. The unspoken words of the scriptures align with the ultimate truth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अगह गह अकह कहै, अनभेदा भेद लहाइ।\nअनभै बाणी आगम की, लेगई संग लगाइ।।२२३२।।",
+    "translation": "The unspoken speaks the unspeakable, and the undifferentiated reveals the hidden distinctions. The unspoken words of the scriptures align with the ultimate truth.",
+    "meaning": "अप्रकट करने वाला अप्रकट को प्रकट करता है, और अप्रभेदित भेदों को प्रकट करता है। शास्त्रों की अप्रकट बाणियाँ अंतिम सत्य के साथ मेल खाती हैं।",
+    "explanation": "इस दोहे में कबीर जी यह दर्शाते हैं कि जो बात शब्दों में नहीं कही जा सकती, वही असल में सबसे महत्वपूर्ण होती है। अप्रभेदितता के भीतर छिपे भेदों को प्रकट किया जाता है, और शास्त्रों की अप्रकट बाणियाँ उस अंतिम सत्य से मेल खाती हैं। यह बताता है कि आध्यात्मिक ज्ञान और सत्य अक्सर शब्दों से परे होता है और उसे केवल अनुभव और गहरी समझ से जाना जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.086Z"
+  }
+}

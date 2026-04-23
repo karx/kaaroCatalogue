@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8decbe39-c4cc-4227-a35d-e611a00af661",
+  "name": "साहब तुम जनि बीसरौ, लाख लोग मिलिहाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O Lord, do not forget me; even if millions come together. We have much to offer you, but you give us nothing in return.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साहब तुम जनि बीसरौ, लाख लोग मिलिहाहिं।\nहमसे तुमकूं बहुत हैं, तुमसे हमको नाहिं।।२१८५।।",
+    "translation": "O Lord, do not forget me; even if millions come together. We have much to offer you, but you give us nothing in return.",
+    "meaning": "हे साहब, कृपया हमें न भूलें; भले ही लाखों लोग मिल जाएं। हमारे पास आपको देने के लिए बहुत कुछ है, लेकिन आप हमें कुछ नहीं देते।",
+    "explanation": "इस दोहे में कबीर ने भगवान से अपनी महत्ता और सम्बन्ध की बात की है। वे कहते हैं कि भगवान को लाखों लोग मिल सकते हैं, लेकिन वे हमें न भूलें क्योंकि हमारे पास देने के लिए बहुत कुछ है। यह दोहा इस बात को व्यक्त करता है कि एकतरफा प्रेम और ध्यान की बजाय, आपसी समझ और सम्मान महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.731Z"
+  }
+}

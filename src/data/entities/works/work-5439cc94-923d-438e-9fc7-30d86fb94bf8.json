@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5439cc94-923d-438e-9fc7-30d86fb94bf8",
+  "name": "पाहन केरी पूतरी, करि पूजै संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world worships a doll made of stone, but don't rely on it, for it will drown you in the dark stream.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाहन केरी पूतरी, करि पूजै संसार।\nयाहि भरोस मत रहो, बूड़ो काली धार।।१३७१।।",
+    "translation": "The world worships a doll made of stone, but don't rely on it, for it will drown you in the dark stream.",
+    "meaning": "संसार पत्थर की मूर्ति की पूजा करता है, लेकिन इस पर भरोसा मत करो, क्योंकि यह तुम्हें काली धार में डूबा देगी।",
+    "explanation": "कबीर इस दोहे में मूर्तिपूजा पर कटाक्ष करते हैं। वे कहते हैं कि संसार पत्थर की मूर्तियों की पूजा करता है, लेकिन यह गलतफहमी है। कबीर जी चेतावनी देते हैं कि इस तरह की पूजा व्यक्ति को अज्ञानता की गहरी धारा में डुबो सकती है। उनका संदेश है कि सच्ची भक्ति और ईश्वर की खोज भीतर की यात्रा है, न कि बाहरी मूर्तियों की पूजा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.086Z"
+  }
+}

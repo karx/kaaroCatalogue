@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d8d715e9-630d-450b-9800-f78df02f157f",
+  "name": "चार चोर चले, पग पनही उतारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Four thieves set out, removing their shoes. They hit the four doors' pillars, oh scholars, think about it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चार चोर चले, पग पनही उतारि।\nचारों दर थूनी हनी, पंड‍ित करहु बिचारि।।१५०६।।",
+    "translation": "Four thieves set out, removing their shoes. They hit the four doors' pillars, oh scholars, think about it.",
+    "meaning": "चार चोर चले, अपने जूते उतार दिए। उन्होंने चार दरवाजों की थूनियों को मारा, पंडित सोचें इस पर।",
+    "explanation": "इस दोहे में कबीर जीवन की उलझनों और भ्रमों की ओर इशारा कर रहे हैं। चार चोर जीवन के चार दोषों का प्रतीक हैं जो हर दिशा से हमें घेरते हैं। इन दोषों से बचने के लिए विवेक और सही दिशा का ज्ञान आवश्यक है। पंडित को सोचने के लिए कहा गया है कि हमें किस तरह इन दोषों से बचना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.928Z"
+  }
+}

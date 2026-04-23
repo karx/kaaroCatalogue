@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3d4c1f1-b15b-4d18-a442-ecc5b1b28aee",
+  "name": "प्रेम बिना जो भक्ति है, सो निज दंभ विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion without love is mere hypocrisy. It is a result of seeking to fill one's own needs, rendering the birth useless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम बिना जो भक्ति है, सो निज दंभ विचार।\nउदर भरन के कारन, जन्‍म गंवाये सार।।७०३।।",
+    "translation": "Devotion without love is mere hypocrisy. It is a result of seeking to fill one's own needs, rendering the birth useless.",
+    "meaning": "प्रेम के बिना जो भक्ति होती है, वह केवल दिखावा होती है। यह अपने स्वार्थ को पूरा करने के लिए होती है, जो जन्म को व्यर्थ बना देती है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की अनुपस्थिति में भक्ति को दिखावे का नाम दिया है। वे कहते हैं कि प्रेम के बिना भक्ति केवल स्वार्थपूर्ण होती है और जीवन की सार्थकता को नष्ट करती है। सच्ची भक्ति प्रेम से भरी होनी चाहिए, अन्यथा यह केवल दिखावा बन जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.541Z"
+  }
+}

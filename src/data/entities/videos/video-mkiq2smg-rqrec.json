@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-rqrec",
+  "name": "REGISTRY |stand up comedy by Gaurav Gupta",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT16S",
+  "embedUrl": "https://www.youtube.com/embed/k1qZDNnwQr8",
+  "contentUrl": "https://www.youtube.com/watch?v=k1qZDNnwQr8",
+  "uploadDate": "2023-07-08",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k1qZDNnwQr8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

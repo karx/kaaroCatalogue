@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-79654531-e876-4942-91c6-c90242e1ac69",
+  "name": "Dil-e-Nadaan Tujhe Hua Kya Hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mirza-ghalib"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "abstract": "O naive heart, what has happened to you?\nWhat is the cure for this pain?\n\nI am longing and she is indifferent\nO God, what is this situation?...",
+  "content": {
+    "original": "دلِ ناداں تجھے ہوا کیا ہے\nآخر اس درد کی دوا کیا ہے\n\nہم ہیں مشتاق اور وہ بےزار\nیا الٰہی یہ ماجرا کیا ہے",
+    "transliteration": "Dil-e-nadaan tujhe hua kya hai\nAakhir is dard ki dawa kya hai\n\nHum hain mushtaq aur woh bezaar\nYa ilaahi ye majra kya hai",
+    "translation": "O naive heart, what has happened to you?\nWhat is the cure for this pain?\n\nI am longing and she is indifferent\nO God, what is this situation?"
+  },
+  "keywords": [
+    "Ghazal",
+    "Urdu"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.008Z"
+  }
+}

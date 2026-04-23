@@ -1,0 +1,30 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-abhishek-upmanyu",
+  "name": "Abhishek Upmanyu",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "hi",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Abhishek_Upmanyu"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Abhishek_Upmanyu",
+    "retrievedAt": "2026-01-04T21:14:33.829Z"
+  }
+}

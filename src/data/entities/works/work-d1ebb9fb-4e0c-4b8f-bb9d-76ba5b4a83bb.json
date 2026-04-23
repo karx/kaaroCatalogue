@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d1ebb9fb-4e0c-4b8f-bb9d-76ba5b4a83bb",
+  "name": "अनमाँगा तो अति भला, माँगि लिया नहिं दोष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Not asking is very good; there is no fault in asking if necessary. One should be content with what is received through begging.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अनमाँगा तो अति भला, माँगि लिया नहिं दोष।\nउदर समाता माँगि ले, निश्च्य पावै योष।।३७७।।",
+    "translation": "Not asking is very good; there is no fault in asking if necessary. One should be content with what is received through begging.",
+    "meaning": "अनमाँगना बहुत अच्छा है; अगर आवश्यक हो तो माँगने में कोई दोष नहीं है। माँगकर प्राप्त की गई चीज़ से संतुष्ट रहना चाहिए।",
+    "explanation": "कबीर दास जी इस दोहे में यह बताते हैं कि अनमाँगना बहुत अच्छा है, लेकिन अगर ज़रूरत पड़ जाए तो माँगने में कोई दोष नहीं है। माँगकर जो कुछ भी प्राप्त होता है, उस पर संतुष्ट रहना चाहिए। यह दोहा हमें यह सिखाता है कि आत्म-संयम और आत्म-निर्भरता महत्वपूर्ण हैं, लेकिन आवश्यक परिस्थितियों में माँगने से भी कोई बुराई नहीं है, बस हमें प्राप्त चीज़ों को उचित रूप से स्वीकार कर संतुष्ट रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

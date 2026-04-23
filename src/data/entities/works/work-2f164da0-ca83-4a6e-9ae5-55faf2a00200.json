@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2f164da0-ca83-4a6e-9ae5-55faf2a00200",
+  "name": "Deepshikha",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mahadevi-varma"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Deepshikha",
+    "retrievedAt": "2026-01-04T18:39:27.641Z"
+  }
+}

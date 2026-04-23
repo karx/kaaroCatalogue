@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-173c9cb3-41c2-4298-89eb-fd812950dbee",
+  "name": "लकड़ी जल डूबै नहीं, कहो कहाँ की प्रीति",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wood cannot be submerged in water; tell me where is the love? Knowing one's own nature, this is the way to grow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लकड़ी जल डूबै नहीं, कहो कहाँ की प्रीति।\nअपनी सीची जानि के, यही बड़ने की रीति।।३९८।।",
+    "translation": "Wood cannot be submerged in water; tell me where is the love? Knowing one's own nature, this is the way to grow.",
+    "meaning": "लकड़ी पानी में डूब नहीं सकती; बताओ कहाँ है प्रेम? अपनी स्वभाव को जानकर, यही बढ़ने की रीति है।",
+    "explanation": "इस दोहे में कबीर दास जी ने आत्म-ज्ञान और स्वयं के स्वभाव को समझने की आवश्यकता को दर्शाया है। वे कहते हैं कि लकड़ी पानी में डूब नहीं सकती, और इसी तरह प्रेम का पता लगाना कठिन हो सकता है। लेकिन व्यक्ति को अपने स्वभाव को जानकर और उसे समझकर ही वह सच्चे रूप में बढ़ सकता है। यह दोहा आत्म-ज्ञान और अपने स्वभाव की पहचान के महत्व को बताता है, जो जीवन की उन्नति के लिए आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

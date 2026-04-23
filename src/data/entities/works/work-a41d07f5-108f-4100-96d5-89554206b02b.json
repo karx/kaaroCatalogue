@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a41d07f5-108f-4100-96d5-89554206b02b",
+  "name": "जल में बसे कुमुदनी, चंदा बसे अकास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The lotus dwells in the water, the moon in the sky. Each stays where it belongs according to its nature.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जल में बसे कुमुदनी, चंदा बसे अकास।\nजैसी जिसकी भावना, सो ताही के पास।।४६१।।",
+    "translation": "The lotus dwells in the water, the moon in the sky. Each stays where it belongs according to its nature.",
+    "meaning": "कमल जल में बसता है, चाँद आकाश में। प्रत्येक वस्तु अपनी स्वाभाविक जगह पर रहती है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि जैसे कमल जल में और चाँद आकाश में बसता है, वैसे ही हर वस्तु अपनी स्वाभाविक स्थिति में रहती है। यह जीवन में आत्मिक स्थिरता और स्वाभाविक स्थान की खोज को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

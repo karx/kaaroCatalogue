@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2da1d3e8-e882-4d4f-b488-085f88bf7906",
+  "name": "साधु ऐसा चाहिए, जाके ज्ञान विवेक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint should be one who possesses knowledge and discernment. Though he may meet others externally, internally he is the same as all.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु ऐसा चाहिए, जाके ज्ञान विवेक।\nबाहर मिलते सों मिलें, अन्तर सबसों एक।।३४१।।",
+    "translation": "A saint should be one who possesses knowledge and discernment. Though he may meet others externally, internally he is the same as all.",
+    "meaning": "साधु ऐसा होना चाहिए, जिसके पास ज्ञान और विवेक हो। बाहरी रूप से वह दूसरों से मिल सकता है, लेकिन आंतरिक रूप से सबके समान है।।",
+    "explanation": "इस दोहे में कबीरदास ने ऐसे साधु का वर्णन किया है जो ज्ञान और विवेक से संपन्न होता है। बाहरी रूप से वह दूसरों से मिल सकता है, लेकिन आंतरिक रूप से वह सभी के साथ समानता का अनुभव करता है। यह दोहा साधु की वास्तविकता को दर्शाता है, जो कि बाहरी भेदभाव से परे है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-20002bb4-129b-469e-bca8-6f21a2d2f760",
+  "name": "निन्‍दक एकहु मति मिलै, पापी मिलै हजार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A critic has one mind, but a thousand sinners are there. On the head of the critic, lies the burden of countless sins.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निन्‍दक एकहु मति मिलै, पापी मिलै हजार।\nइस निन्‍दक के शीश पर, लाख पाप का भार।।१२९३।।",
+    "translation": "A critic has one mind, but a thousand sinners are there. On the head of the critic, lies the burden of countless sins.",
+    "meaning": "एक निंदा करने वाले के पास एक ही मन होता है, जबकि हजारों पापी होते हैं। निंदा करने वाले के सिर पर लाखों पापों का बोझ होता है।",
+    "explanation": "कबीर जी ने इस दोहे में बताया है कि निंदा करने वाला व्यक्ति, भले ही एक ही मन का हो, लेकिन उसके सिर पर असीम पापों का बोझ होता है। इसके मुकाबले हजारों पापी लोग होते हैं, जो अन्यथा दोषी होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.549Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-227c605a-1d69-46b7-9d5d-85caf63030f6",
+  "name": "उज्जवल देखि न धीजिये, वग ज्यूं माडै ध्यान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not be misled by brightness, like a moth attracted to light. Those who sit patiently and discern, will attain true knowledge.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उज्जवल देखि न धीजिये, वग ज्यूं माडै ध्यान।\nधीर बौठि चपेटसी, यूँ ले बूडै ग्यान।।१८९।।",
+    "translation": "Do not be misled by brightness, like a moth attracted to light. Those who sit patiently and discern, will attain true knowledge.",
+    "meaning": "चमक को देखकर भ्रमित न होइए, जैसे पतंगा उजाले की ओर आकर्षित होता है। जो धैर्यपूर्वक बैठते हैं और विवेक से देखते हैं, वे सच्चे ज्ञान को प्राप्त करते हैं।",
+    "explanation": "इस दोहे में कबीर ने चमक और आंतरिक ज्ञान के बीच अंतर को स्पष्ट किया है। उन्होंने कहा है कि चमक-दमक पर ध्यान केंद्रित करना भ्रमित करने वाला हो सकता है, जबकि धैर्य और विवेक के साथ सच्चे ज्ञान की प्राप्ति होती है। यह दोहा सच्चे ज्ञान और आत्म-अन्वेषण की दिशा में इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

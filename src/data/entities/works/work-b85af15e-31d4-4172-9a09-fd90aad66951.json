@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b85af15e-31d4-4172-9a09-fd90aad66951",
+  "name": "माला तिलक लगाय के, भक्ति न आई हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing a garland and applying a tilak does not bring devotion. Shaving one's beard and mustache, and moving along with the world is not true devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला तिलक लगाय के, भक्ति न आई हाथ।\nढाढ़ी मूंछ मुंडाय के, चले दुनी के साथ।।६३६।।",
+    "translation": "Wearing a garland and applying a tilak does not bring devotion. Shaving one's beard and mustache, and moving along with the world is not true devotion.",
+    "meaning": "माला और तिलक पहनने से भक्ति नहीं आती। दाढ़ी-मूंछ मुंडाने और दुनियादारी में लिप्त रहने से सच्ची भक्ति नहीं मिलती।",
+    "explanation": "सच्ची भक्ति बाहरी आडंबरों से नहीं आती। भक्ति का असली स्वरूप तब प्रकट होता है जब व्यक्ति अपने आंतरिक स्वभाव और कर्मों को सही करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.003Z"
+  }
+}

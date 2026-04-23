@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60794682-176e-4911-91a4-286aa7d4caba",
+  "name": "ऐसा कोई ना मिले, अपना घर देइ जराइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one is found who will set fire to their own house. Five children are dressed as beggars, while Ram remains in the same place.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसा कोई ना मिले, अपना घर देइ जराइ।\nपंचूं लरिका पटिक करि, रहै राम ल्‍यौं लाइ।।१९६७।।",
+    "translation": "No one is found who will set fire to their own house. Five children are dressed as beggars, while Ram remains in the same place.",
+    "meaning": "कोई ऐसा नहीं मिलता जो अपने घर को आग लगा दे। पांच बच्चे भिखारी के कपड़े पहनकर, वहीं राम भी स्थिर रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने अपने घर को आग लगाने के रूपक का उपयोग किया है, जो अपनी आसक्ति और संसारिक संपत्ति को छोड़ने के लिए होता है। यहाँ 'पांच बच्चे' प्रतीक हैं, जो भिखारी के वस्त्र पहनकर अपने आंतरिक पवित्रता को दर्शाते हैं, जबकि राम का स्थिर रहना यह दर्शाता है कि सच्ची भक्ति और समर्पण से ही आत्मा की शांति प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.531Z"
+  }
+}

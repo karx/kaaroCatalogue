@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k5s4b-xee2n",
+  "name": "Crowdwork - Stand up comedy by Manik Mahna",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-manik-mahna"
+  },
+  "duration": "PT2M34S",
+  "embedUrl": "https://www.youtube.com/embed/qltxdCqvMFo",
+  "contentUrl": "https://www.youtube.com/watch?v=qltxdCqvMFo",
+  "uploadDate": "2020-06-13",
+  "thumbnailUrl": "https://i.ytimg.com/vi/qltxdCqvMFo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Manik Mahna",
+  "aggregatorChannel": null
+}

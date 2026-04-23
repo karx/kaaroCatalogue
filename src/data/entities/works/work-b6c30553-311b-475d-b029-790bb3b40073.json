@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b6c30553-311b-475d-b029-790bb3b40073",
+  "name": "नगर चन तब जानिये, जब एकै राजा होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A city can only be known when there is one king. In a land with multiple rulers, no one has ever seen true happiness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नगर चन तब जानिये, जब एकै राजा होय।\nयाहि दुराजी राज में, सुखी न देखा कोय।।२२१४।।",
+    "translation": "A city can only be known when there is one king. In a land with multiple rulers, no one has ever seen true happiness.",
+    "meaning": "नगर तब ही जानना चाहिए जब वहाँ एक ही राजा हो। कई शासकों के राज्य में, किसी ने भी सच्ची खुशी नहीं देखी।",
+    "explanation": "इस दोहे में संत कबीर जी यह दर्शाते हैं कि एक साम्राज्य या नगर तब ही समृद्ध और संगठित हो सकता है जब वहाँ एक ही राजा हो। कई शासकों के बीच, व्यवस्था और शांति की कमी होती है, जिससे सच्ची खुशी प्राप्त नहीं होती। कबीर जी यह सिखाते हैं कि एकता और एकल नेतृत्व ही सामाजिक और व्यक्तिगत खुशहाली की कुंजी है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.081Z"
+  }
+}

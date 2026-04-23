@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-sumukhi-suresh",
+  "name": "Sumukhi Suresh",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "en",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Sumukhi_Suresh",
+    "https://www.youtube.com/channel/UCZxgQ6lydRlm3rqF3jSEUeA"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sumukhi_Suresh",
+    "retrievedAt": "2026-01-05T19:34:04.702Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e7c2abfe-6980-412c-85e1-001a06db5ac2",
+  "name": "जौ मानुष गृह धर्म युत, राखै शील विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who upholds domestic duties and virtues, and who engages in the guru's teachings and saintly company, both in mind and speech, finds true essence in service.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जौ मानुष गृह धर्म युत, राखै शील विचार।\nगुरुमुख बानी साधु संग, मन वच सेवा सार।।३६४।।",
+    "translation": "One who upholds domestic duties and virtues, and who engages in the guru's teachings and saintly company, both in mind and speech, finds true essence in service.",
+    "meaning": "जो व्यक्ति घरेलू कर्तव्यों और गुणों को बनाए रखता है, और गुरु की बातों और संतों की संगति में मन और वचन से संलग्न रहता है, वही सेवा का सार पाता है।।",
+    "explanation": "इस दोहे में कबीरदास ने घरेलू धर्म और शील के महत्व को बताते हुए गुरु की बातों और संतों की संगति की महत्ता को स्वीकार किया है। एक व्यक्ति जो अपने घर के धर्म और शील को निभाता है और गुरु की शिक्षाओं के प्रति मन और वचन से समर्पित रहता है, वह सेवा का असली अर्थ समझता है। यह दोहा यह भी सिखाता है कि सच्ची सेवा और साधना का सार केवल बाहरी क्रियाओं से नहीं, बल्कि आंतरिक भक्ति और नैतिकता से प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

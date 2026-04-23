@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-81afa964-2371-4fee-b0cf-8342da479c8f",
+  "name": "दीन गरीबी बंदगी, साधुन सो आधीन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Humility and service are the true devotion, and the humble are dependent on the saints. I wish to stay with them just as a fish stays in water.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीन गरीबी बंदगी, साधुन सो आधीन।\nताके संग मैं यौं रहूं, ज्‍यौं पानी संग मीन।।१३९८।।",
+    "translation": "Humility and service are the true devotion, and the humble are dependent on the saints. I wish to stay with them just as a fish stays in water.",
+    "meaning": "दीनता और सेवा ही सच्ची भक्ति है, और साधु ही विनम्र व्यक्ति का सहारा हैं। मैं उनके साथ उसी तरह रहना चाहता हूं जैसे मछली पानी के साथ रहती है।",
+    "explanation": "कबीर इस दोहे में सच्चे साधु की संगति और सेवा की महत्ता पर बल देते हैं। वे कहते हैं कि विनम्रता और सेवा ही सच्ची भक्ति का मार्ग हैं, और साधु ही इस मार्ग पर चलने वाले के सहायक हैं। यह दोहा हमें सिखाता है कि साधुओं की संगति और उनकी सेवा में रहकर ही हम सच्चे आध्यात्मिक मार्ग पर चल सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.092Z"
+  }
+}

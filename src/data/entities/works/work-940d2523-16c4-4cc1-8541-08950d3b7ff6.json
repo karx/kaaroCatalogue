@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-940d2523-16c4-4cc1-8541-08950d3b7ff6",
+  "name": "कुल खाये कुल उबरै, कुल राखै कुल जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One's lineage eats and supports, and then lineage perishes. The name of Ram is the true lineage, all other lineages eventually fade away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कुल खाये कुल उबरै, कुल राखै कुल जाय।\nराम निकुल कुल भोटिया, सब कुल गया बिलाय।।९२४।।",
+    "translation": "One's lineage eats and supports, and then lineage perishes. The name of Ram is the true lineage, all other lineages eventually fade away.",
+    "meaning": "व्यक्ति की वंशावली भोजन करती है और समर्थन देती है, फिर वह वंश समाप्त हो जाता है। राम का नाम ही सच्ची वंशावली है, अन्य सभी वंश धीरे-धीरे समाप्त हो जाते हैं।",
+    "explanation": "इस दोहे में कबीर जीवन और वंश की क्षणिकता को दर्शाते हैं। वे बताते हैं कि भौतिक वंश और परिवार केवल अस्थायी होते हैं, और वे अंततः समाप्त हो जाते हैं। लेकिन राम का नाम और उसकी भक्ति ही वास्तविक वंशावली है जो अनंतकाल तक बनी रहती है। कबीर यह सिखाते हैं कि हमें भौतिक वंशावली पर गर्व करने के बजाय, आध्यात्मिक नाम और सत्य को समझना और अपनाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.625Z"
+  }
+}

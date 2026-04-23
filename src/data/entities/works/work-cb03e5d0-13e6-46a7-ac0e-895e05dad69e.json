@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb03e5d0-13e6-46a7-ac0e-895e05dad69e",
+  "name": "संगति ऐसी कीजिये, सरसा नर सो संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Associate with such people whose company is like the syrupy nectar; even if they have flaws, do not abandon their company.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संगति ऐसी कीजिये, सरसा नर सो संग।\nलर-लर लोई हेत है, तऊ न छौड़ रंग।।४००।।",
+    "translation": "Associate with such people whose company is like the syrupy nectar; even if they have flaws, do not abandon their company.",
+    "meaning": "ऐसी संगति कीजिये, जैसे मीठे रस की संगत हो; भले ही उनमें कुछ दोष हों, लेकिन उनकी संगति को छोड़ना मत।",
+    "explanation": "इस दोहे में कबीर दास जी ने सच्ची और गुणी संगति की महत्वता को दर्शाया है। वे कहते हैं कि हमें ऐसी संगति करनी चाहिए जो मीठे रस की तरह हो, जिससे जीवन में मिठास और सुख मिले। हालांकि, उनमें कुछ दोष हो सकते हैं, लेकिन हमें उनकी संगति को नहीं छोड़ना चाहिए। यह दोहा हमें यह सिखाता है कि सही संगति से जीवन में मिठास और गुण प्राप्त होते हैं, और हमें ऐसे लोगों के साथ रहना चाहिए जो हमें सकारात्मक दिशा में मार्गदर्शन करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

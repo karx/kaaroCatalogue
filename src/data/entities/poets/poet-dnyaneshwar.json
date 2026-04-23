@@ -1,0 +1,31 @@
+{
+  "entityId": "poet-dnyaneshwar",
+  "name": "Dnyaneshwar",
+  "@type": "Person",
+  "knowsLanguage": "Marathi",
+  "era": "Bhakti",
+  "century": "13th Century",
+  "literaryMovement": "Varkari",
+  "titles": [
+    "Sant Dnyaneshwar"
+  ],
+  "keywords": [
+    "Dnyaneshwari",
+    "Bhagavad Gita",
+    "Philosophy",
+    "Vernacular"
+  ],
+  "abstract": "Wrote the Dnyaneshwari (a Marathi commentary on the Gita) and Amrutanubhav. Laid the foundation of Marathi language by translating complex Sanskrit philosophy into vernacular.",
+  "majorWorks": [
+    "Dnyaneshwari",
+    "Amrutanubhav"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Dnyaneshwar"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

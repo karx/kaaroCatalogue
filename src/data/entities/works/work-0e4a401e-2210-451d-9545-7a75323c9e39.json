@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0e4a401e-2210-451d-9545-7a75323c9e39",
+  "name": "{{hlist",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kazi-nazrul"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/{{hlist",
+    "retrievedAt": "2026-01-04T18:39:22.687Z"
+  }
+}

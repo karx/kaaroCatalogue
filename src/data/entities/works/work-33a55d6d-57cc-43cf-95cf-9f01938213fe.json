@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-33a55d6d-57cc-43cf-95cf-9f01938213fe",
+  "name": "महमंता मन मारि ले, घट ही मांही घेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kill the egoistic mind and surround yourself with purity. Let the water flow from the back and control it with a discipline.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "महमंता मन मारि ले, घट ही मांही घेर।\nजल ही चालै पीठ दे, आंकूस दे दे फेर।।१११९।।",
+    "translation": "Kill the egoistic mind and surround yourself with purity. Let the water flow from the back and control it with a discipline.",
+    "meaning": "अहंकारी मन को मार डालो और शुद्धता से खुद को घेर लो। पानी को पीठ से बहने दो और अनुशासन से उसे नियंत्रित करो।",
+    "explanation": "इस दोहे में कबीर ने अहंकार को नियंत्रित करने और शुद्धता को अपनाने की बात की है। उन्होंने बताया है कि अहंकारी मन को समाप्त करके और शुद्धता को अपने जीवन में समेटकर, आत्म-नियंत्रण प्राप्त किया जा सकता है। पानी का बहाव पीठ से प्रतीक है, जिसे अनुशासन से नियंत्रित किया जाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

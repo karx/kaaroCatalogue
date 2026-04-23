@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aca46b83-50bd-43e9-8ae4-3ecf4872a19c",
+  "name": "चाकी चली गुपाल की, सब जग पीसा झार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mill of Gopal grinds the entire world, separating the wheat from the chaff. The words of Kabir act as a block that opens the mill's jaws.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चाकी चली गुपाल की, सब जग पीसा झार।\nरुड़ा शब्‍द कबीर का, डारा पाट उघार।।१०४७।।",
+    "translation": "The mill of Gopal grinds the entire world, separating the wheat from the chaff. The words of Kabir act as a block that opens the mill's jaws.",
+    "meaning": "गुपाल की चक्की पूरे जगत को पीसकर कचरा और अनाज को अलग करती है। कबीर के शब्द उस चक्की की जबड़ों को खोलने का काम करते हैं।",
+    "explanation": "इस दोहे में कबीर दुनिया को चक्की के रूप में चित्रित करते हैं, जो सबको पीसती है। गुपाल (ईश्वर) उस चक्की को चला रहे हैं और कबीर के शब्द उस चक्की के चक्र को रोकने का काम करते हैं। यह संसार की नश्वरता और मोक्ष के लिए ज्ञान की आवश्यकता का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.166Z"
+  }
+}

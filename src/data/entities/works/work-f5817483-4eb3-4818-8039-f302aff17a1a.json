@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f5817483-4eb3-4818-8039-f302aff17a1a",
+  "name": "पर नारी पर सुंदरी, बिरला बंच कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Among women, a beautiful one is rare. She may appear sweet like sugar, but in the end, she turns into poison.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पर नारी पर सुंदरी, बिरला बंच कोइ।\nखातां मीठी खांड सी, अंति कालि विष होइ।।२०४०।।",
+    "translation": "Among women, a beautiful one is rare. She may appear sweet like sugar, but in the end, she turns into poison.",
+    "meaning": "महिलाओं में एक सुंदर महिला बहुत कम होती है। वह चीनी की तरह मीठी लग सकती है, लेकिन अंत में विष में बदल जाती है।",
+    "explanation": "इस दोहे में कबीर ने सुंदर महिलाओं की rarity और उनके मधुरता के बावजूद अंत में विषम स्वभाव की बात की है। यह दर्शाता है कि बाहरी सुंदरता स्थायी नहीं होती और समय के साथ उसकी प्रकृति बदल सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.811Z"
+  }
+}

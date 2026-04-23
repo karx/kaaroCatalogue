@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7dhf-82bq9",
+  "name": "Zomato Roast",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-samay-raina"
+  },
+  "duration": "PT1M",
+  "embedUrl": "https://www.youtube.com/embed/YggJwXAeRfo",
+  "contentUrl": "https://www.youtube.com/watch?v=YggJwXAeRfo",
+  "uploadDate": "2024-07-09",
+  "thumbnailUrl": "https://i.ytimg.com/vi/YggJwXAeRfo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "@zomato has always been the coolest brand I've worked with. Thank you for inviting me to roast you in person (chat support mai kar kar k thak gaya tha)",
+  "channelTitle": "Samay Raina",
+  "aggregatorChannel": null
+}

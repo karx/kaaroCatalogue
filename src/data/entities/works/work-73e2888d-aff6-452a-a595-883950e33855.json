@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-73e2888d-aff6-452a-a595-883950e33855",
+  "name": "यह औसर चेत्‍या नहीं, पशु ज्‍यौं पाली देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This opportunity is not recognized, like animals maintaining the body. Not knowing the name of Ram, in the end, one faces suffering.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह औसर चेत्‍या नहीं, पशु ज्‍यौं पाली देह।\nराम नाम जान्‍यो नहीं, अन्‍त पड़े मुख खेह।।९२३।।",
+    "translation": "This opportunity is not recognized, like animals maintaining the body. Not knowing the name of Ram, in the end, one faces suffering.",
+    "meaning": "यह अवसर पहचाना नहीं जाता, जैसे जानवर शरीर की देखभाल करते हैं। राम नाम का ज्ञान न होने पर, अंत में कष्ट सहना पड़ता है।",
+    "explanation": "इस दोहे में कबीर यह दिखाते हैं कि लोग अक्सर अपनी आध्यात्मिक जिम्मेदारियों को नजरअंदाज करते हैं और केवल भौतिक रूप से जीवित रहते हैं। वे इसे जानवरों की तरह प्रस्तुत करते हैं जो सिर्फ शरीर की देखभाल करते हैं लेकिन आत्मा की वास्तविकता को समझते नहीं। कबीर का यह संदेश है कि केवल भौतिक जीवन की चिंता करने के बजाय, हमें राम नाम और आध्यात्मिक ज्ञान को समझना चाहिए, ताकि अंत में कष्ट न सहना पड़े।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.625Z"
+  }
+}

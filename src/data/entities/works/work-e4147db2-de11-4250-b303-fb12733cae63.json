@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4147db2-de11-4250-b303-fb12733cae63",
+  "name": "साधु कहावन कठिन है, ज्यों खांड़े की धार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The path of a saint is as difficult as the edge of a razor. If you falter, you will fall; only the steadfast will cross over.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु कहावन कठिन है, ज्यों खांड़े की धार।\nडगमगाय तो गिर पड़े, निहचल उतरे पार।।३३३।।",
+    "translation": "The path of a saint is as difficult as the edge of a razor. If you falter, you will fall; only the steadfast will cross over.",
+    "meaning": "साधु का मार्ग छुरी की धार की तरह कठिन है। यदि आप डगमगाते हैं, तो गिर जाएंगे; केवल जो स्थिर और अडिग हैं वे पार कर पाएंगे।",
+    "explanation": "कबीर इस दोहे में यह समझाते हैं कि साधु का मार्ग कठिन और संवेदनशील होता है। स्थिरता और दृढ़ता से ही इस मार्ग पर सफलता प्राप्त की जा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

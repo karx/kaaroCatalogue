@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c936a267-26c2-412b-8e26-84507c0a6f9c",
+  "name": "हद में रहैं सो मानवी, बेहद रहै सो साध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who remains within limits is human, while one who dwells in the infinite is a sage. To transcend both limits and the infinite is to possess profound understanding.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हद में रहैं सो मानवी, बेहद रहै सो साध।\nहद बेहद दोनों तजैं, तिनका मता अगाध।।२२३०।।",
+    "translation": "One who remains within limits is human, while one who dwells in the infinite is a sage. To transcend both limits and the infinite is to possess profound understanding.",
+    "meaning": "जो सीमाओं में रहता है, वह मानव है, और जो अनंत में रहता है, वह साधु है। हद और बेहद दोनों को त्याग कर, जो समझ प्राप्त करता है, वह गहन मति का स्वामी है।",
+    "explanation": "इस दोहे में कबीर जी यह बताते हैं कि सीमाओं में बंधा व्यक्ति मानव होता है, जबकि अनंत में निवास करने वाला साधु होता है। लेकिन, जब व्यक्ति हद और बेहद दोनों को पार कर लेता है, तो वह गहरी समझ और ज्ञान प्राप्त करता है। यह दर्शाता है कि वास्तविक आध्यात्मिक समझ दोनों की सीमाओं से परे जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.085Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-04bfef33-a62e-424f-bdb9-0539d7dc96e2",
+  "name": "घाट भुलाना बाट बिनु, वेष भुलानी कानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Lost is the path to the riverbank without direction, and one forgets their attire in confusion. Despite living in the world, one cannot recognize the divine.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "घाट भुलाना बाट बिनु, वेष भुलानी कानि।\nजाकि मांडी जगत महं, सो न परा पहिचानि।।१४९९।।",
+    "translation": "Lost is the path to the riverbank without direction, and one forgets their attire in confusion. Despite living in the world, one cannot recognize the divine.",
+    "meaning": "बिना दिशा के घाट का रास्ता भूल जाता है और भ्रम में व्यक्ति अपने वस्त्रों को भूल जाता है। इस संसार में रहते हुए भी व्यक्ति ईश्वर को पहचान नहीं पाता।",
+    "explanation": "कबीर इस दोहे में भ्रम और अज्ञानता के कारण व्यक्ति के जीवन की दिशाहीनता की बात करते हैं। वे कहते हैं कि जब व्यक्ति अपने जीवन में सही मार्गदर्शन के बिना चलता है, तो वह संसार में रहते हुए भी ईश्वर को नहीं पहचान पाता। जैसे बिना मार्गदर्शन के कोई घाट का रास्ता भूल जाता है, वैसे ही व्यक्ति जीवन के महत्वपूर्ण सत्य को भी नहीं समझ पाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.662Z"
+  }
+}

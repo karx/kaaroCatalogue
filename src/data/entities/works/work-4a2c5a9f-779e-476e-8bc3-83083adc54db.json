@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4a2c5a9f-779e-476e-8bc3-83083adc54db",
+  "name": "सांचे गुरु के पक्ष में, मन को दे ठहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the presence of a true guru, calm the restless mind. When made still, it neither comes nor goes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांचे गुरु के पक्ष में, मन को दे ठहराय।\nचंचल से निश्‍चल भया, नहिं आवै नहिं जाय।।५२७।।",
+    "translation": "In the presence of a true guru, calm the restless mind. When made still, it neither comes nor goes.",
+    "meaning": "सच्चे गुरु की उपस्थिति में, चंचल मन को शांत करें। जब मन स्थिर हो जाता है, तो न आना और न जाना होता है।",
+    "explanation": "कबीर ने इस दोहे में सच्चे गुरु की उपस्थिति में मन को शांत करने का महत्व बताया है। जब मन स्थिर हो जाता है, तो वह स्थिरता ही शांति का कारण बनती है। यह दोहा यह दर्शाता है कि सच्चा गुरु हमें आंतरिक शांति और स्थिरता प्रदान करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

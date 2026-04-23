@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-051b35ef-8da3-4e98-9385-cc8e3ec8ee31",
+  "name": "सबै रसाइण मैं किया, हरि सा और न कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All essences are within me, there is no other like Hari. If a single seed of sesame is contained, then everything turns into gold.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सबै रसाइण मैं किया, हरि सा और न कोइ।\nतिल इक घट मैं संचरै, तौ सबतन कंचन होइ।।१९५६।।",
+    "translation": "All essences are within me, there is no other like Hari. If a single seed of sesame is contained, then everything turns into gold.",
+    "meaning": "सभी रस मेरे भीतर हैं, हरि के जैसा कोई और नहीं है। यदि एक तिल का बीज संचित हो, तो सब कुछ सोने में बदल जाता है।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि सच्चे आत्मज्ञान में सभी रस और गुण समाहित होते हैं। जब एक व्यक्ति अपनी आत्मा में हरि की उपस्थिति को महसूस करता है, तो वह हर चीज को अमूल्य और दिव्य समझने लगता है। एक तिल का बीज प्रतीक है कि एक छोटी सी आंतरिक साधना भी सम्पूर्णता और अमृतत्व को प्रदान कर सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.528Z"
+  }
+}

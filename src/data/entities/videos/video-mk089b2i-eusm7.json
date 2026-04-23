@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089b2i-eusm7",
+  "name": "RAHUL SUBRAMANIAN | LIVE IN BANGALORE | CROWD WORK (PART 1)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rahul-subramanian"
+  },
+  "duration": "PT14M34S",
+  "embedUrl": "https://www.youtube.com/embed/2Oy4HpUJSgE",
+  "contentUrl": "https://www.youtube.com/watch?v=2Oy4HpUJSgE",
+  "uploadDate": "2020-01-15",
+  "thumbnailUrl": "https://i.ytimg.com/vi/2Oy4HpUJSgE/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "Releasing my first (of few) crowd-work video from the show that I did in Bangalore, on 14th September 2019 at That Comedy Club. Crowd work is a sub-genre of stand up comedy, which is completely unscripted and based purely on audience interactions. \n\nI am currently doing an India tour of my crowd wor",
+  "channelTitle": "Random Chikibum",
+  "aggregatorChannel": null
+}

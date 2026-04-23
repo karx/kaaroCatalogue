@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4549b0fe-80f8-483b-aafa-10587181d75a",
+  "name": "आपा सबही जात है, किया कराया सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ego is the root of all differences; what one does is determined by ego. If one renounces ego and worships the Lord, they become a true devotee.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आपा सबही जात है, किया कराया सोय।\nआपा तजि हरि को भजै, लाखन मध्‍ये होय।।१२५३।।",
+    "translation": "Ego is the root of all differences; what one does is determined by ego. If one renounces ego and worships the Lord, they become a true devotee.",
+    "meaning": "अहंकार सब भेदों की जड़ है; जो किया जाता है, वह अहंकार द्वारा निर्धारित होता है। यदि कोई अहंकार को छोड़कर भगवान की पूजा करता है, तो वह सच्चा भक्त बन जाता है।",
+    "explanation": "इस दोहे में कबीर ने अहंकार और उसके प्रभावों को समझाया है। उन्होंने यह भी बताया है कि अहंकार को छोड़कर भगवान की भक्ति करने से व्यक्ति सच्चा भक्त बन जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.542Z"
+  }
+}

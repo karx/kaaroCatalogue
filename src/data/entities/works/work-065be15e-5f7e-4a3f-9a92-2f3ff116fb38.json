@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-065be15e-5f7e-4a3f-9a92-2f3ff116fb38",
+  "name": "ज्ञान समागम प्रेम सुख, दया भक्ति विश्‍वास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Knowledge, love, happiness, compassion, devotion, and trust come together. Through the service of the Guru, one attains the dwelling in the feet of the True Guru.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञान समागम प्रेम सुख, दया भक्ति विश्‍वास।\nगुरु सेवा ते पाइये, सद्गुरु चरण निवास।।४८९।।",
+    "translation": "Knowledge, love, happiness, compassion, devotion, and trust come together. Through the service of the Guru, one attains the dwelling in the feet of the True Guru.",
+    "meaning": "ज्ञान, प्रेम, सुख, दया, भक्ति और विश्वास एकत्रित होते हैं। गुरु की सेवा के माध्यम से, व्यक्ति सद्गुरु के चरणों में निवास प्राप्त करता है।",
+    "explanation": "इस दोहे में कबीर ने गुरु की सेवा और गुरु के चरणों में निवास के महत्व को बताया है। ज्ञान, प्रेम, सुख, दया, भक्ति और विश्वास ये सभी गुण गुरु की सेवा के माध्यम से प्राप्त होते हैं। जब कोई व्यक्ति सच्चे गुरु की सेवा करता है, तो उसे इन सभी गुणों का मिलन होता है और वह गुरु के चरणों में निवास प्राप्त करता है, जो जीवन की पूर्णता का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.197Z"
+  }
+}

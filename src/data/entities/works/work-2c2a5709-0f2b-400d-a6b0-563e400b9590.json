@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2c2a5709-0f2b-400d-a6b0-563e400b9590",
+  "name": "दासातन हिरदै नहीं, नाम धरावै दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A true servant does not possess pride; they are known by their devotion. Without drinking water, how can thirst be quenched?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दासातन हिरदै नहीं, नाम धरावै दास।\nपानी के पीये बिना, कैसे मिटै पियास।।६९१।।",
+    "translation": "A true servant does not possess pride; they are known by their devotion. Without drinking water, how can thirst be quenched?",
+    "meaning": "सच्चा सेवक गर्व नहीं करता; उसे उसकी भक्ति से जाना जाता है। पानी पिए बिना, प्यास कैसे बुझाई जा सकती है?",
+    "explanation": "इस दोहे में कबीर सच्ची भक्ति और विनम्रता की बात करते हैं। वे कहते हैं कि एक सच्चा सेवक गर्व से रहित होता है और अपनी भक्ति के कारण पहचाना जाता है। पानी पीने के बिना प्यास को कैसे बुझाया जा सकता है, यही संदर्भ यह बताता है कि भक्ति और साधना के बिना आत्मिक प्यास को शांत नहीं किया जा सकता। यह दोहा भक्ति की वास्तविकता और उसकी महत्वता को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.272Z"
+  }
+}

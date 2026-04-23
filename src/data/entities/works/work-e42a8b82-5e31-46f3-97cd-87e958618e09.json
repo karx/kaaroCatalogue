@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e42a8b82-5e31-46f3-97cd-87e958618e09",
+  "name": "मोह फंद सब फंदिया, कोय न सके निवार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Desire is the net of all nets; no one can escape it. Only a few wise saints, who have truly contemplated the essence, can understand it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मोह फंद सब फंदिया, कोय न सके निवार।\nकोई साधु जन पारखी, बिरला तत्‍व विचार।।१२१२।।",
+    "translation": "Desire is the net of all nets; no one can escape it. Only a few wise saints, who have truly contemplated the essence, can understand it.",
+    "meaning": "मोह सभी फंदों का फंदा है; कोई भी इससे नहीं बच सकता। केवल कुछ साधु और ज्ञानी लोग, जिन्होंने सत्य का वास्तविक विचार किया है, इसे समझ सकते हैं।",
+    "explanation": "इस दोहे में कबीर ने मोह को सभी फंदों के सबसे बड़े फंदे के रूप में वर्णित किया है, जिससे कोई नहीं बच सकता। सच्चे साधु और ज्ञानी ही इसका वास्तविक स्वरूप समझ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.268Z"
+  }
+}

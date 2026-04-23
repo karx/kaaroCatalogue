@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6e47501d-b1c7-4493-9c58-2384f9f93d42",
+  "name": "कथनी मीठी खांड सी, करनी विष की लोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Words are as sweet as sugar, but actions are like poison. When actions are taken based on words, the poison turns into nectar.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कथनी मीठी खांड सी, करनी विष की लोय।\nकथनी से करनी करै, विष से अमृत होय।।१३०६।।",
+    "translation": "Words are as sweet as sugar, but actions are like poison. When actions are taken based on words, the poison turns into nectar.",
+    "meaning": "शब्द मीठे शक्कर जैसे होते हैं, लेकिन कर्म विष के समान होते हैं। जब कर्म शब्दों के आधार पर किए जाते हैं, तो विष अमृत में बदल जाता है।",
+    "explanation": "कबीर जी के अनुसार, शब्द भले ही कितने भी मधुर क्यों न हों, लेकिन यदि उनके आधार पर कर्म नहीं किए जाते, तो वे बेकार होते हैं। सही कर्म करने से शब्दों का वास्तविक प्रभाव उत्पन्न होता है, और विष से अमृत प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.809Z"
+  }
+}

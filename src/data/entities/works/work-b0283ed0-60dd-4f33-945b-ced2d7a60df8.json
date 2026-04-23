@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b0283ed0-60dd-4f33-945b-ced2d7a60df8",
+  "name": "जिन ढूंढा तिन पाइयां, गहिरै पानी पैठ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who sought found it, diving deep into the water. I feared the depth of the water, remained sitting on the shore.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिन ढूंढा तिन पाइयां, गहिरै पानी पैठ।\nमैं बंपरा बडने डरा, रहा किनारे बैठ।।५३४।।",
+    "translation": "Those who sought found it, diving deep into the water. I feared the depth of the water, remained sitting on the shore.",
+    "meaning": "जिन्होंने गहराई में जाकर ढूंढा, उन्हें सच्चाई मिल गई। मैं गहरे पानी से डरकर किनारे पर ही बैठा रहा।",
+    "explanation": "इस दोहे में कबीर जी बताते हैं कि जो लोग गहरे पानी में उतरकर सत्य को खोजते हैं, उन्हें सफलता मिलती है। मैं गहरे पानी के डर से किनारे पर ही बैठा रहा, इसलिए सच्चाई नहीं पा सका।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

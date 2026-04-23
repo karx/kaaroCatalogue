@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-46427caa-c47f-46fa-ac94-e77b19447c42",
+  "name": "मन ही को परमोधिये, मन ही को उपदेस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is the supreme teacher and the mind itself is the guide. He who controls the mind becomes the master of all lands.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन ही को परमोधिये, मन ही को उपदेस।\nजो यह मन को बसि करै, सीष होय सब देस।।११५१।।",
+    "translation": "The mind is the supreme teacher and the mind itself is the guide. He who controls the mind becomes the master of all lands.",
+    "meaning": "मन ही परम उपदेशक है और मन ही मार्गदर्शक है। जो मन को नियंत्रित करता है, वह सभी देशों का मालिक हो जाता है।",
+    "explanation": "इस दोहे में कबीर ने मन की महत्वपूर्ण भूमिका और आत्म-ज्ञान की बात की है। उन्होंने कहा कि मन स्वयं सबसे बड़ा शिक्षक और मार्गदर्शक है। जो व्यक्ति अपने मन को नियंत्रित करता है, वह अपने जीवन में हर जगह सफल हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.967Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7785e5ec-1e43-42f2-9942-0037b0ba30b4",
+  "name": "है गै गैंवर सघन घन, छत्र धजा फहराइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The dark cloud of thick rain, with the flag fluttering. The comfort of that is better than the heat; by remembering Hari, the day passes peacefully.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "है गै गैंवर सघन घन, छत्र धजा फहराइ।\nता सुख थैं भिष्‍या भली, हरि सुमिरत दिन जाइ।।१९८३।।",
+    "translation": "The dark cloud of thick rain, with the flag fluttering. The comfort of that is better than the heat; by remembering Hari, the day passes peacefully.",
+    "meaning": "घने बादल की छांव और झंडा फहराता हुआ दृश्य बहुत सुखद है। इस सुख की तुलना में गर्मी की पीड़ा कम है; हरि का स्मरण करते हुए दिन सुखपूर्वक बीत जाता है।",
+    "explanation": "इस दोहे में कबीर ने गर्मी और धूप के विपरीत घने बादल की छांव की सुखदता की बात की है। उन्होंने यह भी कहा है कि हरि का स्मरण करके दिन अच्छे से बीत जाता है, जो इस धरती की परेशानियों से मुक्ति प्रदान करता है। यह भक्ति और ध्यान के माध्यम से शांति की प्राप्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.534Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-62075d9d-1ec1-4825-a2db-8999a292a1ce",
+  "name": "कोटि नाम संसार में, ताते मुक्ति न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the world, countless names are uttered, but liberation is not achieved through them. Only the hidden and ancient name that is secretly recited is known to very few.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोटि नाम संसार में, ताते मुक्ति न होय।\nआदि नाम जो गुप्‍त जप, बिरला जाने कोय।।७४९।।",
+    "translation": "In the world, countless names are uttered, but liberation is not achieved through them. Only the hidden and ancient name that is secretly recited is known to very few.",
+    "meaning": "दुनिया में अनगिनत नाम बोले जाते हैं, लेकिन उनसे मुक्ति नहीं मिलती। केवल वही प्राचीन और गुप्त नाम जो चुपके से जाप किया जाता है, उसे ही बहुत कम लोग जानते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि संसार में कितने भी नाम लिए जाएं, वे मुक्ति नहीं दिला सकते। असली मुक्ति के लिए वह प्राचीन और गुप्त नाम की साधना आवश्यक है, जिसे बहुत कम लोग समझ पाते हैं। यह नाम सही भक्ति और गहरी साधना के माध्यम से ही प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.546Z"
+  }
+}

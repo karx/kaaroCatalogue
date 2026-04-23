@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b12bcd4f-f74c-45f8-ad29-57d50b4feef0",
+  "name": "टूका माही टक दे, चीर माहि सो चीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One stitch in the cloth makes it whole. Do not hesitate to give; this is what Kabir says.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "टूका माही टक दे, चीर माहि सो चीर।\nसाधु देत न सकुचिये, यों कथि कहहिं कबीर।।५९०।।",
+    "translation": "One stitch in the cloth makes it whole. Do not hesitate to give; this is what Kabir says.",
+    "meaning": "कपड़े में एक टांका लगाने से वह पूरी हो जाती है। देने में संकोच मत करो; यही कबीर कहते हैं।",
+    "explanation": "कबीर का संदेश है कि हमें देना चाहिए बिना किसी संकोच या बाधा के। जैसे कपड़े में एक टांका उसे पूरा करता है, वैसे ही हमारी देने की भावना समाज में पूर्णता लाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

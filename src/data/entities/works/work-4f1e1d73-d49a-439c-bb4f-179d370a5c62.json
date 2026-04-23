@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4f1e1d73-d49a-439c-bb4f-179d370a5c62",
+  "name": "rah-e-KHizan mein talash-e-bahaar karte rahe",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/rah-e-khizaan-men-talaash-e-bahaar-karte-rahe-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.213Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/rah-e-khizaan-men-talaash-e-bahaar-karte-rahe-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nrah-e-ḳhizāñ meñ talāsh-e-bahār karte rahe\nshab-e-siyah se talab husn-e-yār karte rahe\nḳhayāl-e-yār kabhī zikr-e-yār karte rahe\nisī matā.a pe ham rozgār karte rahe\nnahīñ shikāyat-e-hijrāñ ki is vasīle se\nham un se rishta-e-dil ustuvār karte rahe\nvo din ki koī bhī jab vaj.h-e-intizār na thī\nham un meñ terā sivā intizār karte rahe\nham apne raaz pe nāzāñ the sharmsār na the\nhar ek se suḳhan-e-rāz-dār karte rahe\nziyā-e-bazm-e-jahāñ baar baar maañd huī\nhadīs-e-shola-ruḳhāñ baar baar karte rahe\nunhīñ ke faiz se bāzār-e-aql raushan hai\njo gaah gaah junūñ iḳhtiyār karte rahe\nrah-e-KHizan mein talash-e-bahaar karte rahe\nshab-e-siyah se talab husn-e-yar karte rahe\nKHayal-e-yar kabhi zikr-e-yar karte rahe\nisi mataa pe hum rozgar karte rahe\nnahin shikayat-e-hijran ki is wasile se\nhum un se rishta-e-dil ustuwar karte rahe\nwo din ki koi bhi jab wajh-e-intizar na thi\nhum un mein tera siwa intizar karte rahe\nhum apne raaz pe nazan the sharmsar na the\nhar ek se suKHan-e-raaz-dar karte rahe\nziya-e-bazm-e-jahan bar bar mand hui\nhadis-e-shola-ruKHan bar bar karte rahe\nunhin ke faiz se bazar-e-aql raushan hai\njo gah gah junun iKHtiyar karte rahe",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nرہ خزاں میں تلاش بہار کرتے رہے\nشب سیہ سے طلب حسن یار کرتے رہے\nخیال یار کبھی ذکر یار کرتے رہے\nاسی متاع پہ ہم روزگار کرتے رہے\nنہیں شکایت ہجراں کہ اس وسیلے سے\nہم ان سے رشتۂ دل استوار کرتے رہے\nوہ دن کہ کوئی بھی جب وجہ انتظار نہ تھی\nہم ان میں تیرا سوا انتظار کرتے رہے\nہم اپنے راز پہ نازاں تھے شرمسار نہ تھے\nہر ایک سے سخن راز دار کرتے رہے\nضیائے بزم جہاں بار بار ماند ہوئی\nحدیث شعلہ رخاں بار بار کرتے رہے\nانہیں کے فیض سے بازار عقل روشن ہے\nجو گاہ گاہ جنوں اختیار کرتے رہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nरह-ए-ख़िज़ाँ में तलाश-ए-बहार करते रहे\nशब-ए-सियह से तलब हुस्न-ए-यार करते रहे\nख़याल-ए-यार कभी ज़िक्र-ए-यार करते रहे\nइसी मताअ' पे हम रोज़गार करते रहे\nनहीं शिकायत-ए-हिज्राँ कि इस वसीले से\nहम उन से रिश्ता-ए-दिल उस्तुवार करते रहे\nवो दिन कि कोई भी जब वज्ह-ए-इन्तिज़ार न थी\nहम उन में तेरा सिवा इंतिज़ार करते रहे\nहम अपने राज़ पे नाज़ाँ थे शर्मसार न थे\nहर एक से सुख़न-ए-राज़-दार करते रहे\nज़िया-ए-बज़्म-ए-जहाँ बार बार मांद हुई\nहदीस-ए-शोला-रुख़ाँ बार बार करते रहे\nउन्हीं के फ़ैज़ से बाज़ार-ए-अक़्ल रौशन है\nजो गाह गाह जुनूँ इख़्तियार करते रहे",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:32.732Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-254afbff-fe22-40ea-b561-1968d9a8d17c",
+  "name": "कबीर साथी सो किया, जाके सुख दुख नहीं कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the true companion is one with whom there is no sorrow or joy. Together in unity, playing and merging, there is never any separation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर साथी सो किया, जाके सुख दुख नहीं कोइ।\nहिलि मिलि ह्वै करि खेलिस्‍यूं, कदे बिछोह न होइ।।१४३६।।",
+    "translation": "Kabir says that the true companion is one with whom there is no sorrow or joy. Together in unity, playing and merging, there is never any separation.",
+    "meaning": "कबीर कहते हैं कि सच्चा साथी वह है जिसके साथ कोई सुख या दुख नहीं होता। एक साथ मिलकर खेलना और विलीन होना, कभी कोई बिछोह नहीं होता।",
+    "explanation": "कबीर इस दोहे में सच्ची मित्रता और एकता का वर्णन करते हैं। वे बताते हैं कि सच्चा साथी वह है जिसमें सुख और दुख का कोई भेद न हो। जब दो लोग पूरी एकता में मिलकर रहते हैं, तो कभी कोई बिछोह नहीं होता। यह दोहा सच्ची मित्रता और परस्पर समर्पण की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.365Z"
+  }
+}

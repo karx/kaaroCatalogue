@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-67b02e24-cf8f-418d-bc57-a77a6bcc4f13",
+  "name": "मन के बहुतक रंग हैं, छिन छिन बदले सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind has many colors, changing every moment. Rare is the one who remains in a single color.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन के बहुतक रंग हैं, छिन छिन बदले सोय।\nएक रंग में जो रहे, ऐसा बिरला कोय।।११२७।।",
+    "translation": "The mind has many colors, changing every moment. Rare is the one who remains in a single color.",
+    "meaning": "मन के बहुत सारे रंग होते हैं, जो हर पल बदलते रहते हैं। ऐसा व्यक्ति जो एक ही रंग में स्थिर रहे, वह बहुत ही दुर्लभ है।",
+    "explanation": "इस दोहे में कबीर ने मन की अस्थिरता और लगातार बदलते स्वभाव को बताया है। उन्होंने कहा है कि मन के रंग हमेशा बदलते रहते हैं, और जो व्यक्ति इस बदलाव को स्थिरता में बदल देता है, वह बहुत ही विशेष होता है। यह स्थिरता और आत्म-नियंत्रण की कठिनाई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.704Z"
+  }
+}

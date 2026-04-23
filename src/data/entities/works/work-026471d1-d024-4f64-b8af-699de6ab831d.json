@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-026471d1-d024-4f64-b8af-699de6ab831d",
+  "name": "कबीर तहां न जाइये, जहं तो कुल को हेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, do not go where there is attachment to family lineage. Where they do not understand sainthood, and take pride in their family name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर तहां न जाइये, जहं तो कुल को हेत।\nसाधुपनो जानै नहीं, नाम बाप को लेत।।९७५।।",
+    "translation": "Kabir says, do not go where there is attachment to family lineage. Where they do not understand sainthood, and take pride in their family name.",
+    "meaning": "कबीर कहते हैं, वहां मत जाओ, जहां केवल कुल और वंश का लगाव है। जहां वे साधुपन को नहीं समझते, और अपने कुल के नाम पर गर्व करते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी पारिवारिक प्रतिष्ठा और साधुपन के बीच के अंतर को बताते हैं। वह कहते हैं कि हमें उन स्थानों से दूर रहना चाहिए, जहां लोग केवल अपने वंश और कुल के नाम पर गर्व करते हैं और साधुपन या सच्चे आध्यात्मिक जीवन को नहीं समझते। यह दोहा हमें सिखाता है कि हमें सच्ची आध्यात्मिकता की खोज में रहना चाहिए, न कि केवल पारिवारिक गर्व और प्रतिष्ठा में।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.893Z"
+  }
+}

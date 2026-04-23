@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f9011f82-b6a1-474b-8fc2-f4cbd9b31a29",
+  "name": "सुरति समांणी निरति मैं, अपजा माहै जाप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The awareness of the divine essence is equated with devotion. The written and unwritten knowledge is the same; the self is realized within.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुरति समांणी निरति मैं, अपजा माहै जाप।\nलेख समांणं अलेख मैं, यूं आपा मांहे आप।।१८०२।।",
+    "translation": "The awareness of the divine essence is equated with devotion. The written and unwritten knowledge is the same; the self is realized within.",
+    "meaning": "दिव्य तत्व की जागरूकता को भक्ति के समान माना जाता है। लिखा हुआ और लिखा न हुआ ज्ञान समान है; आत्मा की अनुभूति अंदर होती है।",
+    "explanation": "इस दोहे में कबीर ने दिव्य जागरूकता और भक्ति के समानता को दर्शाया है। लिखा हुआ और अवर्णित ज्ञान समान होते हैं, और आत्मा की वास्तविकता केवल भीतर ही अनुभव की जाती है। कबीर यहाँ पर आत्मज्ञान और आंतरिक साक्षात्कार की बात कर रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.621Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-681cf0bd-d72c-4fa7-b3e4-6d3bd349cc65",
+  "name": "पढ़‍ि पढ़‍ि के समुझावई, मन नहिं धारै धीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even after reading and advising, the mind does not hold steady. The worry about food remains; thus says servant Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पढ़‍ि पढ़‍ि के समुझावई, मन नहिं धारै धीर।\nरोटी का संसै पड़ा, यौं कह दास कबीर।।१३०७।।",
+    "translation": "Even after reading and advising, the mind does not hold steady. The worry about food remains; thus says servant Kabir.",
+    "meaning": "पढ़ने और सलाह देने के बावजूद, मन स्थिर नहीं रहता। भोजन की चिंता बनी रहती है; ऐसा कहते हैं दास कबीर।",
+    "explanation": "कबीर जी के अनुसार, केवल पढ़ाई और सलाह देने से कुछ नहीं होता जब तक मन स्थिर न हो। मन की स्थिरता और आत्म-संतोष प्राप्त करना महत्वपूर्ण है, क्योंकि भोजन की चिंता अंततः बनी रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.809Z"
+  }
+}

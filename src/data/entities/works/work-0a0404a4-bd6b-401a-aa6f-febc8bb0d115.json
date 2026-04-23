@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a0404a4-bd6b-401a-aa6f-febc8bb0d115",
+  "name": "भंवर विलंबे बाग में, बहु फूलन की बास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The whirlpool is delayed in the garden, filled with the scent of many flowers. Similarly, the soul lost in desire eventually becomes disillusioned.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भंवर विलंबे बाग में, बहु फूलन की बास।\nऐसे जिव बिलमे विषय में, अन्‍तहु चले निरास।।१६२४।।",
+    "translation": "The whirlpool is delayed in the garden, filled with the scent of many flowers. Similarly, the soul lost in desire eventually becomes disillusioned.",
+    "meaning": "भंवर बाग में विलंबित है, जिसमें कई फूलों की खुशबू है। इसी प्रकार, जो जीव इच्छाओं में खोया रहता है, वह अंततः निराश हो जाता है।",
+    "explanation": "कबीर इस दोहे में इच्छाओं और निराशा के चक्र का वर्णन करते हैं। उन्होंने कहा कि जैसे भंवर बाग में देर से आता है और उसमें कई फूलों की खुशबू होती है, वैसे ही इच्छाओं में खोया हुआ जीव अंत में निराश हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.506Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6c27fc29-43b4-4572-b4b7-f74355202152",
+  "name": "हिरदा भीतरि दौं बलै, धूंवां प्रगट न होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fire inside the heart remains hidden, not revealed outwardly. Only those who experience it know it, just as the smoke reveals the fire to those who can perceive it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हिरदा भीतरि दौं बलै, धूंवां प्रगट न होइ।\nजाकै लागी सो लखै, कै जिहि लाई सोइ।।१९४३।।",
+    "translation": "The fire inside the heart remains hidden, not revealed outwardly. Only those who experience it know it, just as the smoke reveals the fire to those who can perceive it.",
+    "meaning": "दिल के भीतर की आग छुपी रहती है, जो बाहर प्रकट नहीं होती। केवल वही लोग इसे जानते हैं जो इसे अनुभव करते हैं, जैसे धुंआ आग को उन लोगों के लिए प्रकट करता है जो इसे देख सकते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी ने भीतर की आत्मिक अग्नि को उजागर किया है, जो बाहर से प्रकट नहीं होती। यह केवल उन लोगों द्वारा अनुभव की जाती है जो इसे भीतर से समझ सकते हैं। जैसे धुंआ आग को दिखाता है, वैसे ही आंतरिक अनुभव भी सत्य को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.256Z"
+  }
+}

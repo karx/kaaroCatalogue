@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-780c7245-a0ea-4a5f-97a7-b91d46328438",
+  "name": "भंवर जाल बगु जाल है, बूड़े बहुत अचेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The whirlpool and the net are traps; many drown unconsciously. Kabir says, those who have wisdom in their hearts will be saved.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भंवर जाल बगु जाल है, बूड़े बहुत अचेत।\nकहहिं कबीर ते बांचिहैं, जाके हृदय विवेक।।१६२३।।",
+    "translation": "The whirlpool and the net are traps; many drown unconsciously. Kabir says, those who have wisdom in their hearts will be saved.",
+    "meaning": "भंवर और जाल एक प्रकार के फंदे हैं; कई लोग बेहोशी में डूब जाते हैं। कबीर कहते हैं, जो लोग अपने हृदय में विवेक रखते हैं, वे बच जाते हैं।",
+    "explanation": "कबीर इस दोहे में चेतना और विवेक के महत्व की बात करते हैं। उन्होंने कहा कि भंवर और जाल जैसे जाल में कई लोग अनजाने में फंस जाते हैं, लेकिन जो लोग हृदय में विवेक रखते हैं, वे सुरक्षित रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.506Z"
+  }
+}

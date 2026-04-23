@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ed444916-6b9c-4d2e-ad33-8839fe4671c2",
+  "name": "गुरुमुख गुरु चितवन रहे, जैसे मणिहिं भुजंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A disciple should always keep their focus on the Guru, just as a snake is always focused on the gem. Kabir says, this is a true disciple's duty.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरुमुख गुरु चितवन रहे, जैसे मणिहिं भुजंग।\nकहैं कबीर बिसरें नहीं, यह गुरुमुख को अंग।।६७४।।",
+    "translation": "A disciple should always keep their focus on the Guru, just as a snake is always focused on the gem. Kabir says, this is a true disciple's duty.",
+    "meaning": "शिष्य को हमेशा अपने गुरु पर ध्यान केंद्रित रखना चाहिए, जैसे सांप मणि पर ध्यान केंद्रित रखता है। कबीर कहते हैं, यही सच्चे शिष्य का कर्तव्य है।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि सच्चे शिष्य को अपने गुरु पर उसी प्रकार ध्यान केंद्रित रखना चाहिए जैसे सांप मणि पर। शिष्य को गुरु के प्रति समर्पित रहना चाहिए और कभी भी गुरु को भूलना नहीं चाहिए। यही सच्ची भक्ति और समर्पण का प्रतीक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.270Z"
+  }
+}

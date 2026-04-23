@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-314a5767-ad0c-4a7f-aa11-66945d607fa5",
+  "name": "कबीर सबते हम बुरे, हमते भल सब कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, 'I am the worst of all, everyone else is better than me.' The one who understands this is my true friend.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सबते हम बुरे, हमते भल सब कोय।\nजिन ऐसा करि बूझिया, मीत हमारा सोय।।१४००।।",
+    "translation": "Kabir says, 'I am the worst of all, everyone else is better than me.' The one who understands this is my true friend.",
+    "meaning": "कबीर कहते हैं, 'मैं सबमें सबसे बुरा हूं, बाकी सब मुझसे बेहतर हैं।' जिसने ऐसा समझ लिया, वह मेरा सच्चा मित्र है।",
+    "explanation": "कबीर इस दोहे में गहरी विनम्रता का भाव व्यक्त करते हैं। वे कहते हैं कि खुद को सबसे नीचा समझना ही सच्ची विनम्रता है, और जो इस भाव को समझता है, वही सच्चा मित्र हो सकता है। यह दोहा हमें अहंकार छोड़कर विनम्रता अपनाने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.092Z"
+  }
+}

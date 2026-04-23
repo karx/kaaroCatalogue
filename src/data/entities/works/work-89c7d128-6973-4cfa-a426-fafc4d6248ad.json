@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-89c7d128-6973-4cfa-a426-fafc4d6248ad",
+  "name": "Payoji Maine Ram Ratan Dhan Payo",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-meera-bai"
+  },
+  "inLanguage": "Hindi",
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Famous bhajan celebrating the jewel of Ram.",
+  "keywords": [],
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Meera",
+    "retrievedAt": "2026-02-05T19:43:59.470Z"
+  }
+}

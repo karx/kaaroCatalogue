@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8195fcd4-2e02-4247-a3ef-a689121620e5",
+  "name": "कबीर नौबत आपनी, दिन दस लेहु बजाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Take your time to play your own drum for ten days. This city, this street, will never be seen again.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर नौबत आपनी, दिन दस लेहु बजाय।\nयह पुर पट्टन यह गली, बहुरि न देखहु आय।।८९६।।",
+    "translation": "Take your time to play your own drum for ten days. This city, this street, will never be seen again.",
+    "meaning": "अपनी बांसुरी बजाने के लिए दस दिन का समय ले लो। यह शहर और यह गली फिर कभी नहीं देखोगे।",
+    "explanation": "कबीर इस दोहे में जीवन की अनिश्चितता और स्थायित्व की कमी को उजागर करते हैं। वे सुझाव देते हैं कि हमें अपने जीवन को पूरी तरह से जीना चाहिए और उन वस्तुओं या स्थानों को महत्व देना चाहिए जो हमारे जीवन में मौजूद हैं, क्योंकि एक बार जब समय बीत जाता है, तो वे कभी लौटकर नहीं आते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.354Z"
+  }
+}

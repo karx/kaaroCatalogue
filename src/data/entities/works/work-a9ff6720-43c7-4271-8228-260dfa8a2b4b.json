@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a9ff6720-43c7-4271-8228-260dfa8a2b4b",
+  "name": "काहे हरिणी दुर्बली, चरे हरियरे ताल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why is the deer so weak, even though it grazes on green grass? The hunter targets one, but how long can the arrow be avoided?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काहे हरिणी दुर्बली, चरे हरियरे ताल।\nलक्ष्‍य अहेरी एक मृग, केतिक टारे भाल।।१४८४।।",
+    "translation": "Why is the deer so weak, even though it grazes on green grass? The hunter targets one, but how long can the arrow be avoided?",
+    "meaning": "हरिणी इतनी दुर्बल क्यों है, जबकि वह हरे ताल (घास) को खा रही है? शिकारी का निशाना एक ही हिरण होता है, लेकिन वह कितने समय तक बाण से बच सकता है?",
+    "explanation": "इस दोहे में कबीर ने जीवन के अस्थिरता और अंत की अनिवार्यता को दर्शाया है। हिरण के उदाहरण से वे समझा रहे हैं कि जीवन की हरियाली के बावजूद मृत्यु (शिकारी का बाण) हमेशा निकट होती है। कोई व्यक्ति कितना भी प्रयास कर ले, लेकिन अंततः उसे मृत्यु का सामना करना पड़ता है। यह दोहा जीवन की नश्वरता का बोध कराता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.659Z"
+  }
+}

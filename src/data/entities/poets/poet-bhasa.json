@@ -1,0 +1,26 @@
+{
+  "entityId": "poet-bhasa",
+  "name": "Bhasa",
+  "@type": "Person",
+  "knowsLanguage": "Sanskrit",
+  "era": "Classical",
+  "century": "2nd-3rd Century CE",
+  "keywords": [
+    "Nataka",
+    "Drama",
+    "Tragedy"
+  ],
+  "abstract": "A predecessor to Kalidasa, known for Urubhangam (The Breaking of Thighs), a rare Sanskrit tragedy where the hero Duryodhana dies on stage, defying dramatic conventions.",
+  "majorWorks": [
+    "Svapnavasavadattam",
+    "Urubhangam"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Bhasa"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bhasa",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

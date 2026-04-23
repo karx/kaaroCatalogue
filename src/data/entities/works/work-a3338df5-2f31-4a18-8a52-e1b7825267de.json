@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a3338df5-2f31-4a18-8a52-e1b7825267de",
+  "name": "जहं यह जियरा पगु धरे, बखत बराबर साथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wherever the soul takes a step, time always accompanies it. What is written in destiny will unfold unerringly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जहं यह जियरा पगु धरे, बखत बराबर साथ।\nजो है लिखा नसीब में, चलै न अविचल बात।।१३४४।।",
+    "translation": "Wherever the soul takes a step, time always accompanies it. What is written in destiny will unfold unerringly.",
+    "meaning": "जहां भी आत्मा कदम रखती है, समय हमेशा साथ होता है। जो कुछ भाग्य में लिखा है, वह बिना किसी विचलन के प्रकट होता है।",
+    "explanation": "कबीर जी के अनुसार, आत्मा और समय एक साथ चलते हैं और भाग्य में जो लिखा है, वह बिना किसी परिवर्तन के घटित होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.816Z"
+  }
+}

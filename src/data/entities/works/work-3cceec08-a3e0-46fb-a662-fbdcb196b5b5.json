@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3cceec08-a3e0-46fb-a662-fbdcb196b5b5",
+  "name": "तन का बैरी कोइ नहीं, जो मन शीतल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "There is no enemy of the body if the mind is calm. When you abandon ego, everyone becomes compassionate.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन का बैरी कोइ नहीं, जो मन शीतल होय।\nतूं आपा को डारि दे, दया करे सब कोय।।१११३।।",
+    "translation": "There is no enemy of the body if the mind is calm. When you abandon ego, everyone becomes compassionate.",
+    "meaning": "यदि मन शांत हो तो शरीर का कोई भी बैरी नहीं होता। जब आप अपने अहंकार को छोड़ देते हैं, तब सभी लोग दयालु हो जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने मन की शांति और अहंकार के त्याग की महत्वता को बताया है। उन्होंने कहा है कि अगर मन शांत हो, तो शरीर में कोई भी शत्रु नहीं होता। अहंकार का त्याग करने से सभी लोग दयालु और सहानुभूति से भरे लगते हैं। यह दोहा बताता है कि अहंकार की उपस्थिति दूसरों से शत्रुता पैदा करती है, लेकिन जब अहंकार दूर हो जाता है, तो स्नेह और दया का वातावरण बनता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.702Z"
+  }
+}

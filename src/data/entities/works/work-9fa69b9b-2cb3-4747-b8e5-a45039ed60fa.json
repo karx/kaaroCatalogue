@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9fa69b9b-2cb3-4747-b8e5-a45039ed60fa",
+  "name": "हीरा को कछु ना घटा, घट जो बेचन हार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The jewel does not diminish, it is diminished by the seller. Life is wasted, like blind and foolish animals.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हीरा को कछु ना घटा, घट जो बेचन हार।\nजन्‍म गमायो आपनौ, अंधे पशू गंवार।।२१६०।।",
+    "translation": "The jewel does not diminish, it is diminished by the seller. Life is wasted, like blind and foolish animals.",
+    "meaning": "हीरा कभी घटता नहीं है, इसे घटाने वाला बेचने वाला होता है। जीवन बर्बाद होता है, अंधे और मूर्ख जानवरों की तरह।",
+    "explanation": "इस दोहे में कबीर ने हीरा और उसके मूल्य की बात की है। हीरा अपनी मौलिकता और मूल्य में कोई कमी नहीं करता, लेकिन बेचने वाले के कारण उसका मूल्य कम हो सकता है। इसी तरह, जीवन का भी मूल्य है, लेकिन अगर हम सही तरीके से नहीं जीते हैं, तो हम इसे बर्बाद कर सकते हैं। यह दोहा हमें यह सिखाता है कि जीवन और मूल्यवान वस्तुओं की सही पहचान और उनका सही उपयोग महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.722Z"
+  }
+}

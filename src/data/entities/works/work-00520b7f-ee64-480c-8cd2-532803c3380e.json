@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-00520b7f-ee64-480c-8cd2-532803c3380e",
+  "name": "मरुं पर मांगू नहीं, अपने तन के काज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I do not beg for anything in the desert of life or for personal needs. For the sake of selflessness, I feel no shame.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मरुं पर मांगू नहीं, अपने तन के काज।\nपरमारथ के कारनै, मोहि न आवै लाज।।११००।।",
+    "translation": "I do not beg for anything in the desert of life or for personal needs. For the sake of selflessness, I feel no shame.",
+    "meaning": "मैं जीवन के रेगिस्तान में या अपनी व्यक्तिगत जरूरतों के लिए कुछ नहीं मांगता। परमार्थ के कारण, मुझे कोई लाज नहीं आती।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थ और परमार्थ की असली भावना को प्रकट किया है। कबीर कहते हैं कि वे जीवन की कठिन परिस्थितियों में और अपनी व्यक्तिगत जरूरतों के लिए कुछ नहीं मांगते। परमार्थ के लिए काम करना उनका उद्देश्य है और वे इसके लिए किसी भी प्रकार की लाज महसूस नहीं करते। यह सच्चे परमार्थ और नि:स्वार्थ सेवा की भावना को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.431Z"
+  }
+}

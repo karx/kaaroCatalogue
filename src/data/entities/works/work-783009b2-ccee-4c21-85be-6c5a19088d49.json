@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-783009b2-ccee-4c21-85be-6c5a19088d49",
+  "name": "बारी पारी आपने, चले पियारे मीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Your turn will come after a while, as dear friends move on. Your turn for life is approaching, but it does not come near as expected.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बारी पारी आपने, चले पियारे मीत।\nतेरी बारी जीवरा, नियरै आवै नीत।।९१३।।",
+    "translation": "Your turn will come after a while, as dear friends move on. Your turn for life is approaching, but it does not come near as expected.",
+    "meaning": "तुम्हारी बारी एक समय बाद आएगी, जैसे प्यारे दोस्त चलते हैं। तुम्हारी जीवन की बारी आ रही है, लेकिन यह अपेक्षित समय पर नहीं आती।",
+    "explanation": "इस दोहे में कबीर समय और जिम्मेदारी की बात करते हैं। वे बताते हैं कि जैसे किसी के आने की बारी एक समय बाद आती है, वैसे ही जीवन की जिम्मेदारियों की बारी भी आती है। इस दोहे से कबीर यह सिखाते हैं कि हमें अपने समय और जिम्मेदारियों को समझना चाहिए और समय पर अपनी बारी की प्रतीक्षा करनी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.624Z"
+  }
+}

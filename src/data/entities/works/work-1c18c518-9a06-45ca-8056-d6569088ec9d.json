@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1c18c518-9a06-45ca-8056-d6569088ec9d",
+  "name": "साबुन बिचारा क्या करे, गाँठे राखे मोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What can the innocent soap do, it only keeps the stains? Water cannot wash away the essence; how can it be cleansed?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साबुन बिचारा क्या करे, गाँठे राखे मोय।\nजल सो अरसां नहिं, क्यों कर ऊजल होय।।२६६।।",
+    "translation": "What can the innocent soap do, it only keeps the stains? Water cannot wash away the essence; how can it be cleansed?",
+    "meaning": "निर्दोष साबुन क्या कर सकता है, यह केवल दागों को रखता है। पानी सार को धो नहीं सकता; इसे कैसे साफ किया जा सकता है?",
+    "explanation": "इस दोहे में कबीर साबुन और पानी की सीमाओं को दिखाते हैं। वे कहते हैं कि साबुन केवल दागों को ही रोक सकता है, और पानी सार को धोने में असमर्थ है। यह दोहा गुरु के सच्चे प्रभाव और उनकी आवश्यकता को स्पष्ट करता है कि केवल गुरु ही असली सफाई कर सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

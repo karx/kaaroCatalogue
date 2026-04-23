@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a4b8f5e2-ab14-41a6-9a4f-823ea085736b",
+  "name": "सांच हुआ तो क्‍या हुआ, नाम न सांचा जान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What if one is truthful? If the name is not truly understood, the genuine truth cannot be recognized. The truth must be found within the truth itself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांच हुआ तो क्‍या हुआ, नाम न सांचा जान।\nसांचा होय सांचा मिलै, सांचै मांहि समान।।१४१७।।",
+    "translation": "What if one is truthful? If the name is not truly understood, the genuine truth cannot be recognized. The truth must be found within the truth itself.",
+    "meaning": "सच्चा होने पर क्या हुआ? अगर नाम को सच्चे अर्थ में नहीं समझा जाता, तो सच्चाई को नहीं पहचाना जा सकता। सच्चाई को सच्चाई में ही ढूंढना होगा।",
+    "explanation": "कबीर इस दोहे में सच्चाई की गहराई और समझ पर जोर देते हैं। वे कहते हैं कि केवल सच्चा होना ही पर्याप्त नहीं है; सच्चाई की वास्तविक पहचान और समझ भी आवश्यक है। सच्चाई को सच्चाई में ही जानना और पहचानना होता है। यह दोहा सच्चाई की समझ को विकसित करने और गहराई से समझने की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.361Z"
+  }
+}

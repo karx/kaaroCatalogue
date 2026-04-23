@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6af8655a-b149-4868-ba51-c4608100a585",
+  "name": "साधु बिरछ सतज्ञान फल, शीतल शब्द विचार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint is like a tree bearing the fruit of true knowledge, offering cool and soothing words. Without saints in the world, the world remains filled with ignorance.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु बिरछ सतज्ञान फल, शीतल शब्द विचार।\nजग में होते साधु नहिं, जर भरता संसार।।३१९।।",
+    "translation": "The saint is like a tree bearing the fruit of true knowledge, offering cool and soothing words. Without saints in the world, the world remains filled with ignorance.",
+    "meaning": "साधु एक ऐसे वृक्ष के समान हैं, जो सत्य ज्ञान का फल प्रदान करते हैं और ठंडी और शीतल बातें करते हैं। यदि साधु संसार में न हों, तो संसार अज्ञान से भरा रहता है।",
+    "explanation": "कबीर इस दोहे में साधु के महत्व को बताते हैं। साधु जैसे वृक्ष के फल की तरह होते हैं, जो ज्ञान और शांति प्रदान करते हैं। बिना साधुओं के, संसार अज्ञान और दुख से भरा रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

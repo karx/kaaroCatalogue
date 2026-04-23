@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8098280a-8e19-4293-901b-833d278177e7",
+  "name": "गगन मंडल के बीच में, तहवां झलकै नूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In the midst of the sky, there is a glimpse of light. A palace without a Guru is not attained; only by reaching the Guru does one achieve completeness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गगन मंडल के बीच में, तहवां झलकै नूर।\nनिगुरा महल न पावई, पहुंचेगा गुरु पूर।।५५३।।",
+    "translation": "In the midst of the sky, there is a glimpse of light. A palace without a Guru is not attained; only by reaching the Guru does one achieve completeness.",
+    "meaning": "आसमान के बीच में एक प्रकाश की झलक होती है। गुरु के बिना महल नहीं मिलते; केवल गुरु तक पहुँचने से पूर्णता प्राप्त होती है।",
+    "explanation": "यह दोहा कहता है कि आसमान के बीच में एक प्रकाश की झलक होती है, जैसे गुरु के बिना जीवन में पूर्णता प्राप्त नहीं होती। गुरु की उपस्थिति और आशीर्वाद से ही जीवन में सच्ची पूर्णता और सफलता मिलती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.726Z"
+  }
+}

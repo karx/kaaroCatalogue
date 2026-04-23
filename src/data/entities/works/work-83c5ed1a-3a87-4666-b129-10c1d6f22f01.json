@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-83c5ed1a-3a87-4666-b129-10c1d6f22f01",
+  "name": "जैसी कहे करे जो, तैसी राग द्वेष निरुवारे",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One’s actions reflect their inner feelings of attachment and aversion. In such a state, the mind is not at peace, and this method governs itself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसी कहे करे जो, तैसी राग द्वेष निरुवारे।\nता महं घटै बट्टे रतियो नहिं, यहि विधि आपु समारे।।१५३७।।",
+    "translation": "One’s actions reflect their inner feelings of attachment and aversion. In such a state, the mind is not at peace, and this method governs itself.",
+    "meaning": "व्यक्ति की क्रियाएँ उनकी आंतरिक इच्छाओं और द्वेषों को दर्शाती हैं। इस अवस्था में मन शांति में नहीं रहता, और यही विधि स्वयं को नियंत्रित करती है।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि हमारे कार्य हमारे भीतर के राग और द्वेष को व्यक्त करते हैं। जब व्यक्ति इन भावनाओं से ग्रसित होता है, तो उनका मन शांति की स्थिति में नहीं होता। कबीर का तात्पर्य है कि हमें अपनी आंतरिक स्थिति को समझना चाहिए और उसे ठीक करना चाहिए ताकि हम सही मार्ग पर चल सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.934Z"
+  }
+}

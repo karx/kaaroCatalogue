@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-aacce2d4-6056-4262-84a7-8e03a994f0dd",
+  "name": "सुख के संगी स्‍वारथी, दुख मे रहते दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one who is selfish stays away in times of sorrow, while the selfless one remains present in both joy and sorrow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुख के संगी स्‍वारथी, दुख मे रहते दूर।\nकहैं कबीर परमारथी, दुख सुख सदा हजूर।।१०९७।।",
+    "translation": "The one who is selfish stays away in times of sorrow, while the selfless one remains present in both joy and sorrow.",
+    "meaning": "स्वार्थी व्यक्ति सुख के समय के साथी होते हैं, लेकिन दुख के समय दूर चले जाते हैं। कबीर कहते हैं, परमार्थी व्यक्ति दुख और सुख दोनों समय हमेशा मौजूद रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थी और परमार्थी व्यक्तियों के व्यवहार की तुलना की है। स्वार्थी लोग केवल सुख के समय के साथ होते हैं, लेकिन दुख के समय से दूर चले जाते हैं। इसके विपरीत, सच्चे परमार्थी व्यक्ति हर परिस्थिति में, चाहे सुख हो या दुख, हमेशा साथ रहते हैं। यह सच्ची भक्ति और मानवता की पहचान है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.430Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-76876d8f-e7df-44da-8357-deade8e3f318",
+  "name": "पांय पदारथ पेलिया, कांकर लीन्‍हां हाथ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The foot of the goal is fixed, hands are full of pebbles. The pair of the swan is scattered, and it walks with the crane.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पांय पदारथ पेलिया, कांकर लीन्‍हां हाथ।\nजोडी बिछुरी हंस की, चला वुंगा के साथ।।२१५४।।",
+    "translation": "The foot of the goal is fixed, hands are full of pebbles. The pair of the swan is scattered, and it walks with the crane.",
+    "meaning": "लक्ष्य का पैर स्थिर है, हाथों में कंकड़ भरे हुए हैं। हंस की जोड़ी बिखर गई है, और वह बगुला के साथ चलती है।",
+    "explanation": "इस दोहे में कबीर ने जीवन की अस्थिरता और असंगति को दिखाया है। लक्ष्य का पैर स्थिर है, लेकिन हाथों में कंकड़ भरना दर्शाता है कि सब कुछ स्थिर नहीं रहता। हंस की जोड़ी का बिखर जाना और बगुला के साथ चलना इस बात को दर्शाता है कि जोड़ी टूट जाती है और असामान्य साथी के साथ रास्ता तय करना पड़ता है। यह दोहा जीवन की अनिश्चितताओं और उसके साथ जीने की कला को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.721Z"
+  }
+}

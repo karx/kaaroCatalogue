@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7633144e-a09b-4db2-a1ca-48a2c03ff350",
+  "name": "जैसी लागी ओर की, तैसी निबहै छोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As one treats others, so shall they be treated. By accumulating wealth bit by bit, one might achieve a great goal.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जैसी लागी ओर की, तैसी निबहै छोर।\nकोड़ी कोड़ी जोरि के, कीन्‍हों लक्ष्‍य करोर।।१५३९।।",
+    "translation": "As one treats others, so shall they be treated. By accumulating wealth bit by bit, one might achieve a great goal.",
+    "meaning": "जैसे एक व्यक्ति दूसरों के साथ व्यवहार करता है, उसे वैसा ही व्यवहार प्राप्त होता है। धन को छोटे-छोटे हिस्सों में जोड़कर, कोई बड़ा लक्ष्य प्राप्त कर सकता है।",
+    "explanation": "इस दोहे में कबीर यह समझाते हैं कि हमारे कर्म और व्यवहार का प्रभाव हमारे जीवन पर होता है। यदि हम दूसरों के साथ अच्छा व्यवहार करेंगे, तो हमें भी अच्छा ही मिलेगा। साथ ही, छोटे-छोटे प्रयासों को जोड़कर बड़ा लक्ष्य प्राप्त किया जा सकता है। यह दोहा कर्म और मेहनत के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.934Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-497d84c7-a9d9-4615-975b-ed019b613e04",
+  "name": "कबीर मन मधुकर भया, रह्या निरंतर बास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir has become like a bee, constantly dwelling in the heart. The lotus blooms without water; who can see this servant's inner state?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन मधुकर भया, रह्या निरंतर बास।\nकंवल जू फूल्‍या फूल जलह बिन, को देखै निज दास।।१७८५।।",
+    "translation": "Kabir has become like a bee, constantly dwelling in the heart. The lotus blooms without water; who can see this servant's inner state?",
+    "meaning": "कबीर मधुप की तरह हो गए हैं, जो निरंतर मन में निवास करते हैं। कमल बिना पानी के खिलता है; कौन इस दास की आंतरिक स्थिति को देख सकता है?",
+    "explanation": "इस दोहे में कबीर ने अपनी आंतरिक शांति और भक्ति की स्थिति को मधुप और कमल के फूल से तुलना की है। जैसे मधुप अपने मन में निरंतर निवास करता है और कमल बिना पानी के खिलता है, वैसे ही कबीर का मन भक्ति में पूर्ण रूप से स्थापित है। यह दोहा आंतरिक शांति और भक्ति की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.353Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3ec70123-c967-4e47-b095-c0cf0f183b2f",
+  "name": "अजहूँ तेरा सब मिटैं, जो मानै गुरु सीख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even now, all your misdeeds will be erased if you accept the guru's teachings. As long as you remain at home, seeking alms is futile.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अजहूँ तेरा सब मिटैं, जो मानै गुरु सीख।\nजब लग तू घर में रहै, मति कहुँ माँगे भीख।।३७३।।",
+    "translation": "Even now, all your misdeeds will be erased if you accept the guru's teachings. As long as you remain at home, seeking alms is futile.",
+    "meaning": "अभी भी, यदि आप गुरु की शिक्षा को मानते हैं, तो आपके सभी दोष मिट सकते हैं। जब तक आप घर में रहेंगे, भीख माँगना व्यर्थ है।।",
+    "explanation": "इस दोहे में कबीरदास ने गुरु की शिक्षा को मानने के महत्व को बताया है। वे कहते हैं कि गुरु की शिक्षा को स्वीकार करने से सभी दोष मिट जाते हैं। और जब तक कोई व्यक्ति घर में रहकर भीख माँगता है, तब तक वह व्यर्थ होता है। यह दोहा इस बात पर जोर देता है कि गुरु की शिक्षा से आत्म-सुधार और प्रगति संभव है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

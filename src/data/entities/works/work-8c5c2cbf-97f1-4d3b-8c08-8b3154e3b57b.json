@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8c5c2cbf-97f1-4d3b-8c08-8b3154e3b57b",
+  "name": "काजी का बेटा मुआ, उरमैं सालै पीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Qazi's son died, and the Pir (saint) is deeply troubled. God is the father of all, yet the warrior does not accept this.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजी का बेटा मुआ, उरमैं सालै पीर।\nवह साहब सबका पिता, भला न मानै बीर।।२२५७।।",
+    "translation": "The Qazi's son died, and the Pir (saint) is deeply troubled. God is the father of all, yet the warrior does not accept this.",
+    "meaning": "काज़ी का बेटा मर गया, और पीर (संत) गहरे दुख में है। साहब (ईश्वर) सभी का पिता है, लेकिन योद्धा (काजी) इसे स्वीकार नहीं करता।",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि काज़ी का बेटा मर गया और पीर दुखी है। लेकिन वह समझाते हैं कि ईश्वर सभी का पिता है और जीवन-मृत्यु ईश्वर की इच्छा पर निर्भर है। योद्धा (काजी) इसे मानने को तैयार नहीं है, क्योंकि वह अपने अहंकार में लिप्त है। इस दोहे के माध्यम से कबीर जी अहंकार और ईश्वर की सर्वव्यापकता के विषय में सिखा रहे हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2251-to-2300.md",
+    "retrievedAt": "2026-01-04T19:06:01.346Z"
+  }
+}

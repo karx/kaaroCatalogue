@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-61e0d74b-887f-4a9a-8167-a7f305e90093",
+  "name": "सोना सज्जन साधुजन, टूट जुड़े सौ बार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Gold and virtuous saints may break and rejoin a hundred times. The wicked, like a clay pot, breaks with a single blow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोना सज्जन साधुजन, टूट जुड़े सौ बार।\nदुर्जन कुंभ कुम्हार के, एके धक्का दरार।।४५४।।",
+    "translation": "Gold and virtuous saints may break and rejoin a hundred times. The wicked, like a clay pot, breaks with a single blow.",
+    "meaning": "सोना और सज्जन साधु लोग सौ बार टूटकर भी जुड़ सकते हैं। लेकिन दुष्ट व्यक्ति, जैसे कुम्हार का घड़ा, एक ही धक्के से टूट जाता है।",
+    "explanation": "इस दोहे में कबीर यह कहते हैं कि सज्जन और पुण्यशील लोग चाहे कितनी भी कठिनाइयों का सामना करें, वे फिर भी एकजुट हो जाते हैं। इसके विपरीत, दुष्ट और बुरे लोग अत्यंत कमजोर होते हैं और एक छोटी सी कठिनाई से ही टूट जाते हैं। यह दोहा व्यक्ति की आंतरिक शक्ति और दुष्टता की कमजोरी को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.194Z"
+  }
+}

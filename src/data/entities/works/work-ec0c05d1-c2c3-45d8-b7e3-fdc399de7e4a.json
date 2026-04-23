@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ec0c05d1-c2c3-45d8-b7e3-fdc399de7e4a",
+  "name": "ते दिन गये अकारथी, संगत भई न संत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those days are gone, where there was no purpose, and association with saints was absent. Without love, life is like that of animals, and without devotion, God remains distant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ते दिन गये अकारथी, संगत भई न संत।\nप्रेम बिना पशु जीवना, भक्ति बिना भगवंत।।१२६।।",
+    "translation": "Those days are gone, where there was no purpose, and association with saints was absent. Without love, life is like that of animals, and without devotion, God remains distant.",
+    "meaning": "वे दिन गए जब कोई उद्देश्य नहीं था और संतों की संगत भी नहीं थी। प्रेम के बिना जीवन पशुओं जैसा होता है और भक्ति के बिना भगवान दूर रहता है।",
+    "explanation": "इस दोहे में कबीर यह व्यक्त करते हैं कि जिन दिनों में उद्देश्यहीनता और संतों की संगत की कमी थी, वे बीत चुके हैं। प्रेम के बिना जीवन पशुओं जैसा निष्ठुर होता है, और भक्ति के बिना भगवान की सच्ची अनुभूति नहीं हो सकती। इसलिए प्रेम और भक्ति महत्वपूर्ण हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

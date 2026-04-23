@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ba6ca36c-8289-4df0-8ef9-5231f55dfae1",
+  "name": "पद जौरै साखी कहै, साधन पड़‍ि गयी रोस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The position and the story say that the practice has become difficult. One does not drink the water drawn out; how can one drink that which is drawn out?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पद जौरै साखी कहै, साधन पड़‍ि गयी रोस।\nकाढ़ा जल पीवै नहीं, का‍ढ़‍ि पीवन की होस।।१३०४।।",
+    "translation": "The position and the story say that the practice has become difficult. One does not drink the water drawn out; how can one drink that which is drawn out?",
+    "meaning": "पद और कहानी कहती है कि अभ्यास कठिन हो गया है। कोई निकाले हुए पानी को नहीं पीता; तो जो निकाला जाता है उसे कैसे पियेंगे?",
+    "explanation": "कबीर जी इस दोहे में यह बताते हैं कि पद और कहानियों के बावजूद, जब अभ्यास कठिन हो जाता है, तब केवल शब्दों से कुछ नहीं होता। हमें वास्तविक प्रयास और कर्म करने चाहिए, क्योंकि निकाले हुए पानी का कोई उपयोग नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.809Z"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9ce54235-3989-4168-8a00-e9cb02866c18",
+  "name": "Pag Ghungroo Bandh Meera Nachi Re",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-meera-bai"
+  },
+  "inLanguage": "Hindi",
+  "genre": "",
+  "dateCreated": "",
+  "abstract": "Song of ecstatic devotion where Meera dances with anklets.",
+  "keywords": [],
+  "source": {
+    "name": "Manual Enrichment",
+    "url": "https://en.wikipedia.org/wiki/Meera",
+    "retrievedAt": "2026-02-05T19:44:00.017Z"
+  }
+}

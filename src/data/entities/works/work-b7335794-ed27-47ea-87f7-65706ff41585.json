@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b7335794-ed27-47ea-87f7-65706ff41585",
+  "name": "कबीर हसणां दूरि करि, करि रोवण सौं चित्त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that laughter is distant and the heart is full of tears. Without crying, how can one obtain the beloved's love?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हसणां दूरि करि, करि रोवण सौं चित्त।\nबिना रोयां क्‍यूं पाइये, प्रेम पियारा मित्त।।१७६२।।",
+    "translation": "Kabir says that laughter is distant and the heart is full of tears. Without crying, how can one obtain the beloved's love?",
+    "meaning": "कबीर कहते हैं कि हंसना दूर है और दिल आंसुओं से भरा हुआ है। बिना रोए, किसी के प्रिय प्रेम को कैसे प्राप्त किया जा सकता है?",
+    "explanation": "इस दोहे में कबीर ने प्रेम की गहराई को व्यक्त किया है। उन्होंने बताया है कि हंसने की स्थिति दूर है और दिल आंसुओं से भरा हुआ है, जो प्रेम की वास्तविकता को दर्शाता है। कबीर के अनुसार, प्रिय के प्रेम को प्राप्त करने के लिए भावनाओं की सच्चाई और आंसुओं का अनुभव आवश्यक है। यह दोहा दर्शाता है कि सच्चा प्रेम भावनात्मक गहराई और अनुभव से जुड़ा होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.347Z"
+  }
+}

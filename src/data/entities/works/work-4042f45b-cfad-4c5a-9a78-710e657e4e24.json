@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4042f45b-cfad-4c5a-9a78-710e657e4e24",
+  "name": "कबीर मेरा कोइ नहीं, हम काहू के नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, I have no one, I belong to no one. Just as a boat reaches the other shore, people meet and then part ways.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मेरा कोइ नहीं, हम काहू के नाहिं।\nपारै पहुँची नाव ज्यों, मिलि कै बिछुरी जाहिं।।३४८।।",
+    "translation": "Kabir says, I have no one, I belong to no one. Just as a boat reaches the other shore, people meet and then part ways.",
+    "meaning": "कबीर कहते हैं, मेरा कोई नहीं है, मैं किसी का नहीं हूँ। जैसे नाव पार कर जाती है, लोग मिलते हैं और फिर बिछड़ जाते हैं।।",
+    "explanation": "इस दोहे में कबीरदास ने अपने अकेलेपन और अन्य लोगों से दूरी का वर्णन किया है। जैसे नाव एक किनारे से दूसरे किनारे तक पहुँचती है, वैसे ही लोग मिलते हैं और फिर अलग हो जाते हैं। कबीर यह बताना चाहते हैं कि इस संसार में किसी के साथ स्थायी संबंध नहीं होते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.393Z"
+  }
+}

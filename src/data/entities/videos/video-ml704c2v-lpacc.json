@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704c2v-lpacc",
+  "name": "Javed Akhtar: Hilarious & Unfiltered (Full video out now)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sapan-verma"
+  },
+  "duration": "PT53S",
+  "embedUrl": "https://www.youtube.com/embed/wmTO3EgVlJ8",
+  "contentUrl": "https://www.youtube.com/watch?v=wmTO3EgVlJ8",
+  "uploadDate": "2024-10-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/wmTO3EgVlJ8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sapan Verma",
+  "aggregatorChannel": null
+}

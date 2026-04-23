@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cad1a8e8-e6e1-4937-ab84-874ec32c4fc7",
+  "name": "Gitanjali",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-rabindranath-tagore"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Gitanjali",
+    "retrievedAt": "2026-01-04T18:38:55.927Z"
+  }
+}

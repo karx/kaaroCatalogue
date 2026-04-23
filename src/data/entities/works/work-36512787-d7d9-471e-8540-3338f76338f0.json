@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-36512787-d7d9-471e-8540-3338f76338f0",
+  "name": "पूजै सालिगराम को, मन की भ्रान्ति न जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Worshiping the Shaligram does not remove the delusions of the mind. Instead of peace, it only increases more day by day.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पूजै सालिगराम को, मन की भ्रान्ति न जाय।\nशीतलता सपने नहीं, दिन दिन अधिक लाय।।१३८२।।",
+    "translation": "Worshiping the Shaligram does not remove the delusions of the mind. Instead of peace, it only increases more day by day.",
+    "meaning": "शालिग्राम की पूजा करने से मन की भ्रांति दूर नहीं होती। इसके बजाय, शांति के स्थान पर, यह दिन-प्रतिदिन और अधिक भ्रम बढ़ाता है।",
+    "explanation": "कबीर इस दोहे में मूर्तिपूजा की आलोचना करते हुए कहते हैं कि शालिग्राम की पूजा करने से मन की भ्रांतियाँ दूर नहीं होतीं। वे बताते हैं कि इससे वास्तविक शांति की प्राप्ति नहीं होती, बल्कि व्यक्ति और अधिक भ्रमित होता जाता है। यह दोहा हमें चेताता है कि सच्ची शांति और मुक्ति का मार्ग आत्मज्ञान और आंतरिक शुद्धता से होकर गुजरता है, न कि बाहरी पूजा से।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.088Z"
+  }
+}

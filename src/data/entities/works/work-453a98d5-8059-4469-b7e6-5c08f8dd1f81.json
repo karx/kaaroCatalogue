@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-453a98d5-8059-4469-b7e6-5c08f8dd1f81",
+  "name": "सरति समांणों निरति मैं, निरति रही निरधार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As the river flows continuously, it remains steadfast and unwavering. When the divine essence is realized, the doors to self-revelation open.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सरति समांणों निरति मैं, निरति रही निरधार।\nसुरति निरति परचा भया, तब खूले स्‍वयं दुबार।।१८०१।।",
+    "translation": "As the river flows continuously, it remains steadfast and unwavering. When the divine essence is realized, the doors to self-revelation open.",
+    "meaning": "जैसे नदी निरंतर बहती रहती है, वैसे ही स्थिर और अडिग रहती है। जब दिव्य तत्व की अनुभूति होती है, तो आत्म-प्रकाश के द्वार खुलते हैं।",
+    "explanation": "इस दोहे में कबीर ने दिव्य तत्व की निरंतरता और उसकी स्थिरता को दर्शाया है। जब किसी व्यक्ति को दिव्य तत्व का वास्तविक अनुभव होता है, तो आत्मा की पूरी समझ खुल जाती है। कबीर ने इस प्रकार आत्म-प्रकाश और दिव्य ज्ञान की प्राप्ति की बात की है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.620Z"
+  }
+}

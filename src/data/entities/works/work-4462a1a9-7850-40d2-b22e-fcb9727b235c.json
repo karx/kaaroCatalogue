@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4462a1a9-7850-40d2-b22e-fcb9727b235c",
+  "name": "सब आए इस एक में, डाल-पात फल-फूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All are included in this one essence—leaves, twigs, fruits, and flowers. Kabir questions, what is left behind when one grasps the root?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब आए इस एक में, डाल-पात फल-फूल।\nकबिरा पीछा क्या करै, गह पकड़ी जब मूल।।७४।।",
+    "translation": "All are included in this one essence—leaves, twigs, fruits, and flowers. Kabir questions, what is left behind when one grasps the root?",
+    "meaning": "सभी चीज़ें इस एक तत्व में समाहित हैं—पत्तियाँ, टहनियाँ, फल, और फूल। कबीर पूछते हैं, जब मूल को पकड़ा जाता है तो क्या पीछे रह जाता है?",
+    "explanation": "इस दोहे में कबीर यह समझाने की कोशिश करते हैं कि सारी सृष्टि एक ही मूल तत्व में समाहित है। जब हम इस मूल तत्व को पहचान लेते हैं, तो सारी अन्य भिन्नताएँ और अलगाव मिट जाते हैं। इस प्रकार, जब हम सच्चाई और मूल तत्व को पकड़ लेते हैं, तो हमें कुछ भी छोड़ने की आवश्यकता नहीं रहती, क्योंकि सब कुछ उसी एक तत्व में समाहित है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

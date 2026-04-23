@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-501c8b7a-a8d5-475b-9ddd-2e853b043263",
+  "name": "मैं जानूं हरिसूं मिलूं, मो मन मोटी आस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I know I will meet the Lord, but my mind has a deep desire. The Lord is in my heart, but illusion is a great deceiver.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं जानूं हरिसूं मिलूं, मो मन मोटी आस।\nहरि बिच डारै अन्‍तरा, माया बड़ी पिचास।।१२०५।।",
+    "translation": "I know I will meet the Lord, but my mind has a deep desire. The Lord is in my heart, but illusion is a great deceiver.",
+    "meaning": "मैं जानता हूँ कि मैं भगवान से मिलूंगा, लेकिन मेरे मन में गहरी आशा है। भगवान मेरे हृदय में हैं, लेकिन माया एक बड़ा धोखेबाज है।",
+    "explanation": "इस दोहे में कबीर ने भगवान से मिलने की आशा को व्यक्त किया है, लेकिन साथ ही मन की गहरी इच्छा और माया के प्रभाव को भी दर्शाया है। भगवान भले ही मन के भीतर हैं, लेकिन माया का प्रभाव एक बड़ा भ्रम पैदा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.267Z"
+  }
+}

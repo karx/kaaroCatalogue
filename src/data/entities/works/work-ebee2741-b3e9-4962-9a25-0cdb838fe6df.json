@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ebee2741-b3e9-4962-9a25-0cdb838fe6df",
+  "name": "ज्ञानी भूले ज्ञान कथि, निकट रहा निज रूप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wise forget the essence of knowledge, remaining close to their own nature. They search outside, while the essence is within.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञानी भूले ज्ञान कथि, निकट रहा निज रूप।\nबाहिर खोजै बापुरै, भीतर वस्तु अनूप।।४६२।।",
+    "translation": "The wise forget the essence of knowledge, remaining close to their own nature. They search outside, while the essence is within.",
+    "meaning": "ज्ञानी लोग ज्ञान का सार भूल जाते हैं, अपने स्वभाव के करीब रहते हैं। वे बाहर खोजते हैं, जबकि वस्तु भीतर होती है।",
+    "explanation": "इस दोहे में कबीर ने ज्ञानी और ज्ञान की वास्तविकता के बीच के अंतर को बताया है। ज्ञानी लोग बाहरी दुनिया में ज्ञान की खोज करते हैं, जबकि वास्तविक ज्ञान और आत्मा की सच्चाई भीतर ही होती है। यह दोहा आंतरिक खोज और आत्म-ज्ञान के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

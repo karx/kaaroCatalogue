@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75ba2ac9-60e3-4046-a89d-9d9fa27afad0",
+  "name": "कबीर कलि खोटी भई, मुनियर मिलै न कोइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Kali Yuga has become corrupt, and no sage is found. The greedy and deceitful are honored instead.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर कलि खोटी भई, मुनियर मिलै न कोइ।\nलालच लोभी मसकरा, तिनकूँ आदर होइ।।१६८।।",
+    "translation": "The Kali Yuga has become corrupt, and no sage is found. The greedy and deceitful are honored instead.",
+    "meaning": "कलियुग भ्रष्ट हो गया है, और कोई साधू नहीं मिलता। लालची और धोखेबाज लोगों को सम्मान दिया जाता है।",
+    "explanation": "इस दोहे में कबीर ने कलियुग की स्थिति को दर्शाया है, जहां सत्य और साधू लोग दुर्लभ हो गए हैं। इस समय में, लालची और धोखेबाज लोगों को सम्मान प्राप्त होता है, जबकि सच्चे साधू और ज्ञानी लोग अनुपस्थित हैं। यह दोहा सामाजिक और आध्यात्मिक पतन की स्थिति को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

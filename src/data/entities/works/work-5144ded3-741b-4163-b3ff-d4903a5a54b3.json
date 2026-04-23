@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5144ded3-741b-4163-b3ff-d4903a5a54b3",
+  "name": "phir harif-e-bahaar ho baiThe",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/phir-hariif-e-bahaar-ho-baithe-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.214Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/phir-hariif-e-bahaar-ho-baithe-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nphir harīf-e-bahār ho baiThe\njaane kis kis ko aaj ro baiThe\nthī magar itnī rā.egāñ bhī na thī\naaj kuchh zindagī se kho baiThe\ntere dar tak pahuñch ke lauT aa.e\nishq kī aabrū Dubo baiThe\nsaarī duniyā se duur ho jaa.e\njo zarā tere paas ho baiThe\nna ga.ī terī be-ruḳhī na ga.ī\nham tirī aarzū bhī kho baiThe\n'faiz' hotā rahe jo honā hai\nsher likhte rahā karo baiThe\nphir harif-e-bahaar ho baiThe\njaane kis kis ko aaj ro baiThe\nthi magar itni raegan bhi na thi\naaj kuchh zindagi se kho baiThe\ntere dar tak pahunch ke lauT aae\nishq ki aabru Dubo baiThe\nsari duniya se dur ho jae\njo zara tere pas ho baiThe\nna gai teri be-ruKHi na gai\nhum teri aarzu bhi kho baiThe\n'faiz' hota rahe jo hona hai\nsher likhte raha karo baiThe",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nپھر حریف بہار ہو بیٹھے\nجانے کس کس کو آج رو بیٹھے\nتھی مگر اتنی رائیگاں بھی نہ تھی\nآج کچھ زندگی سے کھو بیٹھے\nتیرے در تک پہنچ کے لوٹ آئے\nعشق کی آبرو ڈبو بیٹھے\nساری دنیا سے دور ہو جائے\nجو ذ��ا تیرے پاس ہو بیٹھے\nنہ گئی تیری بے رخی نہ گئی\nہم تری آرزو بھی کھو بیٹھے\nفیضؔ ہوتا رہے جو ہونا ہے\nشعر لکھتے رہا کرو بیٹھے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nफिर हरीफ़-ए-बहार हो बैठे\nजाने किस किस को आज रो बैठे\nथी मगर इतनी राएगाँ भी न थी\nआज कुछ ज़िंदगी से खो बैठे\nतेरे दर तक पहुँच के लौट आए\nइश्क़ की आबरू डुबो बैठे\nसारी दुनिया से दूर हो जाए\nजो ज़रा तेरे पास हो बैठे\nन गई तेरी बे-रुख़ी न गई\nहम तिरी आरज़ू भी खो बैठे\n'फ़ैज़' होता रहे जो होना है\nशेर लिखते रहा करो बैठे",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:51:02.277Z"
+  }
+}

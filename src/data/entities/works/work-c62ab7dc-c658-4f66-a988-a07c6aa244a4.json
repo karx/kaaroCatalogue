@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c62ab7dc-c658-4f66-a988-a07c6aa244a4",
+  "name": "आपा मेटे हरि मिले, हरि मेटे सब जाई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the self is erased, one meets the Divine. When the Divine is realized, everything else fades away. The story of love is beyond words; no one understands it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आपा मेटे हरि मिले, हरि मेटे सब जाई।\nअकथ कहानी प्रेम की, कोई नहीं पतियाय।।४६३।।",
+    "translation": "When the self is erased, one meets the Divine. When the Divine is realized, everything else fades away. The story of love is beyond words; no one understands it.",
+    "meaning": "जब आत्मा मिट जाती है, तो भगवान मिलते हैं। जब भगवान को समझ लिया जाता है, तो सब कुछ धुंधला हो जाता है। प्रेम की कहानी शब्दों से परे है; कोई इसे समझ नहीं पाता।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की गहराई और आत्मा के परमात्मा के साथ मिलन की प्रक्रिया को दर्शाया है। जब व्यक्ति अपनी आत्मा को मिटा देता है और भगवान को प्राप्त करता है, तो संसार की सारी चीजें महत्वहीन हो जाती हैं। प्रेम की वास्तविकता और उसकी रहस्यमयता को शब्दों में नहीं समझा जा सकता, इसलिए यह कथा केवल अनुभव के माध्यम से ही समझी जा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

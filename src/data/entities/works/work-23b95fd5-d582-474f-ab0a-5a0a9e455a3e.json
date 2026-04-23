@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-23b95fd5-d582-474f-ab0a-5a0a9e455a3e",
+  "name": "स्‍वारथ का सबको सगा, सारा ही जग जान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone is dear to themselves, the whole world knows this. One who shows respect without self-interest is truly wise and learned.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्‍वारथ का सबको सगा, सारा ही जग जान।\nबिन स्‍वारथ आदर करै, सो नर चतुर सुजान।।१०८९।।",
+    "translation": "Everyone is dear to themselves, the whole world knows this. One who shows respect without self-interest is truly wise and learned.",
+    "meaning": "हर कोई खुद को प्रिय मानता है, यह पूरी दुनिया जानती है। जो व्यक्ति स्वार्थ के बिना आदर करता है, वह वास्तव में समझदार और ज्ञानी होता है।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थ और सच्चे आदर के बारे में बताया है। हर व्यक्ति स्वार्थी होता है और केवल अपनी भलाई को देखता है। लेकिन जो व्यक्ति बिना किसी स्वार्थ के दूसरों का आदर करता है, वह सच्चे ज्ञान और समझ का प्रतीक होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.429Z"
+  }
+}

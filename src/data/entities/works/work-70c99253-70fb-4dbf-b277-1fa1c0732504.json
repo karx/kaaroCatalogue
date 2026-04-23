@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-70c99253-70fb-4dbf-b277-1fa1c0732504",
+  "name": "हरि दरबारी साधु हैं, इन ते सब कुछ होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint is a true representative of God; everything can be achieved through him. Quickly seek out God, and you will find someone like him.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि दरबारी साधु हैं, इन ते सब कुछ होय।\nबेगि मिलावें राम को, इन्‍हें मिले जु कोय।।५८६।।",
+    "translation": "The saint is a true representative of God; everything can be achieved through him. Quickly seek out God, and you will find someone like him.",
+    "meaning": "संत भगवान के सच्चे प्रतिनिधि हैं; उनके माध्यम से सब कुछ प्राप्त किया जा सकता है। शीघ्रता से भगवान को खोजें, और आप उन्हें पाएंगे।",
+    "explanation": "संत भगवान के निकट होते हैं और उनकी कृपा से जीवन की सभी समस्याओं का समाधान संभव है। भगवान से मिलने के लिए संत की उपस्थिति में जल्दी से जल्दी पहुंचना चाहिए। संत के माध्यम से भगवान की प्राप्ति सरल होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

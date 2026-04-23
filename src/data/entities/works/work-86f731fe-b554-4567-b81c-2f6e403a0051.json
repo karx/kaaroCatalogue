@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-86f731fe-b554-4567-b81c-2f6e403a0051",
+  "name": "चौगोड़ा के देखते, व्‍याधा भागो जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The hunter runs away at the sight of the four-sided drum. Oh saints, see this wonder, that death eats the dead.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चौगोड़ा के देखते, व्‍याधा भागो जाय।\nअचरज एक देखहु हो संतो, मुवा कालहि खाय।।१५०८।।",
+    "translation": "The hunter runs away at the sight of the four-sided drum. Oh saints, see this wonder, that death eats the dead.",
+    "meaning": "चौगोड़े को देखकर व्याध भाग जाता है। हे संतों, यह अचरज देखो कि मृत्यु मृत को खाती है।",
+    "explanation": "इस दोहे में कबीर जीवन और मृत्यु के रहस्यों पर विचार करते हैं। जीवन में भय और मुक्ति के कई रूप होते हैं। यहां चौगोड़े का उल्लेख आत्मज्ञान का प्रतीक है, जिसे देखकर अज्ञान (व्याध) भाग जाता है। मृत्यु को मृत्यु से डर नहीं है, लेकिन मृत्यु के बाद का सत्य बड़ा रहस्यमय है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.928Z"
+  }
+}

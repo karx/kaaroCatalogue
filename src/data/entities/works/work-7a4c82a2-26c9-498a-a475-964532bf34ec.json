@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7a4c82a2-26c9-498a-a475-964532bf34ec",
+  "name": "कोइ एक देखै संत जन, जांकै पांचूं हाथि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who truly sees a saint knows that all five senses are under control. If one's senses are not under control, one cannot attain union with the Divine.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोइ एक देखै संत जन, जांकै पांचूं हाथि।\nजाके पांचूं बस नहीं, ता हरि संग न साधि।।१९३४।।",
+    "translation": "One who truly sees a saint knows that all five senses are under control. If one's senses are not under control, one cannot attain union with the Divine.",
+    "meaning": "जो एक सच्चे संत को देखता है, उसे पता चलता है कि उसके सभी पांचों इंद्रियां नियंत्रित हैं। जिनके इंद्रियां नियंत्रित नहीं हैं, वे ईश्वर के साथ मिलन प्राप्त नहीं कर सकते।",
+    "explanation": "इस दोहे में कबीरदास जी ने संत के वास्तविक स्वरूप को दर्शाया है। उन्होंने बताया है कि एक सच्चे संत की पहचान तब होती है जब उसकी सभी इंद्रियां पूरी तरह से नियंत्रित होती हैं। अगर किसी की इंद्रियां नियंत्रित नहीं हैं, तो वह ईश्वर के साथ एकता प्राप्त नहीं कर सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.254Z"
+  }
+}

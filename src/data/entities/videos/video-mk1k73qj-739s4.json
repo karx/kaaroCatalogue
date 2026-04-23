@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-739s4",
+  "name": "Mothers and Mangalsutra #funny #comedy #tamil",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT14S",
+  "embedUrl": "https://www.youtube.com/embed/RqfLAgtzLuo",
+  "contentUrl": "https://www.youtube.com/watch?v=RqfLAgtzLuo",
+  "uploadDate": "2024-06-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/RqfLAgtzLuo/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

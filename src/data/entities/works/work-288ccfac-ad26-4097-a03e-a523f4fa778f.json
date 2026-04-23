@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-288ccfac-ad26-4097-a03e-a523f4fa778f",
+  "name": "परनारी राता फिरै, चोरी विढता खांहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A woman who roams around with someone else's affection appears sweet for a few days, but ultimately, she ends up in ruin.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "परनारी राता फिरै, चोरी विढता खांहिं।\nदिवस चारि सरसा रहै, अंति समूला जांहिं।।२०३९।।",
+    "translation": "A woman who roams around with someone else's affection appears sweet for a few days, but ultimately, she ends up in ruin.",
+    "meaning": "एक महिला जो दूसरों की स्नेह से घूमती है, वह कुछ दिनों के लिए मीठी लगती है, लेकिन अंततः वह बर्बाद हो जाती है।",
+    "explanation": "इस दोहे में कबीर ने एक महिला की स्थिति का वर्णन किया है जो दूसरों के प्रेम में घूमती है। वह कुछ समय के लिए आकर्षक लग सकती है, लेकिन अंततः उसकी स्थिति खराब हो जाती है। यह भौतिक सुखों और परिणामों की अस्थिरता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.811Z"
+  }
+}

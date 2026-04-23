@@ -1,0 +1,13 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-001",
+  "name": "John Mulaney - Kid Gorgeous (Excerpt)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-john-mulaney"
+  },
+  "duration": "PT65M",
+  "embedUrl": "https://www.youtube.com/watch?v=example1",
+  "uploadDate": "2018-05-01",
+  "genre": "Stand-Up Special"
+}

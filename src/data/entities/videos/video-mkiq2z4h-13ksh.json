@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-13ksh",
+  "name": "Tiger Woods saves tigers #standup #funny #funnyreels #comedy #golf #tiger #jokes #humor #papacj",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT32S",
+  "embedUrl": "https://www.youtube.com/embed/d-WpiJ2gdwY",
+  "contentUrl": "https://www.youtube.com/watch?v=d-WpiJ2gdwY",
+  "uploadDate": "2023-03-01",
+  "thumbnailUrl": "https://i.ytimg.com/vi/d-WpiJ2gdwY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-55a5a4d9-da9f-4d5b-9f7a-d383ce640522",
+  "name": "कबीर किया कछू न होत है, अनकीया सब होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, nothing happens as a result of our actions; everything happens as destined. In your court, O Lord, no one goes unrewarded.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर किया कछू न होत है, अनकीया सब होइ।\nदर‍िगह तेरी सांइयां, नांमहरूम न होइ।।१८९७।।",
+    "translation": "Kabir, nothing happens as a result of our actions; everything happens as destined. In your court, O Lord, no one goes unrewarded.",
+    "meaning": "कबीर, हमारे किए से कुछ नहीं होता; सब कुछ पहले से तय है। हे प्रभु, आपकी दरबार में कोई भी बिना इनाम के नहीं रहता।",
+    "explanation": "इस दोहे में कबीरदास जी इस बात पर जोर देते हैं कि हमारे कर्मों का प्रभाव सीमित है, और जो कुछ भी होता है, वह पहले से निर्धारित होता है। वे कहते हैं कि भगवान की कृपा से ही सब कुछ होता है, और उनकी दरबार में कोई भी बिना कृपा के नहीं रहता। यह दोहा हमें यह सिखाता है कि हमें अपने कर्मों से अधिक भगवान पर विश्वास रखना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.979Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2pah-haelg",
+  "name": "Dad Jokes | Stand Up Comedy by Karunesh Talwar (Amazon Prime Special)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-karunesh-talwar"
+  },
+  "duration": "PT4M50S",
+  "embedUrl": "https://www.youtube.com/embed/hLRFcuV3r3w",
+  "contentUrl": "https://www.youtube.com/watch?v=hLRFcuV3r3w",
+  "uploadDate": "2021-06-27",
+  "thumbnailUrl": "https://i.ytimg.com/vi/hLRFcuV3r3w/hqdefault.jpg",
+  "genre": "Stand-Up Special",
+  "description": "A small bit about my parents from my new Amazon special, 'Aalas Motaapa Ghabraahat.' Watch the full show here - https://www.primevideo.com/detail/0PC75X2D6A4RGZ4NA280VF9SS0/ref=atv_hm_hom_c_bV3MWc_JX65A9_1_4\n\nFollow me on Instagram - @karuneshtalwar \n\nCREDITS \n\nDirector - Omar Iyer \nDoP - Premal Rav",
+  "channelTitle": "Karunesh Talwar",
+  "aggregatorChannel": null
+}

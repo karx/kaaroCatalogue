@@ -1,0 +1,27 @@
+{
+  "entityId": "poet-bulleh-shah",
+  "name": "Bulleh Shah",
+  "@type": "Person",
+  "knowsLanguage": "Punjabi",
+  "era": "Medieval",
+  "century": "18th Century",
+  "literaryMovement": "Sufi",
+  "philosophicalSchool": "Sufi Mysticism",
+  "keywords": [
+    "Kafi",
+    "Humanism",
+    "Anti-Orthodoxy"
+  ],
+  "abstract": "A Sufi mystic whose Kafis are sung across South Asia. A radical humanist who challenged religious orthodoxy, famously asking 'Bulleya Ki Jaana Main Kaun' (O Bulleh, who knows who I am?).",
+  "majorWorks": [
+    "Bulleh Shah Kafiyaan"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Bulleh_Shah"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bulleh_Shah",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

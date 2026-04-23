@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2967eba5-ff99-403a-a583-46c00655c993",
+  "name": "ब्राह्मण केरी बेटिया, मांस शराब न खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The daughters of Brahmins may not consume meat or alcohol, but if they associate with drinkers, they cannot stay away from intoxication.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ब्राह्मण केरी बेटिया, मांस शराब न खाय।\nसंगति भई कलाल की, मद बिना रहा न जाए।।३८९।।",
+    "translation": "The daughters of Brahmins may not consume meat or alcohol, but if they associate with drinkers, they cannot stay away from intoxication.",
+    "meaning": "ब्राह्मणों की बेटियां मांस और शराब नहीं खातीं, लेकिन यदि वे शराबियों के साथ मिलती हैं, तो मद से दूर नहीं रह सकतीं।",
+    "explanation": "इस दोहे में कबीर दास जी ने यह दर्शाया है कि बाहरी आचरण और सामाजिक स्थिति कुछ भी हो, लेकिन यदि व्यक्ति का संपर्क गलत संगति के साथ होता है, तो उनका चरित्र और व्यवहार प्रभावित हो जाता है। ब्राह्मणों की बेटियां भले ही मांस और शराब का सेवन न करें, लेकिन अगर उनकी संगति शराबियों के साथ हो, तो वे भी मद्यपान से दूर नहीं रह सकतीं। इसका तात्पर्य यह है कि संगति का प्रभाव व्यक्ति के जीवन और चरित्र पर गहरा होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

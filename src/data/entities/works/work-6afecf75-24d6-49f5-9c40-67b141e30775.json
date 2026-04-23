@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6afecf75-24d6-49f5-9c40-67b141e30775",
+  "name": "Sri Ramayana Darshanam",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kuvempu"
+  },
+  "inLanguage": "Kannada",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Sri_Ramayana_Darshanam",
+    "retrievedAt": "2026-01-04T18:39:30.158Z"
+  }
+}

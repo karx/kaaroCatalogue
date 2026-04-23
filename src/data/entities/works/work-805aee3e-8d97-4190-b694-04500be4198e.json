@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-805aee3e-8d97-4190-b694-04500be4198e",
+  "name": "जीना थोड़ा ही भला, हरि का सुमिरन होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A short life is good if it is spent in the remembrance of Hari. A lifetime of a million years is of no account if it is not spent in devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जीना थोड़ा ही भला, हरि का सुमिरन होय।\nलाख बरस की जीवना, लेखै धरै न कोय।।७६९।।",
+    "translation": "A short life is good if it is spent in the remembrance of Hari. A lifetime of a million years is of no account if it is not spent in devotion.",
+    "meaning": "जीवन थोड़ा हो, तो भी हरि का स्मरण करें। लाख साल का जीवन भी बेकार है, अगर उसमें भक्ति नहीं हो।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि छोटा जीवन भी तब अच्छा है जब उसमें हरि का स्मरण किया जाए। लाखों वर्षों का जीवन भी तब बेकार है, यदि उसमें भक्ति और सच्चा समर्पण नहीं है। यह दोहा जीवन के मूल्य को भक्ति और ध्यान के माध्यम से व्यक्त करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

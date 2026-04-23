@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8487c6ea-c5cb-4465-be69-719d6a03c722",
+  "name": "शब्‍द दुराया ना दुरै, कहूं जु ढोल बजाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Words cannot be hidden, even if one beats a drum. A true connoisseur will always hold them in high regard.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शब्‍द दुराया ना दुरै, कहूं जु ढोल बजाय।\nजो जन होवै जौहरी, लेहैं सीस चढ़ाय।।१०१५।।",
+    "translation": "Words cannot be hidden, even if one beats a drum. A true connoisseur will always hold them in high regard.",
+    "meaning": "शब्दों को छुपाया नहीं जा सकता, चाहे कोई ढोल बजाकर उन्हें प्रचारित करे। सच्चा जानकार व्यक्ति हमेशा उनका आदर करेगा।",
+    "explanation": "इस दोहे में कबीर समझाते हैं कि सत्य और ज्ञान को दबाया नही�� जा सकता, चाहे कोई उसे छुपाने की कितनी भी कोशिश करे। सच्चे जौहरी या ज्ञानी व्यक्ति इसे पहचान कर उसका सम्मान करेंगे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.161Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f4e49d00-6d3b-45dd-8e58-b290f037f350",
+  "name": "कबीर थोड़ा जीवना, माढै बहुत मढ़ान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says life is short, and the world is very deceptive. All paths are open, whether for kings or commoners.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर थोड़ा जीवना, माढै बहुत मढ़ान।\nसबही ऊभा पंथ सिर, राव रंक सुलतान।।९२१।।",
+    "translation": "Kabir says life is short, and the world is very deceptive. All paths are open, whether for kings or commoners.",
+    "meaning": "कबीर कहते हैं कि जीवन छोटा है, और दुनिया बहुत छलपूर्ण है। सभी रास्ते खुले हैं, चाहे राजा हों या साधारण लोग।",
+    "explanation": "इस दोहे में कबीर जीवन की संक्षिप्तता और दुनिया की छलपूर्णता को व्यक्त करते हैं। वे बताते हैं कि चाहे हम राजा हों या साधारण व्यक्ति, सभी के लिए जीवन की राहें खुली होती हैं और वास्तविकता का सामना करना पड़ता है। कबीर का यह संदेश है कि जीवन की सच्चाई को समझते हुए हमें किसी भी भौतिक स्थिति पर गर्व नहीं करना चाहिए, क्योंकि सबका अंत एक सा है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.625Z"
+  }
+}

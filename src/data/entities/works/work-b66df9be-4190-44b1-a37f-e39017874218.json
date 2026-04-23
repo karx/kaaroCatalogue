@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b66df9be-4190-44b1-a37f-e39017874218",
+  "name": "गुरु मिला तब जानिये, मिटै मोह तन ताप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Know that you have found the true Guru when all delusions and bodily afflictions are dispelled. Then joy and sorrow no longer affect you, and the Guru is truly realized.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु मिला तब जानिये, मिटै मोह तन ताप।\nहरष शोष व्यापे नहीं, तब गुरु आपे आप।।२८८।।",
+    "translation": "Know that you have found the true Guru when all delusions and bodily afflictions are dispelled. Then joy and sorrow no longer affect you, and the Guru is truly realized.",
+    "meaning": "सच्चे गुरु के मिलने पर, सभी मोह और शारीरिक कष्ट मिट जाते हैं। जब हर्ष और शोक दोनों से मुक्ति मिल जाए, तभी सच्चे गुरु की प्राप्ति होती है।",
+    "explanation": "इस दोहे में कबीर सच्चे गुरु की पहचान बताते हैं। जब सच्चे गुरु का सानिध्य मिलता है, तो मनुष्य के सारे मोह, भ्रम, और शारीरिक कष्ट समाप्त हो जाते हैं। ऐसी स्थिति में व्यक्ति हर्ष और शोक, दोनों से मुक्त हो जाता है, और सच्चे गुरु की अनुभूति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

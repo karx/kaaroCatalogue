@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-03ca06f4-4589-453a-82ce-cf8cb413b282",
+  "name": "जा गुरु को तो गम नहीं, पाहन दिया बताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The guru who is indifferent and gives stone as guidance. The disciple searches without a boat, cannot cross the river.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जा गुरु को तो गम नहीं, पाहन दिया बताय।\nशिष शोधे बिन सेइया, पार न पहुंचा जाय।।५२४।।",
+    "translation": "The guru who is indifferent and gives stone as guidance. The disciple searches without a boat, cannot cross the river.",
+    "meaning": "जो गुरु उदासीन है और पत्थर को मार्गदर्शन के रूप में देता है। शिष्य बिना नाव के खोज करता है, वह नदी पार नहीं कर सकता।",
+    "explanation": "कबीर ने इस दोहे में ऐसे गुरु की आलोचना की है जो उदासीन होता है और केवल बेमतलब की बातें बताता है। जब शिष्य बिना उचित मार्गदर्शन के प्रयास करता है, तो उसे सफलता नहीं मिलती। यह दोहा यह बताता है कि सच्चे गुरु का मार्गदर्शन आवश्यक है ताकि शिष्य जीवन की कठिनाइयों को पार कर सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.465Z"
+  }
+}

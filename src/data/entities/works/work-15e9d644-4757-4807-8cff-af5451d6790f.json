@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15e9d644-4757-4807-8cff-af5451d6790f",
+  "name": "पांवहिं पहुमी नापते, दरिया करते फाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Measuring the earth with feet, and making waves in the river. Balancing mountains with hands, and yet death consumes it all.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पांवहिं पहुमी नापते, दरिया करते फाल।\nहाथन्हि पर्वत तोलते, तेहि धरि खायो काल।।१५८८।।",
+    "translation": "Measuring the earth with feet, and making waves in the river. Balancing mountains with hands, and yet death consumes it all.",
+    "meaning": "पैरों से पृथ्वी को नापते हैं, और नदी में तरंगें बनाते हैं। हाथों से पहाड़ों को तौलते हैं, लेकिन मृत्यु सबको निगल जाती है।",
+    "explanation": "इस दोहे में कबीर ने जीवन के व्यर्थ प्रयासों और मृत्यु की अटूट वास्तविकता की बात की है। चाहे हम पृथ्वी को मापें या पहाड़ों को तौलें, मृत्यु सभी प्रयासों को समाप्त कर देती है। यह जीवन की अस्थिरता और मृत्यु के अनिवार्य वास्तविकता की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.212Z"
+  }
+}

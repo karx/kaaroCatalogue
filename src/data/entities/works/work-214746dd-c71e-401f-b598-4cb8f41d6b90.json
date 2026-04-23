@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-214746dd-c71e-401f-b598-4cb8f41d6b90",
+  "name": "कबीर हृदय कठोर के, शब्‍द न लागै सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the wise words do not penetrate a hard heart. But in a thoughtful heart, wisdom and reflection grow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हृदय कठोर के, शब्‍द न लागै सार।\nसुधि बुधि के हिरदे विधे, उपजे ज्ञान विचार।।५४४।।",
+    "translation": "Kabir says, the wise words do not penetrate a hard heart. But in a thoughtful heart, wisdom and reflection grow.",
+    "meaning": "कबीर कहते हैं, कठोर हृदय पर सार्थक शब्दों का असर नहीं होता। लेकिन समझदार और संवेदनशील हृदय में ज्ञान और विचार की वृद्धि होती है।",
+    "explanation": "इस दोहे में संत कबीर जी हृदय की कठोरता और संवेदनशीलता के अंतर को समझा रहे हैं। वे कहते हैं कि कठोर हृदय पर चाहे कितने भी अच्छे शब्द कहे जाएं, उनका कोई असर नहीं होता। लेकिन अगर व्यक्ति का हृदय संवेदनशील और समझदार है, तो उसमें ज्ञान और विचारों का विकास होता है। यह दोहा हमें अपने हृदय को संवेदनशील और विचारशील बनाने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.467Z"
+  }
+}

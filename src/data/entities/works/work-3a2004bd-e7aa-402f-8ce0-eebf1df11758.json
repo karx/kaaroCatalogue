@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a2004bd-e7aa-402f-8ce0-eebf1df11758",
+  "name": "कठिन कमान कबीर की, पड़ी रहै मैदान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The bow of Kabir is tough, remaining on the field. Many warriors have perished, while the wise and learned continue to persevere.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कठिन कमान कबीर की, पड़ी रहै मैदान।\nकेता योद्धा पचि गया, खैंचे संत सुजान।२१३७।।",
+    "translation": "The bow of Kabir is tough, remaining on the field. Many warriors have perished, while the wise and learned continue to persevere.",
+    "meaning": "कबीर का धनुष कठिन है, जो मैदान में बना रहता है। कई योद्धा पराजित हो चुके हैं, जबकि ज्ञानी और समझदार लोग संघर्ष करते रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने अपने कठिन संघर्ष की तुलना एक कठिन धनुष से की है। वे बताते हैं कि उनके जैसे कठिन और स्थिर लोग मैदान में बने रहते हैं, जबकि कई योद्धा पराजित हो जाते हैं। यह दोहा सत्य की कठिनाई और दृढ़ता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.369Z"
+  }
+}

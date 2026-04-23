@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-974afa05-17aa-4335-949a-7a99d0e1d28e",
+  "name": "सुरति फंसी संसार में, ताते परिगो दूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The attention is trapped in the world, and thus, the distance from the divine grows. Fix and stabilize the attention, be present in remembrance at all times.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुरति फंसी संसार में, ताते परिगो दूर।\nसुरति बांधि स्थिर करो, आठों पहर हजूर।।७७४।।",
+    "translation": "The attention is trapped in the world, and thus, the distance from the divine grows. Fix and stabilize the attention, be present in remembrance at all times.",
+    "meaning": "ध्यान संसार में फंसा हुआ है, इसलिए दूर होता है। ध्यान को स्थिर करो और हर समय भगवान की याद में रहो।",
+    "explanation": "इस दोहे में कबीर ने ध्यान की स्थिति को दर्शाया है, जो संसार में उलझा रहता है। ध्यान को स्थिर करने और हर समय ईश्वर की याद में रहने की आवश्यकता है, ताकि मन और आत्मा भगवान की निकटता अनुभव कर सकें। यह स्थिरता आत्मा को शांति और वास्तविकता की ओर ले जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

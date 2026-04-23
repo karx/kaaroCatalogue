@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f5c2956f-3e84-4b88-a40e-82c6bc6401c6",
+  "name": "मन माया की कोठरी, तन संशय का कोट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is a chamber of illusion, and the body is a fortress of doubt. The poison of spells does not affect; it is the bite of the serpent of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन माया की कोठरी, तन संशय का कोट।\nविषहर मंत्र न माने, काल सर्प का चोट।।१६५४।।",
+    "translation": "The mind is a chamber of illusion, and the body is a fortress of doubt. The poison of spells does not affect; it is the bite of the serpent of time.",
+    "meaning": "मन माया की कोठरी है, और शरीर संशय का किला है। विषहर मंत्र प्रभावी नहीं होते; यह समय के सांप का काटा होता है।",
+    "explanation": "कबीर इस दोहे में दिखाते हैं कि मन और शरीर किस प्रकार माया और संशय का स्थान होते हैं। उन्होंने कहा कि समय का प्रभाव असली विष है, न कि किसी मंत्र का प्रभाव।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.784Z"
+  }
+}

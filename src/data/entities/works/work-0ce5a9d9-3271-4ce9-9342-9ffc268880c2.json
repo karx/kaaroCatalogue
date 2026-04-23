@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0ce5a9d9-3271-4ce9-9342-9ffc268880c2",
+  "name": "नान्‍हा कातौ चित्त दे, महंगे मोल बिकाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A small bit given with devotion sells at a high price. The buyer is King Ram; nothing else can come close.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नान्‍हा कातौ चित्त दे, महंगे मोल बिकाय।\nगाहक राजा राम है, और न नियरे जाय।।८५५।।",
+    "translation": "A small bit given with devotion sells at a high price. The buyer is King Ram; nothing else can come close.",
+    "meaning": "एक छोटी सी श्रद्धा से दी गई चीज़ महंगे दाम पर बिकती है। खरीदार राजा राम हैं; इसके अलावा कुछ भी नहीं आ सकता।",
+    "explanation": "इस दोहे में कबीर ने छोटी से छोटी भक्ति और समर्पण की मूल्यवानता को व्यक्त किया है। उन्होंने कहा है कि छोटी-सी भक्ति भी उच्च मूल्य रखती है, क्योंकि वास्तविक खरीदार भगवान राम हैं। यह दोहा हमें भक्ति के महत्व और वास्तविक आध्यात्मिक मूल्य को समझने की सलाह देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.349Z"
+  }
+}

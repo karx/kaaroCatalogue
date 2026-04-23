@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0da867a6-934e-4131-8c8c-8e3ab071bdc7",
+  "name": "हिरदे ज्ञान न उपजे, मन परतीत न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When wisdom doesn't arise in the heart and the mind lacks faith, even a true Guru can't help, just as a blunt axe can't cut.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हिरदे ज्ञान न उपजे, मन परतीत न होय।\nताको सदगुरु कहा करे, घनघसि कुल्‍हर न होय।।५४०।।",
+    "translation": "When wisdom doesn't arise in the heart and the mind lacks faith, even a true Guru can't help, just as a blunt axe can't cut.",
+    "meaning": "जब हृदय में ज्ञान नहीं उत्पन्न होता और मन में विश्वास नहीं होता, तो सच्चा गुरु भी कुछ नहीं कर सकता, जैसे कि एक कुंद कुल्हाड़ी कुछ नहीं काट सकती।",
+    "explanation": "इस दोहे में संत कबीर जी सच्चे गुरु की आवश्यकता पर जोर देते हैं। वे कहते हैं कि जब व्यक्ति के हृदय में ज्ञान का उदय नहीं होता और मन में विश्वास नहीं होता, तो सच्चा गुरु भी उसकी मदद नहीं कर सकता। यह वैसा ही है जैसे कि एक कुंद कुल्हाड़ी से कोई काम नहीं होता। गुरु की शिक्षा तभी फलदायी हो सकती है जब शिष्य में विश्वास और ज्ञान प्राप्त करने की इच्छा हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.466Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e8d30093-3fb2-44ba-bfe8-33fa403f35e2",
+  "name": "बहता पानी निर्मला, बंधे सो गंदा होए",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Flowing water is pure, but water that is contained becomes dirty. The saint who wanders is virtuous, no stain attaches to him.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बहता पानी निर्मला, बंधे सो गंदा होए।\nसाधु जन रमता भला, दाग न लागै कोय।।४५७।।",
+    "translation": "Flowing water is pure, but water that is contained becomes dirty. The saint who wanders is virtuous, no stain attaches to him.",
+    "meaning": "बहता हुआ पानी शुद्ध होता है, लेकिन जो पानी बंधा रहता है वह गंदा हो जाता है। जो साधू भटकते हैं, वे पुण्यशील होते हैं, उन पर कोई दाग नहीं लगता।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि बहता हुआ पानी स्वच्छ रहता है जबकि बंद पानी गंदा हो जाता है। इसी प्रकार, जो साधू व्यक्ति स्वतंत्र रूप से घूमते हैं और ज्ञान की खोज में रहते हैं, वे शुद्ध रहते हैं और उन पर कोई दाग नहीं लगता। यह दोहा जीवन की शुद्धता और स्वतंत्रता के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.195Z"
+  }
+}

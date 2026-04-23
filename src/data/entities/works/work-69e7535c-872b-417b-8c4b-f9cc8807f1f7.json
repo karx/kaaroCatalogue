@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-69e7535c-872b-417b-8c4b-f9cc8807f1f7",
+  "name": "जब लग नाता जाति का, तब लग भक्ति न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as one clings to caste and lineage, true devotion is not achieved. One must break these attachments and worship the guru for true devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लग नाता जाति का, तब लग भक्ति न होय।\nनाता तोड़े गुरु भजै, भक्ति कहावे सोय।।७०२।।",
+    "translation": "As long as one clings to caste and lineage, true devotion is not achieved. One must break these attachments and worship the guru for true devotion.",
+    "meaning": "जब तक व्यक्ति जाति और कुल के बंधनों में फंसा रहता है, तब तक सच्ची भक्ति प्राप्त नहीं होती। इन बंधनों को तोड़कर गुरु की पूजा करनी चाहिए, तभी भक्ति प्राप्त होती है।",
+    "explanation": "इस दोहे में कबीर ने जाति और कुल के बंधनों से मुक्ति की आवश्यकता को दर्शाया है। जब तक कोई व्यक्ति इन सामाजिक बंधनों में फंसा रहता है, सच्ची भक्ति संभव नहीं है। गुरु की भक्ति और इन बंधनों को तोड़ने से ही सच्ची भक्ति प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.541Z"
+  }
+}

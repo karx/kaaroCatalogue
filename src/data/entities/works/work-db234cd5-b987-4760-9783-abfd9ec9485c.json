@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-db234cd5-b987-4760-9783-abfd9ec9485c",
+  "name": "राम नाम करि बोहड़ा, बोहो बीज अघाई",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Make the name of Ram your raft and sow the seeds of good deeds abundantly. Even in the end times of drought, they will never go to waste.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम करि बोहड़ा, बोहो बीज अघाई।\nअंति कालि सूका पड़, तौ निरफल कदे न जाई।।१८७२।।",
+    "translation": "Make the name of Ram your raft and sow the seeds of good deeds abundantly. Even in the end times of drought, they will never go to waste.",
+    "meaning": "राम के नाम को अपनी नाव बना और अच्छे कर्मों के बीज भरपूर बो। अंतिम समय में चाहे कितनी ही कठिनाई क्यों न हो, वे कभी व्यर्थ नहीं जाएंगे।",
+    "explanation": "इस दोहे में कबीरदास जी भक्ति और अच्छे कर्मों की निरंतरता का महत्व बताते हैं। वे कहते हैं कि राम का नाम हमारी सुरक्षा की नाव है और अच्छे कर्म हमारे जीवन के बीज हैं। यदि हम इन दोनों को सही से अपनाते हैं, तो चाहे जीवन में कितनी भी कठिनाइयाँ आएं, ये कभी व्यर्थ नहीं जाएंगे। जीवन के अंतिम समय में भी इनका फल अवश्य मिलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.972Z"
+  }
+}

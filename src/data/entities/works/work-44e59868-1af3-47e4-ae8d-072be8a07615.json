@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-44e59868-1af3-47e4-ae8d-072be8a07615",
+  "name": "प्रीति ताहि सो कीजिये, जो आप समाना होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Love is for that which merges with the self. When faults arise, one should absorb the virtues and merge with them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रीति ताहि सो कीजिये, जो आप समाना होय।\nकबहुक जो अवगुन पड़ै, गुन ही लहै समोय।।८११।।",
+    "translation": "Love is for that which merges with the self. When faults arise, one should absorb the virtues and merge with them.",
+    "meaning": "प्रीति उस पर करें, जो आपके साथ समा जाए। जब कभी दोष सामने आएं, तो गुणों को अपनाएं और उनमें समा जाएं।",
+    "explanation": "इस दोहे में कबीर ने सच्चे प्रेम की परिभाषा दी है। प्रेम उस पर होना चाहिए जो आपके साथ एकाकार हो जाए। जब दोष सामने आएं, तब उन गुणों को अपनाना चाहिए जो हमें सच्चे प्रेम की ओर ले जाते हैं। यह प्रेम की स्थिरता और उसकी गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.078Z"
+  }
+}

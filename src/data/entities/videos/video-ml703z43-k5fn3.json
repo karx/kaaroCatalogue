@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703z43-k5fn3",
+  "name": "Papa CJ Happiness Project 2018 - taking laughter to those who need it most",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT2M38S",
+  "embedUrl": "https://www.youtube.com/embed/CYjXExa3zlA",
+  "contentUrl": "https://www.youtube.com/watch?v=CYjXExa3zlA",
+  "uploadDate": "2018-06-20",
+  "thumbnailUrl": "https://i.ytimg.com/vi/CYjXExa3zlA/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "The Papa CJ Happiness Project is a seed that was planted in India. An idea. A belief. A belief that making a difference to the life of even one person, for even a short time, matters. A belief that if many people across the world did the same, the world would be a brighter and happier place.\n\nThis b",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

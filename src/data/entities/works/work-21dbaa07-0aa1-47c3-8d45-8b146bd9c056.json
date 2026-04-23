@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-21dbaa07-0aa1-47c3-8d45-8b146bd9c056",
+  "name": "चतुराई क्‍या कीजिये, जो नहिं शब्‍द समाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What use is cleverness if it does not contain the Word? A parrot may learn a thousand tricks, but in the end, the cat eats it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चतुराई क्‍या कीजिये, जो नहिं शब्‍द समाय।\nकोटिक गुन सूवा पढ़ै, अन्‍त बिलाई खाय।।९६५।।",
+    "translation": "What use is cleverness if it does not contain the Word? A parrot may learn a thousand tricks, but in the end, the cat eats it.",
+    "meaning": "चतुराई किस काम की, अगर उसमें शब्‍द न समाया हो? तोता हजारों गुण सीख सकता है, लेकिन अंत में उसे बिल्ली खा जाती है।",
+    "explanation": "इस दोहे में कबीर दास जी शब्‍द (ज्ञान) की महत्ता को बताते हैं। वह कहते हैं कि हमारी चतुराई और चालाकी का कोई महत्व नहीं है, यदि उसमें ज्ञान और सत्य का समावेश नहीं है। तोता हजारों बातें सीख सकता है, लेकिन अंत में उसकी रक्षा नहीं होती, क्योंकि वह सच्चा ज्ञान नहीं है। यह दोहा हमें यह सिखाता है कि केवल बाहरी दिखावे और चालाकी से कुछ नहीं होता, वास्तविक ज्ञान और समझ का होना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.892Z"
+  }
+}

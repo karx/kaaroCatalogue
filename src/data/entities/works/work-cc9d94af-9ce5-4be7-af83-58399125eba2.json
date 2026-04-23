@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cc9d94af-9ce5-4be7-af83-58399125eba2",
+  "name": "जांण भगत का नित मरण, अणजाणे का राज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The devotee is constantly dying in knowledge, while the ignorant seek comfort. They do not understand the essence of the self and are only concerned with fulfilling their basic needs.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जांण भगत का नित मरण, अणजाणे का राज।\nसर अपसर समझै नहीं, पेट भरण सूं काज।।१९९४।।",
+    "translation": "The devotee is constantly dying in knowledge, while the ignorant seek comfort. They do not understand the essence of the self and are only concerned with fulfilling their basic needs.",
+    "meaning": "भक्त ज्ञान में निरंतर मरता रहता है, जबकि अज्ञानी आराम की खोज करते हैं। वे आत्मा की वास्तविकता को नहीं समझते और केवल अपनी भौतिक आवश्यकताओं की पूर्ति में लगे रहते हैं।",
+    "explanation": "इस दोहे में कबीर ने भक्त और अज्ञानी के दृष्टिकोण का अंतर दर्शाया है। भक्त ज्ञान की खोज में लगातार आत्मिक मृत्यु का अनुभव करता है, जबकि अज्ञानी केवल सांसारिक आराम और भौतिक जरूरतों में व्यस्त रहते हैं। यह जीवन के दो भिन्न दृष्टिकोणों और उनकी वास्तविकता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.538Z"
+  }
+}

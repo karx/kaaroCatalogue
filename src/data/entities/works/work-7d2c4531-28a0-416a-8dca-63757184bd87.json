@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7d2c4531-28a0-416a-8dca-63757184bd87",
+  "name": "Meera Padavali",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-meera-bai"
+  },
+  "inLanguage": "Rajasthani",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Meera_Padavali",
+    "retrievedAt": "2026-01-04T18:39:12.637Z"
+  }
+}

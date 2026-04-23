@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ba8ec0bf-1dd4-4515-aad3-9703141c63a5",
+  "name": "यह कूकर को भक्ष है, मनुष्‍य देह क्‍यों खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This is the food for dogs, why should it be eaten by humans? With such impurities in the mouth, one will end up in hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "यह कूकर को भक्ष है, मनुष्‍य देह क्‍यों खाय।\nमुख में आमिख मेलिके, नरक परते जाय।।२२४२।।",
+    "translation": "This is the food for dogs, why should it be eaten by humans? With such impurities in the mouth, one will end up in hell.",
+    "meaning": "यह कुत्तों के लिए भोजन है, इसे मनुष्य क्यों खाए? मुंह में इस प्रकार की अशुद्धियां होने से, व्यक्ति नरक में चला जाएगा।",
+    "explanation": "इस दोहे में कबीर जी ने मांसाहार को कुत्तों के भोजन के रूप में चित्रित किया है और इसे मानव शरीर के लिए अनुचित बताते हैं। कबीर जी का कहना है कि अगर व्यक्ति अपने मुख में ऐसी अशुद्धियां रखेगा, तो उसे नरक का सामना करना पड़ेगा। यह दर्शाता है कि कबीर जी शुद्ध आहार और स्वच्छता पर जोर देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.090Z"
+  }
+}

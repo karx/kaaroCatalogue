@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f6030385-0023-4f75-9ce7-801373508751",
+  "name": "Naqsh-e-Faryadi",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Naqsh-e-Faryadi",
+    "retrievedAt": "2026-01-04T18:39:01.048Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b1347e94-9ca7-4c73-a51d-727d1170ed6c",
+  "name": "परनारी का राचणौ, जिसकी लहसण की खानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The conduct of a woman is compared to a container of garlic. One who eats without consideration of others, reveals their true nature.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "परनारी का राचणौ, जिसकी लहसण की खानि।\nखूणैं बेसिर खाइय, परगट होइ दिवानि।।१६६।।",
+    "translation": "The conduct of a woman is compared to a container of garlic. One who eats without consideration of others, reveals their true nature.",
+    "meaning": "महिला के आचरण की तुलना लहसुन के बर्तन से की जाती है। जो बिना दूसरों की परवाह किए भोजन करता है, वह अपनी सच्ची प्रकृति को प्रकट करता है।",
+    "explanation": "इस दोहे में कबीर ने सामाजिक व्यवहार और उसके प्रभाव पर ध्यान दिलाया है। उन्होंने बताया है कि कुछ लोगों का आचरण दूसरों की भावनाओं की अनदेखी करते हुए केवल अपने स्वार्थ को ही ध्यान में रखता है। यह व्यवहार उनकी सच्ची प्रकृति को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.599Z"
+  }
+}

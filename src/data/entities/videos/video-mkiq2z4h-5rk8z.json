@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-5rk8z",
+  "name": "Audience response to Papa CJ's Naked performed at JFL London",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT1M28S",
+  "embedUrl": "https://www.youtube.com/embed/F3A7D35QY8k",
+  "contentUrl": "https://www.youtube.com/watch?v=F3A7D35QY8k",
+  "uploadDate": "2016-10-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/F3A7D35QY8k/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Filmed at Just for Laughs London on 16 July 2016",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

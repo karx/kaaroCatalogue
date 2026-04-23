@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-76ff4849-84dc-4305-8f5c-2174679b0d6b",
+  "name": "बात बनाई जग ठग्‍यो, मन परमोधा नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is deceived by crafted stories, but the mind remains unsatisfied. Kabir says that the mind has gone astray, amidst countless deceptions.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बात बनाई जग ठग्‍यो, मन परमोधा नांहि।\nकहैं कबीर मन लै गया, लख चौरासां मांहि।।११४०।।",
+    "translation": "The world is deceived by crafted stories, but the mind remains unsatisfied. Kabir says that the mind has gone astray, amidst countless deceptions.",
+    "meaning": "दुनिया द्वारा बनाई गई बातों से लोग ठग जाते हैं, लेकिन मन असंतुष्ट रहता है। कबीर कहते हैं कि मन कई झूठों के बीच भटक गया है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि दुनियावी बातों और कहानियों से लोग धोखा खा जाते हैं, और मन हमेशा असंतुष्ट रहता है। कबीर ने यह संकेत किया है कि मन अनेक झूठों और भ्रांतियों के बीच फंसा हुआ है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0800f36-5351-4949-b005-90078d0a918f",
+  "name": "साधू-साधू सबहीं बड़े, अपनी-अपनी ठौर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All saints are great, each in their own place. The discerning word is like a crown on their head.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधू-साधू सबहीं बड़े, अपनी-अपनी ठौर।\nशब्द विवेकी पारखी, ते माथे के मौर।।३३८।।",
+    "translation": "All saints are great, each in their own place. The discerning word is like a crown on their head.",
+    "meaning": "साधू-साधू सभी बड़े हैं, अपनी-अपनी जगह पर। शब्द विवेकी और पारखी है, और यह उनके माथे की मौर की तरह है।।",
+    "explanation": "इस दोहे में कबीरदास ने बताया है कि सभी साधु अपनी-अपनी जगह पर बड़े होते हैं। विवेकी शब्द उनके सम्मान और मान का प्रतीक है, जो उनके सिर पर मुकुट की तरह होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

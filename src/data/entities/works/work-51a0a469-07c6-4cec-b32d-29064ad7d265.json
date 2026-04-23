@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-51a0a469-07c6-4cec-b32d-29064ad7d265",
+  "name": "विरह की ओदी लाकरी, सपचे औ धुंधवाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wood of separation is burning, causing true pain and confusion. One will only be freed from suffering when everything is burned away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विरह की ओदी लाकरी, सपचे औ धुंधवाय।\nदुख ते तब ही बांचिहो, जब सकलो जरि जाय।।१६७२।।",
+    "translation": "The wood of separation is burning, causing true pain and confusion. One will only be freed from suffering when everything is burned away.",
+    "meaning": "विरह की लकड़ी जल रही है, सच्चा दर्द और भ्रम पैदा कर रही है। दुख से तभी मुक्ति मिलेगी जब सब कुछ जल जाए।",
+    "explanation": "कबीर इस दोहे में विरह और सहनशीलता की बात करते हैं। उन्होंने कहा कि पूर्ण मुक्ति तब ही मिलेगी जब सभी दुख समाप्त हो जाएंगे।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.788Z"
+  }
+}

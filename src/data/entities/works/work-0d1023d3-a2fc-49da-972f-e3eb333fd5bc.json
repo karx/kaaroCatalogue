@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0d1023d3-a2fc-49da-972f-e3eb333fd5bc",
+  "name": "कबीरा मन पँछी भया, भये ते बाहर जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says the mind is like a bird, which flies outside. It receives the fruit according to the company it keeps.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीरा मन पँछी भया, भये ते बाहर जाय।\nजो जैसे संगति करै, सो तैसा फल पाय।।११०।।",
+    "translation": "Kabir says the mind is like a bird, which flies outside. It receives the fruit according to the company it keeps.",
+    "meaning": "कबीर कहते हैं कि मन एक पँछी की तरह होता है, जो बाहर उड़ता है। यह उस संगति के अनुसार फल प्राप्त करता है जिसे वह बनाए रखता है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि मन की प्रवृत्ति एक पँछी की तरह होती है, जो हमेशा बाहर की ओर उड़ता रहता है। व्यक्ति की संगति और परिजनों का प्रभाव उसके जीवन पर गहरा असर डालता है। इसलिए, अच्छे और सजग लोगों के साथ रहना और अच्छी संगति बनाए रखना आवश्यक है, क्योंकि इससे व्यक्ति को अच्छे परिणाम और फल प्राप्त होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

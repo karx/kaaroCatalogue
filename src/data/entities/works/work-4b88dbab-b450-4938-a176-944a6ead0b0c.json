@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-4b88dbab-b450-4938-a176-944a6ead0b0c",
+  "name": "सीक भई संसार थैं, चले जु सांई पास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world is just a lesson, and I have moved on to my Lord's presence. The eternal one has taken me, fulfilling my hope.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सीक भई संसार थैं, चले जु सांई पास।\nअविनासी मोहि ले चल्‍या, पुरई मेरी आस।।१४२५।।",
+    "translation": "The world is just a lesson, and I have moved on to my Lord's presence. The eternal one has taken me, fulfilling my hope.",
+    "meaning": "दुनिया केवल एक पाठ है, और मैं अपने स्वामी की उपस्थिति में चला गया हूँ। अमर ने मुझे ले लिया है, मेरी आशा पूरी हो गई है।",
+    "explanation": "कबीर इस दोहे में अपने आध्यात्मिक यात्रा और मोक्ष की स्थिति का वर्णन करते हैं। वे कहते हैं कि संसार एक पाठ के समान है और वे अपने भगवान के पास चले गए हैं। अमर तत्व ने उन्हें ले लिया है, जिससे उनकी सभी आशाएं पूरी हो गई हैं। यह दोहा आध्यात्मिक यात्रा और आत्मा की स्थायिता की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.362Z"
+  }
+}

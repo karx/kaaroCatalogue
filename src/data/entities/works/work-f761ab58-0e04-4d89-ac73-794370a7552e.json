@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f761ab58-0e04-4d89-ac73-794370a7552e",
+  "name": "मैं भौंरा तोहि बरजिया, बन बन बास न लेय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I am a bee and you are a flower; I do not dwell in the forest. I will get entangled somewhere with a creeper, and my soul will suffer in agony.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं भौंरा तोहि बरजिया, बन बन बास न लेय।\nअटकेगा कहुं बेल सों, तड़प तड़प जिय देय।।८३५।।",
+    "translation": "I am a bee and you are a flower; I do not dwell in the forest. I will get entangled somewhere with a creeper, and my soul will suffer in agony.",
+    "meaning": "मैं एक भौंरा हूँ और तुम एक फूल हो; मैं जंगल में निवास नहीं करता। मैं कहीं बेल में फंस जाऊंगा, और मेरी आत्मा तड़पती रहेगी।",
+    "explanation": "इस दोहे में कबीर ने प्रेम और आत्मा के संबंध को दर्शाया है। भौंरा और फूल के बीच का प्रेम गहरा और सच्चा होता है, और यह जंगल में नहीं रह सकता। जब भौंरा कहीं बेल में फंस जाता है, तो उसकी आत्मा तड़पती है। यह प्रेम की गहराई और उसकी प्रकृति को बताता है, जो कभी भी असमंजस और दुख की स्थिति में हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.081Z"
+  }
+}

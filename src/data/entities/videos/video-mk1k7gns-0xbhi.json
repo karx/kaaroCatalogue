@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-0xbhi",
+  "name": "Delhi male #standupcomedy #funnyvideo",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT52S",
+  "embedUrl": "https://www.youtube.com/embed/3Kv0Xx-WE-Y",
+  "contentUrl": "https://www.youtube.com/watch?v=3Kv0Xx-WE-Y",
+  "uploadDate": "2024-11-07",
+  "thumbnailUrl": "https://i.ytimg.com/vi/3Kv0Xx-WE-Y/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

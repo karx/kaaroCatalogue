@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-84b735ad-0f9a-4686-b548-e5e3f471428a",
+  "name": "दया कौन पर कीजिए, का पर निर्दय होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Who should you show compassion to? It should be shown to all, for all creatures are the same, be they an ant or an elephant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दया कौन पर कीजिए, का पर निर्दय होय।\nसांई के सब जीव हैं, कीरी-कुंजर दोय।।५४।।",
+    "translation": "Who should you show compassion to? It should be shown to all, for all creatures are the same, be they an ant or an elephant.",
+    "meaning": "दया किस पर की जाए? सभी जीवों पर की जानी चाहिए, क्योंकि सभी जीव एक समान हैं, चाहे वे चींटी हों या हाथी।",
+    "explanation": "इस दोहे में संत कबीर ने सार्वभौम दया के सिद्धांत को बताया है। उन्होंने कहा कि दया सभी जीवों के प्रति होनी चाहिए, क्योंकि सभी जीवों में एक समानता होती है। यह हमें सभी प्राणियों के प्रति समान दृष्टिकोण अपनाने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

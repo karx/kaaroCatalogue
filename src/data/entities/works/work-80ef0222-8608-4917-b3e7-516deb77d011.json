@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-80ef0222-8608-4917-b3e7-516deb77d011",
+  "name": "मूसा डरपे काल सूं, कठिन काल का जोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Moses feared the time, the force of harsh time. In heaven, earth, or hell, where one goes, there is darkness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूसा डरपे काल सूं, कठिन काल का जोर।\nस्‍वर्ग भूमि पाताल में, जहां जाव तहं गोर।।१०५९।।",
+    "translation": "Moses feared the time, the force of harsh time. In heaven, earth, or hell, where one goes, there is darkness.",
+    "meaning": "मूसा को समय से डर लगता था, कठोर समय की ताकत से। स्वर्ग, भूमि, या पाताल में, जहाँ भी जाओ, अंधकार ही होता है।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि समय का डर और उसकी कठोरता बहुत बड़ी है। मूसा जैसे महान संत भी समय की ताकत से डरते थे। चाहे स्वर्ग हो, पृथ्वी हो या पाताल, हर जगह अंधकार का सामना करना पड़ता है। यह जीवन की वास्तविकता को समझाने का एक तरीका है कि समय और उसकी प्रभावशाली ताकत हर जगह अनुभव की जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.425Z"
+  }
+}

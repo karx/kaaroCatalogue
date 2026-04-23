@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a642315a-d1c5-4603-824c-9e9e0dd534a2",
+  "name": "जुवा चोरी मुखबिरी, ब्याज बिरानी नारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Gambling, theft, informers, interest, and disdainful women. Those who seek true vision should avoid these things.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जुवा चोरी मुखबिरी, ब्याज बिरानी नारि।\nजो चाहै दीदार को, इतनी वस्तु निवारि।।३४७।।",
+    "translation": "Gambling, theft, informers, interest, and disdainful women. Those who seek true vision should avoid these things.",
+    "meaning": "जुआ, चोरी, मुखबिरी, ब्याज और निंदा करने वाली महिलाएं। जो लोग सच्चे दर्शन की चाह रखते हैं, उन्हें इन चीज़ों से दूर रहना चाहिए।।",
+    "explanation": "इस दोहे में कबीरदास ने उन बुराइयों का वर्णन किया है जो सच्चे आत्मज्ञान और दर्शन की प्राप्ति में रुकावट डालती हैं। जुआ, चोरी, मुखबिरी, ब्याज और निंदा जैसी चीज़ों से दूर रहकर ही सच्चा दर्शन प्राप्त किया जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.393Z"
+  }
+}

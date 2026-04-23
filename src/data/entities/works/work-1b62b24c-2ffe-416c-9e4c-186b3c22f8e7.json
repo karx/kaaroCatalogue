@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1b62b24c-2ffe-416c-9e4c-186b3c22f8e7",
+  "name": "जदि बिषै पियारी प्रीति सूं, तब अंतर हरि नांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one loves the world with deep affection, then the divine does not dwell within. When the divine resides within, the mind is not attracted to worldly pleasures.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जदि बिषै पियारी प्रीति सूं, तब अंतर हरि नांहि।\nजब अंतर हरि जी बसै, तब विषिया सूं चित्त नांहि।।२०००।।",
+    "translation": "If one loves the world with deep affection, then the divine does not dwell within. When the divine resides within, the mind is not attracted to worldly pleasures.",
+    "meaning": "यदि कोई व्यक्ति संसार से गहरी प्रेम करता है, तो दिव्य तत्व अंतर में निवास नहीं करता। जब अंतर में दिव्य तत्व निवास करता है, तब मन संसारिक इच्छाओं की ओर आकर्षित नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने प्रेम और भक्ति के बीच के अंतर को स्पष्ट किया है। उन्होंने कहा है कि जब व्यक्ति संसारिक प्रेम और इच्छाओं में डूबा होता है, तो भीतर दिव्य तत्व का निवास नहीं होता। लेकिन जब अंतर में दिव्य तत्व निवास करता है, तो मन संसारिक इच्छाओं से अछूता रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.539Z"
+  }
+}

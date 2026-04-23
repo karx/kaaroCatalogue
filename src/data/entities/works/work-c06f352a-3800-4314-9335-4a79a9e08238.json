@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c06f352a-3800-4314-9335-4a79a9e08238",
+  "name": "तन बोहित मन काग है, लक्ष जोजन उड़‍ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is a boat and the mind is a crow; the goal may fly away. Sometimes the river of delusion is filled, sometimes the sky is reached.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तन बोहित मन काग है, लक्ष जोजन उड़‍ि जाय।\nकबहुंक भरमे आगम दरिया, कबहूं गगन समाय।।१६३०।।",
+    "translation": "The body is a boat and the mind is a crow; the goal may fly away. Sometimes the river of delusion is filled, sometimes the sky is reached.",
+    "meaning": "शरीर एक नाव है और मन एक कौआ है; लक्ष्य उड़ सकता है। कभी भ्रम की नदी भरी होती है, कभी आकाश तक पहुंचा जाता है।",
+    "explanation": "कबीर इस दोहे में शरीर और मन के भ्रामक प्रवृत्तियों की बात करते हैं। उन्होंने कहा कि शरीर और मन के माध्यम से लक्ष्य को प्राप्त करना कठिन हो सकता है, क्योंकि भ्रम कभी भी बदल सकता है और दिशा अस्थिर होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.507Z"
+  }
+}

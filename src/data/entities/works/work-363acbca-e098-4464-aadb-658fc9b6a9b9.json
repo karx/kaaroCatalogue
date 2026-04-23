@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-363acbca-e098-4464-aadb-658fc9b6a9b9",
+  "name": "और कर्म सब कर्म है, भक्ति कर्म निहकर्म",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "All actions are just actions, but devotion is beyond action. Kabir says, renounce deceptive rituals and practice true devotion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "और कर्म सब कर्म है, भक्ति कर्म निहकर्म।\nकहैं कबीर पुकारि के, भक्ति करो तजि भर्म।।७०८।।",
+    "translation": "All actions are just actions, but devotion is beyond action. Kabir says, renounce deceptive rituals and practice true devotion.",
+    "meaning": "सभी कर्म केवल कर्म हैं, लेकिन भक्ति निहकर्म है। कबीर कहते हैं कि भ्रामक कर्मों को त्यागकर सच्ची भक्ति का अभ्यास करो।",
+    "explanation": "इस दोहे में कबीर ने कर्म और भक्ति के बीच अंतर को स्पष्ट किया है। वे कहते हैं कि सभी कर्म केवल कर्म हैं, लेकिन सच्ची भक्ति उन कर्मों से परे है। भ्रामक कर्मों को त्यागकर और सच्ची भक्ति को अपनाकर ही वास्तविक साधना प्राप्त की जा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

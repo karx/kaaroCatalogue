@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2d2292ab-edf2-4e1b-8c39-e1918e58746d",
+  "name": "गुरु आज्ञा ले आवही, गुरु आज्ञा ले जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, a saint who follows the Guru's command in every action is dear and attains the nectar of divine knowledge.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु आज्ञा ले आवही, गुरु आज्ञा ले जाय।\nकहैं कबीर सो सन्‍त प्रिय, बहु विधि अमृत पाय।।६७८।।",
+    "translation": "Kabir says, a saint who follows the Guru's command in every action is dear and attains the nectar of divine knowledge.",
+    "meaning": "कबीर कहते हैं कि जो संत गुरु की आज्ञा के अनुसार हर काम करता है, वह प्रिय होता है और उसे दिव्य ज्ञान का अमृत प्राप्त होता है।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि जो संत गुरु की आज्ञा के अनुसार हर कार्य करता है, वह सच्चे अर्थों में प्रिय और योग्य है। ऐसा व्यक्ति जीवन में दिव्य ज्ञान और अमृत प्राप्त करता है। यह दोहा गुरु के प्रति समर्पण और गुरु की आज्ञा के महत्व को रेखांकित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.270Z"
+  }
+}

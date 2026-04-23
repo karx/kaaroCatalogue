@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7db4bf51-6985-4bcf-b866-d444f9629fe1",
+  "name": "मन दिया कहुँ और ही, तन साधुन के संग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is elsewhere, while the body is with the saints. Kabir says, it is like a barren field; how can it bear fruit?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन दिया कहुँ और ही, तन साधुन के संग।\nकहैं कबीर कोरी गजी, कैसे लागै रंग।।३८०।।",
+    "translation": "The mind is elsewhere, while the body is with the saints. Kabir says, it is like a barren field; how can it bear fruit?",
+    "meaning": "मन कहीं और है, जबकि शरीर संतों के साथ है। कबीर कहते हैं, यह जैसे बंजर खेत है; इसमें फल कैसे लग सकता है?",
+    "explanation": "कबीर दास जी इस दोहे में यह व्यक्त कर रहे हैं कि जब मन और शरीर दोनों का ध्यान संतों की संगति में नहीं होता, तो इसका कोई प्रभाव नहीं पड़ता। यदि आपका मन कहीं और भटक रहा है और शरीर केवल संतों के साथ है, तो यह बंजर खेत जैसा है, जिसमें कोई फल नहीं उग सकता। इस दोहे से कबीर जी यह संदेश देते हैं कि संतों की संगति का वास्तविक लाभ तभी होता है जब मन और शरीर दोनों ही पूरी तरह से वहां ध्यान केंद्रित करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

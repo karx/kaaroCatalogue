@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb9d832d-a3db-417e-a638-6271a4d0d6e3",
+  "name": "कांमणि काली नागणीं, तीन्‍यूं लोक मंझारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The black serpent of desire affects all three worlds. But those who are dear to Ram are protected, while others suffer from the poison of desire.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कांमणि काली नागणीं, तीन्‍यूं लोक मंझारि।\nराम सनेही ऊबरे, विषई खाये झारि।।२०३७।।",
+    "translation": "The black serpent of desire affects all three worlds. But those who are dear to Ram are protected, while others suffer from the poison of desire.",
+    "meaning": "कामनाओं की काली नागिन तीनों लोकों को प्रभावित करती है। लेकिन जो राम के प्रिय हैं, वे सुरक्षित रहते हैं, जबकि अन्य इच्छाओं के विष से पीड़ित होते हैं।",
+    "explanation": "इस दोहे में कबीर ने कामनाओं की काली नागिन की तुलना की है जो सभी लोकों को प्रभावित करती है। राम के प्रिय लोग सुरक्षित रहते हैं, जबकि दूसरों को कामनाओं के विष से कष्ट होता है। यह इच्छाओं और भक्ति के प्रभाव को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.810Z"
+  }
+}

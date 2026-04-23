@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-001a0811-07d0-4934-8e1c-6d2220577265",
+  "name": "रैणा दूर बिछोहिया, रहु र संषम झुरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The night of separation is far, and I remain enduring the hardship. The temple is burning, and the local sun rises.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रैणा दूर बिछोहिया, रहु र संषम झुरि।\nदेवलि दवलि धाहड़ी, देसी ऊगे सूरि।।१७७९।।",
+    "translation": "The night of separation is far, and I remain enduring the hardship. The temple is burning, and the local sun rises.",
+    "meaning": "विछोह की रात दूर है, और मैं कठिनाई सहन करता हूँ। मंदिर जल रहा है, और स्थानीय सूर्य उग रहा है।",
+    "explanation": "इस दोहे में कबीर ने बिछोह की रात की दूरगामी पीड़ा और उसकी कठिनाई को व्यक्त किया है। उन्होंने मंदिर के जलने और स्थानीय सूर्य के उगने की स्थिति से इसे तुलना की है। यह दोहा उनके अंतर्मन की भावनात्मक स्थिति और दुनिया की स्थिति के बीच के अंतर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.351Z"
+  }
+}

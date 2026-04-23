@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-fcqh1",
+  "name": "5000 KI TICKET| CROWD WORK COMEDY BY GAURAV GUPTA",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT7M47S",
+  "embedUrl": "https://www.youtube.com/embed/aBX5C7wAd_c",
+  "contentUrl": "https://www.youtube.com/watch?v=aBX5C7wAd_c",
+  "uploadDate": "2025-04-26",
+  "thumbnailUrl": "https://i.ytimg.com/vi/aBX5C7wAd_c/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-cb00487f-c1b6-49fc-bd5e-9a3591cb7283",
+  "name": "सब कुछ गुरु के पास है, पाइये अपने भाग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everything is with the Guru; one obtains it by their destiny. The true servant submits their mind and remains devoted at the Guru's feet.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सब कुछ गुरु के पास है, पाइये अपने भाग।\nसेवक मन सौप्‍यां रहै, रहैं चरण में लाग।।६८२।।",
+    "translation": "Everything is with the Guru; one obtains it by their destiny. The true servant submits their mind and remains devoted at the Guru's feet.",
+    "meaning": "सभी कुछ गुरु के पास है; यह भाग्य के अनुसार प्राप्त होता है। सच्चा सेवक अपना मन समर्पित करता है और गुरु के चरणों में समर्पित रहता है।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि सभी वस्तुएं गुरु के पास होती हैं और इन्हें भाग्य के अनुसार प्राप्त किया जाता है। सच्चा सेवक अपने मन को गुरु के चरणों में समर्पित करता है और गुरु के प्रति पूरी निष्ठा बनाए रखता है। यह दोहा गुरु की महिमा और सेवा के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.271Z"
+  }
+}

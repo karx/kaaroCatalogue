@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-001f2cc3-7674-4b2e-979a-e55934e9155e",
+  "name": "सूम थैली अरु श्‍वान भग, दोनों एक समान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A beggar’s bag and a dog are alike. Both give temporary comfort but eventually, they cause life to be at risk.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूम थैली अरु श्‍वान भग, दोनों एक समान।\nघालत में सुख ऊपजै, काढ़त निकसै प्रान।।१२४६।।",
+    "translation": "A beggar’s bag and a dog are alike. Both give temporary comfort but eventually, they cause life to be at risk.",
+    "meaning": "भिखारी की थैली और कुत्ता समान हैं। दोनों अस्थायी सुख प्रदान करते हैं लेकिन अंततः जीवन को खतरे में डालते हैं।",
+    "explanation": "इस दोहे में कबीर ने भिखारी की थैली और कुत्ते की तुलना की है। दोनों ही अस्थायी सुख प्रदान करते हैं, लेकिन समय के साथ वे जीवन के लिए खतरा बन जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.275Z"
+  }
+}

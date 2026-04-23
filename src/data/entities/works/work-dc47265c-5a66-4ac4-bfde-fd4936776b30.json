@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc47265c-5a66-4ac4-bfde-fd4936776b30",
+  "name": "फाली फूली गाडरी, ओढ़ि सिंह की खाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A jackal dressed in a lion's skin may seem mighty, but when a real lion arrives, the jackal's disguise is worthless.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "फाली फूली गाडरी, ओढ़ि सिंह की खाल।\nसाँच सिंह जब आ मिले, गाडर कौन हवाल।।३७१।।",
+    "translation": "A jackal dressed in a lion's skin may seem mighty, but when a real lion arrives, the jackal's disguise is worthless.",
+    "meaning": "एक गीदड़ जो सिंह की खाल ओढ़े हुए है, वह शक्तिशाली लग सकता है, लेकिन जब असली सिंह आता है, तो गीदड़ की disguising बेकार हो जाती है।।",
+    "explanation": "इस दोहे में कबीरदास ने बाहरी दिखावे और वास्तविकता के बीच के अंतर को स्पष्ट किया है। गीदड़ जो सिंह की खाल ओढ़े हुए है, वह भले ही बाहरी तौर पर शक्तिशाली लगे, लेकिन असली सिंह की उपस्थिति से उसकी सच्चाई उजागर हो जाती है। यह दोहा इस बात को दर्शाता है कि वास्तविक शक्ति और गुण बाहरी आभूषण और दिखावे से नहीं, बल्कि अंतर्निहित सच्चाई से मापे जाते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

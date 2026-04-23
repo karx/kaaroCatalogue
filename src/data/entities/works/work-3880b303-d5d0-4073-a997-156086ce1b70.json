@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3880b303-d5d0-4073-a997-156086ce1b70",
+  "name": "आगे-आगे दौ जलै, पीछे हरिया होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Ahead, it burns, while behind it is green. Blessed is the tree which, when its root is cut, still bears fruit.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगे-आगे दौ जलै, पीछे हरिया होइ।\nबलिहारी ता बिरष की, जड़ काट्यां फल होइ।।२०३२।।",
+    "translation": "Ahead, it burns, while behind it is green. Blessed is the tree which, when its root is cut, still bears fruit.",
+    "meaning": "आगे जलता है, जबकि पीछे हरा होता है। वह पेड़ भाग्यशाली है, जिसकी जड़ काटी जाती है, फिर भी फल देता है।",
+    "explanation": "इस दोहे में कबीर ने पेड़ की स्थिति का उदाहरण देते हुए बताया है कि जब पेड़ की जड़ काटी जाती है, तब भी वह फल देता है। यह बताता है कि भले ही स्थिति कैसी भी हो, सच्ची भक्ति और तपस्या से लाभ होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.809Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ab66f44-6245-4ada-981b-fa7b7137c83d",
+  "name": "दीपक सुन्‍दर देखि करि, जरि जरि मरे पतंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing the beautiful lamp, the moth burns and dies. The wave of desire grows, and it burns without harming my body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीपक सुन्‍दर देखि करि, जरि जरि मरे पतंग।\nबढ़ी लहर जो विषय की, जरत न मोरै अंग।।१२३४।।",
+    "translation": "Seeing the beautiful lamp, the moth burns and dies. The wave of desire grows, and it burns without harming my body.",
+    "meaning": "सुंदर दीपक को देखकर, पतंग जल कर मर जाता है। विषय की लहर बढ़ जाती है, और यह मेरे शरीर को नुकसान पहुंचाए बिना जलती रहती है।",
+    "explanation": "इस दोहे में कबीर ने काम के आकर्षण को और उसके द्वारा आत्मा की स्थिति को दर्शाया है। जैसे दीपक को देखकर पतंग जल जाता है, वैसे ही विषय की लहर बढ़ती जाती है और यह आत्मा को नुकसान पहुंचाए बिना जलती रहती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.272Z"
+  }
+}

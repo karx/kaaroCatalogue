@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd441f18-da29-4d36-851b-51c4e602987e",
+  "name": "मैं रोऊँ जब जगत को, मोको रोवे न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I cry for the world, but no one cries for me. The world should think about what seeds of words it has sown.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं रोऊँ जब जगत को, मोको रोवे न कोय।\nमोको रोवै सोचकर, जो शब्द बोए सो होय।।२२।।",
+    "translation": "I cry for the world, but no one cries for me. The world should think about what seeds of words it has sown.",
+    "meaning": "मैं दुनिया के लिए रोता हूँ, लेकिन मेरे लिए कोई नहीं रोता। दुनिया को सोचना चाहिए कि उसने शब्दों के कौन से बीज बोए हैं।",
+    "explanation": "यह दोहा आत्मनिरीक्षण और दूसरों के प्रति संवेदनशीलता का संदेश देता है। संत कबीर कहते हैं कि हमें अपने शब्दों और कर्मों के परिणामों के बारे में सोचने की आवश्यकता है, क्योंकि वे दूसरों पर गहरा प्रभाव डालते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b0bf7581-ce2d-42fb-afd8-0009ef81cff7",
+  "name": "जप तप दीसैं थोथरा, तीरथ ब्रत बेसास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rituals of chanting and penance appear hollow, and pilgrimages and fasts are meaningless. Those who sleep in comforts, see the world go by in vain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जप तप दीसैं थोथरा, तीरथ ब्रत बेसास।\nसूवै सैबल सेबिया, यौं जग चल्‍या निरास।।२०२८।।",
+    "translation": "The rituals of chanting and penance appear hollow, and pilgrimages and fasts are meaningless. Those who sleep in comforts, see the world go by in vain.",
+    "meaning": "जप और तप का दिखावा है, तीर्थ और व्रत निरर्थक हैं। जो आराम में सोते हैं, वे दुनिया को व्यर्थ में देखते हैं।",
+    "explanation": "इस दोहे में कबीर ने धार्मिक आडंबरों और कर्मकांडों की निरर्थकता को उजागर किया है। उन्होंने कहा है कि जप, तप, तीर्थ यात्रा और व्रत केवल दिखावा हैं और जो लोग आराम में रहते हैं, वे बेकार की दुनिया देख रहे हैं। सच्ची भक्ति और साधना की आवश्यकता पर जोर दिया गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.807Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-625542d8-6e9f-41c0-a98d-28f6a3e3da6f",
+  "name": "बड़ा बड़ाई ना करे, छोटा बहु इतराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A great person should not boast, and a small person should not be overly proud. Just as a fake person becomes crooked and misguided.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बड़ा बड़ाई ना करे, छोटा बहु इतराय।\nज्‍यौं प्‍यादा फरजी भया, टेढ़ा टेढ़ा जाय।।१२६५।।",
+    "translation": "A great person should not boast, and a small person should not be overly proud. Just as a fake person becomes crooked and misguided.",
+    "meaning": "महान व्यक्ति को बड़ाई नहीं करनी चाहिए, और छोटे व्यक्ति को भी ज्यादा गर्व नहीं करना चाहिए। जैसे एक झूठा व्यक्ति टेढ़ा और भ्रमित हो जाता है।",
+    "explanation": "कबीर जी ने इस दोहे में कहा है कि एक महान व्यक्ति को अपनी बड़ाई नहीं करनी चाहिए और छोटे व्यक्ति को भी ज्यादा गर्व नहीं करना चाहिए। यदि कोई झूठा और भ्रमित होता है, तो उसकी प्रवृत्ति भी टेढ़ी हो जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.543Z"
+  }
+}

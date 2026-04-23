@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0f6e9269-7ac2-4333-b28c-44beb48650de",
+  "name": "कहै कबीर कठोर कै, सबद न लागै सार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, the harsh words do not contain essence. The heart pierced by wisdom produces discernment and contemplation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कहै कबीर कठोर कै, सबद न लागै सार।\nसुधबुध कै हिरदै भिदै, उपजि विवेक विचार।।१७२६।।",
+    "translation": "Kabir says, the harsh words do not contain essence. The heart pierced by wisdom produces discernment and contemplation.",
+    "meaning": "कबीर कहते हैं, कठोर शब्दों में सार नहीं होता। जो हृदय ज्ञान से भरा होता है, वह विवेक और चिंतन उत्पन्न करता है।",
+    "explanation": "कबीर इस दोहे में सत्य और समझ की बात करते हैं। उन्होंने कहा कि कठोर शब्दों में सच्चा अर्थ नहीं होता, और सच्चा ज्ञान ही विवेक उत्पन्न करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.073Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8699c10d-ed9a-4938-8b34-dacb8902dbed",
+  "name": "छिनहि चढ छिन उतरै, सो तो प्रेम न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "That which rises and falls momentarily is not true love. True love is steady and stable, like a vessel or container.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "छिनहि चढ छिन उतरै, सो तो प्रेम न होय।\nऔघट घाट पिंजर बसै, प्रेम कहावै सोय।।८३१।।",
+    "translation": "That which rises and falls momentarily is not true love. True love is steady and stable, like a vessel or container.",
+    "meaning": "जो प्रेम पल-पल चढ़ता और उतरता है, वह सच्चा प्रेम नहीं होता। सच्चा प्रेम स्थिर और स्थायी होता है, जैसे एक बर्तन या कंटेनर।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की स्थिरता पर जोर दिया है। जो प्रेम पल-पल बदलता और चढ़ता-उतरता है, वह सच्चा प्रेम नहीं हो सकता। सच्चा प्रेम स्थिर और लगातार होता है, जैसे एक स्थिर बर्तन जो स्थायी रूप से एक ही स्थान पर रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.080Z"
+  }
+}

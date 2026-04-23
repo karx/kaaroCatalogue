@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9c294c34-db48-42f3-8ae7-5ea635132af6",
+  "name": "सुख-सागर का शील है, कोई न पावे थाह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The virtue of the ocean of happiness cannot be fathomed. Without words, there are no saints; without wealth, there are no kings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुख-सागर का शील है, कोई न पावे थाह।\nशब्द बिना साधु नहीं, द्रव्य बिना नहीं शाह।।६१।।",
+    "translation": "The virtue of the ocean of happiness cannot be fathomed. Without words, there are no saints; without wealth, there are no kings.",
+    "meaning": "सुख के समुद्र का गुण अज्ञेय है। बिना शब्द के संत नहीं होते, और बिना धन के राजा नहीं होते।",
+    "explanation": "इस दोहे में कबीर ने सुख और धर्म के गहरे गुणों को व्यक्त किया है। सुख और संतोष की गहराई को मापा नहीं जा सकता। संतों की बातों और धन की महत्ता की तुलना करते हुए कबीर ने यह दिखाया है कि कुछ बातें केवल अनुभव से ही समझी जा सकती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

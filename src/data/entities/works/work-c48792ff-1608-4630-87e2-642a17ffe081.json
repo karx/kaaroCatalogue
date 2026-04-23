@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c48792ff-1608-4630-87e2-642a17ffe081",
+  "name": "नेह निबाहे ही बनै, सोच बनें न आन",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Love is nurtured by fulfilling promises, not by mere thoughts. One should offer their body, mind, and head, and not just talk of love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नेह निबाहे ही बनै, सोच बनें न आन।\nतन दै मन दै शीस दै, नेह न दीजै जान।।२११७।।",
+    "translation": "Love is nurtured by fulfilling promises, not by mere thoughts. One should offer their body, mind, and head, and not just talk of love.",
+    "meaning": "प्रेम वचन निभाने से बनता है, केवल सोचने से नहीं। व्यक्ति को अपने शरीर, मन और सिर की पेशकश करनी चाहिए, न कि केवल प्रेम की बात करनी चाहिए।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की वास्तविकता को स्पष्ट किया है। प्रेम केवल विचारों से नहीं, बल्कि वचन निभाने और समर्पण से बनता है। कबीर ने कहा है कि व्यक्ति को प्रेम दिखाने के लिए केवल बातें नहीं करनी चाहिए, बल्कि अपने शरीर, मन, और सिर को पूरी तरह से समर्पित करना चाहिए। यह दोहा प्रेम के सही अर्थ और उसकी गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.364Z"
+  }
+}

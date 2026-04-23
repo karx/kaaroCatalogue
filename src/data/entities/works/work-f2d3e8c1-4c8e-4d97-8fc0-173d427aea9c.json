@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f2d3e8c1-4c8e-4d97-8fc0-173d427aea9c",
+  "name": "जिहिं धरि साध न पूजि, हरि की सेवा नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The home where saints are not respected and Hari is not served, that house is like a cremation ground, inhabited by spirits.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिहिं धरि साध न पूजि, हरि की सेवा नाहिं।\nते घर भड़धट सारषे, भूत बसै तिन माहिं।।२२८।।",
+    "translation": "The home where saints are not respected and Hari is not served, that house is like a cremation ground, inhabited by spirits.",
+    "meaning": "जिस घर में साधु का सम्मान नहीं होता और हरि की सेवा नहीं होती, वह घर श्मशान के समान है, जहाँ भूत रहते हैं।",
+    "explanation": "कबीर इस दोहे में कहते हैं कि जिस घर में साधु-संतों का आदर नहीं होता और भगवान की सेवा नहीं की जाती, वह घर एक श्मशान के समान है। ऐसा घर अज्ञान और नकारात्मक ऊर्जा से भरा होता है, जैसे कि वह भूतों का निवास हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

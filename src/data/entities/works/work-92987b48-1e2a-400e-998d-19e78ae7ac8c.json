@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-92987b48-1e2a-400e-998d-19e78ae7ac8c",
+  "name": "रन रोही अतिही हुआ, साजन मिला हुजूरि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The battlefield has become intense, and the beloved has met the lord. The brave stand firm, while the coward flees the earth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रन रोही अतिही हुआ, साजन मिला हुजूरि।\nशूरा शूरा ठाहरा, भाजिगई भक भूमि।।२१२६।।",
+    "translation": "The battlefield has become intense, and the beloved has met the lord. The brave stand firm, while the coward flees the earth.",
+    "meaning": "युद्धभूमि अत्यंत तीव्र हो गई है, और प्रियतम ने प्रभु से मुलाकात की है। वीर लोग स्थिर रहते हैं, जबकि कायर पृथ्वी से भाग जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने युद्ध और धैर्य की स्थिति को व्यक्त किया है। जब युद्ध की स्थिति बहुत कठिन हो जाती है और प्रियतम ने ईश्वर से मिलन प्राप्त कर लिया है, तब वीर व्यक्ति स्थिर रहते हैं और संघर्ष का सामना करते हैं। इसके विपरीत, कायर व्यक्ति उस स्थिति से भाग जाते हैं और संघर्ष से दूर रहते हैं। यह दोहा वीरता और कायरता के बीच के अंतर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.366Z"
+  }
+}

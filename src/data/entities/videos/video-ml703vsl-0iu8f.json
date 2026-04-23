@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703vsl-0iu8f",
+  "name": "Touring now with new jokes and a new show \"Well-Trained\"",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT1M",
+  "embedUrl": "https://www.youtube.com/embed/2Y79tf-ksvs",
+  "contentUrl": "https://www.youtube.com/watch?v=2Y79tf-ksvs",
+  "uploadDate": "2025-02-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/2Y79tf-ksvs/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

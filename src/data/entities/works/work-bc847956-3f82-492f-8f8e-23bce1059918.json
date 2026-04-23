@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-bc847956-3f82-492f-8f8e-23bce1059918",
+  "name": "इक बानी सो दीनता, सब कछु गुरु दरबार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One word of humility is everything in the Guru's court. This is the true offering to the Guru, as realized by the saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इक बानी सो दीनता, सब कछु गुरु दरबार।\nयही भेंट गुरु देव की, संतन कियो विचार।।१४०४।।",
+    "translation": "One word of humility is everything in the Guru's court. This is the true offering to the Guru, as realized by the saints.",
+    "meaning": "गुरु के दरबार में एक शब्द की दीनता ही सब कुछ है। यही सच्ची भेंट है जो गुरु को अर्पित की जाती है, जैसा कि संतों ने विचार किया है।",
+    "explanation": "कबीर इस दोहे में गुरु की महत्ता और दीनता के महत्व को बताते हैं। गुरु के दरबार में विनम्रता का एक शब्द ही सबसे बड़ी भेंट होती है। संतों ने इसी विनम्रता को गुरु के प्रति सच्ची भक्ति और समर्पण माना है। यह दोहा हमें विनम्रता और गुरु भक्ति का महत्व समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.358Z"
+  }
+}

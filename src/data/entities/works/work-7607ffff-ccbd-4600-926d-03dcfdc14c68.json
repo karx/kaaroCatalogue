@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-7607ffff-ccbd-4600-926d-03dcfdc14c68",
+  "name": "जाइ पूछौ उस घाइलै, दिवस पीड निस जाग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Go and ask the wounded one, he remains awake in the pain of the day and night. The one who bears the pain knows best what it feels like.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाइ पूछौ उस घाइलै, दिवस पीड निस जाग।\nबांहणहारा जणि है, कै जांणै जिस लाग।।१९२०।।",
+    "translation": "Go and ask the wounded one, he remains awake in the pain of the day and night. The one who bears the pain knows best what it feels like.",
+    "meaning": "जाओ और घायल से पूछो, वह दिन-रात दर्द में जागता रहता है। जो दर्द सहता है, वही जानता है कि वह कैसा होता है।",
+    "explanation": "इस दोहे में कबीरदास जी यह समझाते हैं कि जो लोग खुद दर्द और कष्ट झेलते हैं, वे ही उसकी वास्तविकता को समझ सकते हैं। दूसरों को केवल उनकी पीड़ा के बारे में बताने से वास्तविक समझ नहीं मिलती। यह दोहा सहनशीलता और अनुभव की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.250Z"
+  }
+}

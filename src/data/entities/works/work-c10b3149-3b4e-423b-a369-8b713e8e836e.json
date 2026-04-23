@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c10b3149-3b4e-423b-a369-8b713e8e836e",
+  "name": "सुनिये सन्‍तों साधु मिलि, कहहिं कबीर बुझाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Listen, saints and sages, Kabir speaks to explain: Follow the method of love for the Guru, and do as you are taught.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुनिये सन्‍तों साधु मिलि, कहहिं कबीर बुझाय।\nजेहि विधि गुरु सों प्रीति है, कीजे सोइ उपाय।।४७५।।",
+    "translation": "Listen, saints and sages, Kabir speaks to explain: Follow the method of love for the Guru, and do as you are taught.",
+    "meaning": "साधु और संतों, सुनो कबीर समझाते हैं: गुरु से प्रेम की विधि अपनाओ और जो सिखाया जाए, वही करो।",
+    "explanation": "इस दोहे में कबीर ने संतों और साधुओं को गुरु से प्रेम की विधि अपनाने की सलाह दी है। उन्होंने बताया है कि गुरु से प्रेम करना ही सही मार्ग है और इसी विधि से जीवन को सही दिशा मिलती है। यह दोहा यह भी बताता है कि जो गुरु ने सिखाया है, उसे अपनाकर ही आत्मा की उन्नति संभव है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

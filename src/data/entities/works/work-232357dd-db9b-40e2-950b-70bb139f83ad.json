@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-232357dd-db9b-40e2-950b-70bb139f83ad",
+  "name": "Chalti Chakki Dekh Ke",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "abstract": "Watching the grinding stones turn, Kabir weeps\nBetween the two millstones, none remains whole\n\nThe clay says to the potter, why do you trample me?\nA day will come when I shall trample you...",
+  "content": {
+    "original": "चलती चक्की देखके, दिया कबीरा रोये\nदुइ पाटन के बीच में, साबित बचा न कोये\n\nमाटी कहे कुम्हार से, तू क्या रौंदे मोय\nएक दिन ऐसा आएगा, मैं रौंदूंगी तोय",
+    "transliteration": "Chalti chakki dekh ke, diya Kabira roye\nDui patan ke beech mein, sabit bacha na koye\n\nMaati kahe kumhaar se, tu kya raunde moy\nEk din aisa aayega, main raundungi toy",
+    "translation": "Watching the grinding stones turn, Kabir weeps\nBetween the two millstones, none remains whole\n\nThe clay says to the potter, why do you trample me?\nA day will come when I shall trample you"
+  },
+  "keywords": [
+    "Doha",
+    "Hindi"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.009Z"
+  }
+}

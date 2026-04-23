@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-xbfje",
+  "name": "India & Pakistan #papacj #comedy #standupcomedy #standup #comedycentral #india #pakistan",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT39S",
+  "embedUrl": "https://www.youtube.com/embed/tYhpVrkjXjM",
+  "contentUrl": "https://www.youtube.com/watch?v=tYhpVrkjXjM",
+  "uploadDate": "2024-05-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/tYhpVrkjXjM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

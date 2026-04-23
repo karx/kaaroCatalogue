@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ef56745-b3c9-47f6-af3f-14f4c4907abf",
+  "name": "कबीर बैरी सबल है, एक जीव रिपु पांच",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the enemy is strong, and there are five enemies in one being. Each one dances to its own tune.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर बैरी सबल है, एक जीव रिपु पांच।\nअपने-अपने स्‍वाद को, बहुत नचावै नाच।।११३८।।",
+    "translation": "Kabir says that the enemy is strong, and there are five enemies in one being. Each one dances to its own tune.",
+    "meaning": "कबीर कहते हैं कि शत्रु शक्तिशाली है, और एक जीव के पांच शत्रु होते हैं। हर एक अपने-अपने स्वाद के अनुसार नाचता है।",
+    "explanation": "इस दोहे में कबीर ने मनुष्य के भीतर के पांच शत्रुओं का वर्णन किया है, जैसे कि इच्छाएं, क्रोध, मोह, अहंकार, और लालच। ये शत्रु बहुत शक्तिशाली होते हैं और अपने-अपने तरीके से व्यक्ति को नियंत्रित करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

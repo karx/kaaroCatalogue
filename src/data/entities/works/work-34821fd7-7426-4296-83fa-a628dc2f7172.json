@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-34821fd7-7426-4296-83fa-a628dc2f7172",
+  "name": "दाता तरवर दया फल, उपगारी जीवंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The tree of the giver bears fruit of compassion, which is beneficial to the living. The birds go to different directions, and the rain produces fruitful results.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दाता तरवर दया फल, उपगारी जीवंत।\nपंषा चले दिसावरां, विरषा सुफल फलंत।।१९६३।।",
+    "translation": "The tree of the giver bears fruit of compassion, which is beneficial to the living. The birds go to different directions, and the rain produces fruitful results.",
+    "meaning": "दाता का वृक्ष दया का फल देता है, जो जीवित प्राणियों के लिए लाभकारी होता है। पक्षी विभिन्न दिशाओं में जाते हैं, और वर्षा फलदायी परिणाम लाती है।",
+    "explanation": "इस दोहे में कबीर ने दाता वृक्ष की दया और कृपा की बात की है। जैसे वृक्ष दया से फल देता है और सबको शीतलता प्रदान करता है, वैसे ही एक दाता भी अपने दान और दया से सबके जीवन में सुख और समृद्धि लाता है। यहाँ 'पक्षी' और 'वर्षा' का संकेत है कि दया और करुणा के फल सभी जीवों को लाभ पहुंचाते हैं और समाज में सुख और शांति का संचार करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.530Z"
+  }
+}

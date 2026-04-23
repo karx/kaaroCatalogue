@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk088zhy-rrjs1",
+  "name": "What comes after kissing? | WHOOP Trailer | Abish Mathew Stand Up Comedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-abhish-mathew"
+  },
+  "duration": "PT1M3S",
+  "embedUrl": "https://www.youtube.com/embed/cgJTxxKwoCA",
+  "contentUrl": "https://www.youtube.com/watch?v=cgJTxxKwoCA",
+  "uploadDate": "2018-12-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/cgJTxxKwoCA/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Watch the FULL comedy special #WHOOP\nNow streaming on Amazon Prime Video: https://amzn.to/2rA83Ig",
+  "channelTitle": "Son Of Abish",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fddfd829-132f-4b8e-98df-819c3a161646",
+  "name": "बानी से पहचानिए, साम चोर की घात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Recognize the deceit of a thief through their speech. The truth of one's actions will come out through their words.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बानी से पहचानिए, साम चोर की घात।\nअन्दर की करनी से सब, निकले मुँह की बात।।१३४।।",
+    "translation": "Recognize the deceit of a thief through their speech. The truth of one's actions will come out through their words.",
+    "meaning": "चोर की चालाकी को उसकी भाषा से पहचानो। व्यक्ति की आंतरिक करनी उसकी बातों से प्रकट होती है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि एक व्यक्ति की सच्चाई उसके शब्दों और क्रियाओं से प्रकट होती है। किसी की बानी और शब्दों से उसकी चालाकी या झूठ पकड़ में आ जाता है। असली स्वरूप और ईमानदारी व्यक्ति की आंतरिक क्रियाओं से सामने आती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

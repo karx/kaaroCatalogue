@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-32188834-b74e-4fb6-aa5c-7428092027dc",
+  "name": "अबरन कौं का बरनिये, मोपै लख्‍या न जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "How can I describe the indescribable? I cannot express it. The mother who gave me birth is exhausted from trying to explain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अबरन कौं का बरनिये, मोपै लख्‍या न जाइ।\nअपना बाना बाहिया, कहि-कहि थाके माइ।।१९००।।",
+    "translation": "How can I describe the indescribable? I cannot express it. The mother who gave me birth is exhausted from trying to explain.",
+    "meaning": "अवर्णनीय को कैसे वर्णन करूँ? मैं इसे व्यक्त नहीं कर सकता। जिसने मुझे जन्म दिया, वह इसे समझाने की कोशिश करते-करते थक गई।",
+    "explanation": "इस दोहे में कबीरदास जी उस अवस्था का वर्णन करते हैं जो शब्दों से परे है। वे कहते हैं कि इस अनुभव को व्यक्त करना असंभव है। यहां तक कि जो व्यक्ति उन्हें जन्म देने वाली माता भी है, वह इस अवस्था को समझाने में असमर्थ है। यह दोहा उस आध्यात्मिक अनुभूति की बात करता है जिसे शब्दों में बांध पाना कठिन है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.980Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60bc1138-ac79-4938-a9e1-eef071715e44",
+  "name": "साधु सती औ शूरमां, राखा रहै न ओर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Saints, virtuous ones, and warriors cannot be protected in any other way. Even if one wraps their head in a flag, thieves will still intrude.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु सती औ शूरमां, राखा रहै न ओर।\nमाथा बांधि पताक सों, नेजा घालैं चोर।।२०९३।।",
+    "translation": "Saints, virtuous ones, and warriors cannot be protected in any other way. Even if one wraps their head in a flag, thieves will still intrude.",
+    "meaning": "साधु, सती और वीर को किसी और तरीके से नहीं बचाया जा सकता। भले ही कोई अपने सिर को झंडे से बांध ले, चोर फिर भी घुस आएंगे।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि साधु, सती और वीर अपनी आंतरिक शक्ति और आत्मा की रक्षा खुद करते हैं। बाहरी सुरक्षा उपाय जैसे झंडे बांधना इनकी वास्तविक सुरक्षा नहीं कर सकता। जो लोग इन गुणों से रहित होते हैं, वे बाहरी सुरक्षा की झूठी भावना में फंसे रहते हैं। यह दोहा आंतरिक सुरक्षा और आत्म-निर्भरता के महत्व को बताता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.098Z"
+  }
+}

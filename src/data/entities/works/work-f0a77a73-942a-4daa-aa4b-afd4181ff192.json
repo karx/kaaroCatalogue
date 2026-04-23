@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f0a77a73-942a-4daa-aa4b-afd4181ff192",
+  "name": "कबीर का घर शिखर पर, जहां सिलहली गैल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir's home is at the peak, where the path is slippery. Even an ant cannot stand firm there, how can the wicked load a bull?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर का घर शिखर पर, जहां सिलहली गैल।\nपांव न टिके पिपिलि का, तहां खलकोन लादा बैल।।१४७०।।",
+    "translation": "Kabir's home is at the peak, where the path is slippery. Even an ant cannot stand firm there, how can the wicked load a bull?",
+    "meaning": "कबीर का घर शिखर पर है, जहां का रास्ता बहुत फिसलन भरा है। वहां एक चींटी भी अपने पैर नहीं जमा सकती, तो बुरे लोग वहां बैल को कैसे लाद सकते हैं?",
+    "explanation": "इस दोहे में कबीर अपने आध्यात्मिक मार्ग की ऊँचाई और कठिनाई का वर्णन कर रहे हैं। उनका मार्ग इतना कठिन है कि वहाँ एक छोटी चींटी भी ठीक से खड़ी नहीं हो सकती। ऐसे में दुष्ट लोग वहाँ अपने पापों का भार कैसे ढो सकते हैं? कबीर यह बताना चाहते हैं कि सच्चाई का मार्ग कठिन और उच्च होता है, जहाँ केवल शुद्ध आत्मा ही पहुँच सकती है, और बुराई वहाँ टिक नहीं सकती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.656Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-337452b6-bece-4a14-89d7-f4a402306bc7",
+  "name": "ज्ञान दीप परकाश करि, भीतर भवन जराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The lamp of knowledge illuminates and burns the inner abode. There, remember the Guru's name and attain natural meditation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ज्ञान दीप परकाश करि, भीतर भवन जराय।\nतहां सुमिर गुरु नाम को, सहज समाधि लगाय।।७६७।।",
+    "translation": "The lamp of knowledge illuminates and burns the inner abode. There, remember the Guru's name and attain natural meditation.",
+    "meaning": "ज्ञान का दीपक प्रकाश फैलाता है और अंदर के भवन को जलाता है। वहां गुरु के नाम का स्मरण करो और सहज समाधि प्राप्त करो।",
+    "explanation": "इस दोहे में कबीर ने ज्ञान की महत्वता को बताया है, जो अंदर के अंधकार को दूर करता है। जब व्यक्ति ज्ञान के दीप को जलाता है, तो वह अपने भीतर के ज्ञान और सचाई को उजागर करता है। गुरु के नाम का स्मरण और उनकी भक्ति से सहज समाधि प्राप्त होती है, जो आत्मा की गहरी शांति और संतोष की स्थिति है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

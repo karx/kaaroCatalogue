@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01c94d90-8e19-40c8-bfe4-1c58314e8c94",
+  "name": "साँई आगे साँच है, साँई साँच सुहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The truth is in the presence of the Divine; the Divine is truth and beauty. Whether one keeps long hair or shaves, it is of no consequence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साँई आगे साँच है, साँई साँच सुहाय।\nचाहे बोले केस रख, चाहे घौंट भुण्डाय।।७९।।",
+    "translation": "The truth is in the presence of the Divine; the Divine is truth and beauty. Whether one keeps long hair or shaves, it is of no consequence.",
+    "meaning": "सच्चाई दिव्य के पास है; दिव्य सच्चाई और सुंदरता है। चाहे कोई लंबे बाल रखे या शेव करे, इससे कोई फर्क नहीं पड़ता।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि सच्चाई और दिव्यता एक ही हैं। किसी भी धार्मिक या आध्यात्मिक आचरण, जैसे कि लंबे बाल रखना या शेव करना, सच्चाई को प्रभावित नहीं करता। असली महत्व दिव्यता और सच्चाई में निहित है, न कि बाहरी दिखावे में।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

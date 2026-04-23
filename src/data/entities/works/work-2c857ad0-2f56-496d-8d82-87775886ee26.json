@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2c857ad0-2f56-496d-8d82-87775886ee26",
+  "name": "आदि नाम पारस अहै, मन है मैला लोह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The primal name is like the philosopher's stone, the mind is impure iron. Upon its touch, it becomes gold, and the bonds of illusion are broken.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आदि नाम पारस अहै, मन है मैला लोह।\nपरसत ही कंचन भया, छूटा बन्‍धन मोह।।७८४।।",
+    "translation": "The primal name is like the philosopher's stone, the mind is impure iron. Upon its touch, it becomes gold, and the bonds of illusion are broken.",
+    "meaning": "आदि नाम पारस के समान है, और मन मैला लोहे जैसा है। जब यह छूता है, तो वह सोना बन जाता है और मोह के बंधन छूट जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने 'आदि नाम' की तुलना पारस से की है, जो लोहे को सोना बना देता है। इसी तरह, जब मन में भगवान का नाम छूता है, तो वह मोह और अज्ञान के बंधनों से मुक्त हो जाता है। यह नाम की शक्ति और उसकी अमूल्यता को दर्शाता है, जो व्यक्ति के जीवन में बड़े परिवर्तन ला सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.817Z"
+  }
+}

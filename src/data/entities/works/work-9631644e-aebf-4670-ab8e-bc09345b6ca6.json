@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9631644e-aebf-4670-ab8e-bc09345b6ca6",
+  "name": "चलते-चलते पगु थका, नगर रहा नव कोस",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "After walking a long distance, the feet grow tired, and the city is still nine miles away. Resting in the middle, tell me, whose fault is it?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चलते-चलते पगु थका, नगर रहा नव कोस।\nबीचहिं में डेरा पड़ा, कहो कवन का दोस।।१५०५।।",
+    "translation": "After walking a long distance, the feet grow tired, and the city is still nine miles away. Resting in the middle, tell me, whose fault is it?",
+    "meaning": "लंबा सफर तय करने के बाद, पैर थक गए और शहर अभी भी नौ कोस दूर है। बीच में ही डेरा डालने के बाद, बताओ इसमें किसकी गलती है?",
+    "explanation": "इस दोहे में कबीर जीवन के सफर और उसकी कठिनाइयों की बात कर रहे हैं। वे कहते हैं कि जब जीवन में कठिनाईयां आती हैं, तो लोग थक कर बीच रास्ते में ही रुक जाते हैं। ऐसे में किसी को दोष देने से बेहतर है कि हम अपनी यात्रा जारी रखें और मंजिल तक पहुंचने का प्रयास करें। यह दोहा धैर्य और संघर्ष को महत्व देने की प्रेरणा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.927Z"
+  }
+}

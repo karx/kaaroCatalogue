@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4c0b793-837a-4ffe-8373-d5ecc6282262",
+  "name": "सुरति करौ मम साइयां, हम हैं भवजल माहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O Lord, keep my mind focused on you, for I am drowning in the ocean of existence. I will surely perish if you do not hold my hand.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुरति करौ मम साइयां, हम हैं भवजल माहि।\nआपही मर जांयंगे, जो नहिं पकरो बाहिं।।२१९५।।",
+    "translation": "O Lord, keep my mind focused on you, for I am drowning in the ocean of existence. I will surely perish if you do not hold my hand.",
+    "meaning": "हे प्रभु, मेरी सुरति (ध्यान) को अपने पर केंद्रित करें, क्योंकि मैं भवसागर में डूब रहा हूं। अगर आप मेरा हाथ नहीं पकड़ेंगे, तो मैं निश्चित रूप से मर जाऊंगा।",
+    "explanation": "इस दोहे में संत कबीर जी भगवान से प्रार्थना कर रहे हैं कि वे उनके मन को अपनी भक्ति में स्थिर रखें। वे जीवन के महासागर में डूबने का भय व्यक्त करते हुए कहते हैं कि अगर भगवान ने उन्हें सहारा नहीं दिया, तो वे नष्ट हो जाएंगे। यह दोहा भगवान पर पूरी तरह से समर्पण और उनके सहारे की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.733Z"
+  }
+}

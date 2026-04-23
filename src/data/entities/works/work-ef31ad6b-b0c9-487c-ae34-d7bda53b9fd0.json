@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ef31ad6b-b0c9-487c-ae34-d7bda53b9fd0",
+  "name": "भगति हजारी कपड़ा, तामें मल न समाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The cloth of devotion is priceless and cannot be tainted. The black kanti (necklace) is revered and adorned.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भगति हजारी कपड़ा, तामें मल न समाइ।\nसाषित काली कांवली, भावैं तहां बिछाइ।।२०२०।।",
+    "translation": "The cloth of devotion is priceless and cannot be tainted. The black kanti (necklace) is revered and adorned.",
+    "meaning": "भक्ति का कपड़ा अमूल्य है और उसे मल नहीं सकते। काली कांति (माला) का सम्मान किया जाता है और उसे सजाया जाता है।",
+    "explanation": "इस दोहे में कबीर ने भक्ति के महत्व को बताया है। उन्होंने कहा है कि भक्ति का कपड़ा अनमोल होता है और उसे किसी भी तरह से अपवित्र नहीं किया जा सकता। इसके विपरीत, काली कांति की पूजा की जाती है और उसे सजाया जाता है। यह भक्ति और श्रद्धा की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.805Z"
+  }
+}

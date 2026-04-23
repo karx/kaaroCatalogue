@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-08c87cdc-a9a4-4bc2-afa1-bd14afa89324",
+  "name": "साषित सण का जेवड़ा, भींगां सू कठठाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The rope made of straw, soaked and hardened. Those without a true Guru are bound and taken to the city of death.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साषित सण का जेवड़ा, भींगां सू कठठाइ।\nदोइ अषिर गुरू बाहिरा, बांध्‍या जमपुरि जाइ।।२०७१।।",
+    "translation": "The rope made of straw, soaked and hardened. Those without a true Guru are bound and taken to the city of death.",
+    "meaning": "तिनके की बनी रस्सी, भीगकर और कठोर हो जाती है। जिस व्यक्ति का सच्चा गुरु नहीं होता, वह यमपुर (मृत्यु का नगर) में बांधकर ले जाया जाता है।",
+    "explanation": "कबीर इस दोहे में गुरु की महत्ता पर जोर देते हैं। वे कहते हैं कि जैसे तिनके की रस्सी भीगने के बाद कठोर हो जाती है, वैसे ही जीवन के कठिनाइयों में उलझा व्यक्ति, जिसके पास सच्चा गुरु नहीं होता, यमराज के बंधन में फंसकर मृत्यु के नगर में पहुंचता है। यहाँ गुरु को जीवन में मार्गदर्शक के रूप में स्वीकार करने का संदेश दिया गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.092Z"
+  }
+}

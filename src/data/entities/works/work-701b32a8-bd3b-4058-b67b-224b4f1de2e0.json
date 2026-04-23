@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-701b32a8-bd3b-4058-b67b-224b4f1de2e0",
+  "name": "सन्त न छाड़ै सन्तता, कोटिक मिलै असंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint does not abandon saintliness, though millions may find the opposite. Like the breeze that pierces the Malaya hills, he does not abandon his coolness.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सन्त न छाड़ै सन्तता, कोटिक मिलै असंत।\nमलय भुवंगय बेधिया, शीतलता न तजन्त।।३४३।।",
+    "translation": "A saint does not abandon saintliness, though millions may find the opposite. Like the breeze that pierces the Malaya hills, he does not abandon his coolness.",
+    "meaning": "संत अपनी संतता को नहीं छोड़ता, भले ही करोड़ों असंत हों। मलय पर्वत की ठंडी हवा की तरह, वह अपनी शीतलता को नहीं छोड़ता।।",
+    "explanation": "इस दोहे में कबीरदास ने साधु की निरंतरता और स्थिरता का वर्णन किया है। एक सच्चा संत अपनी संतता को किसी भी स्थिति में नहीं छोड़ता, भले ही बहुत से असंत लोग हों। जैसे मलय पर्वत की ठंडी हवा अपनी ठंडक को नहीं छोड़ती, वैसे ही संत अपनी शांतिपूर्ण अवस्था को बनाए रखता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

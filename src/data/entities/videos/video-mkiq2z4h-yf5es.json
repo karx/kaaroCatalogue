@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-yf5es",
+  "name": "Confidence by Papa CJ on Appurv Gupta’s Kafi Wild Hai podcast. #papacj #appurvgupta #confidence",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT53S",
+  "embedUrl": "https://www.youtube.com/embed/aTpBkiH-28c",
+  "contentUrl": "https://www.youtube.com/watch?v=aTpBkiH-28c",
+  "uploadDate": "2025-02-20",
+  "thumbnailUrl": "https://i.ytimg.com/vi/aTpBkiH-28c/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

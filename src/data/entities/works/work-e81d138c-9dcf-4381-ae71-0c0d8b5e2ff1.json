@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e81d138c-9dcf-4381-ae71-0c0d8b5e2ff1",
+  "name": "चोपड़ मांडी चौहटे, अरध उरध बाजार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The game is played on a board with four squares, and half the market. Kabir plays with Ram, never facing defeat.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चोपड़ मांडी चौहटे, अरध उरध बाजा���।\nकबिरा खेलै रामसों, कबंहु न आवै हार।।२१४३।।",
+    "translation": "The game is played on a board with four squares, and half the market. Kabir plays with Ram, never facing defeat.",
+    "meaning": "खेल एक बोर्ड पर खेला जाता है जिसमें चार चौकोर होते हैं, और आधा बाजार। कबीर राम के साथ खेलते हैं, कभी हार का सामना नहीं करते।",
+    "explanation": "इस दोहे में कबीर ने खेल को एक चार-पहियों वाले बोर्ड और बाजार से जोड़ा है। कबीर बताते हैं कि वे राम के साथ खेलते हैं, जिसमें हार का कोई सवाल ही नहीं उठता। यह दोहा जीवन के खेल को भगवान के साथ खेलने के संदर्भ में समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.371Z"
+  }
+}

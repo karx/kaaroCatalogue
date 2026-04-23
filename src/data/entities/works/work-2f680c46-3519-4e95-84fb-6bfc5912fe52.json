@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2f680c46-3519-4e95-84fb-6bfc5912fe52",
+  "name": "गोरख रसिया योग के, मुये न जारे देह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Gorakh, the lover of yoga, did not burn his body after death. The flesh decayed and merged with the earth, leaving nothing but bones.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गोरख रसिया योग के, मुये न जारे देह।\nमांस गलि माटी मिली, कोरो मांजी देह।।१४९७।।",
+    "translation": "Gorakh, the lover of yoga, did not burn his body after death. The flesh decayed and merged with the earth, leaving nothing but bones.",
+    "meaning": "योग के प्रेमी गोरख ने अपनी मृत्यु के बाद शरीर को नहीं जलाया। उसका मांस गलकर मिट्टी में मिल गया और केवल हड्डियां शेष रह गईं।",
+    "explanation": "इस दोहे में कबीर इस बात को रेखांकित करते हैं कि चाहे कोई योगी हो या साधु, मृत्यु के बाद सभी के शरीर का यही हश्र होता है। मांस गलकर मिट्टी में मिल जाता है और केवल हड्डियां शेष रह जाती हैं। इससे यह समझ में आता है कि इस नश्वर शरीर का मोह नहीं करना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.662Z"
+  }
+}

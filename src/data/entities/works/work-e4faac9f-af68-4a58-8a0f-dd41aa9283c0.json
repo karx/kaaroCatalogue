@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e4faac9f-af68-4a58-8a0f-dd41aa9283c0",
+  "name": "तीर तुबक सों जो लडै, सो तो शूर न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who fights with arrows and guns is not truly brave. One who renounces illusion and worships the lord is truly brave.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीर तुबक सों जो लडै, सो तो शूर न होय।\nमाया तजि हरि को भजै, शूर कहावै सोय।।२१३४।।",
+    "translation": "One who fights with arrows and guns is not truly brave. One who renounces illusion and worships the lord is truly brave.",
+    "meaning": "जो तीर और तोप से लड़े, वह वास्तव में वीर नहीं है। जो माया को त्याग कर भगवान की पूजा करता है, वही सच्चा वीर है।",
+    "explanation": "इस दोहे में कबीर ने सच्ची वीरता की परिभाषा को स्पष्ट किया है। केवल हथियारों से लड़ना सच्ची वीरता नहीं है। असली वीर वह है जो माया को त्याग कर भगवान की पूजा करता है। यह दोहा भौतिक वस्तुओं और आध्यात्मिक वीरता के बीच के अंतर को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.368Z"
+  }
+}

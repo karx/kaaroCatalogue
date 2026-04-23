@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-47978066-dc30-4d1d-86b3-67d342776360",
+  "name": "त्रिक्षणा सींची ना बुझै, दिन दिन बधती जाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Thirst is not quenched by watering; it grows daily. Like a dish in the pot, it shrinks even with time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "त्रिक्षणा सींची ना बुझै, दिन दिन बधती जाइ।\nजवासा के रुष ज्यूं, घण मेहां कुमिलाइ।।१७३।।",
+    "translation": "Thirst is not quenched by watering; it grows daily. Like a dish in the pot, it shrinks even with time.",
+    "meaning": "प्यास को सींचकर बुझाया नहीं जा सकता; यह हर दिन बढ़ती जाती है। जैसे बर्तन में पका भोजन समय के साथ सिकुड़ता जाता है।",
+    "explanation": "इस दोहे में कबीर ने इच्छा और प्यास की अनंतता को व्यक्त किया है। उन्होंने बताया है कि इच्छाएं कभी समाप्त नहीं होतीं और ये हर दिन बढ़ती जाती हैं, भले ही आप उन्हें पूरा करने की कोशिश करें। समय के साथ, जैसे भोजन सिकुड़ जाता है, इच्छाएं भी बढ़ती जाती हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

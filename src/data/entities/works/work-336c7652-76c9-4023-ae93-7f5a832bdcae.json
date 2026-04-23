@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-336c7652-76c9-4023-ae93-7f5a832bdcae",
+  "name": "सूर समांणौं चंद में, दहूं किया घर एक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sun and moon are one, both residing in the same house. The mind's fire then finds satisfaction; the old script is revealed.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सूर समांणौं चंद में, दहूं किया घर एक।\nमन का चिता तब भया, कछू पूरबला लेख।।१७८९।।",
+    "translation": "The sun and moon are one, both residing in the same house. The mind's fire then finds satisfaction; the old script is revealed.",
+    "meaning": "सूरज और चाँद एक हैं, दोनों एक ही घर में निवास करते हैं। मन की आग तब संतुष्ट हो जाती है; पुरानी स्क्रिप्ट प्रकट होती है।",
+    "explanation": "इस दोहे में कबीर ने सूर्य और चाँद की एकता को दर्शाया है, जो एक ही घर में निवास करते हैं। उन्होंने बताया है कि जब मन इस एकता को समझता है, तब उसकी आतंरिक आग शांत हो जाती है और पुराने ज्ञान की जानकारी मिलती है। यह दोहा एकता और सच्चे ज्ञान की प्राप्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.355Z"
+  }
+}

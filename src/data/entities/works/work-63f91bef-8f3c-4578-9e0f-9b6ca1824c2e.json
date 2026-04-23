@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-63f91bef-8f3c-4578-9e0f-9b6ca1824c2e",
+  "name": "आरत है गुरु भक्ति करु, सब कारज सिध होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one is devoted to the guru, all tasks will be fulfilled. In the web of actions, no devotee will be ensnared.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आरत है गुरु भक्ति करु, सब कारज सिध होय।\nकरम जाल भौजाल में, भक्‍त फंसे नहि कोय।।७१५।।",
+    "translation": "If one is devoted to the guru, all tasks will be fulfilled. In the web of actions, no devotee will be ensnared.",
+    "meaning": "यदि कोई गुरु के प्रति भक्ति करता है, तो सभी कार्य सफल हो जाते हैं। कर्मों के जाल में कोई भक्त फंस नहीं सकता।",
+    "explanation": "इस दोहे में कबीर ने गुरु के प्रति भक्ति की शक्ति को दर्शाया है। वे बताते हैं कि गुरु की भक्ति से सभी कार्य सफल होते हैं और कर्मों के जाल में कोई भी सच्चा भक्त फंस नहीं सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

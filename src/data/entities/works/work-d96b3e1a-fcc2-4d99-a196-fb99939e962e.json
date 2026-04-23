@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d96b3e1a-fcc2-4d99-a196-fb99939e962e",
+  "name": "shafaq ki rakh mein jal bujh gaya sitara-e-sham",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/shafaq-kii-raakh-men-jal-bujh-gayaa-sitaara-e-shaam-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.212Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/shafaq-kii-raakh-men-jal-bujh-gayaa-sitaara-e-shaam-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nshafaq kī raakh meñ jal bujh gayā sitāra-e-shām\nshab-e-firāq ke gesū fazā meñ lahrā.e\nkoī pukāro ki ik umr hone aa.ī hai\nfalak ko qāfila-e-roz-o-shām Thahrā.e\nye zid hai yaad harīfān-e-bāda-paimā kī\nki shab ko chāñd na nikle na din ko abr aa.e\nsabā ne phir dar-e-zindāñ pe aa ke dī dastak\nsahar qarīb hai dil se kaho na ghabrā.e\nshafaq ki rakh mein jal bujh gaya sitara-e-sham\nshab-e-firaq ke gesu faza mein lahrae\nkoi pukaro ki ek umr hone aai hai\nfalak ko qafila-e-roz-o-sham Thahrae\nye zid hai yaad harifan-e-baada-paima ki\nki shab ko chand na nikle na din ko abr aae\nsaba ne phir dar-e-zindan pe aa ke di dastak\nsahar qarib hai dil se kaho na ghabrae",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nشفق کی راکھ میں جل بجھ گیا ستارۂ شام\nشب فراق کے گیسو فضا میں لہرائے\nکوئی پکارو کہ اک عمر ہونے آئی ہے\nفلک کو قافلۂ روز و شام ٹھہرائے\nیہ ضد ہے یاد حریفان بادہ پیما کی\nکہ شب کو چاند نہ نکلے نہ دن کو ابر آئے\nصبا نے پھر در زنداں پہ آ کے دی دستک\nسحر قریب ہے دل سے کہو نہ گھبرائے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nशफ़क़ की राख में जल बुझ गया सितारा-ए-शाम\nशब-ए-फ़िराक़ के गेसू फ़ज़ा में लहराए\nकोई पुकारो कि इक उम्र होने आई है\nफ़लक को क़ाफ़िला-ए-रोज़-ओ-शाम ठहराए\nये ज़िद है याद हरीफ़ान-ए-बादा-पैमा की\nकि शब को चाँद न निकले न दिन को अब्र आए\nसबा ने फिर दर-ए-ज़िंदाँ पे आ के दी दस्तक\nसहर क़रीब है दिल से कहो न घबराए",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:18.288Z"
+  }
+}

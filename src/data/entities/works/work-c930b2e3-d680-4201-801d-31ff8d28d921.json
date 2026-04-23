@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c930b2e3-d680-4201-801d-31ff8d28d921",
+  "name": "तुम्‍हे बिसारे क्‍यों बनै, मैं किस शरने जाउं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Why should I be forgotten by you? Where should I go for refuge? Even Shiva, Vishnu, and Sage Narada, their hearts cannot contain it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तुम्‍हे बिसारे क्‍यों बनै, मैं किस शरने जाउं।\nशिव विरंचि मुनि नारदा, तिनके हृदय न समाउं।।२१८६।।",
+    "translation": "Why should I be forgotten by you? Where should I go for refuge? Even Shiva, Vishnu, and Sage Narada, their hearts cannot contain it.",
+    "meaning": "मैं क्यों भूल जाऊं, मुझे किस शरण में जाना चाहिए? शिव, विष्णु और नारद मुनि के दिल भी इसे समेट नहीं सकते।",
+    "explanation": "इस दोहे में कबीर ने भगवान से अपनी स्थिति की बात की है, और यह प्रश्न किया है कि अगर भगवान उन्हें भूल जाएं तो वे किसके पास जाएं। यहाँ तक कि शिव, विष्णु और नारद जैसे महान संत भी इस स्थिति को समझ नहीं सकते। यह दोहा भक्ति और भगवान की कृपा की महत्वपूर्णता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.731Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0a731320-795b-44e6-9548-703383db0407",
+  "name": "नां कुछ किया न करि सक्‍या, ना करणे जोग सरीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I have done nothing, nor was I capable of doing anything; my body was not fit for it. Whatever has been done, it was done by God; thus, I became Kabir, Kabir.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नां कुछ किया न करि सक्‍या, ना करणे जोग सरीर।\nजे कछु किया सु हरि किया, भया कबीर कबीर।।१८९६।।",
+    "translation": "I have done nothing, nor was I capable of doing anything; my body was not fit for it. Whatever has been done, it was done by God; thus, I became Kabir, Kabir.",
+    "meaning": "मैंने कुछ नहीं किया, और न ही मैं कुछ करने में सक्षम था; मेरा शरीर इसके योग्य नहीं था। जो कुछ भी हुआ, वह भगवान ने किया; इस प्रकार, मैं कबीर से कबीर बन गया।",
+    "explanation": "इस दोहे में कबीरदास जी अपनी असहायता और भगवान के सर्वशक्तिमान होने की बात करते हैं। वे कहते हैं कि उन्होंने स्वयं कुछ नहीं किया, और न ही वे कुछ करने में सक्षम थे। उनका शरीर भी कुछ करने के योग्य नहीं था। जो कुछ भी हुआ, वह भगवान की कृपा से हुआ। इस अहसास ने उन्हें 'कबीर' बना दिया। यह दोहा आत्मसमर���पण और ईश्वर पर पूर्ण विश्वास की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.978Z"
+  }
+}

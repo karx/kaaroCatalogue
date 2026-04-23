@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5b0658b9-36ae-4e45-bf70-67b253941081",
+  "name": "बरस-बरस नहिं करि सकै, ताको लागे दोष",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one cannot do it year after year, they are at fault. Kabir says, such a soul will never attain liberation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बरस-बरस नहिं करि सकै, ताको लागे दोष।\nकहैं कबीर वा जीव सो, कबहु न पावै मोष।।५७०।।",
+    "translation": "If one cannot do it year after year, they are at fault. Kabir says, such a soul will never attain liberation.",
+    "meaning": "अगर कोई साल-दर-साल नहीं कर सकता, तो उसे दोषी मानना चाहिए। कबीर कहते हैं कि ऐसा जीव कभी मोक्ष प्राप्त नहीं कर सकेगा।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि यदि कोई व्यक्ति साल भर भी अपने काम को नियमित रूप से नहीं करता, तो उसे दोषी माना जाना चाहिए। ऐसा व्यक्ति मोक्ष प्राप्त नहीं कर सकता, क्योंकि मोक्ष प्राप्त करने के लिए निरंतर प्रयास और नियमितता की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-5f9717b9-6ac6-4bc8-b5f1-432fd550f2f0",
+  "name": "दीप कू झोला पवन है, नर को झोला नारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A lamp’s bag is the wind, a man's bag is a woman, and a wise person’s bag is pride. Kabir says, this is what is called pride.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दीप कू झोला पवन है, नर को झोला नारि।\nज्ञानी झोला गर्व हैं, कहैं कबीर पुकारि।।१२४७।।",
+    "translation": "A lamp’s bag is the wind, a man's bag is a woman, and a wise person’s bag is pride. Kabir says, this is what is called pride.",
+    "meaning": "दीप का झोला हवा है, आदमी का झोला महिला है, और ज्ञानी का झोला गर्व है। कबीर कहते हैं, यही गर्व कहलाता है।",
+    "explanation": "इस दोहे में कबीर ने बताया है कि विभिन्न वस्तुओं और व्यक्तियों के झोलों की तुलना में, ज्ञानी व्यक्ति का गर्व ही सबसे बड़ा झोला है। गर्व ही सब कुछ बर्बाद कर देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.275Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-653dfec0-b72a-4023-b6ee-fe4279882f1e",
+  "name": "कबीर करणी क्‍या करै, जे राम न करै सहाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, what can deeds accomplish if the Lord does not assist? Whichever branch you step on, it bends and breaks.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर करणी क्‍या करै, जे राम न करै सहाइ।\nजिहि जिहि डाली पग धरै, सोई नवि नवि जाइ।।१९०४।।",
+    "translation": "Kabir says, what can deeds accomplish if the Lord does not assist? Whichever branch you step on, it bends and breaks.",
+    "meaning": "कबीर कहते हैं, यदि भगवान मदद न करें तो कर्म क्या कर सकते हैं? जिस भी डाल पर आप कदम रखते हैं, वह झुक जाती है और टूट जाती है।",
+    "explanation": "इस दोहे में कबीरदास जी यह समझाते हैं कि बिना भगवान की कृपा के हमारे कर्म किसी काम के नहीं होते। वे कहते हैं कि जब भगवान की मदद नहीं होती, तो जिस भी रास्ते पर हम चलते हैं, वह टूट जाता है। यह दोहा इस बात का प्रतीक है कि हमें हर समय भगवान की कृपा की आवश्यकता होती है और हमारे कर्म तभी सफल होते हैं जब ईश्वर का सहारा हो।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1901-to-1950.md",
+    "retrievedAt": "2026-01-04T19:05:59.245Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31b61403-d0df-4662-a201-ed97a33aa1a0",
+  "name": "कबीर प्रीतड़ी तौ तुझ सौं, बहु गुणियाले कंत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir, the lover of the beloved, adores the many qualities of the beloved. If I smile and speak with you, I’ll turn my teeth blue.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर प्रीतड़ी तौ तुझ सौं, बहु गुणियाले कंत।\nजे हंसि बोलौं और सौं, तौं नील रंगाऊ दंत।।१८२८।।",
+    "translation": "Kabir, the lover of the beloved, adores the many qualities of the beloved. If I smile and speak with you, I’ll turn my teeth blue.",
+    "meaning": "कबीर, प्रियतम के प्रेमी, प्रियतम की बहुत सारी गुणों की प्रशंसा करते हैं। यदि मैं तुम्हारे साथ हंसकर बोलूं, तो मेरे दांत नीले हो जाएंगे।",
+    "explanation": "इस दोहे में कबीर ने प्रियतम के प्रति अपने प्रेम और प्रशंसा को व्यक्त किया है। प्रियतम की गुणों की सराहना करते हुए, कबीर का कहना है कि उनके प्रेम में डूबकर वे न केवल दांतों का रंग बदल सकते हैं, बल्कि पूरी तरह से उनके रंग में रंगे हो सकते हैं। यह प्रेम की गहराई और ईमानदारी को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.629Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2cd788c5-e4d0-4803-99dd-a26a08abc5ea",
+  "name": "मैं अकेला वह दो जना, सेरी नाहीं कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I am alone, but they are two; no one is on my side. If I can escape Yama (Death), then old age will be my enemy.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं अकेला वह दो जना, सेरी नाहीं कोय।\nजो जम आगे ऊबरो, तो जरा बैरी होय।।१०४५।।",
+    "translation": "I am alone, but they are two; no one is on my side. If I can escape Yama (Death), then old age will be my enemy.",
+    "meaning": "मैं अकेला हूँ, लेकिन वे दोनों (यम और जरा) साथ हैं; मेरे साथ कोई नहीं है। अगर मैं यमराज (मृत्यु) से बच निकलूं, तो बुढ़ापा मेरा शत्रु बन जाएगा।",
+    "explanation": "इस दोहे में कबीर जीवन और मृत्यु के संघर्ष का वर्णन करते हैं। वे कहते हैं कि जीवन में व्यक्ति अकेला है, लेकिन उसके सामने मृत्यु (यम) और बुढ़ापा (जरा) जैसे दो शत्रु खड़े हैं। अगर व्यक्ति किसी तरह मृत्यु से बच भी जाए, तो बुढ़ापा उसका पीछा नहीं छोड़ेगा। यह दोहा जीवन के संघर्ष और उसकी नश्वरता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.165Z"
+  }
+}

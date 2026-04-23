@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2803d113-f2bf-491f-9a13-134d342e3330",
+  "name": "कबीर ते नर अंध हैं, गुरु को कहते और",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that those who call the Guru a mere mortal are blind. While there is a place where the Lord might be displeased, there is no place where the Guru would be displeased.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर ते नर अंध हैं, गुरु को कहते और।\nहरि के रूठे ठौर है, गुरु रूठे नहिं ठौर।।४८०।।",
+    "translation": "Kabir says that those who call the Guru a mere mortal are blind. While there is a place where the Lord might be displeased, there is no place where the Guru would be displeased.",
+    "meaning": "कबीर कहते हैं कि जो गुरु को केवल एक मानव मानते हैं, वे अंधे हैं। जहां भगवान नाराज हो सकते हैं, वहां गुरु नाराज नहीं होते।",
+    "explanation": "इस दोहे में कबीर ने गुरु के महत्व को बताया है और कहा है कि जो गुरु को केवल एक मानव मानते हैं, वे अंधे हैं। भगवान की नाराजगी की एक जगह हो सकती है, लेकिन गुरु की नाराजगी की कोई जगह नहीं होती। यह दोहा गुरु के अनंत और अपार प्रेम को दर्शाता है, जो कभी भी नाराज नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-451-to-500.md",
+    "retrievedAt": "2026-01-04T19:05:51.196Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-42c3ae06-bba8-4226-99ea-22aca618b4f7",
+  "name": "Vinaya Patrika",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-tulsidas"
+  },
+  "inLanguage": "Awadhi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Vinaya_Patrika",
+    "retrievedAt": "2026-01-04T18:39:10.939Z"
+  }
+}

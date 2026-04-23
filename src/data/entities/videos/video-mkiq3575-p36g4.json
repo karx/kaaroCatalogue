@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq3575-p36g4",
+  "name": "Learn Sketch Comedy Writing With Naveen Richard",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-naveen-richard"
+  },
+  "duration": "PT1M",
+  "embedUrl": "https://www.youtube.com/embed/d43P1OdypTI",
+  "contentUrl": "https://www.youtube.com/watch?v=d43P1OdypTI",
+  "uploadDate": "2020-11-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/d43P1OdypTI/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Hey folks. I'll be teaching some basics about writing sketch comedy to raise money for \"The Rakshin Project\" by Sakshi NGO. \n\nShare with someone who might want to learn or donate toward the cause anyway. \n\n\nLearn the basics of sketch writing by registering for free here: \nhttps://insider.in/basics-o",
+  "channelTitle": "Naveen Richard",
+  "aggregatorChannel": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a63d065d-5144-464f-8d58-307a86d159b9",
+  "name": "साध संग अन्तर पड़े, यह मति कबहु न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When there is a gap in the company of saints, this intellect is never right. Kabir says, I have not seen anyone truly happy in all three worlds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साध संग अन्तर पड़े, यह मति कबहु न होय।\nकहैं कबीर तिहु लोक में, सुखी न देखा कोय।।३८२।।",
+    "translation": "When there is a gap in the company of saints, this intellect is never right. Kabir says, I have not seen anyone truly happy in all three worlds.",
+    "meaning": "संतों की संगति में अंतर होने पर, यह बुद्धि कभी सही नहीं होती। कबीर कहते हैं, मैंने तीनों लोकों में किसी को भी सच्चे सुखी नहीं देखा।",
+    "explanation": "इस दोहे में कबीर दास जी यह कहते हैं कि यदि संतों की संगति में कोई अंतर या विघ्न होता है, तो बुद्धि सही नहीं रहती और जीवन की समझ भी प्रभावित होती है। कबीर जी के अनुसार, तीनों लोकों (स्वर्ग, पृथ्वी और पाताल) में किसी भी व्यक्ति को सच्चे सुख का अनुभव नहीं हुआ है। इसका तात्पर्य यह है कि संतों की संगति और सही मार्गदर्शन के बिना, व्यक्ति वास्तविक सुख और संतोष प्राप्त नहीं कर सकता। यह दोहा हमें सच्चे सुख के लिए संतों की संगति की महत्ता समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}

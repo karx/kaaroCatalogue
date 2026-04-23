@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-35dc4ed2-6ac6-46eb-8637-95e056f57494",
+  "name": "हरि मोती की माल है, पोई कांच तागि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The necklace of the Lord's pearls is strung on a fragile thread of glass. No matter how carefully you handle it, it may break at any time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि मोती की माल है, पोई कांच तागि।\nजतन करि झंटा घंणा, टूटेगी कहूं लागि।।१८७०।।",
+    "translation": "The necklace of the Lord's pearls is strung on a fragile thread of glass. No matter how carefully you handle it, it may break at any time.",
+    "meaning": "भगवान के मोतियों की माला एक नाजुक कांच के धागे पर पिरोई हुई है। चाहे आप इसे कितनी भी सावधानी से संभालें, यह कभी भी टूट सकती है।",
+    "explanation": "कबीरदास जी इस दोहे में यह बताते हैं कि भगवान का प्रेम और भक्ति एक अनमोल मोती है, जो नाजुक धागे के समान जीवन की डोर पर टिका है। यह डोर बहुत ही कमजोर है और इसे बेहद संभालकर रखना पड़ता है। यदि हम इसे ढंग से नहीं संभालते, तो यह कभी भी टूट सकती है। यह दोहा भक्ति और जीवन की नाजुकता की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.972Z"
+  }
+}

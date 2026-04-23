@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0acc8ba8-9142-424a-877f-b4630fa137c5",
+  "name": "चिउंटी चावल ले चली, बिच में मिल गयी दाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "An ant carried away a grain of rice, but got a bit of lentil too. Kabir says, if you can't have both, take one and leave the other.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चिउंटी चावल ले चली, बिच में मिल गयी दाल।\nकहैं कबीर दो न मिलै, इक ले दूजी डाल।।१३६८।।",
+    "translation": "An ant carried away a grain of rice, but got a bit of lentil too. Kabir says, if you can't have both, take one and leave the other.",
+    "meaning": "चिउंटी चावल का दाना लेकर चली, लेकिन उसे बीच में दाल का एक टुकड़ा भी मिल गया। कबीर कहते हैं, अगर दोनों नहीं मिल सकते तो एक को लेकर दूसरी को छोड़ दो।",
+    "explanation": "कबीर इस दोहे में जीवन के संतुलन की बात करते हैं। वे कहते हैं कि जीवन में कई बार हमें दोनों चीजें नहीं मिल पातीं, जो हमें चाहिए होती हैं। ऐसे में, हमें एक को चुनकर दूसरे को छोड़ने की समझ विकसित करनी चाहिए। यह दोहा हमें सिखाता है कि कभी-कभी त्याग करना भी ज़रूरी होता है और हमें अपने निर्णय में समझदारी दिखानी चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.085Z"
+  }
+}

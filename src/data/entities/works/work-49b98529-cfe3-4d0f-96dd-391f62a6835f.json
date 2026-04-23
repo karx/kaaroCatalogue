@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-49b98529-cfe3-4d0f-96dd-391f62a6835f",
+  "name": "निज स्‍वारथ के कारनै, सेव करै संसार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One serves the world due to personal interest. One who serves with devotion without self-interest is loved by the Creator.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "निज स्‍वारथ के कारनै, सेव करै संसार।\nबिन स्‍वारथ भक्ति करै, सो भावे करतार।।१०९३।।",
+    "translation": "One serves the world due to personal interest. One who serves with devotion without self-interest is loved by the Creator.",
+    "meaning": "स्वार्थ के कारण लोग संसार की सेवा करते हैं। जो बिना स्वार्थ के भक्ति करता है, उसे भगवान प्रिय मानते हैं।",
+    "explanation": "इस दोहे में कबीर ने स्वार्थ और भक्ति के बीच अंतर को बताया है। स्वार्थ से किसी के लिए सेवा करना दुनिया भर में सामान्य है, लेकिन जो व्यक्ति बिना किसी स्वार्थ के सच्ची भक्ति करता है, वह भगवान की दृष्टि में अत्यंत प्रिय होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.430Z"
+  }
+}

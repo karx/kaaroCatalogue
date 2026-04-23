@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-89272be9-3649-416f-9025-bedc12e243ef",
+  "name": "प्रेम भक्ति में रचि रहैं, मोक्ष मुक्ति फल पाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Love, when immersed in devotion, brings the fruit of liberation and salvation. When it merges with the word, it neither comes nor goes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम भक्ति में रचि रहैं, मोक्ष मुक्ति फल पाय।\nशब्‍द मांहि जब मिलि रहै, नहिं आवै नहिं जाय।।८०३।।",
+    "translation": "Love, when immersed in devotion, brings the fruit of liberation and salvation. When it merges with the word, it neither comes nor goes.",
+    "meaning": "जब प्रेम भक्ति में समाहित हो जाता है, तब मोक्ष और मुक्ति का फल प्राप्त होता है। जब यह शब्द में मिल जाता है, तब न तो आता है और न ही जाता है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की भक्ति और मुक्ति के संबंध को दर्शाया है। प्रेम जब पूरी भक्ति में समाहित होता है, तो यह मोक्ष और मुक्ति का फल देता है। जब प्रेम शब्द में मिल जाता है, तब यह स्थिर और अचूक हो जाता है, क्योंकि यह न आता है और न ही जाता है, बल्कि स्थायी रूप से मौजूद रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.077Z"
+  }
+}

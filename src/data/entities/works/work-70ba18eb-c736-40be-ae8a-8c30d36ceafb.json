@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-70ba18eb-c736-40be-ae8a-8c30d36ceafb",
+  "name": "मन के मारे बन गये, बन तजि बस्‍ती मांहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind, having been defeated, becomes like a forest; it leaves the forest and settles in the village. Kabir says, what to do? This mind does not stay still.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन के मारे बन गये, बन तजि बस्‍ती मांहि।\nकहैं कबीर क्‍या कीजिये, यह मन ठहरै नाहिं।।११४८।।",
+    "translation": "The mind, having been defeated, becomes like a forest; it leaves the forest and settles in the village. Kabir says, what to do? This mind does not stay still.",
+    "meaning": "मन हारकर वन की तरह हो जाता है; यह वन को छोड़कर गांव में बस जाता है। कबीर कहते हैं, क्या करें? यह मन स्थिर नहीं रहता।",
+    "explanation": "इस दोहे में कबीर ने मन की अस्थिरता और उसकी चंचलता का वर्णन किया है। मन जब एक जगह से दूसरी जगह चला जाता है, तो स्थिरता बनाए रखना कठिन हो जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.707Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01f1a4c9-120f-4992-80ec-de202fe4e620",
+  "name": "काम कहर असवार है, सबकों मारै धाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Desire is a devastating calamity, it destroys everyone. Only a few saints, whose names are remembered, escape its effect.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काम कहर असवार है, सबकों मारै धाय।\nकोई एक हरिजन ऊबरा, जाके नाम सहाय।।१२२९।।",
+    "translation": "Desire is a devastating calamity, it destroys everyone. Only a few saints, whose names are remembered, escape its effect.",
+    "meaning": "काम एक विनाशकारी आपदा है, जो सभी को मार डालती है। केवल कुछ संत, जिनके नाम स्मरण किए जाते हैं, इस प्रभाव से बचते हैं।",
+    "explanation": "इस दोहे में कबीर ने काम के विनाशकारी प्रभाव को दर्शाया है। काम सभी को नष्ट कर देता है, लेकिन कुछ संत, जिनके नाम ध्यान में रखे जाते हैं, इस प्रभाव से सुरक्षित रहते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.271Z"
+  }
+}

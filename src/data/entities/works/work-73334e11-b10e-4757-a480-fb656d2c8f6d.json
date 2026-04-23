@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-73334e11-b10e-4757-a480-fb656d2c8f6d",
+  "name": "कबीर झूठ न बोलिये, जब लग पार बसाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, do not speak lies, even if you are established in the world. One never knows what might happen in the blink of an eye.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर झूठ न बोलिये, जब लग पार बसाय।\nन जानों क्‍या होयगा, पल के चौथे भाय।।१४१८।।",
+    "translation": "Kabir says, do not speak lies, even if you are established in the world. One never knows what might happen in the blink of an eye.",
+    "meaning": "कबीर कहते हैं, झूठ मत बोलो, भले ही आप दुनिया में स्थापित हों। एक पल की देर से कुछ भी हो सकता है, इसका कोई भरोसा नहीं है।",
+    "explanation": "कबीर इस दोहे में ईमानदारी का महत्व बताते हैं। वे कहते हैं कि भले ही आप दुनिया में कितने भी स्थापित क्यों न हों, झूठ बोलना सही नहीं है। जीवन में किसी भी पल क्या हो सकता है, इसका कोई भरोसा नहीं है। इसलिए सच्चाई से चिपके रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.361Z"
+  }
+}

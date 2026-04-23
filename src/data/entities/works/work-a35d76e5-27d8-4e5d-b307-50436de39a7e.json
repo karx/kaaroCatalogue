@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a35d76e5-27d8-4e5d-b307-50436de39a7e",
+  "name": "kya kahun tum se main ki kya hai ishq",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/kyaa-kahuun-tum-se-main-ki-kyaa-hai-ishq-meer-taqi-meer-ghazals",
+    "retrievedAt": "2026-01-04T20:25:28.531Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/kyaa-kahuun-tum-se-main-ki-kyaa-hai-ishq-meer-taqi-meer-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nkyā kahūñ tum se maiñ ki kyā hai ishq\njaan kā rog hai balā hai ishq\nishq hī ishq hai jahāñ dekho\nsaare aalam meñ bhar rahā hai ishq\nishq hai tarz o taur ishq ke ta.iiñ\nkahīñ banda kahīñ ḳhudā hai ishq\nishq ma.ashūq ishq āshiq hai\nya.anī apnā hī mubtalā hai ishq\ngar parastish ḳhudā kī sābit kī\nkisū sūrat meñ ho bhalā hai ishq\ndilkash aisā kahāñ hai dushman-e-jāñ\nmudda.ī hai pa mudda.ā hai ishq\nhai hamāre bhī taur kā āshiq\njis kisī ko kahīñ huā hai ishq\nkoī ḳhvāhāñ nahīñ mohabbat kā\ntū kahe jins-e-nā-ravā hai ishq\n'mīr'-jī zard hote jaate ho\nkyā kahīñ tum ne bhī kiyā hai ishq\nkya kahun tum se main ki kya hai ishq\njaan ka rog hai bala hai ishq\nishq hi ishq hai jahan dekho\nsare aalam mein bhar raha hai ishq\nishq hai tarz o taur ishq ke tain\nkahin banda kahin KHuda hai ishq\nishq mashuq ishq aashiq hai\nyani apna hi mubtala hai ishq\ngar parastish KHuda ki sabit ki\nkisu surat mein ho bhala hai ishq\ndilkash aisa kahan hai dushman-e-jaan\nmuddai hai pa muddaa hai ishq\nhai hamare bhi taur ka aashiq\njis kisi ko kahin hua hai ishq\nkoi KHwahan nahin mohabbat ka\ntu kahe jins-e-na-rawa hai ishq\n'mir'-ji zard hote jate ho\nkya kahin tum ne bhi kiya hai ishq",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nکیا کہوں تم سے میں کہ کیا ہے عشق\nجان کا روگ ہے بلا ہے عشق\nعشق ہی عشق ہے جہاں دیکھو\nسارے عالم میں بھر رہا ہے عشق\nعشق ہے طرز و طور عشق کے تئیں\nکہیں بندہ کہیں خدا ہے عشق\nعشق معشوق عشق عاشق ہے\nیعنی اپنا ہی مبتلا ہے عشق\nگر پرستش خدا کی ثابت کی\nکسو صورت میں ہو بھلا ہے عشق\nدل کش ایسا کہاں ہے دشمن جاں\nمدعی ہے پہ مدعا ہے عشق\nہے ہمارے بھی طور کا عاشق\nجس کسی کو کہیں ہوا ہے عشق\nکوئی خواہاں نہیں محبت کا\nتو کہے جنس ناروا ہے عشق\nمیرؔ جی زرد ہوتے جاتے ہو\nکیا کہیں تم نے بھی کیا ہے عشق",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nक्या कहूँ तुम से मैं कि क्या है इश्क़\nजान का रोग है बला है इश्क़\nइश्क़ ही इश्क़ है जहाँ देखो\nसारे आलम में भर रहा है इश्क़\nइश्क़ है तर्ज़ ओ तौर इश्क़ के तईं\nकहीं बंदा कहीं ख़ुदा है इश्क़\nइश्क़ मा'शूक़ इश्क़ आशिक़ है\nया'नी अपना ही मुब्तला है इश्क़\nगर परस्तिश ख़ुदा की साबित की\nकिसू सूरत में हो भला है इश्क़\nदिलकश ऐसा कहाँ है दुश्मन-ए-जाँ\nमुद्दई है प मुद्दआ है इश्क़\nहै हमारे भी तौर का आशिक़\nजिस किसी को कहीं हुआ है इश्क़\nकोई ख़्वाहाँ नहीं मोहब्बत का\nतू कहे जिंस-ए-ना-रवा है इश्क़\n'मीर'-जी ज़र्द होते जाते हो\nक्या कहीं तुम ने भी किया है इश्क़",
+    "lastUpdated": "2026-01-04T20:25:51.101Z"
+  }
+}

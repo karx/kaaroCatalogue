@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8bcc3641-c96f-4215-a37e-a05cc53d14de",
+  "name": "माला पहिरै मनभुषी, ताथै कछू न होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wearing a rosary out of pride accomplishes nothing. The one who rotates the rosary of the mind brings light to the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माला पहिरै मनभुषी, ताथै कछू न होइ।\nमन माला को फैरता, जग उजियारा सोइ।।२१७।।",
+    "translation": "Wearing a rosary out of pride accomplishes nothing. The one who rotates the rosary of the mind brings light to the world.",
+    "meaning": "घमंड से माला पहनने से कुछ हासिल नहीं होता। जो मन की माला फेरता है, वही संसार में प्रकाश फैलाता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि बाहरी माला पहनना अगर केवल दिखावे के लिए है, तो इसका कोई लाभ नहीं है। वास्तविक साधक वह है जो अपने मन की माला को बार-बार फेरता है, यानी भगवान का सच्चे मन से ध्यान करता है। ऐसा व्यक्ति ही वास्तव में संसार में प्रकाश फैलाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

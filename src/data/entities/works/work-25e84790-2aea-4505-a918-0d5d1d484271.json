@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-25e84790-2aea-4505-a918-0d5d1d484271",
+  "name": "बोलै बोल विचारि के, बैठे ठौर संभारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Speak only after careful thought, and act with caution. Kabir says, such a servant of God never faces defeat.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बोलै बोल विचारि के, बैठे ठौर संभारि।\nकहैं कबीर ता दास को, कबह न आवै हारि।।१०२७।।",
+    "translation": "Speak only after careful thought, and act with caution. Kabir says, such a servant of God never faces defeat.",
+    "meaning": "बोलने से पहले विचार करो और सही जगह बैठकर अपने कर्तव्यों का पालन करो। कबीर कहते हैं कि ऐसा व्यक्ति कभी हार नहीं मानता।",
+    "explanation": "इस दोहे में कबीर वाणी और कर्म दोनों में संयम और विचारशीलता का महत्व बताते हैं। वे कहते हैं कि जो व्यक्ति सोच-समझकर बोलता है और स्थिर होकर अपने कर्तव्यों का पालन करता है, वह जीवन में कभी हार का सामना नहीं करता। संयम और सावधानी से किया गया कार्य ही सच्ची विजय का मार्ग है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.163Z"
+  }
+}

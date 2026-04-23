@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9fac01d1-0aef-43ed-b0c4-0de29f60b9cd",
+  "name": "पोथी पढ़-पढ़ जग मुआ, पंडित भया न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The world has died reading books, no one has become a scholar. The true scholar is one who understands the two and a half letters of love.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पोथी पढ़-पढ़ जग मुआ, पंडित भया न कोय।\nढ़ाई आखर प्रेम का, पढ़ै सो पंड़ित होय।।१३०।।",
+    "translation": "The world has died reading books, no one has become a scholar. The true scholar is one who understands the two and a half letters of love.",
+    "meaning": "पुस्तकें पढ़-पढ़ कर लोग मर जाते हैं, कोई पंडित नहीं बनता। जो दो और आधे अक्षर प्रेम के समझे, वही सच्चा पंडित होता है।",
+    "explanation": "कबीर इस दोहे में यह समझाते हैं कि बाहरी शिक्षा और ज्ञान से असली ज्ञान प्राप्त नहीं होता। असली पंडित वह है जो प्रेम और भक्ति की वास्तविकता को समझता है। इस प्रेम की गहराई को समझे बिना केवल किताबें पढ़ना निरर्थक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

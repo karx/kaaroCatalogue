@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1187582a-2863-42b1-866d-c8d43e8157ef",
+  "name": "गुरुवा तो सस्ता भया, कौड़ी अर्थ पचास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Guru has become so cheap, worth just a few pennies, that he does not even care for himself, yet hopes to guide his disciples.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरुवा तो सस्ता भया, कौड़ी अर्थ पचास।\nअपने तन की सुधि नहीं, शिष्य करन की आस।।२८६।।",
+    "translation": "The Guru has become so cheap, worth just a few pennies, that he does not even care for himself, yet hopes to guide his disciples.",
+    "meaning": "गुरु इतना सस्ता हो गया है कि वह केवल कुछ पैसों का ही मूल्य रखता है। वह अपने शरीर की भी परवाह नहीं करता, फिर भी शिष्यों का मार्गदर्शन करने की उम्मीद करता है।",
+    "explanation": "इस दोहे में कबीर उन गुरुओं की आलोचना करते हैं जो अपने आप का ख्याल नहीं रखते और केवल धन के लिए शिष्यों का मार्गदर्शन करने का ढोंग करते हैं। ऐसे गुरु शिष्य को सच्ची राह पर नहीं ले जा सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

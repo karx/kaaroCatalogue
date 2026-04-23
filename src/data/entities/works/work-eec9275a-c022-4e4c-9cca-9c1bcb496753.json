@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eec9275a-c022-4e4c-9cca-9c1bcb496753",
+  "name": "वाजन दे बाजन्‍तरी, कलि कुकुरी मति छेर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The weight is given to the instrument, but the mind remains fickle. Why worry about others? Rely on yourself.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "वाजन दे बाजन्‍तरी, कलि कुकुरी मति छेर।\nतुझे बिरानी क्‍या परी, अपनी आप निबेर।।१६१२।।",
+    "translation": "The weight is given to the instrument, but the mind remains fickle. Why worry about others? Rely on yourself.",
+    "meaning": "वजन यंत्र को दिया जाता है, लेकिन मन अस्थिर रहता है। दूसरों की चिंता क्यों करें? खुद पर निर्भर रहो।",
+    "explanation": "इस दोहे में कबीर ने आत्म-निर्भरता की बात की है। उन्होंने कहा कि यंत्र या बाहरी चीजों का वजन तो होता है, लेकिन मन अस्थिर रहता है। इसलिए दूसरों की चिंता छोड़कर खुद पर निर्भर रहना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.503Z"
+  }
+}

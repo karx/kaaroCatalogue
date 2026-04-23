@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d20ebe32-747b-466d-900a-d74039612b62",
+  "name": "Agni-Veena",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kazi-nazrul"
+  },
+  "inLanguage": "Bengali",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Agni-Veena",
+    "retrievedAt": "2026-01-04T18:39:22.687Z"
+  }
+}

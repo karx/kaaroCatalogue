@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ee6abfd7-6848-4430-ad21-069ed8d47636",
+  "name": "कबीर चंदन कै निड़ै, नींव भि चंदन होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, sandalwood's nature is such that even its foundation is sandalwood. The old lineage is elevated, but who recognizes the old?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर चंदन कै निड़ै, नींव भि चंदन होइ।\nबूड़ा बंस बड़ाइतां, यौं जिनि बूडे कोइ।।१७३१।।",
+    "translation": "Kabir says, sandalwood's nature is such that even its foundation is sandalwood. The old lineage is elevated, but who recognizes the old?",
+    "meaning": "कबीर कहते हैं, चंदन की प्रकृति ऐसी है कि उसकी नींव भी चंदन की होती है। पुरानी जाति ऊंची होती है, लेकिन कौन पुरानी जाति को पहचानता है?",
+    "explanation": "कबीर इस दोहे में मूल्य और जाति की बात करते हैं। उन्होंने कहा कि असली मूल्य सच्चे गुणों में होता है, न कि केवल जाति या स्थिति में।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.074Z"
+  }
+}

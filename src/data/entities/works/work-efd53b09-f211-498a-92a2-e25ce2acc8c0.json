@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-efd53b09-f211-498a-92a2-e25ce2acc8c0",
+  "name": "जाके मुख माथा नहीं, नाहीं रूप कुरूप",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who has no distinguishing features or form is unique. Such a person is beyond appearance and is of a different essence.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाके मुख माथा नहीं, नाहीं रूप कुरूप।\nपुछुप बास तें पामरा, ऐसा तत्व अनूप।।१२४।।",
+    "translation": "One who has no distinguishing features or form is unique. Such a person is beyond appearance and is of a different essence.",
+    "meaning": "जिसके पास कोई विशिष्ट रूप या आकार नहीं है, वह अनोखा है। ऐसा व्यक्ति रूप से परे होता है और उसकी मूल तत्व कुछ अलग होती है।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि एक व्यक्ति जिसे कोई विशिष्ट रूप या पहचान नहीं है, वह वास्तव में अद्वितीय है। यह सिखाता है कि सच्ची पहचान और महत्व रूप या आकार में नहीं, बल्कि आंतरिक गुण और तत्व में होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

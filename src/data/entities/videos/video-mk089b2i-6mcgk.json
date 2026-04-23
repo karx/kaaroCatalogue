@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk089b2i-6mcgk",
+  "name": "John Abraham & Kent | Stand up Comedy by Rahul Subramanian",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rahul-subramanian"
+  },
+  "duration": "PT6M18S",
+  "embedUrl": "https://www.youtube.com/embed/JzesyIXtMPk",
+  "contentUrl": "https://www.youtube.com/watch?v=JzesyIXtMPk",
+  "uploadDate": "2018-01-16",
+  "thumbnailUrl": "https://i.ytimg.com/vi/JzesyIXtMPk/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Here is Rahul's stand up video - John Abraham and Kent Water Purifier\n\nRahul is an MBA-Brand Manager turned Standup comedian who is making the world funnier, one joke at a time. Check out his social media for you daily dose of funny https://bit.ly/2MWeFL8 \n\nFollow Random Chikibum for all things funn",
+  "channelTitle": "Random Chikibum",
+  "aggregatorChannel": null
+}

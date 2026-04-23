@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f28d3262-bd8b-4590-a383-4e331dc30c1e",
+  "name": "को छूटौ इहिं जाल परि, कत फुरंग अकुलाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whoever gets caught in this net is troubled and restless. The more you try to understand and get free, the more entangled you become.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "को छूटौ इहिं जाल परि, कत फुरंग अकुलाय।\nज्यों-ज्यों सुरझि भजौ चहै, त्यों-त्यों उरझत जाय।।१०४।।",
+    "translation": "Whoever gets caught in this net is troubled and restless. The more you try to understand and get free, the more entangled you become.",
+    "meaning": "जो भी इस जाल में फंसता है, वह परेशान और बेचैन रहता है। जितना आप समझने और मुक्त होने की कोशिश करते हैं, उतना ही अधिक उलझते जाते हैं।",
+    "explanation": "इस दोहे में कबीर यह बताते हैं कि संसार की जटिलताओं और भ्रमों में फंसना व्यक्ति को मानसिक रूप से परेशान करता है। जैसे-जैसे आप इन जटिलताओं को समझने और उनसे मुक्त होने की कोशिश करते हैं, वैसे-वैसे यह उलझन और भी बढ़ती जाती है। यह दर्शाता है कि सांसारिक समस्याओं से दूर रहने और सही दिशा में ध्यान केंद्रित करने की आवश्यकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.334Z"
+  }
+}

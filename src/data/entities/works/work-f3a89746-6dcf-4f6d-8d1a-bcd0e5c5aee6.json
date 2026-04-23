@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f3a89746-6dcf-4f6d-8d1a-bcd0e5c5aee6",
+  "name": "ऐसी गति संसार की, ज्‍यों गाडर के ठाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The fate of the world is like a herd of sheep. Once one falls into a ditch, the rest follow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऐसी गति संसार की, ज्‍यों गाडर के ठाट।\nएक परे जेहि गाड़ में, सबै गाड़ में जाय।।१४८२।।",
+    "translation": "The fate of the world is like a herd of sheep. Once one falls into a ditch, the rest follow.",
+    "meaning": "संसार की गति ऐसे है जैसे एक झुंड की चाल। एक गड्ढे में गिरते ही, बाकी सभी भी उसके पीछे गिर जाते हैं।",
+    "explanation": "इस दोहे में कबीर संसार की अंधानुकरण की प्रवृत्ति को उजागर करते हैं। जब कोई एक व्यक्ति किसी गलत मार्ग पर चलता है, तो बाकी लोग बिना सोचे-समझे उसका अनुसरण करते हैं। कबीर यहां इस बात पर जोर दे रहे हैं कि हमें अपने जीवन में विवेक का प्रयोग करना चाहिए और अंधानुकरण से बचना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.659Z"
+  }
+}

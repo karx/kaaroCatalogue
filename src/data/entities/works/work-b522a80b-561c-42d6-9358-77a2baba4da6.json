@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b522a80b-561c-42d6-9358-77a2baba4da6",
+  "name": "प्रगट कहौं तो मारिया, परदा लखे न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If revealed, it is killed; no one sees the veil. Endurance hides it, who can say who is the enemy?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रगट कहौं तो मारिया, परदा लखे न कोय���\nसहना छुपा पुवार तर, को कह बैरी होय।।१५९९।।",
+    "translation": "If revealed, it is killed; no one sees the veil. Endurance hides it, who can say who is the enemy?",
+    "meaning": "यदि प्रकट किया जाए, तो वह मारा जाता है; परदा कोई नहीं देखता। सहनशीलता इसे छुपा देती है, कौन कह सकता है कि शत्रु कौन है?",
+    "explanation": "कबीर इस दोहे में छुपे हुए सत्य और उसके प्रकट होने की बात करते हैं। उन्होंने कहा कि यदि सत्य को प्रकट किया जाए, तो वह नष्ट हो जाता है और परदा किसी को दिखाई नहीं देता। सहनशीलता के माध्यम से इसे छुपाया जा सकता है, लेकिन यह पता लगाना मुश्किल है कि शत्रु कौन है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.213Z"
+  }
+}

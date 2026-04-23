@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-463b74b1-f5ca-44dc-ab57-1a7dae964838",
+  "name": "जिभ्‍या जिन बिस में करी, तिन बस कियो जहान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who control their tongue, control the world. Otherwise, vices arise, as all wise saints say.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिभ्‍या जिन बिस में करी, तिन बस कियो जहान।\nनहिं तो औगुन ऊपजे, कहि सब संत सुजान।।१०११।।",
+    "translation": "Those who control their tongue, control the world. Otherwise, vices arise, as all wise saints say.",
+    "meaning": "जिन्होंने अपनी जीभ को नियंत्रित किया, उन्होंने पूरे संसार को अपने वश में कर लिया। अन्यथा, अवगुण पैदा हो जाते हैं, जैसा कि सभी ज्ञानी संत कहते हैं।",
+    "explanation": "इस दोहे में कबीर इस बात पर जोर देते हैं कि जिसने अपनी वाणी को नियंत्रित कर लिया, उसने संसार को जीत लिया। वाणी का संयम न होने पर इंसान के भीतर अवगुण पनपने लगते हैं, जैसा कि सभी संतों का कहना है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.161Z"
+  }
+}

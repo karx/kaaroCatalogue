@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d84ea100-192c-46cd-83a4-822512a9965f",
+  "name": "सांचा शब्‍द कबीर का, हृदया देखि विचारी",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The true word of Kabir, considered by the heart, has been said for ages. The mind does not understand it, though it has been spoken for four ages.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सांचा शब्‍द कबीर का, हृदया देखि विचारी।\nचित दे समुझे नहिं मोहि, कहत भए जुग चारि।।१६९३।।",
+    "translation": "The true word of Kabir, considered by the heart, has been said for ages. The mind does not understand it, though it has been spoken for four ages.",
+    "meaning": "कबीर का सच्चा शब्द, जिसे दिल से देखा गया है, चार युगों से कहा गया है। मन इसे नहीं समझता, भले ही यह चार युगों से कहा गया है।",
+    "explanation": "कबीर इस दोहे में सच्चे शब्द और समझ की बात करते हैं। उन्होंने कहा कि सच्चे शब्द को समझना कठिन होता है, हालांकि इसे कई युगों से कहा गया है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1651-to-1700.md",
+    "retrievedAt": "2026-01-04T19:05:57.792Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d59aad21-0beb-4869-9547-9f0d959ea517",
+  "name": "टालै टूलै दिन गयो, ब्‍याज बढ़न्‍ता जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Days pass in delay and the interest increases. Neither devotion to Hari nor resolving the accounts, time reaches its end.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "टालै टूलै दिन गयो, ब्‍याज बढ़न्‍ता जाय।\nना हरि भजा न खत कटा, काल पहुंचा आय।।१०८१।।",
+    "translation": "Days pass in delay and the interest increases. Neither devotion to Hari nor resolving the accounts, time reaches its end.",
+    "meaning": "दिन टालते हुए बीत जाते हैं और ब्याज बढ़ता रहता है। न तो हरि की भक्ति की जाती है और न ही खातों को निपटाया जाता है, समय अपना अंत तक पहुंच जाता है।",
+    "explanation": "इस दोहे में कबीर ने विलम्ब और समय की बर्बादी पर प्रकाश डाला है। यदि हम हर काम को टालते रहते हैं और अपने धार्मिक कर्तव्यों और ज़िम्मेदारियों को पूरा नहीं करते, तो समय समाप्त हो जाता है। इससे समय के महत्व और काम के प्रति प्रतिबद्धता की आवश्यकता का एहसास होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.428Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-54832939-70f8-48c4-b53f-c7aa03268c2e",
+  "name": "दूजे दिन नहिं करि सके, तीजे दिन करु जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you cannot do it the next day, then do it on the third day. Kabir says, through the sight of a saint, one can attain liberation and salvation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दूजे दिन नहिं करि सके, तीजे दिन करु जाय।\nकबीर साधु दरश ते, मोक्ष मुक्ति फल पाय।।५६६।।",
+    "translation": "If you cannot do it the next day, then do it on the third day. Kabir says, through the sight of a saint, one can attain liberation and salvation.",
+    "meaning": "अगर अगले दिन नहीं कर पाते तो तीसरे दिन कर लें। कबीर कहते हैं कि संत के दर्शन से मोक्ष और मुक्ति प्राप्त होती है।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि अगर किसी काम को अगले दिन पूरा नहीं कर पाते, तो तीसरे दिन पूरा करने का प्रयास करें। संत के दर्शन से मोक्ष और मुक्ति प्राप्त होती है, जो जीवन की अंतिम सफलता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

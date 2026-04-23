@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fd0db09b-d06b-4907-a2e1-f081dc9cf355",
+  "name": "मात पिता सुत स्‍त्री, आलस बन्‍धु कानि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Mother, father, son, wife, laziness, and friends can cause hindrance. When a saint walks towards the path of truth, these obstacles come in the way.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मात पिता सुत स्‍त्री, आलस बन्‍धु कानि।\nसाधु दरश को जब चलै, ये अटकावै आनि।।५७१।।",
+    "translation": "Mother, father, son, wife, laziness, and friends can cause hindrance. When a saint walks towards the path of truth, these obstacles come in the way.",
+    "meaning": "माता-पिता, संतान, पत्नी, आलस्य, और मित्र इन सभी में बाधाएँ आ सकती हैं। जब एक साधु सत्य के मार्ग पर चलते हैं, तो ये अटकाव आ जाते हैं।",
+    "explanation": "इस दोहे में कबीरदास जी ने बताया है कि जीवन में माता-पिता, संतान, पत्नी, आलस्य और मित्र भी जीवन की प्रगति में बाधाएँ उत्पन्न कर सकते हैं। जब एक साधु सत्य की ओर बढ़ते हैं, तो इन्हीं बाधाओं का सामना करना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.727Z"
+  }
+}

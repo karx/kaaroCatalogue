@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-55606b9c-f676-425d-a7cf-2f2e3425e03c",
+  "name": "नाम लिया जिन सब लिया, सब सास्‍त्रन को भेद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Those who have taken the name have understood all the scriptures' secrets. Without the name, even those learned in the Vedas go to hell.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नाम लिया जिन सब लिया, सब सास्‍त्रन को भेद।\nबिना नाम नरके गये, प‍ढ़‍ि गुनि चारों वेद।।७४४।।",
+    "translation": "Those who have taken the name have understood all the scriptures' secrets. Without the name, even those learned in the Vedas go to hell.",
+    "meaning": "जिन्होंने नाम लिया है, उन्होंने सभी शास्त्रों के रहस्यों को समझ लिया है। बिना नाम के, वेदों के ज्ञाता भी नरक में चले जाते हैं।",
+    "explanation": "इस दोहे में कबीर यह कहते हैं कि नाम का महत्व शास्त्रों के सभी रहस्यों को समझने में है। केवल नाम के जाप से ही आध्यात्मिक ज्ञान प्राप्त होता है, और बिना नाम के, भले ही कोई वेदों के ज्ञाता हो, उसका मार्ग नरक की ओर जाता है। नाम से ही वास्तविक मुक्ति और ज्ञान प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.545Z"
+  }
+}

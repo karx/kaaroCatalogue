@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d9effd23-63ba-4d49-a6c2-19c715bbc85b",
+  "name": "पांच तत्‍व का पूतरा, रज बीरज की बूंद",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "This body is made of five elements and a drop of semen and ovum. From the same source emerge Brahmin, Kshatriya, and Shudra.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पांच तत्‍व का पूतरा, रज बीरज की बूंद।\nएकै घाटी नीसरा, ब्राह्मन क्षत्री सूद।।१३७२।।",
+    "translation": "This body is made of five elements and a drop of semen and ovum. From the same source emerge Brahmin, Kshatriya, and Shudra.",
+    "meaning": "यह शरीर पांच तत्वों और वीर्य-रज की बूंद से बना है। इसी स्रोत से ब्राह्मण, क्षत्रिय और शूद्र उत्पन्न होते हैं।",
+    "explanation": "कबीर इस दोहे में सामाजिक भेदभाव को खारिज करते हैं। वे कहते हैं कि हर इंसान का शरीर पांच तत्वों और वीर्य-रज की बूंद से बना होता है। ब्राह्मण, क्षत्रिय, और शूद्र सभी एक ही स्रोत से उत्पन्न होते हैं। उनका संदेश है कि जाति, वर्ग, या जन्म के आधार पर किसी के साथ भेदभाव करना अनुचित है, क्योंकि हम सभी एक समान हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.086Z"
+  }
+}

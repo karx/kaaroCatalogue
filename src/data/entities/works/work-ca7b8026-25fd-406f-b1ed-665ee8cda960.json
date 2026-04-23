@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ca7b8026-25fd-406f-b1ed-665ee8cda960",
+  "name": "गुरु बिचारा क्या करे, ह्रदय भया कठोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What can the poor Guru do when the heart has become hard? No matter how much water is poured, the stone remains dry.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु बिचारा क्या करे, ह्रदय भया कठोर।\nनौ नेजा पानी चढ़ा, पथर न भीजी कोर।।२९०।।",
+    "translation": "What can the poor Guru do when the heart has become hard? No matter how much water is poured, the stone remains dry.",
+    "meaning": "गुरु बेचारा क्या कर सकता है जब ह्रदय कठोर हो गया है? चाहे कितना भी पानी डालो, पत्थर गीला नहीं होता।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जब किसी व्यक्ति का ह्रदय कठोर हो जाता है और वह सच्चाई को ग्रहण करने में असमर्थ हो जाता है, तो गुरु भी उसकी मदद नहीं कर सकता। यह वैसा ही है जैसे पत्थर पर कितना भी पानी डालने से वह गीला नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

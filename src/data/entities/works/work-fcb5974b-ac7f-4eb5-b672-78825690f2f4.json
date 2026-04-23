@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fcb5974b-ac7f-4eb5-b672-78825690f2f4",
+  "name": "कबीर चन्दर के भिरै, नीम भी चन्दन होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, in the company of the sandalwood tree, even the bitter neem tree becomes fragrant. But a bamboo tree, despite its height, sinks in water. Let no one sink like that.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर चन्दर के भिरै, नीम भी चन्दन होय।\nबूड़यो बाँस बड़ाइया, यों जनि बूड़ो कोय।।२९८।।",
+    "translation": "Kabir says, in the company of the sandalwood tree, even the bitter neem tree becomes fragrant. But a bamboo tree, despite its height, sinks in water. Let no one sink like that.",
+    "meaning": "कबीर कहते हैं, चंदन के साथ रहने से कड़वा नीम का पेड़ भी सुगंधित हो जाता है। लेकिन बांस का पेड़, चाहे कितना भी ऊंचा हो, पानी में डूब जाता है। कोई भी इस तरह न डूबे।",
+    "explanation": "इस दोहे में कबीर संगति के महत्व को दर्शाते हैं। वे कहते हैं कि अच्छी संगति का प्रभाव इतना शक्तिशाली होता है कि वह कड़वाहट को भी मिठास में बदल सकता है। दूसरी ओर, ऊँचाई का घमंड विनाश का कारण बन सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.130Z"
+  }
+}

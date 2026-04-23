@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3daf3dfc-ae9a-4cc6-b4b8-11d1efe2e0ae",
+  "name": "भक्ति निसेनी मुक्ति की, संत चढ़े सब आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The ladder of devotion leads to liberation; saints climb it with ease. Below, temptations lurk, waiting to trap those who fall.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति निसेनी मुक्ति की, संत चढ़े सब आय।\nनीचे बाधिनि लुकि रही, कुचल पड़े कू खाय।।४१९।।",
+    "translation": "The ladder of devotion leads to liberation; saints climb it with ease. Below, temptations lurk, waiting to trap those who fall.",
+    "meaning": "भक्ति की सीढ़ी मुक्ति तक ले जाती है; संत इसे आसानी से चढ़ते हैं। नीचे, बाधाएँ छिपी रहती हैं, जो गिरने वालों को फँसाने के लिए तैयार रहती हैं।",
+    "explanation": "इस दोहे में कबीर भक्ति के मार्ग की कठिनाई और उसमें छिपी बाधाओं के बारे में बताते हैं। वह कहते हैं कि भक्ति की सीढ़ी मुक्ति की ओर ले जाती है, और संतजन इसे आसानी से पार कर लेते हैं। लेकिन इसके नीचे, कई बाधाएँ छिपी रहती हैं, जो उस व्यक्ति को फँसा लेती हैं जो इस मार्ग पर संतुलन खो देता है। यह दोहा हमें सिखाता है कि भक्ति के मार्ग पर धैर्य और संतुलन बनाकर चलना आवश्यक है, अन्यथा मुक्ति की प्राप्ति कठिन हो जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.922Z"
+  }
+}

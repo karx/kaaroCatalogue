@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ebbdfe95-ef82-4bc9-a669-fa8e60d3200b",
+  "name": "humne sab sher mein sanware the",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ham-ne-sab-sher-men-sanvaare-the-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.208Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ham-ne-sab-sher-men-sanvaare-the-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nham ne sab sher meñ sañvāre the\nham se jitne suḳhan tumhāre the\nrañg-o-ḳhushbū ke husn-o-ḳhūbī ke\ntum se the jitne isti.āre the\ntere qaul-o-qarār se pahle\napne kuchh aur bhī sahāre the\njab vo la.al-o-gohar hisāb kiye\njo tire ġham ne dil pe vaare the\nmere dāman meñ aa gire saare\njitne tasht-e-falak meñ taare the\numr-e-jāved kī duā karte\n'faiz' itne vo kab hamāre the\nhum ne sab sher mein sanware the\nhum se jitne suKHan tumhaare the\nrang-o-KHushbu ke husn-o-KHubi ke\ntum se the jitne istiare the\ntere qaul-o-qarar se pahle\napne kuchh aur bhi sahaare the\njab wo lal-o-gohar hisab kiye\njo tere gham ne dil pe ware the\nmere daman mein aa gire sare\njitne tasht-e-falak mein tare the\numr-e-jawed ki dua karte\n'faiz' itne wo kab hamare the",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nہم نے سب شعر میں سنوارے تھے\nہم سے جتنے سخن تمہارے تھے\nرنگ و خوشبو کے حسن و خوبی کے\nتم سے تھے جتنے استعارے تھے\nتیرے قول و قرار سے پہلے\nاپنے کچھ اور بھی سہارے تھے\nجب وہ لعل و گہر حساب کیے\nجو ترے غم نے دل پہ وارے تھے\nمیرے دامن میں آ گرے سارے\nجتنے طشت فلک میں تارے تھے\nعمر جاوید کی دعا کرتے\nفیضؔ اتنے وہ کب ہمارے تھے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nहम ने सब शेर में सँवारे थे\nहम से जितने सुख़न तुम्हारे थे\nरंग-ओ-ख़ुशबू के हुस्न-ओ-ख़ूबी के\nतुम से थे जितने इस्तिआरे थे\nतेरे क़ौल-ओ-क़रार से पहले\nअपने कुछ और भी सहारे थे\nजब वो लाल-ओ-गुहर हिसाब किए\nजो तिरे ग़म ने दिल पे वारे थे\nमेरे दामन में आ गिरे सारे\nजितने तश्त-ए-फ़लक में तारे थे\nउम्र-ए-जावेद की दुआ करते\n'फ़ैज़' इतने वो कब हमारे थे",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:45.886Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-feb482de-87e2-4b17-8bd3-0ab916129dc9",
+  "name": "काल फिरै सिर ऊपरे, हाथों धरी कमान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Death hovers over your head with a bow in hand. Kabir says, hold onto the name (of God) and abandon all pride.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काल फिरै सिर ऊपरे, हाथों धरी कमान।\nकहैं कबीर गहु नाम को, छोड़ सकल अभिमान।।१०४९।।",
+    "translation": "Death hovers over your head with a bow in hand. Kabir says, hold onto the name (of God) and abandon all pride.",
+    "meaning": "मृत्यु आपके सिर पर तीर-कमान लिए मंडरा रही है। कबीर कहते हैं, भगवान के नाम को पकड़ लो और सारे अभिमान को छोड़ दो।",
+    "explanation": "इस दोहे में कबीर हमें मृत्यु की अनिवार्यता की याद दिलाते हैं। वे कहते हैं कि मृत्यु हमेशा हमारे सिर पर मंडरा रही है, और इसे टालना असंभव है। ऐसे में, हमें अहंकार को त्याग कर भगवान के नाम का सहारा लेना चाहिए, जिससे हमें शांति और मोक्ष प्राप्त हो सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.167Z"
+  }
+}

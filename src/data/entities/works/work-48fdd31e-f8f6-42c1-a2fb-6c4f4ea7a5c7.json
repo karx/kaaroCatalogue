@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-48fdd31e-f8f6-42c1-a2fb-6c4f4ea7a5c7",
+  "name": "शूरा के मैदान में, कायर बेधा आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A coward in the battlefield only brings disgrace. He neither fights nor flees, and his mind is filled with regret.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शूरा के मैदान में, कायर बेधा आय।\nना भाजै ना लडि सकै, मनहीं मन पछिताय।।२११४।।",
+    "translation": "A coward in the battlefield only brings disgrace. He neither fights nor flees, and his mind is filled with regret.",
+    "meaning": "वीरों के मैदान में कायर केवल लज्जा लाता है। वह न तो लड़ेगा और न ही भागेगा, और उसका मन पछतावा से भरा रहेगा।",
+    "explanation": "इस दोहे में कबीर ने कायरता की स्थिति को स्पष्ट किया है। कायरता के साथ, व्यक्ति न तो लड़ाई में शामिल होता है और न ही लड़ाई से बचता है। परिणामस्वरूप, वह लज्जा और पछतावे का सामना करता है। यह दोहा कायरता की नकारात्मकता और उसकी वास्तविकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.363Z"
+  }
+}

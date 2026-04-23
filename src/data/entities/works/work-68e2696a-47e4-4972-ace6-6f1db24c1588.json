@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-68e2696a-47e4-4972-ace6-6f1db24c1588",
+  "name": "शरा थोराही भला, सतका रोपै पग्‍ग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A small blade is useful, and a footpath that leads well. A lot is gained from work, like the monsoon brings rain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शरा थोराही भला, सतका रोपै पग्‍ग।\nघना मिला कहि काम का, सावन का सा बग्‍ग।।२१२७।।",
+    "translation": "A small blade is useful, and a footpath that leads well. A lot is gained from work, like the monsoon brings rain.",
+    "meaning": "एक छोटी सी तलवार उपयोगी होती है, और एक अच्छा रास्ता जो सही दिशा में ले जाता है। काफी कुछ काम से प्राप्त होता है, जैसे मानसून बारिश लाता है।",
+    "explanation": "इस दोहे में कबीर ने छोटे-छोटे साधनों और सही दिशा की महत्वपूर्णता को बताया है। एक छोटी सी तलवार भी उपयोगी हो सकती है, जैसे एक अच्छा रास्ता सही दिशा में ले जाता है। काम करने से बहुत कुछ प्राप्त होता है, जैसे मानसून के समय वर्षा होती है। यह दोहा सादगी और काम के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.367Z"
+  }
+}

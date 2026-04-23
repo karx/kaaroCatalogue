@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-fb2b3e73-7fdc-480d-9503-e644a5b06ddf",
+  "name": "इन्द्रिय मन निग्रह करन, हिरदै कोमल होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To control the senses and mind, and to keep the heart gentle. Always remain in pure conduct and thoughts.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इन्द्रिय मन निग्रह करन, हिरदै कोमल होय।\nसदा शुद्ध आचार में, रहे विचार में सोय।।६०१।।",
+    "translation": "To control the senses and mind, and to keep the heart gentle. Always remain in pure conduct and thoughts.",
+    "meaning": "इंद्रिय और मन को नियंत्रित करना, और हृदय को कोमल बनाए रखना। हमेशा शुद्ध आचार और विचार में रहना चाहिए।",
+    "explanation": "संतों का उद्देश्य अपने इंद्रियों और मन को नियंत्रित करना है ताकि हृदय कोमल और शुद्ध बना रहे। शुद्ध आचार और विचार की स्थिरता से जीवन में शांति और संतुलन बनाए रखा जा सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:51.999Z"
+  }
+}

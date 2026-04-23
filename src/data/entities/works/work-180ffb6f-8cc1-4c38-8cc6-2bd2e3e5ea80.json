@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-180ffb6f-8cc1-4c38-8cc6-2bd2e3e5ea80",
+  "name": "तीनि लोक भो पींजरा, पाप पुण्‍य भो जाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The three worlds are a cage, sin and virtue are traps. All souls are trapped, and time is the hunter.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीनि लोक भो पींजरा, पाप पुण्‍य भो जाल।\nसकल जियरा सावज भया, एक अहेरी काल।।१५६०।।",
+    "translation": "The three worlds are a cage, sin and virtue are traps. All souls are trapped, and time is the hunter.",
+    "meaning": "तीन लोक एक पिंजरे के समान हैं, पाप और पुण्य जाल हैं। सभी आत्माएँ फंसी हुई हैं, और काल (समय) शिकारी है।",
+    "explanation": "इस दोहे में कबीर ने जीवन और समय की गंभीरता को उजागर किया है। उन्होंने कहा कि तीनों लोक एक पिंजरे की तरह हैं, जहाँ पाप और पुण्य एक जाल के रूप में कार्य करते हैं। सभी आत्माएँ इस पिंजरे में फंसी हुई हैं, और काल (समय) एक शिकार के रूप में सबको पकड़ लेता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.206Z"
+  }
+}

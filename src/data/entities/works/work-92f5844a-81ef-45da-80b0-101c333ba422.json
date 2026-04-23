@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-92f5844a-81ef-45da-80b0-101c333ba422",
+  "name": "सुगना सेमर बेगि तजि, तेरी घने बिगूची पांख",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The beautiful peacock forsakes the Seemar tree quickly; its dense feathers adorn you. Such a peacock is rare, who has the heart but not the eyes.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सुगना सेमर बेगि तजि, तेरी घने बिगूची पांख।\nऐसा सेमर सेइया, जाके हृदय न आंख।।१७०३।।",
+    "translation": "The beautiful peacock forsakes the Seemar tree quickly; its dense feathers adorn you. Such a peacock is rare, who has the heart but not the eyes.",
+    "meaning": "सुंदर मोर जल्दी से सेमर पेड़ को छोड़ता है; उसकी घनी पंख आपकी सजावट करती है। ऐसा मोर दुर्लभ है, जिसका दिल है लेकिन आंखें नहीं।",
+    "explanation": "कबीर इस दोहे में ज्ञान और दृष्टिकोण की बात करते हैं। उन्होंने कहा कि कुछ लोग बहुत सुंदर और प्रभावशाली होते हैं, लेकिन उनके पास सही दृष्टिकोण नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.068Z"
+  }
+}

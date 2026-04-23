@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8970e13f-f9ca-4b04-9f90-7cf32a7505ca",
+  "name": "काजर केरी कोठरी, भसि के किये कपाट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The room full of soot, with doors shut tight, forgets the earth while the learned ones pave their own paths.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काजर केरी कोठरी, भसि के किये कपाट।\nपाहन भूलि पिरथवी, पंडित पाड़ी वाट।।१३८४।।",
+    "translation": "The room full of soot, with doors shut tight, forgets the earth while the learned ones pave their own paths.",
+    "meaning": "काजल से भरी हुई कोठरी, जिसकी दरवाजे बंद हैं, पृथ्वी को भूल जाती है, जबकि पंडित अपनी राहें खुद बनाते हैं।",
+    "explanation": "कबीर इस दोहे में अज्ञानता और आत्ममुग्धता की स्थिति को दर्शाते हैं। वे कहते हैं कि जैसे काजल से भरी हुई कोठरी, जिसके दरवाजे बंद हों, अपनी पृथ्वी (आधार) को भूल जाती है, वैसे ही कुछ विद्वान अपने ज्ञान के घमंड में वास्तविकता से दूर हो जाते हैं। यह दोहा हमें सतर्क करता है कि हम अपनी जड़ें और सच्चाई को न भूलें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.089Z"
+  }
+}

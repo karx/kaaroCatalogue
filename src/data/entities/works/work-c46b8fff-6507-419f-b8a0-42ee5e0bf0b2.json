@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c46b8fff-6507-419f-b8a0-42ee5e0bf0b2",
+  "name": "हरि घोडा ब्रह्मा कडी, बसाय पीठि पलान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The horse of Hari is saddled with Brahma's knowledge. With the moon and sun as stirrups, the wise saint mounts it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हरि घोडा ब्रह्मा कडी, बसाय पीठि पलान।\nचांद सुरज दोउ पायडा, चढसी संत सूजान।।२०८७।।",
+    "translation": "The horse of Hari is saddled with Brahma's knowledge. With the moon and sun as stirrups, the wise saint mounts it.",
+    "meaning": "हरि का घोड़ा ब्रह्मा के ज्ञान से कसा गया है। चांद और सूरज को रकाब बनाकर, ज्ञानी संत उस पर सवार होता है।",
+    "explanation": "कबीर इस दोहे में ज्ञान और साधना का रूपक प्रस्तुत करते हैं। वह भगवान के घोड़े को ब्रह्मा के ज्ञान से कसे हुए बताते हैं, और ज्ञानी संत उस पर चांद और सूरज की रकाब के साथ सवार होता है। यह दर्शाता है कि आध्यात्मिक ज्ञान और जागरूकता के साथ, संत ब्रह्मांड के रहस्यों को समझता और उसे नियंत्रित करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.097Z"
+  }
+}

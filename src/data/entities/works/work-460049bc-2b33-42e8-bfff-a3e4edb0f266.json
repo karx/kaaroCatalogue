@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-460049bc-2b33-42e8-bfff-a3e4edb0f266",
+  "name": "स्‍वामी हूंणां सोहरा, दोद्धा हूंणां दास",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The master becomes a groom, the servant becomes a shepherd. Tying the plow to the cow, he grazes the cotton.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "स्‍वामी हूंणां सोहरा, दोद्धा हूंणां दास।\nगाडर आंणी कूं, बांधी चरै कपास।।२०६४।।",
+    "translation": "The master becomes a groom, the servant becomes a shepherd. Tying the plow to the cow, he grazes the cotton.",
+    "meaning": "स्वामी दूल्हा बन जाता है, और नौकर गड़ेरिया। हल को गाय से बांधकर, वह कपास चराता है।",
+    "explanation": "कबीर इस दोहे में जीवन की उलझनों का वर्णन करते हैं। स्वामी (मालिक) जो अपने कर्तव्यों का पालन करना चाहिए, वह खुद उलझनों में फंस जाता है। दूसरी ओर, सेवक अपने जिम्मेदारियों को ठीक से निभा नहीं पाता। इस भ्रम में जीने से व्यक्ति अपने वास्तविक कर्तव्यों को नहीं समझ पाता। कबीर यहाँ जीवन के सही उद्देश्य की ओर ध्यान केंद्रित करने का संदेश देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.091Z"
+  }
+}

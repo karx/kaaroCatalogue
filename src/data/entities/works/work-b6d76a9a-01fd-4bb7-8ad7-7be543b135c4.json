@@ -1,0 +1,26 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b6d76a9a-01fd-4bb7-8ad7-7be543b135c4",
+  "name": "Jhini Jhini Beeni Chadariya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Bhajan",
+  "abstract": "Delicately, delicately woven is this sheet (of life)\nWhat is the warp, what is the weft?\nWith what thread is this sheet woven?\nIda and Pingala are the warp and weft\nWith the Sushumna thread is this sh...",
+  "content": {
+    "original": "झीनी झीनी बीनी चदरिया\nकाहे का ताना काहे की भरनी\nकौन तार से बीनी चदरिया\nइंगला पिंगला ताना भरनी\nसुषमन तार से बीनी चदरिया\nआठ कंवल दल चरखा डोलै\nपांच तत्व गुण तीनी चदरिया",
+    "transliteration": "Jheeni jheeni beeni chadariya\nKahe ka taana kahe ki bharni\nKaun taar se beeni chadariya\nIngala pingala taana bharni\nSusuman taar se beeni chadariya\nAath kanwal dal charkha dolai\nPaanch tatva gun teeni chadariya",
+    "translation": "Delicately, delicately woven is this sheet (of life)\nWhat is the warp, what is the weft?\nWith what thread is this sheet woven?\nIda and Pingala are the warp and weft\nWith the Sushumna thread is this sheet woven\nEight lotus petals form the spinning wheel\nFive elements and three qualities make this sheet"
+  },
+  "keywords": [
+    "Bhajan",
+    "Hindi"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "",
+    "retrievedAt": "2026-01-04T18:02:43.009Z"
+  }
+}

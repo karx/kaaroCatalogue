@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-de26680d-ce24-4a65-886d-3a091cb7c83d",
+  "name": "सरवर तरवर सन्त जन, चौथा बरसे मेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saints are like the lake and trees, where rain falls in abundance. For the sake of benevolence, they sustain the four aspects of the body.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सरवर तरवर सन्त जन, चौथा बरसे मेह।\nपरमारथ के कारने, चारों धारी देह।।३२३।।",
+    "translation": "The saints are like the lake and trees, where rain falls in abundance. For the sake of benevolence, they sustain the four aspects of the body.",
+    "meaning": "संत लोग सरोवर और वृक्षों के समान होते हैं, जहां बहुत अधिक बारिश होती है। परमार्थ के कारण, वे शरीर के चारों अंगों को बनाए रखते हैं।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि संत जीवन को समृद्ध और पोषित करते हैं जैसे कि सरोवर और वृक्ष बारिश से भर जाते हैं। वे परमार्थ के लिए जीवन के सभी पहलुओं को बनाए रखते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.391Z"
+  }
+}

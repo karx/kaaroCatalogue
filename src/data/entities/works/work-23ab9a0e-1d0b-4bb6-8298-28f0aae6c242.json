@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-23ab9a0e-1d0b-4bb6-8298-28f0aae6c242",
+  "name": "मन भर के बोय घुंघची, भर नहिं होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind fills with bellows, yet it does not get full. Our desires are insatiable, they eventually lead to loss.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन भर के बोय घुंघची, भर नहिं होय।\nकहा हमारे माने नहीं, अन्‍तहु चला विगोय।।१६३२।।",
+    "translation": "The mind fills with bellows, yet it does not get full. Our desires are insatiable, they eventually lead to loss.",
+    "meaning": "मन घुंघची से भर जाता है, फिर भी पूरा नहीं होता। हमारी इच्छाएँ असंतोषजनक होती हैं, और वे अंततः नुकसान की ओर ले जाती हैं।",
+    "explanation": "कबीर इस दोहे में मानव इच्छाओं और उनकी तृप्ति के असंभवता की बात करते हैं। उन्होंने कहा कि चाहे मन कितनी भी कोशिश कर ले, उसकी इच्छाएं कभी पूरी नहीं होतीं और अंततः नुकसान हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.508Z"
+  }
+}

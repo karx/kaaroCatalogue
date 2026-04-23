@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e0b0e03d-5402-4da9-8af5-c13c3a09311c",
+  "name": "ऊंचे कुल कह जनमिया, करनी ऊंच न होय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even if one is born into a high caste, their actions may not be high. A pot filled with gold is still filled with wine; so is a person who criticizes the saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊंचे कुल कह जनमिया, करनी ऊंच न होय।\nकनक कलश मद सो भरा, साधुन निन्‍दा सोय।।६५६।।",
+    "translation": "Even if one is born into a high caste, their actions may not be high. A pot filled with gold is still filled with wine; so is a person who criticizes the saints.",
+    "meaning": "ऊंचे कुल में जन्म लेने से भी अगर कर्म ऊंचे नहीं हैं, तो कोई लाभ नहीं। सोने से भरा कलश भी मदिरा से भरा होता है, जैसे संतों की निंदा करने वाला व्यक्ति।",
+    "explanation": "जाति और कुल का महत्व तभी होता है जब कर्म भी श्रेष्ठ हों। भले ही कोई ऊँची जाति में जन्म ले, लेकिन यदि उसके कर्म अच्छे नहीं हैं, तो उसका जन्म व्यर्थ है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.268Z"
+  }
+}

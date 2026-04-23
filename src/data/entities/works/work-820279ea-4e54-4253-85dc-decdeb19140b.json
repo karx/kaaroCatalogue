@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-820279ea-4e54-4253-85dc-decdeb19140b",
+  "name": "प्रभुता को सब कोई भजै, प्रभु को भजै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone worships power, but no one worships the Lord. Kabir says, to worship the Lord is to become a servant of divine power.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रभुता को सब कोई भजै, प्रभु को भजै न कोय।\nकहैं कबीर प्रभु को भजै, प्रभुता चेरी होय।।१२५४।।",
+    "translation": "Everyone worships power, but no one worships the Lord. Kabir says, to worship the Lord is to become a servant of divine power.",
+    "meaning": "हर कोई प्रभुता की पूजा करता है, लेकिन भगवान की पूजा नहीं करता। कबीर कहते हैं, भगवान की पूजा करने से व्यक्ति दिव्य शक्ति का सेवक बन जाता है।",
+    "explanation": "इस दोहे में कबीर ने प्रभुता और भगवान की पूजा के बीच अंतर को समझाया है। उन्होंने बताया है कि सच्ची पूजा भगवान की होती है, जो प्रभुता की बजाय दिव्य शक्ति की सेवा करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1251-to-1300.md",
+    "retrievedAt": "2026-01-04T19:05:55.542Z"
+  }
+}

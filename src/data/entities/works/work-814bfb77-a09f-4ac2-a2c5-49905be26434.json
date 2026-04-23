@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-814bfb77-a09f-4ac2-a2c5-49905be26434",
+  "name": "Veyipadagalu",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-viswanatha-satyanarayana"
+  },
+  "inLanguage": "Telugu",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Veyipadagalu",
+    "retrievedAt": "2026-01-04T18:39:32.583Z"
+  }
+}

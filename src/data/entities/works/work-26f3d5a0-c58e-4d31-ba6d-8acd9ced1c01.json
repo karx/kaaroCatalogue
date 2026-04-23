@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-26f3d5a0-c58e-4d31-ba6d-8acd9ced1c01",
+  "name": "शिष किरपिन गुरु स्वारथी, किले योग यह आय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A miserly disciple and a selfish Guru—how can this be a good match? The stains of greed cannot be washed away, no matter how hard they try.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "शिष किरपिन गुरु स्वारथी, किले योग यह आय।\nकीच-कीच के दाग को, कैसे सके छुड़ाय।।२९३।।",
+    "translation": "A miserly disciple and a selfish Guru—how can this be a good match? The stains of greed cannot be washed away, no matter how hard they try.",
+    "meaning": "एक कंजूस शिष्य और स्वार्थी गुरु—यह कैसे एक अच्छा मेल हो सकता है? लालच के दाग को कितनी भी कोशिश करें, वे साफ नहीं हो सकते।",
+    "explanation": "इस दोहे में कबीर एक स्वार्थी गुरु और कंजूस शिष्य के बीच के असंगत संबंध को दर्शाते हैं। वे कहते हैं कि यदि शिष्य और गुरु दोनों ही स्वार्थी हैं, तो उनका आध्यात्मिक उन्नति प्राप्त करना असंभव है। उनके अंदर के दोष कभी नहीं मिट सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

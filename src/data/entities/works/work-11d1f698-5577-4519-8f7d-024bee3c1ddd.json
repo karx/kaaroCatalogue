@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-11d1f698-5577-4519-8f7d-024bee3c1ddd",
+  "name": "सज्जन सों सज्जन मिले, होवे दो दो बात",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When good people meet, there are two good conversations. But when fools meet, they exchange two blows.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सज्जन सों सज्जन मिले, होवे दो दो बात।\nगहदा सो गहदा मिले, खावे दो दो लात।।३९५।।",
+    "translation": "When good people meet, there are two good conversations. But when fools meet, they exchange two blows.",
+    "meaning": "जब सज्जन लोग मिलते हैं, तो दो अच्छी बातें होती हैं। लेकिन जब मूर्ख मिलते हैं, तो वे एक-दूसरे को दो-दो लात मारते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी ने सज्जन और मूर्ख लोगों की संगति के प्रभाव को स्पष्ट किया है। वे बताते हैं कि सज्जन लोग एक-दूसरे से अच्छे और सारगर्भित वार्तालाप करते हैं, जबकि मूर्ख लोग एक-दूसरे को केवल नुकसान और झगड़े का सामना कराते हैं। इसका तात्पर्य है कि संगति का प्रभाव व्यक्ति की बातचीत और व्यवहार पर सीधा होता है, और सज्जन संगति से सकारात्मक परिणाम मिलते हैं, जबकि मूर्ख संगति से नकारात्मक परिणाम मिलते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.653Z"
+  }
+}

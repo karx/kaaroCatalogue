@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0f43c23c-9e46-4e18-84cb-e89efccb1c7f",
+  "name": "लोग भरोसे कौन के, बैठे रहें उरगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Whom can people rely on, while they sit comfortably? Life continues to be robbed by time, and the wicked are looting everywhere.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "लोग भरोसे कौन के, बैठे रहें उरगाय।\nजीय रही लूटत जम फिरे, मेंढ़ा लुटे कसाय।।७७।।",
+    "translation": "Whom can people rely on, while they sit comfortably? Life continues to be robbed by time, and the wicked are looting everywhere.",
+    "meaning": "लोग किस पर भरोसा कर सकते हैं, जबकि वे आराम से बैठे रहते हैं? जीवन समय द्वारा लूटा जा रहा है, और बुरे लोग हर जगह लूटपाट कर रहे हैं।",
+    "explanation": "इस दोहे में कबीर यह दर्शाते हैं कि लोगों का भरोसा और आराम वास्तविकता से दूर हो सकता है। जब लोग आराम की स्थिति में होते हैं, वे समय की वास्तविकता और जीवन की कठिनाइयों को नजरअंदाज कर देते हैं। कबीर यह बताते हैं कि जीवन और समय दोनों ही लूटने का काम करते हैं, और बुरे लोग इस स्थिति का फायदा उठाते हैं। इसलिए सतर्क रहना और सच्चाई को समझना महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

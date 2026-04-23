@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-038c1298-a571-425c-9f52-a3f528022349",
+  "name": "कोई आवै भाव लै, कोई अभाव ले आव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Some come with their own emotions, some come with needs. The saint nourishes them all, not counting their emotions or deficiencies.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोई आवै भाव लै, कोई अभाव ले आव।\nसाधु दाऊ को पोषते, भाव न गिनै अभाव।।५८९।।",
+    "translation": "Some come with their own emotions, some come with needs. The saint nourishes them all, not counting their emotions or deficiencies.",
+    "meaning": "कुछ लोग अपने भाव लेकर आते हैं, कुछ अपनी आवश्यकताएँ लेकर आते हैं। संत सभी को पोषित करते हैं, भावनाओं या कमी की गिनती किए बिना।",
+    "explanation": "संत सभी लोगों की जरूरतों को समान रूप से पूरा करते हैं। चाहे वे अपनी भावनाएँ लेकर आएं या किसी कमी के साथ, संत सबका आदर और देखभाल करते हैं। उनका उद्देश्य सभी को सहायता प्रदान करना होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-551-to-600.md",
+    "retrievedAt": "2026-01-04T19:05:51.728Z"
+  }
+}

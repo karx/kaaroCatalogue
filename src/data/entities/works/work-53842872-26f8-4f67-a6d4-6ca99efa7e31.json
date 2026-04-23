@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-53842872-26f8-4f67-a6d4-6ca99efa7e31",
+  "name": "{{flatlist",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-dinkar"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/{{flatlist",
+    "retrievedAt": "2026-01-04T18:39:29.087Z"
+  }
+}

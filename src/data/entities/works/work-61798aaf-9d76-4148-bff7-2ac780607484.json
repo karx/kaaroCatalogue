@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-61798aaf-9d76-4148-bff7-2ac780607484",
+  "name": "आगि जो लागि समुद्र महं, जरे जौ कांदो झारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When fire burns in the ocean, it consumes everything like a burning ember. Scholars of the east and west ponder and die contemplating it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "आगि जो लागि समुद्र महं, जरे जौ कांदो झारि।\nपूर्व पछिम के पंडिता, मुए विचारि विचारि।।१४४७।।",
+    "translation": "When fire burns in the ocean, it consumes everything like a burning ember. Scholars of the east and west ponder and die contemplating it.",
+    "meaning": "जब समुद्र में आग लगती है, तो सब कुछ जल जाता है जैसे जलती हुई अंगीठी। पूर्व और पश्चिम के पंडित इस पर विचार करते हुए मर जाते हैं।",
+    "explanation": "कबीर इस दोहे में ज्ञान और दार्शनिकता की बात करते हैं। वे बताते हैं कि समुद्र में आग लगने पर सब कुछ जल जाता है, और इस पर विचार करने वाले पंडित भी गंभीर रूप से विचार करते हुए मर जाते हैं। यह दोहा ज्ञान की गहराई और उसकी जटिलता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.370Z"
+  }
+}

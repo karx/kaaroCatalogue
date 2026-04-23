@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6d510320-9854-453e-920b-dc4aa02b4857",
+  "name": "पीलक दौड़ी सांइयां, लोग कहै पिंड रोग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mad person runs about, people call it a disease of the body. But the one who practices devotion daily is engaged in the true yoga of Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पीलक दौड़ी सांइयां, लोग कहै पिंड रोग।\nछांनै लंघण नित करै, राम पियारे जोग।।१९९७।।",
+    "translation": "The mad person runs about, people call it a disease of the body. But the one who practices devotion daily is engaged in the true yoga of Ram.",
+    "meaning": "पागल व्यक्ति दौड़ता रहता है, लोग इसे शरीर की बीमारी कहते हैं। लेकिन जो व्यक्ति प्रतिदिन भक्ति करता है, वह राम की सच्ची योग साधना में लीन रहता है।",
+    "explanation": "इस दोहे में कबीर ने भक्ति की महत्वपूर्णता को और बाहरी दुनिया की समझ को स्पष्ट किया है। उन्होंने कहा है कि जो व्यक्ति भक्ति में दिन-रात व्यस्त रहता है, वह सच्चे योग की साधना कर रहा है, भले ही बाहरी दुनिया उसे पागल या बीमार मानें। यह भक्ति के प्रति समर्पण और समाज के पूर्वाग्रहों की आलोचना को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.539Z"
+  }
+}

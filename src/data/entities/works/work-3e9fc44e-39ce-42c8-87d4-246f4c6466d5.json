@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3e9fc44e-39ce-42c8-87d4-246f4c6466d5",
+  "name": "हंसा तु सुवरण वरण, कहां वरणों मैं तोहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O swan, you are of golden hue, where is the recognition for you? Only after climbing the tree will you be praised.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हंसा तु सुवरण वरण, कहां वरणों मैं तोहिं।\nतरुवर पाय पहेलहु, तबहि सराहौ तोहिं।।१७०९।।",
+    "translation": "O swan, you are of golden hue, where is the recognition for you? Only after climbing the tree will you be praised.",
+    "meaning": "ओ हंस, तुम सोने के रंग के हो, तुम्हारी पहचान कहाँ है? केवल पेड़ पर चढ़ने के बाद ही तुम्हारी सराहना होगी।",
+    "explanation": "कबीर इस दोहे में गुण और मान्यता की बात करते हैं। उन्होंने कहा कि कई बार असली पहचान और प्रशंसा तब ही मिलती है जब आप प्रयास करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.069Z"
+  }
+}

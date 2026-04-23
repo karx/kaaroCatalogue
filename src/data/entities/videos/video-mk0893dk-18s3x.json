@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk0893dk-18s3x",
+  "name": "I met the *REAL* Black Panther!!            (from Borivali)",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sorabh-pant"
+  },
+  "duration": "PT1M49S",
+  "embedUrl": "https://www.youtube.com/embed/Uhjgcj3UN5s",
+  "contentUrl": "https://www.youtube.com/watch?v=Uhjgcj3UN5s",
+  "uploadDate": "2025-06-05",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Uhjgcj3UN5s/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Sorabh Pant",
+  "aggregatorChannel": null
+}

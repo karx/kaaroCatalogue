@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1aba8e4e-9762-4506-ba6e-b978032d03dd",
+  "name": "ऊपरि की दोऊ गई, हियहु कि फूटी आंखि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Both external eyes are gone, and even the internal eye is shattered. Kabir wonders, what can a poor soul do, who cannot see with either?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "ऊपरि की दोऊ गई, हियहु कि फूटी आंखि।\nकबीर बिचारा क्‍या करे, जो जिवहिं नाही झांंकि‍।।१४५९।।",
+    "translation": "Both external eyes are gone, and even the internal eye is shattered. Kabir wonders, what can a poor soul do, who cannot see with either?",
+    "meaning": "दोनों बाहरी आँखें चली गईं, और आंतरिक आँख भी टूट गई। कबीर कहते हैं, एक गरीब आत्मा क्या कर सकती है, जो न तो बाहरी और न ही आंतरिक दृष्टि से देख सकती है?",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जब किसी व्यक्ति की न केवल बाहरी दृष्टि चली जाती है, बल्कि उसकी आंतरिक दृष्टि भी नष्ट हो जाती है, तो वह बहुत कठिनाई में पड़ जाता है। जब न तो भौतिक और न ही आध्यात्मिक दृष्टि से वह देख सकता है, तो उसकी स्थिति दयनीय हो जाती है और उसे कोई मार्गदर्शन नहीं मिल पाता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.655Z"
+  }
+}

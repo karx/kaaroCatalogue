@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b1874328-527a-4431-938f-6daf8df670cf",
+  "name": "सोचे गुरु के पक्ष में, मन को दे ठहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When one meditates on the Guru's teachings and steadies the mind, the restless becomes still, neither coming nor going.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सोचे गुरु के पक्ष में, मन को दे ठहराय।\nचंचल से निश्चल भया, नहिं आवै नहीं जाय।।२८४।।",
+    "translation": "When one meditates on the Guru's teachings and steadies the mind, the restless becomes still, neither coming nor going.",
+    "meaning": "जब कोई गुरु के उपदेशों पर ध्यान करता है और मन को स्थिर करता है, तो चंचल मन स्थिर हो जाता है, और वह न तो आता है न ही जाता है।",
+    "explanation": "इस दोहे में कबीर मन की स्थिरता पर जोर देते हैं। वे कहते हैं कि यदि कोई व्यक्ति गुरु के उपदेशों पर ध्यान केंद्रित करता है और मन को स्थिर करता है, तो चंचल मन शांत हो जाता है और व्यक्ति जीवन-मरण के चक्र से मुक्त हो सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

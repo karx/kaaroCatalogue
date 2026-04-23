@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ab8c7650-0cc6-41b7-b74d-349e166b50a1",
+  "name": "विषै विलंबी आत्‍मां, ताका मजकण खाया सोधि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The soul indulged in poison, finds its joy in the feast of senses. Knowledge doesn't sprout in such a mind, they revel in their own delusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "विषै विलंबी आत्‍मां, ताका मजकण खाया सोधि।\nग्‍यांन अंकून न ऊगई, भावै निज प्रमोधि।।२०५४।।",
+    "translation": "The soul indulged in poison, finds its joy in the feast of senses. Knowledge doesn't sprout in such a mind, they revel in their own delusion.",
+    "meaning": "जो आत्मा विष में लिप्त होती है, वह इंद्रियों के भोज में आनंद पाती है। ऐसे मन में ज्ञान नहीं उपजता, वह अपने भ्रम में ही मग्न रहता है।",
+    "explanation": "कबीर इस दोहे में उस आत्मा की बात कर रहे हैं जो सांसारिक विष (मोह, माया) में डूबी हुई है। ऐसी आत्मा इंद्रियों के सुखों में ही आनंदित रहती है और उसमें ज्ञान का अंकुरण नहीं होता। वह अपने ही भ्रम में मग्न रहती है। कबीर हमें चेताते हैं कि हम इस मोह-माया में न फंसें और सच्चे ज्ञान की प्राप्ति करें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.087Z"
+  }
+}

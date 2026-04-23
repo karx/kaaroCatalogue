@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-eb28add5-31c4-46ec-9151-1b93feb95e96",
+  "name": "राम नाम जिन औषधि, सतगुरु दई बताय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The name of Rama is the medicine that the true Guru has given. Taking this medicine, one stays on the right path and overcomes pain.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "राम नाम जिन औषधि, सतगुरु दई बताय।\nऔषधि खाय रु पथ रहै, ताकी बेदन जाय।।७५०।।",
+    "translation": "The name of Rama is the medicine that the true Guru has given. Taking this medicine, one stays on the right path and overcomes pain.",
+    "meaning": "राम का नाम वह औषधि है जिसे सच्चे गुरु ने बताया है। इस औषधि को लेने से व्यक्ति सही मार्ग पर रहता है और दर्द को पार कर जाता है।",
+    "explanation": "इस दोहे में कबीर राम नाम को एक अद्भुत औषधि बताते हैं जिसे सच्चे गुरु ने बताया है। इस औषधि को ग्रहण करने से व्यक्ति न केवल सही मार्ग पर चलता है, बल्कि अपने दुखों और समस्याओं को भी पार कर जाता है। यह नाम मानसिक और आत्मिक शांति के लिए अत्यंत महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.546Z"
+  }
+}

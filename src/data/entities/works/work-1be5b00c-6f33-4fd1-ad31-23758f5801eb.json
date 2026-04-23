@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1be5b00c-6f33-4fd1-ad31-23758f5801eb",
+  "name": "मन मैला तन ऊजरा, बगुला कपटी अंग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The mind is impure and the body is outwardly clean, like a deceitful heron. Compared to such a person, a crow is better as its body and mind are of the same color.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मैला तन ऊजरा, बगुला कपटी अंग।\nतासों तो कौवा भला, तन मन एकहि रंग।।३६९।।",
+    "translation": "The mind is impure and the body is outwardly clean, like a deceitful heron. Compared to such a person, a crow is better as its body and mind are of the same color.",
+    "meaning": "मन मैला है और शरीर बाहर से साफ है, जैसे कपटी बगुला। ऐसे व्यक्ति की तुलना में कौवा बेहतर है क्योंकि उसका शरीर और मन एक ही रंग का है।।",
+    "explanation": "इस दोहे में कबीरदास ने मानसिक और बाहरी स्वच्छता की असंगति को दर्शाया है। बगुला, जो बाहरी तौर पर साफ दिखता है लेकिन अंदर से कपटी होता है, उसे श्रेष्ठ नहीं माना गया। इसके विपरीत, कौवा जिसे बाहरी रूप से असुंदर माना जाता है, लेकिन उसका मन और शरीर एक समान रंग के होते हैं। कबीर ने यह स्पष्ट किया है कि मानसिक पवित्रता बाहरी स्वच्छता से अधिक महत्वपूर्ण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.651Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8020f53d-5d0e-4893-81f1-b261ca3e0f60",
+  "name": "कबीर सब सुख राम है, औरहि दुख की रासि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says all happiness is in Ram, and suffering is a heap. Gods, men, sages, and demons all fall into the snare of time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर सब सुख राम है, औरहि दुख की रासि।\nसुर नर मुनि अरु असुर सुर, पड़े काल की फांसि।।१०८४।।",
+    "translation": "Kabir says all happiness is in Ram, and suffering is a heap. Gods, men, sages, and demons all fall into the snare of time.",
+    "meaning": "कबीर कहते हैं कि सभी सुख राम में हैं, और दुख एक ढेर है। देवता, मनुष्य, ऋषि और असुर सभी काल के फंदे में फंस जाते हैं।",
+    "explanation": "इस दोहे में कबीर ने यह स्पष्ट किया है कि सच्चा सुख केवल भगवान राम में ही है, जबकि दुख जीवन का एक अनिवार्य हिस्सा है। समय का फंदा सभी को पकड़ लेता है, चाहे वे देवता हों, मानव हों, ऋषि हों या असुर। यह जीवन की अस्थिरता और दिव्य सुख के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.428Z"
+  }
+}

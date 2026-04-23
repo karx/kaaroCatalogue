@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-98146ad4-c390-44d5-ba83-b468699e1ff4",
+  "name": "कबीर पढ़ियो दूरि करि, पुस्तक देइ बहाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir read from afar, giving the book away. One who has studied the fifty-two verses finds true essence in the heart.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर पढ़ियो दूरि करि, पुस्तक देइ बहाइ।\nबावन आषिर सोधि करि, ररै मर्मे चित्त लाइ।।१८०।।",
+    "translation": "Kabir read from afar, giving the book away. One who has studied the fifty-two verses finds true essence in the heart.",
+    "meaning": "कबीर ने दूर से पढ़ा और पुस्तक दे दी। जिसने बावन आशिरवद (52 श्लोक) का अध्ययन किया, वह वास्तविक सार को दिल में पाता है।",
+    "explanation": "इस दोहे में कबीर ने ज्ञान और अध्ययन की प्रक्रिया को सरलता से समझाया है। उन्होंने बताया है कि केवल पुस्तकें पढ़ने से कुछ नहीं होता; वास्तविक समझ तब आती है जब हम उसके सार को अपने दिल में उतार लें। साधना और मनन से ही सच्चे ज्ञान की प्राप्ति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-151-to-200.md",
+    "retrievedAt": "2026-01-04T19:05:49.600Z"
+  }
+}

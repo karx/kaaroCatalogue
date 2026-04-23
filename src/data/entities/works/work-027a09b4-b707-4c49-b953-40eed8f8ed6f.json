@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-027a09b4-b707-4c49-b953-40eed8f8ed6f",
+  "name": "नीद निशानी मौत की, उठ कबीरा जाग",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Sleep is a sign of death; wake up, Kabir, and be aware. Abandon other medicines and embrace the medicine of Rama's name.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "नीद निशानी मौत की, उठ कबीरा जाग।\nऔर रसायन छांडिके, राम रसायन लाग।।७५२।।",
+    "translation": "Sleep is a sign of death; wake up, Kabir, and be aware. Abandon other medicines and embrace the medicine of Rama's name.",
+    "meaning": "नींद मौत की निशानी है; उठो कबीर, और सचेत हो जाओ। अन्य औषधियों को छोड़ दो और राम के नाम की औषधि को अपनाओ।",
+    "explanation": "इस दोहे में कबीर नींद को मौत की निशानी मानते हैं और लोगों को जागने का संदेश देते हैं। वे यह भी बताते हैं कि अन्य किसी भी औषधि को छोड़कर केवल राम के नाम की औषधि को अपनाना चाहिए, जो हमें आत्मिक और मानसिक रूप से स्वस्थ करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.814Z"
+  }
+}

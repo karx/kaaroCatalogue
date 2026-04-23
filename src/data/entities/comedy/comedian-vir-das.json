@@ -1,0 +1,34 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-vir-das",
+  "name": "Vir Das",
+  "alternateName": [],
+  "knowsLanguage": "en",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Mumbai, India"
+  },
+  "genre": [
+    "observational",
+    "political",
+    "crowd-work"
+  ],
+  "sameAs": [
+    "https://www.youtube.com/@VirDas",
+    "https://en.wikipedia.org/wiki/Vir_Das"
+  ],
+  "award": [
+    "International Emmy Nomination"
+  ],
+  "keywords": [
+    "India",
+    "Netflix",
+    "Abroad Understanding"
+  ],
+  "verified": true,
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vir_Das",
+    "retrievedAt": "2026-01-04T20:30:00.000Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1638bfd5-b23b-4c57-b6f0-5e7e2c7889b7",
+  "name": "कबीर मन्दिर लाख का, ज‍ड़ि‍या हीरा लाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A temple worth a million with gems and rubies inside, In just four days, even such wealth will be destroyed by time.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर मन्दिर लाख का, ज‍ड़ि‍या हीरा लाल।\nदिवस चारि का पेखना, विनशि जाएगा काल।।८९४।।",
+    "translation": "A temple worth a million with gems and rubies inside, In just four days, even such wealth will be destroyed by time.",
+    "meaning": "लाखों का मंदिर, जिसमें बहुमूल्य रत्न और हीरे हैं, चार दिनों में ऐसा धन भी समय द्वारा नष्ट हो जाएगा।",
+    "explanation": "कबीर इस दोहे में भौतिक संपत्ति की क्षणिकता और जीवन की अस्थिरता की बात करते हैं। वे बताते हैं कि भले ही किसी मंदिर या वस्तु में अपार धन और मूल्यवान रत्न हों, समय के प्रभाव से सब कुछ नष्ट हो जाता है। इसलिए, भौतिक संपत्तियों पर निर्भर रहना व्यर्थ है और आत्मिक उन्नति पर ध्यान देना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-851-to-900.md",
+    "retrievedAt": "2026-01-04T19:05:53.354Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75dae38d-98fb-4bf2-affa-a38b0049cb1f",
+  "name": "संसारी से प्रीतड़ी, सरै न एकौ काम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Attachment to the worldly does not achieve any purpose. Both are lost in doubt, neither attaining Maya nor Rama.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "संसारी से प्रीतड़ी, सरै न एकौ काम।\nदुविधा से दोनों गये, माया मिली न राम।।१०९२।।",
+    "translation": "Attachment to the worldly does not achieve any purpose. Both are lost in doubt, neither attaining Maya nor Rama.",
+    "meaning": "संसारिक प्रेम से कोई भी काम पूरा नहीं होता। दोनों ही संदेह में पड़े रहते हैं, न तो माया मिलती है और न ही राम।",
+    "explanation": "इस दोहे में कबीर ने संसारिक प्रेम और आध्यात्मिक उद्देश्य की असफलता को दर्शाया है। जो लोग संसारिक प्रेम में लगे रहते हैं, वे किसी भी उद्देश्य को पूरा नहीं कर पाते और संदेह में ही रहते हैं। न तो वे माया को प्राप्त कर पाते हैं और न ही भगवान राम को।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.429Z"
+  }
+}

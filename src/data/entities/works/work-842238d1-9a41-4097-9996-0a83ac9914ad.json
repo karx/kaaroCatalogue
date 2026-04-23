@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-842238d1-9a41-4097-9996-0a83ac9914ad",
+  "name": "कै बिरहिन कूं मींच दे, कै आपा दिखलाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "To the beloved in separation, one shows their own ego. The burning of eight hours is unbearable for me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कै बिरहिन कूं मींच दे, कै आपा दिखलाइ।\nआठ पहर का दाझणां, मोपै सहया न जाइ।।१७७०।।",
+    "translation": "To the beloved in separation, one shows their own ego. The burning of eight hours is unbearable for me.",
+    "meaning": "विरह की स्थिति में प्रिय को अपने अहंकार को दिखाना होता है। आठ घंटे की जलन मेरे लिए सहनीय नहीं है।",
+    "explanation": "इस दोहे में कबीर ने विरह के दौरान अहंकार और पीड़ा को व्यक्त किया है। उन्होंने बताया है कि विरह की स्थिति में व्यक्ति को अपने अहंकार को प्रकट करना पड़ता है, और आठ घंटे की जलन सहन करना कठिन हो जाता है। यह दोहा विरह की गहराई और उसके दर्द को स्पष्ट करता है, जो व्यक्ति के दिल को जलाता है और अहंकार को भी उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.349Z"
+  }
+}

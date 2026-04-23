@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ff70655-6ecb-4c68-8099-68960670b5a5",
+  "name": "और देव नहिं चित्त बसै, मन गुरु चरण बसाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not let any other deity occupy your mind, let your mind rest at the Guru’s feet. Consume minimal food and dispel cravings.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "और देव नहिं चित्त बसै, मन गुरु चरण बसाय।\nस्‍वल्‍पाहार भोजन करु, तृष्‍णा दूर पराय।।६१६।।",
+    "translation": "Do not let any other deity occupy your mind, let your mind rest at the Guru’s feet. Consume minimal food and dispel cravings.",
+    "meaning": "किसी अन्य देवता को अपने मन में स्थान न दें, अपने मन को गुरु के चरणों में विश्राम दें। न्यूनतम भोजन करें और तृष्णा को दूर रखें।",
+    "explanation": "संतों के अनुसार, गुरु की भक्ति और ध्यान में मन को संलग्न रखना चाहिए। भौतिक इच्छाओं और तृष्णा को कम करने से मानसिक शांति प्राप्त होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

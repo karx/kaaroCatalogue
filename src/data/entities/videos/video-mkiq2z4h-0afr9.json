@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2z4h-0afr9",
+  "name": "Papa CJ - An Indian in London - www.papacj.com",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-papa-cj"
+  },
+  "duration": "PT51S",
+  "embedUrl": "https://www.youtube.com/embed/RmRcRHLN1Fw",
+  "contentUrl": "https://www.youtube.com/watch?v=RmRcRHLN1Fw",
+  "uploadDate": "2008-06-12",
+  "thumbnailUrl": "https://i.ytimg.com/vi/RmRcRHLN1Fw/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "www.PAPACJ.com",
+  "channelTitle": "Papa CJ",
+  "aggregatorChannel": null
+}

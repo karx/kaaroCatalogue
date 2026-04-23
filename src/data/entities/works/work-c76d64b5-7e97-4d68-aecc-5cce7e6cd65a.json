@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c76d64b5-7e97-4d68-aecc-5cce7e6cd65a",
+  "name": "कबीर टुक टुक चोंघ्‍ज्ञता, पल पल गई विहाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir observes each moment passing by, as life is entangled in worldly affairs. And suddenly, the call of death arrives.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर टुक टुक चोंघ्‍ज्ञता, पल पल गई विहाय।\nजिव जंजाले पड़‍ि रहा, दिया दमामा आय।।१०५१।।",
+    "translation": "Kabir observes each moment passing by, as life is entangled in worldly affairs. And suddenly, the call of death arrives.",
+    "meaning": "कबीर देखते हैं कि पल-पल बीत रहा है, जबकि जीवन सांसारिक जंजाल में उलझा हुआ है। और अचानक, मृत्यु का बुलावा आ जाता है।",
+    "explanation": "इस दोहे में कबीर जीवन की नश्वरता और मृत्यु के अचानक आगमन की बात करते हैं। वे कहते हैं कि मनुष्य का जीवन धीरे-धीरे व्यतीत हो रहा है, जबकि वह संसारिक मोह-माया में फंसा हुआ है। और फिर अचानक, बिना किसी चेतावनी के मृत्यु का समय आ जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.423Z"
+  }
+}

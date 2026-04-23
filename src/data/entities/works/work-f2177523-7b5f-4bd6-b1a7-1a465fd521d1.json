@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f2177523-7b5f-4bd6-b1a7-1a465fd521d1",
+  "name": "पूति पियारो पिता कौं, गौंहनि लागा धाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The purity of love for the father is like running to the village. Handing over a sweet to greed, one forgets their own self.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पूति पियारो पिता कौं, गौंहनि लागा धाइ।\nलोभ मिठाइ हाथि दे, आपण गया भुलाइ।।१७६६।।",
+    "translation": "The purity of love for the father is like running to the village. Handing over a sweet to greed, one forgets their own self.",
+    "meaning": "पिता के प्रति प्रेम की पवित्रता गांव की ओर दौड़ने के समान है। लालच को मिठाई सौंपकर, व्यक्ति अपने आप को भूल जाता है।",
+    "explanation": "इस दोहे में कबीर ने पिता के प्रति प्रेम की पवित्रता और लालच की प्रवृत्ति को दर्शाया है। उन्होंने बताया है कि जब व्यक्ति लालच को मिठाई के रूप में सौंपता है, तो वह अपने असली स्व को भूल जाता है। यह दोहा यह समझाने की कोशिश करता है कि प्रेम और लालच के बीच का अंतर और लालच के कारण आत्मा की भूलने की प्रवृत्ति को स्पष्ट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.348Z"
+  }
+}

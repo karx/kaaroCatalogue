@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-vu4ox",
+  "name": "Watch full video on my YouTube channel #funnyvideo #standupcomedy #college",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT1M1S",
+  "embedUrl": "https://www.youtube.com/embed/SnVS2Mip83M",
+  "contentUrl": "https://www.youtube.com/watch?v=SnVS2Mip83M",
+  "uploadDate": "2022-12-22",
+  "thumbnailUrl": "https://i.ytimg.com/vi/SnVS2Mip83M/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

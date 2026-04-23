@@ -1,0 +1,32 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-32635165-6174-4e8a-b7f6-6083935ccd27",
+  "name": "Dono Jahan Teri Mohabbat Mein Haar Ke",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "abstract": "Having lost both worlds in your love. A classic expression of the lover's total surrender.",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/donon-jahaan-teri-mohabbat-mein-haar-ke-faiz-ahmed-faiz-ghazals",
+    "retrievedAt: ": "2026-01-04T19:31:07.328Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/donon-jahaan-teri-mohabbat-mein-haar-ke-faiz-ahmed-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:47:08.476Z"
+  }
+}

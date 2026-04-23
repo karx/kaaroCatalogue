@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-efa845e0-2a37-49b2-8b0a-f5d744ab7664",
+  "name": "tere gham ko jaan ki talash thi tere jaan-nisar chale gae",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/tire-gam-ko-jaan-kii-talaash-thii-tire-jaan-nisaar-chale-gae-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.206Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/tire-gam-ko-jaan-kii-talaash-thii-tire-jaan-nisaar-chale-gae-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\ntire ġham ko jaañ kī talāsh thī tire jāñ-nisār chale ga.e\ntirī rah meñ karte the sar talab sar-e-rahguzār chale ga.e\ntirī kaj-adā.ī se haar ke shab-e-intizār chalī ga.ī\nmire zabt-e-hāl se ruuTh kar mire ġham-gusār chale ga.e\nna savāl-e-vasl na arz-e-ġham na hikāyateñ na shikāyateñ\ntire ahd meñ dil-e-zār ke sabhī iḳhtiyār chale ga.e\nye hamīñ the jin ke libās par sar-e-rah siyāhī likhī ga.ī\nyahī daaġh the jo sajā ke ham sar-e-bazm-e-yār chale ga.e\nna rahā junūn-e-ruḳh-e-vafā ye rasan ye daar karoge kyā\njinheñ jurm-e-ishq pe naaz thā vo gunāhgār chale ga.e\ntere gham ko jaan ki talash thi tere jaan-nisar chale gae\nteri rah mein karte the sar talab sar-e-rahguzar chale gae\nteri kaj-adai se haar ke shab-e-intizar chali gai\nmere zabt-e-haal se ruTh kar mere gham-gusar chale gae\nna sawal-e-wasl na arz-e-gham na hikayaten na shikayaten\ntere ahd mein dil-e-zar ke sabhi iKHtiyar chale gae\nye hamin the jin ke libas par sar-e-rah siyahi likhi gai\nyahi dagh the jo saja ke hum sar-e-bazm-e-yar chale gae\nna raha junun-e-ruKH-e-wafa ye rasan ye dar karoge kya\njinhen jurm-e-ishq pe naz tha wo gunahgar chale gae",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nترے غم کو جاں کی تلاش تھی ترے جاں نثار چلے گئے\nتری رہ میں کرتے تھے سر طلب سر رہ گزار چلے گئے\nتری کج ادائی سے ہار کے شب انتظار چلی گئی\nمرے ضبط حال سے روٹھ کر مرے غم گسار چلے گئے\nنہ سوال وصل نہ عرض غم نہ حکایتیں نہ شکایتیں\nترے عہد میں دل زار کے سبھی اختیار چلے گئے\nیہ ہمیں تھے جن کے لباس پر سر رہ سیاہی لکھی گئی\nیہی داغ تھے جو سجا کے ہم سر بزم یار چلے گئے\nنہ رہا جنون رخ وفا یہ رسن یہ دار کرو گے کیا\nجنہیں جرم عشق پہ ناز تھا وہ گناہ گار چلے گئے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nतिरे ग़म को जाँ की तलाश थी तिरे जाँ-निसार चले गए\nतिरी रह में करते थे सर तलब सर-ए-रहगुज़ार चले गए\nतिरी कज-अदाई से हार के शब-ए-इंतिज़ार चली गई\nमिरे ज़ब्त-ए-हाल से रूठ कर मिरे ग़म-गुसार चले गए\nन सवाल-ए-वस्ल न अर्ज़-ए-ग़म न हिकायतें न शिकायतें\nतिरे अहद में दिल-ए-ज़ार के सभी इख़्तियार चले गए\nये हमी�� थे जिन के लिबास पर सर-ए-रह सियाही लिखी गई\nयही दाग़ थे जो सजा के हम सर-ए-बज़्म-ए-यार चले गए\nन रहा जुनून-ए-रुख़-ए-वफ़ा ये रसन ये दार करोगे क्या\nजिन्हें जुर्म-ए-इश्क़ पे नाज़ था वो गुनाहगार चले गए",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:06.364Z"
+  }
+}

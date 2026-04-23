@@ -1,0 +1,30 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d01a4255-566a-4db5-a093-b4b47fec5c37",
+  "name": "hasti apni habab ki si hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mir-taqi-mir"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/hastii-apnii-habaab-kii-sii-hai-meer-taqi-meer-ghazals",
+    "retrievedAt": "2026-01-04T20:25:28.530Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/hastii-apnii-habaab-kii-sii-hai-meer-taqi-meer-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nhastī apnī habāb kī sī hai\nye numā.ish sarāb kī sī hai\nnāzukī us ke lab kī kyā kahiye\npañkhuḌī ik gulāb kī sī hai\nchashm-e-dil khol is bhī aalam par\nyaañ kī auqāt ḳhvāb kī sī hai\nbaar baar us ke dar pe jaatā huuñ\nhālat ab iztirāb kī sī hai\nnuqta-e-ḳhāl se tirā abrū\nbait ik intiḳhāb kī sī hai\nmaiñ jo bolā kahā ki ye āvāz\nusī ḳhāna-ḳharāb kī sī hai\nātish-e-ġham meñ dil bhunā shāyad\nder se bū kabāb kī sī hai\ndekhiye abr kī tarah ab ke\nmerī chashm-e-pur-āb kī sī hai\n'mīr' un nīm-bāz āñkhoñ meñ\nsaarī mastī sharāb kī sī hai\nhasti apni habab ki si hai\nye numaish sarab ki si hai\nnazuki us ke lab ki kya kahiye\npankhuDi ek gulab ki si hai\nchashm-e-dil khol is bhi aalam par\nyan ki auqat KHwab ki si hai\nbar bar us ke dar pe jata hun\nhaalat ab iztirab ki si hai\nnuqta-e-KHal se tera abru\nbait ek intiKHab ki si hai\nmain jo bola kaha ki ye aawaz\nusi KHana-KHarab ki si hai\naatish-e-gham mein dil bhuna shayad\nder se bu kabab ki si hai\ndekhiye abr ki tarah ab ke\nmeri chashm-e-pur-ab ki si hai\n'mir' un nim-baz aankhon mein\nsari masti sharab ki si hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nہستی اپنی حباب کی سی ہے\nیہ نمائش سراب کی سی ہے\nنازکی اس کے لب کی کیا کہیے\nپنکھڑی اک گلاب کی سی ہے\nچشم دل کھول اس بھی عالم پر\nیاں کی اوقات خواب کی سی ہے\nبار بار اس کے در پہ جاتا ہوں\nحالت اب اضطراب کی سی ہے\nنقطۂ خال سے ترا ابرو\nبیت اک انتخاب کی سی ہے\nمیں جو بولا کہا کہ یہ آواز\nاسی خانہ خراب کی سی ہے\nآتش غم میں دل بھنا شاید\nدیر سے بو کباب کی سی ہے\nدیکھیے ابر کی طرح اب کے\nمیری چشم پر آب کی سی ہے\nمیرؔ ان نیم باز آنکھوں میں\nساری مستی شراب کی سی ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nहस्ती अपनी हबाब की सी है\nये नुमाइश सराब की सी है\nनाज़ुकी उस के लब की क्या कहिए\nपंखुड़ी इक गुलाब की सी है\nचश्म-ए-दिल खोल इस भी आलम पर\nयाँ की औक़ात ख़्वाब की सी है\nबार बार उस के दर पे जाता हूँ\nहालत अब इज़्तिराब की सी है\nनुक़्ता-ए-ख़ाल से तिरा अबरू\nबैत इक इंतिख़ाब की सी है\nमैं जो बोला कहा कि ये आवाज़\nउसी ख़ाना-ख़राब की सी है\nआतिश-ए-ग़म में दिल भुना शायद\nदेर से बू कबाब की सी है\nदेखिए अब्र की तरह अब के\nमेरी चश्म-ए-पुर-आब की सी है\n'मीर' उन नीम-बाज़ आँखों में\nसारी मस्ती शराब की सी है",
+    "lastUpdated": "2026-01-04T20:25:38.335Z"
+  }
+}

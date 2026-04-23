@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-71f565bf-1df2-4216-a71b-936831e2b0ee",
+  "name": "साधू जन सब में रमैं, दुख न काहू देहि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The saint dwells in everyone and causes no harm to anyone. He sticks to his own belief, and this is the belief of the saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधू जन सब में रमैं, दुख न काहू देहि।\nअपने मत गाड़ा रहै, साधुन का मत येहि।।३३६।।",
+    "translation": "The saint dwells in everyone and causes no harm to anyone. He sticks to his own belief, and this is the belief of the saints.",
+    "meaning": "साधू सभी में रहते हैं और किसी को भी दुख नहीं पहुंचाते। वह अपनी मान्यता पर अडिग रहते हैं, और यही संतों की मान्यता है।",
+    "explanation": "इस दोहे में कबीर यह स्पष्ट करते हैं कि सच्चा साधू सभी में निवास करता है और किसी को हानि नहीं पहुंचाता। वह अपने सिद्धांतों पर स्थिर रहता है और यही उसकी सच्चाई है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

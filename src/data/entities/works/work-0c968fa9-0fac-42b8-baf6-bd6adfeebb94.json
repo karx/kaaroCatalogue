@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-0c968fa9-0fac-42b8-baf6-bd6adfeebb94",
+  "name": "सदा कृपालु दु:ख परिहरन, बैर भाव नहिं दोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Always compassionate and removing sorrows, free from feelings of enmity. Forgiveness and wisdom are his speech, without pride like a lion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सदा कृपालु दु:ख परिहरन, बैर भाव नहिं दोय।\nछिमा ज्ञान सत भाखही, सिंह रहित तु होय।।३४०।।",
+    "translation": "Always compassionate and removing sorrows, free from feelings of enmity. Forgiveness and wisdom are his speech, without pride like a lion.",
+    "meaning": "सदा कृपालु और दुखों को दूर करने वाला, बैर भाव से मुक्त होता है। छमा और ज्ञान उसकी भाषा होती है, और वह सिंह के बिना होता है।।",
+    "explanation": "इस दोहे में कबीरदास ने ऐसे व्यक्ति का वर्णन किया है जो हमेशा दयालु और दुखों को दूर करने वाला होता है। वह बैरभाव से मुक्त रहता है और उसकी भाषा में छमा और ज्ञान होती है। इसका अभिप्राय है कि वह व्यक्ति आत्मगौरव से रहित होता है और उसके व्यवहार में विनम्रता और ज्ञान ही प्रमुख होते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-301-to-350.md",
+    "retrievedAt": "2026-01-04T19:05:50.392Z"
+  }
+}

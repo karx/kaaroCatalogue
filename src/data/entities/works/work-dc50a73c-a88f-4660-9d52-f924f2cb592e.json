@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-dc50a73c-a88f-4660-9d52-f924f2cb592e",
+  "name": "कामी तो निरभय भया, करै न कहाूं संक",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The desirous person becomes fearless and does not have any doubts. Controlled by the senses, he experiences hell without fear.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कामी तो निरभय भया, करै न कहाूं संक।\nइन्‍द्री केरे बसि पड़ा, भूगते नरक निसंक।।१२३३।।",
+    "translation": "The desirous person becomes fearless and does not have any doubts. Controlled by the senses, he experiences hell without fear.",
+    "meaning": "कामी व्यक्ति निर्भीक हो जाता है और उसे कोई संकोच नहीं रहता। इंद्रियों के वश में होकर, वह निर्भीकता के साथ नरक का अनुभव करता है।",
+    "explanation": "इस दोहे में कबीर ने कामी व्यक्ति की निर्भीकता और उसकी इंद्रियों पर नियंत्रण को दर्शाया है। कामी व्यक्ति अपने आप को निर्भीक समझता है और इंद्रियों के वश में होकर वह बिना किसी डर के नरक का अनुभव करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.272Z"
+  }
+}

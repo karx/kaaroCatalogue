@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-14dbe607-1ef9-47f8-b02f-3e18b5aa81e0",
+  "name": "बासुरि गमि न रैंणि गमि, नां सुपनैं तरगंम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The flute does not travel, nor does it wander; it remains at rest. Kabir says, there is no delay where there is no shadow or ego.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बासुरि गमि न रैंणि गमि, नां सुपनैं तरगंम।\nकबीर तहां बिलंबिया, जाहं छाहड़ो न घंम।।१८४८।।",
+    "translation": "The flute does not travel, nor does it wander; it remains at rest. Kabir says, there is no delay where there is no shadow or ego.",
+    "meaning": "बांसुरी नहीं चलती, न ही यह भटकती है; यह विश्राम करती है। कबीर कहते हैं, जहां कोई छाया या अहंकार नहीं है, वहां कोई विलंब नहीं होता।",
+    "explanation": "इस दोहे में कबीर ने आध्यात्मिक जागरूकता और अहंकार की अनुपस्थिति के महत्व को दर्शाया है। बांसुरी का स्थिरता और शांति को दर्शाते हुए, कबीर यह बताते हैं कि जहां अहंकार और छाया नहीं होती, वहां कोई विलंब नहीं होता। यह दोहा आंतरिक शांति और अहंकार से मुक्ति के महत्व को प्रकट करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.635Z"
+  }
+}

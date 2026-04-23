@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-80c9ab24-d068-45f0-8d86-46833622e25b",
+  "name": "चोट सतांणी बिरह की, सब तन जरजर होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The wounds of separation cause enduring pain, making the whole body frail. Only the one who inflicts this pain understands its true nature.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चोट सतांणी बिरह की, सब तन जरजर होइ।\nमारणहारा जांणिहै, कै जिहिं लागी सोइ।।१७४९।।",
+    "translation": "The wounds of separation cause enduring pain, making the whole body frail. Only the one who inflicts this pain understands its true nature.",
+    "meaning": "बिछड़न के घाव स्थायी पीड़ा देते हैं, जिससे पूरा शरीर कमजोर हो जाता है। केवल वही व्यक्ति जो इस पीड़ा को भोगता है, उसकी वास्तविकता को समझता है।",
+    "explanation": "कबीर इस दोहे में separation की पीड़ा और इसके असर को बताते हैं। उन्होंने कहा कि केवल वही व्यक्ति जो इस दर्द को अनुभव करता है, उसकी सच्चाई को जान सकता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.080Z"
+  }
+}

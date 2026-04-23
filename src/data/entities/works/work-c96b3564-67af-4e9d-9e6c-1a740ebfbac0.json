@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c96b3564-67af-4e9d-9e6c-1a740ebfbac0",
+  "name": "दुख में सुमिरन सब करै, सुख में करै न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone remembers in sorrow, but no one does in happiness. If one remembers in happiness, then why would sorrow exist?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुख में सुमिरन सब करै, सुख में करै न कोय।\nजो सुख में सुमिरन कर, तो दुख काहे को होय।।७९२।।",
+    "translation": "Everyone remembers in sorrow, but no one does in happiness. If one remembers in happiness, then why would sorrow exist?",
+    "meaning": "दुख में सभी स्मरण करते हैं, सुख में कोई नहीं करता। यदि कोई सुख में स्मरण करता है, तो दुख क्यों होगा?",
+    "explanation": "इस दोहे में कबीर ने ध्यान और स्मरण की असली महत्ता को बताया है। वे कहते हैं कि लोग केवल दुख के समय भगवान का स्मरण करते हैं, लेकिन सुख के समय ऐसा नहीं करते। अगर सुख के समय भी स्मरण किया जाए, तो दुख की स्थिति नहीं आएगी। यह भावनात्मक स्थिति पर नियंत्रण और सच्चे भक्ति की आवश्यकता को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.818Z"
+  }
+}

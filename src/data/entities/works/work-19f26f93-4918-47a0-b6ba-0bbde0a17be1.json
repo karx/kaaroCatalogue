@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-19f26f93-4918-47a0-b6ba-0bbde0a17be1",
+  "name": "साधु ऐसा चहिए, जैसा सूप सुभाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A saint should be like a sieve, which retains the essence and lets go of the chaff.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु ऐसा चहिए, जैसा सूप सुभाय।\nसार-सार को गहि रहे, थोथ देइ उड़ाय।।३९।।",
+    "translation": "A saint should be like a sieve, which retains the essence and lets go of the chaff.",
+    "meaning": "संत ऐसा होना चाहिए जैसे एक छाननी, जो सार को पकड़ता है और बेकार को हटा देता है।",
+    "explanation": "इस दोहे में संत कबीर संत की सच्ची पहचान बताते हैं। जैसे छाननी केवल सार तत्व को रखती है और बेकार को हटा देती है, वैसे ही एक सच्चा संत केवल महत्वपूर्ण और सारगर्भित बातें रखता है और अवांछनीय चीजों को छोड़ देता है। यह हमें यह सिखाता है कि संत के गुण क्या होने चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-01-to-50.md",
+    "retrievedAt": "2026-01-04T19:05:48.821Z"
+  }
+}

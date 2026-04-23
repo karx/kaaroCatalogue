@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-81de0a73-6f34-41fe-90f0-3d14eb82aea0",
+  "name": "तीरथ गए तीन तीन जना, चित चंचल मन चोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Three people went on pilgrimage, with restless and thieving minds. They did not cut a single sin, but carried ten more in their minds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तीरथ गए तीन तीन जना, चित चंचल मन चोर।\nएको पाप न काटिया, लादिन मन दस और।।१५६२।।",
+    "translation": "Three people went on pilgrimage, with restless and thieving minds. They did not cut a single sin, but carried ten more in their minds.",
+    "meaning": "तीर्थ यात्रा पर तीन लोग गए, जिनके मन चंचल और चोर थे। उन्होंने एक भी पाप नहीं काटा, बल्कि अपने मन में दस और पाप लेकर आए।",
+    "explanation": "कबीर इस दोहे में तीर्थ यात्रा पर जाने वालों की असलियत को उजागर करते हैं। उन्होंने कहा कि जो लोग तीर्थ यात्रा पर जाते हैं लेकिन उनका मन चंचल और पापपूर्ण होता है, वे कोई भी पाप नहीं काटते, बल्कि अपने मन में और अधिक पाप लेकर आते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.207Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c6761b54-5730-4cd5-88b6-b9d28494daea",
+  "name": "काया देवल मन धजा, विषय लहर फहराय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is a temple, and the mind is its flag. When the mind moves, the temple moves along with it; thus, everything follows.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काया देवल मन धजा, विषय लहर फहराय।\nमन चलते देवल चले, ताका सरबस जाय।।११०५।।",
+    "translation": "The body is a temple, and the mind is its flag. When the mind moves, the temple moves along with it; thus, everything follows.",
+    "meaning": "शरीर एक मंदिर है, और मन उसकी ध्वजा है। जब मन चलता है, तो मंदिर भी साथ चलता है; इस प्रकार, सब कुछ मन के अनुसार चलता है।",
+    "explanation": "इस दोहे में कबीर ने शरीर और मन के रिश्ते को मंदिर और ध्वजा के माध्यम से समझाया है। जैसे एक मंदिर की ध्वजा उसकी स्थिति को दर्शाती है, वैसे ही मन शरीर की स्थिति और गतिविधियों को निर्धारित करता है। जब मन की दिशा बदलती है, तो शरीर भी उसी दिशा में चलता है। इस प्रकार, मन की अवस्था शरीर की अवस्था को प्रभावित करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.700Z"
+  }
+}

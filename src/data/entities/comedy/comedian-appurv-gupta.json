@@ -1,0 +1,31 @@
+{
+  "@type": "Person",
+  "entityId": "comedian-appurv-gupta",
+  "name": "Appurv Gupta",
+  "alternateName": [],
+  "additionalType": "Comedian",
+  "birthDate": "",
+  "knowsLanguage": "hi",
+  "homeLocation": null,
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Stand-up Comedian"
+  },
+  "award": [],
+  "genre": [],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Appurv_Gupta",
+    "https://www.youtube.com/channel/UCKgAaCGmyCRKgMZD0LBvMNA"
+  ],
+  "keywords": [],
+  "verified": false,
+  "abstract": "",
+  "nationality": "",
+  "yearsActive": "",
+  "socialMedia": {},
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Appurv_Gupta",
+    "retrievedAt": "2026-01-05T19:34:12.900Z"
+  }
+}

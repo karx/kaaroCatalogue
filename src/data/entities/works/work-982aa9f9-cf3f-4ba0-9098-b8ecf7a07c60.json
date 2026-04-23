@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-982aa9f9-cf3f-4ba0-9098-b8ecf7a07c60",
+  "name": "गुरुवा तो घर फिरे, दीक्षा हमारी लेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The Guru returns home after giving initiation, leaving us to drown or swim on our own. Such a Guru is like a penny-pinching miser.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरुवा तो घर फिरे, दीक्षा हमारी लेह।\nकै बूड़ौ कै ऊबरो, टका परदानी देह।।२८५।।",
+    "translation": "The Guru returns home after giving initiation, leaving us to drown or swim on our own. Such a Guru is like a penny-pinching miser.",
+    "meaning": "गुरु दीक्षा देकर घर लौट जाता है, और हमें अपने आप ही डूबने या तैरने के लिए छोड़ देता है। ऐसा गुरु एक कंजूस के समान है।",
+    "explanation": "इस दोहे में कबीर उस गुरु की आलोचना करते हैं जो शिष्य को दीक्षा देकर उसे अपने हाल पर छोड़ देता है। ऐसा गुरु शिष्य को मार्गदर्शन देने के बजाय उसे उसकी समस्याओं के साथ अकेला छोड़ देता है, जिससे शिष्य जीवन के संघर्षों में उलझ जाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.129Z"
+  }
+}

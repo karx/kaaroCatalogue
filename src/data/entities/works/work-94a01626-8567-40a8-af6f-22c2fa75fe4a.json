@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-94a01626-8567-40a8-af6f-22c2fa75fe4a",
+  "name": "जिव बिनु जीव जिवे नहीं, जिव को जीव अधार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without life, the living cannot survive; life is the foundation of existence. Show compassion to all living beings, ponder on this, O scholars.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जिव बिनु जीव जिवे नहीं, जिव को जीव अधार।\nजीव दया के पालिये, पंडित करहु विचार।।१५२७।।",
+    "translation": "Without life, the living cannot survive; life is the foundation of existence. Show compassion to all living beings, ponder on this, O scholars.",
+    "meaning": "जीव के बिना जीवित नहीं रहा जा सकता; जीवन अस्तित्व का आधार है। सभी जीवों के प्रति दया दिखाओ, हे विद्वान, इस पर विचार करो।",
+    "explanation": "इस दोहे में कबीर हमें जीवों के प्रति दया और करुणा दिखाने की सलाह देते हैं। वे कहते हैं कि जीवन ही जीवन का आधार है और इसलिए किसी भी जीव की हानि करना या उसे पीड़ा देना गलत है। विद्वानों को इस पर विचार करना चाहिए और अपने जीवन में इस सिख को अपनाना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.931Z"
+  }
+}

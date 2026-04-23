@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9a06e3a9-45ab-4b7d-a6c4-53558191fd0d",
+  "name": "मैं रोवों ऐहि जगत को, मोको रोवे न कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "I cry for this world, but no one cries for me. Only those who are wise in words can truly understand my sorrow.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मैं रोवों ऐहि जगत को, मोको रोवे न कोय।\nमोको रोवे सो जना, जो शब्‍द विवेकी होय।।१६४७।।",
+    "translation": "I cry for this world, but no one cries for me. Only those who are wise in words can truly understand my sorrow.",
+    "meaning": "मैं इस दुनिया के लिए रोता हूँ, लेकिन कोई मेरे लिए नहीं रोता। केवल वे लोग जो शब्दों में विवेक रखते हैं, मेरी पीड़ा को समझ सकते हैं।",
+    "explanation": "कबीर इस दोहे में व्यक्तिगत दुःख और दुनिया की अनदेखी को दर्शाते हैं। उन्होंने कहा कि केवल बुद्धिमान लोग ही सच्चे दर्द को समझ सकते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.511Z"
+  }
+}

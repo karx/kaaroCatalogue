@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-831afb35-cde0-4cf8-aeb0-8451bf4b3cad",
+  "name": "पाहन पूजि के, होन चहत भव पार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Worshipping stones, one seeks to cross over the cycle of life. But those who drown in the water of a river cannot cross with a heavy load on their head.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पाहन पूजि के, होन चहत भव पार।\nभीजि पानि भेदै नदी, बूड जिन सिर भार।।१३४९।।",
+    "translation": "Worshipping stones, one seeks to cross over the cycle of life. But those who drown in the water of a river cannot cross with a heavy load on their head.",
+    "meaning": "पत्थरों की पूजा करके लोग जीवन के चक्र को पार करना चाहते हैं। लेकिन जो लोग पानी में डूबते हैं और सिर पर भारी बोझ लेकर चलते हैं, वे पार नहीं कर सकते।",
+    "explanation": "कबीर जी के अनुसार, पत्थरों की पूजा करने से जीवन के चक्र को पार नहीं किया जा सकता। जिनका मन भारी होता है और जो बुरे कर्मों में फंसे होते हैं, वे नहीं पार कर सकते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1301-to-1350.md",
+    "retrievedAt": "2026-01-04T19:05:55.817Z"
+  }
+}

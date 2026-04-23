@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-52d4d8dd-e5aa-4ac3-945e-7d72c95c6959",
+  "name": "पुरपाटण सुबस बसै, आनंद ढांये ढांइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The old garment sits well, and the joy it brings is indescribable. The beloved of Ram is outside, and I am left behind.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पुरपाटण सुबस बसै, आनंद ढांये ढांइ।\nराम सनेही बाहिरा, ऊंजड़ मेरे भांइ।।१९८१।।",
+    "translation": "The old garment sits well, and the joy it brings is indescribable. The beloved of Ram is outside, and I am left behind.",
+    "meaning": "पुराना वस्त्र अच्छा लगता है, और इसका आनंद अनगिनत है। राम का प्रिय बाहर है, और मैं पीछे रह गया हूँ।",
+    "explanation": "इस दोहे में कबीर ने पुराने और पारंपरिक वस्त्रों के आराम और सुख को दर्शाया है। उन्होंने यह भी उल्लेख किया है कि राम का प्रिय व्यक्ति बाहर है, और कबीर स्वयं को पीछे छोड़ दिया हुआ महसूस करते हैं। यह आत्मिक संयोग और भक्ति के साथ जुड़ने के विषय को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1951-to-2000.md",
+    "retrievedAt": "2026-01-04T19:05:59.534Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8b124529-7623-41aa-85e4-ffba4a706401",
+  "name": "Vachana Sahitya",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-akka-mahadevi"
+  },
+  "inLanguage": "Kannada",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Vachana_Sahitya",
+    "retrievedAt": "2026-01-04T18:39:13.489Z"
+  }
+}

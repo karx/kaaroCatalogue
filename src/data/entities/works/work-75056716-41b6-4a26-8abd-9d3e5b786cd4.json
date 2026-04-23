@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-75056716-41b6-4a26-8abd-9d3e5b786cd4",
+  "name": "पक्षापक्षी के कारण, सब जग गया भुलान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Due to the conflicts between factions, the whole world is confused. The wise are those who worship Hari with impartiality.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पक्षापक्षी के कारण, सब जग गया भुलान।\nनिरपक्ष होय के हरि भजे, सोई सन्‍त सुजान।।१५८४।।",
+    "translation": "Due to the conflicts between factions, the whole world is confused. The wise are those who worship Hari with impartiality.",
+    "meaning": "पक्षपात के कारण, सारा जगत भ्रमित हो गया है। जो हरि की पूजा निष्पक्षता से करते हैं, वही सच्चे संत हैं।",
+    "explanation": "इस दोहे में कबीर ने पक्षपात और विवादों से उत्पन्न भ्रम की स्थिति को दर्शाया है। उन्होंने कहा कि जो लोग निष्पक्षता के साथ हरि की पूजा करते हैं, वही सच्चे और समझदार संत होते हैं। यह निष्पक्षता और समझ की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1551-to-1600.md",
+    "retrievedAt": "2026-01-04T19:05:57.211Z"
+  }
+}

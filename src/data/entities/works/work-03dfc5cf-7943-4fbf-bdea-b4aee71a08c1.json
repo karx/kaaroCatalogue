@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-03dfc5cf-7943-4fbf-bdea-b4aee71a08c1",
+  "name": "जग में युक्ति अनूप है, साधु संग गुरु ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "In this world, the most unique method is the knowledge gained in the company of saints and true Guru. It is most unique when the true Guru's words reach the ears.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जग में युक्ति अनूप है, साधु संग गुरु ज्ञान।\nतामें निपट अनूप है, सतगुरु लागा कान।।२७१।।",
+    "translation": "In this world, the most unique method is the knowledge gained in the company of saints and true Guru. It is most unique when the true Guru's words reach the ears.",
+    "meaning": "इस संसार में सबसे अनूठा तरीका है संतों के संग में गुरु ज्ञान प्राप्त करना। और यह ज्ञान तब और भी अनूठा हो जाता है जब सच्चे गुरु की बातों का असर कानों में पड़ता है।",
+    "explanation": "यह दोहा समझाता है कि संतों के संग में और सच्चे गुरु से प्राप्त ज्ञान सबसे अनूठा और लाभकारी होता है। जब व्यक्ति सच्चे गुरु के उपदेश को सुनकर उसे जीवन में उतारता है, तब उसे सही मायने में अनमोल ज्ञान प्राप्त होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-251-to-300.md",
+    "retrievedAt": "2026-01-04T19:05:50.128Z"
+  }
+}

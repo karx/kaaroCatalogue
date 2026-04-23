@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f7a9bc3e-6c78-4358-8a79-1363da99fa93",
+  "name": "पंख होत परबस पर्यो, सूवा के बुधि नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even with wings, the bird is controlled and lacks intelligence. A foolish and ignorant person is similarly trapped in the world.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंख होत परबस पर्यो, सूवा के बुधि नाहिं।\nअकिल बिहूना आदमी, यों बन्‍धा जग माहिं।।१३५२।।",
+    "translation": "Even with wings, the bird is controlled and lacks intelligence. A foolish and ignorant person is similarly trapped in the world.",
+    "meaning": "चाहे पंख हो, लेकिन पक्षी नियंत्रित रहता है और उसमें बुद्धि नहीं होती। एक मूर्ख और अज्ञानी व्यक्ति भी इसी तरह दुनिया में फंसा रहता है।",
+    "explanation": "कबीर जी के अनुसार, पंख होने के बावजूद यदि किसी में बुद्धि नहीं है, तो वह नियंत्रित रहता है। यही स्थिति मूर्ख और अज्ञानी व्यक्तियों की भी होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.082Z"
+  }
+}

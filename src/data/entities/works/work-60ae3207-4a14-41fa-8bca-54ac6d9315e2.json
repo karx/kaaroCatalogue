@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60ae3207-4a14-41fa-8bca-54ac6d9315e2",
+  "name": "कबिरा गदरी बीखरी, सौदा गया बिकाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir’s tattered cloth, the deal has been sold. The fake is tied with a knot, but the genuine is not bought.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा गदरी बीखरी, सौदा गया बिकाय।\nखोटा बांधा गांठरी, खरा लिया नहिं मोल।।२१६५।।",
+    "translation": "Kabir’s tattered cloth, the deal has been sold. The fake is tied with a knot, but the genuine is not bought.",
+    "meaning": "कबीर का फटा कपड़ा, सौदा बिक गया है। नकली को एक गाँठ से बांधा गया है, लेकिन असली को खरीदा नहीं गया।",
+    "explanation": "इस दोहे में कबीर ने वस्तुओं की वास्तविकता और मूल्य की बात की है। कबीर के फटे कपड़े की तुलना में, नकली वस्तुओं को अधिक महत्व दिया जाता है, जबकि असली और मूल्यवान वस्तुएं अक्सर अनदेखी की जाती हैं। यह दोहा यह सिखाता है कि बाहरी दिखावट के बजाय वस्तुओं की वास्तविकता और मूल्य को समझना आवश्यक है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.724Z"
+  }
+}

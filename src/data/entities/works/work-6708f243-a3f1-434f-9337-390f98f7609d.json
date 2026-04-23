@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6708f243-a3f1-434f-9337-390f98f7609d",
+  "name": "काची काया मन अथिर, थिर थिर करम करन्‍त",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body is fragile and the mind unstable, yet one performs steady deeds. As the fearless person moves, time laughs at them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काची काया मन अथिर, थिर थिर करम करन्‍त।\nज्‍यौं-ज्‍यौं नर निधड़क फिरै, त्‍यौं त्‍यौं काल हसन्‍त।।१०८५।।",
+    "translation": "The body is fragile and the mind unstable, yet one performs steady deeds. As the fearless person moves, time laughs at them.",
+    "meaning": "शरीर नाजुक है और मन अस्थिर है, फिर भी लोग स्थिर कर्म करते हैं। जैसे-जैसे निडर व्यक्ति आगे बढ़ता है, समय उन पर हंसता है।",
+    "explanation": "इस दोहे में कबीर ने शरीर की नाजुकता और मन की अस्थिरता को दिखाया है। लोग स्थिर कर्म करते हैं, लेकिन समय पर भरोसा नहीं किया जा सकता। जैसे-जैसे निडर व्यक्ति अपनी यात्रा पर आगे बढ़ता है, समय की चाल उसके नियंत्रण में नहीं रहती। यह जीवन की अस्थिरता और समय की ताकत को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1051-to-1100.md",
+    "retrievedAt": "2026-01-04T19:05:54.428Z"
+  }
+}

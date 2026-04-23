@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2b745e7a-a8d9-4c4f-8775-067317144234",
+  "name": "दुविधा जाके मन बसै, दयावन्‍त जिय नाहिं",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The one whose mind is filled with doubts cannot have a compassionate heart. Kabir says, leave such a person, do not embrace him.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "दुविधा जाके मन बसै, दयावन्‍त जिय नाहिं।\nकबीर त्‍यागो ताहि को, भूलि देहि जनि बाहिं।।१३७९।।",
+    "translation": "The one whose mind is filled with doubts cannot have a compassionate heart. Kabir says, leave such a person, do not embrace him.",
+    "meaning": "जिसके मन में दुविधा बसती है, उसका हृदय दयालु नहीं हो सकता। कबीर कहते हैं, ऐसे व्यक्ति को त्याग दो, उसे गले मत लगाओ।",
+    "explanation": "कबीर इस दोहे में मन की दुविधा और उसकी दुष्प्रभावों पर ध्यान दिलाते हैं। वे कहते हैं कि जिस व्यक्ति के मन में हमेशा संदेह और दुविधा होती है, वह सच्ची दया और करुणा को अपने हृदय में नहीं रख सकता। ऐसे व्यक्ति से दूर रहने की सलाह देते हुए कबीर जी कहते हैं कि उसे गले मत लगाओ क्योंकि उसकी संगति आपके जीवन में नकारात्मकता ला सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.088Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8bd9b2d5-3a63-4066-98df-babfd950965b",
+  "name": "अनजाने का कूकना, कूकर कासा शोर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The barking of the unknown is like the noise of a dog. In the dark night, even thieves are not recognized.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अनजाने का कूकना, कूकर कासा शोर।\nज्‍यों अंधियारी रैन में, साह न चीन्‍हें चोर।।२१७४।।",
+    "translation": "The barking of the unknown is like the noise of a dog. In the dark night, even thieves are not recognized.",
+    "meaning": "अनजाने का कुत्ते की तरह शोर-शराबा है। अंधेरी रात में, चोर भी पहचान में नहीं आते।",
+    "explanation": "इस दोहे में कबीर ने अज्ञात और अनावश्यक शोर को एक कुत्ते के भौंकने के समान बताया है। अंधेरे में, अर्थात जब कोई स्पष्टता या ज्ञान नहीं होता, तब चोर (खराब लोग) भी पहचान में नहीं आते। यह दोहा यह दर्शाता है कि अज्ञानता और भ्रम की स्थिति में, हमें महत्वपूर्ण चीजों और लोगों को सही से पहचानने में कठिनाई होती है। यह सिखाता है कि स्पष्टता और ज्ञान के बिना सही पहचान और निर्णय लेना मुश्किल होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2151-to-2200.md",
+    "retrievedAt": "2026-01-04T19:06:00.727Z"
+  }
+}

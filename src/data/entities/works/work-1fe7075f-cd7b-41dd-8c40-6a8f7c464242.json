@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1fe7075f-cd7b-41dd-8c40-6a8f7c464242",
+  "name": "इसी उदर कै कारणै, जग जांच्‍यौ निस जाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For the sake of this belly, the world searches day and night. The burden of duty on the head, yet not a single task is fulfilled.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "इसी उदर कै कारणै, जग जांच्‍यौ निस जाम।\nस्‍वामीं पणो जु सिर चढ्यो, सरया न एकौ काम।।२०६३।।",
+    "translation": "For the sake of this belly, the world searches day and night. The burden of duty on the head, yet not a single task is fulfilled.",
+    "meaning": "इस उदर के कारण, दुनिया रात-दिन खोजती रहती है। कर्तव्य का बोझ सिर पर है, लेकिन एक भी काम पूरा नहीं होता।",
+    "explanation": "कबीर इस दोहे में समझाते हैं कि पेट भरने के लिए लोग दिन-रात मेहनत करते रहते हैं। वे अपने सिर पर कर्तव्यों का बोझ लेकर चलते हैं, लेकिन सही मायने में एक भी काम पूरा नहीं होता। कबीर यहाँ जीवन के वास्तविक उद्देश्य की ओर ध्यान आकर्षित करते हैं और सांसारिक उलझनों से ऊपर उठने की प्रेरणा देते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2051-to-2100.md",
+    "retrievedAt": "2026-01-04T19:06:00.090Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ca5463fa-a975-4f78-8c90-60f0eeb4bf4d",
+  "name": "बांका गढ बांका मता, बांकी गढकी पौलि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The strong fort is the strong mind, and the strong fence is the strong intellect. Kabir says the true protection is the one that conquers even Yama (death).",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बांका गढ बांका मता, बांकी गढकी पौलि।\nकछि कबिरा नीकसा, यम सिर घाली रौलि।।२१३९।।",
+    "translation": "The strong fort is the strong mind, and the strong fence is the strong intellect. Kabir says the true protection is the one that conquers even Yama (death).",
+    "meaning": "मजबूत किला मजबूत मन है, और मजबूत बाड़ मजबूत बुद्धि है। कबीर कहते हैं कि सच्ची सुरक्षा वही है जो यम (मृत्यु) को भी पराजित कर देती है।",
+    "explanation": "इस दोहे में कबीर ने सच्ची सुरक्षा और शक्ति के बारे में बताया है। उन्होंने मजबूत किले और बाड़ को मजबूत मन और बुद्धि से जोड़ा है, और यह कहा है कि सच्ची सुरक्षा वही है जो मृत्यु जैसी ताकतवर चीजों को भी पराजित कर दे। यह दोहा जीवन की सच्ची शक्ति और सुरक्षा को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.370Z"
+  }
+}

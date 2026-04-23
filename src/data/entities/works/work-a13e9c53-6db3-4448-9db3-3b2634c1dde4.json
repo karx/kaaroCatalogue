@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a13e9c53-6db3-4448-9db3-3b2634c1dde4",
+  "name": "गुरु आज्ञा मानै नहीं, चले अटपटी चाल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If one disobeys the Guru's command and follows a misguided path, they lose both worldly and spiritual knowledge, and doom awaits them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "गुरु आज्ञा मानै नहीं, चले अटपटी चाल।\nलोक वेद दोनों गये, आये सिर पर काल।।६७७।।",
+    "translation": "If one disobeys the Guru's command and follows a misguided path, they lose both worldly and spiritual knowledge, and doom awaits them.",
+    "meaning": "यदि कोई गुरु की आज्ञा नहीं मानता और गलत रास्ते पर चलता है, तो वह दुनियावी और आध्यात्मिक दोनों ज्ञान खो देता है, और उसका विनाश निश्चित है।",
+    "explanation": "इस दोहे में कबीर गुरु की आज्ञा का पालन करने के महत्व पर जोर देते हैं। यदि कोई व्यक्ति गुरु की आज्ञा को नजरअंदाज कर अपने मन की करता है, तो वह दुनियावी और आध्यात्मिक दोनों ज्ञान खो देता है। उसका जीवन विनाश की ओर बढ़ता है, और अंत में उसे पछताना पड़ता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-651-to-700.md",
+    "retrievedAt": "2026-01-04T19:05:52.270Z"
+  }
+}

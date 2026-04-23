@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9729a36f-0948-447f-8794-5316b794e463",
+  "name": "baat bas se nikal chali hai",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/baat-bas-se-nikal-chalii-hai-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.207Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/baat-bas-se-nikal-chalii-hai-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nbaat bas se nikal chalī hai\ndil kī hālat sambhal chalī hai\nab junūñ had se baḌh chalā hai\nab tabī.at bahal chalī hai\nashk ḳhūnāb ho chale haiñ\nġham kī rañgat badal chalī hai\nyā yūñhī bujh rahī haiñ sham.eñ\nyā shab-e-hijr Tal chalī hai\nlaakh paiġhām ho ga.e haiñ\njab sabā ek pal chalī hai\njaao ab so raho sitāro\ndard kī raat Dhal chalī hai\nbaat bas se nikal chali hai\ndil ki haalat sambhal chali hai\nab junun had se baDh chala hai\nab tabiat bahal chali hai\nashk KHunab ho chale hain\ngham ki rangat badal chali hai\nya yunhi bujh rahi hain shamen\nya shab-e-hijr Tal chali hai\nlakh paigham ho gae hain\njab saba ek pal chali hai\njao ab so raho sitaro\ndard ki raat Dhal chali hai",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nبات بس سے نکل چلی ہے\nدل کی حالت سنبھل چلی ہے\nاب جنوں حد سے بڑھ چلا ہے\nاب طبیعت بہل چلی ہے\nاشک خوناب ہو چلے ہیں\nغم کی رنگت بدل چلی ہے\nیا یوں ہی بجھ رہی ہیں شمعیں\nیا شب ہجر ٹل چلی ہے\nلاکھ پیغام ہو گئے ہیں\nجب صبا ایک پل چلی ہے\nجاؤ اب سو رہو ستارو\nدرد کی رات ڈھل چلی ہے",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nबात बस से निकल चली है\nदिल की हालत सँभल चली है\nअब जुनूँ हद से बढ़ चला है\nअब तबीअ'त बहल चली है\nअश्क ख़ूनाब हो चले हैं\nग़म की रंगत बदल चली है\nया यूँही बुझ रही हैं शमएँ\nया शब-ए-हिज्र टल चली है\nलाख पैग़ाम हो गए हैं\nजब सबा एक पल चली है\nजाओ अब सो रहो सितारो\nदर्द की रात ढल चली है",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:48:36.108Z"
+  }
+}

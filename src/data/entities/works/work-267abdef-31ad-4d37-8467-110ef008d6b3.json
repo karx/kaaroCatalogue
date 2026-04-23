@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-267abdef-31ad-4d37-8467-110ef008d6b3",
+  "name": "साधु संग गुरु भक्ति अरू, बढ़त बढ़त बढ़ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Association with saints and devotion to the guru increases continually. But association with the lowly and the harsh words decrease continuously.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु संग गुरु भक्ति अरू, बढ़त बढ़त बढ़ि जाय।\nओछी संगत खर शब्द रू, घटत-घटत घटि जाय।।४०२।।",
+    "translation": "Association with saints and devotion to the guru increases continually. But association with the lowly and the harsh words decrease continuously.",
+    "meaning": "संतों की संगति और गुरु की भक्ति निरंतर बढ़ती जाती है। लेकिन नीच संगति और कठोर शब्द लगातार घटते जाते हैं।",
+    "explanation": "इस दोहे में कबीर दास जी ने सच्ची संगति और उसकी महत्ता को बताया है। वे कहते हैं कि साधुओं की संगति और गुरु की भक्ति निरंतर बढ़ती है और हमें इसके प्रभाव को समझना चाहिए। इसके विपरीत, नीच संगति और कठोर शब्द हमारे जीवन को घटाते हैं और हमें नकारात्मकता की ओर ले जाते हैं। यह दोहा हमें यह सिखाता है कि हमें सच्ची और पवित्र संगति करनी चाहिए, जिससे जीवन में सकारात्मकता और वृद्धि होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-401-to-450.md",
+    "retrievedAt": "2026-01-04T19:05:50.921Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-3a8d6b54-cb9b-4da8-b1e7-6bfa823a093c",
+  "name": "Golpitha",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-namdeo-dhasal"
+  },
+  "inLanguage": "Marathi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Golpitha",
+    "retrievedAt": "2026-01-04T18:39:34.956Z"
+  }
+}

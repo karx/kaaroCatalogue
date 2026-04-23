@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b24b1e6f-e920-4348-9768-32efd7a28f66",
+  "name": "बहुत दिवस तें हींडिया, शून्‍य समाधि लगाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "For many days, one may sit in a state of zero meditation, but in the end, they regret being lost in delusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बहुत दिवस तें हींडिया, शून्‍य समाधि लगाय।\nकरहा पड़ा गाड़ में, दूरि परे पछिताय।।१६०९।।",
+    "translation": "For many days, one may sit in a state of zero meditation, but in the end, they regret being lost in delusion.",
+    "meaning": "कई दिनों तक शून्‍य समाधि में बैठा जा सकता है, लेकिन अंत में वह भ्रम में खोने पर पछताएगा।",
+    "explanation": "इस दोहे में कबीर ने ध्यान और समाधि के महत्व की बात की है। उन्होंने कहा कि भले ही कोई लंबे समय तक शून्‍य ध्यान में बैठे, लेकिन अंत में उसे भ्रम में खोने पर पछतावा होगा।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1601-to-1650.md",
+    "retrievedAt": "2026-01-04T19:05:57.503Z"
+  }
+}

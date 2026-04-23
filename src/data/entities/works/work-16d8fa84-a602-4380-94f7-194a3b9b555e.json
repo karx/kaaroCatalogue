@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-16d8fa84-a602-4380-94f7-194a3b9b555e",
+  "name": "पापी पूजा बैठिकै, भखे मांस मद दाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sinner who sits in worship, with hunger for flesh and intoxication. His initiation does not lead to liberation, instead results in millions of hellish consequences.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पापी पूजा बैठिकै, भखे मांस मद दाइ।\nतिनकी दीक्षा मुक्ति नहिं, कोटि नरक फल होई।।२२४५।।",
+    "translation": "The sinner who sits in worship, with hunger for flesh and intoxication. His initiation does not lead to liberation, instead results in millions of hellish consequences.",
+    "meaning": "पापी पूजा में बैठकर, मांस और मदिरा का सेवन करता है। उसकी दीक्षा से मुक्ति नहीं मिलती, बल्कि उसे कोटि नरकों का फल मिलता है।",
+    "explanation": "इस दोहे में कबीर जी कहते हैं कि जो व्यक्ति पापी है, वह पूजा-पाठ में बैठकर भी यदि मांस और मदिरा का सेवन करता है, तो उसकी दीक्षा का कोई अर्थ नहीं है। उसके पापों के कारण उसे मुक्ति नहीं मिलती, बल्कि नरकों में असंख्य कष्ट भोगने पड़ते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2201-to-2250.md",
+    "retrievedAt": "2026-01-04T19:06:01.090Z"
+  }
+}

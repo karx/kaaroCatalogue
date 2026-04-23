@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-404508f1-6c9c-400b-9e5b-ae550b338943",
+  "name": "कोई न से जम बांचिया, राम बिना धरि खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "No one has escaped from Yama (Death) without holding on to Ram. Those who long for Ram, even Yama fears them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कोई न से जम बांचिया, राम बिना धरि खाय।\nजो जन बिरही राम के, ताको देखि डराय।।७७८।।",
+    "translation": "No one has escaped from Yama (Death) without holding on to Ram. Those who long for Ram, even Yama fears them.",
+    "meaning": "कोई भी राम के बिना यम (मृत्यु) से नहीं बचा। जो लोग राम के लिए तड़पते हैं, उन्हें देखकर यम भी डरता है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि कोई भी व्यक्ति राम के बिना मृत्यु से नहीं बच सकता। लेकिन जो व्यक्ति भगवान राम की सच्ची भक्ति और प्रेम में रहता है, उसे देखकर मृत्यु भी डरती है। यह दोहा भगवान के प्रति सच्ची भक्ति और उसकी शक्ति को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.816Z"
+  }
+}

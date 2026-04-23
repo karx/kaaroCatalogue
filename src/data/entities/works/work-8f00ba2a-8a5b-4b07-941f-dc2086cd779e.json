@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-8f00ba2a-8a5b-4b07-941f-dc2086cd779e",
+  "name": "कबीर तन मन यौं जल्‍या, बिरह अगनि सूं लागि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the body and mind are burned by the fire of separation. The pain of the dead is not known; only this fire is understood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर तन मन यौं जल्‍या, बिरह अगनि सूं लागि।\nमृतक पीड़ न जांणई, जांणेगी यहु आगि।।१७७३।।",
+    "translation": "Kabir says that the body and mind are burned by the fire of separation. The pain of the dead is not known; only this fire is understood.",
+    "meaning": "कबीर कहते हैं कि शरीर और मन विरह की अग्नि से जल रहे हैं। मृतक की पीड़ा नहीं समझी जाती; केवल यह अग्नि ही समझी जाती है।",
+    "explanation": "इस दोहे में कबीर ने विरह की अग्नि के द्वारा शरीर और मन के जलने की स्थिति को व्यक्त किया है। वे बताते हैं कि मृतक की पीड़ा को नहीं समझा जा सकता, केवल विरह की अग्नि की पीड़ा को समझा जाता है। यह दोहा विरह की आग की तीव्रता और उसके दर्द की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.349Z"
+  }
+}

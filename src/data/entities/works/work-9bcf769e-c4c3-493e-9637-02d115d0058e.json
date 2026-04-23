@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9bcf769e-c4c3-493e-9637-02d115d0058e",
+  "name": "जाति न पूछो साधु की, पूछि लीजिये ज्ञान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Do not inquire about the caste of a saint, but ask about their knowledge. The value of the sword should be assessed, not the scabbard.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाति न पूछो साधु की, पूछि लीजिये ज्ञान।\nमोल करो तलवार का, पड़ा रहन दो म्‍यान।।६२१।।",
+    "translation": "Do not inquire about the caste of a saint, but ask about their knowledge. The value of the sword should be assessed, not the scabbard.",
+    "meaning": "संत की जाति न पूछें, बल्कि उनके ज्ञान के बारे में पूछें। तलवार का मूल्य समझें, न कि उसकी म्यान का।",
+    "explanation": "संत की असली मूल्यांकन उनके ज्ञान और गुणों पर आधारित होना चाहिए, न कि उनके जाति पर। जैसे तलवार की कीमत उसकी धार पर निर्भर करती है, न कि उसकी म्यान पर।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.001Z"
+  }
+}

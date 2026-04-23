@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-01bfb3a4-78c7-4db1-ba0d-8c4efbb561e7",
+  "name": "साधु चाल जु चलाई, साधु कहावै सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who follows the saintly path is truly a saint. Without the means, there is no wisdom; thus, a saint cannot exist without them.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "साधु चाल जु चलाई, साधु कहावै सोय।\nबिन साधन तो सुधि नहीं, साधु कहां ते होय।।६२५।।",
+    "translation": "One who follows the saintly path is truly a saint. Without the means, there is no wisdom; thus, a saint cannot exist without them.",
+    "meaning": "जो साधु की चाल चलता है, वही सच्चा साधु होता है। साधन के बिना ज्ञान नहीं होता, इसलिए साधु का अस्तित्व बिना साधनों के नहीं हो सकता।",
+    "explanation": "संत वही होता है जो धर्म की राह पर चलता है। बिना उचित साधनों और ज्ञान के, सच्चे संत की पहचान नहीं हो सकती।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.002Z"
+  }
+}

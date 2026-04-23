@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-a89f59a0-442b-4f18-869f-5b906d8ffc27",
+  "name": "सतगुरु मेरा शूरमा, तकि तकि मारै तीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The True Guru is a great warrior who shoots arrows of wisdom. They protect from harm and their protection is unfailing.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सतगुरु मेरा शूरमा, तकि तकि मारै तीर।\nलागे पन भागे नही, ऐसा दास कबीर।।५०१।।",
+    "translation": "The True Guru is a great warrior who shoots arrows of wisdom. They protect from harm and their protection is unfailing.",
+    "meaning": "सतगुरु एक महान योद्धा हैं जो ज्ञान की बाणों को छोड़ते हैं। वे किसी भी प्रकार की हानि से बचाते हैं और उनकी रक्षा कभी विफल नहीं होती।",
+    "explanation": "इस दोहे में कबीर दास ने सतगुरु की महानता को दर्शाया है। सतगुरु एक योद्धा की तरह होते हैं जो ज्ञान की बाण छोड़ते हैं और हमें हर प्रकार की हानि से बचाते हैं। उनकी रक्षा हमेशा सफल होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-501-to-550.md",
+    "retrievedAt": "2026-01-04T19:05:51.463Z"
+  }
+}

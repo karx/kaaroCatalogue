@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml703skl-bbs4t",
+  "name": "FINE DINING RESTAURANTS | Stand up comedy by Gaurav Gupta",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT4M29S",
+  "embedUrl": "https://www.youtube.com/embed/DcXOMLWe5FE",
+  "contentUrl": "https://www.youtube.com/watch?v=DcXOMLWe5FE",
+  "uploadDate": "2018-03-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/DcXOMLWe5FE/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "This stand-up comedy video describes the funny incidents and experiences in so called Fine Dining restaurants.\n\nVenue and production:   Canvas Laugh Club, Gurgaon\n\nEdited by:   Akshit Arora\n\nWritten and performed by: Gaurav Gupta\n\nSpecial thanks: Ankita Jhalani\n\nFor bookings and show queries: email ",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

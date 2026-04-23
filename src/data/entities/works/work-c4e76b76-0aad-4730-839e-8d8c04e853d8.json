@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c4e76b76-0aad-4730-839e-8d8c04e853d8",
+  "name": "पंच असमाना जब लिया, तब रन धसिया शूर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When the five elements are mastered, the battlefield becomes a place for the brave. One offers their heart and head, and the divine Ram is pleased.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पंच असमाना जब लिया, तब रन धसिया शूर।\nदिल सौंपा शिर उॅबरा, मुजरा राम हजूर।।२११९।।",
+    "translation": "When the five elements are mastered, the battlefield becomes a place for the brave. One offers their heart and head, and the divine Ram is pleased.",
+    "meaning": "जब पांच तत्वों को नियंत्रित किया जाता है, तब युद्ध का मैदान वीरों के लिए होता है। व्यक्ति अपने दिल और सिर को प्रस्तुत करता है, और भगवान राम प्रसन्न होते हैं।",
+    "explanation": "इस दोहे में कबीर ने पांच तत्वों के नियंत्रण और वीरता की महत्वता को स्पष्ट किया है। जब व्यक्ति इन पांच तत्वों (मूल तत्वों) को नियंत्रित कर लेता है, तब युद्ध का मैदान भी वीरता का प्रतीक बन जाता है। ऐसा व्यक्ति अपना दिल और सिर ईश्वर को अर्पित करता है, जिससे भगवान राम प्रसन्न होते हैं। यह दोहा साधना और ईश्वर की प्रसन्नता के महत्व को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.364Z"
+  }
+}

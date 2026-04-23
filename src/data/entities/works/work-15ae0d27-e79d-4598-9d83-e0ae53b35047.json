@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-15ae0d27-e79d-4598-9d83-e0ae53b35047",
+  "name": "मन मक्‍का दिल द्वार‍िका, काया काशी जान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Consider the mind as Mecca, the heart as Dwarka, and the body as Kashi. Recognize the light within the temple of ten doors (the body).",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन मक्‍का दिल द्वार‍िका, काया काशी जान।\nदश द्वारे का देहरा, तामें ज्‍योति पिछान।।१३८६।।",
+    "translation": "Consider the mind as Mecca, the heart as Dwarka, and the body as Kashi. Recognize the light within the temple of ten doors (the body).",
+    "meaning": "मन को मक्का, दिल को द्वारका और काया (शरीर) को काशी समझो। दस दरवाजों वाले इस मंदिर (शरीर) में मौजूद ज्योति को पहचानो।",
+    "explanation": "कबीर इस दोहे में आत्मा और शरीर के आध्यात्मिक महत्व को उजागर करते हैं। वे कहते हैं कि मन, दिल, और शरीर को पवित्र स्थलों के रूप में समझना चाहिए और अपने शरीर रूपी मंदिर में छिपी हुई ज्योति (आत्मा) को पहचानना चाहिए। यह दोहा हमें अपने भीतर की पवित्रता और ईश्वर की उपस्थिति का बोध कराता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1351-to-1400.md",
+    "retrievedAt": "2026-01-04T19:05:56.089Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-60a3494d-2bee-4c45-b3ca-f5b7058889e1",
+  "name": "माया काल की खानि है, धरै त्रिगुण विपरीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Illusion is the abode of time, opposite to the three gunas (qualities). Wherever it goes, there is no happiness; such is the nature of illusion.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "माया काल की खानि है, धरै त्रिगुण विपरीत।\nजहां जाय तहं सुख नहीं, या माया की रीति।।१२०१।।",
+    "translation": "Illusion is the abode of time, opposite to the three gunas (qualities). Wherever it goes, there is no happiness; such is the nature of illusion.",
+    "meaning": "माया काल का घर है, जो त्रिगुणों के विपरीत होती है। जहां भी जाती है, वहां सुख नहीं मिलता; यही माया की प्रकृति है।",
+    "explanation": "इस दोहे में कबीर ने माया की नकारात्मक और दुखदायक प्रकृति को व्यक्त किया है। माया काल के अधीन होती है और त्रिगुणों के विपरीत होती है, जिसके कारण किसी भी स्थान पर सुख प्राप्त नहीं होता। माया की यही स्वाभाविक प्रकृति है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.266Z"
+  }
+}

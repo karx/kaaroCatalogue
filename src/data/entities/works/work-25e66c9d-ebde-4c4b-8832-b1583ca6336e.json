@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-25e66c9d-ebde-4c4b-8832-b1583ca6336e",
+  "name": "पासि विनंठा कपड़ा, कदे सुरांग न होइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "A cloth that is well-folded will not develop any wrinkles. Kabir says, after gaining true knowledge, I have renounced both wealth and women.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पासि विनंठा कपड़ा, कदे सुरांग न होइ।\nकबीर त्‍याग्‍या ग्‍यान करि, कनक कामनी दोई।।१८९०।।",
+    "translation": "A cloth that is well-folded will not develop any wrinkles. Kabir says, after gaining true knowledge, I have renounced both wealth and women.",
+    "meaning": "जो कपड़ा अच्छे से तह किया जाता है, उसमें कभी सिलवटें नहीं पड़तीं। कबीर कहते हैं, सच्चा ज्ञान प्राप्त करने के बाद मैंने सोना और स्त्रियों दोनों का त्याग कर दिया।",
+    "explanation": "इस दोहे में कबीरदास जी आत्मसंयम और त्याग की महत्ता को उजागर करते हैं। वे कहते हैं कि जिस तरह अच्छे से तह किया हुआ कपड़ा कभी सिलवटों से प्रभावित नहीं होता, उसी प्रकार जो व्यक्ति सच्चे ज्ञान को आत्मसात कर लेता है, वह संसारिक मोह माया जैसे धन और स्त्री के आकर्षण से अछूता रहता है। यह त्याग और ज्ञान का प्रतीक है, जो एक संत का आदर्श है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.976Z"
+  }
+}

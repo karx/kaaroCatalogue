@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2smg-s8vyv",
+  "name": "MERI GIRL FRIEND KA JEEVANSATHI | Stand up comedy by Gaurav Gupta",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-gaurav-gupta"
+  },
+  "duration": "PT12M32S",
+  "embedUrl": "https://www.youtube.com/embed/uiS8j1VBUJ4",
+  "contentUrl": "https://www.youtube.com/watch?v=uiS8j1VBUJ4",
+  "uploadDate": "2024-10-14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/uiS8j1VBUJ4/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Gaurav Gupta",
+  "aggregatorChannel": null
+}

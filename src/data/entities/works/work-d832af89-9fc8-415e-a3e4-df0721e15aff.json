@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d832af89-9fc8-415e-a3e4-df0721e15aff",
+  "name": "भक्ति कठिन अति दुर्लभ, भेष सुगम नित सोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Devotion is extremely difficult and rare, while external appearances are easy to attain. Everyone knows that devotion is different from mere appearances.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "भक्ति कठिन अति दुर्लभ, भेष सुगम नित सोय।\nभक्ति जु न्‍यारी भेष से, यह जानै सब कोय।।७१२।।",
+    "translation": "Devotion is extremely difficult and rare, while external appearances are easy to attain. Everyone knows that devotion is different from mere appearances.",
+    "meaning": "भक्ति अत्यंत कठिन और दुर्लभ है, जबकि बाहरी रूप सरलता से प्राप्त होते हैं। हर कोई जानता है कि भक्ति बाहरी रूप से भिन्न होती है।",
+    "explanation": "इस दोहे में कबीर भक्ति को कठिन और दुर्लभ मानते हैं, जबकि बाहरी दिखावा आसान होता है। वे यह स्पष्ट करते हैं कि भक्ति बाहरी रूप से नहीं, बल्कि उसके वास्तविक और गहरे अर्थ से मापी जाती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-701-to-750.md",
+    "retrievedAt": "2026-01-04T19:05:52.542Z"
+  }
+}

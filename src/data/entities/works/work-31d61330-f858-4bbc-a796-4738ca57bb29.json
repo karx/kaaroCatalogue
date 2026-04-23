@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-31d61330-f858-4bbc-a796-4738ca57bb29",
+  "name": "बन्धे को बँनधा मिले, छूटे कौन उपाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One can find bound people bound by bondage, but there is no way to escape. By associating with the unbound, one can be freed instantly.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बन्धे को बँनधा मिले, छूटे कौन उपाय।\nकर संगति निरबन्ध की, पल में लेय छुड़ाय।।१३३।।",
+    "translation": "One can find bound people bound by bondage, but there is no way to escape. By associating with the unbound, one can be freed instantly.",
+    "meaning": "बन्धन में बंधे हुए लोग बंधे रहते हैं, छुटने का कोई उपाय नहीं है। अलग और मुक्त लोगों की संगति से पल में मुक्ति प्राप्त की जा सकती है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि बंधन में बंधे हुए लोग बंधन से छुटकारा नहीं पा सकते। लेकिन यदि आप निरबंध और मुक्त लोगों की संगति करें, तो आप तुरंत मुक्त हो सकते हैं। यह संगति की शक्ति और सच्ची मुक्ति के महत्व को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

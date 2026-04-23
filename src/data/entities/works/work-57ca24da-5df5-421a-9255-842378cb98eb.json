@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57ca24da-5df5-421a-9255-842378cb98eb",
+  "name": "तत पाया तन बीसरया, जब मनि धरिया ध्‍यान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body was forgotten once the mind held meditation. Even the heat of austerity became cool, when the mind experienced the bath of contemplation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "तत पाया तन बीसरया, जब मनि धरिया ध्‍यान।\nतपनि गई सीतल भया, जब सुनि किया असनान।।१८११।।",
+    "translation": "The body was forgotten once the mind held meditation. Even the heat of austerity became cool, when the mind experienced the bath of contemplation.",
+    "meaning": "जब मन ने ध्यान को पकड़ा, तब शरीर भुला दिया गया। तपस्या की गर्मी भी ठंडी हो गई, जब मन ने ध्यान के स्नान का अनुभव किया।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जब व्यक्ति ध्यान में लीन हो जाता है, तो शरीर और बाहरी गर्मी को भूल जाता है। ध्यान की प्रक्रिया से मानसिक शांति मिलती है, जिससे तपस्या की गर्मी भी ठंडी हो जाती है। ध्यान का यह 'स्नान' आत्मिक शांति और संतोष का अहसास कराता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1801-to-1850.md",
+    "retrievedAt": "2026-01-04T19:05:58.623Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-afd144c7-5688-4045-ba98-bc5a72076328",
+  "name": "जेहि वन सिंध न संचरे, पक्षी नहिं उड़‍ि जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The forest where the ocean does not flow and birds do not fly, is like a forest of Kabir, immersed in void and meditation.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जेहि वन सिंध न संचरे, पक्षी नहिं उड़‍ि जाय।\nसो वन कबिरन्हि हींडिया, शून्‍य समाधि लगाय।।१५३६।।",
+    "translation": "The forest where the ocean does not flow and birds do not fly, is like a forest of Kabir, immersed in void and meditation.",
+    "meaning": "वह वन जहां समुद्र नहीं बहता और पक्षी भी नहीं उड़ते, वह कबीर का वन है, जो शून्यता और समाधि में डूबा हुआ है।",
+    "explanation": "कबीर इस दोहे में बताते हैं कि जिन स्थानों पर भौतिक जीवन की सामान्य गतिविधियाँ नहीं होतीं, वे साधना और आत्मा के गहरे अनुभव के लिए उपयुक्त होते हैं। ऐसे स्थान शून्यता और ध्यान में लीन होते हैं, और यही कबीर का ध्यान है। इन स्थलों पर केवल ध्यान और शांति की उपस्थिति होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.934Z"
+  }
+}

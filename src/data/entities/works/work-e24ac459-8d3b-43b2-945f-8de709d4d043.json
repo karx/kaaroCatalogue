@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e24ac459-8d3b-43b2-945f-8de709d4d043",
+  "name": "अजहूं तेरा सब मिटै, जो जग मानै हार",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even now you can overcome everything if you accept defeat in the world. If there is conflict in your house, burn it down and leave.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अजहूं तेरा सब मिटै, जो जग मानै हार।\nघर में झगरा होत है, सो घर डारो जार।।१०३५।।",
+    "translation": "Even now you can overcome everything if you accept defeat in the world. If there is conflict in your house, burn it down and leave.",
+    "meaning": "अब भी तुम सब कुछ जीत सकते हो, अगर तुम संसार में हार मान लेते हो। यदि तुम्हारे घर में झगड़ा हो रहा है, तो उसे जला दो और छोड़ दो।",
+    "explanation": "इस दोहे में कबीर कहते हैं कि यदि व्यक्ति संसार के झगड़ों और मोह-माया को छोड़ने का साहस करता है, तो वह अभी भी मुक्ति प्राप्त कर सकता है। घर का झगड़ा सांसारिक बंधनों और परेशानियों का प्रतीक है, और उसे जलाकर छोड़ देना यानी उससे मुक्त होना ही सच्चा मार्ग है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.164Z"
+  }
+}

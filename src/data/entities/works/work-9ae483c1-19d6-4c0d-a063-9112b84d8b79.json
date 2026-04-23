@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-9ae483c1-19d6-4c0d-a063-9112b84d8b79",
+  "name": "ishq minnat-e-kash-e-qarar nahin",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-faiz-ahmed-faiz"
+  },
+  "inLanguage": "Urdu",
+  "genre": "Ghazal",
+  "keywords": [
+    "Ghazal",
+    "Urdu Poetry",
+    "Rekhta"
+  ],
+  "source": {
+    "name": "Rekhta",
+    "url": "https://www.rekhta.org/ghazals/ishq-minnat-e-kash-e-qaraar-nahiin-faiz-ahmad-faiz-ghazals",
+    "retrievedAt": "2026-01-04T19:46:19.213Z"
+  },
+  "sameAs": [
+    "https://www.rekhta.org/ghazals/ishq-minnat-e-kash-e-qaraar-nahiin-faiz-ahmad-faiz-ghazals"
+  ],
+  "content": {
+    "roman": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nishq minnat-e-kash-e-qarār nahīñ\nhusn majbūr-e-intizār nahīñ\nterī ranjish kī intihā ma.alūm\nhasratoñ kā mirī shumār nahīñ\napnī nazreñ bikher de saaqī\nmai ba-andāza-e-ḳhumār nahīñ\nzer-e-lab hai abhī tabassum-e-dost\nmuntashir jalva-e-bahār nahīñ\napnī takmīl kar rahā huuñ maiñ\nvarna tujh se to mujh ko pyaar nahīñ\nchāra-e-intizār kaun kare\nterī nafrat bhī ustuvār nahīñ\n'faiz' zinda raheñ vo haiñ to sahī\nkyā huā gar vafā-shi.ār nahīñ\nishq minnat-e-kash-e-qarar nahin\nhusn majbur-e-intizar nahin\nteri ranjish ki intiha malum\nhasraton ka meri shumar nahin\napni nazren bikher de saqi\nmai ba-andaza-e-KHumar nahin\nzer-e-lab hai abhi tabassum-e-dost\nmuntashir jalwa-e-bahaar nahin\napni takmil kar raha hun main\nwarna tujh se to mujh ko pyar nahin\nchaara-e-intizar kaun kare\nteri nafrat bhi ustuwar nahin\n'faiz' zinda rahen wo hain to sahi\nkya hua gar wafa-shiar nahin",
+    "urdu": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nعشق منت کش قرار نہیں\nحسن مجبور انتظار نہیں\nتیری رنجش کی انتہا معلوم\nحسرتوں کا مری شمار نہیں\nاپنی نظریں بکھیر دے ساقی\nمے بہ اندازۂ خمار نہیں\nزیر لب ہے ابھی تبسم دوست\nمنتشر جلوۂ بہار نہیں\nاپنی تکمیل کر رہا ہوں میں\nورنہ تجھ سے تو مجھ کو پیار نہیں\nچارۂ انتظار کون کرے\nتیری نفرت بھی استوار نہیں\nفیضؔ زندہ رہیں وہ ہیں تو سہی\nکیا ہوا گر وفا شعار نہیں",
+    "hindi": "aaj ik aur baras biit gayā us ke baġhair\njis ke hote hue hote the zamāne mere\nइश्क़ मिन्नत-कश-ए-क़रार नहीं\nहुस्न मजबूर-ए-इंतिज़ार नहीं\nतेरी रंजिश की इंतिहा मालूम\nहसरतों का मिरी शुमार नहीं\nअपनी नज़रें बिखेर दे साक़ी\nमय ब-अंदाज़ा-ए-ख़ुमार नहीं\nज़ेर-ए-लब है अभी तबस्सुम-ए-दोस्त\nमुंतशिर जल्वा-ए-बहार नहीं\nअपनी तकमील कर रहा हूँ मैं\nवर्ना तुझ से तो मुझ को प्यार नहीं\nचारा-ए-इंतिज़ार कौन करे\nतेरी नफ़रत भी उस्तुवार नहीं\n'फ़ैज़' ज़िंदा रहें वो हैं तो सही\nक्या हुआ गर वफ़ा-शिआर नहीं",
+    "extracted": true,
+    "lastUpdated": "2026-01-04T19:50:36.792Z"
+  }
+}

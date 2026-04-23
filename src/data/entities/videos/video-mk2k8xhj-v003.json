@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk2k8xhj-v003",
+  "name": "Road Trips Are Overrated | Rohan Joshi | Wake N Bake",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-rohan-joshi"
+  },
+  "duration": "PT4M6S",
+  "embedUrl": "https://www.youtube.com/embed/A9yR451uf9A",
+  "contentUrl": "https://www.youtube.com/watch?v=A9yR451uf9A",
+  "uploadDate": "2020-01-17",
+  "thumbnailUrl": "https://i.ytimg.com/vi/A9yR451uf9A/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Everyone loves to talk about doing road trips from Mumbai to Goa. Except Rohan, who hates them.",
+  "channelTitle": "Rohan Joshi",
+  "aggregatorChannel": null
+}

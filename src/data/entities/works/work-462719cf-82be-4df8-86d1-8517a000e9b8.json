@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-462719cf-82be-4df8-86d1-8517a000e9b8",
+  "name": "रात गंवाई सोय कर, दिवस गंवायो खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Wasted the night in sleep, wasted the day in eating. The precious diamond of life is exchanged for a mere penny.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "रात गंवाई सोय कर, दिवस गंवायो खाय।\nहीरा जनम अमोल था, कोड़ी बदले जाय।।९२०।।",
+    "translation": "Wasted the night in sleep, wasted the day in eating. The precious diamond of life is exchanged for a mere penny.",
+    "meaning": "रात को सोने में बर्बाद किया, दिन को खाने में बर्बाद किया। जीवन का अमूल्य हीरा एक साधारण सिक्के में बदल गया।",
+    "explanation": "कबीर इस दोहे में समय के मूल्य को उजागर करते हैं। वे कहते हैं कि अगर हम अपने समय को सोने और खाने में बर्बाद करते हैं, तो हम अपने जीवन की अमूल्य संभावनाओं को खो देते हैं। जीवन एक हीरा है, जिसका सही उपयोग न करने पर वह एक साधारण वस्तु में बदल जाता है। कबीर का यह संदेश है कि हमें अपने समय का सही उपयोग करके जीवन की सच्ची मूल्यता को समझना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-901-to-950.md",
+    "retrievedAt": "2026-01-04T19:05:53.625Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1f9e09f1-8e6c-4972-a91a-7f93f2a8ca8e",
+  "name": "Raghuvaṃśa",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kalidasa"
+  },
+  "inLanguage": "Sanskrit",
+  "source": {
+    "name": "Wikipedia Infobox",
+    "url": "https://en.wikipedia.org/wiki/Raghuvaṃśa",
+    "retrievedAt": "2026-01-04T18:38:52.909Z"
+  }
+}

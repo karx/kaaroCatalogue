@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d0889839-4d19-4215-ba18-140e8bcfdd19",
+  "name": "अर्व खर्व लौ द्रव्‍य हैं, उदे अस्‍त लौं राज",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The riches and wealth of the world are fleeting, they rise and set like a kingdom. The greatness of devotion cannot be compared to these; what purpose do they serve?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "अर्व खर्व लौ द्रव्‍य हैं, उदे अस्‍त लौं राज।\nभक्ति महातम न तुले, ई सब कौने काज।।१४४२।।",
+    "translation": "The riches and wealth of the world are fleeting, they rise and set like a kingdom. The greatness of devotion cannot be compared to these; what purpose do they serve?",
+    "meaning": "दुनिया की धन-धरोहर अस्थायी है, यह राज की तरह उठती और गिरती है। भक्ति की महानता की तुलना इनसे नहीं की जा सकती; ये सब किस काम की हैं?",
+    "explanation": "कबीर इस दोहे में भक्ति की महानता और सांसारिक धन-सम्पत्ति की अस्थिरता की बात करते हैं। वे बताते हैं कि दुनिया की संपत्ति अस्थायी है, जबकि भक्ति की महिमा अमूल्य है। यह दोहा भक्ति की महत्वता को दर्शाता है और सांसारिक धन के महत्व की अस्थिरता को उजागर करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1401-to-1450.md",
+    "retrievedAt": "2026-01-04T19:05:56.367Z"
+  }
+}

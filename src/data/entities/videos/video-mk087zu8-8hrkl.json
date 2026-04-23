@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk087zu8-8hrkl",
+  "name": "Sir Return Hai | Stand Up Comedy | Biswa Kalyan Rath | Mood Kharaab",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-biswa-kalyan-rath"
+  },
+  "duration": "PT5M16S",
+  "embedUrl": "https://www.youtube.com/embed/cCdmLneRpe8",
+  "contentUrl": "https://www.youtube.com/watch?v=cCdmLneRpe8",
+  "uploadDate": "2023-05-11",
+  "thumbnailUrl": "https://i.ytimg.com/vi/cCdmLneRpe8/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "New special Mood Kharaab out on Prime Video, watch now!",
+  "channelTitle": "Biswa Kalyan Rath",
+  "aggregatorChannel": null
+}

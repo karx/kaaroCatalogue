@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-818ee14e-4592-4504-b443-8c0d79bc45f5",
+  "name": "मांनि महातम प्रेम रस, गरवातण गुण नेह",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Honor, greatness, love, and virtue—all are lost when one speaks of receiving something.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मांनि महातम प्रेम रस, गरवातण गुण नेह।\nए सबही अह लागया, जबहिं कह्या कुछ देह।।१८८१।।",
+    "translation": "Honor, greatness, love, and virtue—all are lost when one speaks of receiving something.",
+    "meaning": "सम्मान, महानता, प्रेम रस और गुणों का स्नेह—all खत्म हो जाते हैं, जब कोई कुछ पाने की बात करता है।",
+    "explanation": "इस दोहे में कबीरदास जी बताते हैं कि जब कोई व्यक्ति कुछ पाने या मांगने की इच्छा प्रकट करता है, तो उसके अंदर की महानता, प्रेम, और गुणों का स्नेह समाप्त हो जाता है। सच्चा प्रेम और स्नेह निस्वार्थ होता है, और जहां पाने की भावना होती है, वहां ये गुण खत्म हो जाते हैं। यह दोहा हमें सच्चे प्रेम और निस्वार्थता का महत्व समझाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.974Z"
+  }
+}

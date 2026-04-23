@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2dd7e9f8-441d-4282-a184-a139dd6367db",
+  "name": "चौहटे चिंतामंणि चढ़ी, हाडी मारत हाथि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The small gem of worry has risen, and the hand strikes the pot. Miran, be merciful to me; now I do not find anyone with me.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "चौहटे चिंतामंणि चढ़ी, हाडी मारत हाथि।\nमीरां मुझसूं मिहर करि, इब मिलौं न काहू साथि।।१७९८।।",
+    "translation": "The small gem of worry has risen, and the hand strikes the pot. Miran, be merciful to me; now I do not find anyone with me.",
+    "meaning": "चिंता का छोटा सा रत्न उठ गया है, और हाथ बर्तन को मारता है। मीरां, मुझ पर कृपा करो; अब मुझे कोई भी साथ नहीं मिल रहा है।",
+    "explanation": "इस दोहे में कबीर ने चिंता और आध्यात्मिक स्थिति की बात की है। उन्होंने दिखाया है कि चिंता जैसे छोटे से रत्न ने बड़ी समस्याएँ उत्पन्न कर दी हैं और अब उन्हें कोई भी साथ नहीं मिल रहा है। कबीर इस प्रकार आत्म-ज्ञान और अकेलेपन की स्थिति को प्रकट करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.357Z"
+  }
+}

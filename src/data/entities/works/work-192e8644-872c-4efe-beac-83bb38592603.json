@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-192e8644-872c-4efe-beac-83bb38592603",
+  "name": "जे काटौं तै डहडही, सींचौं तौ कुमिलाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "If you cut it, it will burn; if you water it, it will wither. The qualities of this fruitful vine are beyond description.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जे काटौं तै डहडही, सींचौं तौ कुमिलाइ।\nइस गुणवंती बेलि का, कछु गुंण कह्यां न जाइ।।२०३३।।",
+    "translation": "If you cut it, it will burn; if you water it, it will wither. The qualities of this fruitful vine are beyond description.",
+    "meaning": "अगर आप इसे काटेंगे तो जल जाएगी; अगर आप इसे पानी देंगे तो मुरझा जाएगी। इस गुणी बेल की विशेषताएँ शब्दों से बाहर हैं।",
+    "explanation": "इस दोहे में कबीर ने एक बेल के गुणों को दर्शाया है, जो न तो काटने पर काम की है और न ही पानी देने पर। यह दर्शाता है कि कुछ वस्तुओं की विशेषताएँ और प्रभाव शब्दों में नहीं समाते।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2001-to-2050.md",
+    "retrievedAt": "2026-01-04T19:05:59.809Z"
+  }
+}

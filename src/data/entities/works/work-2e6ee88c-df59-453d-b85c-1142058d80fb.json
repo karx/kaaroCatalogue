@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e6ee88c-df59-453d-b85c-1142058d80fb",
+  "name": "उदर समाता अन्न ले, तनहि समाता चीर",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Taking enough food for the stomach is fine, and covering the body with sufficient clothing is acceptable. One who does not gather excess is called a true renunciant.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "उदर समाता अन्न ले, तनहि समाता चीर।\nअधिकहिं संग्रह ना करै, तिसका नाम फकीर।।६४७।।",
+    "translation": "Taking enough food for the stomach is fine, and covering the body with sufficient clothing is acceptable. One who does not gather excess is called a true renunciant.",
+    "meaning": "पेट भरने के लिए आवश्यक अन्न लेना ठीक है, और शरीर को ढकने के लिए पर्याप्त वस्त्र लेना भी ठीक है। जो अधिक संग्रह नहीं करता, वह सच्चा फकीर कहलाता है।",
+    "explanation": "संत कबीर का कहना है कि आवश्यकताओं की पूर्ति के लिए लिया गया वस्त्र और भोजन स्वीकार्य है। सच्चा फकीर वह है जो आवश्यक से अधिक संग्रह नहीं करता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-601-to-650.md",
+    "retrievedAt": "2026-01-04T19:05:52.004Z"
+  }
+}

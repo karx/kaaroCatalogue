@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-b9d571db-2adb-42d1-926e-90ebb36c8577",
+  "name": "जब लग धर पर सीस है, शूर कहावै कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "As long as the head is on the ground, one is called a hero. When the head is broken while fighting, only then is one called a true warrior.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जब लग धर पर सीस है, शूर कहावै कोय।\nमाथा टूटै धर लरै, कमद कहावै सोय।।२१२१।।",
+    "translation": "As long as the head is on the ground, one is called a hero. When the head is broken while fighting, only then is one called a true warrior.",
+    "meaning": "जब तक सिर जमीन पर होता है, तब तक व्यक्ति को वीर कहा जाता है। जब सिर टूटता है लड़ाई के दौरान, तभी व्यक्ति को सच्चा योद्धा कहा जाता है।",
+    "explanation": "इस दोहे में कबीर ने वीरता और सच्चे योद्धा की पहचान को स्पष्ट किया है। एक व्यक्ति तब तक वीर माना जाता है जब तक वह संघर्ष करता रहता है। लेकिन जब उसका सिर लड़ाई के दौरान टूटता है, तो वह सच्चे योद्धा के रूप में पहचाना जाता है। यह दोहा वीरता की वास्तविकता और संघर्ष की गहराई को दर्शाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-2101-to-2150.md",
+    "retrievedAt": "2026-01-04T19:06:00.365Z"
+  }
+}

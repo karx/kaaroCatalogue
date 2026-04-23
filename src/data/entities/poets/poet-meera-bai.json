@@ -1,0 +1,30 @@
+{
+  "entityId": "poet-meera-bai",
+  "name": "Meera Bai",
+  "@type": "Person",
+  "knowsLanguage": "Rajasthani",
+  "era": "Bhakti",
+  "century": "16th Century",
+  "literaryMovement": "Madhurya Bhakti",
+  "titles": [
+    "Saint of Rajasthan"
+  ],
+  "keywords": [
+    "Padavali",
+    "Krishna",
+    "Feminist Resistance",
+    "Bridal Mysticism"
+  ],
+  "abstract": "A Rajput princess who defied royal conventions to worship Krishna. Her Padavalis express Madhurya Bhakti (bridal mysticism), rejecting her earthly husband for the divine Giridhara Gopala.",
+  "majorWorks": [
+    "Meera Padavali"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Meera"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Meera",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

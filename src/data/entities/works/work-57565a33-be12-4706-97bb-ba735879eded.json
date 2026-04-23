@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-57565a33-be12-4706-97bb-ba735879eded",
+  "name": "करक गड़न दुरजन बचन, रहै सन्‍त जन टारि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The harsh words of the wicked may prick, but the saints let them pass. Just as lightning strikes the ocean, but it cannot burn it.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "करक गड़न दुरजन बचन, रहै सन्‍त जन टारि।\nबिजुली परै समुद्र में, कहा सकेगी जारि।।९९८।।",
+    "translation": "The harsh words of the wicked may prick, but the saints let them pass. Just as lightning strikes the ocean, but it cannot burn it.",
+    "meaning": "दुराचारियों के कठोर शब्द चुभ सकते हैं, लेकिन संत उन्हें टाल देते हैं। जैसे बिजली समुद्र पर गिरती है, लेकिन उसे जला नहीं सकती।",
+    "explanation": "इस दोहे में कबीर दास जी संतों की सहनशीलता और दुष्टों के कठोर वचनों का प्रभाव न होने की बात करते हैं। वह कहते हैं कि दुष्टों के कठोर शब्द संतों को चुभ सकते हैं, लेकिन संत उन्हें नज़रअंदाज़ कर देते हैं, जैसे बिजली समुद्र पर गिरकर भी उसे जला नहीं सकती। यह दोहा हमें सहनशीलता और धैर्य की शिक्षा देता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-951-to-1000.md",
+    "retrievedAt": "2026-01-04T19:05:53.896Z"
+  }
+}

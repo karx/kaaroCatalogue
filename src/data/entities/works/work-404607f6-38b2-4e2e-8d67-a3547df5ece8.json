@@ -1,0 +1,15 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-404607f6-38b2-4e2e-8d67-a3547df5ece8",
+  "name": "Yama",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-mahadevi-varma"
+  },
+  "inLanguage": "Hindi",
+  "source": {
+    "name": "KaaroCatalogue Archive",
+    "url": "https://en.wikipedia.org/wiki/Yama",
+    "retrievedAt": "2026-01-04T18:39:27.641Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f8bce594-160d-4492-8650-bcee8cc2d407",
+  "name": "हिलगी भाल शरीर महं, तीर रहा है टूट",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The body may be trembling, and the arrow may be breaking. Without the magnet, stones cannot be released, even a crore stones are bound.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "हिलगी भाल शरीर महं, तीर रहा है टूट।\nचुम्‍बक बिनु निकसै नहीं, कोटि पाहन गौ छूट।।१७१६।।",
+    "translation": "The body may be trembling, and the arrow may be breaking. Without the magnet, stones cannot be released, even a crore stones are bound.",
+    "meaning": "शरीर हिलता हो, और बाण टूट रहा हो। चुम्बक के बिना पत्थर नहीं निकलते, एक करोड़ पत्थर भी बंधे रहते हैं।",
+    "explanation": "कबीर इस दोहे में आंतरिक वास्तविकता और बाधाओं की बात करते हैं। उन्होंने कहा कि बिना सही तत्व के, बड़ी मात्रा में भी बंधनों को तोड़ा नहीं जा सकता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1701-to-1750.md",
+    "retrievedAt": "2026-01-04T19:05:58.071Z"
+  }
+}

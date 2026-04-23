@@ -1,0 +1,29 @@
+{
+  "entityId": "poet-sri-sri",
+  "name": "Sri Sri",
+  "@type": "Person",
+  "knowsLanguage": "Telugu",
+  "era": "Modern",
+  "century": "20th Century",
+  "literaryMovement": "Progressive",
+  "titles": [
+    "Mahakavi"
+  ],
+  "keywords": [
+    "Maha Prasthanam",
+    "Marxist",
+    "Free Verse"
+  ],
+  "abstract": "The Mahakavi of the progressive movement. His Maha Prasthanam introduced free verse and Marxist thought to Telugu poetry, declaring 'Another world is calling.'",
+  "majorWorks": [
+    "Maha Prasthanam"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Sri_Sri_(writer)"
+  ],
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sri_Sri_(writer)",
+    "retrievedAt": "2026-01-04T18:42:04.063Z"
+  }
+}

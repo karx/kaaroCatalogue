@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-80451203-055e-4c06-871f-6c654137fc23",
+  "name": "मन के हारै हार है, मन के जीते जीत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Victory and defeat are determined by the mind; the mind’s defeat is defeat, and the mind’s victory is victory. Kabir says, one finds the guru through the mind’s perception.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मन के हारै हार है, मन के जीते जीत।\nकहैं कबीर गुरु पाइये, मन ही के प्रतीत।।११६०।।",
+    "translation": "Victory and defeat are determined by the mind; the mind’s defeat is defeat, and the mind’s victory is victory. Kabir says, one finds the guru through the mind’s perception.",
+    "meaning": "जीत और हार मन द्वारा तय होती है; मन की हार हार है और मन की जीत जीत है। कबीर कहते हैं, गुरु की प्राप्ति मन की भावना द्वारा होती है।",
+    "explanation": "इस दोहे में कबीर ने मन की भूमिका को प्रमुख बताया है। मन ही हमें हार और जीत का अनुभव कराता है। यदि मन हार जाता है, तो हम हार मान लेते हैं, और यदि मन जीतता है, तो हम जीत का अनुभव करते हैं। इसके अलावा, कबीर यह भी बताते हैं कि गुरु की प्राप्ति भी मन की जागरूकता और समझ के माध्यम से होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.969Z"
+  }
+}

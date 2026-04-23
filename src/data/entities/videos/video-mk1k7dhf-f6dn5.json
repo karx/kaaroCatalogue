@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7dhf-f6dn5",
+  "name": "Gareeb bachcha",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-samay-raina"
+  },
+  "duration": "PT49S",
+  "embedUrl": "https://www.youtube.com/embed/JoouAd4eXgE",
+  "contentUrl": "https://www.youtube.com/watch?v=JoouAd4eXgE",
+  "uploadDate": "2022-11-10",
+  "thumbnailUrl": "https://i.ytimg.com/vi/JoouAd4eXgE/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Samay Raina",
+  "aggregatorChannel": null
+}

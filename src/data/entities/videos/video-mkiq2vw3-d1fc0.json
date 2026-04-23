@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mkiq2vw3-d1fc0",
+  "name": "When you repeat one joke 😁 #standupcomedy",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-atul-khatri"
+  },
+  "duration": "PT59S",
+  "embedUrl": "https://www.youtube.com/embed/cM4KO2SRuCM",
+  "contentUrl": "https://www.youtube.com/watch?v=cM4KO2SRuCM",
+  "uploadDate": "2025-04-19",
+  "thumbnailUrl": "https://i.ytimg.com/vi/cM4KO2SRuCM/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "",
+  "channelTitle": "Atul Khatri",
+  "aggregatorChannel": null
+}

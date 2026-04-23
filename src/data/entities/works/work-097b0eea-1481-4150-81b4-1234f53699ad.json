@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-097b0eea-1481-4150-81b4-1234f53699ad",
+  "name": "कबीर हरदी पीयरी, चूना ऊजल भाइ",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says that the saffron is yellow and the lime is bright. Those who meet Ram with love, forsake the world’s colors.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर हरदी पीयरी, चूना ऊजल भाइ।\nराम सनेही यूं मिले, दुन्‍यूं बरन गंवाइ।।१८५३।।",
+    "translation": "Kabir says that the saffron is yellow and the lime is bright. Those who meet Ram with love, forsake the world’s colors.",
+    "meaning": "कबीर कहते हैं कि केसर पीला है और चूना उज्ज्वल है। जो लोग राम से प्रेम के साथ मिलते हैं, वे दुनिया के रंगों को छोड़ देते हैं।",
+    "explanation": "इस दोहे में कबीर ने दिव्य प्रेम और सांसारिक रंगों के त्याग की बात की है। वे बताते हैं कि जिन लोगों का प्रेम राम के प्रति सच्चा है, वे संसार की भौतिक रंगीनियों को त्याग देते हैं। यह दोहा यह दिखाता है कि वास्तविक प्रेम और भक्ति संसार की भौतिक वस्तुओं से परे होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1851-to-1900.md",
+    "retrievedAt": "2026-01-04T19:05:58.967Z"
+  }
+}

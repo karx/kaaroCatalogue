@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-22a4be1a-bd5b-4d6e-ab99-f9e0f8ffce40",
+  "name": "पात झरन्‍ता देखि के, हंसती कूपलियां",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Seeing the leaves fall, the buds laugh. We are leaving, and you will follow, dear buds.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "पात झरन्‍ता देखि के, हंसती कूपलियां।\nहम चाले तुम चालियो, धारी बापलियां।।१०४३।।",
+    "translation": "Seeing the leaves fall, the buds laugh. We are leaving, and you will follow, dear buds.",
+    "meaning": "पत्तों को गिरते देखकर, कोंपलें हंस रही हैं। हम चले जा रहे हैं, और तुम्हें भी जाना होगा, प्यारी कोंपलें।",
+    "explanation": "इस दोहे में कबीर जीवन के चक्र का वर्णन करते हैं। वे कहते हैं कि जब पुराने पत्ते गिरते हैं, तो नई कोंपलें उनके स्थान पर आती हैं और हंसती हैं, लेकिन उन्हें भी एक दिन गिरना है। यह जीवन के चक्र का प्रतीक है, जहां पुरानी पीढ़ी जाती है और नई पीढ़ी उसका स्थान लेती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1001-to-1050.md",
+    "retrievedAt": "2026-01-04T19:05:54.165Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k7gns-biva3",
+  "name": "Crowd work #funnyvideo #standupcomedy #dating",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-prashasti-singh"
+  },
+  "duration": "PT59S",
+  "embedUrl": "https://www.youtube.com/embed/0avWbloS5IQ",
+  "contentUrl": "https://www.youtube.com/watch?v=0avWbloS5IQ",
+  "uploadDate": "2022-12-23",
+  "thumbnailUrl": "https://i.ytimg.com/vi/0avWbloS5IQ/hqdefault.jpg",
+  "genre": "Crowd Work",
+  "description": "",
+  "channelTitle": "Prashasti Singh",
+  "aggregatorChannel": null
+}

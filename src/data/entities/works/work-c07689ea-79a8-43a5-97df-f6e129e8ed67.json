@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-c07689ea-79a8-43a5-97df-f6e129e8ed67",
+  "name": "जाहि खोजत कल्‍पे बीते, घटहिं में सो मूल",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "What you search for over ages, is within your own heart. Due to pride and arrogance, it feels far away.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जाहि खोजत कल्‍पे बीते, घटहिं में सो मूल।\nबाढे गर्व गुमान ते, ताते परिगो दूर।।१५२५।।",
+    "translation": "What you search for over ages, is within your own heart. Due to pride and arrogance, it feels far away.",
+    "meaning": "जिसे आप युगों से खोजते हैं, वह आपके अपने हृदय में है। लेकिन गर्व और अहंकार के कारण, वह आपसे दूर लगता है।",
+    "explanation": "इस दोहे में कबीर बताते हैं कि जिसे हम बाहर खोजने की कोशिश करते हैं, वह वास्तव में हमारे भीतर ही मौजूद होता है। परंतु, हमारा गर्व और अहंकार हमें उस सत्य से दूर कर देता है। आत्म-अवलोकन और विनम्रता ही हमें उस परम सत्य की प्राप्ति करवा सकती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1501-to-1550.md",
+    "retrievedAt": "2026-01-04T19:05:56.931Z"
+  }
+}

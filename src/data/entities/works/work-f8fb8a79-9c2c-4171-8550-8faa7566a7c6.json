@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-f8fb8a79-9c2c-4171-8550-8faa7566a7c6",
+  "name": "मनुवा तू क्‍यों बावरा, तेरी सुध क्‍यों खोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "O mind, why are you so foolish? Why have you lost your awareness? Death stands above your head, and you are not prepared.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मनुवा तू क्‍यों बावरा, तेरी सुध क्‍यों खोय।\nमौत आय सिर पर खड़ी, ढलते बेर न होय।।११४२।।",
+    "translation": "O mind, why are you so foolish? Why have you lost your awareness? Death stands above your head, and you are not prepared.",
+    "meaning": "हे मन, तू क्यों बावरा है? तेरी सुध क्यों खोई हुई है? मौत तेरे सिर पर खड़ी है, और तू तैयार नहीं है।",
+    "explanation": "इस दोहे में कबीर ने मनुष्य के मन की मूर्खता और मृत्यु के प्रति असावधानी को उजागर किया है। उन्होंने कहा कि मनुष्य मृत्यु के समीप होने के बावजूद भी अपनी अव्यवस्थितता और चेतना की कमी से ग्रस्त रहता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1101-to-1150.md",
+    "retrievedAt": "2026-01-04T19:05:54.706Z"
+  }
+}

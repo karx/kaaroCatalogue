@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-ebfa847d-a117-4da5-abd9-268e64377d40",
+  "name": "सहकामी सुमिरन करै, पावै उत्तम धाम",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One who remembers with a desire for reward attains the highest abode. One who remembers without desire attains the unwavering Ram.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "सहकामी सुमिरन करै, पावै उत्तम धाम।\nनिहकामी सुमिरन करै, पावै अविचल राम।।७७०।।",
+    "translation": "One who remembers with a desire for reward attains the highest abode. One who remembers without desire attains the unwavering Ram.",
+    "meaning": "जो इच्छाओं के साथ स्मरण करता है, वह उत्तम धाम प्राप्त करता है। जो निराशा के बिना स्मरण करता है, वह अविचल राम प्राप्त करता है।",
+    "explanation": "इस दोहे में कबीर ने कहा है कि इच्छाओं और लाभ की आशा के साथ स्मरण करने वाला व्यक्ति उच्च स्थान को प्राप्त करता है, लेकिन जो बिना किसी इच्छाओं के सच्चे मन से स्मरण करता है, वह स्थिर और अविचल राम को प्राप्त करता है। यह दोहा भक्ति के विभिन्न स्तरों की ओर इशारा करता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-751-to-800.md",
+    "retrievedAt": "2026-01-04T19:05:52.815Z"
+  }
+}

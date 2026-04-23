@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-ml704iqo-9kjnj",
+  "name": "Upfront Comedy at Melbourne International Comedy Festival 2018| Aditi Mittal",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-ml704h1b-1ytkm"
+  },
+  "duration": "PT6M4S",
+  "embedUrl": "https://www.youtube.com/embed/Q9m5sZ_PG8k",
+  "contentUrl": "https://www.youtube.com/watch?v=Q9m5sZ_PG8k",
+  "uploadDate": "2018-05-03",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Q9m5sZ_PG8k/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Aditi Mittal's set for UPFRONT COMEDY on ABC Australia at Melbourne International Comedy Festival 2018. Recorded Melbourne International Comedy Festival’s Upfront, for ABCTV",
+  "channelTitle": "Aditi Mittal",
+  "aggregatorChannel": null
+}

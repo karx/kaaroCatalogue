@@ -1,0 +1,18 @@
+{
+  "@type": "VideoObject",
+  "videoId": "video-mk1k73qj-zjlfm",
+  "name": "The Writers Room | Episode 1 | Ft. Vikramaditya Motwane & Avinash Sampath",
+  "actor": {
+    "@type": "Person",
+    "@id": "comedian-sumukhi-suresh"
+  },
+  "duration": "PT41M51S",
+  "embedUrl": "https://www.youtube.com/embed/O-8cwIKyPKY",
+  "contentUrl": "https://www.youtube.com/watch?v=O-8cwIKyPKY",
+  "uploadDate": "2024-11-24",
+  "thumbnailUrl": "https://i.ytimg.com/vi/O-8cwIKyPKY/hqdefault.jpg",
+  "genre": "Clip",
+  "description": "Welcome to The Writers Room where all things writing are spoken about. \n\nIn the first episode, you hear the writers of CTRL-  Vikramaditya Motwane, Avinash Sampath and Sumukhi Suresh talk about what went behind writing the movie, the bottomless pit of writing as a skill and the trauma of networking.",
+  "channelTitle": "Sumukhi Suresh",
+  "aggregatorChannel": null
+}

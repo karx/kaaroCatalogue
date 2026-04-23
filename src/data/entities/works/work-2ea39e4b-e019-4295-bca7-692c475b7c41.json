@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2ea39e4b-e019-4295-bca7-692c475b7c41",
+  "name": "कबीर माया डाकिनी, सब काह् को खाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, illusion is like a witch that consumes everyone. Its fangs are like sins, and it approaches even saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर माया डाकिनी, सब काह् को खाय।\nदांत उपारुं पापिनी, सन्‍तो नियरै जाय।।११९९।।",
+    "translation": "Kabir says, illusion is like a witch that consumes everyone. Its fangs are like sins, and it approaches even saints.",
+    "meaning": "कबीर कहते हैं, माया एक डाकिनी की तरह होती है जो सभी को खा जाती है। इसके दांत पाप के समान होते हैं, और यह संतों के पास भी जाती है।",
+    "explanation": "इस दोहे में कबीर ने माया की तुलना एक खतरनाक डाकिनी से की है जो सभी को निगल जाती है। माया के दांत पापों के समान होते हैं, और यह संतों को भी अपने प्रभाव में लाने की कोशिश करती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1151-to-1200.md",
+    "retrievedAt": "2026-01-04T19:05:54.976Z"
+  }
+}

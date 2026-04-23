@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-6803989b-f1ba-4f1d-93a7-395aa75fa5ac",
+  "name": "प्रेम प्रेम सब कोइ कहै, प्रेम न चीन्‍है कोय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Everyone speaks of love, but no one truly understands it. When one meets the true master, then only can love be understood.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "प्रेम प्रेम सब कोइ कहै, प्रेम न चीन्‍है कोय।\nजा मारण साहिब मिलै, प्रेम कहावै सोय।।८१३।।",
+    "translation": "Everyone speaks of love, but no one truly understands it. When one meets the true master, then only can love be understood.",
+    "meaning": "प्रेम प्रेम हर कोई कहता है, लेकिन सच्चे प्रेम को कोई नहीं जानता। जब सच्चे गुरु से मिलते हैं, तब ही प्रेम का वास्तविक अर्थ समझ में आता है।",
+    "explanation": "इस दोहे में कबीर ने प्रेम की वास्तविकता और उसके समझने की प्रक्रिया को स्पष्ट किया है। बहुत लोग प्रेम की बात करते हैं, लेकिन सच्चे प्रेम को समझना कठिन होता है। जब व्यक्ति सच्चे गुरु से मिलता है, तब ही उसे प्रेम की वास्तविकता का अनुभव होता है और वह प्रेम को सही मायनों में समझ पाता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.078Z"
+  }
+}

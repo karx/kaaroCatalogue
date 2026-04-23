@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-00fac203-5e6f-4bef-a93e-1cbca367e29f",
+  "name": "काहु जुगति ना जानिया, किहि बिधि बचै सुखेत",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Without knowing the right method, how can one attain happiness? There is neither devotion, nor humility, nor association with saints.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काहु जुगति ना जानिया, किहि बिधि बचै सुखेत।\nनहिं बंदगी नहिं दीनता, नहिं साधु संग होत।।१२१६।।",
+    "translation": "Without knowing the right method, how can one attain happiness? There is neither devotion, nor humility, nor association with saints.",
+    "meaning": "सही विधि के बिना, कोई भी सुख प्राप्त कैसे कर सकता है? न तो भक्ति है, न ही विनम्रता है, और न ही संतों का संग है।",
+    "explanation": "इस दोहे में कबीर ने सही साधना की विधि के बिना सुख प्राप्ति की कठिनाई को व्यक्त किया है। भक्ति, विनम्रता, और संतों का संग इन सभी के बिना, सही मार्ग पर चलना और सुख प्राप्त करना कठिन होता है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1201-to-1250.md",
+    "retrievedAt": "2026-01-04T19:05:55.269Z"
+  }
+}

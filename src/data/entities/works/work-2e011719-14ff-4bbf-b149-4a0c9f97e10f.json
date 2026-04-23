@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-2e011719-14ff-4bbf-b149-4a0c9f97e10f",
+  "name": "जो तू परा है फंद में, निकसेगा कब अंध",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "When you are trapped in the snare, when will you escape, O blind one? The intoxication of illusion has consumed you; do not forget, O foolish one.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "जो तू परा है फंद में, निकसेगा कब अंध।\nमाया मद तोकूं चढ़ा, मत भूले मतिमंद।।८४७।।",
+    "translation": "When you are trapped in the snare, when will you escape, O blind one? The intoxication of illusion has consumed you; do not forget, O foolish one.",
+    "meaning": "जब आप जाल में फंसे हैं, आप कब निकलेंगे, हे अंधे? माया के मद ने आपको चढ़ा दिया है; मत भूलें, हे मूर्ख।",
+    "explanation": "इस दोहे में कबीर ने माया (भ्रम) के जाल में फंसे हुए व्यक्ति को चेताया है। उन्होंने इस बात की ओर इशारा किया है कि जब व्यक्ति माया के मद में अंधा हो जाता है, तो वह सच्चाई को भूल जाता है। यह दोहा हमें अपने भ्रम और माया के प्रभाव से जागरूक रहने की सलाह देता है ताकि हम आत्मज्ञान की ओर बढ़ सकें।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-801-to-850.md",
+    "retrievedAt": "2026-01-04T19:05:53.082Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1340ae2c-a543-4b72-a87f-137f2c1733b3",
+  "name": "कबिरा, यह तन जात है, सके तो ठौर लगा",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, this body is transient; if possible, find a place of refuge. Serve the saints and sing the praises of the Lord.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबिरा, यह तन जात है, सके तो ठौर लगा।\nकहि सेवा कर साधु की, कहि गोविंद गुण गा।।६५।।",
+    "translation": "Kabir says, this body is transient; if possible, find a place of refuge. Serve the saints and sing the praises of the Lord.",
+    "meaning": "कबीर कहते हैं, यह शरीर नाशवान है; यदि संभव हो तो एक स्थिर स्थान खोजो। साधुओं की सेवा करो और भगवान की गुणगान करो।",
+    "explanation": "इस दोहे में कबीर ने जीवन की अस्थिरता की बात की है और सलाह दी है कि साधु की सेवा करके और भगवान की भक्ति करके स्थिरता प्���ाप्त की जा सकती है। यह तन नष्ट होने वाला है, इसलिए ध्यान और सेवा में लगना चाहिए।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-51-to-100.md",
+    "retrievedAt": "2026-01-04T19:05:49.059Z"
+  }
+}

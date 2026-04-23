@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-52a5c2a5-c1d9-4f44-8ad9-9462e31d362e",
+  "name": "मूँड़ मुड़ाये हरि मिले, सब कोई लेय मुड़ाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Turning around to meet the Lord is futile; everyone just turns around. Repeated turning will not lead the sheep to heaven.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "मूँड़ मुड़ाये हरि मिले, सब कोई लेय मुड़ाय।\nबार-बार के मुड़ते, भेड़ न बैकुण्ठ जाय।।१३५।।",
+    "translation": "Turning around to meet the Lord is futile; everyone just turns around. Repeated turning will not lead the sheep to heaven.",
+    "meaning": "भगवान से मिलने के लिए बार-बार मुड़ना व्यर्थ है; सभी केवल मुड़ते ही रहते हैं। बार-बार के मुड़ने से भेड़ बैकुण्ठ नहीं जा सकती।",
+    "explanation": "इस दोहे में कबीर यह कह रहे हैं कि भगवान से मिलने के लिए केवल बाहरी क्रियाओं और बार-बार पलटे जाने से कुछ नहीं होगा। जैसे भेड़ अपने मार्ग को बार-बार बदलती रहती है, वैसे ही बार-बार मुड़ना या दिशा बदलना सच्चे मोक्ष की प्राप्ति में सहायक नहीं है। इसके लिए गहरी आस्था और साधना की आवश्यकता होती है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-101-to-150.md",
+    "retrievedAt": "2026-01-04T19:05:49.335Z"
+  }
+}

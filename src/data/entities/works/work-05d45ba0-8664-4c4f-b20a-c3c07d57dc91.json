@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-05d45ba0-8664-4c4f-b20a-c3c07d57dc91",
+  "name": "बिरह भुंवगम पैसि करि, किया कलेजै घाव",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "The sting of separation creates wounds in the heart. A true saint does not bend or break, they accept whatever comes their way.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "बिरह भुंवगम पैसि करि, किया कलेजै घाव।\nसाधू अंग न मोड़ही, ज्‍यूं भावै त्‍यूं खाव।।१७५४।।",
+    "translation": "The sting of separation creates wounds in the heart. A true saint does not bend or break, they accept whatever comes their way.",
+    "meaning": "बिछड़न की पीड़ा दिल में घाव पैदा करती है। एक सच्चा साधू न तो झुकता है और न ही टूटता है, जो भी आता है उसे स्वीकार करता है।",
+    "explanation": "कबीर इस दोहे में separation के घाव और सच्चे साधू की स्वाभाविकता की बात करते हैं। उन्होंने कहा कि सच्चे साधू हर परिस्थिति को बिना टूटे स्वीकार करते हैं।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1751-to-1800.md",
+    "retrievedAt": "2026-01-04T19:05:58.344Z"
+  }
+}

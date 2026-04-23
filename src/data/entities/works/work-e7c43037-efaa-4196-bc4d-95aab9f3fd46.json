@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-e7c43037-efaa-4196-bc4d-95aab9f3fd46",
+  "name": "कबीर दुबिधा दूरि करि, एक अंग है लागि",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Kabir says, cast away doubt and focus on the One. Both cold and intense heat are forms of fire.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कबीर दुबिधा दूरि करि, एक अंग है लागि।\nयहु सीतल बहु तपति है, दोऊ कहिये आगि।।२३०।।",
+    "translation": "Kabir says, cast away doubt and focus on the One. Both cold and intense heat are forms of fire.",
+    "meaning": "कबीर कहते हैं, संदेह को दूर करके एक लक्ष्य पर ध्यान केंद्रित करो। ठंड और तीव्र गर्मी दोनों ही आग के रूप हैं।",
+    "explanation": "इस दोहे में कबीर संदेह (दुविधा) को त्यागकर एक परमात्मा पर ध्यान लगाने की बात कहते हैं। वे बताते हैं कि चाहे ठंड हो या गर्मी, दोनों ही अपने आप में आग के रूप हैं। इसी तरह, संसार की विभिन्न परिस्थितियों में उलझने के बजाय हमें एक परमात्मा पर ध्यान केंद्रित करना चाहिए, क्योंकि वही हमारी असली शरण है।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-201-to-250.md",
+    "retrievedAt": "2026-01-04T19:05:49.859Z"
+  }
+}

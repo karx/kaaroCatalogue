@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-d9f199b9-1d35-4492-88d2-7b2638f1d558",
+  "name": "कृष्‍ण समीपी पांडवा, गले हिमालय जाय",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "Even though the Pandavas were close to Krishna, they still went to the Himalayas. When iron meets the philosopher's stone, why would it eat rust?",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "कृष्‍ण समीपी पांडवा, गले हिमालय जाय।\nलोहा को पारस मिले, तो काहे काई खाय।।१४८५।।",
+    "translation": "Even though the Pandavas were close to Krishna, they still went to the Himalayas. When iron meets the philosopher's stone, why would it eat rust?",
+    "meaning": "पांडव, जो कृष्ण के समीप थे, फिर भी हिमालय की ओर चले गए। जब लोहे को पारस मिल जाता है, तो वह जंग क्यों खाएगा?",
+    "explanation": "इस दोहे में कबीर बताते हैं कि सच्चे गुरु या भगवान के साथ होने के बावजूद जीवन में कठिनाइयों का सामना करना पड़ता है। जैसे पांडव भगवान कृष्ण के निकट होते हुए भी हिमालय की यात्रा पर गए, वैसे ही जब लोहे को पारस पत्थर मिल जाता है, तो उसे जंग नहीं लगता। इसका तात्पर्य है कि जब व्यक्ति सच्चे ज्ञान या ईश्वर से जुड़ जाता है, तो उसे माया या अज्ञान का प्रभाव नहीं होता।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-1451-to-1500.md",
+    "retrievedAt": "2026-01-04T19:05:56.660Z"
+  }
+}

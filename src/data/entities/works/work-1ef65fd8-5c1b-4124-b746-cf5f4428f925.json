@@ -1,0 +1,31 @@
+{
+  "@type": "CreativeWork",
+  "workId": "work-1ef65fd8-5c1b-4124-b746-cf5f4428f925",
+  "name": "काचा सेती मति मिलै, पाका सेती बान",
+  "author": {
+    "@type": "Person",
+    "@id": "poet-kabir"
+  },
+  "inLanguage": "Hindi",
+  "genre": "Doha",
+  "dateCreated": "15th Century",
+  "abstract": "One gains intellect with raw (imperfect) means and skill with mature (perfect) methods. Associating with raw means results in loss of body and wealth.",
+  "keywords": [
+    "Doha",
+    "Bhakti Movement",
+    "Kabir Ke Dohe",
+    "Wisdom",
+    "Spirituality"
+  ],
+  "content": {
+    "original": "काचा सेती मति मिलै, पाका सेती बान।\nकाचा सेती मिलत ही, है तन धन की हान।।३८५।।",
+    "translation": "One gains intellect with raw (imperfect) means and skill with mature (perfect) methods. Associating with raw means results in loss of body and wealth.",
+    "meaning": "कच्चे (अपूर्ण) साधनों से बुद्धि प्राप्त होती है और पके (पूर्ण) तरीकों से कौशल मिलता है। कच्चे साधनों के साथ मिलना शरीर और धन की हानि का कारण बनता है।",
+    "explanation": "इस दोहे में कबीर दास जी ने कच्चे और पके साधनों के बीच अंतर को स्पष्ट किया है। वे बताते हैं कि कच्चे या अस्थिर साधनों से केवल बुद्धि प्राप्त होती है, जबकि परिपक्व और सही तरीकों से कौशल और क्षमता मिलती है। कच्चे साधनों के साथ संपर्क रखने से व्यक्ति के शरीर और धन की हानि हो सकती है। इसका तात्पर्य है कि हमें हमेशा परिपक्व और सही साधनों के साथ जुड़कर ही सही परिणाम प्राप्त करने चाहिए, जिससे हमारी मानसिक और भौतिक स्थिति में सुधार हो सके।"
+  },
+  "source": {
+    "name": "vijayhardaha/kabir-ke-dohe (GitHub)",
+    "url": "https://github.com/vijayhardaha/kabir-ke-dohe/blob/master/docs/collections/collection-351-to-400.md",
+    "retrievedAt": "2026-01-04T19:05:50.652Z"
+  }
+}
